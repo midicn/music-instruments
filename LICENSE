@@ -1,0 +1,46 @@
+# 内容许可 / Content Licence
+
+本仓库中全部文字内容（`*.md`）均采用
+**Creative Commons Attribution 4.0 International (CC BY 4.0)** 许可。
+
+    midicn 乐器图鉴 © 2026 midicn contributors, licensed CC BY 4.0
+    https://creativecommons.org/licenses/by/4.0/
+
+你可以自由**复制、分发、改写、翻译、演绎，包括商业用途**，
+唯一条件是**署名**（注明来源为 midicn，并给出
+<https://inst.midicn.com/> 链接）。无其他限制。
+
+许可全文：<https://creativecommons.org/licenses/by/4.0/legalcode.zh-hans>
+
+---
+
+## Scope / 适用范围
+
+**CC BY 4.0 applies to all original text in this repository** —— 每条条目的
+标题、摘要、正文、图内标注与图题（中英双语均为原创撰写）。
+
+- 参考源仅用于核查事实，**未采用任何来源的句式**（尤其未使用维基百科文本）
+- 图表均为**自绘 SVG**（外形图与内部剖面图为代码绘制的矢量路径，音域图由构建器生成），
+  不使用实拍照片
+- 音域数据（各件乐器的实音/记谱音域）取自通行的乐器学资料，属**事实性数据**
+
+## 曲目数据 / Musical material
+
+条目中引用的**曲目**（`track-id` 形式）来自
+[midicn-lib](https://lib.midicn.com/)，**不由本仓库授权**。
+每首曲目保留其上游来源的许可，逐曲记录于该数据集的 `l` 字段。
+本仓对这些素材不主张任何权利，也无权为其另行授权。
+
+## 音色数据 / SoundFont
+
+页面上的音色试听用到两份素材，均**不由本仓库授权**：
+
+- **GeneralUser GS**（S. Christian Collins）—— 由
+  [midicn-lib](https://lib.midicn.com/soundfonts.html) 按作者许可自备本地副本分发，
+  本仓不重新授权、也不转发该文件
+- **实时合成音色** —— 由本站代码在浏览器内实时生成，零采样素材
+
+## 站点与代码 / Site & code
+
+站点产物（HTML/CSS/JavaScript）见 [`midicn/inst`](https://github.com/midicn/inst)，
+其许可说明见该仓 `LICENSE`。

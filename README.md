@@ -9,10 +9,18 @@
 
 | 目录即文件 | 说明 |
 |---|---|
-| `<slug>.md` | 一个条目（如 `interval.md` → <https://inst.midicn.com/interval/>） |
+| `<slug>.md` | 一个条目（如 `violin.md` → <https://inst.midicn.com/violin/>） |
 
-条目内含 front-matter（标题 / 摘要 / 分类 / 双语字段）与正文。
+条目内含 front-matter（标题 / 摘要 / 分类 / 双语字段 / 可播实例）与正文。
 正文用 `::: zh` 与 `::: en` 两个区块承载**中英双语**，两者**同步维护**。
+
+正文里有三种**参数化**围栏，由构建器展开 —— 所以本仓里看不到大段 SVG 坐标：
+
+| 围栏 | 作用 |
+|---|---|
+| ` ```svg ` | 自绘的**外形图**与**内部剖面图**（中英各一份，图内文字是语言的） |
+| ` ```range ` | **音域图**：只写音域数据（如 `"G3–E7"`），SVG 由构建器按统一的键盘几何生成，于是各件乐器可以纵向对照 |
+| ` ```audiolab ` | **听辨件**：音色试听。分两级 —— GM 采样音色（取自 lib 站的音色库）/ 本机实时合成 |
 
 ## 授权
 
@@ -29,7 +37,12 @@
 | 本仓（内容源） | `midicn/music-instruments` |
 | 站点产物 | [`midicn/inst`](https://github.com/midicn/inst) |
 | 数据集（MIDI 索引） | [`midicn/midi-library`](https://github.com/midicn/midi-library) |
+| 音色库（试听用的采样音色） | [`midicn/music-soundfonts`](https://github.com/midicn/music-soundfonts) |
 
-## 说明
+## 反馈
 
-本仓由 midicn 的内容生产流程维护，**不是**手工逐条上传 —— 内容在内核工作区撰写与校验（七关强制门）后同步至此。
+发现事实错误、图示问题，或想补充某件乐器，欢迎在
+[Issues](https://github.com/midicn/music-instruments/issues) 提出 ——
+请尽量给出可核查的依据（制琴数据、乐器学词典、乐谱等）。
+
+本仓由 midicn 的内容生产流程维护，**不是**手工逐条上传。
