@@ -263,7 +263,7 @@ a colour between the two instruments — exactly what Wagner wanted.
     <text x="180" y="81" text-anchor="end" fill="#5B7FA8">Horn-type funnel mouthpiece</text>
     <text x="180" y="199" text-anchor="end">Coiled conical body</text>
     <text x="180" y="339" text-anchor="end" fill="#E07A3F">Four rotary valves</text>
-    <text x="492" y="127">Tuba-style bell (facing up)</text>
+    <text x="492" y="127">Tuba bell (upward)</text>
   </g>
   <text x="20" y="352" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">A horn's mouthpiece with a tuba's body and bell — parts of two instruments joined into one new colour.</text>
 </svg>

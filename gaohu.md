@@ -1,7 +1,7 @@
 ---
 id: gaohu
 site: inst
-cat: I8
+cat: I9
 title: 高胡
 title_en: Gaohu
 summary: 它把整支乐队从"硬"弹成了"软"

@@ -235,7 +235,7 @@ vibration modes more "regularly" than a solid stick, so a **sense of pitch (not 
     <text x="180" y="147" text-anchor="end" fill="#E07A3F">Side slot (the opening)</text>
     <text x="180" y="217" text-anchor="end">Stick or hard mallet</text>
     <text x="492" y="69">Used in pairs</text>
-    <text x="492" y="203" fill="#5B7FA8">two blocks → two pitches</text>
+    <text x="492" y="203" fill="#5B7FA8">two blocks → 2 pitches</text>
   </g>
   <text x="20" y="238" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The slot is an opening, giving the cavity a definite resonance — hence a clearer pitch sense.</text>
 </svg>

@@ -1,7 +1,7 @@
 ---
 id: zhonghu
 site: inst
-cat: I8
+cat: I9
 title: 中胡
 title_en: Zhonghu
 summary: 一支乐队"缺的那一块"，长成了一件乐器

@@ -1,7 +1,7 @@
 ---
 id: gehu
 site: inst
-cat: I8
+cat: I9
 title: 革胡
 title_en: Gehu
 summary: 中国身段，西洋嗓子
