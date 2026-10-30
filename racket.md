@@ -404,7 +404,7 @@ and control. **The racket is where that road begins, and it stopped halfway alon
 | Period | State |
 |---|---|
 | 15th–16th c. | appears and flourishes, **made in consorts** (soprano, alto, bass and lower), used in court and church chamber music |
-| late 16th–17th c. | joins the [[instrument:crumhorn\|crumhorn]] in "soft" bands; described and illustrated in treatises such as the *Syntagma Musicum* |
+| late 16th–17th c. | joins the [[instrument:crumhorn\|crumhorn]] in "soft" bands; described and illustrated in treatises such as the **Syntagma Musicum** |
 | 17th c. | **displaced by the [[instrument:bassoon\|bassoon]]** — also a folded bore, but with keys and without the cap, and far more expressive |
 | 18th–19th c. | falls out of use, surviving in documents and plates |
 | 20th c. | **revived by the early-music movement**; modern makers build the various sizes from the surviving plates |

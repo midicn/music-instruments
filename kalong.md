@@ -206,7 +206,7 @@ updated: 2026-09-28
 ## 音色与听辨
 
 ```audiolab
-{"type":"instrument","gm":"Dulcimer","synth":"plucked","phrase":["G3","C4","D4","G4","C5","G4","D4"],"label":"清脆铮铮：七声音阶上的几句（借德西马近似）","label_en":"Clear and chime-like — a few notes on the diatonic tuning (dulcimer standing in)","hint":"卡龙是梯形多弦弹拨，通用音色表里没有它 —— 这里借同为梯形多弦的「Dulcimer」近似；但请记住差别：真实的卡龙是「拨」出来的，还有左手的揉弦器专门做滑音 · 颤音","hint_en":"A trapezoid zither with many strings; General MIDI has no kalong, so the dulcimer stands in — but note the difference: the real one is *plucked*, with a metal slider in the left hand for slides and shakes."}
+{"type":"instrument","gm":"Dulcimer","synth":"plucked","phrase":["G3","C4","D4","G4","C5","G4","D4"],"label":"清脆铮铮：七声音阶上的几句（借德西马近似）","label_en":"Clear and chime-like — a few notes on the diatonic tuning (dulcimer standing in)","hint":"卡龙是梯形多弦弹拨，通用音色表里没有它 —— 这里借同为梯形多弦的「Dulcimer」近似；但请记住差别：真实的卡龙是「拨」出来的，还有左手的揉弦器专门做滑音 · 颤音","hint_en":"A trapezoid zither with many strings; General MIDI has no kalong, so the dulcimer stands in — but note the difference: the real one is plucked, with a metal slider in the left hand for slides and shakes."}
 ```
 
 三条线索：
@@ -320,7 +320,7 @@ devices, the 401 and 501 models); the kalong **retunes the strings, piece by pie
 > folk players **inspired by birds**, first made of **sheep's leg bone**, later of metal."
 
 - **Its name** describes not a shape but a **sound** ("birdsong");
-- **Its origin** is an invention made by *listening*: **the bird was heard first, the tool made second**;
+- **Its origin** is an invention made by **listening**: **the bird was heard first, the tool made second**;
 - Its material travelled too: **bone → metal**.
 
 ⭐ Compare the [[instrument:zhamunie|zhamunie]]'s "opinion-style name" (㊾): **one puts the verdict on the
@@ -369,7 +369,7 @@ answer is entirely different:
 
 Its post is written in the names of the southernmost counties — **Mekit, Bachu, Awat**:
 
-- "indispensable to the **meshrep** performance of the *Twelve Muqam*, and the chief accompanying instrument
+- "indispensable to the **meshrep** performance of the **Twelve Muqam**, and the chief accompanying instrument
   for **Dolan** and **Hami muqam** — especially in the **free-rhythm (sanban) sections**, where its flavour
   shows most";
 - hence "**the soul of Dolan muqam**";
@@ -381,11 +381,11 @@ Its post is written in the names of the southernmost counties — **Mekit, Bachu
 
 | Old name | Note |
 |---|---|
-| **Seventy-two-string pipa** | possibly what it was called when it reached the interior with the Mongol campaigns (recorded in the *Yuan Shi* and Liu Yu's *Xishi Ji*) |
+| **Seventy-two-string pipa** | possibly what it was called when it reached the interior with the Mongol campaigns (recorded in the **Yuan Shi** and Liu Yu's **Xishi Ji**) |
 | **Karnai** | its name in the Qing court's "Muslim music"; the statutes say "eighteen steel strings, shaped like a common yangqin" |
 
 ⚠️ And one origin account: "the kalong was created by the famous **Uyghur scholar and musician al-Farabi**
-(c. 870–905)… in his *Book of Music* it is called 'mizaf,' and **then it had forty-five strings**" —
+(c. 870–905)… in his **Book of Music** it is called 'mizaf,' and **then it had forty-five strings**" —
 **a record that does not match today's sixteen to eighteen courses**: another **instrument whose documents
 and body disagree** (compare the [[instrument:dutar|dutar]] and [[instrument:tanbur|tanbur]]; names-history
 item ㉒).

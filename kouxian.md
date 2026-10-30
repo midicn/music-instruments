@@ -381,11 +381,11 @@ cicadas and swarming bees."**
 
 ## The name was wrong twice
 
-Its commonest modern name is 口**弦** — "mouth *string*" — **and it has no string at all.**
+Its commonest modern name is 口**弦** — "mouth **string**" — **and it has no string at all.**
 The first mistake: **early writers understood it by analogy with the zither's strings**, and gave it a
 "string" character.
 
-Its old name, "**簧**", was mistaken too: Han-dynasty *Shuowen* glosses it as "**簧: the reed of a sheng**,"
+Its old name, "**簧**", was mistaken too: Han-dynasty **Shuowen** glosses it as "**簧: the reed of a sheng**,"
 making it a **part of a mouth organ**.
 The archaeological view runs the other way: the pre-Qin "huang" was made of bone or bamboo, "**sounded by
 pulling a cord — a separate instrument, not a sheng part**."
@@ -398,7 +398,7 @@ recognised it again: **"口簧" is its true name.**
 
 ## Common misconceptions
 
-- **"It is a wind instrument."** ⚠️ It is a **plucked idiophone**: a lamella vibrates; airflow only *shapes*.
+- **"It is a wind instrument."** ⚠️ It is a **plucked idiophone**: a lamella vibrates; airflow only **shapes**.
   **This page keeps it in the wind section as the boundary case.**
 - **"It has a string."** ⚠️ The name is wrong: **no string** — only a vibrating **tongue**. "Reed" (簧) is
   the accurate word.
@@ -407,7 +407,7 @@ recognised it again: **"口簧" is its true name.**
   harp find in the world.**
 - **"It belongs only to minority peoples."** ⚠️ It once flourished in the Central Plains — by the late 4th
   century it was "very popular" in Sichuan, Yunnan and Guizhou; it vanished there only **after the Yuan**.
-  Today it lives among minorities *and* worldwide.
+  Today it lives among minorities **and** worldwide.
 - **"You just blow."** ⚠️ Its sound is held in the mouth: lips loose, cavity shaped, tongue moved —
   **the same reed, a different world for every player.**
 

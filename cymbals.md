@@ -220,8 +220,8 @@ hammering decides the sound** — so one brand, even one batch, can differ from 
 > ⚠️ **One conceptual point**: **the difference between membranophone and idiophone is clearest here.**
 > The [[instrument:snare-drum|snare]]'s high frequencies come from **a stretched head**; the cymbals' come
 > from **the complex vibration of a whole alloy sheet**.
-> Both end up "noisy", but of **completely different grain**: a snare is a *crackle* (clear grains), cymbals
-> are a *hiss* (energy spread across the whole high band, with a long tail).
+> Both end up "noisy", but of **completely different grain**: a snare is a **crackle** (clear grains), cymbals
+> are a **hiss** (energy spread across the whole high band, with a long tail).
 > **The test is still what vibrates** — and it incidentally explains why they sound so different.
 
 ## Structure: one sheet vibrating in complex modes

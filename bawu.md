@@ -272,7 +272,7 @@ sentence:**
 
 **the hulusi sounds several notes (it carries its own backup); the bawu sounds one (it sings alone).**
 And its name and its legends are better than its mechanism:
-**"Bawu" = the *ba* of "Bachong" ＋ the *wu* of "Meiwu"** — **two lovers' names, spliced head to tail, became
+**"Bawu" = the **ba** of "Bachong" ＋ the **wu** of "Meiwu"** — **two lovers' names, spliced head to tail, became
 an instrument.**
 
 > ⚠️ Better still: one legend tells its own structure —
@@ -400,13 +400,13 @@ Three points:
 
 | Legend | Who | What it explains |
 |---|---|---|
-| Hani · lovers | **Meiwu** ＋ **Bachong** | ⭐ the **name**: head of one, tail of the other → *Bawu* |
+| Hani · lovers | **Meiwu** ＋ **Bachong** | ⭐ the **name**: head of one, tail of the other → **Bawu** |
 | Hani · siblings | Molong and Mopo | ⭐ the **purpose**: saying the unsayable → "**matchmaker instrument**" |
-| Yi Nesu · deaf-mute | unnamed | ⭐ the **structure**: a worm-holed bamboo sounds → cut holes → *feili* |
+| Yi Nesu · deaf-mute | unnamed | ⭐ the **structure**: a worm-holed bamboo sounds → cut holes → **feili** |
 
 ⭐ And the first legend holds the line worth keeping —
 the bird tells the tongueless girl: **"The bamboo will help you speak."**
-**Now note the coincidence: the bawu's reed is called, in technical Chinese, the "reed *tongue*."**
+**Now note the coincidence: the bawu's reed is called, in technical Chinese, the "reed **tongue**."**
 The story's tongue entered a bamboo; the object's "reed tongue" is set into a bamboo.
 **A story told to children spells out the mechanics of an instrument.**
 (This site's observation: the legend's three layers — name, purpose, structure — are exactly the three doors
@@ -448,9 +448,9 @@ Chinese name invented separately"** — **two Yunnanese "talking instruments," o
 - **Since the 1950s it has been re-fitted.** Makers developed the **keyed bawu** and the **double bawu**:
   the keyed one "**modulates into four keys**" with a wider range and more power; the double one pairs two
   identical pipes, brighter and louder. The reformed bawu "can play not only traditional regional pieces but
-  **transplanted foreign music** — Japan's *Kitano Haru* among others."
+  **transplanted foreign music** — Japan's **Kitano Haru** among others."
 - ⭐ And so it left the hills for the stage — English-language sources say its sound is instantly
-  recognisable in **film scores** such as *Crouching Tiger, Hidden Dragon*, laying a southwestern undercoat
+  recognisable in **film scores** such as **Crouching Tiger, Hidden Dragon**, laying a southwestern undercoat
   beneath Western orchestration.
 
 ## Common misconceptions

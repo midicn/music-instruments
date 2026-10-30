@@ -329,8 +329,8 @@ Three points:
 **So Baroque trumpet solos live in the top register** — not for display, but because **only there are there
 enough notes to write a melody.**
 
-That also explains the word *clarino*: it names **the craft of playing melody in the high register**, and
-shares its root with "clarinet" (both from Latin *clarus*, bright).
+That also explains the word **clarino**: it names **the craft of playing melody in the high register**, and
+shares its root with "clarinet" (both from Latin **clarus**, bright).
 
 ## Range
 

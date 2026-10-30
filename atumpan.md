@@ -217,7 +217,7 @@ The Asante court had **two mouths**: one for **thinking** (the linguist, okyeame
 
 ⭐⭐ **The site's most complete instance of an instrument addressing its own materials** —— ⭐⭐ **three West African drums, three ways of speaking to the invisible**: the mbira **calls** ancestors with a bottle cap · the talking drum **transmits** messages in drum speech · the atumpan **greets** first and then speaks.
 
-⭐ **「The drummer is hereditary」**: 「if a grandfather was a divine drummer, the role would naturally pass to his sons and grandsons, preserving both the craft and its meaning」 —— ⭐⭐ **craft and meaning travel together** (against the kora's jali inheritance, which carries a *version*; the atumpan carries *an office*) —— ⭐⭐ **two kinds of inheritance: passing on 「how to play it」 vs passing on 「who is allowed to play it」.**
+⭐ **「The drummer is hereditary」**: 「if a grandfather was a divine drummer, the role would naturally pass to his sons and grandsons, preserving both the craft and its meaning」 —— ⭐⭐ **craft and meaning travel together** (against the kora's jali inheritance, which carries a **version**; the atumpan carries **an office**) —— ⭐⭐ **two kinds of inheritance: passing on 「how to play it」 vs passing on 「who is allowed to play it」.**
 
 ## ⭐⭐ A drum family, and a whole set with the flute
 

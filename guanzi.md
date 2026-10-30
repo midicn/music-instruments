@@ -293,7 +293,7 @@ And today it is called **guanzi** — "the pipe" — the plainest possible descr
 
 > ⚠️ Follow that name's itinerary:
 > **bili** (transliteration) → **bili/quaili** (the transliteration settles) → **beili** ("sorrow pipe,"
-> meaning added) → **touguan** ("head pipe," its *post*) → **guanzi** ("the pipe," what it *is*).
+> meaning added) → **touguan** ("head pipe," its **post**) → **guanzi** ("the pipe," what it **is**).
 >
 > ⭐⭐ **Rule ㉟: an immigrant instrument's naturalisation has three notches — transliteration, post, plain speech.**
 > **When its name becomes plain speech, nobody remembers it was ever foreign.**
@@ -301,7 +301,7 @@ And today it is called **guanzi** — "the pipe" — the plainest possible descr
 | Classification | Value |
 |---|---|
 | **HS class** | **aerophone** · **double reed** · cylindrical bore · **definite pitch** |
-| **Sub-type** | **reed (double, on a reed-stem)** ＋ **bronze conical *qinzi*** (holds the reed and **tunes**) ＋ **hardwood cylindrical body** (rosewood, sandalwood, ebony…) · **eight holes (seven front, one back)** · small/mid/large · double · keyed |
+| **Sub-type** | **reed (double, on a reed-stem)** ＋ **bronze conical **qinzi** ** (holds the reed and **tunes**) ＋ **hardwood cylindrical body** (rosewood, sandalwood, ebony…) · **eight holes (seven front, one back)** · small/mid/large · double · keyed |
 | **Family** | Chinese · wind (from the **bili** of Kucha; today mainly north China, shared across peoples) |
 | **Bayin** | **bamboo (竹)** — Yuan–Ming texts: "bamboo for the pipe" (wood from the Ming on) |
 
@@ -414,7 +414,7 @@ Neighbours: item ② "changing places" (xiao and di) and ③ "stolen" (ruan) —
 | Period | State |
 |---|---|
 | origin | **Kucha** (modern Kuqa): "invented by the ancient Kucheans"; name **transliterated from Kuchean Pi-Li**; legend says it began with **Kuchean herdsmen**, from bone and horn, later bamboo and wood |
-| Southern Dynasties | earliest record: He Chengtian's *Zhuanwen*: "**bili, a Qiang-hu instrument**" |
+| Southern Dynasties | earliest record: He Chengtian's **Zhuanwen**: "**bili, a Qiang-hu instrument**" |
 | **383 CE** | ⭐ general **Lü Guang**'s western campaign returns with a Kucha band — the bili enters the plains (other accounts say the Han) |
 | Northern Wei | already "many pipe-players" carved in the **Yungang grottoes** |
 | Sui–Tang | **a main instrument of the court's nine and ten ensembles**; court and street alike; virtuosos **An Wanshan** and **Xue Yangtao**; poets Li Qi and Bai Juyi wrote odes; even **Emperor Wenzong played it** |
@@ -422,8 +422,8 @@ Neighbours: item ② "changing places" (xiao and di) and ③ "stolen" (ruan) —
 | after the Song | its lead role **passed to the flute**; it moves into regional opera, folk wind bands and temple music |
 | eastward | to Korea and Japan; **a Tang bili survives in the Shōsōin** |
 
-⭐ Two paintings stand as witnesses: the court band in the *Palace Concert* and the night party of
-*Han Xizai* — **poets wrote it, painters drew it.**
+⭐ Two paintings stand as witnesses: the court band in the **Palace Concert** and the night party of
+**Han Xizai** — **poets wrote it, painters drew it.**
 
 ## Range
 
@@ -457,16 +457,16 @@ After the Song it stepped down from "head of all instruments" — and every new 
   Luoyang, Xi'an drum music, Liaoning… it is the main instrument, "**the soul of the wind band.**"
 - **Opera accompaniment** (Hebei bangzi, pingju, Yu opera) and **temple music** (Daoist, Buddhist;
   the Zhihua Temple's capital music still leads with it);
-- **Solos**: *Wannian Huan*, *Fang Lü* (*Driving the Donkey*), *Yan Luo Sha Tan* and other traditional titles.
+- **Solos**: **Wannian Huan**, **Fang Lü** (**Driving the Donkey**), **Yan Luo Sha Tan** and other traditional titles.
 
 ⭐ And its most famous appearance happened in 1950s Liaoning:
 
 - **"River of Sorrow" (Jiang He Shui)** began as a **sheng-guan melody** of Liaonan drum music
-  (named *Jiang'er Shui*, used at weddings and funerals). In the early 1950s Wang Shilu, Zhu Guangqing
+  (named **Jiang'er Shui**, used at weddings and funerals). In the early 1950s Wang Shilu, Zhu Guangqing
   and colleagues recast it as a **double-pipe solo** — using the double pipe's "**sob like a human voice**"
   to tell of a widow weeping by the river.
 - In **1962** the [[instrument:erhu|erhu]] player **Huang Haihuai** heard it in Guangzhou and
-  **transplanted it for erhu**; it entered *The East Is Red*, and through **Min Huifen**'s playing it became
+  **transplanted it for erhu**; it entered **The East Is Red**, and through **Min Huifen**'s playing it became
   world-famous. In 1977 Seiji Ozawa wept hearing it: "**it draws out all the sorrow in the world.**"
 - **So the piece has two lives: a guanzi life and an erhu life.** **One instrument's grief can move to
   another body and go on grieving** — proof that the tune outlives the instrument.
@@ -497,17 +497,17 @@ Three cues:
    gives one of instrumental music's closest things to a naked voice.
 2. **Hear the hardness.** The other face: "bright, loud, rough-hewn" — its sound **stands straight up**,
    with no flare to spread it: **the energy comes at you.**
-3. **Hear both versions of *Jiang He Shui*.** Double pipe beside erhu, and you verify this page's last
+3. **Hear both versions of **Jiang He Shui**.** Double pipe beside erhu, and you verify this page's last
    claim with your own ears: **grief transplants, and each throat has its own grief.**
 
 ## The family
 
 | Instrument | Driver | Bore | Character (source words) | Post |
 |---|---|---|---|---|
-| **Guanzi** | **double reed** | **cylindrical** | "bright" *and* "bleak"; **voice-close** | the Song's "touguan"; today's **soul of wind bands** |
+| **Guanzi** | **double reed** | **cylindrical** | "bright" **and** "bleak"; **voice-close** | the Song's "touguan"; today's **soul of wind bands** |
 | Large guan | double reed | cylindrical (low) | "deep, thick, **tinged with sorrow**" | bass and downbeats |
 | Small guan | double reed | cylindrical (high) | "bright," for fire | lead |
-| Double guan | double reed ×2 | two pipes | "**like human sobbing**" | solo (*Jiang He Shui*) |
+| Double guan | double reed ×2 | two pipes | "**like human sobbing**" | solo (**Jiang He Shui**) |
 | [[instrument:suona\|Suona]] | double reed | **conical + bell** | loud, outward | weddings and funerals — "seeing off" |
 | [[instrument:sheng\|Sheng]] | **free reed** | tube bundle | bright and soft; chords | harmonic ground |
 | [[instrument:dizi\|Dizi]] | **none (edge)** | one tube | clear, with membrane | melody lead |
@@ -519,7 +519,7 @@ Three cues:
 
 Back from the Western Regions, the next stop is **the Central Plains' own family tree**:
 
-the **chi** — a horizontal bamboo pipe already present in Shang–Zhou times. The *Book of Songs* pairs it
+the **chi** — a horizontal bamboo pipe already present in Shang–Zhou times. The **Book of Songs** pairs it
 with the [[instrument:xun|xun]]: "**the elder brother blows the xun, the younger the chi.**"
 And its shape will surprise you: **you have seen it before — in the tomb of Marquis Yi of Zeng.**
 

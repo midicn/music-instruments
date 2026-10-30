@@ -277,7 +277,7 @@ And among everything written so far it differs in one **fundamental** way:
 > | Winds (dizi) | which hole is open + the air | **pitch · dynamics · colour** |
 > | **Bells (bianzhong)** | **fixed at the foundry** | **only when to strike which bell** |
 >
-> This changes the very definition of playing: **the player goes from *maker* of pitch to *chooser* of pitch.**
+> This changes the very definition of playing: **the player goes from **maker** of pitch to **chooser** of pitch.**
 >
 > Something similar appeared once before on this site — the
 > [[instrument:mechanical-instruments|mechanical instruments]], which can only sound the actions recorded on them.
@@ -338,7 +338,7 @@ Three points:
    striking near the edge gives another** — **two pitches per bell**, usually a third apart.
    **So it is not "one bell, one note" but "one bell, two notes"** — 65 bells yield more than a hundred pitches.
 2. **The studs are not merely decoration.** They sit across the body and also **help determine how the bell vibrates**.
-3. **The whole set hangs in pitch order** — which is what the word *bian* (arranged in order) says:
+3. **The whole set hangs in pitch order** — which is what the word **bian** (arranged in order) says:
    **not one great bell, but a row of bells ordered by pitch.**
 
 ## Why one bell can carry two pitches
@@ -420,7 +420,7 @@ Four cues:
 
 ## Playing techniques
 
-- **Where you strike *is* note selection.** Centre or side on the same bell are two different pitches — so accuracy
+- **Where you strike **is** note selection.** Centre or side on the same bell are two different pitches — so accuracy
   matters enormously: strike a little off and the note changes.
 - **It takes a team.** The set is huge: typically **two players inside with long poles for the low bells of the
   bottom tier, three outside with two hammers each for the middle and top tiers.**
@@ -463,7 +463,7 @@ made.**
 
 ## Common misconceptions
 
-- **"A bianzhong is one big bell."** *Bian* means **arranged in a set**: it is **a row of bells ordered by pitch**,
+- **"A bianzhong is one big bell."** **Bian** means **arranged in a set**: it is **a row of bells ordered by pitch**,
   from a few to dozens per set.
 - **"A bell has one pitch."** Pre-Qin China made **two-pitch bells** — one bell, two notes a third apart — thanks to
   the **almond section**. Cast it as a circle and you get one pitch only.

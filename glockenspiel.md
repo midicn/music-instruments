@@ -293,7 +293,7 @@ they are played**. Together they are the entire standard membership of "idiophon
 | Period | State |
 |---|---|
 | Medieval–Renaissance | small bell sets exist in Europe for towers and ceremony |
-| 17th–18th c. | keyboard carillons and small struck bell instruments coexist; Mozart uses a keyboard glockenspiel in *The Magic Flute* |
+| 17th–18th c. | keyboard carillons and small struck bell instruments coexist; Mozart uses a keyboard glockenspiel in **The Magic Flute** |
 | 19th c. | steel bars replace small bells and become standard orchestral and band percussion |
 | 20th c. | its use widens from "imitating bells" to "brightening colour"; the lyra form spreads in marching bands |
 | Late 20th c. onward | universal in orchestra, band, marching band, pop and film |

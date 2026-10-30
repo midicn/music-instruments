@@ -224,9 +224,9 @@ just ring." The tanbur lives in the same land — and gives a different answer.*
 > Tuning: **g · g · d¹ · g · g** — two outer strings in unison (one group), two inner in unison, one middle.
 >
 > ⭐⭐ **Rule ㊻: one question, two solutions — the rawap's "one melody string ＋ several ringers" versus the
-> tanbur's "melody as a *pair* ＋ three accompanists."**
+> tanbur's "melody as a **pair** ＋ three accompanists."**
 > The question is the same: **several strings on one instrument — how does each get a job?**
-> The rawap answers "*one* versus *many*"; the tanbur answers "*grouping*":
+> The rawap answers "**one** versus **many**"; the tanbur answers "**grouping**":
 > **the melody is not a single string but a unison pair** — hence a thicker sound.
 
 | Classification | Value |
@@ -278,7 +278,7 @@ just ring." The tanbur lives in the same land — and gives a different answer.*
 
 ⭐ Three points:
 
-1. **The melody is a *pair*, not a string.** "The two outermost side by side are the melody strings" —
+1. **The melody is a **pair**, not a string.** "The two outermost side by side are the melody strings" —
    two strings in unison playing one line together, thicker than a single string; the middle and inner three
    (g · g · d¹) accompany. (Compare the [[instrument:rewapu|rawap]]: **one melody string plus four to six
    ringers.** **Same question, different answer.**)
@@ -325,7 +325,7 @@ just ring." The tanbur lives in the same land — and gives a different answer.*
 Tanbur, dutar, dombra all grew from the same long-necked plucked-lute name system — and **"dutar" simply
 means "two strings"**: **the name carries a spec sheet.**
 
-⚠️ One discrepancy worth noting: the Qing *Collected Statutes* record "**four iron strings**," while today's
+⚠️ One discrepancy worth noting: the Qing **Collected Statutes** record "**four iron strings**," while today's
 instrument has five. **Instruments change; documents stay where they were.**
 
 ## Range
@@ -340,7 +340,7 @@ instrument has five. **Instruments change; documents stay where they were.**
 - also of the "**meshrep**" gatherings;
 - ⭐ and most often **in duet**: "**frequently in duet with the dutar**" — one carries the melody, the other
   accompanies it (exactly where that family tree above lands);
-- its repertoire keeps the muqam's names: *Uzhal*, *Oshshaq*, *Mushawirek*…
+- its repertoire keeps the muqam's names: **Uzhal**, **Oshshaq**, **Mushawirek**…
 
 ⭐ One line for its character: "**suited to fervent, sharply rhythmic folk music**" —
 unlike the [[instrument:rewapu|rawap]]'s "delicate and fine," **this is the fast and bright one.**
@@ -352,7 +352,7 @@ unlike the [[instrument:rewapu|rawap]]'s "delicate and fine," **this is the fast
   (bright and ringing versus delicate).
 - **"Many strings means many parts."** ⚠️ Only the two outer unison strings carry the melody; the other
   three accompany. **"Five strings" is a configuration, not five voices.**
-- **"It only accompanies."** ⚠️ It is also a soloist (*Ejem*, *Linpat*, *Three Wild Geese*, *Song for
+- **"It only accompanies."** ⚠️ It is also a soloist (**Ejem**, **Linpat**, **Three Wild Geese**, *Song for
   Mother*) and a principal muqam instrument.
 - **"The name is Chinese."** ⚠️ It is "**a kind of the Arabic tanbūr**"; Chinese spellings run: 弹布尔 /
   弹拨尔 / 丹布尔 / 丹不尔 / 弹普.

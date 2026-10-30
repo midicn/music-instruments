@@ -281,8 +281,8 @@ updated: 2026-09-27
 
 > ⚠️ **Three in the dictionary**:
 > "a bamboo pipe of music" (instrument); "the measures — yue, ge, sheng, dou, hu" (**a measure**, its smallest
-> unit); "between heaven and earth, is it not like the **tuoyue**?" (**a bellows pipe**, from the *Laozi*).
-> Add the *Book of Documents*' "opened the **yue** and read the book" — it has also been a **key**.
+> unit); "between heaven and earth, is it not like the **tuoyue**?" (**a bellows pipe**, from the **Laozi**).
+> Add the **Book of Documents**' "opened the **yue** and read the book" — it has also been a **key**.
 >
 > ⭐⭐ **Rule ㊲: one hollow bamboo tube grew four meanings — and its oracle-bone glyph drew its shape earlier
 > than any text did.**
@@ -294,7 +294,7 @@ updated: 2026-09-27
 | Classification | Value |
 |---|---|
 | **HS class** | **aerophone** · edge-blown (or a bound-tube set) · **definite pitch** |
-| **Sub-type** | bamboo · **three readings of its form** (three-hole pipe / six-hole long "dance yue" / bound tubes), plus a seven-hole record; sizes *chan · zhong · yue*; used both to blow and to dance |
+| **Sub-type** | bamboo · **three readings of its form** (three-hole pipe / six-hole long "dance yue" / bound tubes), plus a seven-hole record; sizes **chan · zhong · yue**; used both to blow and to dance |
 | **Family** | Chinese · wind (taught in Zhou ritual music; interchangeable with 籥; a key candidate as the [[instrument:paixiao\|paixiao]]'s forebear) |
 | **Bayin** | **bamboo (竹)** |
 
@@ -345,10 +345,10 @@ updated: 2026-09-27
 
 | Identity | Source | Line |
 |---|---|---|
-| 1 · **Instrument** | *Shuowen* | "a bamboo pipe of music, three holes, to bring all voices into accord" |
-| 2 · **Measure** | *Hanshu · Lülizhi* | "the measures: yue, ge, sheng, dou, hu… **two yue make a ge**" — its smallest unit |
-| 3 · **Bellows pipe** | *Laozi* | "between heaven and earth, is it not like a **tuoyue**?" |
-| 4 · **Key** | *Shangshu* | "**opened the yue** and read the book" |
+| 1 · **Instrument** | **Shuowen** | "a bamboo pipe of music, three holes, to bring all voices into accord" |
+| 2 · **Measure** | **Hanshu · Lülizhi** | "the measures: yue, ge, sheng, dou, hu… **two yue make a ge**" — its smallest unit |
+| 3 · **Bellows pipe** | **Laozi** | "between heaven and earth, is it not like a **tuoyue**?" |
+| 4 · **Key** | **Shangshu** | "**opened the yue** and read the book" |
 
 ⭐ Why one character? Because of **hollowness**: "since the bamboo yue is hollow, it was extended to mean the
 ancient measure" (source wording). **To blow, to measure, to fan, to unlock — all four need only one empty tube.**
@@ -409,8 +409,8 @@ ancient measure" (source wording). **To blow, to measure, to fan, to unlock — 
 
 ⭐ What makes this page unusual: **the evidence is neither object nor text, but a glyph.**
 
-- **Oracle bones**: "pictures **bound tubes**" (Guo Moruo: "showing this is *bound tubes*, not bound slips");
-- **Shuowen**: a three-hole pipe; Han notes say three, Mao and Zheng say six, *Guangya* says seven;
+- **Oracle bones**: "pictures **bound tubes**" (Guo Moruo: "showing this is **bound tubes**, not bound slips");
+- **Shuowen**: a three-hole pipe; Han notes say three, Mao and Zheng say six, **Guangya** says seven;
 - **Modern scholars** read the glyph and revive "bound tubes," "**possibly the panpipes' forebear**";
 - And the decisive sentence: "**there is still no clear proof from excavated objects — therefore nothing is
   settled.**"
@@ -437,11 +437,11 @@ In Zhou ritual it was also a **dance prop**:
 
 | Source | Line | Note |
 |---|---|---|
-| *Book of Songs*, Jianxi | "**left hand holds the yue, right hand the pheasant plume**" | the look of the civil dance |
+| **Book of Songs**, Jianxi | "**left hand holds the yue, right hand the pheasant plume**" | the look of the civil dance |
 | Zheng's commentary | "**the yue dance is the civil music**" | against the martial "wan dance" |
-| *Rites of Zhou* | "the **yue-master** teaches the nobles' sons to dance with plumes and blow the yue" | ⭐ the bureaucracy had a special office for it |
-| *Book of Rites* | "the *Xia Yue* begins" | the legendary Yu-era dance used it |
-| *Spring and Autumn Annals* | "the wan enters, the yue is withdrawn" | changing between civil and martial dances swaps the instruments |
+| **Rites of Zhou** | "the **yue-master** teaches the nobles' sons to dance with plumes and blow the yue" | ⭐ the bureaucracy had a special office for it |
+| **Book of Rites** | "the **Xia Yue** begins" | the legendary Yu-era dance used it |
+| **Spring and Autumn Annals** | "the wan enters, the yue is withdrawn" | changing between civil and martial dances swaps the instruments |
 
 ⭐ **An instrument of the "civil" side**: the martial dance held shields and axes; the civil dance held this in
 the left hand and a plume in the right — **the Zhou told "rite" from "war" by what you held.**
@@ -450,13 +450,13 @@ the left hand and a plume in the right — **the Zhou told "rite" from "war" by 
 
 Its deepest afterlife: **it did not only sound — it measured grain.**
 
-- *Hanshu · Lülizhi*: "the measures: **yue, ge, sheng, dou, hu**… **all beginning from the Huangzhong yue**
+- **Hanshu · Lülizhi**: "the measures: **yue, ge, sheng, dou, hu**… **all beginning from the Huangzhong yue**
   … **two yue make a ge**, ten ge a sheng, ten sheng a dou, ten dou a hu";
 - And how much is one yue? "The yue is the **substance of the Huangzhong pitch pipe**… **holding 1,200 grains
   of millet**" — **fill the Huangzhong pipe with 1,200 millet grains and you have one yue**;
-- The *Zihui* is blunter: "all bamboo pipes of music are called yue, but the **Huangzhong pipe, filled with
+- The **Zihui** is blunter: "all bamboo pipes of music are called yue, but the **Huangzhong pipe, filled with
   millet, accumulates into the five measures' names**."
-- Later granaries remembered: Li Shangyin's *Taicang Zhen* asks why the measures are cast in bronze —
+- Later granaries remembered: Li Shangyin's **Taicang Zhen** asks why the measures are cast in bronze —
   "because through cold and heat they **do not change their capacity**."
 
 ⭐ This links the site's older threads: the [[instrument:paixiao|paixiao]] "checked the tuning" of the ancient
@@ -467,14 +467,14 @@ band; the [[instrument:yu|yu]] was buried with "yu pitch-pipes" — and the yue 
 
 - **"The yue is simply a three-hole flute."** ⚠️ Three readings coexist: **three-hole pipe / six-hole dance
   pipe / bound tubes**, plus a seven-hole record — "**no clear proof from excavated objects; nothing settled.**"
-- **"An oracle-bone glyph says nothing about a real object."** ⚠️ Here the glyph *is* the earliest record of
-  the object: Guo Moruo reasoned from "bound tubes" to charge the *Shuowen* with "**greatly betraying the
+- **"An oracle-bone glyph says nothing about a real object."** ⚠️ Here the glyph **is** the earliest record of
+  the object: Guo Moruo reasoned from "bound tubes" to charge the **Shuowen** with "**greatly betraying the
   ancient meaning**."
 - **"A character borrowed as a measure is coincidence."** ⚠️ Not at all: "since the bamboo yue is **hollow**,
   it was extended to the ancient measure" — **all four meanings share one physical trait.**
-- **"It survives only in books."** ⚠️ It survives in **units**: "yue" entered the *Hanshu*'s system, measuring
+- **"It survives only in books."** ⚠️ It survives in **units**: "yue" entered the **Hanshu**'s system, measuring
   from "two yue to a ge" up to "ten dou to a hu."
-- **"Civil and martial dances are just dancing."** ⚠️ The *Rites of Zhou* created a **yue-master's office**;
+- **"Civil and martial dances are just dancing."** ⚠️ The **Rites of Zhou** created a **yue-master's office**;
   and "the wan enters, the yue is withdrawn" — **switching dances switched instruments.**
 
 ## Timbre, and how to hear it
@@ -487,7 +487,7 @@ Three cues:
 
 1. **Hear "few."** On the three-hole reading it could sound very few notes — **Zhou ritual never asked it to
    show off; it asked it to "bring voices into accord."**
-2. **Hear "accord."** The *Shuowen*'s own definition is "three holes, **to bring all voices into accord**" —
+2. **Hear "accord."** The **Shuowen**'s own definition is "three holes, **to bring all voices into accord**" —
    its post was **blending**, not leading.
 3. **Hear what is missing.** Two-thirds of this page is "unknown": **for an instrument whose very form is
    unsettled, its sound should be the last thing discussed.**
@@ -498,8 +498,8 @@ Three cues:
 |---|---|---|
 | **Yue (籥)** | three readings: 3-hole / 6-hole dance / bound tubes | this page; taught in Zhou ritual, also a dance prop |
 | [[instrument:paixiao\|Paixiao (China)]] | many tubes in a row | ⭐ Guo Moruo and Yang Yinliu: the yue "**possibly the panpipes' forebear**" |
-| [[instrument:chi\|Chi]] | single tube, transverse, footed | a fellow pupil under the *Rites of Zhou*'s "sheng-master" |
-| [[instrument:dizi\|Dizi]] | single tube, transverse | the *Guangya*: "the yue is called a *di*, seven holes" — conflated after the Han |
+| [[instrument:chi\|Chi]] | single tube, transverse, footed | a fellow pupil under the **Rites of Zhou**'s "sheng-master" |
+| [[instrument:dizi\|Dizi]] | single tube, transverse | the **Guangya**: "the yue is called a **di**, seven holes" — conflated after the Han |
 | [[instrument:xun\|Xun]] | closed vessel, clay | a fellow pupil; the xun pairs with the chi, the yue with dance |
 | [[instrument:guanzi\|Guanzi]] | single tube, double reed | both members of the "tuning-pipe" line |
 

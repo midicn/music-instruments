@@ -456,8 +456,8 @@ In the Dai villages before 1949, a scene repeated nightly:
   **"talking drum,"** with drummers said to converse in beats. **On Yunnan's soil, "instruments that talk"
   keep appearing.**
 - ⭐ And its traditional repertoire is "one song per people":
-  the Dai's *Mangshi Plain Mountain Song* · the Achang's *Love Song* · the De'ang's *Singing Tune* and
-  *Bitter Tune* · the Wa's *Visiting Tune* — **the titles themselves say who it belongs to.**
+  the Dai's **Mangshi Plain Mountain Song** · the Achang's **Love Song** · the De'ang's **Singing Tune** and
+  **Bitter Tune** · the Wa's **Visiting Tune** — **the titles themselves say who it belongs to.**
 
 ## Common misconceptions
 

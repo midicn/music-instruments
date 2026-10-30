@@ -395,7 +395,7 @@ instrument.
 | modern era | a standard percussion instrument in the Chinese orchestra and in opera bands, made in sets of sizes |
 | today | used in temples, opera, the national orchestra and even popular music; also one of the most recognisable cultural symbols of China |
 
-**Its history is an unusual road from *ritual implement* to *instrument***: it did not grow out of folk or court music
+**Its history is an unusual road from **ritual implement** to **instrument** **: it did not grow out of folk or court music
 but **first carried the function of "organising time" inside a religious rite**, which music then took over
 unchanged — **function came before aesthetics.**
 

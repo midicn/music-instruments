@@ -244,7 +244,7 @@ The easiest thing to miss about the santur is this: **it is not one instrument, 
 
 ⭐⭐ **Melody in one hand, accompaniment in the other**: the right hand carries the line, the left the rhythm and harmony. ⭐⭐ **The technique of riz** — tremolo — comes from the setar: **both hands strike the same string rapidly in alternation to stretch out a note**; ⭐⭐ **and octave doubles are always played as an alternating trill, never together** —— ⭐⭐ **the most conspicuous texture in Persian santur playing**.
 
-⭐⭐ **Players**: Abolhasan Saba (1902–1957, whose radif version is the most widely played) · Faramarz Payvar · Hossein Malek · Mohammed Heydari · Parviz Meshkatian (1955–2009) · ⭐⭐ **Ardavan Kamkar — 「the inventor of the contemporary Santur」** —— **the man who freed the instrument out of its tremolo mould and gave it polyphony and two independent hands**; ⭐⭐ **Pashang Kamkar** then became the founder of its pedagogy (*The Method of Playing the Santur*).
+⭐⭐ **Players**: Abolhasan Saba (1902–1957, whose radif version is the most widely played) · Faramarz Payvar · Hossein Malek · Mohammed Heydari · Parviz Meshkatian (1955–2009) · ⭐⭐ **Ardavan Kamkar — 「the inventor of the contemporary Santur」** —— **the man who freed the instrument out of its tremolo mould and gave it polyphony and two independent hands**; ⭐⭐ **Pashang Kamkar** then became the founder of its pedagogy (**The Method of Playing the Santur**).
 
 ⭐⭐ **The twelve dastgahs**: the modal system of Persian classical music comprises seven principal dastgahs and five avaz, ⭐⭐ **and the whole repertory is called the radif** —— ⭐⭐ **a body of music handed down through the santur and its sister instruments**.
 

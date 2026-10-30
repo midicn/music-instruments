@@ -331,7 +331,7 @@ many more) **takes its name from these two sticks.**
 > opera is not called "jinghu opera."** We have written about the [[instrument:xiaoluo|xiaoluo]] and the
 > [[instrument:bangu|bangu]]; no genre is called after a gong or a drum either.
 >
-> And eight characters from Li Diaoyuan's Qing-dynasty *Ju Shuo* say why:
+> And eight characters from Li Diaoyuan's Qing-dynasty **Ju Shuo** say why:
 >
 > > **"With the bangzi as the clapper, the yueqin answers it; there is slack and there is tight.**
 > > **Commonly it is called bangzi qiang."**
@@ -475,13 +475,13 @@ it"** — not "what sounds better", but **"whose hands are still free".**
 
 ## First a signal, later an instrument
 
-The bangzi's history as a *signal* is far longer than its history as an instrument. Its first two jobs had
+The bangzi's history as a **signal** is far longer than its history as an instrument. Its first two jobs had
 nothing to do with music:
 
-- **The night watch.** The night watches were announced by striking a bangzi. Ba Jin's *Shading* describes
+- **The night watch.** The night watches were announced by striking a bangzi. Ba Jin's **Shading** describes
   it exactly: **"The bangzi of the second watch did begin, its clear wooden sound answering, in the quiet
   night, the one or two barks of dogs."**
-- **Calling people together.** In *Water Margin* (ch. 2), the tenants **"hearing the bangzi, dragged their
+- **Calling people together.** In **Water Margin** (ch. 2), the tenants **"hearing the bangzi, dragged their
   spears and sticks and gathered, three or four hundred of them."** — **it was a muster signal, not an
   instrument.**
 
@@ -525,7 +525,7 @@ Four cues:
 - **Rectangular in the left hand, round in the right, crossed at right angles and struck together.**
   Two sticks of different lengths and thicknesses are probably not for looks: **one coarse, one fine gives
   the sound two layers** — the thick stick supplies the body, the thin one the attack.
-- **It beats the *ban*, not the *yan*** — traditionally on the **strong beat**.
+- **It beats the **ban**, not the **yan** ** — traditionally on the **strong beat**.
 - **The southern bangzi changes the tool**: a **bamboo slip or small mallet** strikes the hollow rectangle,
   ⭐ **not clashed at all** — the same instrument moves **from clashing to striking**.
 - ⭐⭐ **The pedal bangzi changes the operator**: **tied to a table leg, worked by the foot**, and
@@ -544,8 +544,8 @@ Four cues:
 | [[instrument:castanets\|Castanets]] | 111.141 | two pairs | clashed | none | Spain |
 | [[instrument:bangu\|Bangu]] | 111.2 percussion | one drum | **struck by beaters** | clear sense of pitch | conducting the opera band |
 
-⭐ **This table splits the "concussion" branch one level finer**: **cymbals are two *vessels* clashed
-(111.142); the bangzi is two *sticks* struck together (111.11)** — **both under 111.1, different branches
+⭐ **This table splits the "concussion" branch one level finer**: **cymbals are two **vessels** clashed
+(111.142); the bangzi is two **sticks** struck together (111.11)** — **both under 111.1, different branches
 because the shape differs.**
 
 ## History
@@ -553,11 +553,11 @@ because the shape differs.**
 | Period | State |
 |---|---|
 | antiquity | **a night-watch and muster signal**; **made of bamboo or hollowed wood** |
-| the world of *Water Margin* | **"hearing the bangzi, they dragged their spears and sticks and gathered"** — a muster call |
+| the world of **Water Margin** | **"hearing the bangzi, they dragged their spears and sticks and gathered"** — a muster call |
 | late Ming – early Qing (**17th c.**) | ⭐ **it spreads with the rise of bangzi qiang**; the vocal system **originates in the Shaanxi–Shanxi border style** and branches into **Henan bangzi, Shandong bangzi** and others |
-| Qing | ⭐⭐ **Li Diaoyuan's *Ju Shuo***: **"with the bangzi as the clapper, the yueqin answers it… commonly called bangzi qiang"** — the name now has documentary footing |
-| Qing (*Strange Events of the Last Twenty Years*) | **"the night-watch bangzi kept knocking"** — it is still a time-signal as well |
-| modern (**Ba Jin, *Shading***) | **"the bangzi of the second watch did begin, its clear wooden sound…"** |
+| Qing | ⭐⭐ **Li Diaoyuan's **Ju Shuo** **: **"with the bangzi as the clapper, the yueqin answers it… commonly called bangzi qiang"** — the name now has documentary footing |
+| Qing (**Strange Events of the Last Twenty Years**) | **"the night-watch bangzi kept knocking"** — it is still a time-signal as well |
+| modern (**Ba Jin, **Shading** **) | **"the bangzi of the second watch did begin, its clear wooden sound…"** |
 | today | four types coexist — **Hebei · southern · pedal · Qin**; **Tongzhou bangzi** was inscribed in the **second national list of intangible cultural heritage in 2008** (⚠️ what is listed is the **genre**, not the instrument) |
 | where it is used | Hebei, Henan, Shandong, Shanxi, Shaanxi — opera, narrative singing and folk instrumental ensembles |
 
@@ -568,10 +568,10 @@ And once inside, **it turned round and gave that music its name.**
 ## Common misconceptions
 
 - **"The bangzi is an instrument."** It is **first a signal**: **the night watch and the muster**.
-  **Those few hundred tenants in *Water Margin* were not there for the music.**
+  **Those few hundred tenants in **Water Margin** were not there for the music.**
   Its identity as an instrument dates from the late Ming and early Qing.
 - **"Bangzi qiang is named because the singing is accompanied by a bangzi."** More precisely, **it took the
-  position of the clapper** — the *Ju Shuo* says **"with the bangzi as the clapper."**
+  position of the clapper** — the **Ju Shuo** says **"with the bangzi as the clapper."**
   ⭐ Which also explains why **other genres are not named this way**: **a lead instrument gets replaced; a
   time-keeper does not** — **names tend to go to the most stable element.**
 - **"A bangzi is two sticks, the same everywhere."** Four genres give four shapes: **two sticks** (Hebei) ·

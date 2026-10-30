@@ -295,7 +295,7 @@ Four cues:
 | Antiquity | the Mediterranean **krotala** (clay or wooden clappers) is a distant ancestor; similar instruments appear worldwide |
 | Medieval–Renaissance | wooden clappers appear in Europe for dance accompaniment |
 | 18th–19th c. | Spain develops the **paired hold** and the roll technique; they become central to flamenco and Spanish classical music |
-| 19th c. | enters the orchestra, mostly for Spanish or "exotic" scenes (as in *Carmen*) |
+| 19th c. | enters the orchestra, mostly for Spanish or "exotic" scenes (as in **Carmen**) |
 | 20th c. onward | used in both Spanish tradition and the modern orchestra, and in popular music |
 
 ## Common misconceptions

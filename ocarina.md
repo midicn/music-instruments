@@ -219,7 +219,7 @@ That single fact explains its most obvious trait: **its shape can be anything.**
 | **HS class** | **Aerophone** · edge-tone (duct drive) · **closed vessel** |
 | **Sub-type** | Vertical · reedless · duct head · finger holes, keyless · usually ceramic |
 | **Family** | Western · Woodwinds (duct family, vessel branch) |
-| **Bayin** | Not applicable — a Chinese system; the Chinese relative is the *xun* (an earth instrument), covered with Chinese instruments |
+| **Bayin** | Not applicable — a Chinese system; the Chinese relative is the **xun** (an earth instrument), covered with Chinese instruments |
 
 > ⚠️ **One conceptual point**: a tube instrument such as the [[instrument:flute|flute]] has its pitch set by
 > **effective tube length**, so it must be a long shape. A **vessel** instrument has its pitch set by

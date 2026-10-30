@@ -372,7 +372,7 @@ Three practical differences:
 
 **Four stops** (oboe → d'amore → English horn → bassoon), all **conical with a double reed**, pitched by
 tube length — so together they sound like one voice at four heights. That is in sharp contrast to the
-clarinet family, whose character splits *within* the instrument.
+clarinet family, whose character splits **within** the instrument.
 
 ## History
 

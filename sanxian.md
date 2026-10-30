@@ -284,7 +284,7 @@ One fact about the sanxian is unusually clean: **its body looks like a drum beca
 
 > ⚠️ **A matter of parentage: an operation that put strings on a percussion instrument.**
 > In 214 BCE, work gangs were building the Great Wall. Some of the labourers took a **small handled rattle drum
-> (*tao*)** — the kind you spin while two beads strike the heads — and **tied silk strings across its face**.
+> (**tao**)** — the kind you spin while two beads strike the heads — and **tied silk strings across its face**.
 > The result was a **round, skin-faced, long-handled thing that could be plucked**, called a **xian-tao**.
 > **This is the ancestor of the sanxian.**
 >
@@ -429,9 +429,9 @@ cannot follow that kind of unbroken inflection.
 - **It buys that freedom with the lack of frets**: with no bars in the way, the left hand can slide anywhere along a
   string, so **three strings cover three octaves** — the exact opposite of the [[instrument:zheng|zheng]], where
   more notes mean more strings.
-- **Two sizes, north and south**: the **large northern sanxian** (about 115–122 cm, called the *shuxian* or "book
-  string", accompanying drum-song narratives) and the **small southern one** (about 90–95 cm, the *quxian*, for
-  *pingtan*, Kun opera, Jiangnan sizhu and nanguan) — **one instrument, divided by occasion.**
+- **Two sizes, north and south**: the **large northern sanxian** (about 115–122 cm, called the **shuxian** or "book
+  string", accompanying drum-song narratives) and the **small southern one** (about 90–95 cm, the **quxian**, for
+  **pingtan**, Kun opera, Jiangnan sizhu and nanguan) — **one instrument, divided by occasion.**
 
 ## Timbre, and how to hear it
 
@@ -457,7 +457,7 @@ Four cues:
   vibrato, rolls, pull-offs, slides and glides.
 - **Two ways of touching the string**: the small sanxian often uses a **plectrum**; the large one is usually played
   with **finger picks**.
-- **Tuning follows the genre.** Two folk tunings are common — *hard middle string* and *soft middle string* — with
+- **Tuning follows the genre.** Two folk tunings are common — **hard middle string** and **soft middle string** — with
   the hard one most used: **a different singer or a different aria means a different tuning.**
 
 ## The family
@@ -481,10 +481,10 @@ the string** (chordophone); its **ancestor** was the membranophone. **Shape can 
 | Period | State |
 |---|---|
 | Qin (c. 214 BCE) | labourers on the Great Wall tie silk strings across a **small handled rattle drum** → the **xian-tao**; **the ancestor of the sanxian**, first used in the armies of the northern frontier |
-| Tang | the name "sanxian" first appears in Cui Lingqin's *Jiaofang Ji* (762), though the form is unclear; it is absent from the Tang ten-part ensembles |
-| Yuan | the sanxian spreads through the Central Plains and becomes **the main accompanying instrument of Yuan opera**, then called *suoxian* |
+| Tang | the name "sanxian" first appears in Cui Lingqin's **Jiaofang Ji** (762), though the form is unclear; it is absent from the Tang ten-part ensembles |
+| Yuan | the sanxian spreads through the Central Plains and becomes **the main accompanying instrument of Yuan opera**, then called **suoxian** |
 | Ming | Yang Shen's notes record "today's sanxian begins in the Yuan"; the sanxian in Wang Qi's encyclopaedia **already matches the modern form** |
-| Ming–Qing | flourishes in **narrative-song accompaniment**; north and south settle into the small *quxian* and, later, the large *shuxian* |
+| Ming–Qing | flourishes in **narrative-song accompaniment**; north and south settle into the small **quxian** and, later, the large **shuxian** |
 | mid-19th c. | the Hebei drum-song artist **Ma Sanfeng** turns the small sanxian into the **large** one — the two sizes now coexist |
 | 1950s–80s | a series of reforms: **type 60 and type 80 large sanxians** (timbre turning from "dry" to bright and full), **four-string sanxians**, and a type 86 high small sanxian |
 | abroad | **Chinese sanxian → Okinawan sanshin → Japanese shamisen** |

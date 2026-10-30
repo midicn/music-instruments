@@ -235,7 +235,7 @@ fingerboard make a map of pitches). The duxianqin has no frets and no fingerboar
 > together with the plectrum and **overtone technique**,
 > "with one string and one rod it can play **six registers, three octaves**."
 >
-> ⭐⭐ **Rule ㊹: tuning itself becomes the playing — on one string, tension *is* pitch.**
+> ⭐⭐ **Rule ㊹: tuning itself becomes the playing — on one string, tension **is** pitch.**
 > This site described the [[instrument:bianzhong|bells]]' **three tuning actions** (rule ㉕):
 > **change tension · change geometry · change mass.**
 > On other instruments those are done **before the concert**;
@@ -248,7 +248,7 @@ fingerboard make a map of pitches). The duxianqin has no frets and no fingerboar
 | **Family** | Chinese · plucked (**Jing people**: the three Jing islands of Dongxing, Guangxi — Wutou, Wanwei, Shanxin; in Jing, "dan pao") |
 | **Bayin** | **bamboo (竹)** — early forms: bamboo body, bamboo-string strip, bamboo rod |
 
-## One scale on one string: the rod *is* the pitch
+## One scale on one string: the rod **is** the pitch
 
 ```svg
 <svg viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Structure of the duxianqin: body on horse-hoof feet with the middle suspended, one string across it, the left hand pushing and pulling a rod to change tension and pitch, the right hand plucking with a stick">
@@ -287,7 +287,7 @@ fingerboard make a map of pitches). The duxianqin has no frets and no fingerboar
 1. **One string, two actions.** The right hand **plucks**; the left hand **pushes the rod** —
    **pitch in the left hand, colour in the right.**
 2. **The gourd is still a gourd.** Early forms had "**half a gourd threaded on the rod**" for resonance —
-   the "pao (匏)" in its old name *duxian pao qin* is that gourd (a distant cousin in this site's
+   the "pao (匏)" in its old name **duxian pao qin** is that gourd (a distant cousin in this site's
    [[instrument:sheng|gourd family]]).
 3. ⭐ **It is born quiet.** Weak bamboo resonance, "suitable only for close, indoor playing," and a bamboo
    body that "**splits easily in damp sea air**" — shortcomings that forced three fixes:
@@ -320,7 +320,7 @@ fingerboard make a map of pitches). The duxianqin has no frets and no fingerboar
     <text x="530" y="336" text-anchor="middle">Jing islands — still one string, one rod</text>
   </g>
   <text x="20" y="352" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">⚠️ This account comes from the heritage-bearer Zhao Xia; other origins (one-string zither, Vietnamese) coexist.</text>
-  <text x="20" y="374" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">⭐ Compare rule ㊳: the guanzi sank by choice, the chi stayed in the palace — the duxianqin was *expelled*.</text>
+  <text x="20" y="374" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">⭐ Compare rule ㊳: the guanzi sank by choice, the chi stayed in the palace — the duxianqin was expelled.</text>
 </svg>
 ```
 
@@ -341,7 +341,7 @@ spelled out:
 - the **duxianqin** was **expelled** — and survived by the sea, entering the **national intangible-heritage
   list in 2011**.
 
-## The one in the *New Book of Tang*
+## The one in the **New Book of Tang**
 
 Its earliest form stands in a Tang dynasty history:
 
@@ -376,7 +376,7 @@ the accounts side by side.**
 - **"Plucked instruments stop the string with the left hand."** ⚠️ It has **no frets**: the left hand
   **pushes and pulls** — pitch **glides**, it does not step.
 - **"Just colour in an orchestra."** ⚠️ It is also a **solo** instrument: *High Mountains and Flowing
-  Water*, *Fisherfolk's Four Seasons*, *Worshipping the Moon*, *The Bridge in the Wind* — and since 2013 it
+  Water*, **Fisherfolk's Four Seasons**, **Worshipping the Moon**, **The Bridge in the Wind** — and since 2013 it
   has had a **graded examination system up to level ten.**
 
 ## Timbre, and how to hear it

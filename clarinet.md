@@ -329,7 +329,7 @@ register change is a **jump in colour**, not a smooth transition.
 | **Altissimo** | above C♯6 | 5th and up | tense, thin, special fingerings |
 
 **Compare**: the [[instrument:flute|flute]] and [[instrument:oboe|oboe]] (conical) change register
-*gradually*, so they never sound "in three pieces". That is the cylinder's signature.
+**gradually**, so they never sound "in three pieces". That is the cylinder's signature.
 
 ## Range
 

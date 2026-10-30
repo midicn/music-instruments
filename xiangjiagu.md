@@ -290,7 +290,7 @@ point of this page:
 >
 > We have met many ways of tuning already: the [[instrument:bianzhong|bianzhong]] is **cast**, the
 > [[instrument:bianqing|bianqing]] is **ground**, the [[instrument:paigu|paigu]] is **screwed**, the
-> [[instrument:tonggu|bronze drum]] is **gouged**. Sort them by the *physical action* and there are
+> [[instrument:tonggu|bronze drum]] is **gouged**. Sort them by the **physical action** and there are
 > **only three**:
 >
 > | Action | What it changes | Examples here |
@@ -427,8 +427,8 @@ Four cues:
 3. **One hand gives several colours.** Fingers (one, two, three) · palm · fist · elbow · foot —
    **on one skin, the contact area and hardness are constantly changing.**
 4. **It never plays alone.** The sources put it bluntly: **"because the body is too heavy, the drum is not
-   played solo"** — it is always paired with a **mang gong and cymbals**, accompanying the *Peacock Dance*,
-   the *Deer Dance*, the *White Elephant Dance* and the *Scarf Dance*.
+   played solo"** — it is always paired with a **mang gong and cymbals**, accompanying the **Peacock Dance**,
+   the **Deer Dance**, the **White Elephant Dance** and the **Scarf Dance**.
 
 ```audiolab
 {"type":"instrument","drum":64,"synth":"perc","phrase":[64,64,64,64],"label":"象脚鼓的一击：浑厚、有弹性","label_en":"One stroke of an elephant-foot drum — deep and springy","hint":"注意它是徒手拍出来的、带一点「肉」的厚度 —— 通用打击乐表里没有象脚鼓，这里借「Low Conga」近似；真实的象脚鼓更长、更沉，而且演奏前要粘一团糯米饭","hint_en":"Notice the hand-struck, slightly fleshy weight of it. General MIDI has no elephant-foot drum, so Low Conga stands in. A real one is longer and heavier still — and gets a lump of sticky rice stuck on before playing."}

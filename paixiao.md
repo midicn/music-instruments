@@ -334,7 +334,7 @@ And its luck lies there too — in 1978, two panpipes came out of the tomb of Ma
 >
 > ⭐⭐ **Rule ㉛: one tube, one note — the scale taken apart into a row of tubes, each made for its single note.**
 > And that independence made tuning a very concrete craft: **stopping the tube's foot with beeswax** —
-> **"stop the foot with honey-wax, adding or removing until it agrees."** (Cai Yong, via the *Tongdian*.)
+> **"stop the foot with honey-wax, adding or removing until it agrees."** (Cai Yong, via the **Tongdian**.)
 
 | Classification | Value |
 |---|---|
@@ -429,7 +429,7 @@ A row of tubes also means a **fixed range** — it cannot "grow" the way a finge
 {"range":"G3–G6","caption":"排箫的音域（约 G3–G6 · 视管数与形制而定）","caption_en":"Paixiao range — about G3 to G6, depending on tube count and form","note":"排箫属边棱音气鸣乐器（有固定音高、一管一音）。通行资料记其音域约 G3–G6；曾侯乙排箫 13 管，出土后一件尚存八管可吹、音阶结构已超出五声，经超吹可上移一到两个八度。历代管数不同（蔡邕记大者 23 管 · 小者 16 管），现代改革的双排管加键排箫扩至五个八度。本图以通行音域示意。记谱即实音。"}
 ```
 
-⭐ Tube count *is* the instrument's whole margin: **one more tube, one more note; a touch of wax,
+⭐ Tube count **is** the instrument's whole margin: **one more tube, one more note; a touch of wax,
 a note corrected.** That is also why it was later "reformed" — with the old sixteen tubes or so,
 without new tubes there were no semitones and no wider range.
 
@@ -440,7 +440,7 @@ And the Chinese craftsmen's answer lies at the foot of the tube:
 
 > **"The xiao is bamboo bound with a closed foot. Twenty-three tubes at the largest, sixteen at the
 > smallest. Long is muddy, short is clear. Stop the foot with honey-wax, adding or removing until it
-> agrees."** (Cai Yong, quoted in Du You's *Tongdian*, Tang.)
+> agrees."** (Cai Yong, quoted in Du You's **Tongdian**, Tang.)
 
 - **Length fixes the note; the wax trims it.** Add or remove **until it agrees**.
 - ⭐ After the Han there even appears the **"equal-tube" form**: all tubes cut to nearly the same length,
@@ -521,12 +521,12 @@ one, or a pair?
 One story cannot be left out — the character **xiao (箫) shrank over history**:
 
 - **From pre-Qin to Tang, "xiao" meant this instrument** — the bound-tube panpipe.
-  The *Book of Documents*' "**xiao-shao nine times, the phoenix comes**": it led the Shao music, which took
-  its name; the *Book of Songs*: "xiao and pipes raised together"; Confucius, hearing the Shao,
-  "**for three months did not notice the taste of meat**." The single vertical tube was then called *di*.
+  The **Book of Documents**' "**xiao-shao nine times, the phoenix comes**": it led the Shao music, which took
+  its name; the **Book of Songs**: "xiao and pipes raised together"; Confucius, hearing the Shao,
+  "**for three months did not notice the taste of meat**." The single vertical tube was then called **di**.
 - **After the Tang, "xiao" drifted to the single tube** (see the [[instrument:xiao|xiao]] entry) —
   and the many-tubed one had to **add a character to find itself again**: **paixiao**.
-  "The name *paixiao* begins with Zhao Lin's *Yinhua Lu* (Tang)"; by the Yuan it was the official term.
+  "The name **paixiao** begins with Zhao Lin's **Yinhua Lu** (Tang)"; by the Yuan it was the official term.
 - Its older names stayed in the books and the poetry:
   **"dixiao · yaxiao · songxiao · shunxiao · bizhu · cencī · fengyi · duanxiao · yunxiao"** —
   ⭐ the most famous being **cencī, "the uneven": the everyday phrase "cencī buqi" (uneven) comes from
@@ -540,7 +540,7 @@ One story cannot be left out — the character **xiao (箫) shrank over history*
 | Spring and Autumn | **stone panpipes**: Xiasi tomb, Xichuan — one stone carved into 13 tubes, **walls one millimetre thick** |
 | early Warring States | ⭐ **two bamboo pipes in Zeng Hou Yi's tomb** (buried 433 BCE) — 13 tubes, bitter bamboo, single wing, a "male-female" pair |
 | after the Han | the **equal-tube** form (wax-footed tuning); Cai Yong records "23 tubes large, 16 small" |
-| Tang | in the court; the name *paixiao* first recorded; **Shōsōin fragments** (18 tubes originally) |
+| Tang | in the court; the name **paixiao** first recorded; **Shōsōin fragments** (18 tubes originally) |
 | after the Song | ⚠️ **lost among the people**, kept in court music |
 | Ming–Qing | court ritual instrument; the Qing turns to **double wing · lü-ordered · wooden frame** (a 1743 example survives) |
 | modern times | ⚠️ **nearly extinct** |
@@ -561,7 +561,7 @@ keys, semitone tubes, five octaves.
   corrected by the object itself.
 - **"Length alone tunes it."** ⚠️ Length gives the note; **wax at the foot trims it** —
   "stop the foot with honey-wax, adding or removing until it agrees"; in equal-tube sets the **wax depth
-  *is* the graduation**.
+  **is** the graduation**.
 - **"Just an ordinary instrument."** ⚠️ In the ancient band it also **checked the tuning**:
   "the panpipes did serve to check the tuning of the ancient band," the coordinator of stone-and-metal music.
 

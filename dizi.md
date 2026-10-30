@@ -281,7 +281,7 @@ The previous three entries all belonged to **silk** — guqin, erhu, pipa, all q
 takes a step out: **it has no strings at all.**
 
 > ⚠️ **The same job, done completely differently in string and in air**
-> Strings and wind instruments are in fact solving **one problem**: **making the *speaking length* of the vibrator
+> Strings and wind instruments are in fact solving **one problem**: **making the **speaking length** of the vibrator
 > shorter or longer, and so changing the pitch.**
 >
 > | | String (guqin, pipa) | Air (dizi) |
@@ -290,7 +290,7 @@ takes a step out: **it has no strings at all.**
 > | **Getting the high notes** | **touch a node** → harmonic | **overblow** → excite a higher mode |
 > | **The hidden logic** | where the finger stops, the string "starts" | which hole is open, the air column "ends" |
 >
-> **Note the second row**: the string's *harmonic* and the pipe's *overblown note* are **two incarnations of one
+> **Note the second row**: the string's **harmonic** and the pipe's **overblown note** are **two incarnations of one
 > physical principle** — both say "**do not excite the lowest mode; make it vibrate in a higher one**". The guqin's
 > thirteen studs and the dizi's overblowing are talking about the same thing.
 
@@ -431,7 +431,7 @@ length to.** **That is a rule you can carry away from the instruments themselves
 
 - **About two and a half octaves.** The low register comes from **opening and closing the finger holes**; the top
   is reached mainly by **overblowing**.
-- **It is a *family*, not one instrument**: made in C, D, E, F, G, A and B; by use it divides into **qudi**
+- **It is a **family**, not one instrument**: made in C, D, E, F, G, A and B; by use it divides into **qudi**
   (accompanies Kun opera; long, thick tube, mellow) and **bangdi** (accompanies bangzi opera; short, thin tube,
   bright and piercing), plus a lower **xindi (da di)**.
 - **One flute, several keys by fingering** — how many, though, depends on whether the fingering system can cover
@@ -489,7 +489,7 @@ membrane.**
 | Tang | the transverse flute is well established, but **has no membrane** — at that time only the xiao bore one |
 | Song–Yuan | **the membrane moves to the flute** and the xiao stops using it — **the modern dizi takes shape** |
 | Ming–Qing | it becomes the **mainstay of opera accompaniment**: the **qudi** for Kun opera, the **bangdi** for bangzi opera; southern and northern styles separate |
-| 20th c. | layout improvements: seven-, nine- and ten-hole dizi, more keys and semitones; a large solo repertoire appears (*New Shepherd's Song*, *Urging the Horse to Carry Grain*, *A Stroll in Suzhou*) |
+| 20th c. | layout improvements: seven-, nine- and ten-hole dizi, more keys and semitones; a large solo repertoire appears (**New Shepherd's Song**, **Urging the Horse to Carry Grain**, **A Stroll in Suzhou**) |
 
 **One detail in its history is revealing**: **the name "di" has pointed at different instruments over two
 millennia.** The pre-Qin "di" was end-blown (the later xiao); today's transverse flute is the product of an

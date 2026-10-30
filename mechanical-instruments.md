@@ -302,7 +302,7 @@ devices**: **they store the act of playing itself and then let it happen on its 
 > repeatedly.** A pin on a barrel, a hole in a paper roll — that is **a record of actions**.
 >
 > Which gives this page's central distinction:
-> **they record *actions*, whereas the phonograph records *sound*** — two entirely different ways of "keeping
+> **they record **actions**, whereas the phonograph records **sound** ** — two entirely different ways of "keeping
 > music".
 
 | Classification | Value |
@@ -320,7 +320,7 @@ devices**: **they store the act of playing itself and then let it happen on its 
 | Drums inside a mechanical band | **drumheads** | **membranophone** |
 
 **Note that nothing in this family has a sound of its own** — a music box sounds its comb, a player piano sounds
-a piano, a barrel organ sounds pipes. **Its role is the *performer*, not the instrument** — a point that matters
+a piano, a barrel organ sounds pipes. **Its role is the **performer**, not the instrument** — a point that matters
 below.
 
 ## Structure: the tune is cut into metal
@@ -439,7 +439,7 @@ Three points:
 2. **The paper roll was the key upgrade.** With dynamics and tempo added, the player piano could for the first
    time **replay one particular performance** — and in the early 20th century a number of famous players left
    their playing behind in exactly this form.
-3. **It lost in the end on *what* was recorded.** The phonograph (from 1877) captured **sound** directly, with no
+3. **It lost in the end on **what** was recorded.** The phonograph (from 1877) captured **sound** directly, with no
    need to drive an instrument and no limits from that instrument.
    **But its idea won**: today's **sequencers and MIDI still record actions** — **whoever punches the roll or
    edits the data is the performer who is not in the room.**
@@ -505,7 +505,7 @@ Four cues:
 | late 20th c. to today | restored as collectors' items and early-music devices; **its idea lives on in sequencers and MIDI** — recording actions never died |
 
 **Its fate has the same shape as the [[instrument:portative-organ|portative organ]]'s**:
-**the principle was not wrong; the *object* being recorded was.**
+**the principle was not wrong; the **object** being recorded was.**
 The portative organ lost to a lighter implementation; mechanical instruments lost to a **more direct recording
 object** — sound. **When one technology replaces another, it is rarely a question of which is better made, but of
 which records something more fundamental.**

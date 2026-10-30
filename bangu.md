@@ -349,14 +349,14 @@ By volume it is the smallest instrument in the family; by **authority** it is th
 >
 > ⭐ **Rule ⑰: a radius can also be extended by authority rather than by volume.**
 > And authority needs handles. The bangu has two:
-> **it hands out *speed*, and speed has to be decided by someone; and its sound is so short that it can be
+> **it hands out **speed**, and speed has to be decided by someone; and its sound is so short that it can be
 > used as a stopwatch.** (A long-ringing [[instrument:daluo|daluo]] can be punctuation but never a stopwatch.)
 
 | Classification | Value |
 |---|---|
 | **HS class** | **Membranophone** · **struck** · **single-headed** · no definite pitch (but **a clear sense of pitch**) |
 | **Sub-type** | body **built from five thick hardwood boards** (maple, birch, locust, mulberry, beech, teak) · **one ox-hide head** · **flaring bore** · **iron ring at the base** · suspended on a stand · struck with two **cane or bamboo sticks** |
-| **Family** | Chinese · percussion (**the conducting instrument of the opera orchestra**; the soul of the *wu-chang* section) |
+| **Family** | Chinese · percussion (**the conducting instrument of the opera orchestra**; the soul of the **wu-chang** section) |
 | **Bayin** | **hide (革)** — the head is ox hide |
 
 ## Structure: a small drum inside a board
@@ -400,7 +400,7 @@ Three points:
 1. ⭐ **"Bangu" is literally true of its construction, too.** The body is built from **five thick
    hardwood boards** and is 25 cm across — **most of it is board, and only the skin over the central hole
    can vibrate freely.** (⚠️ The usual explanation of the name is "**played by one player together with the
-   *ban* clappers**", with a second account "**used only by theatre companies**"; "a drum inside a board" is
+   **ban** clappers**", with a second account "**used only by theatre companies**"; "a drum inside a board" is
    a coincidence of construction, but it does help the name stick.)
 2. **The bore flares like the character 八 (narrow at the top, wide at the base), with an iron ring at the
    bottom.** The skin is **stretched over the entire board and wrapped to the rim**, held by many closely
@@ -461,8 +461,8 @@ But the real point is the **second channel**.
 
 ⭐ **It has two sets of signals.**
 
-- **Audible**: the **drum patterns**. "Slow changchui" says *unhurried*; "jijifeng" says *fast and tense*;
-  "sijitou" says *strike a pose here*. **Each one is an instruction to the whole company, not merely a
+- **Audible**: the **drum patterns**. "Slow changchui" says **unhurried**; "jijifeng" says **fast and tense**;
+  "sijitou" says **strike a pose here**. **Each one is an instruction to the whole company, not merely a
   rhythm.**
 - **Visible**: the drummer's entire vocabulary of **hand gestures**, known in the trade as **"fan'er"** —
   the height, direction and rotation of the arms and wrists issue **start · stop · loud · soft**.
@@ -471,7 +471,7 @@ But the real point is the **second channel**.
 
 ⭐⭐ **Rule ⑱: when an instrument must both sound and command, it necessarily grows a technique that makes
 no sound at all.** Those gestures are **not playing** — **they are a conducting language.**
-And traditionally the bangu's technique is *already* divided in two:
+And traditionally the bangu's technique is **already** divided in two:
 **"audible strokes"** (single stick, double stick, rolls, stick on the clappers)
 and **"silent gestures"** (the eleven named above).
 
@@ -486,7 +486,7 @@ This one instrument has **five** names:
 | **Bangu** | **Its partner**: normally played by one player together with the **ban** clappers |
 | **Danpigu** | ⭐ **Its construction**: **one** skin, unlike drums skinned on both faces |
 | **Ban'gu** | ⭐ **Who used it**: theatre companies (戏班) only |
-| **Dagu** (Qing) | **Its sound**: *"yin jiao ji"* — tight and urgent |
+| **Dagu** (Qing) | **Its sound**: **"yin jiao ji"** — tight and urgent |
 | **Huangu** (Naxi) | **Its shape**: a thick wooden **ring** |
 
 ⭐ **This is an upgrade: not "what kinds of source do names have", but — one name records one fact, so one
@@ -507,7 +507,7 @@ That adds an eighth source to this site's "history of names":
 
 **And the pair "guban" left a term in the language**: with the **ban** clappers in the left hand, the
 "**ban**" stroke marks the **strong beat**, while the right-hand stick on the drum produces **"yan"**
-and other colours for the **secondary and weak beats**. ⭐ **The word *banyan*, the whole concept of
+and other colours for the **secondary and weak beats**. ⭐ **The word **banyan**, the whole concept of
 strong-and-weak patterning, is just these two instruments' division of labour written into the language.**
 
 ## Timbre, and how to hear it
@@ -523,7 +523,7 @@ Four cues:
    (a stab) differs from **flat striking** it.
 4. **Different bore sizes are different grades**: the **small bore** (5 cm, **high and crackling**) for
    Peking and Ping opera; the **middle bore** (8 cm) for Yue opera and Shanxi and northern Shaanxi opera;
-   the **large bore** (10 cm, **broad and mellow**) for *shifan* drumming, and able to **solo a fast drum
+   the **large bore** (10 cm, **broad and mellow**) for **shifan** drumming, and able to **solo a fast drum
    passage**. Another naming gives **gan gu** (5 cm heart, **higher**, Peking/Ping opera) and **bao gu**
    (10 cm heart, **lower**, Qin and Jin opera).
    ⚠️ **The rule: a bigger head is lower; a smaller head is higher.**
@@ -537,14 +537,14 @@ Four cues:
 - **Suspended, then struck.** The drum **hangs on a stand from cords and touches nothing hard** — the same
   principle as the [[instrument:yunluo|yunluo]]: **for a clean sound, first remove the contacts.**
 - **Two sticks, cane and bamboo.** It is played with thin sticks of **cane or bamboo** (also called
-  *drum arrows*), not beaters — **it wants a point, not a blow.**
+  **drum arrows**), not beaters — **it wants a point, not a blow.**
 - **Three actions**: **double** (both hands together, or alternating rolls) ·
   **single** (right hand on the drum, **left hand on the clappers at the same time**) ·
   **muted** (left stick pressed on the head while the right strikes it).
 - **It and the clappers are one person.** The **ban** clappers are three boards of rosewood or boxwood, and
   **the drummer manages both**: the left hand holds the clappers and clicks them, the right hand holds the
   stick. **One person is in charge of both the beat and the tempo.**
-- **It leads in folk ensembles too.** In *shifan gu* and *shifan luogu* the bangu and the **tonggu**
+- **It leads in folk ensembles too.** In **shifan gu** and **shifan luogu** the bangu and the **tonggu**
   (a kind of [[instrument:tanggu|tanggu]]) are **played by one person**, who **leads the ensemble** and can
   play whole contrasted **drum passages**.
 - **It has multi-ethnic counterparts**: the Naxi **huangu** is used in **Dongjing music**, and there it is
@@ -561,7 +561,7 @@ Four cues:
 | [[instrument:naobo\|Naobo]] | two bronze discs | — | none | no (an executor) |
 | Ban clappers | three hardwood boards | — | none | half (with the bangu they make up "guban") |
 
-⭐ **This table *is* the Peking-opera percussion section**:
+⭐ **This table **is** the Peking-opera percussion section**:
 **the bangu gives the orders, the clappers mark the beat, the gong and cymbals carry them out.**
 (And **a percussion instrument conducting a section made entirely of percussion instruments** is something
 the Western orchestra simply does not have.)
@@ -570,12 +570,12 @@ the Western orchestra simply does not have.)
 
 | Period | State |
 |---|---|
-| Tang (618–907) | **already used in "pure music" (qingyue)**, then called **jiedu** (possibly its ancestor); also in the *qingyue* of the Sui and Tang court suites |
+| Tang (618–907) | **already used in "pure music" (qingyue)**, then called **jiedu** (possibly its ancestor); also in the **qingyue** of the Sui and Tang court suites |
 | Ming–Qing | with the growth of opera it spreads into **Kun and Peking opera** and other regional forms; in the Qing it is also called **dagu** |
 | Qing | ⭐ the *Continuation of the Comprehensive Examination of Qing Documents*: **"the ban'gu, also called dagu: its note is tight and urgent; it is the leader of all the instruments, and its striking is exceedingly difficult."** Even the official record calls it **the leader** |
-| modern | it becomes **the conducting instrument of the opera orchestra** and the soul of the *wu-chang*; in *shifan gu* and *shifan luogu* it leads |
+| modern | it becomes **the conducting instrument of the opera orchestra** and the soul of the **wu-chang**; in **shifan gu** and **shifan luogu** it leads |
 | minority traditions | the Naxi **huangu** (Dongjing music, played by the deputy conductor) · the Tujia (silk-string gong-and-drum) · the Dong (wind-and-percussion bands) |
-| today | small bore / *gan gu* for Peking and Ping opera, large bore / *bao gu* for Qin and Jin opera, middle bore for Yue opera — **one instrument, graded by genre** |
+| today | small bore / **gan gu** for Peking and Ping opera, large bore / **bao gu** for Qin and Jin opera, middle bore for Yue opera — **one instrument, graded by genre** |
 
 **One sentence from its history deserves to stand alone**:
 **"Its note is tight and urgent; it is the leader of all the instruments, and its striking is exceedingly
@@ -588,8 +588,8 @@ compiling an official Qing document.
   smallest in the family. **It works by position, not by loudness.**
 - **"Bigger drums are lower, so the conductor must use the biggest one."** The rule is right
   (**a bigger head is lower, a smaller head higher**), but the conclusion is backwards: **conducting needs
-  short and precise, so it uses the small bore / *gan gu*** (higher, shorter). The large bore / *bao gu*
-  is left for *shifan* drumming, where a broad mellow sound is wanted.
+  short and precise, so it uses the small bore / **gan gu** ** (higher, shorter). The large bore / **bao gu**
+  is left for **shifan** drumming, where a broad mellow sound is wanted.
 - **"The centre is higher, the edge lower."** ⚠️ **This site does not assert that.**
   What the sources say is that **the centre and the edge sound different**, and they describe the
   difference in **timbre** (dead centre **crispest and loudest**, the edge of the heart **softer**).
@@ -616,5 +616,5 @@ against it edge-on. But its most remarkable feature is not its sound, it is its 
 **it accompanies scholars, women and clowns.**
 
 So the next question is: **inside one percussion section, on what grounds do instruments divide up by
-*character type*?**
+**character type**?**
 :::

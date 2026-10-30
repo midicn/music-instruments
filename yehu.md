@@ -374,7 +374,7 @@ positions.**
 The name looks obvious but it comes in three layers:
 
 - its historical name is 「**潮提**」, and in **Chaozhou music** it is called 「**冇弦**」
-  (Cantonese and Hakka *mou*; Teochew and Hokkien as spoken in **Taiwan, China**: *pah*, with a nasal);
+  (Cantonese and Hakka **mou**; Teochew and Hokkien as spoken in **Taiwan, China**: **pah**, with a nasal);
 - it belongs to **both the Li and the Han** peoples;
 - 「**椰胡**」 is the name it acquired **after it travelled out** — half from the material,
   half from **Hainan**.
@@ -480,7 +480,7 @@ instrument museum in Beijing.
 
 | Q | A |
 |---|---|
-| Names | 「**潮提**」 · 「**冇弦**」(*mou* / *pah*) · 「**椰胡**」 after it travelled |
+| Names | 「**潮提**」 · 「**冇弦**」(**mou** / **pah**) · 「**椰胡**」 after it travelled |
 | Sound box | ⭐ **more than half a coconut shell** · paulownia front · **five-hole** window |
 | Bridge | ⭐ a **small shell** (whelk); also bamboo or rolled paper |
 | Tuning · range | **g–d¹** (a fifth) · about **two octaves** |

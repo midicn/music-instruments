@@ -372,7 +372,7 @@ updated: 2026-09-28
 
 ⭐ Hence names-history item ㉒: **names and documents stop at the "most typical" form** —
 **while the instrument walks on.**
-(Compare ㊶, "classification lags behind sound": one is *recognition* arriving late; this is the *name*
+(Compare ㊶, "classification lags behind sound": one is **recognition** arriving late; this is the **name**
 stopping early.)
 
 ## Range

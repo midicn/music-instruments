@@ -170,7 +170,7 @@ The qanun's root is the Greek **κανών (kanōn) — rule, law, norm**. ⭐�
 
 ## ⭐⭐ Two birth certificates: one writes dimensions, one writes intervals
 
-⭐⭐ **The earliest description comes from a theorist**: al-Farabi (872–950) describes a qānūn in the *Kitab al-Musiqa al-Kabir* —— ⭐⭐ **the instrument appears in a philosopher's book: its origin lies in interval theory, not in repertoire**.
+⭐⭐ **The earliest description comes from a theorist**: al-Farabi (872–950) describes a qānūn in the **Kitab al-Musiqa al-Kabir** —— ⭐⭐ **the instrument appears in a philosopher's book: its origin lies in interval theory, not in repertoire**.
 
 ⭐⭐ Against the oud entry: al-Kindi recorded the oud's **dimensions** (thirty-six fingers) —— ⭐⭐ **the two Middle Eastern instruments' birth certificates, one a measurement of size, one a measurement of interval.**
 
@@ -180,7 +180,7 @@ The qanun's root is the Greek **κανών (kanōn) — rule, law, norm**. ⭐�
 
 ⭐⭐ Beneath every course sits a small brass lever, and **pressing it lightly against the string shortens the effective vibrating length, raising that note by about a quarter tone**. ⭐⭐ 「**Hundreds of mandal configurations are at the player's disposal** on an ordinary Turkish kanun」 —— ⭐⭐ **the site's most refined single-note fine tuner: it does not alter timbre but the pitch itself, in real time during performance** (against the auto-tune's correction · the oud's fingertip locating —— ⭐⭐ **the qanun uses a mechanical lever to do what the oud does with a finger**).
 
-⭐⭐ **The mandal predates the standard**: the Turkish musicologist Rauf Yekta found the technique in use on ordinary diatonic kanuns some **30 years** before his Turkish music monograph appeared in the 1922 *Encyclopédie de la Musique* —— ⭐⭐ **a technique for adding pitch correction preceded the idea that pitch correction needed standardising.**
+⭐⭐ **The mandal predates the standard**: the Turkish musicologist Rauf Yekta found the technique in use on ordinary diatonic kanuns some **30 years** before his Turkish music monograph appeared in the 1922 **Encyclopédie de la Musique** —— ⭐⭐ **a technique for adding pitch correction preceded the idea that pitch correction needed standardising.**
 
 ⭐⭐ **The 20th-century standard**: the Turkish conservatories, under Arel and Ezgi, produced the **AEU (Arel–Ezgi–Uzdilek) system**, which fixes both tuning and mandal configuration to serve the AEU makam theory —— ⭐⭐ **a theory and an instrument configuration bound together: the instrument as the materialisation of a theory** (against the bells reading a lü —— ⭐⭐ **the qanun is the first time a tuning system grew into something playable**).
 
@@ -218,7 +218,7 @@ The qanun's root is the Greek **κανών (kanōn) — rule, law, norm**. ⭐�
 | Node | Content |
 |---|---|
 | 19th century BC | A stringed instrument engraved on the ivory box from Nimrud |
-| 9th century | al-Farabi describes the qānūn in the *Great Book of Music* (a theoretical birth) |
+| 9th century | al-Farabi describes the qānūn in the **Great Book of Music** (a theoretical birth) |
 | 11th century | A central instrument of Islamic court music |
 | 16th–19th century | The Ottoman court and the fasıl ensemble · the Egyptian and Syrian schools |
 | 1859 | A qanun player in Jerusalem, recorded by European travellers |

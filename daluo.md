@@ -334,7 +334,7 @@ what it needs is **to carry**, and carrying far and having a clear pitch are two
 | Classification | Value |
 |---|---|
 | **HS class** | **Idiophone** · **struck** · **no definite pitch** |
-| **Sub-type** | bronze disc, slightly dished · **raised boss at the centre (the *luoqi* / *luoguang* / *luomen*)** · sloped **rim** outside it · cord holes drilled through the rim · struck with a wooden beater whose head is cloth-wrapped |
+| **Sub-type** | bronze disc, slightly dished · **raised boss at the centre (the **luoqi** / **luoguang** / **luomen**)** · sloped **rim** outside it · cord holes drilled through the rim · struck with a wooden beater whose head is cloth-wrapped |
 | **Family** | Chinese · percussion (a **bossed gong**; one of the Peking-opera **wu-chang trio**) |
 | **Bayin** | **metal (金)** — forged from bronze ("resounding copper") |
 
@@ -378,11 +378,11 @@ what it needs is **to carry**, and carrying far and having a clear pitch are two
 
 Three points:
 
-1. **Three concentric zones, each with its own job.** At the centre is the **boss** (also called *luoguang*;
-   in Peking opera, *luomen* or *luoxin*) and **it is the main sounding part**; outside it is the **face**
+1. **Three concentric zones, each with its own job.** At the centre is the **boss** (also called **luoguang**;
+   in Peking opera, **luomen** or **luoxin**) and **it is the main sounding part**; outside it is the **face**
    (also called the "second position"); outermost is the sloped **rim**. **The boss's size and thickness,
    as a proportion of the face, decide how high or low the gong sits.**
-2. **The rim is drilled for a cord — it is *carried*, not hung.** A medium gong has leather or silk cords
+2. **The rim is drilled for a cord — it is **carried**, not hung.** A medium gong has leather or silk cords
    through two holes in the rim; the left hand holds the gong, the right hand strikes.
    **The way it is held is itself evidence of its job**: something you can carry is something you can use
    for clearing a road, marching, or a temple fair.
@@ -461,7 +461,7 @@ That is the **exact opposite route** from the [[instrument:yunluo|yunluo]]:
 
 The daluo's first post was not musical at all:
 
-- **"Strike the gong and withdraw"** — in the classical phrase *ming jin shou bing*, the "metal" that is struck
+- **"Strike the gong and withdraw"** — in the classical phrase **ming jin shou bing**, the "metal" that is struck
   **is the gong**. It was a military signal.
 - It still is, in a sense: **a 32 cm flood-warning gong was measured carrying 800 metres in the open air.**
 
@@ -483,13 +483,13 @@ ringing**. **Giving up pitch is what bought it that entire social radius.**
 
 Four cues:
 
-1. **Low, loud, hard.** It is not *a note* but **a mass of sound** — its partials are so dense that you hear
+1. **Low, loud, hard.** It is not **a note** but **a mass of sound** — its partials are so dense that you hear
    no pitch, only **a weight**.
 2. **A long, lingering tail.** After one stroke the sound hangs in the air — which is precisely why it
    carries so far.
 3. **Centre and edge are two characters.** The centre is thick and low, the rim thin and higher; so when you
    hear a daluo, **noticing which part was struck tells you more than listening for a pitch**.
-4. **The hand changes the timbre too.** Heavy strokes, light strokes, edge strokes, and *press-and-hold*
+4. **The hand changes the timbre too.** Heavy strokes, light strokes, edge strokes, and **press-and-hold**
    (the muted stroke) — **how long the hand stays on the face is how long the tail lasts.**
 
 ```audiolab
@@ -507,11 +507,11 @@ Four cues:
 - **In Peking opera it is graded**: accompaniment mainly uses **six gongs of different pitch** —
   low, middle, upper-middle, large bright, small bright and high bright.
   **If one instrument gives only one note, you use six instruments to get six characters.**
-- **It is one of the Peking-opera *wu-chang* trio** (with the **single-skin drum** and the **small gong**).
+- **It is one of the Peking-opera **wu-chang** trio** (with the **single-skin drum** and the **small gong**).
   There it is in charge of **scale**: generals entering and leaving, battle scenes, a sudden turn of feeling —
   **one stroke and the whole scene has changed.**
-- **Different genres and occasions use different gongs**: the *suluo* (low, deep and lingering), *huyinluo*,
-  *fang-suluo*, *fengluo* (high), *heiluo* (the "road-clearing gong"), and the huge *dashailuo*.
+- **Different genres and occasions use different gongs**: the **suluo** (low, deep and lingering), **huyinluo**,
+  **fang-suluo**, **fengluo** (high), **heiluo** (the "road-clearing gong"), and the huge **dashailuo**.
   **Which gong you pick is itself a dynamic marking for the line that follows.**
 
 ## The family
@@ -521,8 +521,8 @@ Four cues:
 | **Daluo** | **yes** | **none** | **several timbres** (point + hand) | **drum-and-gong patterns · signals · clearing the way** |
 | [[instrument:yunluo\|Yunluo]] | **no** (flat) | **definite** (one note per gong) | **ten pitches** | the melodic skeleton of an ensemble |
 | [[instrument:gong\|Gong (tam-tam)]] | no | none | **one** (usually a single stroke) | atmosphere and climax in the orchestra |
-| *Xiaoluo* (small gong) | yes (slightly raised) | none | several | Peking-opera *wu-chang* (scholars, clowns) |
-| *Zhangluo* (palm gong) | no (flat as a dish) | — | few | struck in the palm of the hand |
+| **Xiaoluo** (small gong) | yes (slightly raised) | none | several | Peking-opera **wu-chang** (scholars, clowns) |
+| **Zhangluo** (palm gong) | no (flat as a dish) | — | few | struck in the palm of the hand |
 
 **This table lays out the two axes separately — "bossed or not" and "pitched or not"** — and they
 **do not correspond**: the yunluo has no boss and is pitched; the daluo has a boss and is not.
@@ -534,11 +534,11 @@ Four cues:
 |---|---|
 | Qin–Han | the gong can be traced to the **bronze discs of the Qin and Han**, first used for **military command** |
 | Western Han | a **bronze gong of the Baiyue** from the early Western Han was excavated from **Tomb No. 1 at Luobowan, Guixian, Guangxi** — over two thousand years of history |
-| Tang | the *Old Book of Tang*, "Music", ch. 29, under *tongba*: **"the *tongba*, also called the bronze disc, comes from the western regions and the southern barbarians"** — one of the earliest documentary mentions of the gong |
+| Tang | the **Old Book of Tang**, "Music", ch. 29, under **tongba**: **"the **tongba**, also called the bronze disc, comes from the western regions and the southern barbarians"** — one of the earliest documentary mentions of the gong |
 | after the Yuan | it enters **opera and folk music** |
-| Ming–Qing | an important accompanying instrument in **Kun opera**; the **daluo joins the Peking-opera *wu-chang*** alongside the drum and the small gong |
+| Ming–Qing | an important accompanying instrument in **Kun opera**; the **daluo joins the Peking-opera **wu-chang** ** alongside the drum and the small gong |
 | late 18th c. | **it reaches Europe, and in 1791 the French composer Gossec puts it into an orchestra for the first time** |
-| since | ⭐ **it became the only Chinese instrument in the symphony orchestra**; meanwhile it branched into the *jingluo*, *suluo* and others, some forms still handed down **within families** |
+| since | ⭐ **it became the only Chinese instrument in the symphony orchestra**; meanwhile it branched into the **jingluo**, **suluo** and others, some forms still handed down **within families** |
 | today | one at the opera house in charge of scale, one in **road-clearing, flood warning and festival** work as a signal — **its two posts have not changed in two thousand years** |
 
 **The line worth remembering on this page was written down for us by Europe**:

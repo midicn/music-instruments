@@ -242,20 +242,20 @@ updated: 2026-09-27
 :::
 
 ::: en
-**The yangqin is an instrument that was *edited twice* — and both edits left a paper trail.**
+**The yangqin is an instrument that was **edited twice** — and both edits left a paper trail.**
 
 > ⚠️ **The first edit was the tool.** The 1744 gazetteer of Macao, China records a "**bronze-stringed zither**"
 > there, "**struck with split bamboo, ringing and chiming**" — and the sources state plainly that the book
-> records the change of the striking tool "**from the imported wooden hammer to the bamboo *qinzhu***."
+> records the change of the striking tool "**from the imported wooden hammer to the bamboo **qinzhu** **."
 >
-> ⚠️ **The second edit was the name.** "**Qiu Heshou's *Qinxue Xinbian* records changing the imported
+> ⚠️ **The second edit was the name.** "**Qiu Heshou's **Qinxue Xinbian** records changing the imported
 > 'yangqin' (洋琴, foreign zither) to 'yangqin' (扬琴).**"
 >
 > ⭐⭐ **Rule ㊸: to be accepted, a foreign instrument must be edited twice — the tool first, the name second.**
 > Wooden hammer to bamboo (**easier in the hand**), 洋琴 to 扬琴 (**easier on the ear**).
 > And this is the first instrument in the batch whose **rename has a named author** —
-> compare the [[instrument:guanzi|guanzi]]: **its name was simply *said* into being; the yangqin's name was
-> *changed* by someone.**
+> compare the [[instrument:guanzi|guanzi]]: **its name was simply **said** into being; the yangqin's name was
+> **changed** by someone.**
 
 | Classification | Value |
 |---|---|
@@ -302,7 +302,7 @@ updated: 2026-09-27
 
 ⭐ Three points:
 
-1. **It is struck.** Bamboo **hammers** (the *qinzhu*) hit the strings — **the odd one out in this plucked
+1. **It is struck.** Bamboo **hammers** (the **qinzhu**) hit the strings — **the odd one out in this plucked
    section**: strings, yes, but the sound comes from a blow (the sources call it "**grain and ring**" at
    once).
 2. **Two peak-and-valley bridges.** "The peaks carry strings; the valleys let the other bridge's strings
@@ -312,7 +312,7 @@ updated: 2026-09-27
    [[instrument:bianzhong|two-pitch bell]] (rule ㉙): **the bell splits two notes by its shape; the string
    splits two notes by its bridge position.**
 
-## From *yangqin* (洋琴) to *yangqin* (扬琴): two edits
+## From **yangqin** (洋琴) to **yangqin** (扬琴): two edits
 
 ```svg
 <svg viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Route of the yangqin: Mesopotamia, Persia, into Europe, to Guangdong by sea in 1580, the Qing changes of hammer and name, and twentieth-century reforms">
@@ -354,8 +354,8 @@ updated: 2026-09-27
 
 | Edit | Recorded by | Content |
 |---|---|---|
-| **The tool** | the 1744 gazetteer | striking tool changed "from the imported **wooden hammer to the bamboo *qinzhu***" |
-| **The name** | **Qiu Heshou's *Qinxue Xinbian*** | imported "**洋琴**" changed to "**扬琴**" |
+| **The tool** | the 1744 gazetteer | striking tool changed "from the imported **wooden hammer to the bamboo **qinzhu** **" |
+| **The name** | **Qiu Heshou's **Qinxue Xinbian** ** | imported "**洋琴**" changed to "**扬琴**" |
 
 ⭐ And "洋" was the era's general prefix for imported things — **洋片 · 洋火 · 洋琴** (this batch even has a
 song called 《拉洋片》, "peep-show slides"). **The yangqin swapped its own 洋 out: same sound, different
@@ -371,7 +371,7 @@ routes:
   15th century — where its kin is the **dulcimer**; in West Asia it is still the **santur**; in Hungary, the
   cimbalom.
 - **Eastward:** "**about 1580, during the Wanli reign, entering Guangdong by the maritime Silk Road**" (or,
-  by another account, overland via the Pamirs) — and **once landed, its first step was to be *edited*.**
+  by another account, overland via the Pamirs) — and **once landed, its first step was to be **edited**.**
 
 ⚠️ Also recorded: some Chinese scholars hold a "**Yangzhou origin**" view; this page sets both accounts side
 by side without adjudicating.
@@ -382,14 +382,14 @@ by side without adjudicating.
 {"range":"G3–A6","caption":"扬琴的音域（以 401 型 · 54 音位示意）","caption_en":"Yangqin range — the 401 type with 54 positions","note":"扬琴属击弦弦鸣乐器。传统形制音域有限：双八型 f¹—c² · 双十型 d¹—d³ · 双十二型 c—e³；20 世纪改革后：401 型 54 个音位 · 音域 G—a³（半音相对齐备 · 可转调）· 402 型在 401 基础上增半音音位 · 501 型 77 个音位 · 音域 E—c⁴ · 可转 12 个调。本图按 401 型取 G3–A6 示意。记谱即实音。"}
 ```
 
-## Where it works hardest: *qinshu* and opera
+## Where it works hardest: **qinshu** and opera
 
 ⭐ One sentence from the sources carries weight:
 
 > "**At first the yangqin was used mostly to accompany narrative singing and local opera. Among these, every
-> region's *qinshu* ('zither books') took the yangqin as its chief accompanying instrument.**"
+> region's **qinshu** ('zither books') took the yangqin as its chief accompanying instrument.**"
 
-**— the very name of the *qinshu* genre comes from it.** (Shandong qinshu, Sichuan qinshu, Henan qinshu,
+**— the very name of the **qinshu** genre comes from it.** (Shandong qinshu, Sichuan qinshu, Henan qinshu,
 Xuzhou qinshu… **the "qin" is the yangqin.**)
 
 ⭐ So this batch's thread of "**genres named after instruments**" now has three examples:
@@ -413,9 +413,9 @@ many genres.**
   section, like the piano and the [[instrument:bianzhong|bells]]: strings or metal, but sound by blow.
 - **"It is native Chinese."** ⚠️ The mainstream view is **imported** (Mesopotamia–Persia line, entering
   Guangdong about 1580); a "Yangzhou origin" account coexists.
-- **"It was always called yangqin."** ⚠️ It was first **洋琴** (foreign zither), also *daqin*, *hudieqin*,
-  *tongsqin*, *shanmianqin* — and **Qiu Heshou's book records a rename**: 洋琴 → 扬琴.
-- **"It only accompanies."** ⚠️ It has solos (*Spring Dawn at Green Lake*, *Thunder in Drought*, *Yi Dance*)
+- **"It was always called yangqin."** ⚠️ It was first **洋琴** (foreign zither), also **daqin**, **hudieqin**,
+  **tongsqin**, **shanmianqin** — and **Qiu Heshou's book records a rename**: 洋琴 → 扬琴.
+- **"It only accompanies."** ⚠️ It has solos (**Spring Dawn at Green Lake**, **Thunder in Drought**, **Yi Dance**)
   and concert works; the 401 / 402 / 501 reforms carried it from "a sixth over an octave, badly out of tune"
   to **free modulation and a wide range**.
 - **"A foreign instrument stays foreign."** ⚠️ It had its tool, name, bridges and layouts all altered —
@@ -429,7 +429,7 @@ many genres.**
 
 Three cues:
 
-1. **Hear "grain *and* ring."** Contradictory words, both true: a strike is **a dot first, then a line.**
+1. **Hear "grain **and** ring."** Contradictory words, both true: a strike is **a dot first, then a line.**
 2. **Hear the "horizontal" habit.** The sources say it favours "**horizontal**" melodic ornamentation —
    **it embellishes the tune rather than owning it** (exactly its role in qinshu and opera).
 3. **Hear the damping.** Post-reform models added a **damper** — too much ring muddies; **knowing when to

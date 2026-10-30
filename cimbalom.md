@@ -501,11 +501,11 @@ directly from the pedal (and the range and volume that came with it).
 | Period | State |
 |---|---|
 | From the 16th c. | the hammered dulcimer reaches Hungary along Roma and Ottoman routes; becomes a village and tavern instrument |
-| 18th–19th c. | played by Roma bands (*banda cigánya*), mostly to accompany dancing |
+| 18th–19th c. | played by Roma bands (**banda cigánya**), mostly to accompany dancing |
 | **1874** | **József Schunda** of Budapest rebuilds it: longer strings, rearranged bridges, **four legs**, **a damper pedal**, fully chromatic, four octaves — the modern concert cimbalom is born |
 | 1873–74 | Schunda shows a prototype at the Vienna World's Fair, then opens a workshop opposite the Budapest Opera; by 1906 he has made over ten thousand |
 | Late 19th c. | Liszt and others take notice — the orchestral version of the Hungarian Rhapsodies includes cimbalom |
-| 20th c. | **Kodály** (*Háry János*), **Stravinsky** (*Renard*, *Ragtime for 11 Instruments*), **Boulez**, **Ligeti**, **Eötvös** and **Birtwistle** all write for it |
+| 20th c. | **Kodály** (**Háry János**), **Stravinsky** (**Renard**, **Ragtime for 11 Instruments**), **Boulez**, **Ligeti**, **Eötvös** and **Birtwistle** all write for it |
 | Today | two lines in parallel: solo and orchestral work in art music, and living folk traditions in Hungary, Romania and Slovakia |
 
 From tavern instrument to avant-garde scores in under a century — and the technical precondition was

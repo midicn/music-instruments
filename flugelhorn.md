@@ -376,7 +376,7 @@ The fingerings are identical to the [[instrument:trumpet|trumpet]]; what must be
 | [[instrument:french-horn\|Horn]] | large | **funnel** | warm, distant | orchestral middle |
 | [[instrument:tuba\|Tuba]] | large | very deep | thick, dark | the bass |
 
-**Note the horn's row**: its mouthpiece is a **funnel**, not a cup — a third parameter (mouthpiece *shape*
+**Note the horn's row**: its mouthpiece is a **funnel**, not a cup — a third parameter (mouthpiece **shape**
 rather than depth), and a reason the horn's colour can never quite be replaced from within the trumpet family.
 
 ## History

@@ -318,9 +318,9 @@ real craftsmanship** — however much decoration, the tune must stay the tune）
 These five characters are ⭐⭐ **not abstractions — each stands for something you can hear**:
 
 **吐** (single, double and triple)
-「through breath and tongue together, **the tip taps forward**, making a *tu* between teeth and lips,
+「through breath and tongue together, **the tip taps forward**, making a **tu** between teeth and lips,
 so the tone has **grain and force**」
-⭐ **double tonguing** = 「the first sounds *tu*, the second *ku* — together they make『**突库**』」, and it
+⭐ **double tonguing** = 「the first sounds **tu**, the second **ku** — together they make『**突库**』」, and it
 **appears in long runs of sixteenth notes, colouring the atmosphere in a fast, cheerful movement**
 ⭐⭐ **triple tonguing** = 「often 前八后十六 as『**突突库**』or 前十六后八 as『**突库突**』, used to
 **depict soldiers advancing and horses galloping**」
@@ -349,7 +349,7 @@ And what do the five do together? Feng Zicun 「运用『吐·滑·垛·花·飞
 as far as possible **贴近北方人们奔放热闹的生活场景**，注入真情实感」.
 
 ⭐⭐ **His technique earned the nickname「吹破天」. But these five are not for blowing anything
-apart** — ⭐⭐ **they correspond to: conversation (double tonguing's *tu-ku*), laughter (flower
+apart** — ⭐⭐ **they correspond to: conversation (double tonguing's **tu-ku**), laughter (flower
 tongue), a galloping horse (triple tonguing's rhythm), a bird in flight (flying fingers).**
 ⭐⭐ **Moving the sounds of daily life onto a flute — that is the northern school.**
 
@@ -419,7 +419,7 @@ directly to the angle of the lips.**
   <text x="370" y="151" font-size="10" fill="#E8C547">tong · slide · chuo · flower · fly</text>
   <text x="358" y="178" font-size="9.5" fill="#F0997B">⭐ only one of the five is not detached</text>
   <text x="358" y="196" font-size="9.5" fill="#6E6A64">⭐ the tongue is the busiest part</text>
-  <text x="358" y="214" font-size="9.5" fill="#6E6A64">double *tu-ku* · triple like a horse</text>
+  <text x="358" y="214" font-size="9.5" fill="#6E6A64">double tu-ku · triple like a horse</text>
 
   <text x="20" y="258" font-size="10.5" fill="#E8C547">⭐ Register decides how you breathe (both schools) · 「风门正，笛身平，头要直，胸要挺」</text>
 
@@ -453,7 +453,7 @@ directly to the angle of the lips.**
 | ⭐⭐ What the difference really is | ⭐⭐ **not which notes, but what the tongue does** — the south plays「**无舌吹奏，一气呵成**」, the north's「**舌头是最忙的部件**」 |
 | ⭐⭐ Physical root | ⭐⭐ **the qudi is thick and long**（air fills a long tube → airy and clear）·⭐ **the bandi is short and thin**（suits a thin membrane → higher vibration → bright）；⭐ **choosing a flute is choosing a school** |
 | ⭐ The south's four | **all take no time**（they are appendages）——⭐ **dou** layers the main note (2nd/3rd/4th, used to fill gaps)· ⭐ **da** strikes down and lifts (a downward 2nd)· ⭐ **zeng** an almost-not-there tail after a long note· ⭐ **trill** free of rhythm and pitch (plus **虚指颤音**=half-holing, **arm trill**) |
-| ⭐⭐ The north's five | ⭐ **tong** (single / double *tu-ku* / triple like a galloping horse)· ⭐ **chuo** (needs explosive force)· ⭐ **slide**（⭐ **no explosive force, the fingers knead instead → smooth and humorous**）· ⭐ **flower tongue**（vibration → dense grain）· ⭐ **flying fingers**（sweep the holes → broken sound / a bird） |
+| ⭐⭐ The north's five | ⭐ **tong** (single / double **tu-ku** / triple like a galloping horse)· ⭐ **chuo** (needs explosive force)· ⭐ **slide**（⭐ **no explosive force, the fingers knead instead → smooth and humorous**）· ⭐ **flower tongue**（vibration → dense grain）· ⭐ **flying fingers**（sweep the holes → broken sound / a bird） |
 | ⭐⭐ A practical line | ⭐⭐ **register decides breathing** — below the third hole **chest**, above it **belly**;⭐ 「风门恰当地收缩，可以**节省吹奏气息**，这是熟练运用**循环换气**的方法之一」 |
 | ⭐⭐ Pitch lives in the mouth | ⭐⭐ **lips at right angles to the blow hole**; under ninety degrees is flat, over ninety is sharp; generally the lower lip covers **a quarter** of the hole |
 | ⭐ Mnemonics | 「**风门正，笛身平，头要直，胸要挺**」·「**虎口之间可容蛋，关节舒畅手才灵**」·「**高低起落有规格**（1.5–2 cm），**多余动作丢干净**」 |
@@ -462,7 +462,7 @@ directly to the angle of the lips.**
 
 「吹破天」is Feng Zicun's nickname. But the northern five are not for blowing anything apart —
 
-⭐⭐ **they stand for: conversation (double tonguing's *tu-ku*), laughter (flower tongue), a
+⭐⭐ **they stand for: conversation (double tonguing's **tu-ku**), laughter (flower tongue), a
 galloping horse (triple tonguing's rhythm), a bird in flight (flying fingers).**
 
 ⭐⭐ **Moving the sounds of daily life onto a flute — that is the northern school.**

@@ -273,7 +273,7 @@ The single most important fact about the daf is this: **its sound has two layers
 | **doira** | 40–51 cm | Uzbekistan · Tajikistan | dance and solo playing, **with 20 to more than 100 rings** |
 | **dafli** | smaller | India | folk |
 
-⭐ **The Uyghurs call it 「hand drum / dap」** (Uyghur *dap*) — different name, very nearly the same instrument.
+⭐ **The Uyghurs call it 「hand drum / dap」** (Uyghur **dap**) — different name, very nearly the same instrument.
 
 ## ⭐⭐ The one instrument the law allows, the beat that carries the rite
 

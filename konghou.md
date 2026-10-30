@@ -338,8 +338,8 @@ with a phoenix and bodied like a boat (from India by way of Central Asia).
 | **Fengshou konghou** | **India via Central Asia** (early Eastern Jin) | phoenix head on the neck; soundbox "**boat-shaped**" |
 
 ⭐ Its naming is equally lovely: **"konghou" and "kanhou"** —
-"because it is **hollow inside** it was called *kong*hou; because it sounds in **clacking, marked beats** it was
-also called *kan*hou." (The *Tongdian* adds a third explanation: the maker's surname *Hou* may be in the sound
+"because it is **hollow inside** it was called **kong**hou; because it sounds in **clacking, marked beats** it was
+also called **kan**hou." (The **Tongdian** adds a third explanation: the maker's surname **Hou** may be in the sound
 itself.)
 
 ## "Nobody had ever seen a konghou"
@@ -395,9 +395,9 @@ itself.)
 
 In the Han and Tang it was a star — star enough that:
 
-- **it entered folk poetry**: *Southeast the Peacock Flies* praises its heroine with "thirteen, she wove;
+- **it entered folk poetry**: **Southeast the Peacock Flies** praises its heroine with "thirteen, she wove;
   fourteen, she cut clothes; **fifteen, she played the konghou**; sixteen, she read the poems";
-- ⭐ **it entered the most expensive poems**: Li He's *Li Ping Plays the Konghou* begins "**Wu silk and Shu
+- ⭐ **it entered the most expensive poems**: Li He's **Li Ping Plays the Konghou** begins "**Wu silk and Shu
   paulownia, taut in high autumn; empty hills hold their clouds, unwilling to drift**" — silk strings and
   paulownia body, right there in the first line;
 - **it entered the murals and the tomb figurines**: Kizil, Kumtura, Simsim, Subashi, Bezeklik; and among the
@@ -409,7 +409,7 @@ In the Han and Tang it was a star — star enough that:
 - "By the Song there were still konghou, small konghou and phoenix-head konghou. **After the Ming it was used
   less and less, until it was lost.**"
 - "It peaked in the Tang, and **fell out of fashion after the 14th century**";
-- Ming court records preserved its specifications (four *chi* eight *cun* long, dragon head, 20 strings) —
+- Ming court records preserved its specifications (four **chi** eight **cun** long, dragon head, 20 strings) —
   but that reads like **the instrument in a file cabinet**, not on a stage.
 
 ⭐ It left **three living lines**:
@@ -422,7 +422,7 @@ In the Han and Tang it was a star — star enough that:
 
 ⭐ Then three reconstruction stages: **1930s copies** → **1959, Beijing Musical Instrument Research
 Institute** → **1980, the modern konghou** ("combining the Western harp, zheng, pipa and guqin"):
-**double courses, a pear-shaped soundbox, bridges**; the *Yanzhu* konghou stands 175 cm tall, 85 wide, with
+**double courses, a pear-shaped soundbox, bridges**; the **Yanzhu** konghou stands 175 cm tall, 85 wide, with
 two rows of 44 strings. China's first konghou soloist, **Cui Junzhi**, put it plainly:
 "**Very few people know the konghou — most mistake it for a harp.**"
 

@@ -255,7 +255,7 @@ came twenty years before the talking guitar.**)
 
 | Claimant | Year | Evidence |
 |---|---|---|
-| **Pete Drake** | 1964 | the album *Forever*'s 「talking steel guitar」 — an 8-inch paper-cone speaker joined to a tube |
+| **Pete Drake** | 1964 | the album **Forever**'s 「talking steel guitar」 — an 8-inch paper-cone speaker joined to a tube |
 | **Doug Forbes / Kustom** | 1969 | 「The Bag」 — the first mass-produced talk box; 30W driver; shoulder bag like a leather water bladder |
 | **Bob Heil** | 1971 | built for Joe Walsh's Barnstorm tour — 250W JBL driver + hi-pass filter |
 

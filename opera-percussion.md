@@ -331,7 +331,7 @@ The last page asked how precise one instrument can be; this page asks the other 
 |---|---|
 | **HS class** | a **percussion ensemble** (idiophones + membranophones) · all **no definite pitch** · notated as **luogu-jing** |
 | **Sub-type** | the four main players — **drum-and-board (bangu + paiban) · big gong · cymbals · small gong**; often plus tanggu, bangzi |
-| **Family** | Chinese · opera (the **wuchang** of the band, the *changmian*; line-ups vary by genre) |
+| **Family** | Chinese · opera (the **wuchang** of the band, the **changmian**; line-ups vary by genre) |
 | **Bayin** | **metal · leather · wood (金·革·木)** — one band across three materials |
 
 ## "Changmian": the band at the stage mouth
@@ -340,7 +340,7 @@ The opera band has an old name: **changmian (场面), "the scene."** Its origin 
 
 - Early stages were square. The players sat **between the entrance and exit doors at the back of the stage:
   strings to the left, gongs to the right, the drummer holding the clappers in the centre.**
-  *Changmian* originally meant that "front of the stage" arrangement.
+  **Changmian** originally meant that "front of the stage" arrangement.
 - To stop blocking the actors, the band first moved to the right of the entrance door, and finally settled
   **left of the exit door** — the corner you see today.
 - It divides in two: the **wenchang** (strings and winds, serving the singing) and the **wuchang**
@@ -414,7 +414,7 @@ cells, with **one to give orders, three to surround, and a left hand pressing do
 
 | # | Function | Example (source wording) |
 |---|---|---|
-| 1 | **Stirring emotion** | In *The Empty City*, the "**luan chui**" under Zhuge Liang's spoken lines: worry, urgency, confusion |
+| 1 | **Stirring emotion** | In **The Empty City**, the "**luan chui**" under Zhuge Liang's spoken lines: worry, urgency, confusion |
 | 2 | **Magnifying · supporting movement** | — |
 | 3 | **Suggesting place · imitating effect** | deep night → a soft **tanggu**; water → soft **big gong and cymbals**; door rings, arrows → **small gong** |
 | 4 | **Reinforcing rhythm** (dance-like movement, musical dance) | the "**qiba**" pose-set: siji tou · changjian · chongtou · sibian yiji · guiwei |
@@ -454,7 +454,7 @@ cells, with **one to give orders, three to surround, and a left hand pressing do
   <text x="524" y="92" text-anchor="middle" font-size="11.5" fill="#E8C547">Mood &amp; scene</text>
   <g font-family="system-ui,sans-serif" font-size="10" fill="#A9A49B">
     <text x="442" y="122">panic: luan chui</text>
-    <text x="442" y="144" font-size="9.5" fill="#6E6A64">(*The Empty City*)</text>
+    <text x="442" y="144" font-size="9.5" fill="#6E6A64">(The Empty City)</text>
     <text x="442" y="176">inner duel: sibian yiji</text>
     <text x="442" y="198" font-size="9.5" fill="#6E6A64">(two asides)</text>
     <text x="442" y="230">deep night: soft tanggu</text>
@@ -495,7 +495,7 @@ left hand (the board) and right hand (the slip).
 
 ## The command layer: a written language, and a "nerve centre"
 
-What *luogu-jing* is, the [[instrument:xiaoluo|small gong]] page has already unpacked (the syllable chart,
+What **luogu-jing** is, the [[instrument:xiaoluo|small gong]] page has already unpacked (the syllable chart,
 onomatopoeia, differences by genre). Here, only its **function**:
 
 - It is a **command language**: "**players must first learn — must first memorise — the luogu-jing before
@@ -516,11 +516,11 @@ onomatopoeia, differences by genre). Here, only its **function**:
 The system's real test is that **the same pattern can be handled in opposite ways**:
 
 - **Chang chui**: in **civil** scenes, slow and soft; in **martial** scenes, **tight and fierce**.
-- **Liushui**: usually for walking — but in *The Empty City*, under Zhuge Liang's zither it must be
+- **Liushui**: usually for walking — but in **The Empty City**, under Zhuge Liang's zither it must be
   **detached and steady**, set against the tension.
 - ⭐ **Contrast by silence**: the hardest move is **not playing** — "a life-and-death fight at the tightest
   tempo, and the instruments **stop entirely**, leaving the stage silent, the audience holding its breath."
-- ⭐ And mixed scoring: in *Farewell My Concubine*'s sword dance, "only strings play the tune
+- ⭐ And mixed scoring: in **Farewell My Concubine**'s sword dance, "only strings play the tune
   [Ye Shen Chen], **with a large tanggu keeping the beat**" — strings and percussion dividing one scene.
 
 **Not playing is one of its uses.** That is the last discipline of this family.
@@ -536,7 +536,7 @@ The system's real test is that **the same pattern can be handled in opposite way
   conductor (strings included), and the link between the performance (song, speech, gesture, combat) and its
   accompaniment.**"
 - **"Percussion is for fight scenes."** ⚠️ Civil scenes need it just as much: the "luan chui" in *The Empty
-  City*, the tanggu in *Farewell My Concubine*; even Wang Baochuan's entrance "man chang chui" —
+  City*, the tanggu in **Farewell My Concubine**; even Wang Baochuan's entrance "man chang chui" —
   **it, too, is percussion speaking.**
 - **"The pattern is fixed; just play it."** ⚠️ Playing by the set is only the entrance exam — a good drummer
   **adds flowers, cuts words**, and **catches a pause or a glance**. Agreement, measure, change: all three.
@@ -565,7 +565,7 @@ Three cues:
 | [[instrument:daluo\|Big gong]] | **weight** | the heavy word of breath and grandeur |
 | [[instrument:naobo\|Cymbals]] | **density** | filler, linking, ground colour |
 | [[instrument:xiaoluo\|Small gong]] | **tone** | character types, comedy, ornaments |
-| [[instrument:tanggu\|Tanggu]] | **doubles** | deep night, night watches, the beat in *Farewell My Concubine* |
+| [[instrument:tanggu\|Tanggu]] | **doubles** | deep night, night watches, the beat in **Farewell My Concubine** |
 | [[instrument:bangzi\|Bangzi]] | **enlisted** | in bangzi genres the wuchang carries it |
 
 ⭐ This table is where the batch's seventeen entries land: **percussion conducts percussion — and in this art,

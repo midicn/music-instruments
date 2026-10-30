@@ -271,7 +271,7 @@ Among this group the xun is the **odd one out**: everyone else belongs to **pipe
 > In other words: **a flute is tuned by how much it has been cut short; a xun is tuned by how much its cavity leaks.**
 >
 > And that leads to a **thoroughly counter-intuitive corollary**:
-> **the xun's pitch hardly depends on *where* a hole is, but on *how much total area* is open.**
+> **the xun's pitch hardly depends on **where** a hole is, but on **how much total area** is open.**
 > So its finger holes are placed mainly for **the comfort of the hand**, not by the physical positions that
 > "cutting the pipe" would dictate — **the exact opposite of the [[instrument:dizi|dizi]].**
 
@@ -382,7 +382,7 @@ Four cues:
    described it as deep, dim and lingering.
 2. **Bleak without being sharp.** Not bright like the [[instrument:dizi|dizi]], but low, contained and warm.
 3. **Quiet and effortful.** With no duct, everything depends on the embouchure — its volume is inherently limited.
-4. **The *Book of Rites* calls it "the sound of the beginning of autumn"** — an apt image: **autumn sounds like
+4. **The **Book of Rites** calls it "the sound of the beginning of autumn"** — an apt image: **autumn sounds like
    this: receding, clean, a little cool.**
 
 ```audiolab
@@ -437,7 +437,7 @@ second — and **among all traditional Chinese wind instruments it stands there 
 | mid-20th c. to today | renewed interest after excavations; **improved to 8–11 holes**, greatly widening range and expression, with gourd, paired and nested variants |
 
 **Its history is a road "from tool to instrument"**: **early on it may have been a hunting tool imitating bird and
-animal calls**, gradually becoming a ritual instrument with a complete scale. **And its hole count *is* the history
+animal calls**, gradually becoming a ritual instrument with a complete scale. **And its hole count **is** the history
 of its range** — from 0 to 11, one at a time.
 
 ## Common misconceptions

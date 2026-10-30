@@ -275,7 +275,7 @@ batch:
 > ⚠️ **Three logics, one instrument**
 > | Name / system | Its basis | The pipa's answer |
 > |---|---|---|
-> | **the name "pipa"** | **a playing action** | "pi" is a forward pluck, "pa" a backward one — per the *Shiming*, the two characters began as **two strokes** |
+> | **the name "pipa"** | **a playing action** | "pi" is a forward pluck, "pa" a backward one — per the **Shiming**, the two characters began as **two strokes** |
 > | **the bayin** | **what it is made of** | **silk (丝)** |
 > | **HS classification** | **what vibrates** | **chordophone** |
 >
@@ -426,7 +426,7 @@ Four cues:
    into a line. **This is its signature technique and the moment it stops sounding like a plucked instrument.**
 3. **Four strings, four colours**: first bright, second mellow, third full, fourth deep.
 4. **Two faces, civil and martial.** Its repertoire divides into **civil suites** (delicate, as in *Flute and Drum at
-   Sunset*) and **martial suites** (fierce, as in *Ambush from All Sides*).
+   Sunset*) and **martial suites** (fierce, as in **Ambush from All Sides**).
 
 ```audiolab
 {"type":"instrument","gm":"Shamisen","synth":"plucked","phrase":["A2","D3","E3","A3"],"label":"四根空弦：A2 · D3 · E3 · A3","label_en":"The four open strings — A2, D3, E3, A3","hint":"注意低音两根弦的跳跃感 —— 通用音色表里没有琵琶，这里借同样抱弹拨弦的三味线近似","hint_en":"Notice the leap between the two lowest strings. General MIDI has no pipa, so a shamisen — another plucked lute — stands in."}
@@ -455,8 +455,8 @@ Four cues:
 | [[instrument:dizi\|Dizi]] | — | holes | opening and closing holes (aerophone) | bamboo |
 | [[instrument:bianzhong\|Bianzhong]] | — | — | striking bells of different sizes | metal |
 
-**A comparison axis you can use directly**: **whether it has frets decides whether pitch is a set of *steps* or a
-*line*** — and that divides this family more tellingly than "what material it is made of". **Which is precisely the
+**A comparison axis you can use directly**: **whether it has frets decides whether pitch is a set of **steps** or a
+**line** ** — and that divides this family more tellingly than "what material it is made of". **Which is precisely the
 division of labour between the two systems: the bayin handles "what it is made of", HS handles "how it sounds" —
 while a player cares most about "how you get the pitch".**
 
@@ -466,10 +466,10 @@ while a player cares most about "how you get the pitch".**
 |---|---|
 | Qin–Han | **"pipa" names a whole family of held plucked instruments** (the straight-necked, round-bodied ones later became the ruan); the name comes from two strokes |
 | Wei–Jin–North/South dynasties | the **bent-necked pipa** arrives from Central Asia (the Kucha region) and becomes dominant; played **horizontally with a plectrum** |
-| Sui–Tang | a golden age: played at court and in the streets; the Tang *Dunhuang pipa score* shows a mature solo repertoire; five-string pipas also flourished |
+| Sui–Tang | a golden age: played at court and in the streets; the Tang **Dunhuang pipa score** shows a mature solo repertoire; five-string pipas also flourished |
 | Song–Yuan | a shift toward **upright holding and finger plucking** |
 | Ming–Qing | the form settles; **silk replaces animal-gut strings** — softer and more elastic, which **makes finger plucking possible** and calls forth the **lunzhi**; schools form (Wuxi, Pinghu, Pudong, Chongming, Shanghai) |
-| 1818–1819 | Hua Qiuping and others publish the *Pipa Score* — the first printed pipa collection in Chinese history |
+| 1818–1819 | Hua Qiuping and others publish the **Pipa Score** — the first printed pipa collection in Chinese history |
 | 1920s–30s | **Liu Tianhua** argues for laying out the frets in equal temperament: one added fret between the sixth and seventh removes the neutral tones → later standardised at **six 相 and twenty-four frets**, range extended to nearly four octaves; **the pipa can now change key freely** |
 | mid-20th c. to today | strings change from silk to **nylon-wound steel**; the layout extends further (25, 26, 30 frets); many new works |
 

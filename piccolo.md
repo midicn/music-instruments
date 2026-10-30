@@ -266,7 +266,7 @@ Three points:
    double — but it **must be practised separately** (next section).
 2. **Half the length, not half the bore.** A wider bore shifts the harmonic balance downwards: the flute,
    relatively narrow, stays clear; the piccolo, relatively stout, sounds **fuller and more piercing**.
-3. **It is the highest standard instrument in the orchestra.** Even in a full *fortissimo* the piccolo is
+3. **It is the highest standard instrument in the orchestra.** Even in a full **fortissimo** the piccolo is
    the one voice that still cuts through — not mainly a matter of loudness, but of high frequencies
    decaying less in air and standing out in a dense spectrum.
 

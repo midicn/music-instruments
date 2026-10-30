@@ -366,10 +366,10 @@ Three points:
 1. **The dividing line is the width of that centre piece.**
    The **nao** has a thin, upturned face with a **small, flat-topped boss** — about **one fifth** of the
    full diameter; the **bo** has a thick, flat face with a **large, round bowl** — about **one half**.
-   Players put it bluntly: **"the big bowl is a *bo*, the small cap is a *nao*."**
+   Players put it bluntly: **"the big bowl is a **bo**, the small cap is a **nao**."**
 2. **A nao and a bo of the same size: the nao sounds lower and rings longer.**
-   ⚠️ Another source describes it in terms of colour instead — "the nao's small boss gives a *louder*
-   sound, the bo's large bowl gives a *rounder* one". **Both descriptions are recorded here as they stand.**
+   ⚠️ Another source describes it in terms of colour instead — "the nao's small boss gives a **louder**
+   sound, the bo's large bowl gives a **rounder** one". **Both descriptions are recorded here as they stand.**
 3. **It is forged, like a gong.** Melting and mixing → hammering to shape → cold working and trimming the
    rim → drilling the apex of the bowl for the cloth loop. And its final timbre depends on **alloy, area,
    thickness, rim curvature and boss size** — **two of those five are hand-tuned.**
@@ -438,19 +438,19 @@ Hornbostel–Sachs has no such class — it only asks what vibrates.**)
 This page also carries a story no other instrument here has: **the character 铙 (nao) has been used twice,
 for two completely different instruments.**
 
-| | **The Shang-dynasty *nao*** | **The post-Song *nao*** |
+| | **The Shang-dynasty **nao** ** | **The post-Song **nao** ** |
 |---|---|---|
 | What it is | a **bronze bell-type** instrument | a **clashed** instrument like the bo |
 | Form | short and broad · hollow short handle · **mouth upward** | two discs · **held by hand and clashed** |
 | How it sounds | **struck with a beater** | the two halves strike each other |
 | Sets | **three or five in a set, graded in size** | two make a pair |
-| Evidence | the *Rites of Zhou*: **"with the metal nao, stop the drums"**; Zheng Xuan's commentary: **"the nao is like a bell, without a clapper, with a handle, held and struck"**; **five nao in a graded set excavated from Fu Hao's tomb at Yinxu** | local opera, Buddhist music and lion dances from the Song onward |
+| Evidence | the **Rites of Zhou**: **"with the metal nao, stop the drums"**; Zheng Xuan's commentary: **"the nao is like a bell, without a clapper, with a handle, held and struck"**; **five nao in a graded set excavated from Fu Hao's tomb at Yinxu** | local opera, Buddhist music and lion dances from the Song onward |
 
 ⭐⭐ **And the best part: a Song-dynasty writer put it in writing himself.**
 
-Ma Duanlin, *Comprehensive Examination of Documents*:
+Ma Duanlin, **Comprehensive Examination of Documents**:
 
-> **"The bronze nao is a *fuyou* vessel used by Buddhists — small, with a clear sound, which the world calls
+> **"The bronze nao is a **fuyou** vessel used by Buddhists — small, with a clear sound, which the world calls
 > a nao. Its name is the same as the nao of the four metals, but the thing itself is different."**
 
 **"Its name is the same… but the thing itself is different."** Nine hundred years ago someone wrote down
@@ -477,7 +477,7 @@ Four cues:
 
 1. **A very short attack and a very long tail.** One clash gives a steep onset followed by a long metallic
    tail — it is naturally a sound of **blend**, not of **points**.
-2. **Bright, with a "watery" ring.** The traditional description is *clear, with a deep watery ring*:
+2. **Bright, with a "watery" ring.** The traditional description is **clear, with a deep watery ring**:
    a high sandy scrape and a low hum arrive together, so it sounds bigger than it is.
 3. **However you close them is how they sound.** Flat clash → one complete impact; edge clash → more high
    frequency, more sand; muted clash → the two discs never quite meet, and the sound stops at once.
@@ -524,19 +524,19 @@ Four cues:
 
 | Period | State |
 |---|---|
-| Shang | **the *nao* appears as a bronze instrument**: short and broad · hollow short handle · **mouth upward, struck with a beater** · **three or five in a graded set**. The *Rites of Zhou*: **"with the metal nao, stop the drums"**; Zheng Xuan: **"the nao is like a bell, without a clapper, with a handle, held and struck"**; **five nao in a set from Fu Hao's tomb at Yinxu** |
-| c. 4th century CE | ⭐ **the clashed *bo* reaches China from western Asia via Central Asia** (its origins traced to Egypt and Syria, through Persia and Rome; in the East it appears first in India), arriving **with Buddhism or with the music of Tianzhu**; **by the Northern and Southern Dynasties it was widespread** |
+| Shang | **the **nao** appears as a bronze instrument**: short and broad · hollow short handle · **mouth upward, struck with a beater** · **three or five in a graded set**. The **Rites of Zhou**: **"with the metal nao, stop the drums"**; Zheng Xuan: **"the nao is like a bell, without a clapper, with a handle, held and struck"**; **five nao in a set from Fu Hao's tomb at Yinxu** |
+| c. 4th century CE | ⭐ **the clashed **bo** reaches China from western Asia via Central Asia** (its origins traced to Egypt and Syria, through Persia and Rome; in the East it appears first in India), arriving **with Buddhism or with the music of Tianzhu**; **by the Northern and Southern Dynasties it was widespread** |
 | Sui | **used in five of the nine court musics** (Tianzhu, Xiliang, Qiuci, Anguo, Kangguo) |
 | Tang | **seven of the ten court musics used the bo**, with distinct "principal" and "responding" bronze bo in banquet music; **Sui–Tang murals at the Dunhuang caves** and the **music-and-dance reliefs in the tomb of Wang Jian (Five Dynasties, Former Shu, Chengdu)** both show players striking bronze cymbals |
-| Song | ⭐ **Ma Duanlin's *Comprehensive Examination of Documents* spells out the name confusion** (above); by the Northern Song and Liao the nao was already in **court processional wind music** |
-| Ming–Qing | it enters **local opera**; Li Dou's *Records of Yangzhou Painted Boats* notes that **Kun opera accompaniment once used a large nao** |
-| Qing | the *Collected Statutes of the Great Qing*: **"the nao is cast in bronze, clashed left and right, one foot two inches across, with a raised centre… two inches four and a half tenths across"** — even the dimensions were written into the official code |
+| Song | ⭐ **Ma Duanlin's **Comprehensive Examination of Documents** spells out the name confusion** (above); by the Northern Song and Liao the nao was already in **court processional wind music** |
+| Ming–Qing | it enters **local opera**; Li Dou's **Records of Yangzhou Painted Boats** notes that **Kun opera accompaniment once used a large nao** |
+| Qing | the **Collected Statutes of the Great Qing**: **"the nao is cast in bronze, clashed left and right, one foot two inches across, with a raised centre… two inches four and a half tenths across"** — even the dimensions were written into the official code |
 | modern | a mainstay of the **Peking-opera percussion section** (danao, xiaojing, shuibo, chuidabo); at the same time a **temple ritual instrument** and an indispensable part of **lion and dragon dances** |
 | today | one at the opera house partnering the [[instrument:daluo|daluo]], one at temple fairs, rituals and festivals — and in southern Fujian **"tossing the naobo"** is on the **provincial intangible-heritage list** |
 
 **Its history has a shape no other entry here has**: **first a character (the Shang nao), a thousand years
 later a foreign instrument (the bo), and then the foreign instrument borrowed the old character.**
-So reading its history means reading **two timelines at once** — one of a *character*, one of *bronze discs*.
+So reading its history means reading **two timelines at once** — one of a **character**, one of **bronze discs**.
 
 ## Common misconceptions
 

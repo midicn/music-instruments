@@ -378,7 +378,7 @@ Three points:
 2. ⭐ **One drum carries two notes.** The two heads share an **outer diameter** but differ in **inner
    diameter** — **identical from outside, different in free vibrating area**, and therefore different in
    pitch. Five drums × two heads = **ten notes**.
-3. ⭐⭐ **The shell can be turned over — and that is an act of *selecting a note*.**
+3. ⭐⭐ **The shell can be turned over — and that is an act of **selecting a note**.**
    Lying in the U-cradle, one turn brings the other head round to the playing side.
    So the instrument does not merely **offer ten notes**; it **offers ten notes you can rearrange.**
 
@@ -438,7 +438,7 @@ several pitches** — the [[instrument:bianzhong|bianzhong]], the [[instrument:b
   player **tunes it to what the piece needs**.
 - **The shell can be turned over** — when you want that head, turn it round.
 - So it is not "ten notes" but **"ten notes under your control"**: the same set can be laid out as
-  **different scales** for *Festival in the Mountain Village* and for *Dragon-Boat Gongs and Drums*.
+  **different scales** for **Festival in the Mountain Village** and for **Dragon-Boat Gongs and Drums**.
 
 ⭐⭐ **Rule ⑳: the next step after "laying an instrument out as a scale" is "making the scale adjustable".**
 - **One road looks backwards**: write the pitch **into the material** (grind it into a chime, forge it into
@@ -477,8 +477,8 @@ Four cues:
 1. **Fierce, leaping.** It is not the [[instrument:tanggu|tanggu]]'s job of painting a mood — it is
    **fast movement**.
 2. **Firm and solid at the top, broad and resonant below.** Five drums cover the whole register, so it can
-   **run a melody across a set of drums** — the solo passages in *Festival in the Mountain Village*,
-   *Gongs and Drums on the Sea* and *Dragon-Boat Gongs and Drums* show exactly that.
+   **run a melody across a set of drums** — the solo passages in **Festival in the Mountain Village**,
+   **Gongs and Drums on the Sea** and **Dragon-Boat Gongs and Drums** show exactly that.
 3. **The pitch is felt, not fixed.** It has a clear sense of pitch, but because it is **tuned on the spot**,
    what key it sings is decided by **the player's tuning that evening**.
 4. **Turning the shell is turning the note.** A single turn brings the other head to hand — **which is where
@@ -521,7 +521,7 @@ wanted changeable**).
 | the prototype | **the folk mid-sized tanggu and waist drum** — and specifically **how Zhejiang wind-and-percussion music combines them** |
 | **early 1960s** | ⭐ **the paigu appears**: developed on the tanggu by **Cai Huiquan, Yang Jingming** and colleagues at the Central Broadcasting Chinese Orchestra, first called the **"set drum"** |
 | afterwards | continuous improvement: a **thirteen-drum** set (fibreglass shells, plug-in mounting) · a **one-piece stand** (demountable, for touring) · some players even substituting **Western snare-drum stands** |
-| repertoire | dedicated solos: *Festival in the Mountain Village*, *Gongs and Drums on the Sea*, *Dragon-Boat Gongs and Drums*, *Dancing on the Drum*, *Dragon-Boat Race*, *Freely Struck* |
+| repertoire | dedicated solos: **Festival in the Mountain Village**, **Gongs and Drums on the Sea**, **Dragon-Boat Gongs and Drums**, **Dancing on the Drum**, **Dragon-Boat Race**, **Freely Struck** |
 | today | the melodic percussion of the **Chinese orchestra**; **a core instrument in professional percussion teaching** |
 
 ⚠️ **One homonym to sort out**: the "paigu" on provincial intangible-heritage lists (Caotun paigu, Qingyuan

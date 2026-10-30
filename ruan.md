@@ -289,7 +289,7 @@ somebody else.**
 >
 > **A name is a scarce resource.** When one class of instruments divides, one side must change its surname.
 > Set the batch's three naming stories side by side:
-> **① a name can describe an action** (the [[instrument:pipa|pipa]]: *pi* = forward pluck, *pa* = backward)
+> **① a name can describe an action** (the [[instrument:pipa|pipa]]: **pi** = forward pluck, **pa** = backward)
 > **② a name can change places** (the [[instrument:xiao|xiao]] and the di: "today's xiao is the di of antiquity")
 > **③ a name can be taken away** (**the ruan**: the pipa was seized, so it took "ruanxian")
 
@@ -470,11 +470,11 @@ fret, or by fingers**. **The ruan answers "round + frets"** — while its name r
 |---|---|
 | Han (c. 2nd–1st c. BCE) | records mention a held plucked instrument with a **round body, straight neck, four strings and twelve frets**, then called **Qin pipa** (origins have several legends, from Central Asian introduction to a princess's dowry musicians) |
 | Wei–Jin | named after **Ruan Xian** of the Seven Sages of the Bamboo Grove, who played it best; it becomes fashionable and a leading instrument for solo, ensemble and song accompaniment |
-| **Tang** | the bent-necked pear-shaped pipa becomes hugely popular and **monopolises the name "pipa"** → this straight-necked round-bodied one is renamed **"ruanxian"**; it remains a principal instrument of the *Qingshang* and *Xiliang* repertoires |
+| **Tang** | the bent-necked pear-shaped pipa becomes hugely popular and **monopolises the name "pipa"** → this straight-necked round-bodied one is renamed **"ruanxian"**; it remains a principal instrument of the **Qingshang** and **Xiliang** repertoires |
 | Song | shortened to **"ruan"** (one account has a Song emperor adding a fifth string); afterwards **ruan and yueqin remain two names for one instrument** for centuries |
 | Yuan–Qing | in folk use, but by the Qing the old ruan's range shrinks to barely an octave, and folk versions degrade to two or three strings |
 | since the 1950s | rebuilt as **4 strings, 24 frets**, larger box and steel strings; a family modelled on the string family takes shape — **soprano, small, middle, large, bass**; **ruan and yueqin now become two different instruments** |
-| 1987 | Liu Xing's **concerto *Yunnan Memories*** establishes the ruan as a solo instrument |
+| 1987 | Liu Xing's **concerto **Yunnan Memories** ** establishes the ruan as a solo instrument |
 
 **One historical fact stands out**: **all of the ruan's old scores are lost, and the modern instrument differs so
 much from the old that it has almost no traditional repertoire.** Its repertoire is **entirely modern**.

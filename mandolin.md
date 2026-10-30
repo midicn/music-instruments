@@ -367,7 +367,7 @@ When a single string is plucked its energy runs out quickly. **Two unison string
 do two things:
 
 - Their vibrations are almost synchronised, so the sound waves add in the air → noticeably more volume.
-- They can never be *exactly* the same frequency (a few hertz apart at most); the addition produces a
+- They can never be **exactly** the same frequency (a few hertz apart at most); the addition produces a
   slow **beating** → the sustain sounds longer and slightly rippled.
 
 That is the whole point of courses: **twice the material for more volume and longer sustain**, with no
@@ -389,7 +389,7 @@ In practice the two use it very differently:
 
 - A violinist lives in high positions; a mandolinist must reach **past the body** and the fingerboard is
   short, so the working register sits in the middle.
-- High notes on a mandolin turn *thin* rather than bright, so music rarely stays up there long.
+- High notes on a mandolin turn **thin** rather than bright, so music rarely stays up there long.
 
 ## Timbre, and how to hear it
 

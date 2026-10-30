@@ -400,8 +400,8 @@ the key route (serpent → ophicleide) left the stage entirely.
 | 20th c. | the early-music movement revives it in small doses; composers write new parts for it |
 | Late 20th c. onward | kept alive in period performance and organology |
 
-**It left a few famous traces in scores**: certain versions of Berlioz's *Symphonie fantastique*, the bass of
-Mendelssohn's *A Midsummer Night's Dream* overture, and others. Today those parts are usually taken by
+**It left a few famous traces in scores**: certain versions of Berlioz's **Symphonie fantastique**, the bass of
+Mendelssohn's **A Midsummer Night's Dream** overture, and others. Today those parts are usually taken by
 **tuba or trombone** — making it an instrument "on the page but rarely on the stage".
 
 ## Common misconceptions

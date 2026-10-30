@@ -377,7 +377,7 @@ it reaches up to the English horn and oboe, down to the contrabassoon.
 | Late 19th c. | French and German systems compete; the German (more keys, harder) becomes standard |
 | 20th c. | fixed as the woodwind bass; the solo repertoire (concertos, sonatas) grows sharply; contemporary works add extended techniques |
 
-**A frequently cited example**: the opening bassoon solo of Stravinsky's *The Rite of Spring* — written in
+**A frequently cited example**: the opening bassoon solo of Stravinsky's **The Rite of Spring** — written in
 the instrument's very top register, to make the strange feeling of a spring thawing. It shows that a
 bassoon's high register is **not a by-product** but an expressive region in its own right.
 

@@ -512,7 +512,7 @@ Of every entry on this site, the bronze drum has the smallest share of "instrume
 
 - **It is power.** **Monopolised by chiefs and nobles**, treated as a precious **treasure or ritual
   object**, and even **an object of sacrifice itself** — hence **"where the drum is, the authority is."**
-- **It is wealth.** The plainest evidence is in the *Later Book of Han*: **"Ma Yuan, on campaign in
+- **It is wealth.** The plainest evidence is in the **Later Book of Han**: **"Ma Yuan, on campaign in
   Jiaozhi, took the bronze drums of the Luoyue and cast them into horses."** ⭐ **It was worth melting
   down.** (And that sentence is the first appearance of the word "bronze drum" in Chinese.)
 - **It is a signal.** **"Striking it could gather people to deliberate, and it served as a military
@@ -545,7 +545,7 @@ contrary, **tuning a bronze drum was once a profession.**
 | **Lengshuichong type** | a pair of **half-ring ears** added between the main ears, and **attachments hung from them to control the sound** ⭐ **tuning by hanging weights** |
 | **Beiliu · Lingshan types** | **changing the thickness of the head** — **gouging the back of the head thinner** (hence the **tuning gouges** on those drums) |
 
-⭐⭐ And a Qing writer, **Qu Dajun in his *New Talks of Guangdong***, describes it as a whole trade:
+⭐⭐ And a Qing writer, **Qu Dajun in his **New Talks of Guangdong** **, describes it as a whole trade:
 
 > The ordinary founders of bronze drums **could not tune them**. Whenever a drum came out of the mould,
 > **a "bronze-drum master" had to be invited** to tune it. He would **quench the drum's navel (the sun motif
@@ -623,7 +623,7 @@ completely different vibrating body.**
 | **mid-Spring-and-Autumn** | ⭐ the **Wanjiaoba type** (excavated at Wanjiaoba, Chuxiong, Yunnan) — **the earliest known bronze drum**; five were unearthed in 1976 and dated to about **2,700 years ago**. Small head, greatly swollen chest, short foot, thick walls, rough surface, some entirely undecorated |
 | Warring States – Western Han | the **Shizhaishan type** (**Dian culture**) — rich ornament, with **feathered dancers, boat races, fishing and sacrifice** in figurative scenes |
 | Western Han – Tang | the **Lengshuichong, Beiliu and Lingshan types** — **the peak of the craft**; Beiliu-type heads still show **tuning gouges** on the back |
-| Han | ⭐ the *Later Book of Han*: **"Ma Yuan… took the bronze drums of the Luoyue and cast them into horses"** — the first appearance of the term |
+| Han | ⭐ the **Later Book of Han**: **"Ma Yuan… took the bronze drums of the Luoyue and cast them into horses"** — the first appearance of the term |
 | after Tang–Song | **smaller bodies, Han Chinese elements absorbed**; religious and political functions **fade** |
 | Ming–Qing | it becomes an instrument of **folk festival, wedding and funeral**; ⚠️ **the casting technique was at one point lost** |
 | **1990s** | ⭐ the brothers **Wei Qichu and Wei Qican revive traditional casting with sand moulds** |
@@ -648,7 +648,7 @@ again.** **A two-thousand-year-old instrument was "re-learned" in the 1990s.**
   different questions**: **one asks what it is made of, the other what vibrates.**
 - **"It is cast, so the pitch is fixed at the mould and cannot be changed."** ⚠️ **It can** — and tuning it
   was a trade: **quenching, cold hammering, scraping the walls, hanging attachments, gouging the back of
-  the head thinner.** The Qing *New Talks of Guangdong* even names the specialist — the **"bronze-drum
+  the head thinner.** The Qing **New Talks of Guangdong** even names the specialist — the **"bronze-drum
   master"** — and notes that **the founder himself could not do it.**
 - **"The bronze drum is a museum object."** It is **still in use**: Zhuang, Yao, Miao, Dong, Bouyei, Sui,
   Gelao and Wa communities use it in festivals and rituals today; the **Zhuang custom is national

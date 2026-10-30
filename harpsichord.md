@@ -239,7 +239,7 @@ And that single fact of plucking determines its entire musical language.
 > - **registral contrast** (the colour difference between high and low)
 > - **stop changes** (colour change in place of volume change)
 >
-> **What an instrument *cannot* do shapes an entire writing convention** — the harpsichord is the clearest
+> **What an instrument **cannot** do shapes an entire writing convention** — the harpsichord is the clearest
 > example of that rule.
 
 ## Structure: plectrum, strings and stops
@@ -340,7 +340,7 @@ amount of ornament, registral contrast and stop changes**.
 Four cues:
 
 1. **Bright, clearly grained, with a definite attack.** Plucking gives a crisp onset, unlike the piano's
-   strike — every note is *plucked*.
+   strike — every note is **plucked**.
 2. **A short tail.** Once the plectrum leaves, the vibration decays quickly, so **fast figuration never smears**
    — the reason the dense Baroque textures work.
 3. **Fixed volume.** However hard you press, it sounds the same — its most misunderstood feature.

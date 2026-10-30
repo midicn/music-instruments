@@ -259,7 +259,7 @@ updated: 2026-09-26
 ::: en
 The trumpet is the brass group's most agile instrument, and the best doorway to the question "what is
 brass?". Its difference from the woodwinds is not material but **drive**: woodwinds are driven by **air**
-(a cut jet or a reed), brass by **the lips themselves vibrating**. The player's lips *are* the reed.
+(a cut jet or a reed), brass by **the lips themselves vibrating**. The player's lips **are** the reed.
 
 That produces something no woodwind has: **a single tube can only sound the notes of one harmonic series.**
 To get the notes in between, the **tube length must change** — which is exactly why valves exist.
@@ -387,7 +387,7 @@ Three points:
 **This mechanism is the key to all brass**:
 
 - **Pitch comes from the harmonic series**, so brass fingering logic is nothing like a woodwind's: woodwinds
-  open holes to change the *effective* length, brass **adds tube and picks a partial**.
+  open holes to change the **effective** length, brass **adds tube and picks a partial**.
 - **Partials crowd together higher up**, so the upper register can produce dense semitones with valves, while
   the low register must be "pulled" into place by **lips and air** — the root of its difficulty.
 - **Seven lengths** is the standard (three valves). Together those series cover all twelve semitones across

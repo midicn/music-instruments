@@ -293,7 +293,7 @@ shapes in different places**; the gaohu goes further — **a local accent grew a
 - **"It only plays cheerful music."** ⚠️ It is famous for bright, clear playing, but *Autumn Moon over the
   Calm Lake* is a moonlit reverie — **it excels at "bright," not "noisy."**
 - **"Orchestral arrangements would switch it to erhu."** ⚠️ On the contrary: Peng Xiuwen's arrangements of
-  *Step by Step* and *Colourful Clouds Chasing the Moon* "**kept the gaohu part, without substituting the
+  **Step by Step** and **Colourful Clouds Chasing the Moon** "**kept the gaohu part, without substituting the
   erhu.**"
 
 ## Timbre, and how to hear it
@@ -308,7 +308,7 @@ Three cues:
    the [[instrument:erhu|erhu]]'s warmth.
 2. **Hear the slides.** "**Delicate slides and rich ornamentation**" — **its flavour lives in the left
    hand**, which is exactly where it "fits Cantonese tones."
-3. **Hear the "point-line dialogue."** In *Step by Step* the **woodblock** taps points while the strings draw
+3. **Hear the "point-line dialogue."** In **Step by Step** the **woodblock** taps points while the strings draw
    lines — **points and lines are the skeleton of its most famous piece** (the
    [[instrument:muyu|woodblock]] has its own page here).
 

@@ -390,7 +390,7 @@ Four cues:
 
 - **The lips alone select the note.** Every leap between the four harmonics is made by lip tension, with **no key
   to help**.
-- **Rhythm must be exact.** Since the information *is* the rhythm, **a wrong length is a wrong order** — the
+- **Rhythm must be exact.** Since the information **is** the rhythm, **a wrong length is a wrong order** — the
   bugler's most important skill.
 - **Repetition is part of the grammar** (urging, emphasising, assembling).
 - **Volume is breath control.** It does not need crescendos; it needs **steady, far-carrying tone**.
@@ -421,7 +421,7 @@ does**.
 | 19th c. | **widely adopted by armies**; a full set of calls takes shape (reveille, assembly, mess, retreat, lights out, charge…) |
 | mid-19th c. | the call set that took shape during the American Civil War and is still used, including **Taps**, later adopted for military funerals |
 | late 19th c. | **valves** spread and band instruments gain a full chromatic scale; the bugle retreats to **signals and ceremony** |
-| 20th–21st c. | still used in military ceremony, funerals and commemorations; a scouting and ceremonial instrument; and it has entered the concert hall (as in *Fanfare for the Common Man*) |
+| 20th–21st c. | still used in military ceremony, funerals and commemorations; a scouting and ceremonial instrument; and it has entered the concert hall (as in **Fanfare for the Common Man**) |
 
 **It survived for the same reason as the [[instrument:hunting-horn|hunting horn]]**: **once a function is
 irreplaceable, the level of technology stops being the test.**

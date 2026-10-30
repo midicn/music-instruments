@@ -254,7 +254,7 @@ batch: **same family, same bowing, same two strings, with one material on the re
 > | What covers the body's front | **python skin (a membrane)** | **a thin paulownia board** |
 > | Timbre | soft · round · **close to a human voice** | **high · bright · penetrating** |
 > | Suited to | lyrical, singing lines | **"high, fierce, hot, fiery" emotions** |
-> | Where the name comes from | "hu" (family) | ⭐ **the board — *ban*-hu** |
+> | Where the name comes from | "hu" (family) | ⭐ **the board — **ban**-hu** |
 >
 > **The name "banhu" is a direct record of that one material choice.**
 > Which completes the batch's naming stories:
@@ -264,7 +264,7 @@ batch: **same family, same bowing, same two strings, with one material on the re
 | Classification | Value |
 |---|---|
 | **HS class** | **Chordophone** · **rubbed** · fretless, no fingerboard |
-| **Sub-type** | **thin paulownia board glued to the body's front** · coconut-shell body · no sound windows · two strings · a *yama* (waist nut) instead of the qianjin · thick, long bow |
+| **Sub-type** | **thin paulownia board glued to the body's front** · coconut-shell body · no sound windows · two strings · a **yama** (waist nut) instead of the qianjin · thick, long bow |
 | **Family** | Chinese · bowed (huqin family, operatic-lead branch) |
 | **Bayin** | **silk (丝)** — silk strings traditionally (steel today; the name is retained) |
 
@@ -311,7 +311,7 @@ Three points:
 
 1. **No skin on the front — a thin paulownia board is glued on.** This is the only essential difference: **bow,
    strings, stopping and the hair threaded between the strings are all the erhu's.**
-2. **A waist nut instead of a qianjin.** The erhu uses a *qianjin*; the banhu uses a **waist nut**, of horn or
+2. **A waist nut instead of a qianjin.** The erhu uses a **qianjin**; the banhu uses a **waist nut**, of horn or
    rosewood — a different name and material for the same job.
 3. **A thicker, longer bow.** Thicker stick, more and tighter hair, **longer than the instrument itself** — room for
    "fiery" playing.
@@ -358,7 +358,7 @@ Three points:
 Qin opera, Jin opera, Pu opera, Henan opera, pingju, Lü opera, Shandong bangzi…
 **the high, intense singing of bangzi music needs exactly a high, intense voice.**
 
-*(Qin opera shows it twice over: its original lead was the *erguxian*, and **both have paulownia board faces** —
+**(Qin opera shows it twice over: its original lead was the **erguxian*, and **both have paulownia board faces** —
 the difference was **string material** (gut versus silk). **Same board, different strings, timbre changes, and the
 lead chair changes hands.** In one story, "material decides the post" happens twice.)*
 
@@ -426,7 +426,7 @@ place by blending; the banhu earns its place by refusing to.**
 | Qing | extends with regional opera into many bangzi genres and narrative forms; the form settles |
 | modern era | widely used in Hebei bangzi, pingju, Henan opera, **Qin opera**, Jin opera, Pu opera, Lü opera, Shandong bangzi and Shaanxi narrative song; common in the northwest, north and northeast |
 | 1930s | the Qin-opera banhu **goes from one position to two**, with new fingerings and bowing |
-| after the 1950s | **increasingly used as a solo instrument**; works such as *Da Qi Ban*, *Hua Bangzi* and *Qin Qiang Pai Zi Qu* appear |
+| after the 1950s | **increasingly used as a solo instrument**; works such as **Da Qi Ban**, **Hua Bangzi** and **Qin Qiang Pai Zi Qu** appear |
 | today | still the irreplaceable lead of the bangzi operas, and an active solo and colour instrument in orchestras and concerts |
 
 **Its history in one sentence**: **it was built by a way of singing** — not an instrument in search of a use, but
@@ -440,7 +440,7 @@ place by blending; the banhu earns its place by refusing to.**
   python skin and paulownia board are both only **resonators**. **Changing the resonator's material does not change
   the class** — further proof that "what vibrates" beats "what it looks like".
 - **"It only accompanies opera."** Since the 1950s it has been a **solo instrument**, with works such as *Da Qi
-  Ban* and *Qin Qiang Pai Zi Qu*.
+  Ban* and **Qin Qiang Pai Zi Qu**.
 - **"A louder instrument must be more welcome."** The opposite: **because its colour has "too much personality", it
   is not in the Chinese orchestra's standard roster** and serves only as a special section.
 - **"Being higher, it must have a narrower range."** It is **an octave above the erhu**, with a range of about **two

@@ -197,7 +197,7 @@ And the length, density and weight of that rain are **decided entirely by how fa
 | **Family** | World instruments · Percussion (idiophone, shaken) |
 | **Bayin** | Not applicable — a Chinese system; the rainstick is outside it |
 
-> ⚠️ **One conceptual point**: **the *shape in time* of a sound can itself be a design target.**
+> ⚠️ **One conceptual point**: **the **shape in time** of a sound can itself be a design target.**
 > - A struck instrument designs **the colour of one note** (a drum's head, a xylophone's bar).
 > - A shaken instrument such as [[instrument:maracas|maracas]] designs **the grain of a continuous layer**.
 > - **The rainstick designs "a process of sound"**: it has a **fade-in, a sustain and a fade-out**, guaranteed

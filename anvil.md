@@ -188,7 +188,7 @@ machine or a forge.**
 
 > ⚠️ **One conceptual point**: **the anvil shows how close an instrument can be to the thing it imitates.**
 > Most imitative instruments are **adapted** (a woodblock imitating a bell); the anvil simply **uses the real
-> object** — a real anvil *is* the instrument.
+> object** — a real anvil **is** the instrument.
 > That has an interesting consequence: **it is "too real" for its own good**, and composers use it carefully —
 > once heard, the audience thinks "blacksmith", which makes it hard to treat as an abstract colour.
 > **Imitating too well limits musical use** — a real constraint in scoring.
@@ -239,7 +239,7 @@ chart is generated. Its means are **the number of anvils and dynamics**:
 |---|---|
 | **One anvil** | a metallic point for accent or cue |
 | **Two anvils (high + low)** | a two-note figure (a "ding-dong") |
-| **Three anvils** | a fuller figure (as in the forge motif of *Das Rheingold*) |
+| **Three anvils** | a fuller figure (as in the forge motif of **Das Rheingold**) |
 | **Light / hard strokes** | cue / impact |
 
 **Note that a "set" of anvils is an interesting middle path**: neither a single unpitched instrument nor a
@@ -286,8 +286,8 @@ association** (a smithy) and the other on **a pure moment in time** (an accent).
 | Period | State |
 |---|---|
 | Antiquity–Middle Ages | the anvil is a craftsman's tool; metal blocks are also used as sound-makers in many places |
-| 19th c. | opera uses real sound effects heavily (anvils, cannon, thunder) → the anvil enters scores (the Anvil Chorus in *Il Trovatore* is the famous case) |
-| Later 19th c. | Wagner asks for a set of anvils in *Das Rheingold* to play the forging motif |
+| 19th c. | opera uses real sound effects heavily (anvils, cannon, thunder) → the anvil enters scores (the Anvil Chorus in **Il Trovatore** is the famous case) |
+| Later 19th c. | Wagner asks for a set of anvils in **Das Rheingold** to play the forging motif |
 | 20th c. | orchestras and bands continue to use it; contemporary works also use it as a pure rhythmic colour |
 | Late 20th c. onward | a common effect instrument in orchestra, opera and film music |
 

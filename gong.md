@@ -222,7 +222,7 @@ Two confusions need clearing up first: **"gong" covers two different kinds of in
 | **Bayin** | Not applicable — a Chinese system; **the Chinese gong is a 金 (metal) instrument**, covered with Chinese instruments |
 
 > ⚠️ **One conceptual point**: **"gong" covers two classes of instrument.**
-> - **Unpitched**: the Western **tam-tam**, the Chinese *daluo* — an alloy disc whose complex vibration gives
+> - **Unpitched**: the Western **tam-tam**, the Chinese **daluo** — an alloy disc whose complex vibration gives
 >   no clear pitch.
 > - **Pitched**: the Southeast and East Asian **bossed gong** (with a raised centre), the Chinese **yunluo** —
 >   smaller with a central boss, capable of definite pitch and played in sets as melody.

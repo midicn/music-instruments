@@ -345,7 +345,7 @@ Four cues:
 | Late 20th c. onward | used in marching and military bands, some jazz and street bands; occasional solo and contemporary works |
 
 **It has a notable side effect**: in **jazz and street bands** (New Orleans brass bands, for instance) the
-sousaphone becomes a *mobile* bass — the band can walk and play, taking the music into the street. That use
+sousaphone becomes a **mobile** bass — the band can walk and play, taking the music into the street. That use
 has nothing to do with its military origin, yet its forward bell makes just as much sense there.
 
 ## Common misconceptions

@@ -270,9 +270,9 @@ updated: 2026-09-27
 :::
 
 ::: en
-**The dizi and the chi look like twins — and their whole difference compresses into one word: the *foot*.**
+**The dizi and the chi look like twins — and their whole difference compresses into one word: the **foot**.**
 
-Song-dynasty *Yue Shu* defines the chi in six characters: **"the chi is a flute with a foot."**
+Song-dynasty **Yue Shu** defines the chi in six characters: **"the chi is a flute with a foot."**
 **The dizi is hollow end to end; the chi is stopped at the end.**
 
 > ⚠️ Beyond that one word, three more differences (the sources list them plainly):
@@ -348,7 +348,7 @@ Song-dynasty *Yue Shu* defines the chi in six characters: **"the chi is a flute 
 | 4 · timbre | **bright** | **full and solemn**, "better suited to **sorrow and longing**" |
 
 ⚠️ One honest note: **this site does not supply physics the sources don't give.** The sources describe what
-the foot *does* to the sound, not why; so this page does the same. (The [[instrument:paixiao|paixiao]] page's
+the foot **does** to the sound, not why; so this page does the same. (The [[instrument:paixiao|paixiao]] page's
 "stopped pipes" discussion is a neighbouring case; it is not imported here to fill the gap.)
 
 ## Zeng Hou Yi's two lacquered pipes
@@ -359,7 +359,7 @@ Its most famous "appearance" was in 1978:
   flute-like in shape, but **the tail closed by a natural node** — physical proof of the "foot."
 - **Seven holes**: one "upper" by the node, **five in a row on the outer face**, one "inner" by the other node.
 - ⭐ The identification was pure scholarship: compare them with **Qing-dynasty chi**, consult the chi diagrams
-  in the *Sancai Tuhui*, the *Yuhai* and the *Huangchao Liyue Tushi* —
+  in the **Sancai Tuhui**, the **Yuhai** and the **Huangchao Liyue Tushi** —
   "**these two pipes are certainly the chi.**"
   **The texts and diagrams came first; the burial came later — archaeology checking a picture a millennium old.**
 - ⚠️ And they can no longer sound: two thousand years in water left **the bamboo flesh rotted away, only skin
@@ -382,7 +382,7 @@ No instrument on this site carries more idioms — and all of them are kind:
 
 | Source | Phrase | Meaning |
 |---|---|---|
-| *Book of Songs* | **"the elder brother blows the xun, the younger the chi"** | **brothers in harmony** |
+| **Book of Songs** | **"the elder brother blows the xun, the younger the chi"** | **brothers in harmony** |
 | later usage | **"xun-chi friendship"** | close friends |
 | later usage | **"like xun and chi"** · **"xun and chi in accord"** | harmony,默契 |
 
@@ -393,13 +393,13 @@ the pair.)
 
 And two stories, both about **music solving things**:
 
-- ⭐ **Wu Zixu begs with a chi.** The *Records of the Grand Historian*: fleeing through Zhaoguan, with nothing
+- ⭐ **Wu Zixu begs with a chi.** The **Records of the Grand Historian**: fleeing through Zhaoguan, with nothing
   to eat, he "**puffed out his belly and played the chi, begging in the market of Wu**" —
   **a ritual instrument that once served as a beggar's bowl.**
-- ⭐⭐ **The old woman who played the chi** (*Luoyang Qielan Ji*, ch. 4). In the Northern Wei, a maidservant
+- ⭐⭐ **The old woman who played the chi** (**Luoyang Qielan Ji**, ch. 4). In the Northern Wei, a maidservant
   of Prince Yuan Chen named **Chaoyun** was a fine chi player. When the Qiang in Qinzhou revolted and
   "repeated campaigns failed to subdue them," the prince had her **dress as a poor old woman and play while
-  begging.** She played the *Longshang Melody* — **their own home tune.** And:
+  begging.** She played the **Longshang Melody** — **their own home tune.** And:
   "**The Qiang all wept. They said to one another: 'Why abandon our graves and homes to be bandits in the
   valleys?' And they surrendered in droves.**" Hence the local saying:
   **"A swift horse and a strong man are no match for an old woman playing the chi."**
@@ -457,12 +457,12 @@ And two stories, both about **music solving things**:
   plus blow-hole position, hole alignment, hand position and timbre.
   (As early as the Han, sources note the two names were "**near in sound but different in form**" — the
   confusion is ancient.)
-- **"Its foot stops it sounding."** ⚠️ The reverse: **the foot *is* its form.** The Zeng Hou Yi pipes are
+- **"Its foot stops it sounding."** ⚠️ The reverse: **the foot **is** its form.** The Zeng Hou Yi pipes are
   silent because **the bamboo flesh rotted**, not because of their design — replicas sound six notes.
 - **"Just a bit-player in ritual music."** ⚠️ It was **one of the twenty fixed instruments of Sui–Tang
   ritual**; in 1113 one court band had **twenty-eight chi players**; and with the
   [[instrument:xun|xun]] it forms the Chinese word for **harmony.**
-- **"Everything in the *Book of Songs* is rarefied."** ⚠️ Wu Zixu **begged with a chi in the market of Wu**;
+- **"Everything in the **Book of Songs** is rarefied."** ⚠️ Wu Zixu **begged with a chi in the market of Wu**;
   Chaoyun, **disguised as a poor old woman**, ended a revolt with a tune from home.
 - **"Lost means lost forever."** ⚠️ Today the **Yanfei chi** is built from the excavated finds (with extra
   holes for range), and the **Shengyueshu** at the Temple of Heaven has reconstructed it from the texts
@@ -502,7 +502,7 @@ Three cues:
 
 Next, an instrument almost nobody has seen — bearing one of the oldest names in Chinese wind music:
 
-the **yue**. The *Shuowen* defines it like a riddle: **"yue: a bamboo pipe of music, three holes, to bring
+the **yue**. The **Shuowen** defines it like a riddle: **"yue: a bamboo pipe of music, three holes, to bring
 all voices into accord."** Is it a three-holed pipe, or a row of bound tubes? — **scholars have argued for
 two thousand years.**
 

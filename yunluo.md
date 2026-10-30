@@ -432,8 +432,8 @@ Three points:
 1. **The frame has three leaves — three cells on each outer leaf, four in the middle: ten cells.**
    One gong hangs in each. **That is the whole secret of its being melodic: ten pitches, fixed in advance, laid
    out within reach.**
-2. ⭐ **The topmost gong is called the *gaogong luo* — and it is rarely used.** So of ten gongs only nine are in
-   daily use, and the instrument is also known as the **"nine-note gong"** (there, "nine" means *many*, not
+2. ⭐ **The topmost gong is called the **gaogong luo** — and it is rarely used.** So of ten gongs only nine are in
+   daily use, and the instrument is also known as the **"nine-note gong"** (there, "nine" means **many**, not
    exactly nine). **Its name does not come from how many gongs it has; it comes from the notes actually used.**
 3. **It has to hang free.** Each gong is suspended in its cell by **three silk cords** and **touches nothing**;
    the face is **flat with no boss**, and the rim extends outward as a **flat ring** into which the cord holes
@@ -478,7 +478,7 @@ Three points:
 
 **This figure is the heart of the page.**
 
-An ordinary percussion instrument can only handle **time**: it tells you *a sound happened now*. Lay ten pitches
+An ordinary percussion instrument can only handle **time**: it tells you **a sound happened now**. Lay ten pitches
 out in a row, though, and **pitch joins the list of dimensions it can control** — and a rhythm tool becomes a
 melody tool.
 
@@ -511,7 +511,7 @@ different sizes, but because the dimension of size was deliberately switched off
 Two things worth carrying away:
 
 - **"Thick, and the note is clear; thin, and the note is muddy."** Those eight words come from Jia Gongyan's
-  Tang-dynasty commentary on the *Kao Gong Ji*, and they state exactly what plate vibration does: **frequency is
+  Tang-dynasty commentary on the **Kao Gong Ji**, and they state exactly what plate vibration does: **frequency is
   proportional to thickness.** The ten gongs of a yunluo are that sentence **practised in its purest form**:
   with size frozen, only one variable is left. (The same rule appears on the
   [[instrument:bianqing|bianqing]] page as "if too high, grind the faces; if too low, grind the ends.")
@@ -594,15 +594,15 @@ across timbre; the yunluo climbs through pitch.** And the [[instrument:marimba|m
 
 | Period | State |
 |---|---|
-| Tang | **the name *yun'ao* (云璈) appears** (a poem reads "calmly he lays down the *yun'ao*, and tells me the words of the utmost") |
-| Yuan | **it enters court banquet music.** The *History of Yuan*, "Instruments of banquet music": **"the *yun'ao* is made of bronze, thirteen small gongs, on one wooden frame with a long handle below; held in the left hand and struck with a small beater in the right."** One sentence covers the whole design and its playing. **The Yuan-dynasty mural *Playing Music* at the Yongle Palace in Shanxi** also shows a yunluo being played |
+| Tang | **the name **yun'ao** (云璈) appears** (a poem reads "calmly he lays down the **yun'ao**, and tells me the words of the utmost") |
+| Yuan | **it enters court banquet music.** The **History of Yuan**, "Instruments of banquet music": **"the **yun'ao** is made of bronze, thirteen small gongs, on one wooden frame with a long handle below; held in the left hand and struck with a small beater in the right."** One sentence covers the whole design and its playing. **The Yuan-dynasty mural **Playing Music** at the Yongle Palace in Shanxi** also shows a yunluo being played |
 | Yuan · variable counts | records and murals show **10, 13 and 14 gongs** |
 | Ming–Qing | **ten** becomes the long-standing norm; the early Qing also had a **24-gong** set, and Fujian a **14-gong** one |
-| Qing | the court set recorded in the *Draft History of Qing* is **ten gongs**, used for **imperial processions, the danbi and zhonghe suites, guiding music, victory songs, banquet music, Mongolian music** and more |
-| 1950s–60s | **reform**: in 1963 Zhao Xingru and the **Zhoucun Ludong instrument workshop** in Shandong built a **29-gong yunluo** on the model of the bells in the **Confucius Temple at Qufu** (range g–f3); the Beijing workshop made a **36-gong** set; in 1964 Tian Dezhong with the same workshop produced the **38-gong** version (smaller bodies, thicker faces for the top register; range fixed at c1–c4, three octaves; a **shuangguang gong** added above the frame). Also 15, 26 and 37-gong sets — the **37-gong yunluo is listed in the *Atlas of Chinese Instruments*** |
-| Today | a colour instrument in **wind-and-percussion bands, shifan drumming, Hebei and Shandong wind music, Shanxi drum music and Buddhist/Taoist ritual music**, and a **melodic percussion voice in the modern Chinese orchestra** in its own right (works such as *Molten Steel Flows* and *Song of the Reservoir* are led by the yunluo) |
+| Qing | the court set recorded in the **Draft History of Qing** is **ten gongs**, used for **imperial processions, the danbi and zhonghe suites, guiding music, victory songs, banquet music, Mongolian music** and more |
+| 1950s–60s | **reform**: in 1963 Zhao Xingru and the **Zhoucun Ludong instrument workshop** in Shandong built a **29-gong yunluo** on the model of the bells in the **Confucius Temple at Qufu** (range g–f3); the Beijing workshop made a **36-gong** set; in 1964 Tian Dezhong with the same workshop produced the **38-gong** version (smaller bodies, thicker faces for the top register; range fixed at c1–c4, three octaves; a **shuangguang gong** added above the frame). Also 15, 26 and 37-gong sets — the **37-gong yunluo is listed in the **Atlas of Chinese Instruments** ** |
+| Today | a colour instrument in **wind-and-percussion bands, shifan drumming, Hebei and Shandong wind music, Shanxi drum music and Buddhist/Taoist ritual music**, and a **melodic percussion voice in the modern Chinese orchestra** in its own right (works such as **Molten Steel Flows** and **Song of the Reservoir** are led by the yunluo) |
 
-**The name *gaogong luo* deserves a line of its own: it is named after a note** — it uses *gong* (工) straight
+**The name **gaogong luo** deserves a line of its own: it is named after a note** — it uses **gong** (工) straight
 out of the gongche notation. Which gives this site's "history of names" a sixth source:
 
 | # | Rule | Example |
@@ -622,7 +622,7 @@ is the same: **a name records a social relationship.**)
 - **"A yunluo is just a scaled-down gong."** The opposite: **it is many gongs plus a frame**, and it is
   **flat-faced with no boss, hung on three cords, and tuned almost purely by thickness** — apart from "bronze,
   struck with a beater" it differs from a great gong in nearly every respect.
-- **"Ten gongs means ten usable notes."** It is ten gongs, yes — but the **top one, the *gaogong luo*, is rarely
+- **"Ten gongs means ten usable notes."** It is ten gongs, yes — but the **top one, the **gaogong luo**, is rarely
   used**, which is why it is also called the nine-note gong; and **the layout differs by region and genre**, so
   there is no single national set.
 - **"It is an unpitched colour percussion instrument."** It **has definite pitch**, and in wind-and-percussion
@@ -635,7 +635,7 @@ is the same: **a name records a social relationship.**)
   of this page.
 - **"The bayin call it metal, so a yunluo is a 'metal instrument'."** As with the
   [[instrument:guqin|guqin]]: **the bayin records the material**, while in Hornbostel–Sachs it is also an
-  **idiophone** (answering *what vibrates*) — **the two systems ask two different questions.**
+  **idiophone** (answering **what vibrates**) — **the two systems ask two different questions.**
 
 ## Next
 

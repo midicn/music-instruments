@@ -185,7 +185,7 @@ updated: 2026-09-26
 :::
 
 ::: en
-The euphonium's name *is* its position: **from the Greek for "sweet-voiced".** Its register sits between the
+The euphonium's name **is** its position: **from the Greek for "sweet-voiced".** Its register sits between the
 [[instrument:trombone|trombone]] and the [[instrument:tuba|tuba]], and in a wind band it takes the
 tenor-bass — often described as **the brass section's baritone**.
 

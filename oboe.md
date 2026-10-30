@@ -256,7 +256,7 @@ For that same reason the oboe carries a special duty: **an orchestra tunes to th
 | **Family** | Western · Woodwinds (oboe family) |
 | **Bayin** | Not applicable — a Chinese system; the oboe is outside it |
 
-> ⚠️ **One conceptual point**: single versus double reed is *not* just a question of how many blades.
+> ⚠️ **One conceptual point**: single versus double reed is **not** just a question of how many blades.
 > What really shapes the instrument's range is the **bore**: a cylindrical tube (the
 > [[instrument:clarinet|clarinet]]) can only sustain **odd harmonics** (1, 3, 5…), so overblowing jumps a
 > **twelfth**; a conical tube (oboe, [[instrument:bassoon|bassoon]], saxophone) sustains **all harmonics**,
@@ -303,7 +303,7 @@ For that same reason the oboe carries a special duty: **an orchestra tunes to th
 
 Three points:
 
-1. **There is no separate mouthpiece.** The reed *is* the mouthpiece: two canes bound together and pushed
+1. **There is no separate mouthpiece.** The reed **is** the mouthpiece: two canes bound together and pushed
    into the top of the tube. Players **scrape and adjust their own reeds**, which gives the oboe much of
    its personal sound — and much of its steep learning curve.
 2. **The body is conical** (widening from the reed towards a slightly flaring bell). Against the clarinet's
@@ -411,7 +411,7 @@ beginners feel they cannot get the air out — the first obstacle they meet.
 
 **The division of labour is clear**: the oboe is the top voice, the d'amore a minor third lower, the English
 horn a fifth lower, the bassoon two octaves lower — **size sets the pitch, the bore keeps the family
-sound**. That is why the differences *within* the oboe family are smaller than the differences between the
+sound**. That is why the differences **within** the oboe family are smaller than the differences between the
 clarinet's three registers.
 
 ## History

@@ -124,7 +124,7 @@ updated: 2026-10-04
 《**地球停转之日**》（1951）·《**火星人玩转地球**》·《**爱德·伍德**》——
 ⭐ **银幕上的「宇宙声」，多半是它。**
 
-⭐ **摇滚一侧**：**Beach Boys**（*Good Vibrations*）· **Led Zeppelin** · **Radiohead**。
+⭐ **摇滚一侧**：**Beach Boys**（**Good Vibrations**）· **Led Zeppelin** · **Radiohead**。
 ⭐ **古典一侧**：**Henry Cowell** · **Edgard Varèse** 为它作曲；
 ⭐⭐ **肖斯塔科维奇**最早把它写进管弦乐（1931 年电影《Aldna》）——
 **一件实验室乐器进了交响乐队。**
@@ -303,9 +303,9 @@ fingerboard is invisible.**
 《**地球停转之日**》（1951）·《**火星人玩转地球**》·《**爱德·伍德**》—
 ⭐ **the「cosmic」sound of the screen is usually this one.**
 
-⭐ **Rock**: **Beach Boys**（*Good Vibrations*）· **Led Zeppelin** · **Radiohead**.
+⭐ **Rock**: **Beach Boys**（**Good Vibrations**）· **Led Zeppelin** · **Radiohead**.
 ⭐ **Classical**: **Henry Cowell** · **Edgard Varèse** wrote for it;
-⭐⭐ **Shostakovich** was among the first to orchestrate it（the 1931 film *Aldna*）—
+⭐⭐ **Shostakovich** was among the first to orchestrate it（the 1931 film **Aldna**）—
 **a laboratory instrument entered the symphony.**
 
 ## ⭐⭐ Form: one swap, then it stayed
@@ -327,7 +327,7 @@ fingerboard is invisible.**
 | ⭐⭐ Origin | ⭐⭐ **1920 · Léon Theremin · a by-product of proximity-sensor research**（prototype = wireless motion alarm）→ patent 1928 → **RCA 1929: the first commercial electronic instrument** |
 | ⭐⭐ Hardest to tune | ⭐⭐ **no frets, keys, stops, no physical feedback** → every note from **muscle memory**（**Clara Rockmore**, who worked with Theremin）; ⭐ **the hand's position in the air is the fingerboard, and the fingerboard is invisible** |
 | ⭐⭐ Sound label | ⭐⭐ **「像小提琴，但更诡异、更超凡」** — alien, surreal, eerie; films: **The Day the Earth Stood Still · Spellbound · Mars Attacks!**; rock: **Beach Boys · Led Zeppelin · Radiohead** |
-| ⭐ Classical | **Cowell · Varèse** wrote for it; ⭐⭐ **Shostakovich** orchestrated it early（1931, *Aldna*） |
+| ⭐ Classical | **Cowell · Varèse** wrote for it; ⭐⭐ **Shostakovich** orchestrated it early（1931, **Aldna**） |
 | ⭐ Form history | prototype「box + vertical antenna + **pedal**」→ ⭐ pedal **replaced by the loop**, then it stayed; vacuum tubes → op-amps/CMOS, **principle unchanged** |
 | ⭐⭐ Electronic section | **the starting point of the electronic section** — 「合成器的先声」: **sound from electricity, shaped by voltage** begins here |
 | HS | **Electrophone** — the fifth HS category, added later for instruments like this |

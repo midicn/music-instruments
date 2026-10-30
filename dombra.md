@@ -368,7 +368,7 @@ updated: 2026-09-28
 | **Naming** | triangular → "**Abai dombra**" (after the poet **Abai Kunanbayev**); oval → "**Zhambyl dombra**" (after the akyn **Zhambyl**) |
 
 ⭐ The last row is an old friend from names-history (item ⑭: **naming after people**):
-**the two forms are distinguished by *who*, not by *what they look like*.**
+**the two forms are distinguished by **who**, not by **what they look like**.**
 
 ## Seven thousand küy, and horses most of all
 
@@ -380,8 +380,8 @@ updated: 2026-09-28
   being the most numerous**, followed by hunting life, praise of the land, and young love"
   (two different scopes — total accumulation versus what was then catalogued; **both noted**).
 
-⭐ Among the representative pieces are *The Yellow River*, *The White Swan*, *The Thousand-Li Horse* and
-*The Chestnut Horse* — **note that three of them are horses**, exactly as the sources say:
+⭐ Among the representative pieces are **The Yellow River**, **The White Swan**, **The Thousand-Li Horse** and
+**The Chestnut Horse** — **note that three of them are horses**, exactly as the sources say:
 **on the steppe, the horse is both the hero of stories and the guest of music.**
 
 ## The akyn's weapon

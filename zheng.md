@@ -377,7 +377,7 @@ Three points:
 The zheng is tuned **to a pentatonic scale** — meaning **there is no string for fa or si**.
 
 So where do those two notes come from? **They are pressed out on the mi and la strings.** This technique has a
-lovely name: **"using nuance to supply the note"** — **filling the gap in *notes* with *nuance*.**
+lovely name: **"using nuance to supply the note"** — **filling the gap in **notes** with **nuance**.**
 
 Three consequences follow:
 
@@ -385,7 +385,7 @@ Three consequences follow:
    out of them**.
 2. **Pressing becomes the source of its style.** Differences in **force, depth and duration** of the press give
    regional repertoires their different flavours — which is the deeper meaning of the phrase: **the two missing
-   notes are a technical problem, but *how you press* is an artistic one.**
+   notes are a technical problem, but **how you press** is an artistic one.**
 3. **It walks on two legs at once**: **adding strings** solves range, **pressing** solves the gaps — and those two
    roads correspond to two other threads of this project.
 
@@ -407,8 +407,8 @@ Three consequences follow:
 Four cues:
 
 1. **Bright, firm, long-ringing.** The large soundbox makes it **brighter and more outgoing** than the guqin.
-2. **Distinct beads of sound.** *Yao zhi* (rapid repetition on one string) joins the beads into a line, and
-   *gua zou* (sweeping across a run of strings) is a **water-like slide**.
+2. **Distinct beads of sound.** **Yao zhi** (rapid repetition on one string) joins the beads into a line, and
+   **gua zou** (sweeping across a run of strings) is a **water-like slide**.
 3. **Heavy bass, clear treble.** Four octaves make the registers plainly different.
 4. **"The piano of the East" describes its role**: wide range, good volume, good harmony — **an instrument that can
    be put on a big occasion.**
@@ -447,7 +447,7 @@ Four cues:
 
 | Period | State |
 |---|---|
-| Spring and Autumn, Warring States | **widespread in the state of Qin, hence "Qin zheng"**; Sima Qian's *Records of the Grand Historian* records "**thumping the zheng**" in a famous account of Qin music — one of its earliest notable mentions |
+| Spring and Autumn, Warring States | **widespread in the state of Qin, hence "Qin zheng"**; Sima Qian's **Records of the Grand Historian** records "**thumping the zheng**" in a famous account of Qin music — one of its earliest notable mentions |
 | Qin–Han | string count rises to twelve; used with xianghe song |
 | Tang–Song | twelve and thirteen strings side by side; a struck form is recorded in the early Tang, and the thirteen-string zheng approaches the modern shape; used in court ensembles |
 | Ming–Qing | thirteen to sixteen strings in wide use; regional styles begin to form |
@@ -469,7 +469,7 @@ lives.**
 - **"A pentatonic tuning means it cannot play seven-note scales."** It can: with fa and si pressed in,
   **pentatonic, hexatonic and heptatonic music are all playable.**
 - **"Bridges mean the pitch cannot be changed."** **The bridges move**, and moving them to set the pitch is the
-  zheng's signature. You simply cannot move one *while playing* — that is a tuner's job.
+  zheng's signature. You simply cannot move one **while playing** — that is a tuner's job.
 - **"It is only a folk instrument for festive occasions."** It was equally important in court music (Han xianghe,
   Sui nine-part, Tang ten-part ensembles), and it has a full solo tradition and schools.
 - **"The bayin says silk, so only silk strings will do."** As with the guqin: **the bayin records the material of its

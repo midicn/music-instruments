@@ -443,12 +443,12 @@ asks "what vibrates"** — the same objects, two entirely different maps.
 |---|---|
 | pre-Qin | the qin already exists; **originally five strings**; "qin" is its proper name |
 | Han | **fixed at seven strings**; the form is complete by the Han at the latest, and it becomes central to literati cultivation |
-| turn of the Han–Wei | **letter notation** appears (the earliest surviving score is *Jieshi Diao Youlan*); before that it was taught by ear |
+| turn of the Han–Wei | **letter notation** appears (the earliest surviving score is **Jieshi Diao Youlan**); before that it was taught by ear |
 | mid-Tang | Cao Rou creates **jianzipu**, giving guqin music a durable notation |
 | Song–Qing | schools multiply (Zhe, Yushan, Guangling…); the qin becomes part of literati life |
 | 20th c. | its quiet, private character leaves it marginalised for a time, while **steel-nylon strings** gradually replace silk |
 | 2003 | guqin art is proclaimed by UNESCO a Masterpiece of the Oral and Intangible Heritage of Humanity (later merged into the Representative List) |
-| today | traditional solo and *qinge* (sung qin) continue, often with [[instrument:dizi|dizi]] or xiao; **jianzipu and da pu are still in use** |
+| today | traditional solo and **qinge** (sung qin) continue, often with [[instrument:dizi|dizi]] or xiao; **jianzipu and da pu are still in use** |
 
 ## Common misconceptions
 

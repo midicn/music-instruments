@@ -218,7 +218,7 @@ updated: 2026-09-26
 
 ::: en
 The Wagner tuba is the one brass instrument **built for a specific work**: commissioned by Wagner for
-*The Ring of the Nibelung*, it first appeared at the 1876 premiere.
+**The Ring of the Nibelung**, it first appeared at the 1876 premiere.
 
 Its construction is disarmingly direct: **take a horn's mouthpiece and fit a tuba-like body.** The result is
 a colour between the two instruments — exactly what Wagner wanted.
@@ -230,7 +230,7 @@ a colour between the two instruments — exactly what Wagner wanted.
 | **Family** | Western · Brass (a hybrid branch between horn and tuba) |
 | **Bayin** | Not applicable — a Chinese system; the Wagner tuba is outside it |
 
-> ⚠️ **One conceptual point**: **a brass instrument's colour comes from its mouthpiece *and* its body — two
+> ⚠️ **One conceptual point**: **a brass instrument's colour comes from its mouthpiece **and** its body — two
 > parts that can be chosen separately.** The Wagner tuba is the plainest proof: **a horn mouthpiece plus a
 > tuba body** = a colour that did not previously exist.
 > Related ideas appear on the [[instrument:flugelhorn|flugelhorn]] (cup mouthpiece, wide taper) and the
@@ -333,7 +333,7 @@ Four cues:
 
 1. **Between horn and tuba** — darker and thicker than a horn, softer and closer than a tuba; often described
    as "a horn from a distance" or "a softened low brass".
-2. **Ideal for long lines and harmonic bedding**: its tone is even and unobtrusive, which is why *The Ring*
+2. **Ideal for long lines and harmonic bedding**: its tone is even and unobtrusive, which is why **The Ring**
    uses it as a **sustained harmonic layer**.
 3. **Slightly veiled as a soloist** — not a fault: that "coming from the depths" is what Wagner wanted.
 4. **Moderate volume.** It can be loud, but its finest quality is **thickness at medium and low dynamics**.
@@ -350,7 +350,7 @@ Four cues:
 | Instrument | Mouthpiece | Body | Range (sounding) | Setting |
 |---|---|---|---|---|
 | [[instrument:french-horn\|Horn]] | funnel | wide taper, coiled | B1–F5 | orchestral middle |
-| **Wagner tuba** | **funnel** | **tuba-like** | B♭1–F4 | ***The Ring*** and a few later works |
+| **Wagner tuba** | **funnel** | **tuba-like** | B♭1–F4 | ** **The Ring** ** and a few later works |
 | [[instrument:euphonium\|Euphonium]] | deep cup | conical (half a tuba) | A1–B♭4 | band tenor-bass |
 | [[instrument:tuba\|Tuba]] | deep cup | conical, longest | D1–F4 | the bass foundation |
 
@@ -363,16 +363,16 @@ Four cues:
   learning cost.
 - **Looser, deeper air** than a horn (longer tube, lower register).
 - **Rotary valves**, as on a horn — the feel is identical.
-- **It alternates with the horn within a passage**; in *The Ring* the same player picks up the Wagner tuba
+- **It alternates with the horn within a passage**; in **The Ring** the same player picks up the Wagner tuba
   and puts it down as the music requires.
 
 ## History
 
 | Period | State |
 |---|---|
-| 1850s | Wagner, planning *The Ring*, asks for "a colour between horn and tuba" |
+| 1850s | Wagner, planning **The Ring**, asks for "a colour between horn and tuba" |
 | 1870s | built to his specification by instrument makers (Moritz among them); he called it a "tuba" |
-| **1876** | first heard at the premiere of *The Ring of the Nibelung* |
+| **1876** | first heard at the premiere of **The Ring of the Nibelung** |
 | Late 19th–20th c. | borrowed by other composers (Bruckner, Richard Strauss, Stravinsky), becoming a fixed orchestral colour |
 | Late 20th c. onward | a permanent member of some orchestras; a few solo and contemporary works |
 
@@ -384,7 +384,7 @@ filled by anything else.**
 
 - **"A Wagner tuba is a kind of tuba."** The name says tuba, but the **mouthpiece is a horn's** and it is
   played by horn players — it sits closer to the horn family.
-- **"It is only used in *The Ring*."** Bruckner, Richard Strauss, Stravinsky and others use it; it is a
+- **"It is only used in **The Ring**."** Bruckner, Richard Strauss, Stravinsky and others use it; it is a
   regular orchestral colour.
 - **"It is the intermediate size between horn and tuba."** More precisely: **a horn mouthpiece with a tuba
   body** — a **combination of parts**, not a midpoint in size.

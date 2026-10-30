@@ -216,7 +216,7 @@ In Malinké, 「balafon」 is not the name of an instrument — it is the name o
 
 ## ⭐⭐ Three roads away from home
 
-⭐ **Out to sea with the slave trade**: players were carried to the Americas; the *Virginia Gazette* recorded African Americans playing a **barrafoo** in 1776, and by the mid-19th century every North American reference had vanished —— ⭐⭐ **the instrument crossed the ocean and so did its name, leaving only a paragraph in a newspaper** (contrast the talking drum's speech codes, banned by colonial authorities —— two kinds of removal: one silenced after removal, one banned in place).
+⭐ **Out to sea with the slave trade**: players were carried to the Americas; the **Virginia Gazette** recorded African Americans playing a **barrafoo** in 1776, and by the mid-19th century every North American reference had vanished —— ⭐⭐ **the instrument crossed the ocean and so did its name, leaving only a paragraph in a newspaper** (contrast the talking drum's speech codes, banned by colonial authorities —— two kinds of removal: one silenced after removal, one banned in place).
 
 ⭐⭐ **The technique travels, the instrument stays**: in the 1980s revival of African Roots and World Music, the **Rail Band** led by Salif Keita was its most famous exponent; ⭐⭐ **Maninka players in eastern Guinea transferred balafon playing style onto imported guitars** —— a technique migrates more easily than an instrument (contrast the kora, whose versions live on a person: there the person carries the version, here the technique carries the player).
 
@@ -250,7 +250,7 @@ In Malinké, 「balafon」 is not the name of an instrument — it is the name o
 | 12th century | Rise of the Mali Empire; oral histories begin |
 | 1352 | Ibn Battuta records ngoni and balafon at Mansa Suleyman's court |
 | 17th century | European visitors describe a form largely identical to today's |
-| 1776 | *Virginia Gazette* records barrafoo (North American references end by mid-19th century) |
+| 1776 | **Virginia Gazette** records barrafoo (North American references end by mid-19th century) |
 | 1980s | Rail Band (Salif Keita) leads the World Music revival |
 | 2024 | Listed by UNESCO alongside Indonesia's kolintang |
 

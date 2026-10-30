@@ -241,7 +241,7 @@ It evolved out of the ancient [[instrument:ruan|ruan]] — **its soundbox made i
 shrinking shorter and shorter** — until it became the small, bright plucked instrument on opera stages.
 
 > ⚠️ And its most instructive fact is about **when an instrument counts as an instrument**:
-> in the Song *Yue Shu* it still stands in a sentence ending "**made by Ruan Xian**" — one of the ruan's
+> in the Song **Yue Shu** it still stands in a sentence ending "**made by Ruan Xian**" — one of the ruan's
 > family; by the Qing its neck had shortened and its shape differed greatly;
 > yet it was only in **1950** that it was **formally established as an independent instrument**.
 >
@@ -382,7 +382,7 @@ Its reach is wider than most Chinese instruments:
 | **Dong** (Tongdao, Hunan) | played with **sheng** and other instruments |
 | **Bai** (Dali, Yunnan) | second only to the three-string; used in Bai opera |
 | **Hani** | central to social and courtship life |
-| **Sichuan** | accompanies *qingyin* storytelling — hence "**singing the yueqin**" |
+| **Sichuan** | accompanies **qingyin** storytelling — hence "**singing the yueqin**" |
 | **East Asia** | to Japan in the Tang (peaking in the 1830s; banned in the war, restored after); Vietnam; Taiwan, China |
 
 ⭐ One line for the table: **it is the yueqin of the stage and the yueqin of the mountains** —
@@ -411,7 +411,7 @@ Its reach is wider than most Chinese instruments:
 Three cues:
 
 1. **Hear the point.** Its notes are short and bright — **ink dots on the singing**, not lines.
-2. **Hear the moon.** In solos or in Yi and Hani dance-songs it *sings*: in those gatherings it is one way
+2. **Hear the moon.** In solos or in Yi and Hani dance-songs it **sings**: in those gatherings it is one way
    for young people to talk to each other.
 3. **Hear the two voices.** The same instrument is an **accompanist** on stage and a **lead** in the hills —
    **before listening, ask where it is standing.**

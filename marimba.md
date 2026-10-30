@@ -227,7 +227,7 @@ instrument**.
 | **Family** | Western · Percussion (idiophone, wooden-bar family) |
 | **Bayin** | Not applicable — a Chinese system; the marimba is outside it |
 
-> ⚠️ **One conceptual point**: **the resonator is shared across the family, but its *length* decides the
+> ⚠️ **One conceptual point**: **the resonator is shared across the family, but its **length** decides the
 > instrument's character.** The [[instrument:xylophone|xylophone]]'s resonators are short → the sound is
 > caught and released at once → short tail → suited to **points**. The marimba's are long (over a metre in
 > the bass) → the sound is held and radiated later → long tail → suited to **lines**.

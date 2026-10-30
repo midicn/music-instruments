@@ -255,7 +255,7 @@ everything to the lips.
 > The hunting horn has no such device, so it **uses one harmonic series only**. The result: its range is **not a
 > continuous stretch** but **a few points scattered along the harmonic series**.
 >
-> **This is the only instrument family on this site with a *discontinuous* range** — which is why its range
+> **This is the only instrument family on this site with a **discontinuous** range** — which is why its range
 > chart is not a band but **individual points**.
 
 | Classification | Value |

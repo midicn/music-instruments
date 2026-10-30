@@ -234,8 +234,8 @@ updated: 2026-09-27
 **The liuqin's shape is a complete simile: it looks like a willow leaf — and it is actually made of willow
 wood.**
 
-It is also called the *willow-leaf qin*, the **"earth pipa"** and the "steel-leg"; and the famous film song
-"**Pluck my beloved earth pipa**" from *Railway Guerrillas* is about this very instrument.
+It is also called the **willow-leaf qin**, the **"earth pipa"** and the "steel-leg"; and the famous film song
+"**Pluck my beloved earth pipa**" from **Railway Guerrillas** is about this very instrument.
 
 > ⚠️ But the real point of this page is **something else**:
 > the traditional liuqin had **two strings and seven frets** (the frets cut from sorghum stalks), a range of
@@ -244,7 +244,7 @@ It is also called the *willow-leaf qin*, the **"earth pipa"** and the "steel-leg
 > two strings to four · silk to steel · seven frets to twenty-nine · finger-cap to plectrum · range to
 > **four octaves**.
 >
-> ⭐⭐ **Rule ㊷: the post came first, the instrument second — the liuqin was not grown, it was *filled in*.**
+> ⭐⭐ **Rule ㊷: the post came first, the instrument second — the liuqin was not grown, it was **filled in**.**
 > The stated goal is blunt: "**it filled the gap of a treble plucked instrument in the Chinese orchestra.**"
 > Every instrument so far in this batch found its post after existing;
 > **the liuqin is the reverse: the orchestra lacked a seat, and someone built the instrument for it.**
@@ -353,13 +353,13 @@ Chinese orchestra."**
   octaves);
 - Its post is stated just as plainly: "in the orchestra the liuqin is the **treble** of the plucked section,
   **penetrating and hard to drown out**." **Its value is that it cannot be covered** (compare the
-  [[instrument:yueqin|yueqin]], whose value is that it *points*).
+  [[instrument:yueqin|yueqin]], whose value is that it **points**).
 
 ## The opera named after the instrument
 
 ⭐ One line deserves its own paragraph:
 
-**"Liuqin opera was first called 'soul-pulling tune'; in 1953 it was named *Liuqin opera* after its
+**"Liuqin opera was first called 'soul-pulling tune'; in 1953 it was named **Liuqin opera** after its
 accompanying instrument."**
 
 — **a whole opera genre renamed itself after its own accompaniment.**
@@ -376,7 +376,7 @@ Liuqin opera remembered the instrument.)
 | 3 | Linyi performers **Wu Da and Wu Er** copied the pipa held by Dhrtarastra and made a **two-string "earth pipa" to sing and beg with** |
 
 (Account 3 is the most moving: **it was built to make a living** — echoing how it was later rebuilt to fill
-a seat: **both times, this instrument was *made*, not grown.**)
+a seat: **both times, this instrument was **made**, not grown.**)
 
 ## Range
 
@@ -395,8 +395,8 @@ a seat: **both times, this instrument was *made*, not grown.**)
   "it filled the gap of a treble plucked instrument in the Chinese orchestra": **seat first, instrument
   second.**
 - **"Earth pipa means it is inferior."** ⚠️ "Earth" means **homegrown**: it was the village-opera instrument
-  of the Su–Lu–Wan border country, and the song from *Railway Guerrillas* sings about it.
-- **"It only accompanies."** ⚠️ It now has solos and concertos (*Spring Comes to the Yi River* and others),
+  of the Su–Lu–Wan border country, and the song from **Railway Guerrillas** sings about it.
+- **"It only accompanies."** ⚠️ It now has solos and concertos (**Spring Comes to the Yi River** and others),
   plays alongside the flute in Changzhou silk-string music, and **can lead the ensemble.**
 
 ## Timbre, and how to hear it
@@ -419,17 +419,17 @@ Three cues:
 | Instrument | Strings · frets | Register | Relation |
 |---|---|---|---|
 | **Liuqin** | 4 strings · 24–29 frets | ⭐ **highest** | this page; the orchestra's treble since 1958 |
-| [[instrument:yueqin\|Yueqin]] | 4 strings in 2 pairs · 8–9 frets | high | ⭐ its sister: small body, high post; the yueqin *points*, the liuqin *cuts through* |
+| [[instrument:yueqin\|Yueqin]] | 4 strings in 2 pairs · 8–9 frets | high | ⭐ its sister: small body, high post; the yueqin **points**, the liuqin **cuts through** |
 | [[instrument:pipa\|Pipa]] | 4 strings · many frets | mid-high | ⭐ it was modelled on the pipa and nicknamed "small pipa"; different tuning |
 | [[instrument:ruan\|Ruan]] | 4 strings | mid-low | same family, other register |
 | [[instrument:dizi\|Dizi]] | — | high | ⭐ its partner in Changzhou silk strings: flute leads, liuqin answers |
 
 ## Next
 
-The plucked section continues — and the next one is special: **it is not plucked, it is *struck*.**
+The plucked section continues — and the next one is special: **it is not plucked, it is **struck**.**
 
 Two bamboo hammers in the hand, beating the strings: it settled in China only a few centuries ago, yet
-became the busiest instrument in opera and storytelling — rhythm *and* harmony at once.
+became the busiest instrument in opera and storytelling — rhythm **and** harmony at once.
 
 **[[instrument:yangqin|Yangqin]]**.
 :::

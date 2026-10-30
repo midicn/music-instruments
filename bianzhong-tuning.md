@@ -327,7 +327,7 @@ updated: 2026-09-26
 ::: en
 **This page is the deep dive behind the [[instrument:bianzhong|bianzhong]] entry.**
 
-That page answered *what it is*: almond cross-section · two tones per bell · twelve lü ·
+That page answered **what it is**: almond cross-section · two tones per bell · twelve lü ·
 3,755 inscribed characters. This page answers three harder questions:
 
 > ⚠️ **Why can one bell give two tones?**
@@ -528,7 +528,7 @@ of the technique." **Two-tone bells have an evolutionary road from accident to d
 
 ## The Kao Gong Ji: a casting code two thousand years old
 
-Antiquity left a **technical document** — the "**Fushi makes bells**" section of the *Kao Gong Ji*:
+Antiquity left a **technical document** — the "**Fushi makes bells**" section of the **Kao Gong Ji**:
 
 - **It names everything.** Rim edges, mouth, striking face, bands, crown, shaft… every part of a bell has a
   name, including the **tuning groove (sui)**.

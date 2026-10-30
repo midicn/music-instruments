@@ -31,7 +31,7 @@ sources:
   - ⭐⭐ **用户谱系（谁在用它）** —— 「**Michael Jackson（Thriller 上大量使用）· Madonna（Like a Virgin）· Phil Collins（In the Air Tonight）· The Cars（Let's Go · Shake It Up）· Kraftwerk（1981 Computer World 巡演）· ABBA（The Visitors）· Radiohead（Kid A——Everything In Its Right Place）**」；「**Peter Gabriel 称它为他的『old warhorse』（老战马），1986 年专辑 So 上许多声音都用它**」；「**Blade Runner 配乐**」依专题类资料
   - ⭐⭐ **它的位置（一句话封神）** —— 「**Every analog polysynth released since 1978 exists in its shadow.**——1978 年后发布的每一台模拟复音合成器都活在它的影子里」；「MusicRadar：**『Prophet-5 changed the world – simple as that.（它改变了世界——就这么简单。）』**」；⭐ **它的声音**：「**清晰、平衡、极其通用——不如 Oberheim 那么暖，不如 ARP 那么野，但永远音乐性**」
   - ⭐⭐ **公司史（起落一次全）** —— 「Sequential Circuits **1987 年破产**（80 年代竞争与技术更迭的牺牲品）」；「Smith 去过 Yamaha，**2002 年创立 Dave Smith Instruments，2015 年回购 Sequential 品牌名**」；「**2020 年 Prophet-5 Rev4 忠实复刻**（现代更新保留原始音色特征）」；「**Dave Smith 于 2022 年去世——可编程复音合成器与 MIDI，是他留给地球上每位音乐家的永久礼物**」依专题类资料
-  - ⭐⭐ **「记住」的技术细节（四十个槽怎么来的）** —— 「Smith 的洞见是用**微处理器（Zilog Z80）扫描并存储 patch 的每一个参数**」；「Rev1 能存 **64 个 patch**（八组每组八程序），后期扩到约 128」；⭐ **对照 ARP 2600（无存储）与 Minimoog（无存储）——****面板旋钮的位置第一次可以被「写下」再「读回」**
+  - ⭐⭐ **「记住」的技术细节（四十个槽怎么来的）** —— 「Smith 的洞见是用**微处理器（Zilog Z80）扫描并存储 patch 的每一个参数**」；「Rev1 能存 **64 个 patch**（八组每组八程序），后期扩到约 128」；⭐ **对照 ARP 2600（无存储）与 Minimoog（无存储）——** **面板旋钮的位置第一次可以被「写下」再「读回」**
   - 「Prophet-5 属**电鸣**（Electrophone · 模拟减法 + 数字控制存储——**混合架构**）」依 Hornbostel–Sachs 分类
 updated: 2026-10-04
 ---

@@ -291,7 +291,7 @@ It is not "several strings played together" — **only one string does the work*
 |---|---|
 | **热瓦甫 / 热瓦普** | the two commonest today |
 | **拉瓦波** | another transliteration |
-| ⭐ **喇巴卜** | **the Qing court's spelling** — the instrument was listed in the court's "Muslim music" and appears as *lababu* in the **Lülü Zhengyi Houbian** (completed 1746) |
+| ⭐ **喇巴卜** | **the Qing court's spelling** — the instrument was listed in the court's "Muslim music" and appears as **lababu** in the **Lülü Zhengyi Houbian** (completed 1746) |
 
 - "Said to have been created in the **14th century**"; "according to Molla Ismutulla Mujizi's *History of
   Musicians*, the rawap **originated in Kashgar** in southern Xinjiang."
@@ -366,7 +366,7 @@ modulate."** The family was not lost either: **alto and bass rawaps** followed, 
 - **"There is only one rawap."** ⚠️ Many types: **Kashgar (southern) · northern · Dolan · shepherd**; the
   Tajik equivalent is the **rebub** (apricot wood, flat-round box).
 - **"The name has one spelling."** ⚠️ 热瓦甫 / 热瓦普 / 拉瓦波 / **喇巴卜** — the last being the Qing court's
-  official spelling in the *Lülü Zhengyi Houbian*.
+  official spelling in the **Lülü Zhengyi Houbian**.
 - **"It always has python skin."** ⚠️ Skins range from **sheep, donkey and horse to python**; python is
   commoner on **reformed** models (stave-built boxes), while folk Kashgar instruments use sheep or donkey.
 

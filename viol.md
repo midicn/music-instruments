@@ -539,7 +539,7 @@ The viol comes in **five sizes**, plus the ambiguous "violone":
 | **Bass viol** | low (the workhorse) | [[instrument:cello\|cello]] |
 | Violone | lowest | the bass register (terminology is inconsistent) |
 
-**Every size is held the same way**: upright between the legs with the neck rising — *gamba* is Italian
+**Every size is held the same way**: upright between the legs with the neck rising — **gamba** is Italian
 for "leg". Even the tiny pardessus. That is a completely different route from the
 [[instrument:violin|violin]] family's shoulder hold.
 
@@ -559,7 +559,7 @@ structurally it is "a plucked instrument given a bow". The cello comes out of th
 | Early 18th c. | a last golden age: Bach's Brandenburg Concerto No. 6 uses two viole da gamba; Abel is often called the last great gambist |
 | Mid–late 18th c. | **leaves the mainstream** — halls grew, the viol could not fill them; the cello won |
 | 20th c. | **the early-music revival** brings it back: the Dolmetsch family, and the Viola da Gamba Society founded in Britain in 1948 |
-| 1991 | the film *Tous les matins du monde*, about two French viol players, brought it to a wide audience |
+| 1991 | the film **Tous les matins du monde**, about two French viol players, brought it to a wide audience |
 
 **Why did it lose?** The answer is blunt: **volume**. When public concerts became the norm at the end of
 the 18th century and halls grew larger, an instrument designed with low tension in bow and strings simply

@@ -318,12 +318,12 @@ its music is not for listening to but for **moving together**.
 ## Common misconceptions
 
 - **"It came from the Central Plains."** ⚠️ Three origins coexist: **an Indian multi-string ancestor**, **a
-  Tang-dynasty arrival from the interior** (recorded in the *Red Annals*), ⭐ and **most Tibetan scholars'
+  Tang-dynasty arrival from the interior** (recorded in the **Red Annals**), ⭐ and **most Tibetan scholars'
   view that it is native**; plus a myth linking it to the **goddess of music**. **Set side by side.**
 - **"Six-string means six courses."** ⚠️ **Six strings, two to a pair, three pairs**; and other versions
   exist (three-, four-, eight-string).
 - **"Long-necked lutes all have frets."** ⚠️ This one is **fretless** — unlike the dutar, tanbur and dombra.
-- **"It only accompanies."** ⚠️ It also solos (mostly dance tunes: *Ama Lehua*, *Dawa Shungnu*, *Yiji
+- **"It only accompanies."** ⚠️ It also solos (mostly dance tunes: **Ama Lehua**, **Dawa Shungnu**, *Yiji
   Changmu*) — and its **song form is itself national heritage**.
 - **"The name is an empty transliteration."** ⚠️ The opposite: it means "**the instrument with a pleasing
   sound**" — **the only "review-style" name in this batch.**

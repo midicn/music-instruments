@@ -267,7 +267,7 @@ continuous pitch control plus nuanced dynamics.**
 
 ⭐⭐ **Across this site**: the saer plays every key on one melody string; the niutuiqin hugs the
 voice inside one octave —
-**monophony is never the defect. What you can *say* with one note is.**
+**monophony is never the defect. What you can **say** with one note is.**
 ⭐ **A cellist built it; naturally it speaks one note at a time.**
 
 ## ⭐⭐ A speaker with strings inside (unique on this site)

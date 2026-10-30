@@ -309,8 +309,8 @@ And first, a thing many people mix up:
 ```
 
 ⭐ The point: **"civil/martial" is only the horizontal ruler**; there is a second, **length** ruler. **A piece's
-address is where the two cross** — "Ambush from Ten Sides" is *martial · grand suite*; "Longing for Spring" is
-*civil · short*.
+address is where the two cross** — "Ambush from Ten Sides" is **martial · grand suite**; "Longing for Spring" is
+**civil · short**.
 
 ## Two ends of one ruler
 
@@ -355,10 +355,10 @@ address is where the two cross** — "Ambush from Ten Sides" is *martial · gran
 ⭐ Many assume "civil/martial" is a modern tidy-up. **It is not.**
 
 > "These editions (the **Qing printed pipa collections**) had already begun to divide traditional pieces by
-> **musical structure** into *daqu* and *xiaoqu*, and by **musical style and playing technique** into
-> *wuqu* and *wenqu*."
+> **musical structure** into **daqu** and **xiaoqu**, and by **musical style and playing technique** into
+> **wuqu** and **wenqu**."
 
-And in **Hua Qiuping's 1818** *Secret Scores of the Northern and Southern Schools* — **China's first formally
+And in **Hua Qiuping's 1818** **Secret Scores of the Northern and Southern Schools** — **China's first formally
 printed pipa collection** — the two classes are simply called "**civil boards**" and "**martial boards**":
 
 | Volume | Source | Civil boards | Martial boards |
@@ -384,7 +384,7 @@ left- versus right-hand emphasis.)
 Not everything sits purely at one end:
 
 > "Grand pieces **combine civil and martial means and styles**, and are freer in performance.
-> Examples: *Yangchun Guqu*, *Puan Zhou*, *Shuilong Yin*."
+> Examples: **Yangchun Guqu**, **Puan Zhou**, **Shuilong Yin**."
 
 ⭐ "Ambush" itself is "**narrative, multi-sectional**": in **Liu Dehai's** version it runs **eight sections** —
 **Encampment · Drums · Marching · Arraying · Ambush · Skirmish · Battle Cry · Pursuit**.
@@ -394,15 +394,15 @@ depicting a Chu army surrounded on every side" —
 
 ## What the ruler cannot measure
 
-⚠️ The most important boundary on this page: **"civil/martial" is a ruler *inside* the literati tradition.**
+⚠️ The most important boundary on this page: **"civil/martial" is a ruler **inside** the literati tradition.**
 
 The sources divide pipa soloists into **three groups**:
 
 | Group | How they play | Example |
 |---|---|---|
 | **Literati players** (the schools) | master-to-disciple, printed scores, interpretation | Wuxi, Pinghu, Chongming, Pudong, Wang school |
-| ⭐ **Street musicians** | earning a living in **teahouses**, **oral** transmission, tunes from **folk song and local opera** | ⭐ *The Dragon Boat*: alternating "**gong-and-drum sections**" (mimicking percussion) with folk melodies; **Abing** (1893–1950) their outstanding figure |
-| ⭐ **Modern intellectuals** (from the 1920s) | Western-trained: frets reset to **equal temperament**, **numbered or staff notation**, new compositions | **Liu Tianhua** (*Improvement Etude*, 1927); educators **Wei Zhongle, Lin Shicheng** |
+| ⭐ **Street musicians** | earning a living in **teahouses**, **oral** transmission, tunes from **folk song and local opera** | ⭐ **The Dragon Boat**: alternating "**gong-and-drum sections**" (mimicking percussion) with folk melodies; **Abing** (1893–1950) their outstanding figure |
+| ⭐ **Modern intellectuals** (from the 1920s) | Western-trained: frets reset to **equal temperament**, **numbered or staff notation**, new compositions | **Liu Tianhua** (**Improvement Etude**, 1927); educators **Wei Zhongle, Lin Shicheng** |
 
 **A structure like "gong-and-drum sections plus folk tunes" cannot be measured by the civil/martial ruler** —
 **it was never the ruler made for it.**
@@ -425,8 +425,8 @@ The sources divide pipa soloists into **three groups**:
   strings). **Not a difficulty ranking — different jobs.**
 - **"The split was invented in modern times."** ⚠️ The **1818** collection already says "**civil boards /
   martial boards**": this is the **Qing score-makers' own** classification.
-- **"Every pipa piece fits one of the two."** ⚠️ There is a **mixed class** (*Yangchun Guqu*, *Puan Zhou*),
-  and **street repertoire** like *The Dragon Boat* sits outside the ruler altogether.
+- **"Every pipa piece fits one of the two."** ⚠️ There is a **mixed class** (**Yangchun Guqu**, **Puan Zhou**),
+  and **street repertoire** like **The Dragon Boat** sits outside the ruler altogether.
 - **"Pipa notation started from scratch."** ⚠️ Hua Qiuping "**took the qin's jianzipu as his model**" —
   **it stood on the qin's shoulders.**
 
@@ -451,7 +451,7 @@ Three cues:
 |---|---|
 | [[instrument:pipa\|Pipa]] | the subject; range and audio stand-in match this page |
 | [[instrument:guqin-notation\|Guqin scores and the jianzipu]] | ⭐ the previous page: Hua Qiuping **took the qin's jianzipu as his model** for pipa symbols — the two pages are tied by one thread of notation |
-| [[instrument:zheng\|Zheng]] · [[instrument:erhu\|Erhu]] | contrast: other instruments have stylistic ranges, but none was written up as a *pair* of concepts like this |
+| [[instrument:zheng\|Zheng]] · [[instrument:erhu\|Erhu]] | contrast: other instruments have stylistic ranges, but none was written up as a **pair** of concepts like this |
 | [[instrument:bianzhong\|Bells]] (㉕) | the same reminder: **classifications and criteria are human-made**, each with its scope |
 
 ## Next

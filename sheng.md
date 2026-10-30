@@ -456,11 +456,11 @@ Four cues:
 | Period | State |
 |---|---|
 | Shang | **the oracle bones already contain its early form 龢 (a small sheng)** — the earliest record of it |
-| Zhou | central to the **ritual music system**; the *Book of Songs* has "I have guests, so we play the se and blow the sheng"; paired with the larger *yu* |
+| Zhou | central to the **ritual music system**; the **Book of Songs** has "I have guests, so we play the se and blow the sheng"; paired with the larger **yu** |
 | Spring and Autumn, Warring States | used widely for sacrifice, court audience and feasting; **five gourd shengs were excavated in 1978 from the tomb of Marquis Yi of Zeng (c. 433 BCE)** — the earliest sheng found in China |
-| Han | moves from the temple into popular music, accompanying *xianghe* and *qingshang* song |
+| Han | moves from the temple into popular music, accompanying **xianghe** and **qingshang** song |
 | Sui–Tang | with the arrival of Central Asian music its standing declines somewhat, though it remains in several ensembles |
-| c. 8th c. | **travels east to Japan** as the *shō*, still used in gagaku today |
+| c. 8th c. | **travels east to Japan** as the **shō**, still used in gagaku today |
 | Song–Yuan–Ming–Qing | moves from court to town, taking root in opera troupes and folk custom |
 | **18th century** | **travels west to Europe** — its free-reed construction **strongly influenced the invention of the reed organ, harmonica and accordion** |
 | 20th c. | major redesign: **21 · 24 · 36 · 37-reed** models, keyboard and keyed shengs; the wind chest changed from a fixed to a movable type |

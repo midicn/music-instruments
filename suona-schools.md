@@ -250,7 +250,7 @@ updated: 2026-10-04
 :::
 
 ::: en
-Fourteen aerophones are done in this section, and most of them are sorted by *form* — large,
+Fourteen aerophones are done in this section, and most of them are sorted by **form** — large,
 middle, small, reed or no reed.
 
 **Only the suona is sorted by the local shape of its reed.**

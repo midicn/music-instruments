@@ -415,7 +415,7 @@ exactly what frees it for another job: **conducting.**
 | Period | State |
 |---|---|
 | Neolithic | clay drum-type objects already exist; drums are among the earliest instrument families (**hide and wood were both at hand**) |
-| Shang–Zhou | many drum types, used for sacrifice, war and feasting; the *Rites of Zhou* places drums under **hide** in the bayin |
+| Shang–Zhou | many drum types, used for sacrifice, war and feasting; the **Rites of Zhou** places drums under **hide** in the bayin |
 | pre-Qin texts | drums appear constantly in ritual and military records — **from the beginning a drum was both instrument and signalling device** |
 | Han–Tang | drum types multiply with court and popular music |
 | Song–Yuan–Ming–Qing | **with the rise of opera, the drum becomes the directing core of the band**; the drummer (司鼓) becomes its most senior player |

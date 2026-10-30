@@ -230,7 +230,7 @@ It and the [[instrument:marimba|marimba]] are close relatives with opposite prio
 
 > ⚠️ **One conceptual point**: **the difference between pitched and unpitched percussion is whether the
 > vibrating body can produce a stable pitch.** Each xylophone **bar** is tuned by carving (an arch is cut
-> underneath), fixing its frequency — so it can play specified notes and counts as *pitched* percussion.
+> underneath), fixing its frequency — so it can play specified notes and counts as **pitched** percussion.
 > A [[instrument:snare-drum|snare]] or [[instrument:cymbals|cymbals]] has no such tuning structure, so it is
 > unpitched. **The test is not "can I hear a height" but "can it produce the required note".**
 
@@ -377,7 +377,7 @@ design** — together they form the whole standard means of playing pitch on orc
 | Period | State |
 |---|---|
 | Antiquity–Middle Ages | bar instruments exist in Asia and Africa; Southeast Asia's **bamboo ensemble** tradition is especially developed |
-| 19th c. | European makers add resonators; it enters the orchestra (Saint-Saëns's *Danse macabre* is the famous case) |
+| 19th c. | European makers add resonators; it enters the orchestra (Saint-Saëns's **Danse macabre** is the famous case) |
 | Late 19th–20th c. | standard in orchestra and band; the **marimba is greatly developed** in the USA and Japan (wider range, four-mallet technique) |
 | 20th c. | contemporary works give it independent parts; the marimba becomes a solo instrument |
 | Late 20th c. onward | the wooden-bar family (xylophone, marimba, vibraphone) is universal in jazz, film and contemporary music |

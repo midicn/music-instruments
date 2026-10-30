@@ -193,7 +193,7 @@ The oud's name simply means 「wood」——**because its belly is wooden, while
 
 ## ⭐⭐ The oldest time anyone measured an instrument in fingers
 
-⭐⭐ In the 9th century the philosopher al-Kindi gave the first complete description of the oud's construction in the *Risāla fī-l-Luḥūn wa-n-Nagham*: total length **thirty-six joint fingers** (three ashbār) · width fifteen fingers · depth seven and a half fingers · six fingers behind the bridge · **thirty fingers of string** · ten fingers of neck · twenty fingers of vibrating body.
+⭐⭐ In the 9th century the philosopher al-Kindi gave the first complete description of the oud's construction in the **Risāla fī-l-Luḥūn wa-n-Nagham**: total length **thirty-six joint fingers** (three ashbār) · width fifteen fingers · depth seven and a half fingers · six fingers behind the bridge · **thirty fingers of string** · ten fingers of neck · twenty fingers of vibrating body.
 
 ⭐⭐ **Every number is a finger —— because the maker's hand was the ruler.** ⭐⭐ **The oldest piece of anthropometry on the site: an instrument's dimensions written in fingers, a thousand years before anyone wrote them in metres.**
 

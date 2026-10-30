@@ -307,7 +307,7 @@ control is **finer than an organ's and more flexible than a harmonium's.**
 
 Three points:
 
-1. **The left arm supplies air *and* plays harmony.** It works the bellows while also pressing bass and chord
+1. **The left arm supplies air **and** plays harmony.** It works the bellows while also pressing bass and chord
    keys — **the hardest coordination in the instrument**.
 2. **Two key sets, two traditions.** The melody side is either a **piano keyboard** or **buttons** (two distinct
    traditions); the left side holds preset bass and chord keys.

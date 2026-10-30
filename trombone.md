@@ -240,7 +240,7 @@ updated: 2026-09-26
 :::
 
 ::: en
-The trombone is brass's *other solution*. The trumpet family changes its tube length **discretely** with
+The trombone is brass's **other solution**. The trumpet family changes its tube length **discretely** with
 valves (seven lengths available); the trombone uses a **slide** — a U-shaped tube sliding along the body —
 changing the length **continuously**.
 

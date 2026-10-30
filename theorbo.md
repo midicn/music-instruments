@@ -212,7 +212,7 @@ updated: 2026-09-26
 
 | 时期 | 状态 |
 |---|---|
-| 16 世纪末 | 在意大利出现，为**单声歌曲与早期歌剧**的通奏低音而生；名字源自意大利语 *tiorba* |
+| 16 世纪末 | 在意大利出现，为**单声歌曲与早期歌剧**的通奏低音而生；名字源自意大利语 **tiorba** |
 | 17 世纪 | **黄金期** —— 与[[instrument:harpsichord\|羽管键琴]] · [[instrument:organ\|管风琴]] · [[instrument:viol\|低音维奥尔]]同属通奏低音组；出现大量独奏与伴奏曲目 |
 | 17 世纪中后期 | 在法国被改良出多种形制，用于宫廷舞曲与鲁特琴合奏 |
 | 18 世纪 | 通奏低音的重心转向键盘与低音弦乐，西奥伯琴逐渐退居次要 |
@@ -423,7 +423,7 @@ Four cues:
 
 | Period | State |
 |---|---|
-| late 16th c. | appears in Italy for the continuo of **monody and early opera**; the name comes from Italian *tiorba* |
+| late 16th c. | appears in Italy for the continuo of **monody and early opera**; the name comes from Italian **tiorba** |
 | 17th c. | **its golden age** — alongside the [[instrument:harpsichord\|harpsichord]], [[instrument:organ\|organ]] and [[instrument:viol\|bass viol]] in the continuo group; a large solo and accompaniment repertoire follows |
 | mid–late 17th c. | adapted in France into several forms, used for court dances and lute ensembles |
 | 18th c. | the centre of continuo shifts to keyboards and bass strings, and the theorbo recedes |

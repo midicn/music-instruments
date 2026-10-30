@@ -357,11 +357,11 @@ timbre.
 
 | Period | State |
 |---|---|
-| Antiquity–Middle Ages | double-reed instruments exist across the Middle East and Europe (such as the *zurna*); they spread into Europe |
+| Antiquity–Middle Ages | double-reed instruments exist across the Middle East and Europe (such as the **zurna**); they spread into Europe |
 | 13th–15th c. | the European shawm takes shape: conical bore, large double reed, keyless; a mainstay of **outdoor and dance music** |
 | Renaissance | made in consorts (soprano to bass); often combined with the **sackbut** and percussion as a "loud band" |
 | 17th c. | refined into the more delicate **oboe** (narrower bore, smaller reed, keys added) → moves indoors and into the orchestra |
-| 18th c. | effectively leaves professional use, surviving in folk forms (such as the Mediterranean *dulzaina*) |
+| 18th c. | effectively leaves professional use, surviving in folk forms (such as the Mediterranean **dulzaina**) |
 | 20th c. | revived by the early-music movement, with modern makers |
 
 **Its direction of evolution is perfectly clear**: **the bore was narrowed and the reed reduced in pursuit of
@@ -378,7 +378,7 @@ the design goal changed.**
 - **"The oboe is the shawm improved, so they are interchangeable."** Their sound and use differ — much as the
   [[instrument:recorder|recorder]] relates to the [[instrument:flute|flute]].
 - **"It is extinct."** The early-music movement revived it, and Mediterranean folk double reeds (such as the
-  *dulzaina*) are regarded as continuations of its folk branches.
+  **dulzaina**) are regarded as continuations of its folk branches.
 
 ## Next
 

@@ -315,7 +315,7 @@ their vibration onto that skin, and the skin pushes it into the air. That one fa
 sound — **bright, explosive and short**.
 
 It also has a counter-intuitive piece of design: **the fifth of its five strings is a short one**, pitched
-*higher* than the fourth, and used almost purely as a drone. That is the same kind of idea as the
+**higher** than the fourth, and used almost purely as a drone. That is the same kind of idea as the
 [[instrument:ukulele|ukulele]]'s re-entrant tuning.
 
 | Classification | Value |
@@ -327,7 +327,7 @@ It also has a counter-intuitive piece of design: **the fifth of its five strings
 
 > ⚠️ **One conceptual point**: in Hornbostel–Sachs the banjo is a **chordophone**, not a membranophone.
 > The test is **what vibrates to make the sound**: the string is the source; the membrane amplifies and
-> colours it. A timpani is a membranophone (the membrane *is* the source); a banjo is not — a common line
+> colours it. A timpani is a membranophone (the membrane **is** the source); a banjo is not — a common line
 > to get wrong in the HS system.
 
 ## Structure: a circular body and a short string

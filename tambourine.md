@@ -222,7 +222,7 @@ So it has two entirely different sound sources — and each does its own work in
 | **Family** | Western · Percussion (**straddling membrane and idiophone**) |
 | **Bayin** | Not applicable — a Chinese system; the tambourine is outside it |
 
-> ⚠️ **One conceptual point**: **classification labels an instrument by its *primary* source — but an
+> ⚠️ **One conceptual point**: **classification labels an instrument by its **primary** source — but an
 > instrument can have more than one.** The tambourine is classified as a **membranophone** (the frame drum is
 > the body), yet it **really does carry a set of idiophone jingles**.
 > This does not contradict the two-class diagram on the [[instrument:timpani|timpani]] page — it shows that

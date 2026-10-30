@@ -337,7 +337,7 @@ is the **apparent contradiction** in it:
 > | [[instrument:naobo\|Cymbals]] · [[instrument:bangzi\|Bangzi]] · ⭐ **Pengling** | **clashed** (collided) | ⭐ **no** |
 >
 > ⭐ **And within the "clashed" column, the pengling is the odd one out** —
-> **because it is bell-shaped.** A bell (a closed shell) is the *easiest* shape to give a definite pitch
+> **because it is bell-shaped.** A bell (a closed shell) is the **easiest** shape to give a definite pitch
 > (the [[instrument:bianzhong|bianzhong]] proves it) — **yet two bells colliding pushes it back into the
 > unpitched camp.**
 >
@@ -450,7 +450,7 @@ Line up every percussion instrument on this site by **how it is set sounding**, 
 - **Clashed** (two pieces colliding): [[instrument:naobo|cymbals]] · [[instrument:bangzi|bangzi]] ·
   **pengling** — **none with definite pitch**.
 
-⭐⭐ **This site's observation is that a pitch has to be *repeatable* before it can be *fixed*.**
+⭐⭐ **This site's observation is that a pitch has to be **repeatable** before it can be **fixed**.**
 
 - The **bianzhong** **specifies** its striking points (centre and side) — **which is why it can even
   deliver two pitches**;
@@ -464,7 +464,7 @@ observation.** But with six instruments laid out side by side, the split between
 strikingly tidy, **and worth recording.**
 
 ⭐ **And the pengling is the subtlest case on that line**: **it is bell-shaped** — and a closed shell is the
-*easiest* shape in which to lock a pitch (the [[instrument:bianzhong|bianzhong]] proves it).
+**easiest** shape in which to lock a pitch (the [[instrument:bianzhong|bianzhong]] proves it).
 **The shape gave it the possibility of pitch; how it is struck decided it would not use it.**
 
 ## "Star": a dozen names
@@ -473,7 +473,7 @@ For a 5.5 cm object, it has an unusual number of names:
 
 | Name | Who uses it / when |
 |---|---|
-| ⭐ **星 · *xing*, "star"** | ⭐ **the old name** (still used in the Qing) |
+| ⭐ **星 · **xing**, "star"** | ⭐ **the old name** (still used in the Qing) |
 | **铃钹** | from the Tang–Song onward; also in a Qing court instrument manual |
 | **碰钟 · 响铃 · 铃** | common names |
 | **双星 · 双磬 · 撞铃** | regional names |
@@ -558,10 +558,10 @@ state.**
 | Period | State |
 |---|---|
 | Northern and Southern Dynasties (386–589) | ⭐ **already current in China**. A **"Six Dynasties star-striker" figure** is in the Palace Museum in Beijing; the **Northern Wei murals at Dunhuang** show the instrument being played; **Yungang** and the **Sima Jinlong tomb reliefs** both show players |
-| Tang | **envoys from Piao (modern Myanmar) brought music to court**, where it was called **bronze cymbals**; the *New Book of Tang* records its form and playing: **"four lingbo, made as in the Qiuci section, three *cun* across, threaded on leather, struck to keep time"**; the Tang lexicon of Buddhist terms describes it as **"like a small bottle cap, with a nose and a mouth; strike two together and they sound"**; **an important part of court music**; **a Tibetan name, dingxia, appears in ninth-century documents** |
-| Sui–Tang (the cymbal family) | the *Book of Sui* lists **bronze cymbals** in Indian-derived music; the *Book of Northern Qi* notes that in 516–528 **"in Luoyang they struck two *ba* together"** |
+| Tang | **envoys from Piao (modern Myanmar) brought music to court**, where it was called **bronze cymbals**; the **New Book of Tang** records its form and playing: **"four lingbo, made as in the Qiuci section, three **cun** across, threaded on leather, struck to keep time"**; the Tang lexicon of Buddhist terms describes it as **"like a small bottle cap, with a nose and a mouth; strike two together and they sound"**; **an important part of court music**; **a Tibetan name, dingxia, appears in ninth-century documents** |
+| Sui–Tang (the cymbal family) | the **Book of Sui** lists **bronze cymbals** in Indian-derived music; the **Book of Northern Qi** notes that in 516–528 **"in Luoyang they struck two **ba** together"** |
 | Ming | **in 1573 it reached Lijiang in Yunnan** |
-| Qing | ⭐ **called *xing* or *xingzi***; a court instrument manual calls it **lingbo**; **in 1760 it entered the Qing victory song repertoire** |
+| Qing | ⭐ **called **xing** or **xingzi** **; a court instrument manual calls it **lingbo**; **in 1760 it entered the Qing victory song repertoire** |
 | modern | it enters **Jiangnan sizhu, Cantonese music, shifan drumming, Fujian nanyin, Xi'an drum music** and the opera orchestras of **Peking, Sichuan** and others; at the same time a **Buddhist and Taoist ritual** instrument |
 | today | **one of the colour instruments of the modern Chinese orchestra**; still used among **Han, Manchu, Mongol, Tibetan and Naxi** musicians |
 
@@ -573,11 +573,11 @@ and the sources explain why: **"its shape lies between a bell and a cymbal."**
 ## Common misconceptions
 
 - **"It is a pair of bells, so it must be pitched."** ⚠️ **It has no definite pitch** (five sources agree).
-  It has a bell's *shape*, but **two bells colliding** costs it a repeatable pitch.
+  It has a bell's **shape**, but **two bells colliding** costs it a repeatable pitch.
   ⭐ **The shape gave it the possibility; how it is struck decided it would not use it.**
 - **"The pengling and the cymbals are different things."** The sources are direct: it **"can be counted a
   variant of the cymbal"**, and **"belongs among the cymbal family — its shape lies between a bell and a
-  cymbal, hence *lingbo*."** ⭐ **One family: a large thin disc, and a small deep goblet.**
+  cymbal, hence **lingbo**."** ⭐ **One family: a large thin disc, and a small deep goblet.**
 - **"It can only be clashed."** It can also be **struck**: **a single bell on a stick, hit with a metal
   slip**; **some temples use one bell struck with the right hand**.
   ⚠️ And note: **once it is struck, it comes closer to being an ordinary idiophone.**

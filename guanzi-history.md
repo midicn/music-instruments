@@ -376,7 +376,7 @@ becoming a Chinese one.**
 
 | Q | A |
 |---|---|
-| ⭐ Origin | ⭐⭐ **a Kuchean herdsman's pipe**（bone and horn · the name transliterated from Kuchean *bili*）— **brought east with Lü Guang's Kuchean orchestra in 383 AD**, through Liangzhou temples（Buddhist music）→ the folk |
+| ⭐ Origin | ⭐⭐ **a Kuchean herdsman's pipe**（bone and horn · the name transliterated from Kuchean **bili**）— **brought east with Lü Guang's Kuchean orchestra in 383 AD**, through Liangzhou temples（Buddhist music）→ the folk |
 | ⭐⭐ Tang standing | ⭐⭐ **the yanyue eighty-four and twenty-eight modes were built on the bili — it was the ensemble's tuning instrument**; ⭐⭐ **Shen Kuo records three of the pipa's eighty-four modes 「弦中弹不出，须管色定弦」** — **the whole band's pitch began at its reed** |
 | ⭐⭐ "Head pipe" | ⭐⭐ **the lead instrument; when the bili enters, the music officially begins** · first of the guilds' thirteen sections → Yuan-Ming 「**头管**」（**first among instruments**） |
 | ⭐⭐ Song | ⭐⭐ **a narrow range（a bit over one octave）matched the Song taste for refinement** → loved at court and in the market → ⭐ **specialist shops existed in the market towns** |

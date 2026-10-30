@@ -280,7 +280,7 @@ name this pairing: **the bell begins, the chime closes.**
 > Hence a property no other instrument here has: **a bianqing's tuning only ever subtracts — material can be ground
 > away and never added back.**
 > (⚠️ The **pitch**, though, can still move both ways: grind the faces to lower it, the ends to raise it — see the
-> *Kao Gong Ji* section below.)
+> **Kao Gong Ji** section below.)
 >
 > | | Bianzhong | **Bianqing** |
 > |---|---|---|
@@ -379,7 +379,7 @@ Three points:
   is adjustment **after** the form exists.)
 - **Grinding**: the slab is shaped and then **ground into tune**; stone can neither be melted nor added, so
   **material can only be removed.** But **where you remove it decides which way the pitch goes** — exactly what the
-  *Kao Gong Ji* records: **"if too high, grind the faces; if too low, grind the ends."** Grinding the two faces makes
+  **Kao Gong Ji** records: **"if too high, grind the faces; if too low, grind the ends."** Grinding the two faces makes
   the slab **relatively thinner → lower**; grinding the ends makes it **relatively thicker → higher**. Jia Gongyan
   (Tang dynasty) summed it up as **"thick, and the note is clear; thin, and the note is muddy."**
   ⚠️ **Material only ever decreases — but pitch can still be tuned in both directions.** That is quantitative

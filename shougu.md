@@ -505,7 +505,7 @@ Back to the opening question: how many sounds does one skin hold?
 The sources are strikingly plain: **"because the fingers strike different parts of the head with different force,
 the sounds vary — dong and da — with a thousand changes of colour and enormous expressive range."**
 
-In other words — **the sense of high and low comes from *place and force*, not from a scale.**
+In other words — **the sense of high and low comes from **place and force**, not from a scale.**
 A museum record puts it even more precisely: it **"produces different pitches and colours according to the part
 and the force"**.
 
@@ -549,7 +549,7 @@ For its role in the band the sources reach for three heavy words: **"soul"**, **
 > — **it carries everyone.**
 
 Its way into the great suites is equally concrete: **it is the main time-keeping instrument of the Uyghur muqam,
-"almost indispensable" there.** And **it does not merely accompany**: there are solo pieces such as *Harvest*,
+"almost indispensable" there.** And **it does not merely accompany**: there are solo pieces such as **Harvest**,
 and famous players such as **Abliz Akhsh**.
 
 ⭐ Set beside this batch's [[instrument:bangu|bangu]], two ways of "conducting" appear:
@@ -596,7 +596,7 @@ One name, three lineages:
 | Account | Content | Kind of source |
 |---|---|---|
 | **Legend** | by the Yarkand River, the hunter **Dap** made a drum of pine and sheepskin, beat it to draw out a giant python and killed it; people **"flayed the python to make drums, and named them Dap drums"** | folk legend |
-| **Onomatopoeia** | "named because it sounds *da* and *bu* when struck" | one explanation in the reference literature |
+| **Onomatopoeia** | "named because it sounds **da** and **bu** when struck" | one explanation in the reference literature |
 | **The Silk Road name** | cognates all along the route: **daf** in Iran and Azerbaijan · **def / daire** in Turkey · **daf** in Armenia…… and the Xinjiang instrument appears in an exhibition list precisely as **"达卜 Dap"** | ⭐ a Silk Road instrument exhibition list |
 
 ⭐ **History of names, item ⑩: a name can travel the Silk Road with its instrument.**
@@ -625,28 +625,28 @@ drums**, whose given example is the **tambourine** — **two answers in the same
 | 4th–6th century | ⭐ **"first seen in the Northern Wei murals at Dunhuang"** (other sources mention a "hand drum" painted in the Yulin caves, played by a flying apsara) |
 | Northern and Southern Dynasties | **the dap appears** — "already present 1,400 years ago" |
 | Sui–Tang | **enters the interior with the music and dance of the Western Regions** |
-| Qing (after 1759) | **enters the court's "Muslim-region music"**; the *Illustrated Regulations for Ceremonial Paraphernalia*: **"the dap, a wooden hoop with hide over the top, shaped like a hand drum without a handle. 1 *chi* 3 *cun* 6 *fen* 5 *li* across, 2 *cun* 2 *fen* 7 *li* 5 *hao* deep…… struck with two hands."** The *Draft History of the Qing*: **"a wooden hoop with hide…… painted with coloured lions"**, struck by hand |
+| Qing (after 1759) | **enters the court's "Muslim-region music"**; the **Illustrated Regulations for Ceremonial Paraphernalia**: **"the dap, a wooden hoop with hide over the top, shaped like a hand drum without a handle. 1 **chi** 3 **cun** 6 **fen** 5 **li** across, 2 **cun** 2 **fen** 7 **li** 5 **hao** deep…… struck with two hands."** The **Draft History of the Qing**: **"a wooden hoop with hide…… painted with coloured lions"**, struck by hand |
 | after the 1950s | **python skin becomes common**, "making the sound bright and ringing" |
 | 2005 | ⭐ **"the Uyghur Muqam of Xinjiang"** inscribed by UNESCO among the third proclamation of **Masterpieces of the Oral and Intangible Heritage of Humanity** (announced 25 November 2005) — the dap is its main time-keeper |
 | today | folk and professional ensembles alike; also taken into **Kazakh, Kyrgyz and Tatar** bands |
 
 ⭐ Two details in the Qing record are worth pausing on:
 
-- **"shaped like a hand drum, without a handle"** — by the Qing, **"hand drum" had become a *shape description***:
+- **"shaped like a hand drum, without a handle"** — by the Qing, **"hand drum" had become a **shape description** **:
   an instrument defined as "like a hand drum, but handleless."
 - **"painted with coloured lions, lacquered yellow"** — the court dap was **a painted ceremonial object**;
   the same instrument is **a sheepskin and rings** in the village and **painted regalia** in the palace.
 
-⚠️ The conversion is a modern approximation: the Qing measure (1 *chi* 3 *cun* 6 *fen* 5 *li*) comes to about
-**44 cm** at 1 *chi* ≈ 32 cm — matching the modern large size.
+⚠️ The conversion is a modern approximation: the Qing measure (1 **chi** 3 **cun** 6 **fen** 5 **li**) comes to about
+**44 cm** at 1 **chi** ≈ 32 cm — matching the modern large size.
 
 ## Common misconceptions
 
-- **"The hand drum *is* the tambourine."** ⚠️ No. They are of one family — both **single-skin frame drums
+- **"The hand drum **is** the tambourine."** ⚠️ No. They are of one family — both **single-skin frame drums
   (H-S 211.311, whose example is the tambourine)** — but **the dap has no handle, hangs iron rings inside, and is
   played by two bare hands**; **the tambourine mounts jingles, has a grip, and its hallmark is the thumb roll.**
   **Two answers in one cell.** (This site's tambourine page already flags "hand drum" as a misnomer.)
-- **"No pitch, so nothing to play."** ⚠️ The reverse: **solo pieces such as *Harvest* exist**, the techniques have
+- **"No pitch, so nothing to play."** ⚠️ The reverse: **solo pieces such as **Harvest** exist**, the techniques have
   **six formal names**, and **regional styles and schools** have formed. **No pitch is not no content** —
   the content moved elsewhere: **position, hand, rings, rhythm.**
 - **"The rings are decoration."** They are **a second voice**: without touching the skin, **shaking the frame**
@@ -672,7 +672,7 @@ Four cues:
    whisper and thunder (which is why it is called the soul).
 2. **Two layers, one source.** The skin (struck: dong / da) and the rings (shaken: a jingle) belong to **one
    instrument** — a single motion can fire both, and a shake can fire the second alone.
-3. **The skin *is* the tone design.** **"Python skin sounds best"**; a python head is "bright and ringing."
+3. **The skin **is** the tone design.** **"Python skin sounds best"**; a python head is "bright and ringing."
    Change the skin, change the instrument.
 4. **Material follows the place.** From mulberry, rosewood and apricot to Dolan glued elm or Russian olive,
    to the Tajik poplar sieve frame — **a folk instrument has no "standard material", only "the best material

@@ -279,12 +279,12 @@ updated: 2026-09-26
 ::: en
 **The yu is the sheng grown large — the same principle, taken to its limit.**
 
-More reeds, a bigger gourd chest, four *chi* two *cun* long (nearly a metre).
+More reeds, a bigger gourd chest, four **chi** two **cun** long (nearly a metre).
 And its most famous appearance is precisely **the time someone did not play it** —
-*lan yu chong shu*: in King Xuan of Qi's band of three hundred, Master Nanguo faked it for a lifetime.
+**lan yu chong shu**: in King Xuan of Qi's band of three hundred, Master Nanguo faked it for a lifetime.
 
 > ⚠️ But while it lived, its post was far above "faker" —
-> the *Han Feizi* puts it plainly:
+> the **Han Feizi** puts it plainly:
 > **"The yu is the eldest of the five tones; when the yu starts, bell and zither follow."**
 >
 > ⭐⭐ **Rule ㉜: "larger" was once a qualification, then became a burden — the yu rose with the big band
@@ -298,7 +298,7 @@ And its most famous appearance is precisely **the time someone did not play it**
 | Classification | Value |
 |---|---|
 | **HS class** | **aerophone** · **free reed** · reed-pipe coupling · **definite pitch** |
-| **Sub-type** | **bamboo pipes in a gourd chest** · larger than the sheng (**36 reeds** · four *chi* two *cun*) · the Mawangdui example has **folded pipes** and **twin finger-holes** |
+| **Sub-type** | **bamboo pipes in a gourd chest** · larger than the sheng (**36 reeds** · four **chi** two **cun**) · the Mawangdui example has **folded pipes** and **twin finger-holes** |
 | **Family** | Chinese · wind (**the sheng's large form**; great through the Warring States and Han, lost after the Song) |
 | **Bayin** | **gourd (匏)** — a gourd chest |
 
@@ -360,8 +360,8 @@ Three points:
 1. **One family, two sizes.** The yu works exactly like the [[instrument:sheng|sheng]] (free reeds,
    reed-pipe coupling); the difference is scale — "the sheng is small with few reeds; the yu is large with
    many." The dividing line the ancients drew was **reed count**: "**centre pipe, 36 reeds: yu; side pipe,
-   19 down to 13: sheng**" (*Book of Song*).
-2. **How far was "to the limit"?** Zheng Xuan's note to the *Rites of Zhou*: "**the yu, 36 reeds; the
+   19 down to 13: sheng**" (**Book of Song**).
+2. **How far was "to the limit"?** Zheng Xuan's note to the **Rites of Zhou**: "**the yu, 36 reeds; the
    sheng, 13**"; Jia Gongyan's sub-commentary: "the yu is **four chi two cun** long" — by Han measure,
    nearly **a metre of reed instrument**.
 3. ⭐ **The object speaks.** Mawangdui's yu (22 reeds) is not merely "more pipes": it has **folded pipes**
@@ -373,7 +373,7 @@ Three points:
 In its lifetime the yu was no "faker's instrument" — it was **the lead** (the eldest member of this batch's
 "who gives orders" family, rules ⑰–⑱):
 
-- **"The yu is the eldest of the five tones; when the yu starts, bell and zither follow."** (*Han Feizi*)
+- **"The yu is the eldest of the five tones; when the yu starts, bell and zither follow."** (**Han Feizi**)
 - **Scale was normal.** King Xuan's "**three hundred at once**"; Linzi's citizens "**all play the yu and
   pluck the se**" — in the Warring States the yu was a **civic-grade instrument.**
 - **It led the baixi spectacles**: Western Han tomb figurines and Eastern Han stone reliefs show it holding
@@ -448,7 +448,7 @@ The withdrawal left clear records:
 
 ## "Lan yu chong shu": the most famous appearance
 
-The *Han Feizi* tells it like a fable already polished:
+The **Han Feizi** tells it like a fable already polished:
 
 > **"King Xuan of Qi had men play the yu — always three hundred at once. Master Nanguo asked to play,
 > and the king was pleased, feeding him from the same stipend as hundreds. When the king died and King Min
@@ -460,7 +460,7 @@ The *Han Feizi* tells it like a fable already polished:
   The idiom "**lan yu chong shu**" (passing off fakes among the yu) has outlived the yu itself —
   rule ⑪ says a name can leave its instrument; **the yu gives the blackest-comic version: the instrument is
   gone, and the story still teaches people not to fake it.**
-- ⭐ And the ancients once rated its sound seriously: the *Book of Rites* — "**when the gentleman hears the
+- ⭐ And the ancients once rated its sound seriously: the **Book of Rites** — "**when the gentleman hears the
   yu and sheng, he thinks of ministers who gather people together.**" **An instrument later buried under a
   joke was first heard as "gathering."**
 
@@ -490,7 +490,7 @@ Three cues:
 
 1. **Hear the "family."** Same principle as the [[instrument:sheng|sheng]] — the point is not a different
    colour but **bulk**: more reeds, longer pipes, a bigger chest.
-2. **The sound of "gathering."** The *Book of Rites* heard "ministers who gather people" in it — the free
+2. **The sound of "gathering."** The **Book of Rites** heard "ministers who gather people" in it — the free
    reed is **sustaining, dense, and dozens can stack without fighting** — **that is the acoustics behind
    "three hundred at once."**
 3. **Hear its post.** "When the yu starts, bell and zither follow" — listen imagining **the lead**:
@@ -504,7 +504,7 @@ Three cues:
 | [[instrument:sheng\|Sheng]] | small | 13 · 17 · 19 | ⭐ **alive today**; since the 20th century reformed to 36 reeds — **"large" revived on it** |
 | **Yu-sheng** | 19 reeds | 19 | appeared in 1088 — the last echo of the name |
 | [[instrument:paixiao\|Paixiao (China)]] | many tubes | none (edge-blown) | lost, then "reformed" back in the 1980s |
-| [[instrument:xun\|Xun]] | single chamber | none (edge-blown) | a fellow pupil under the *Rites of Zhou*'s "sheng-master": yu · sheng · xun · yue · xiao · chi · di · guan |
+| [[instrument:xun\|Xun]] | single chamber | none (edge-blown) | a fellow pupil under the **Rites of Zhou**'s "sheng-master": yu · sheng · xun · yue · xiao · chi · di · guan |
 
 ⭐ The first two rows are this batch's latest "one family, two fates":
 **same "eldest of the five tones," the little brother alive today, the big brother surviving only in an

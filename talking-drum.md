@@ -177,7 +177,7 @@ Eighteenth-century European observers recorded that **messages travelled faster 
 | Serer · Wolof · Mandinka | Tama · Tamma |
 | **Yoruba** | **Dùndún · Gángan** |
 
-⭐⭐ **The same object with a dozen native names — every people named it for themselves** (contrast the dunun, which is one generic word plus local variants — **the talking drum is the reverse**). ⭐⭐ **A third namesake case: the Dunan, Sangban, Kenkeni and Fontomfrom of the Yoruba system are *other, non-hourglass* drums** — sharing names with the Mande dunun trio while being different instruments. ⭐⭐ **And "dùndún" means "sweet sound" in Yoruba.**
+⭐⭐ **The same object with a dozen native names — every people named it for themselves** (contrast the dunun, which is one generic word plus local variants — **the talking drum is the reverse**). ⭐⭐ **A third namesake case: the Dunan, Sangban, Kenkeni and Fontomfrom of the Yoruba system are **other, non-hourglass** drums** — sharing names with the Mande dunun trio while being different instruments. ⭐⭐ **And "dùndún" means "sweet sound" in Yoruba.**
 
 ## ⭐⭐ The mother drum, the drummer, and the surname
 

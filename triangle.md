@@ -209,7 +209,7 @@ tiny object.**
 | **Bayin** | Not applicable — a Chinese system; the triangle is outside it |
 
 > ⚠️ **One conceptual point**: **"unpitched" does not mean "no sense of height".**
-> A triangle's harmonics are **strongly concentrated** in a few high frequencies, so it sounds *more*
+> A triangle's harmonics are **strongly concentrated** in a few high frequencies, so it sounds **more**
 > pitched than a [[instrument:snare-drum|snare]] or [[instrument:cymbals|cymbals]] — scores often notate it
 > very high (around C6). But that is not **definite pitch** (it cannot play a melody), so no range chart is
 > generated. **The test: an instrument is "pitched" only if it can produce specified notes on demand.**

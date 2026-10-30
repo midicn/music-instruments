@@ -435,14 +435,14 @@ membrane there?**
 | prehistory | shares its ancestry with bone whistles and bone flutes; the earliest known xiao is **of bird bone, c. 6000 BCE** |
 | Qin–Han | the single end-blown tube is called **shudi (篴, "di")**; traditionally traced to the **Qiang flute** of what is now Sichuan and Gansu, reaching the Yellow River valley in the 1st century BCE |
 | Western Han–Western Jin | four holes at first → **five** in the Western Han → **six** set by the Jin musicians Lie He and Xun Xu, which fixed the modern layout |
-| **Qin–Tang** | ⚠️ **in this period "xiao" means the panpipe** (a multi-tube instrument); the single end-blown tube is called *di* |
-| Tang | after the transverse flute becomes popular, **the end-blown instrument takes over the name "xiao"** — the "xiao" of the *Book of Documents* was in fact a panpipe |
-| Song–Ming–Qing | called *xiaoguan* in the Song; **formally named "xiao" in the Ming**; by the Qing its dimensions are fixed |
+| **Qin–Tang** | ⚠️ **in this period "xiao" means the panpipe** (a multi-tube instrument); the single end-blown tube is called **di** |
+| Tang | after the transverse flute becomes popular, **the end-blown instrument takes over the name "xiao"** — the "xiao" of the **Book of Documents** was in fact a panpipe |
+| Song–Ming–Qing | called **xiaoguan** in the Song; **formally named "xiao" in the Ming**; by the Qing its dimensions are fixed |
 | Ming–modern | varieties appear — purple-bamboo dongxiao, nine-node xiao, black-lacquered nine-node xiao — for solo, qin duet, sizhu and opera |
 | 14th c. | **the nanyin dongxiao of Fujian and Taiwan, China travels to Japan**, where it evolves into the **shakuhachi** |
 | late 20th c. | improved forms: the "seven-three xiao" (seven finger holes plus three keys, twelve semitones) and eight-hole xiao |
 
-**The Qing treatise *Lülü Zhengyi Houbian* puts it beautifully**:
+**The Qing treatise **Lülü Zhengyi Houbian** puts it beautifully**:
 
 > "Today's xiao is a little under one foot eight inches, blown from the top, with a hole at the back; the di is blown
 > transversely and has no back hole. **So today's xiao is the di of antiquity.**"
@@ -461,7 +461,7 @@ often fall out of step with them.**
 - **"It is quiet because it is poorly made."** Like the [[instrument:guqin|guqin]], **it is designed for small
   spaces** — solitude, a study, a duet with the qin — **it has no need to be loud.**
 - **"It has always been called the xiao."** From the Qin to the Tang, **"xiao" meant the panpipe**, and the single
-  end-blown tube was called *di*. **The name only settled on it after the Tang.**
+  end-blown tube was called **di**. **The name only settled on it after the Tang.**
 - **"Being simpler, it is more primitive."** The opposite: **end-blowing demands finer breath control**, which is
   why the tradition says the **xiao is harder to learn**; its volume and intonation depend more on the player.
 - **"It only plays sad music."** It is known for quiet bleakness, yet it is a regular instrument of **Jiangnan

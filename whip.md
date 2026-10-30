@@ -260,7 +260,7 @@ Four cues:
 - **Both hands slap the boards** together, or one holds while the other strikes.
 - **No pitch to place, but the timing must be exact** — it is a "point instrument".
 - **Dynamics are the only means**: light to cue, hard to startle.
-- **Also a stage effect** (as in *The Magic Flute*).
+- **Also a stage effect** (as in **The Magic Flute**).
 
 ## The family
 

@@ -409,7 +409,7 @@ Four cues:
    sits on one unchanging harmony.**
 3. **Notes stick together.** The melodic line is continuous, with almost no real gaps between notes.
 4. **An audible mechanical layer.** The wheel turning and the tangents moving all make noise, and modern
-   recordings often keep it deliberately — it *is* the instrument's character.
+   recordings often keep it deliberately — it **is** the instrument's character.
 
 ```audiolab
 {"type":"instrument","gm":"Fiddle","synth":"bowed","phrase":["G3","D4","G4","B4","D5"],"label":"手摇风琴的常用区：G3 到 D5","label_en":"The hurdy-gurdy's working register — G3 up to D5","hint":"请把这一串音想象成「一条永不换弓、永不停止的擦弦」—— 通用音色表里没有手摇风琴，这里借民间提琴的擦弦音色近似","hint_en":"Hear it as one bow stroke that never changes and never stops. General MIDI has no hurdy-gurdy, so a folk fiddle's bowed tone stands in."}
@@ -476,7 +476,7 @@ often the supposedly crude branch that saves it.**
 - **"It can play staccato and dynamics."** **Neither.** While the wheel turns the string sounds; volume can only
   move overall with the crank's momentum.
 - **"It is a simple folk instrument."** Refined court versions existed, and it is one of the very few designs to
-  **build the accompaniment into the instrument** — in that respect it is *more* automated than most.
+  **build the accompaniment into the instrument** — in that respect it is **more** automated than most.
 - **"It struggles to stay in tune."** The opposite: **a tangent against a string** is steadier than finger
   pressure, which is partly why it can serve as a folk ensemble's reference drone.
 

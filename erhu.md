@@ -376,7 +376,7 @@ a single position — it could not even play a moderately complex melody.)*
 Four cues:
 
 1. **The most voice-like Chinese instrument.** Focused upper-middle register with a slight nasality — which is why
-   it is often used to "sing" (*Reflection of the Moon on Erquan* is a sigh turned into sound).
+   it is often used to "sing" (**Reflection of the Moon on Erquan** is a sigh turned into sound).
 2. **A continuous line.** With the bow permanently in the instrument there is almost no real interruption; phrases
    are marked by **the breath of the bow** and by **slides**.
 3. **Slides are grammar, not ornament.** The seams between positions plus fretless continuous pitch make the slide
@@ -423,7 +423,7 @@ motion; HS does** — the most visible difference between the two systems.
 | late Qing–early Republic | mostly street and folk-troupe use; narrow range, no standard pitch, low status |
 | 1920s | **Liu Tianhua** reforms it: hexagonal body · fixed inner D and outer A · positions increased to five · range extended from a ninth to three octaves · violin vibrato and tremolo adopted → **the erhu becomes a solo instrument**; in 1922 he teaches it at Peking University, bringing folk instruments into higher education |
 | mid-20th c. | **silk strings replaced by steel**, louder; further design work (flat body, double qianjin) |
-| today | the melodic mainstay of the Chinese orchestra, and a solo and concerto instrument; repertoire from *Erquan* to modern concertos |
+| today | the melodic mainstay of the Chinese orchestra, and a solo and concerto instrument; repertoire from **Erquan** to modern concertos |
 
 **The one thing to remember**: **within thirty years the same instrument went from "street accompaniment" to "solo
 instrument"** — and the change began not with materials or craft but with **one man giving it a pitch, positions
@@ -438,7 +438,7 @@ and repertoire.**
 - **"Two strings must mean a narrow range."** A modern erhu covers **three octaves** (D4–A6 in practice) — through
   **shifting position**, not string count. **The range ceiling is set by where the hand can travel, not by how
   many strings there are.**
-- **"It only plays sad music."** Its most famous work is indeed bleak (*Erquan*), but *Horse Racing* and *March of
+- **"It only plays sad music."** Its most famous work is indeed bleak (**Erquan**), but **Horse Racing** and *March of
   Light* are equally central to its repertoire.
 - **"It has always been a solo instrument."** Before Liu Tianhua it was mainly an **accompanist for opera and
   narrative song**; its solo identity dates from the 1920s.

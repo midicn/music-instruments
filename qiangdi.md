@@ -281,10 +281,10 @@ updated: 2026-09-27
 :::
 
 ::: en
-**In Tang poetry the Qiang flute is one of China's most famous *sounds*:**
+**In Tang poetry the Qiang flute is one of China's most famous **sounds**:**
 
 > "**Why should the Qiang flute complain of the willows? The spring wind never crosses the Jade Gate.**"
-> (Wang Zhihuan, *Song of Liangzhou*)
+> (Wang Zhihuan, **Song of Liangzhou**)
 
 In reality it is **two bamboo pipes side by side in the mountains of Aba, Sichuan** —
 13–19 cm long, **double-piped, blown vertically, one bamboo reed per pipe**, range one octave.
@@ -357,17 +357,17 @@ Three points:
    by modern times **6** → in the 1980s **Chen Haiyuan** adds one more on the back.
    **A small instrument, gaining holes for two thousand years.**
 
-## The double pipe's secret: being *not quite* in tune
+## The double pipe's secret: being **not quite** in tune
 
 Why two pipes? The sources give a lovely answer:
 
 > **"Being double-piped and double-reeded, they sound together; the two reeds can never be perfectly
 > identical, and so produce exactly the effect of 'double tones folded together.'"**
 
-- The pipes *nominally* sound the same pitch — but two bamboo reeds **cannot be made identical**;
+- The pipes **nominally** sound the same pitch — but two bamboo reeds **cannot be made identical**;
 - that small **pitch difference**, plus **double-reed resonance**, produces a natural **shimmer** —
   "making the sound sweeter, fuller, more moving, with a touch of bleakness."
-- ⭐ The takeaway: **"paired" is not for louder — it is for *not quite the same* — and that slight
+- ⭐ The takeaway: **"paired" is not for louder — it is for **not quite the same** — and that slight
   disagreement is the timbre's signature.** (This batch's pairing family: the
   [[instrument:hulusi|hulusi]]'s drones · double-piped [[instrument:guanzi|guanzi]] · the "male-female"
   panpipes · two [[instrument:bawu|bawu]] in dialogue — **each pair answers differently; the Qiang flute
@@ -387,7 +387,7 @@ one octave only; it cannot play many of the Han flute's pieces**."
 
 ## "The double flute of recent times began with the Qiang"
 
-Its hardest historical record is Ma Rong's *Rhapsody on the Long Flute* (Eastern Han):
+Its hardest historical record is Ma Rong's **Rhapsody on the Long Flute** (Eastern Han):
 
 > **"The double flute of recent times began with the Qiang; the Qiang cut bamboo and had not yet done.
 > … Yi Jing Junming knew the pitches, and to the original four holes added one."**
@@ -415,7 +415,7 @@ Its hardest historical record is Ma Rong's *Rhapsody on the Long Flute* (Eastern
 (⚠️ the sources do not equate the two; but the "breaking willow" theme lived on from Tang verse to today's
 tune list.)
 
-Its repertoire is small and all its own: *Zheliu Ci* · *Longing* · *Shalang* · *Farewells* —
+Its repertoire is small and all its own: **Zheliu Ci** · **Longing** · **Shalang** · **Farewells** —
 "a dozen-odd ancient melodies… conveying the Qiang people's **longing and yearning**."
 
 ## Three fates
@@ -520,7 +520,7 @@ Two pipes side by side, sounding together, never quite identical — **they call
 
 ## Next
 
-The last wind in this stretch is played with the mouth *tasting* it:
+The last wind in this stretch is played with the mouth **tasting** it:
 
 the **kouxian** (jaw harp) — small enough to hide in a pocket, a reed buzzing inside the mouth,
 **the mouth itself the soundbox** — shared by many peoples, and the close of this wind section.

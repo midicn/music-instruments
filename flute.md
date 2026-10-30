@@ -301,7 +301,7 @@ Three points:
    the fingers: press a key, the pad lifts, the effective tube length changes, the pitch changes. So a
    flute's intonation is **geometry, not embouchure**.
 3. **The embouchure hole is not a vent; it is a cutting edge.** To sound at all, the jet must strike the
-   *far* edge at an angle and be split in two — half into the tube, half out. That is the next section.
+   **far** edge at an angle and be split in two — half into the tube, half out. That is the next section.
 
 **Keys**: modern flutes use the **Böhm system** (established mid-19th century), in which keys are linked so
 that one finger can operate several holes. This is what lets all twelve semitones be played with something
@@ -367,7 +367,7 @@ Four cues:
 2. **A soft attack.** Unlike a plucked instrument the note **fades in**; its onset is gentle and
    unaggressive, which is why the flute suits lyrical lines and not rhythmic accents.
 3. **More air changes colour, not just volume.** Pushing more air adds upper harmonics, so the tone
-   brightens: at *p* and *f* the same flute is almost two instruments.
+   brightens: at **p** and **f** the same flute is almost two instruments.
 4. **Evenness within a register.** Every note comes from the same tube with holes opening and closing,
    so there are no string changes or position shifts to hear.
 

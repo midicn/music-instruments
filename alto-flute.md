@@ -254,7 +254,7 @@ the alto flute **a perfect fourth up** — and all three share one fingering cha
 Three points:
 
 1. **It grows in both dimensions at once.** Length explains the fourth; the bore explains the colour. This
-   is the key to the instrument, and it makes the alto flute a mirror of the piccolo (short *and*
+   is the key to the instrument, and it makes the alto flute a mirror of the piccolo (short **and**
    relatively wide).
 2. **The curved headjoint is ergonomics, not acoustics.** The tube is too long for the arms to reach, so the
    head is often bent (straight versions exist and are marginally better acoustically). It is the only

@@ -402,7 +402,7 @@ The last entry (the dap) asked how many sounds one skin can hold. This one asks 
 > **ban** = the clack of the clappers (**the strong beat**); **yan** = the drum-slip tapping the drum
 > (**weak and secondary beats**).
 >
-> And the journey of *ban* does not stop there — it climbs **three steps**:
+> And the journey of **ban** does not stop there — it climbs **three steps**:
 >
 > | Step | Name | What it is |
 > |---|---|---|
@@ -465,7 +465,7 @@ example" on this site is the [[instrument:tambourine|tambourine]] (example of 21
 Three points:
 
 1. **Three boards.** The modern form is **three rectangular hardwood boards** — rosewood, mahogany, boxwood…
-   ⭐ **The name *tanban* is simply "boards of sandalwood (檀)"** — an instrument named for its material.
+   ⭐ **The name **tanban** is simply "boards of sandalwood (檀)"** — an instrument named for its material.
 2. **Two plus one.** **The front two are bound into a pair with a silk cord or cloth tape; the back board is
    single**, joined to them by cord; holes at the top, **free to open and close at the bottom** — that hinge
    is the whole mechanism.
@@ -527,8 +527,8 @@ Three points:
     <text x="456" y="232">= 1/4 (flowing)</text>
     <text x="456" y="288">free metre (sanban)</text>
   </g>
-  <text x="20" y="340" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The dictionary: "the strong beat struck on the clapper is *ban*; the weak beats tapped by the slip are *yan*."</text>
-  <text x="20" y="362" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Wang Jide, *Rules of Song* (Ming): "all tunes are regulated by the board — hence *ban-yan*."</text>
+  <text x="20" y="340" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The dictionary: "the strong beat struck on the clapper is ban; the weak beats tapped by the slip are yan."</text>
+  <text x="20" y="362" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Wang Jide, Rules of Song (Ming): "all tunes are regulated by the board — hence ban-yan."</text>
   <text x="20" y="384" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">"Zengban" (Kunqu): a triple-eye measure slowed to eight beats — metre can stretch.</text>
   <text x="20" y="406" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">⚠️ "Board only" means every beat is a board position — not that every beat is strong.</text>
 </svg>
@@ -536,7 +536,7 @@ Three points:
 
 **This figure is the heart of the page.**
 
-*Ban-yan* was not invented by the clappers — it is **the division of labour between two instruments**:
+**Ban-yan** was not invented by the clappers — it is **the division of labour between two instruments**:
 
 - **ban** = the clack of the **paiban**, which became the word for **the strong beat**;
 - **yan** = the tap of **the drum-slip on the drum**, which became the word for **weak and secondary beats**.
@@ -548,13 +548,13 @@ Four grids hold nearly all Chinese metre:
 |---|---|---|
 | **one board, one eye** | 2/4 | board first, eye second |
 | **one board, three eyes** | 4/4 | board · **head eye** · **mid eye** · **last eye** |
-| **board only** | 1/4 (**flowing board**) | every beat a board position ⚠️ not every beat *strong* |
+| **board only** | 1/4 (**flowing board**) | every beat a board position ⚠️ not every beat **strong** |
 | **neither** | **sanban** | free metre |
 | (**zengban**) | eight beats | Kunqu: a triple-eye measure slowed twofold |
 
 ⭐ And the system was defined in one Ming sentence —
-**Wang Jide's *Rules of Song*: "all tunes, long or short in phrase, many or few in words, tight or slow in
-tempo — *all are regulated by the board; hence ban-yan*."**
+**Wang Jide's **Rules of Song**: "all tunes, long or short in phrase, many or few in words, tight or slow in
+tempo — **all are regulated by the board; hence ban-yan**."**
 **"Regulated by the board"** — that is where the word comes from.
 
 ⭐ Details worth setting side by side:
@@ -562,16 +562,16 @@ tempo — *all are regulated by the board; hence ban-yan*."**
 - **It is written into notation.** In the gongche family of scores the metre has its own marks — the
   Nanyin score carries a whole set of **"liao-pai"** symbols beside each note (see [[concept:gongchepu|gongchepu]]).
 - **It is not even metre.** ⚠️ Not an equals sign for 2/4 and 4/4 — ban-yan is elastic: Jiangnan sizhu says
-  **"board steady, eye alive"**; Kunqu's *zengban* stretches the whole grid to twice its length.
+  **"board steady, eye alive"**; Kunqu's **zengban** stretches the whole grid to twice its length.
 - **It entered literature early.** The Ming scholar Yang Shen, on Cook Ding carving an ox:
   **"the sound of the blade kept time with the ban-yan of the music bureau."**
-- **It is now part of the language.** *You ban you yan* ("with board and eye" — methodical),
-  *zou ban* ("off the board" — off track); in Sichuan dialect *ban-yan-er* means "tricks, business"
-  (a pun: "a bald brush — plenty of *ban-yan-er*").
+- **It is now part of the language.** **You ban you yan** ("with board and eye" — methodical),
+  **zou ban** ("off the board" — off track); in Sichuan dialect **ban-yan-er** means "tricks, business"
+  (a pun: "a bald brush — plenty of **ban-yan-er**").
 
 ## Three steps: object → measure → system
 
-*Ban-yan* is only the second step. The word keeps climbing:
+**Ban-yan** is only the second step. The word keeps climbing:
 
 - **ban-shi** — the **metrical forms** of a sung style: slow board, original board, flowing, two-six,
   free, guiding, rocking…
@@ -582,26 +582,26 @@ tempo — *all are regulated by the board; hence ban-yan*."**
   dagu and Henan zhuizi belong to it.
   (Compare: qupai-ti links many tunes into suites; ban-qiang-ti **varies one tune into every metre**.)
 - And in **instrumental music** the same step appears in another shape — **titles that simply count boards**:
-  ***Eight Boards* (八板) · *Old Six Boards* (老六板)**.
+  ** **Eight Boards** (八板) · **Old Six Boards** (老六板)**.
 
-⭐ Look at the number: ***Eight Boards* is "sixty-eight boards"** — **eight phrases of eight boards, plus
+⭐ Look at the number: ** **Eight Boards** is "sixty-eight boards"** — **eight phrases of eight boards, plus
 four extra boards after the fifth: 8×8 + 4 = 68**.
-The sources are explicit: **"each phrase is one *ban*, hence the title *Eight Boards*"**;
+The sources are explicit: **"each phrase is one **ban**, hence the title **Eight Boards**"**;
 **"a hand-board was struck at every beat — hence it is commonly called the sixty-eight-board piece."**
-**One strike of a hand-board per beat: the *ban* in the title is that very stroke.**
+**One strike of a hand-board per beat: the **ban** in the title is that very stroke.**
 
 | Step | Name | In one line |
 |---|---|---|
 | **object** | **paiban** | three boards |
 | **measure** | **ban-yan · ban-shi** | unit and form of the beat |
 | **system** | **ban-qiang-ti** | the musical structure of most opera genres |
-| **(instrumental)** | **eight-board form** | the 68-board body of *Eight Boards* and its kin |
+| **(instrumental)** | **eight-board form** | the 68-board body of **Eight Boards** and its kin |
 
-⭐ The reach of the *Eight Boards* family deserves its own line: the *Sixteen Boards* in the 1814
-*Xiansuo Beikao* is **its earliest known record**; its descendants spread across the country — the northern
-*Old Eight Boards*, Jiangnan sizhu's *Middle-Flower Six Boards* (with the "five generations" chain:
-six boards · fast · flowered · middle-flowered · slow), Henan's *board-head* pieces, Mongol *Eight Scores*…
-**Nie Er's *Golden Snake Dance* and Li Shutong's *Song of the Motherland* both come from this family.**
+⭐ The reach of the **Eight Boards** family deserves its own line: the **Sixteen Boards** in the 1814
+**Xiansuo Beikao** is **its earliest known record**; its descendants spread across the country — the northern
+**Old Eight Boards**, Jiangnan sizhu's **Middle-Flower Six Boards** (with the "five generations" chain:
+six boards · fast · flowered · middle-flowered · slow), Henan's **board-head** pieces, Mongol **Eight Scores**…
+**Nie Er's **Golden Snake Dance** and Li Shutong's **Song of the Motherland** both come from this family.**
 A melody the whole country knows, carrying a wooden board in its name.
 
 ⭐ And rule ㉑ (the [[instrument:bangzi|bangzi]]: a vocal genre named for a time-keeping instrument) here
@@ -624,7 +624,7 @@ One name walked the whole road from object to abstraction.
 - ⭐ **"Ban-yan", then, is one hand's two jobs** — strong beats in the left, weak beats in the right.
   **The whole metric system grew out of these two hands.**
 - **It can also leave the drummer's hands**: in narrative song the **book board** and **falling board**
-  (the bamboo *jianban*) are played **by the singer himself** — as in Henan zhuizi.
+  (the bamboo **jianban**) are played **by the singer himself** — as in Henan zhuizi.
   **The board goes back into the singer's own hands.**
 - **Every genre finds a place for it**: Jiangnan sizhu, Suzhou drumming, Fujian nanyin, shifan drumming,
   Shanxi suites — usually struck on the **strong beat**; **over three hundred opera genres** use it.
@@ -649,7 +649,7 @@ In Fujian nanyin the paiban grew into another shape — **five boards**:
 | **Wang Jian's tomb, Former Shu, Chengdu** | a dance relief showing the paiban, **same form and playing** as nanyin's |
 | **Kaiyuan Temple, Quanzhou** | the **Tang-era** (built 686) flying apsaras carry **five-board** paiban; the **Southern Song east pagoda** relief shows the **old six-board** type — "just the track of its history" |
 
-(This site has already noted that nanyin preserves Tang forms of the *chiba* flute ([[instrument:xiao|dongxiao]])
+(This site has already noted that nanyin preserves Tang forms of the **chiba** flute ([[instrument:xiao|dongxiao]])
 and the pipa — **it is a refrigerator of time; now it holds one more thing: the paiban.**)
 
 ⚠️ One clarification: **the nanyin paiban has five boards, not three; and antiquity also had a nine-board
@@ -659,18 +659,18 @@ and the pipa — **it is a refrigerator of time; now it holds one more thing: th
 
 | Period | State |
 |---|---|
-| antiquity (one account) | traced by some sources to the ancient game *ji rang* — ⚠️ reported, not adjudicated |
+| antiquity (one account) | traced by some sources to the ancient game **ji rang** — ⚠️ reported, not adjudicated |
 | Wei–Jin | **enters the central plains from the north-west** |
-| Tang (618–907) | used in **scattered music**; the *Old Book of Tang*: "**as long and wide as a hand… struck in place of clapping**"; listed among the **Hu-section instruments**; painted in the *Zhenguan music-and-dance* scenes; **four-board** type in mid-Tang Dunhuang |
-| Five Dynasties | **six-board** type in Wang Jian's tomb, the *Han Xizai Night Revels*; five-board in the *Western Paradise* murals; the Hanjiang tomb paiban |
-| Song | **six boards** in the court office; used in **narrative song, folk instrumental music, court and procession bands**, and in *changzhuan* and *zhugongdiao* |
+| Tang (618–907) | used in **scattered music**; the **Old Book of Tang**: "**as long and wide as a hand… struck in place of clapping**"; listed among the **Hu-section instruments**; painted in the **Zhenguan music-and-dance** scenes; **four-board** type in mid-Tang Dunhuang |
+| Five Dynasties | **six-board** type in Wang Jian's tomb, the **Han Xizai Night Revels**; five-board in the **Western Paradise** murals; the Hanjiang tomb paiban |
+| Song | **six boards** in the court office; used in **narrative song, folk instrumental music, court and procession bands**, and in **changzhuan** and **zhugongdiao** |
 | Yuan | court music and **zaju** drama |
 | Ming–Qing | court and folk alike; the Qing court keeps a three-board **carved rosewood paiban** and a six-board set; the count settles on **three** |
 | today | **300-plus opera genres**; Jiangnan sizhu, Suzhou drumming, Fujian nanyin, shifan drumming, Shanxi suites; narrative song (**book board, falling board**); among **Han, Manchu, Mongol, Naxi, She** peoples |
 
 ⭐ The Tang sentence hides its whole secret — **"struck in place of clapping"**:
 
-- **To "clap" is *bian*.** "Struck in place of clapping" = **it stands in for the hands.**
+- **To "clap" is **bian**.** "Struck in place of clapping" = **it stands in for the hands.**
 - And the same sentence says **"as long and wide as a hand"**: **about the size of two hands.**
 - **From name (clapping-board) to size (hand-sized) to use (instead of clapping) — it is a stand-in for
   the hand from head to foot.**
@@ -689,7 +689,7 @@ the sources conclude: "**the number was never fixed; it varied with era and use.
   (concussion **sticks**, 111.11); the paiban is **a set of threaded boards** (concussion **plaques**, 111.12).
   ⭐ **One named a vocal genre; one named the metric system itself.**
 - **"It only beats time; it hardly matters."** ⚠️ The reverse — it is the **ruler**: ban-yan → ban-shi →
-  ban-qiang-ti, three steps; dictionaries gloss *ban-yan* simply as "the metre of opera music."
+  ban-qiang-ti, three steps; dictionaries gloss **ban-yan** simply as "the metre of opera music."
 - **"The nanyin paiban is three boards too."** It is **five** (lychee wood); and Kaiyuan Temple keeps both
   **five-board** (Tang apsaras) and **six-board** (Southern Song pagoda) evidence.
 - **"Fewer boards means simplification, progress."** ⚠️ Don't rank them: **four · five · six · nine · three**
@@ -707,7 +707,7 @@ Three cues:
 1. **Solid, short, piercing.** It must cut through a whole band and stage so that every performer hears it —
    which is why it must be a **point**, not a line: one strike, no tail.
 2. **The dryness of hardwood on hardwood.** Three boards clapped together: clean, dry, no metal —
-   **the name *tanban* comes straight from the material** (sandalwood).
+   **the name **tanban** comes straight from the material** (sandalwood).
 3. **The timbre of a hand.** Remember "struck in place of clapping": its archetypal gesture is **a clap** —
    and it sounds like what it is: a harder, surer, louder hand.
 

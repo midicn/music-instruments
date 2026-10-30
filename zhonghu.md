@@ -373,7 +373,7 @@ puts the two side by side.
 
 ⭐⭐ **When an ensemble lacks a register, more than one person, in more than one place, builds the same thing
 at once.** The [[instrument:gaohu|gaohu]] was "two people meeting" (Lü Wencheng and Situ Mengyan); the zhonghu
-is "**several people each building it**" — and only one road survived (the *gonghu* did not).
+is "**several people each building it**" — and only one road survived (the **gonghu** did not).
 **In instrument history, most things are the ones that did not survive.**
 
 ## It admits it is not nimble
@@ -386,8 +386,8 @@ is "**several people each building it**" — and only one road survived (the *go
 — not a slight but a **job description**:
 - its ensemble work is **sustained notes, backing, filling the gap** — none of which needs speed;
 - and the "**expansive**" it excels at is exactly what a middle register does best.
-- ⭐ Hence its signature pieces: the solo *On the Grassland* (**Liu Mingyuan**, **1956**) and the concerto
-  *Su Wu* — **one expansive, one weathered: both slow and large subjects.**
+- ⭐ Hence its signature pieces: the solo **On the Grassland** (**Liu Mingyuan**, **1956**) and the concerto
+  **Su Wu** — **one expansive, one weathered: both slow and large subjects.**
 
 ⚠️ Also a real note: "**most conservatories do not offer a zhonghu major, and solo repertoire is limited**" —
 **its post is in the orchestra, not on the recital stage.**
@@ -406,7 +406,7 @@ also never the lead.**)
 - **"The zhonghu is just an erhu."** ⚠️ The build and technique are the same ("all erhu techniques suit the
   zhonghu"), but every dimension is one size up: box 15 cm long, 10.5 cm across, neck 86 cm, thicker strings,
   and **a fourth or fifth lower**.
-- **"An accompanist, therefore unimportant."** ⚠️ It *is* the middle part: it "**connects the high and low
+- **"An accompanist, therefore unimportant."** ⚠️ It **is** the middle part: it "**connects the high and low
   registers**" and is "**indispensable**" to the orchestra.
 - **"It can play anything."** ⚠️ The sources say plainly it is "**of comparatively low agility**" and "**less
   suited to fast bravura**" — its strength is the expansive, not the quick.
@@ -427,7 +427,7 @@ Three cues:
    **it is the air in the middle.**
 2. **Hear the sustained notes.** The sources name "**chord tones held long**" — **in an ensemble it is the hand
    that holds the harmony down.**
-3. **Hear the expanse.** A subject like *On the Grassland* suits it perfectly — **slow, wide, unhurried.**
+3. **Hear the expanse.** A subject like **On the Grassland** suits it perfectly — **slow, wide, unhurried.**
 
 ## The family
 

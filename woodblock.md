@@ -304,7 +304,7 @@ site.
 
 | Period | State |
 |---|---|
-| Antiquity–Middle Ages | wood percussion of the *muyu* kind appears in East Asia (with its own complete tradition); similar slotted blocks exist elsewhere |
+| Antiquity–Middle Ages | wood percussion of the **muyu** kind appears in East Asia (with its own complete tradition); similar slotted blocks exist elsewhere |
 | Early 20th c. | Western composers **borrow** the form from East Asia as an orchestral wooden percussion piece |
 | 20th c. | becomes a standard small instrument in orchestra and band; film scoring uses it heavily (hoofbeats, clocks, machinery) |
 | Late 20th c. onward | a universal small wooden percussion piece in orchestra, film and pop; multi-pitch sets also exist |
@@ -316,7 +316,7 @@ holding three identities in three contexts.
 
 ## Common misconceptions
 
-- **"The Western woodblock *is* the Chinese muyu."** It **borrows the East Asian form**, but the use is
+- **"The Western woodblock **is** the Chinese muyu."** It **borrows the East Asian form**, but the use is
   Western orchestral; **the Chinese muyu has its own tradition and settings** (see Chinese instruments).
 - **"It is the same as claves."** Similar material, but **one solid and one hollowed** → claves have almost no
   sense of pitch, the woodblock a clear one (hence its ability to play pairs).

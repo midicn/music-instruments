@@ -245,7 +245,7 @@ That one difference produces a whole family of instruments (harmonium, accordion
 > mechanisms.**
 > - **Free reed**: the reed sits in a frame **slightly larger** than itself and vibrates **without touching**
 >   it; the frequency is **set mainly by the reed's own stiffness and mass**.
->   → harmonium · accordion · harmonica · the Chinese *sheng* (an early free-reed instance).
+>   → harmonium · accordion · harmonica · the Chinese **sheng** (an early free-reed instance).
 > - **Beating reed**: the reed **strikes** an opening or another reed.
 >   → [[instrument:clarinet|clarinet]] (single, beating) · [[instrument:oboe|oboe]] (two, striking each other).
 >

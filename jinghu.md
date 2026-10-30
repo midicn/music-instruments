@@ -393,7 +393,7 @@ one"** — reaching the state described as **"you in me, me in you."**
 - **The exact opposite of the [[instrument:ruan|ruan]] and [[instrument:zheng|zheng]]**, whose logic is "**add
   strings, add range**"; the jinghu's logic is "**enough is enough**".
   **How wide a range should be depends on whom the instrument has to talk to.**
-- **Tuning follows the aria**: erhuang *sol·re*, xipi *la·mi*, fan-erhuang *do·sol*, fan-xipi *re·la* — **a different
+- **Tuning follows the aria**: erhuang **sol·re**, xipi **la·mi**, fan-erhuang **do·sol**, fan-xipi **re·la** — **a different
   mode, a different tuning** (the same logic as the [[instrument:banhu|banhu]]).
 
 ## Timbre, and how to hear it
@@ -405,7 +405,7 @@ Four cues:
 3. **It is the voice's neighbour in frequency.** It follows the singing but sits **slightly above** it, so the two
    can hear each other without either covering the other.
 4. **Short, decisive bowing.** A short, tight bow makes staccato, legato, détaché and tremolo all crisp — exactly
-   the rhythmic feel of *pihuang* music.
+   the rhythmic feel of **pihuang** music.
 
 ```audiolab
 {"type":"instrument","gm":"Violin","synth":"bowed","phrase":["G4","A4","D5","E5","D5","G4"],"label":"二黄京胡的定弦与常用区：G4 到 E5","label_en":"A erhu-tuned jinghu's open strings and working notes — G4 up to E5","hint":"注意它比二胡 · 板胡都薄而窄 —— 通用音色表里没有京胡，这里仍借小提琴近似；真实的京胡音域只有十度上下，却极亮","hint_en":"Notice how much thinner and narrower it is than an erhu or banhu. General MIDI has no jinghu, so a violin stands in; a real jinghu spans barely a tenth, yet cuts through everything."}
@@ -413,11 +413,11 @@ Four cues:
 
 ## Playing techniques
 
-- **Tuning changes with the aria.** Xipi and erhuang each have their own string-names (*sol·re*, *la·mi*).
+- **Tuning changes with the aria.** Xipi and erhuang each have their own string-names (**sol·re**, **la·mi**).
 - **Left hand** stops the strings, with vibrato, slides and tapped notes — **the operatic "inflection" is made
   here.**
 - **Right-hand bowing**: long, separate, slurred, **staccato, détaché, tremolo**.
-- **Accompaniment has its own vocabulary**: *support, follow, lift, hold*; *simple against elaborate*;
+- **Accompaniment has its own vocabulary**: **support, follow, lift, hold**; **simple against elaborate**;
   **"play high under a low phrase, low under a high one"** — **accompanying here is not "following along" but
   "conversing with the voice."**
 - **The bow is short with tight, hard hair.** That is the biggest practical difference from the
@@ -450,7 +450,7 @@ three materials and three sizes, three destinies.**
 | today | the irreplaceable lead of Peking opera, and increasingly a **solo and concerto** instrument, moving from the corner of the pit to the centre of the stage |
 
 **Its history contains a way of naming that has not appeared before**: **it is called "jinghu" in order to
-*distinguish* it from others.** Which completes this batch's naming stories:
+**distinguish** it from others.** Which completes this batch's naming stories:
 
 | # | Rule | Example |
 |---|---|---|
@@ -474,7 +474,7 @@ whom it had to be distinguished from (jinghu).
   snakeskin and the smallest body; the banhu is coconut shell with a paulownia board and a larger body** — one
   "clear and bright", the other "high and soaring".
 - **"It only accompanies Peking opera."** Since the 20th century it has been a **solo instrument**, with pieces
-  adapted from operatic tunes such as *Deep Night*, *Xiao Kai Men* and *Liu Qing Niang*, and it plays lead with large
+  adapted from operatic tunes such as **Deep Night**, **Xiao Kai Men** and **Liu Qing Niang**, and it plays lead with large
   orchestras as well.
 - **"The huqin family is all skinned, so all membranophones."** **No**: **the strings vibrate** (chordophone);
   snakeskin, python skin and paulownia board are all only **resonators**. **Three resonator materials, and the class

@@ -386,7 +386,7 @@ Four points:
 1. **An isosceles trapezoid.** The wide side is about 90 cm (the player sits there), the narrow side
    about 35 cm, the box 6–10 cm deep. The taper is not decoration: it makes **bass strings longer and
    treble strings shorter** without changing gauges.
-2. **Eighteen bridges, in two sets of nine.** The bridges (*kharak*) look like chessmen and can be
+2. **Eighteen bridges, in two sets of nine.** The bridges (**kharak**) look like chessmen and can be
    **slid along the soundboard** — moving one changes the string's speaking length, and therefore its
    pitch. That is the santur's only tuning mechanism besides the pins, and the reason it can produce the
    quarter-tones of Persian music.
@@ -487,7 +487,7 @@ Four cues:
    unisons respond — a single note already sounds like a patch of sound.
 3. **Registers differ sharply.** The bass courses are wound, thick and dark; the upper ones are steel,
    bright and fine. The same melody in another register sounds like another instrument.
-4. **Microtones.** Persian classical music uses quarter-tones (*koron* down, *sori* up), and the santur
+4. **Microtones.** Persian classical music uses quarter-tones (**koron** down, **sori** up), and the santur
    obtains them by **sliding its bridges**. They sit **between the piano's black and white keys**, and are
    the most immediate way to recognise Persian music by ear.
 
@@ -502,7 +502,7 @@ Four cues:
 
 Everything turns on **two light hammers**:
 
-- **Grip**: the *mezrab* are feather-light and held between thumb, index and middle finger — closer to
+- **Grip**: the **mezrab** are feather-light and held between thumb, index and middle finger — closer to
   holding a pen than a drumstick. Tips may be bare wood, felt or cotton: harder tips for clarity, softer
   for atmosphere.
 - **Alternating strokes**: the two hands alternate on one note to make a **tremolo** — the santur's
@@ -538,10 +538,10 @@ no legs, no pedal, no mechanism, just a box, strings and bridges, with one adjus
 |---|---|
 | 1600–600 BCE | Babylonian and Assyrian carvings show **a string instrument held horizontally and struck with sticks** — the archetype of this branch |
 | Middle Ages | spreads east and west from the Middle East: east to India and China (yangqin), west through Ottoman and Roma routes into central Europe |
-| 16th c. | takes shape in central Europe as regional hammered dulcimers (*hackbrett*, *tsymbaly* and others) |
+| 16th c. | takes shape in central Europe as regional hammered dulcimers (**hackbrett**, **tsymbaly** and others) |
 | 19th c. | settles in Iran as today's **nine-bridge santur**; 12-bridge variants multiply in the 20th |
 | 1874 | in Budapest, Schunda turns the central European version into the **concert cimbalom** (legs, pedal, fully chromatic) |
-| 20th c. | the santur becomes a principal instrument of the Persian classical *radif*; the yangqin becomes a mainstay of Chinese music |
+| 20th c. | the santur becomes a principal instrument of the Persian classical **radif**; the yangqin becomes a mainstay of Chinese music |
 
 One name worth singling out: **Habib Hasan Touma** argued that this Babylonian instrument is the common
 ancestor of the harp, the Chinese yangqin, the harpsichord, the qanun, the cimbalom and the hammered
@@ -561,9 +561,9 @@ far more than how many strings there are.**
 - **"It is uniquely Iranian."** The same branch runs across Eurasia: the Chinese yangqin, the Hungarian
   cimbalom, the Indian santoor and the Western hammered dulcimer are all close relatives. **It is the
   ancestor of the struck box-zither family.**
-- **"The bridges only support the strings."** The *kharak* **slide**, and moving one changes the speaking
-  length and therefore the pitch. Tuning means tuning strings *and* placing bridges.
-- **"Microtones mean out of tune."** Quarter-tones are a deliberate modal device (*koron* down, *sori* up),
+- **"The bridges only support the strings."** The **kharak** **slide**, and moving one changes the speaking
+  length and therefore the pitch. Tuning means tuning strings **and** placing bridges.
+- **"Microtones mean out of tune."** Quarter-tones are a deliberate modal device (**koron** down, **sori** up),
   set by moving bridges. Heard with an equal-tempered ear they sound "off"; that is a different tuning
   system, not a fault.
 

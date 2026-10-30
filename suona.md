@@ -258,7 +258,7 @@ outside it?**
 > ⚠️ **The bayin is closed; instrument history is open.**
 > The Zhou-dynasty bayin (metal · stone · earth · hide · silk · wood · gourd · bamboo) is a **closed, material-based
 > system** — it describes **the instruments of China at that time**.
-> But the suona's ancestor, the *surna*, was born in **Persia and Arabia around the 3rd century CE**, reached China
+> But the suona's ancestor, the **surna**, was born in **Persia and Arabia around the 3rd century CE**, reached China
 > **no later than the Jin–Yuan period**, and even its name is a **transliteration from Arabic**.
 >
 > So it has only two options: **be filed under the nearest old category**, or **admit it is a newcomer**.
@@ -373,7 +373,7 @@ stood for.**
 
 - **A little over two octaves.** Not a wide range — and **it does not win on range**: it wins on **volume,
   penetration and mimicry**.
-- **Sizes differ greatly**: the small *haidi* is higher, the large suona lower; modern bands use matched high,
+- **Sizes differ greatly**: the small **haidi** is higher, the large suona lower; modern bands use matched high,
   middle and low sets.
 - **The top costs the most breath**: sources are explicit that **the higher the note, the more air it takes**,
   which is why **circular breathing** is close to compulsory for suona players.
@@ -385,8 +385,8 @@ Four cues:
 1. **Enormous, bright, penetrating.** It can blast a hall, and it can also sound like weeping.
 2. **A "reedy" edge.** A double reed adds a sandy grain — what separates it from every other wind instrument, and
    what it shares with the [[instrument:oboe|oboe]].
-3. **It mimics voices and birds.** Northern players use *kaqiang* to imitate whole operatic arias and even spoken
-   lines; *Hundred Birds Paying Homage to the Phoenix* is the extreme case of bird mimicry.
+3. **It mimics voices and birds.** Northern players use **kaqiang** to imitate whole operatic arias and even spoken
+   lines; **Hundred Birds Paying Homage to the Phoenix** is the extreme case of bird mimicry.
 4. **Two faces**: **joy** (weddings, festivals) and **mourning** (funerals, memorials) — **one instrument carrying
    both ends of a life's ceremonies.**
 
@@ -425,13 +425,13 @@ the suona's bronze bell throws it to a maximum).
 
 | Period | State |
 |---|---|
-| c. 3rd century CE | its ancestor, the *surna*, appears in **Persia and Arabia** — **not a native Chinese instrument** |
+| c. 3rd century CE | its ancestor, the **surna**, appears in **Persia and Arabia** — **not a native Chinese instrument** |
 | Jin dynasties | possibly already played in Xinjiang; **musicians playing it appear in the Kizil cave murals** |
 | Jin–Yuan | **reaches the Central Plains**, some 700 years ago |
 | Ming | **the name "suona" appears in texts**; **Qi Jiguang's military manual records "to sound the call is to play the suona"**, using it as a military instrument; Wang Qi's encyclopaedia (1607) describes it; **Wang Pan's lyric** secures its literary fame; by the late Ming it is essential in opera accompaniment |
-| Qing | enters the court's **Hui Division music** under the name *surnai* — **from folk instrument to court instrument**; regional schools form |
+| Qing | enters the court's **Hui Division music** under the name **surnai** — **from folk instrument to court instrument**; regional schools form |
 | modern era | becomes the main instrument of wedding and funeral processions and of wind-and-percussion bands; **Hebei, Shandong, southern Liaoning, Chaozhou and Shanxi traditions all depend on it** |
-| 20th c. | matched high, middle and low sets and keyed chromatic models appear; *Hundred Birds* wins a silver medal at the 4th World Festival of Youth and Students in the early 1950s |
+| 20th c. | matched high, middle and low sets and keyed chromatic models appear; **Hundred Birds** wins a silver medal at the 4th World Festival of Youth and Students in the early 1950s |
 | 2006 | **suona art is entered in the first national list of intangible cultural heritage** |
 
 **Its history is a complete record of an import taking root**: **Persia and Arabia (3rd c.) → Central Asia (Jin) →
@@ -449,11 +449,11 @@ heritage (2006).** **In a thousand years, "theirs" became "ours".**
 - **"It only plays weddings and funerals."** It has long been a **solo instrument** and a regular member of Chinese
   orchestras and opera bands; it reached an international competition stage before 1956.
 - **"It is loud and nothing else."** It can be played so softly it produces a "xiao tone", and it can imitate whole
-  human arias (*kaqiang*) — **loudness is only its most noticeable face.**
+  human arias (**kaqiang**) — **loudness is only its most noticeable face.**
 - **"Its volume comes from the bronze bell."** The bell **amplifies**; it does not sound. **The sound source is the
   pair of cane reeds** — which is why it is of a family with the [[instrument:oboe|oboe]].
 - **"It grew up purely as a folk instrument."** It **served as military music first** (Qi Jiguang used it for
-  signals), **then entered folk life**, and **later the court** (the Qing *Hui Division*) — the opposite of the
+  signals), **then entered folk life**, and **later the court** (the Qing **Hui Division**) — the opposite of the
   intuitive path.
 
 ## Next

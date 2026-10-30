@@ -245,11 +245,11 @@ updated: 2026-09-28
 
 Start with a famous scene:
 
-> In *Dream of the Red Chamber*, Baoyu leafs through Daiyu's book and asks about a "大" with a number beside
+> In **Dream of the Red Chamber**, Baoyu leafs through Daiyu's book and asks about a "大" with a number beside
 > it and a hook below — **"what does this mean?"** Daiyu tells him: **it is a score.** ("You call yourself a
 > reader and have never seen a qin score?")
 
-That character — **looking like a Chinese character but not one** — is a *jianzipu* (减字谱).
+That character — **looking like a Chinese character but not one** — is a **jianzipu** (减字谱).
 
 ⭐⭐ **Special-page observation: one character, one action — a notation that fixes "how to play" and leaves
 "how it should sound" to the next person.**
@@ -312,7 +312,7 @@ That character — **looking like a Chinese character but not one** — is a *ji
 | bottom | **right-hand stroke** (gou · tiao · mo · ti …) ＋ **which string** |
 
 **Example**: "**big nine gou five**" = **left thumb on the ninth stud, right hand strikes the fifth string
-with *gou*.** Not a heavenly script — **a manual.**
+with **gou**.** Not a heavenly script — **a manual.**
 
 ## From a sentence to a character
 
@@ -370,11 +370,11 @@ What it gives instead is **da pu (打谱)**, "working up a score":
 > ⭐ And the trade says how long it takes: **"three years for a great piece, three months for a small one."**
 
 ⭐ So the same old score comes out differently in different hands:
-**Guan Pinghu's *Guangling San*, Wu Jinglüe's *Qiu Sai Yin*, Zhang Ziqian's *Long Xiang Cao*** —
+**Guan Pinghu's **Guangling San**, Wu Jinglüe's **Qiu Sai Yin**, Zhang Ziqian's **Long Xiang Cao** ** —
 "the same score, played by different players, often comes out very differently, each with its own flavour."
-The *Guangling San* and *Flowing Water* we hear today were **dapu-ed from the Ming *Shenqi Mipu*.**
+The **Guangling San** and **Flowing Water** we hear today were **dapu-ed from the Ming **Shenqi Mipu**.**
 
-## Why it *can* record only actions
+## Why it **can** record only actions
 
 ⭐ Not laziness — there is a precondition:
 
@@ -387,17 +387,17 @@ The *Guangling San* and *Flowing Water* we hear today were **dapu-ed from the Mi
 
 ⭐ This connects to two threads in this batch: the [[instrument:bianzhong|bells]]' **three tuning actions**
 (㉕) and the [[instrument:duxianqin|duxianqin]]'s **"tuning becomes playing"** (㊹) —
-**in Chinese instrument history, the *action* is always what gets recorded and invented first.**
+**in Chinese instrument history, the **action** is always what gets recorded and invented first.**
 
 ## What survives
 
 | Item | Content |
 |---|---|
 | **Extant scores** | **150-plus collections**, **3,000-plus pieces** (including versions) |
-| **Oldest score** | *Jieshidiao Youlan* — **prose notation**, traced to **Qiu Ming** of the Liang, copied in Empress Wu's time; ⚠️ one account says it returned from Japan in 1884, another that the copy remains in Tokyo (both noted) |
-| **Oldest jianzipu** | *Gu Yuan* in Jiang Kui's *Baishi Daoren Gequ* (Song) |
-| **Oldest printed collection** | Zhu Quan's ***Shenqi Mipu*** (**1425**, three volumes, **63 (one account: 64) pieces**) |
-| **Later collections** | *Taiyin Daquanji*, *Xilutang Qintong*, *Songxianguan Qinpu* / *Dahuange*, *Wuzhizhai*, *Tianwenge*… |
+| **Oldest score** | **Jieshidiao Youlan** — **prose notation**, traced to **Qiu Ming** of the Liang, copied in Empress Wu's time; ⚠️ one account says it returned from Japan in 1884, another that the copy remains in Tokyo (both noted) |
+| **Oldest jianzipu** | **Gu Yuan** in Jiang Kui's **Baishi Daoren Gequ** (Song) |
+| **Oldest printed collection** | Zhu Quan's ** **Shenqi Mipu** ** (**1425**, three volumes, **63 (one account: 64) pieces**) |
+| **Later collections** | **Taiyin Daquanji**, **Xilutang Qintong**, **Songxianguan Qinpu** / **Dahuange**, **Wuzhizhai**, **Tianwenge**… |
 
 ## Range
 

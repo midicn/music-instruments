@@ -385,7 +385,7 @@ Four cues:
 - **Keyboard technique** (shared with the piano); colour follows touch.
 - **No sustaining pedal**, so chords must be held by pressing keys together.
 - **Doubling the piano** an octave up is common, producing a sparkle.
-- **It also carries melodic passages on its own** (as in the *Dance of the Sugar Plum Fairy*).
+- **It also carries melodic passages on its own** (as in the **Dance of the Sugar Plum Fairy**).
 
 ## The family
 
@@ -406,11 +406,11 @@ keyboard affects **who plays it**, not how it is classified.
 | Period | State |
 |---|---|
 | 1886 (France) | settled by **Auguste Mustel**; earlier "keyboard steel-plate" experiments existed |
-| 1880s–90s | Tchaikovsky uses it in the *Dance of the Sugar Plum Fairy* → its colour is remembered worldwide |
+| 1880s–90s | Tchaikovsky uses it in the **Dance of the Sugar Plum Fairy** → its colour is remembered worldwide |
 | 20th c. | becomes standard orchestral and film-scoring colour; its use widens from "fairy/magic" to "time, memory, sparkle" |
 | Late 20th c. onward | a common colour instrument in orchestra, film and pop arranging |
 
-**The *Dance of the Sugar Plum Fairy* is effectively its calling card** — before it, "fairy music" was
+**The **Dance of the Sugar Plum Fairy** is effectively its calling card** — before it, "fairy music" was
 expressed with other colours; after it, the celesta became a **standard symbol**. The same mechanism as the
 [[instrument:gong|gong]] standing for ritual in film: **once a colour is bound to an image, it carries that
 image for a long time.**

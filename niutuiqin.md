@@ -262,7 +262,7 @@ you can adjust while playing.**
 **A round sound hole in the middle of the soundboard** (right side or left) — ⭐ **the sound post
 goes into that hole**, and it has three motions: **push in**, **pull out**, and ⭐ **rotate**.
 
-All three change **volume and tone**. None of the other twelve can be adjusted *while* playing.
+All three change **volume and tone**. None of the other twelve can be adjusted **while** playing.
 The erhu's volume depends on how hard the bow leans; the saer's thickness comes from its resonance
 strings; the aijieke's membrane was fixed at the factory. ⭐ **The niutuiqin makes it a part the
 player holds.**

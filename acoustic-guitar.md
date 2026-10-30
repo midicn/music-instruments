@@ -410,7 +410,7 @@ out through the soundhole. What the acoustic guitar adds is **drive**:
 **One counter-intuitive fact**: an acoustic guitar is louder than a classical, but its bass is **not
 deeper**. Both boxes resonate near 100 Hz and both have E2 (82 Hz) as their lowest open string. What
 steel adds is **mid and high frequency energy plus overall loudness** — so "steel-string guitars have
-a bigger bass" is usually an illusion: it sounds *louder*, and loudness gets mistaken for depth.
+a bigger bass" is usually an illusion: it sounds **louder**, and loudness gets mistaken for depth.
 
 ## Range
 

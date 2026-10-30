@@ -222,8 +222,8 @@ updated: 2026-09-26
 
 ::: en
 The snare drum belongs to the same class as the [[instrument:timpani|timpani]] (**membranophone**) but
-arrives at the opposite result: the timpani uses a closed hemispherical bowl to *establish* a pitch, while
-the snare drum uses a set of **snares** to *destroy* it.
+arrives at the opposite result: the timpani uses a closed hemispherical bowl to **establish** a pitch, while
+the snare drum uses a set of **snares** to **destroy** it.
 
 Those snares are the whole secret — and the reason the snare drum is the heart of military music and the
 drum kit.

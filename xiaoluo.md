@@ -322,7 +322,7 @@ updated: 2026-09-26
 **The xiaoluo is the smallest instrument in this family — and the one with the strangest "name". Its name is a
 single Chinese character:**
 
-> **台** (*tai*)
+> **台** (**tai**)
 
 — not the two characters for "small gong", but **one standalone character that sounds like the instrument's
 stroke.** In explaining itself, it also explains **the notation of all Chinese opera percussion**:
@@ -332,7 +332,7 @@ in Chinese characters.**
 
 > ⚠️ **It forces a question this site has not met before: a system that notates instruments with characters.**
 > We mentioned the [[instrument:bangu|bangu]]'s "luogu jing" when describing how the drummer gives orders —
-> but what that notation *is* belongs on this page:
+> but what that notation **is** belongs on this page:
 >
 > **It is a table of verbal syllables. Every action of every instrument has a character.**
 > **Say it aloud and you are producing what the players actually sound.**
@@ -395,7 +395,7 @@ Three points:
 1. **It is a size smaller than the [[instrument:daluo|daluo]] — and configured differently.**
    The daluo has **two holes** in its rim and a **cord** by which it is carried; the xiaoluo has
    **no holes at all** and is **pinched between the left thumb and forefinger**.
-   ⭐ **The difference in how they are held *is* the difference in their jobs**:
+   ⭐ **The difference in how they are held **is** the difference in their jobs**:
    **a gong that hangs on a cord can swing freely (the daluo needs a full stroke);
    a gong pinched in the fingers can be stopped at once (the xiaoluo has to mute).**
 2. **No beater — a bamboo slip.** About **17 cm** long, **struck with its lower end edge-on** against the
@@ -497,7 +497,7 @@ Peking opera says it plainly: the small gong is used for **scholars, women and c
 clowns)** and for small stage movements, while the [[instrument:daluo|daluo]] serves **generals and
 dignitaries**.
 
-⭐⭐ **Rule ⑲: inside one percussion section, instruments divide up by *character type* — the instrument's
+⭐⭐ **Rule ⑲: inside one percussion section, instruments divide up by **character type** — the instrument's
 colour is the character's colour.**
 
 (Which completes the other side of "volume is social radius": so far we have seen instruments matched to
@@ -570,7 +570,7 @@ signalling device (see the [[instrument:daluo|daluo]]); by the time it reaches P
   different jobs.
 - **"Luogu jing is an old percussion score, much like gongche notation."** Both use characters, but they
   notate different things: **gongche notates pitch, luogu jing notates rhythm and stroke** — and luogu jing
-  is an **onomatopoeic** script whose characters *are* the sound; Peking and Cantonese opera even assign
+  is an **onomatopoeic** script whose characters **are** the sound; Peking and Cantonese opera even assign
   **different characters** to the same instrument (**it is dialect-bound**).
 - **"Percussion just beats time."** Those sixty-odd patterns each have a name, a structure, a technique and a
   use: **lengchui** is one sudden great-gong stroke followed by silence (a character starting, freezing);
@@ -591,7 +591,7 @@ The Peking-opera percussion section is now complete: [[instrument:bangu|drum]] (
 [[instrument:daluo|great gong]] (weight), [[instrument:naobo|cymbals]] (density) and **small gong** (tone).
 
 The family's next question points in a new direction. We have seen the [[instrument:yunluo|yunluo]]
-**lay gongs out as a scale** — but can a *drum* be laid out as a scale? The next entry is the answer:
+**lay gongs out as a scale** — but can a **drum** be laid out as a scale? The next entry is the answer:
 the [[instrument:paigu|paigu]].
 
 **It mounts several drums of different sizes on one frame — and every one of them can be retuned
