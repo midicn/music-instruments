@@ -132,7 +132,7 @@ J.J. Cale 对 Rhythm Ace：「An old Japanese drum box that went bomp-chink, bom
  对照 808 条（LinnDrum 立场「录来的真实」）——发明人互评都是「贬」——
 但两个「贬」都被舞池翻案。
 
-## 收口：三句记住节拍机演化
+## 小结：三句记住节拍机演化
 
 | 问 | 答 |
 |---|---|
