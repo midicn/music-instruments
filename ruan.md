@@ -56,14 +56,14 @@ updated: 2026-09-26
 > 西晋「竹林七贤」里最擅长弹这件乐器的那一位。
 >
 > 名字是一种稀缺资源。 一类乐器分了家，必有一方要改姓。
-> 现在把本批攒下的三条"名字史"并排看：
+> 现在把这组攒下的三条"名字史"并排看：
 > ① 名字可以描述动作（[[instrument:pipa|琵琶]]：琵＝前弹，琶＝后挑）
 > ② 名字可以换位置（[[instrument:xiao|箫]]与笛：「今之箫乃古之笛」）
 > ③ 名字可以被抢走（阮：琵琶被夺，只好改用"阮咸"）
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **拨弦** · **有品** |
+| HS 分类 | 弦鸣（Chordophone）· 拨弦 · 有品 |
 | **次级类型** | **圆形音箱**（面板与背板略拱）· **直项** · 四弦 · 二十四品（十二平均律）· 拨片弹奏 |
 | **所属族** | 中国 · 弹拨（现代分高音阮 · 小阮 · 中阮 · 大阮 · 低音阮） |
 | **八音** | **丝** —— 以蚕丝为弦（今用钢弦，归属沿用传统说法） |
@@ -152,12 +152,12 @@ updated: 2026-09-26
 </svg>
 ```
 
-这张图是本批对"取音方式"的一次总收束 —— 三件乐器、三种答案：
+这张图是这组对"取音方式"的一次总收束 —— 三件乐器、三种答案：
 
 | 做法 | 例子 | 一弦能出几个音 | 音高是 | 音量与速度 |
 |---|---|---|---|---|
 | **柱**（可移动） | [[instrument:zheng\|筝]] | **一个** | 调音时定好 | **大 · 快** |
-| **品**（固定） | **阮** · [[instrument:pipa\|琵琶]] | **很多** | **台阶** | 中 |
+| 品（固定） | 阮 · [[instrument:pipa\|琵琶]] | 很多 | 台阶 | 中 |
 | **无** | [[instrument:guqin\|古琴]] · [[instrument:sanxian\|三弦]] | **很多** | **连续的线** | 小 · 慢 |
 
 而这三条路的取舍是可以算清的：
@@ -217,7 +217,7 @@ updated: 2026-09-26
 
 | 乐器 | 音箱 | 琴颈 | 有品 / 柱 | 在乐队里 |
 |---|---|---|---|---|
-| **阮** | **圆形** | **直项** | **品（二十四）** | **中音 · 和声** |
+| 阮 | 圆形 | 直项 | 品（二十四） | 中音 · 和声 |
 | [[instrument:pipa\|琵琶]] | 梨形 | **曲项** | 品（六相二十四品） | 主奏 · 独奏 |
 | [[instrument:zheng\|筝]] | 长方木箱 | — | **柱（可移动）** | 旋律 · 和声 |
 | [[instrument:guqin\|古琴]] | 长方木体 | — | **无** | 独奏（文人） |
@@ -391,7 +391,7 @@ answers:
 | Approach | Examples | Notes per string | Pitch is | Volume and speed |
 |---|---|---|---|---|
 | **Bridge** (movable) | [[instrument:zheng\|Zheng]] | **one** | set at tuning | **loud · fast** |
-| **Fret** (fixed) | **Ruan** · [[instrument:pipa\|Pipa]] | **many** | **steps** | medium |
+| Fret (fixed) | Ruan · [[instrument:pipa\|Pipa]] | many | steps | medium |
 | **Neither** | [[instrument:guqin\|Guqin]] · [[instrument:sanxian\|Sanxian]] | **many** | **a continuous line** | small · slow |
 
 And the trade-offs can be totalled up: a bridge trades the decision about pitch for volume and speed; a
@@ -454,7 +454,7 @@ Four cues:
 
 | Instrument | Body | Neck | Bridge / frets | Role |
 |---|---|---|---|---|
-| **Ruan** | **round** | **straight** | **frets (24)** | **middle register · chords** |
+| Ruan | round | straight | frets (24) | middle register · chords |
 | [[instrument:pipa\|Pipa]] | pear-shaped | **bent** | frets | lead · solo |
 | [[instrument:zheng\|Zheng]] | rectangular box | — | **movable bridges** | melody · harmony |
 | [[instrument:guqin\|Guqin]] | rectangular body | — | **none** | solo (literati) |
@@ -471,7 +471,7 @@ classes divide, and after a division the names have to be handed out again.
 |---|---|
 | Han (c. 2nd–1st c. BCE) | records mention a held plucked instrument with a **round body, straight neck, four strings and twelve frets**, then called **Qin pipa** (origins have several legends, from Central Asian introduction to a princess's dowry musicians) |
 | Wei–Jin | named after **Ruan Xian** of the Seven Sages of the Bamboo Grove, who played it best; it becomes fashionable and a leading instrument for solo, ensemble and song accompaniment |
-| **Tang** | the bent-necked pear-shaped pipa becomes hugely popular and **monopolises the name "pipa"** → this straight-necked round-bodied one is renamed **"ruanxian"**; it remains a principal instrument of the **Qingshang** and **Xiliang** repertoires |
+| Tang | the bent-necked pear-shaped pipa becomes hugely popular and monopolises the name "pipa" → this straight-necked round-bodied one is renamed "ruanxian"; it remains a principal instrument of the Qingshang and Xiliang repertoires |
 | Song | shortened to **"ruan"** (one account has a Song emperor adding a fifth string); afterwards **ruan and yueqin remain two names for one instrument** for centuries |
 | Yuan–Qing | in folk use, but by the Qing the old ruan's range shrinks to barely an octave, and folk versions degrade to two or three strings |
 | since the 1950s | rebuilt as **4 strings, 24 frets**, larger box and steel strings; a family modelled on the string family takes shape — **soprano, small, middle, large, bass**; **ruan and yueqin now become two different instruments** |

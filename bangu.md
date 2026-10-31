@@ -157,15 +157,15 @@ updated: 2026-09-26
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **膜鸣**（Membranophone）· **敲击** · **单面蒙皮** · 无固定音高（但**音高感明确**） |
-| **次级类型** | 鼓身由 **5 块厚硬木板拼合**（色木 · 桦木 · 槐木 · 桑木 · 榉木 · 柚木等）· **单面蒙牛皮** · **鼓膛呈八字形** · **底部箍铁圈** · 空悬于鼓架 · 以两根**藤 / 竹制鼓签**击奏 |
+| HS 分类 | 膜鸣（Membranophone）· 敲击 · 单面蒙皮 · 无固定音高（但音高感明确） |
+| 次级类型 | 鼓身由 5 块厚硬木板拼合（色木 · 桦木 · 槐木 · 桑木 · 榉木 · 柚木等）· 单面蒙牛皮 · 鼓膛呈八字形 · 底部箍铁圈 · 空悬于鼓架 · 以两根藤 / 竹制鼓签击奏 |
 | **所属族** | 中国 · 打击（**戏曲乐队的指挥乐器**；武场的灵魂） |
 | **八音** | **革** —— 以牛皮蒙面 |
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **膜鸣**（Membranophone）· **敲击** · **单面蒙皮** · 无固定音高（但**音高感明确**） |
-| **次级类型** | 鼓身由 **5 块厚硬木板拼合**（色木 · 桦木 · 槐木 · 桑木 · 榉木 · 柚木等）· **单面蒙牛皮** · **鼓膛呈八字形** · **底部箍铁圈** · 空悬于鼓架 · 以两根**藤 / 竹制鼓签**击奏 |
+| HS 分类 | 膜鸣（Membranophone）· 敲击 · 单面蒙皮 · 无固定音高（但音高感明确） |
+| 次级类型 | 鼓身由 5 块厚硬木板拼合（色木 · 桦木 · 槐木 · 桑木 · 榉木 · 柚木等）· 单面蒙牛皮 · 鼓膛呈八字形 · 底部箍铁圈 · 空悬于鼓架 · 以两根藤 / 竹制鼓签击奏 |
 | **所属族** | 中国 · 打击（**戏曲乐队的指挥乐器**；武场的灵魂） |
 | **八音** | **革** —— 以牛皮蒙面 |
 
@@ -282,8 +282,8 @@ The small bore, five centimetres, is high and crackling, for Peking opera. The m
 
 | Classification | Value |
 |---|---|
-| **HS class** | **Membranophone** · **struck** · **single-headed** · no definite pitch (but **a clear sense of pitch**) |
-| **Sub-type** | body **built from five thick hardwood boards** (maple, birch, locust, mulberry, beech, teak) · **one ox-hide head** · **flaring bore** · **iron ring at the base** · suspended on a stand · struck with two **cane or bamboo sticks** |
+| HS class | Membranophone · struck · single-headed · no definite pitch (but a clear sense of pitch) |
+| Sub-type | body built from five thick hardwood boards (maple, birch, locust, mulberry, beech, teak) · one ox-hide head · flaring bore · iron ring at the base · suspended on a stand · struck with two cane or bamboo sticks |
 | **Family** | Chinese · percussion (**the conducting instrument of the opera orchestra**; the soul of the **wu-chang** section) |
 | **Bayin** | **hide (革)** — the head is ox hide |
 :::

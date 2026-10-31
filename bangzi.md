@@ -156,14 +156,14 @@ updated: 2026-09-26
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **体鸣**（Idiophone）· ⭐ **互击**（**111.11 互击棒**）· 无固定音高 |
+| HS 分类 | 体鸣（Idiophone）· 互击（111.11 互击棒）· 无固定音高 |
 | **次级类型** | 两根实心硬木棒（一圆柱 · 一长方）· 左手执长方 · 右手执圆柱 · 相交成十字形互击 |
 | **所属族** | 中国 · 打击（**梆子腔**的击节乐器；这一组统计中的**最简形态**） |
 | **八音** | **木** —— 以硬木制成 |
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **体鸣**（Idiophone）· ⭐ **互击**（**111.11 互击棒**）· 无固定音高 |
+| HS 分类 | 体鸣（Idiophone）· 互击（111.11 互击棒）· 无固定音高 |
 | **次级类型** | 两根实心硬木棒（一圆柱 · 一长方）· 左手执长方 · 右手执圆柱 · 相交成十字形互击 |
 | **所属族** | 中国 · 打击（**梆子腔**的击节乐器；这一组统计中的**最简形态**） |
 | **八音** | **木** —— 以硬木制成 |
@@ -282,7 +282,7 @@ Today the four types coexist. Tongzhou bangzi entered the second national intang
 
 | Classification | Value |
 |---|---|
-| **HS class** | **Idiophone** · ⭐ **concussion** (**111.11, concussion sticks**) · no definite pitch |
+| HS class | Idiophone · concussion (111.11, concussion sticks) · no definite pitch |
 | **Sub-type** | two solid hardwood sticks (one cylindrical, one rectangular) · rectangular in the left hand, round in the right · crossed at right angles and struck together |
 | **Family** | Chinese · percussion (the time-keeper of **bangzi qiang**; the **simplest form** in this batch) |
 | **Bayin** | **wood (木)** — made of hardwood |

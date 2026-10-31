@@ -197,7 +197,7 @@ updated: 2026-09-26
 
 | 乐器 | 吹法 | 膜 | 音色 | 八音 |
 |---|---|---|---|---|
-| **箫** | **竖吹（端吹）** | **无** | 幽静 · 内敛 | **竹** |
+| 箫 | 竖吹（端吹） | 无 | 幽静 · 内敛 | 竹 |
 | [[instrument:dizi\|笛子]] | 横吹 | **有笛膜** | 明亮 · 外放 | 竹 |
 | 尺八（日本） | 竖吹 | 无 | 空寂 · 多气声 | （不适用） |
 | [[instrument:xun\|埙]] | **腔体**（容器笛） | 无 | 古朴苍凉 | 土 |
@@ -251,7 +251,7 @@ updated: 2026-09-26
 它们把"同一材料、两种做法"讲完了。
 
 接下来换到吹管里最响的一件：[[instrument:suona|唢呐]]。
-它同样是竹木管身，但发声体是双簧，而且它把本批的"社会出身"这条线推到了另一端：
+它同样是竹木管身，但发声体是双簧，而且它把"社会出身"这条线推到了另一端：
 从宫廷雅乐走向民间婚丧 ——
 一件乐器能有多"响"，往往和它被用在什么场合直接相关。
 
@@ -276,7 +276,7 @@ tube, one edge-tone principle, six holes each** — and only three differences.
 | Classification | Value |
 |---|---|
 | **HS class** | **Aerophone** · **edge tone** · single end-blown tube |
-| **Sub-type** | bamboo · node left closed at the top with a **notched blow hole** in its edge · **six finger holes (five front, one back)** · end holes below · **no membrane hole** |
+| Sub-type | bamboo · node left closed at the top with a notched blow hole in its edge · six finger holes (five front, one back) · end holes below · no membrane hole |
 | **Family** | Chinese · wind (same root as the dizi) |
 | **Bayin** | **bamboo (竹)** — the tube is bamboo (purple bamboo is usual) |
 
@@ -419,7 +419,7 @@ Four cues:
 
 | Instrument | Blowing | Membrane | Timbre | Bayin |
 |---|---|---|---|---|
-| **Xiao** | **end-blown** | **none** | quiet · inward | **bamboo** |
+| Xiao | end-blown | none | quiet · inward | bamboo |
 | [[instrument:dizi\|Dizi]] | transverse | **reed membrane** | bright · outgoing | bamboo |
 | Shakuhachi (Japan) | end-blown | none | hollow · very breathy | (n/a) |
 | [[instrument:xun\|Xun]] | **vessel** | none | plain, bleak | earth |

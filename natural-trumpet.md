@@ -127,7 +127,7 @@ updated: 2026-09-26
 |---|---|---|---|
 | 低音区 | 极疏（第 1–3 次泛音） | 两三个 | 音少，但容易吹 |
 | 中音区 | 中（第 3–6 次） | 五六个 | 需要控制 |
-| **高音区（clarino）** | **密（第 6–16 次）** | **多，可吹旋律** | **极难，是专门技艺** |
+| 高音区（clarino） | 密（第 6–16 次） | 多，可吹旋律 | 极难，是专门技艺 |
 
 所以巴洛克小号的独奏段几乎都在高音区 ——
 那不是为了炫耀，而是因为只有那里才有足够的音可以写成旋律。
@@ -325,7 +325,7 @@ This counter-intuitive distribution shapes all Baroque trumpet writing:
 |---|---|---|---|
 | Low | very sparse (1st–3rd) | two or three | few notes, easy to sound |
 | Middle | medium (3rd–6th) | five or six | needs control |
-| **Top (clarino)** | **dense (6th–16th)** | **many, enough for melody** | **extremely hard, a specialist craft** |
+| Top (clarino) | dense (6th–16th) | many, enough for melody | extremely hard, a specialist craft |
 
 So Baroque trumpet solos live in the top register — not for display, but because **only there are there
 enough notes to write a melody.**

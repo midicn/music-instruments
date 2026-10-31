@@ -26,7 +26,7 @@ sources:
  - **主线：频率是「铸」进金属里的（本页最该记住的一条）** —— 「音轮发声系统基于**音轮（tonewheels）**——风琴能产生的 **91 个音各有各的轮**」；「**每个音轮边缘有一圈凸点；凸点的数量与轮的转速决定该音的频率**」；「**同步电机**通过一组轴与齿轮带动音轮——**齿轮比决定每个轮的转速**；整个齿轮系**持续旋转**」；「每只音轮旁有一只电磁拾取器，**凸点掠过时磁场波动，在线圈里产生周期性电压——一个音**」→ **与特雷门/马特诺的电子振荡器对照：Hammond 的频率是**机械铸出来的**——齿轮咬合的那一刻，音高就定死了**
  - **分类学上它是「电机械」不是「电子」** —— 「严格说来，因为**波形由机械音轮而非电子振荡器产生**，最早的 Hammond 风琴是**电机械（electromechanical）而非电子**风琴」→ **本站较真的分类点**：theremin/Martenot 是**电鸣**（无机械振动源），Hammond 是**机电混合**（机械转轮发电）——**这也是它放进「早期电子」清单而非「电子」正典的原因**
  - **drawbars：演奏中实时「调配波」——加法合成的先声** —— 「模仿**管风琴多组音管的音栓系统**，Hammond 用**谐波序列波形的加法合成**生成声音」；「**拉杆（drawbars）是装在双键盘上方的金属滑杆，像调音台的推子——拉出越多，该谐波越响**」；「音栓的命名源自管风琴的 stop 系统——**按音管的物理长度命名**」； **演奏者实时调配基音、低八度与各次泛音的比例——在演奏中「设计音色」这件事，从管风琴的「预先停选」变成了「现场调配」**
- - **key click：第三次「缺点变音色」** —— 「那个独特的 **key click（按键咔嗒声）** 原本是设计缺陷，迅速成为『Hammond 音色』的一部分，现代仿制品努力复现它」→ **各站第三次**（Ted Nugent 的回授 · 电吉他 key click 的表亲 · 马特诺的键横移），**缺陷成为签名几乎是一种规律**
+ - **key click：第三次「缺点变音色」** —— 「那个独特的 **key click（按键咔嗒声）** 原本是设计缺陷，迅速成为『Hammond 音色』的一部分，现代仿制品努力复现它」→ **其他条目第三次**（Ted Nugent 的回授 · 电吉他 key click 的表亲 · 马特诺的键横移），**缺陷成为签名几乎是一种规律**
  - **Leslie 扬声器：对手变标配** —— 「Don Leslie 设计的扬声器被广泛用于 Hammond——**尽管 Leslie 起初是 Hammond 想挤垮的竞争公司**」；「Leslie 有**旋转的喇叭**与**带旋转挡板的固定低音扬声器**，产生颤音效果」；「电子管功放给 Hammond 音色一种**温暖自然的过载**——从轻微的『呼噜』到重度咆哮」； **「很快，Leslie 音箱成了 Hammond 玩家的 de facto 必备」—— 对手变标配，这是乐器史上少见的市场喜剧**
  - **市场史：教堂的低成本替代 → 爵士 organ trio → 摇滚** —— 「最初卖给**教堂**，作为**管风琴的低价替代**」；「它很快受到**职业爵士乐手**欢迎——**organ trio**（以 Hammond 为中心的小乐队）；**爵士俱乐部老板发现 organ trio 比请大乐队便宜**」； **Jimmy Smith 的 B-3**（附加 harmonic percussion 功能）「激励了一代风琴手」；60–70 年代进入 **R&B · 摇滚（尤其前卫摇滚）· 雷鬼**；摇滚侧「**Keith Emerson** 把 Hammond 演奏变成体育竞技，在台上**真的动手打乐器**；**Jon Lord（Deep Purple）把 C-3 接进 Marshall 音箱**，咆哮着与吉他竞争」
  - **「Sunday morning and Saturday night」** —— 「Hammond 是**周日早上与周六晚上的声音——福音的狂喜与爵士的老练、摇滚的放纵与灵魂乐的砂砾**」； **一件乐器同时是两个世界的圣咏与炫技**（对照特雷门「诡异外星」/马特诺「抒情歌唱」——Hammond 的性格是**「热烈」**）
@@ -146,9 +146,9 @@ updated: 2026-10-04
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **电鸣**之下的**电机械**（electromechanical · 音轮发电，非电子振荡器）· **复音**（full polyphony）· ⭐ **按分类学严格说不是「电子」乐器** |
-| **出身** | ⭐⭐ **1935 年**，**Laurens Hammond**（**钟表匠出身的发明家，不是音乐家**）——最初卖给**教堂**，作为**管风琴的低价替代品** |
-| **两个数字** | ⭐⭐ **96 只音轮 → 九个谐波**（每谐波一根拉杆）· **约 200 万台**产量 |
+| HS 分类 | 电鸣之下的电机械（electromechanical · 音轮发电，非电子振荡器）· 复音（full polyphony）· 按分类学严格说不是「电子」乐器 |
+| 出身 | 1935 年，Laurens Hammond（钟表匠出身的发明家，不是音乐家）——最初卖给教堂，作为管风琴的低价替代品 |
+| **两个数字** | **96 只音轮 → 九个谐波**（每谐波一根拉杆）· **约 200 万台**产量 |
 | **八音对照** | 八音之外——它生在**大萧条前夜的芝加哥** |
 
 :::
@@ -261,8 +261,8 @@ In 1975 the company dropped tonewheels for chips, sales fell, and it closed in 1
 
 | Class | Assignment |
 |---|---|
-| **HS class** | **electromechanical**（tonewheels generating current, not electronic oscillators）· **full polyphony** · ⭐ **strictly speaking not an 「electronic」 instrument** |
-| **Origin** | ⭐⭐ **1935**, by **Laurens Hammond**（a clockmaker-inventor, **not a musician**）— sold to **churches** as a **low-cost pipe-organ substitute** |
-| **Two numbers** | ⭐⭐ **96 tonewheels → nine harmonics**（one drawbar each）· **about two million** built |
+| HS class | electromechanical（tonewheels generating current, not electronic oscillators）· full polyphony · strictly speaking not an 「electronic」 instrument |
+| Origin | 1935, by Laurens Hammond（a clockmaker-inventor, not a musician）— sold to churches as a low-cost pipe-organ substitute |
+| **Two numbers** | **96 tonewheels → nine harmonics**（one drawbar each）· **about two million** built |
 | **Bayin note** | Outside the bayin — born in Chicago on the eve of the Depression |
 :::

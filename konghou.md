@@ -149,8 +149,8 @@ updated: 2026-09-27
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **弹拨** · **有固定音高** |
-| **次级类型** | **三种形制**：**卧箜篌**（似瑟而小 · 七弦 · **有品**）· **竖箜篌**（角形竖琴 · 曲形共鸣槽 · **二十二弦** · 竖抱双手齐奏）· **凤首箜篌**（同竖箜篌 · **凤首为饰** · 船形音箱） |
+| HS 分类 | 弦鸣（Chordophone）· 弹拨 · 有固定音高 |
+| 次级类型 | 三种形制：卧箜篌（似瑟而小 · 七弦 · 有品）· 竖箜篌（角形竖琴 · 曲形共鸣槽 · 二十二弦 · 竖抱双手齐奏）· 凤首箜篌（同竖箜篌 · 凤首为饰 · 船形音箱） |
 | **所属族** | 中国 · 弹拨（**丝弦**之属；卧箜篌本土，竖箜篌与凤首箜篌自西域 · 印度来） |
 | **八音** | **丝** |
 
@@ -267,8 +267,8 @@ In 2015 the player Lu Lu brought a modern konghou back to Qiemo; in 2016 the cou
 
 | Classification | Value |
 |---|---|
-| **HS class** | **chordophone** · **plucked** · **definite pitch** |
-| **Sub-type** | **three forms**: **wogonghou** (se-like, 7 strings, **with frets**) · **shukonghou** (angular harp, curved soundbox, **22 strings**, held upright, both hands) · **fengshou konghou** (upright form with a **phoenix head**, boat-shaped soundbox) |
+| HS class | chordophone · plucked · definite pitch |
+| Sub-type | three forms: wogonghou (se-like, 7 strings, with frets) · shukonghou (angular harp, curved soundbox, 22 strings, held upright, both hands) · fengshou konghou (upright form with a phoenix head, boat-shaped soundbox) |
 | **Family** | Chinese · plucked (**silk strings**; the wogonghou native, the others from the Western Regions and India) |
 | **Bayin** | **silk (丝)** |
 :::

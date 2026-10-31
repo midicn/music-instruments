@@ -20,8 +20,8 @@ instances:
   - pdmx-001108 | 《Japanese Silhouettes》—— 山田耕筰的钢琴小曲：听近代日本怎样在西洋和声里保留五声骨架；曲库无该乐器录音（C1 · CC0）
   - giantmidi-002045 | 《Japanese Tone Picture》—— 西方钢琴曲对日本的想象：旋律里的「东方」是布景，正好对照太鼓真实的仪式功能；曲库无该乐器录音（C1 · CC-BY-4.0）
 sources:
-  - 太鼓的类属、nagado-daiko 与 shime-daiko 的皮钉与绳调、能乐与歌舞伎用法，参 Wikipedia "Taiko" 与 Grove "Taiko"；天岩户神话在正文标明为神话；本文为原创表述
-  - 组太鼓与 Daihachi Oguchi、鬼太鼓座、鼓童的沿革，参 Grove "Taiko" 与团体公开资料；曲库无太鼓录音，实例取 C1 日本旋律作参照；本文为原创表述
+  - 太鼓的类属、nagado-daiko 与 shime-daiko 的皮钉与绳调、能乐与歌舞伎用法，参 Wikipedia "Taiko" 与 Grove "Taiko"；天岩户神话在正文标明为神话
+  - 组太鼓与 Daihachi Oguchi、鬼太鼓座、鼓童的沿革，参 Grove "Taiko" 与团体公开资料；曲库无太鼓录音，实例取 C1 日本旋律作参照
 updated: 2026-10-28
 ---
 

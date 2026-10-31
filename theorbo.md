@@ -63,7 +63,7 @@ updated: 2026-09-26
 | 分类 | 归属 |
 |---|---|
 | **HS 分类** | **弦鸣**（Chordophone）· **拨弦** |
-| **次级类型** | 单颈**两段** · 指板只覆盖第一段 · 第二段末端装**第二个弦栓箱** · 延长的**空弦低音弦** · 常见约 14 根单弦 |
+| 次级类型 | 单颈两段 · 指板只覆盖第一段 · 第二段末端装第二个弦栓箱 · 延长的空弦低音弦 · 常见约 14 根单弦 |
 | **所属族** | 西洋 · 拨弦（鲁特琴族 · 低音支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，西奥伯琴不在其中 |
 
@@ -275,7 +275,7 @@ bass has more core and more agility** — so the theorbo became a regular in tha
 | Classification | Value |
 |---|---|
 | **HS class** | **Chordophone** · **plucked** |
-| **Sub-type** | single neck in **two sections** · fingerboard covers the first only · a **second pegbox** at the far end · **long open bass strings** (never stopped) · commonly about 14 single strings |
+| Sub-type | single neck in two sections · fingerboard covers the first only · a second pegbox at the far end · long open bass strings (never stopped) · commonly about 14 single strings |
 | **Family** | Western · plucked (lute family, bass branch) |
 | **Bayin** | Not applicable — a Chinese system; the theorbo is outside it |
 

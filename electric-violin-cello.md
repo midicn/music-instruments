@@ -27,9 +27,9 @@ sources:
  - **动机：录不下的声音** —— 「从 1877 年声学时代黎明开始，录音会议要求乐手把声音灌进一只喇叭——系统只捕捉频谱的窄窄一条，大约 100–2,500Hz——小提琴的大量泛音 richness 从未到达沟槽」；「大厅里 shimmer 的，到唱片上变得又薄又幽灵」； **电小提琴不是为了让提琴更响，是为了让提琴「留得下」——先是录音，后是球场与巡演（「在 stadium 里听原声乐器已无可能」）——一件乐器的电声化，动机往往不在音乐厅，在录音棚和体育场**
  - **Stroh 1899：钟表匠 + 喇叭（对照 Kakehashi）** —— 「Johannes Matthias Augustus Stroh 在 Frankfurt 受钟表匠训练，后定居伦敦转攻电气工程；1899 年他专利了一只机械放大提琴，用膜片 + 金属号筒」；「声音被集中进录音 horn 的方式，是雕花的木身体做不到的」；「1911 年伦敦 Barnes & Mullins 卖九畿尼——当时一把像样的工厂琴两畿尼」；「1920 年代布宜诺斯艾利斯的 Julio de Caro 用它，当地人叫它 violín-corneta（短号提琴）」；「1920 年代后半唱片公司转向电麦克风录音后，Stroh 提琴变得稀少」； **一位钟表匠造了「给录音喇叭的提琴」（对照 Roland 的钟表出身 Kakehashi）——而它活了三十年，然后被自己开启的时代淘汰**
  - **电小提琴的出生证明是一堆专利** —— 「Elisha Gray 1874 年实验『提琴的电气化』——在小提琴上装金属板接收并放大电振荡——但在他的实验里，提琴扮演的是放大器（ Musical Telegraph 是世界第一件电乐器）」；「R.F. Starzl 1927：拾音器贴在 f 孔——已知最早的 electric-acoustic 提琴之一」；「Victor Pfeil 1928：骨架琴，电磁拾音器藏在琴马正下方」；「Ivan Makhonine 1930：法国《L'Illustration》报道 Cecilia Hansen 拉一把**没有共鸣体、用电缆接放大器**的琴」；「Rickenbacker Electro Violin 1935：George Beauchamp 设计，电木（后铝/木）『棍子』——极简设计证明了传统乐器形态改变的可能性」；「National Vio-Electric 1936：John Dopyera 开发，爵士小提琴家『Stuff』Smith 演奏——拾音器由两枚小磁线圈组成」； **「多数关于电小提琴起源的信息现在只能在专利里找到」——一项技术的童年，常常只有法律文书作证**
- - **Fender 1958：一件几乎不存在的名器** —— 「Leo Fender 早在 1948 年就在想电小提琴——计划完成电弦乐全套（吉他、贝斯、曼陀林、提琴）」；「1958 年 6 月 2 日申请『electric violin and electromagnetic pickup therefor』；1958 年 10 月纳什维尔 WSM 展首发（sunburst 漆 · 空心枫木身 · bolt-on 琴颈 · Kluson 齿轮弦轴）」；「拾音器是 Fender 自己的发明：琴马 rocking → 金属 pad（armature）振动 → 扰动单线圈拾音器的磁场——**像汽车引擎的火星塞**；调节间隙 profoundly 影响输出（『大于 1/32 英寸，最好约 1/64 英寸』）」；「2005 年时，一位世界领先的 vintage 电乐器专家 40 年里只见过两把；苏富比/佳士得/邦瀚斯从未上拍过一把」； **名门 + 名器 + 几乎无人见过——电小提琴史上的「幽灵名器」（对照各站「失败品仓库」谱系：这一件不是失败，是被忘记）**
+ - **Fender 1958：一件几乎不存在的名器** —— 「Leo Fender 早在 1948 年就在想电小提琴——计划完成电弦乐全套（吉他、贝斯、曼陀林、提琴）」；「1958 年 6 月 2 日申请『electric violin and electromagnetic pickup therefor』；1958 年 10 月纳什维尔 WSM 展首发（sunburst 漆 · 空心枫木身 · bolt-on 琴颈 · Kluson 齿轮弦轴）」；「拾音器是 Fender 自己的发明：琴马 rocking → 金属 pad（armature）振动 → 扰动单线圈拾音器的磁场——**像汽车引擎的火星塞**；调节间隙 profoundly 影响输出（『大于 1/32 英寸，最好约 1/64 英寸』）」；「2005 年时，一位世界领先的 vintage 电乐器专家 40 年里只见过两把；苏富比/佳士得/邦瀚斯从未上拍过一把」； **名门 + 名器 + 几乎无人见过——电小提琴史上的「幽灵名器」（对照「失败品仓库」谱系：这一件不是失败，是被忘记）**
  - **电大提琴与现代** —— 「Pfeil 也构想了几件电弦乐器，包括一把 cello，用磁拾音」；「Stroh 把设计扩展到 viola、cello 甚至 double bass，统称 Stroviols」； **现代对照**：「Yamaha Silent Violin 与 1930 年 Makhonine 的无琴身提琴的相似」——**六十年，同一个答案被两次给出：把琴身拿掉，声音就有了自由**；MIDI 小提琴（Zeta 等）把弓速/压力变成 MIDI；五弦、六弦、七弦扩展音域—— **电提琴的尽头是「什么都行」：没有标准形制，因为琴身已经不在**
- - **对照各站「去身体化」谱系（auto-tune 条）** —— Auto-Tune 去掉了**歌者**的身体（音高被直接挪位），电小提琴去掉了**琴**的身体（共鸣被交给拾音器与音箱）—— **两条去身体化的路线在同一时代完成：一个让「唱」不再需要嗓子，一个让「提琴」不再需要琴身。而 talk box 条的口腔滤波提醒我们：也有反方向的——把身体接回去**
+ - **对照「去身体化」谱系（auto-tune 条）** —— Auto-Tune 去掉了**歌者**的身体（音高被直接挪位），电小提琴去掉了**琴**的身体（共鸣被交给拾音器与音箱）—— **两条去身体化的路线在同一时代完成：一个让「唱」不再需要嗓子，一个让「提琴」不再需要琴身。而 talk box 条的口腔滤波提醒我们：也有反方向的——把身体接回去**
  - **用户谱系** —— Jean-Luc Ponty（fusion 小提琴）· Mahavishnu Orchestra 的 Jerry Goodman · Tom Waits · They Might Be Giants（《I Can Hear You》——在爱迪生实验室的蜡筒上录，用 Stroh 提琴）· Shakira 巡演（Una Palliser）
 updated: 2026-10-20
 ---
@@ -157,7 +157,7 @@ Pfeil 设想过电大提琴，Stroh 把设计扩到中提琴、大提琴、低�
 | HS 分类 | 归属 |
 |---|---|
 | **HS 分类** | **电鸣弦乐器**（弦振动 → 电磁/压电拾音 → 放大发声；琴身从共鸣体退化为挂件）· Stroh 一支为**机械放大**（膜 + 号筒），严格说是电声前夜 |
-| **出身** | ⭐⭐ **动机在录音棚与体育场**：蜡筒录不下泛音（100–2,500Hz 窄带）、球场听不见原声——**一件乐器的电声化，动机往往不在音乐厅** |
+| **出身** | **动机在录音棚与体育场**：蜡筒录不下泛音（100–2,500Hz 窄带）、球场听不见原声——**一件乐器的电声化，动机往往不在音乐厅** |
 | **八音注** | 八音之外——**提琴属丝，电提琴属「丝 × 电」：同一条弦，两种活法（对照 auto-tune 条的去身体化）** |
 
 :::
@@ -277,6 +277,6 @@ Listen for what is missing rather than for resemblance: the wooden colour is gon
 | HS class | Assignment |
 |---|---|
 | **HS class** | **electrophone chordophones** (string vibration → magnetic/piezo transduction → amplification; the body degrades from resonator to fitting) — the Stroh line is **mechanical amplification** (membrane + horn), strictly the eve of the electric era |
-| **Origin** | ⭐⭐ **the motive lay in studios and stadiums**: wax cylinders lost the overtones (a 100–2,500Hz slice), arenas couldn't hear acoustics — **an instrument's electrification is rarely motivated by the concert hall** |
+| **Origin** | **the motive lay in studios and stadiums**: wax cylinders lost the overtones (a 100–2,500Hz slice), arenas couldn't hear acoustics — **an instrument's electrification is rarely motivated by the concert hall** |
 | **Bayin note** | Outside the bayin — **the violin belongs to silk, the electric violin to 「silk × electricity」: one string, two ways of living (against the auto-tune entry's de-bodiment)** |
 :::

@@ -193,7 +193,7 @@ updated: 2026-09-26
 
 | 乐器 | 弦 | 品 / 指板 | 弓 | 音域来源 |
 |---|---|---|---|---|
-| **二胡** | 二 | **无指板 · 无品** | **夹在两弦之间，取不下来** | **换把** |
+| 二胡 | 二 | 无指板 · 无品 | 夹在两弦之间，取不下来 | 换把 |
 | [[instrument:violin\|小提琴]] | 四 | 有指板 · 无品 | **可自由离开弦** | 换把 + 四弦 |
 | [[instrument:guqin\|古琴]] | 七 | **无品** | **无弓**（拨弦） | 弦 + 按音/泛音 |
 | [[instrument:pipa\|琵琶]] | 四 | **有品** | 无弓（拨弦） | 品位 + 换把 |
@@ -404,7 +404,7 @@ Four cues:
 
 | Instrument | Strings | Frets / board | Bow | Where the range comes from |
 |---|---|---|---|---|
-| **Erhu** | two | **no board, no frets** | **threaded between the strings, cannot be removed** | **shifting** |
+| Erhu | two | no board, no frets | threaded between the strings, cannot be removed | shifting |
 | [[instrument:violin\|Violin]] | four | board, no frets | **free to leave the string** | shifting + four strings |
 | [[instrument:guqin\|Guqin]] | seven | **no frets** | **none** (plucked) | strings + stopped notes and harmonics |
 | [[instrument:pipa\|Pipa]] | four | **fretted** | none (plucked) | frets + shifting |

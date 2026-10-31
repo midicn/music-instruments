@@ -24,11 +24,11 @@ instances:
  - chinafolk-004138 | 《身背花鼓手提锣》 —— 「身背」：电鼓的形态史——从 Syndrum 的手持触发器到「一套完整的电子套鼓」（TDE-7K · 1992）——鼓手的装备从「背」变成了「搬」又变成了「装」（C3 · 仅限学习研究）
 sources:
  - **主线：蹦床上的网（本页最该记住的一条）** —— 「**为了得到自然的手感，我们同意用类似薄膜或皮肤的材料做鼓垫面。一天，机械设计师 Mr. Yoshino 走访一家 DIY 木工园艺超市——偶然发现一个小蹦床，它的弹跳面用的是网状材料。他来了灵感：Roland 可以用网面做鼓垫**」； **「日本找不到好的网面代工——幸运的是 Mr. Kakehashi（Roland 创始人）把我们介绍给 Mr. Remo Belli（Remo 创始人）。我们请他为我们的网状鼓皮代工，他同意了**」；「**我们发现某种网、双层、织纹呈 45 度角最好——我们申请了专利**」→ **一次逛超市 → 一个灵感 → 一项专利 → 一个品类**：**电鼓的「鼓皮未来」是在园艺货架前想出来的**
- - **设计的核心命题：「acoustic feel without the acoustic noise」** —— 「**橡胶垫更像键盘的『synth』手感——我们想帮鼓手获得原声手感。挑战是得到原声手感而没有原声噪音**」； **「边击不安静——一天倒置原型演奏时，发现壳底浇的橡胶手感好又安静。我们请 Remo 在上圈也浇橡胶——他们做了定制模具，成功了！整个演奏保持安静——这是电鼓的关键好处**」—— **两次「 accident」：蹦床的灵感 + 倒置的发现——对照各站的「计划外发明」谱系**
+ - **设计的核心命题：「acoustic feel without the acoustic noise」** —— 「**橡胶垫更像键盘的『synth』手感——我们想帮鼓手获得原声手感。挑战是得到原声手感而没有原声噪音**」； **「边击不安静——一天倒置原型演奏时，发现壳底浇的橡胶手感好又安静。我们请 Remo 在上圈也浇橡胶——他们做了定制模具，成功了！整个演奏保持安静——这是电鼓的关键好处**」—— **两次「 accident」：蹦床的灵感 + 倒置的发现——对照其他条目的「计划外发明」谱系**
  - **前史：从 Syndrum 到 Simmons（1977–）** —— 「**第一款上市的电子鼓是 Syndrum——1/Twin/Quad 三个型号（1/2/4 个触发器）**」；「**1978 年 Dave Simmons 创立 Simmons 品牌**——**六角形 pads**；**其声音被 80 年代最大牌艺术家使用：A Flock of Seagulls · Duran Duran · Def Leppard · Prince · Phil Collins · Rush · Depeche Mode**」—— **六角形电子鼓是「合成器外观」时代的鼓——形状本身就是宣言**
  - **Octapad（1985）：MIDI 触发的开端** —— 「**Roland Octapad——电子鼓的一项显著发展——1985 年发布，是第一个用于触发采样与任何 MIDI 设备的 MIDI 控制器**」—— **对照 midi-controller 条：**「**Octapad 是「打击乐版 MIDI 键盘」——鼓手第一次「用鼓演奏别人的音源」**
  - **V-Drums（1997）：第一套网状鼓皮套鼓** —— 「**1997 年 Roland 发布革命性的 V-Drums——TD-10 V-Pro Series：网状鼓皮垫 + 尖端音色 + 独特界面**」；「**COSM 建模技术（来自 V-Guitar）——实际演奏方面与声音引擎设计一起考虑——更真实的演奏与声音体验**」；「**2012 TD-30KV：SuperNATURAL 音源 + Behavior Modeling——以空前的真实度与细微差别重现原声鼓声**」
- - **Roland 的一句总结** —— 「**近 40 年对电子打击乐创新的坚持，把 Roland 的地位抬高到成为世界上最大的鼓公司**」—— **对照各站：**「**从 Kakehashi 创立 Roland（1972）到「最大鼓公司」，电子鼓是这家公司的成年礼**」
+ - **Roland 的一句总结** —— 「**近 40 年对电子打击乐创新的坚持，把 Roland 的地位抬高到成为世界上最大的鼓公司**」—— **对照其他条目：**「**从 Kakehashi 创立 Roland（1972）到「最大鼓公司」，电子鼓是这家公司的成年礼**」
  - **V-Drums 的研发年表（配件生态的完整性）** —— 「**1998 KD-120：第一款网状底鼓触发器 · 2001 CY-14C/CY-15R：第一款镲面镲边独立感应的电子镲 · 2004 VH-12：第一款上下浮动的 V-踩镲 · 2007 HD-1：家用一体化 · 2008 RMP-12：行进打击 · 2011 Friend Jam：鼓手社交网络应用**」—— **一套电鼓不是一件乐器，是一个生态**（**对照 workstation：**「**箱子装下一切」的逻辑扩展到了鼓**）
  - **一句话总结（Roland 自己的）** —— 「**V-Drums 将成为鼓手的电吉他——允许安静练习与无限的音色可能性。无需调音，一根 MIDI 线简化录音——革命化鼓组的理念**」—— **「鼓手的电吉他」：**「**对照电吉他条（吉他的电声化改写了它的命运）——电鼓的愿景正是对鼓做同一件事**」
  - 「电鼓属**电鸣**（Electrophone · 触发器 + 音源模块的电子打击乐系统）」依 Hornbostel–Sachs 分类
@@ -106,8 +106,8 @@ Roland 把这套东西说成鼓手的电吉他：安静练习，音色无限，�
 | 分类 | 归属 |
 |---|---|
 | **HS 分类** | **电鸣**（Electrophone · 触发器 + 音源模块的电子打击乐系统）· **网状鼓皮 · COSM 建模** |
-| **出身** | ⭐⭐ **前史：Syndrum（1977）· Simmons（1978 · 六角形）· Octapad（1985）→ V-Drums（1997）** |
-| **两个词** | ⭐⭐ **「acoustic feel without the acoustic noise」** · **「鼓手的电吉他」** |
+| **出身** | **前史：Syndrum（1977）· Simmons（1978 · 六角形）· Octapad（1985）→ V-Drums（1997）** |
+| **两个词** | **「acoustic feel without the acoustic noise」** · **「鼓手的电吉他」** |
 | **八音对照** | 八音之外——**鼓皮第一次不是皮** |
 
 :::
@@ -183,7 +183,7 @@ Roland described the aim as the electric guitar for drummers: quiet practice, un
 | Class | Assignment |
 |---|---|
 | **HS class** | **Electrophone**（triggers + sound modules — an electronic percussion system）· **mesh heads · COSM modeling** |
-| **Origin** | ⭐⭐ **prehistory: Syndrum（1977）· Simmons（1978 · hexagonal）· Octapad（1985）→ V-Drums（1997）** |
-| **Two words** | ⭐⭐ **「acoustic feel without the acoustic noise」** · **「the electric guitar for drummers」** |
+| **Origin** | **prehistory: Syndrum（1977）· Simmons（1978 · hexagonal）· Octapad（1985）→ V-Drums（1997）** |
+| **Two words** | **「acoustic feel without the acoustic noise」** · **「the electric guitar for drummers」** |
 | **Bayin note** | Outside the bayin — **the drumhead that is not skin** |
 :::

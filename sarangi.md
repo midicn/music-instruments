@@ -20,8 +20,8 @@ instances:
   - openscore-000008 | 《魔王》—— 舒伯特的艺术歌曲：人声的换气、滑入与渐弱是萨朗吉被拿来比较的标准；这条是「人声参照」，不是萨朗吉录音（C1 · CC0）
   - thesession-000908 | 《Indian Point》—— 爱尔兰传统提琴曲：同样是无品、连续运弓的擦弦乐器，可以对照「滑音与装饰怎样代替一颗颗音」；曲库无萨朗吉录音（C1 · OPEN）
 sources:
-  - 萨朗吉的形制、三主弦与共鸣弦（tarab）配置、以指甲按弦、无品与宽琴桥，参 Wikipedia "Sarangi" 与 The New Grove Dictionary of Music and Musicians "Sarangi" 条目；本文为原创表述
-  - 「最接近人声」的通行说法与 khyal / thumri / dadra 伴奏传统，参 Grove "Sarangi" 与 Bor, The Raga Guide 导论；20 世纪被风琴取代伴衬的说法见 Grove 与相关民族音乐学研究，本文概括为通行叙述
+  - 萨朗吉的形制、三主弦与共鸣弦（tarab）配置、以指甲按弦、无品与宽琴桥，参 Wikipedia "Sarangi" 与 The New Grove Dictionary of Music and Musicians "Sarangi" 条目
+  - 「最接近人声」的通行说法与 khyal / thumri / dadra 伴奏传统，参 Grove "Sarangi" 与 Bor, The Raga Guide 导论；20 世纪被风琴取代伴衬的说法见 Grove 与相关民族音乐学研究，概括为通行叙述
   - 曲库无萨朗吉录音，实例取 C1 的印度旋律、人声与擦弦乐器作参照，逐条在 why 里写明取材角度
 updated: 2026-10-28
 ---

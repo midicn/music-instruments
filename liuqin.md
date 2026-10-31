@@ -148,8 +148,8 @@ updated: 2026-09-27
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **弹拨** · **有固定音高** |
-| **次级类型** | **柳叶形（小梨形）音箱** · 背板柳木（改革后用红木）· **四弦**（传统为二弦）· **二十四至二十九品**（半音排列）· **三角拨子**弹奏（传统为指套）· 定弦 g · d¹ · g¹ · d²（另有 d¹ · g¹ · d² · g² 之说） |
+| HS 分类 | 弦鸣（Chordophone）· 弹拨 · 有固定音高 |
+| 次级类型 | 柳叶形（小梨形）音箱 · 背板柳木（改革后用红木）· 四弦（传统为二弦）· 二十四至二十九品（半音排列）· 三角拨子弹奏（传统为指套）· 定弦 g · d¹ · g¹ · d²（另有 d¹ · g¹ · d² · g² 之说） |
 | **所属族** | 中国 · 弹拨（原为**柳琴戏 · 泗州戏**伴奏；今为民族乐队**高音弹拨**） |
 | **八音** | **丝** |
 
@@ -267,8 +267,8 @@ The third is the plainest: it was made to earn a living. The rebuild of 1958 bel
 
 | Classification | Value |
 |---|---|
-| **HS class** | **chordophone** · **plucked** · **definite pitch** |
-| **Sub-type** | **willow-leaf (small pear-shaped) box** · willow back (rosewood after reform) · **four strings** (two traditionally) · **24–29 frets** (chromatic) · **triangular plectrum** (a finger-cap traditionally) · tuning g · d¹ · g¹ · d² |
+| HS class | chordophone · plucked · definite pitch |
+| Sub-type | willow-leaf (small pear-shaped) box · willow back (rosewood after reform) · four strings (two traditionally) · 24–29 frets (chromatic) · triangular plectrum (a finger-cap traditionally) · tuning g · d¹ · g¹ · d² |
 | **Family** | Chinese · plucked (once an accompaniment for **Liuqin and Sizhou opera**; now the orchestra's **treble plucker**) |
 | **Bayin** | **silk (丝)** |
 :::

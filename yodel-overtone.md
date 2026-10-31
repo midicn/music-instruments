@@ -27,7 +27,6 @@ sources:
  - 泛音唱法（呼麦/overtone singing）—— 一个喉咙同时发出两个音：基频（drone）+ 被放大的泛音；机制上「嘴形作为可变滤波器，从声带产生的丰富泛音里选择一个放大」（对照 vocal-production 条的声道=滤波器——呼麦是把滤波器的旋钮拧到极致）；与约德尔构成对偶——**约德尔在时间上分（真假声快速切换，一段旋律里两个声部轮流值班）· 呼麦在空间上分（基音与泛音同时响，一个瞬间里两个声部叠在一起）**；分布：图瓦/蒙古（khoomei）· 以及其他传统
  - 世界分布与古老起源 —— 除阿尔卑斯外见于所罗门群岛 · 夏威夷 · 马达加斯加 · 美国 · 罗马尼亚 · 保加利亚 · 非洲；「ethnomusicologists believe that the origins of yodeling can be traced back tens of thousands of years to ancient African nomadic hunter-gatherer societies」—— 呼应 voice 条「先有歌唱后有语言」：真假声切换可能是人类最古老的声乐技术之一；「Recent scientific research concerning yodeling and non-Western cultures suggests that music and speech may have evolved from a common prosodic precursor」
  - 中国平行线 —— 叫牛歌（外海 · 罗坑天湖：与 Ranz des Vaches 同构的 recall 旋律）· 山歌喊唱 · 蒙古呼麦；周杰伦《魔术先生》开头用约德尔唱法；《音乐之声》「The Lonely Goatherd」的风格源自约德尔（Julie Andrews）
- - 制作注记 —— 条目写作日期 2026-10-21；inst 站 M4 人声子类第 10 条；SVG ×2 中英各一；range 两版逐字相同；实例取 chinafolk C3 参照
 updated: 2026-10-21
 ---
 

@@ -59,7 +59,7 @@ updated: 2026-09-26
 | 分类 | 归属 |
 |---|---|
 | **HS 分类** | **弦鸣**（Chordophone）· **摩擦**（擦弦） |
-| **次级类型** | 摇柄 + 涂松香的木轮 + 琴弦；**持续低音弦**常驻发声 + **旋律弦**由**推键**顶弦取音 · 有键盘 · 无弓 |
+| 次级类型 | 摇柄 + 涂松香的木轮 + 琴弦；持续低音弦常驻发声 + 旋律弦由推键顶弦取音 · 有键盘 · 无弓 |
 | **所属族** | 西洋 · 弦乐（擦弦族 · 轮擦支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，手摇风琴不在其中 |
 
@@ -207,7 +207,7 @@ updated: 2026-09-26
 
 | 乐器 | 驱动力 | 有轮子吗 | 有弓吗 | 有键盘吗 | 发声体 |
 |---|---|---|---|---|---|
-| **手摇风琴** | **摇柄转轮** | **有** | 无 | 有（推键） | **弦** |
+| 手摇风琴 | 摇柄转轮 | 有 | 无 | 有（推键） | 弦 |
 | 键控提琴（nyckelharpa） | **弓** | 无 | **有** | 有（按键） | **弦** |
 | [[instrument:portative-organ\|便携管风琴]] | **手打气** | 无 | 无 | 有 | **空气柱** |
 
@@ -437,7 +437,7 @@ Three "machine instead of hand" string instruments, easily confused:
 
 | Instrument | Driving force | Wheel? | Bow? | Keyboard? | Vibrating body |
 |---|---|---|---|---|---|
-| **Hurdy-gurdy** | **crank turning a wheel** | **yes** | no | yes (tangents) | **strings** |
+| Hurdy-gurdy | crank turning a wheel | yes | no | yes (tangents) | strings |
 | Nyckelharpa | **bow** | no | **yes** | yes (keys) | **strings** |
 | [[instrument:portative-organ\|Portative organ]] | **a hand pumping** | no | no | yes | **air column** |
 

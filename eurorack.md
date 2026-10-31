@@ -114,9 +114,9 @@ Doepfer 在 1980 年代初做 voice card 模块系统，1982 年完成。第二�
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **电鸣**（Electrophone · 模块化电压控制合成系统的现代形态）· **3U/HP 规格** · **开放标准** |
-| **出身** | ⭐⭐ **1996 年秋 Doepfer A-100**（Dieter Doepfer）——**规格借自 Eurocard 工业标准** |
-| **两个数字** | ⭐⭐ **2018 年：300+ 品牌 · 7000+ 模块** · **1HP = 5.08mm** |
+| HS 分类 | 电鸣（Electrophone · 模块化电压控制合成系统的现代形态）· 3U/HP 规格 · 开放标准 |
+| **出身** | **1996 年秋 Doepfer A-100**（Dieter Doepfer）——**规格借自 Eurocard 工业标准** |
+| **两个数字** | **2018 年：300+ 品牌 · 7000+ 模块** · **1HP = 5.08mm** |
 | **八音对照** | 八音之外——**它甚至不是「一件乐器」，是一个让所有人造乐器的规格** |
 
 :::
@@ -199,8 +199,8 @@ Freedom has a bill: too much choice, cluttered systems, ergonomics worse than 5U
 
 | Class | Assignment |
 |---|---|
-| **HS class** | **Electrophone**（the modern form of modular voltage-controlled systems）· **3U/HP spec** · **open standard** |
-| **Origin** | ⭐⭐ **autumn 1996, the Doepfer A-100**（Dieter Doepfer）— **the spec borrowed from the Eurocard industrial standard** |
-| **Two numbers** | ⭐⭐ **2018: 300+ brands · 7,000+ modules** · **1HP = 5.08mm** |
+| HS class | Electrophone（the modern form of modular voltage-controlled systems）· 3U/HP spec · open standard |
+| **Origin** | **autumn 1996, the Doepfer A-100**（Dieter Doepfer）— **the spec borrowed from the Eurocard industrial standard** |
+| **Two numbers** | **2018: 300+ brands · 7,000+ modules** · **1HP = 5.08mm** |
 | **Bayin note** | Outside the bayin — **not even 「an instrument」 but a spec that lets everyone build instruments** |
 :::

@@ -23,7 +23,7 @@ instances:
  - chinafolk-009578 | 《慢慢打来慢慢唱》 —— 「慢」：潮乐传统里椰胡伴奏「**只可以一弓奏一音，连音是被禁止的**」—— 一件被规矩按住速度的乐器（**C3 · 仅限学习研究**）
  - chinafolk-000121 | 《花鼓》 —— 「鼓」：椰胡的**琴筒是半个椰壳**，**背开五孔**、**贝壳作琴马** —— 一件把自然材料原样留在身上、不加雕饰的乐器（**C3 · 仅限学习研究**）
 sources:
- - **名字与来历（本批第 55 条主线：红花与绿叶）**：**又称潮提 · 小胡**；**潮州音乐中称「冇弦」**（粤语 · 客语读「**mou**」，潮语与闽南语（通行于**中国台湾**）读「**pah**」（带鼻音））· 属**黎族 · 汉族**弓拉弦鸣乐器 · 「在中国至少有**800 年**历史」依百科资料
+ - **名字与来历（红花与绿叶）**：**又称潮提 · 小胡**；**潮州音乐中称「冇弦」**（粤语 · 客语读「**mou**」，潮语与闽南语（通行于**中国台湾**）读「**pah**」（带鼻音））· 属**黎族 · 汉族**弓拉弦鸣乐器 · 「在中国至少有**800 年**历史」依百科资料
  - **文献原话（这条最有分量）**：「**潮提，乌木柄，椰壳为槽，蛤螭壳为柱，与二胡等。发音甚静而平和，亦粤乐器。**」（《**清朝续文献通考**》）—— **四个字定了它的性格：「甚静而平和」**；⚠️ 注意「蛤螭壳为柱」说的是**琴马用蛤螭（一种螺）的壳**，不是"柱子"
  - **在乐队里的位置（本页主线）**：在「**广东音乐五架头**」的**软弓组合**中，「椰胡常为**配角**，起到**辅助 · 衬托高胡**的作用，**二者关系犹如红花与绿叶**」； 而在**潮州音乐**里它是**高音乐器**、主音乐器 —— **同一件乐器，在两支乐队里地位完全不同**
  - **一段可考的移动史**：**18 世纪初**已出现于潮州音乐 → 「**1924 年由吕文成等旅居上海的粤乐家来广州演出时带来广州**」→ 「**20 世纪 20 年代末为粤剧吸收采用**」→ 30 年代被广东小曲演奏吸收；⚠️ **吕文成与 gaohu 页是同一人**（高胡创制者之一）—— 同一个乐手把两件乐器都带进了广州
@@ -60,8 +60,8 @@ updated: 2026-10-03
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **拉弦**（弓擦）· **有固定音高** |
-| **次级类型** | **中音拉弦**（琴筒＝**多半个椰壳** · 前蒙**桐木薄板** · 背面开**五个小音孔**成**金钱眼状音窗** · 琴马用**小贝壳**（或竹 / 纸卷）· **两弦**（丝弦→钢丝弦）· 琴杆无品 · 全长约 **67 厘米** · 弓长约 **60 厘米**）· 定弦 **g–d¹**（五度）· 音域约**两个八度** |
+| HS 分类 | 弦鸣（Chordophone）· 拉弦（弓擦）· 有固定音高 |
+| 次级类型 | 中音拉弦（琴筒＝多半个椰壳 · 前蒙桐木薄板 · 背面开五个小音孔成金钱眼状音窗 · 琴马用小贝壳（或竹 / 纸卷）· 两弦（丝弦→钢丝弦）· 琴杆无品 · 全长约 67 厘米 · 弓长约 60 厘米）· 定弦 g–d¹（五度）· 音域约两个八度 |
 | **所属族** | 中国 · 拉弦（**潮州音乐的高音乐器** ＋ **广东音乐五架头里的配角**） |
 | **八音** | **丝** |
 
@@ -153,10 +153,10 @@ updated: 2026-10-03
 
 | 零件 | 用什么做的 | 备注 |
 |---|---|---|
-| **琴筒** | **多半个椰子壳** | 不是木筒。前蒙桐木薄板，背开**五个小音孔**成**金钱眼状音窗**。 |
-| **琴马** | **小贝壳** | 「蛤螭壳为柱」，蛤螭是**一种螺**。另有**竹马**，福州还有**纸卷**马。 |
+| 琴筒 | 多半个椰子壳 | 不是木筒。前蒙桐木薄板，背开五个小音孔成金钱眼状音窗。 |
+| 琴马 | 小贝壳 | 「蛤螭壳为柱」，蛤螭是一种螺。另有竹马，福州还有纸卷马。 |
 | **琴杆** | 红木、乌木等硬木 | 全长约 **67 厘米**，上粗下细，中部设丝弦千斤。 |
-| **琴弦** | **丝弦 → 钢丝弦** | 丝弦「**发音较钝，音域较为狭窄**」，钢丝弦「**发音稍微敏感，融和性增强**」。 |
+| 琴弦 | 丝弦 → 钢丝弦 | 丝弦「发音较钝，音域较为狭窄」，钢丝弦「发音稍微敏感，融和性增强」。 |
 | **琴弓** | 细竹杆 + 马尾 | **弓长约 60 厘米**。 |
 
 琴杆上端横置两轴，红木或黄杨，轴柄刻直条瓣纹。
@@ -253,9 +253,9 @@ updated: 2026-10-03
 
 | 类别 | 名称 |
 |---|---|
-| 广东 | **广东音乐**（五架头）· **潮州大锣鼓** · **潮州弦诗** · **潮剧** |
+| 广东 | 广东音乐（五架头）· 潮州大锣鼓 · 潮州弦诗 · 潮剧 |
 | 粤剧 | 「多用于伴奏富有民间音乐风格的『**南音**』等唱腔，是**中音色彩乐器**」；也用于**粤曲** |
-| 福建 | **闽剧** · **闽南十音** · **福州茶亭十番音乐** · **龙岩静板音乐** · **永定与上杭等地的十班音乐** |
+| 福建 | 闽剧 · 闽南十音 · 福州茶亭十番音乐 · 龙岩静板音乐 · 永定与上杭等地的十班音乐 |
 | 海南 | **海南八音** |
 | 黎族 | 逢年过节 · 集会喜庆，拉起椰胡与其它乐器合奏，或为歌唱 · **舞蹈伴奏**。 |
 
@@ -394,10 +394,10 @@ tuned itself down an octave to sit under the gaohu. Not demoted by others — re
 
 | Part | Made of | Note |
 |---|---|---|
-| **Sound box** | **more than half a coconut shell** | front covered with a **paulownia** board; **five small holes** in the back form a **coin-patterned** window |
-| **Bridge** | a **small shell** | the whelk shell of the gazetteer; also **bamboo**, and in Fuzhou even a **rolled paper** bridge |
+| Sound box | more than half a coconut shell | front covered with a paulownia board; five small holes in the back form a coin-patterned window |
+| Bridge | a small shell | the whelk shell of the gazetteer; also bamboo, and in Fuzhou even a rolled paper bridge |
 | **Neck** | redwood / ebony | about **67 cm** long, with two pegs set crosswise |
-| **Strings** | **silk → steel** | early silk strings were 「**dull, with a narrow range**」; steel made them 「**more responsive, better blended**」 |
+| Strings | silk → steel | early silk strings were 「dull, with a narrow range」; steel made them 「more responsive, better blended」 |
 | **Bow** | thin bamboo + horsehair | about **60 cm** |
 
  The shell kept evolving too: makers moved to larger shells for more volume, and some added
@@ -442,8 +442,8 @@ instrument museum in Beijing.
 
 | Class | Assignment |
 |---|---|
-| **HS class** | **Chordophone** · **bowed** (friction with a bow) · **with definite pitch** |
-| **Sub-type** | **mid-register bowed** (sound box = **more than half a coconut shell** · **paulownia** board over the front opening · **five small holes** forming a coin-patterned window in the back · bridge of a **small shell** (or bamboo / rolled paper) · **two strings**, silk then steel · fretless neck · about **67 cm** long · bow about **60 cm**) · tuned **g–d¹** (a fifth) · about **two octaves** |
+| HS class | Chordophone · bowed (friction with a bow) · with definite pitch |
+| Sub-type | mid-register bowed (sound box = more than half a coconut shell · paulownia board over the front opening · five small holes forming a coin-patterned window in the back · bridge of a small shell (or bamboo / rolled paper) · two strings, silk then steel · fretless neck · about 67 cm long · bow about 60 cm) · tuned g–d¹ (a fifth) · about two octaves |
 | **Family** | China · bowed strings (**lead voice in Chaozhou music** ＋ **accessory in Guangdong music**; used by both the Li and the Han) |
 | **Bayin** | **silk** |
 
@@ -451,7 +451,7 @@ instrument museum in Beijing.
 
 | Q | A |
 |---|---|
-| Names | 「**潮提**」 · 「**冇弦**」(**mou** / **pah**) · 「**椰胡**」 after it travelled |
+| Names | 「潮提」 · 「冇弦」(mou / pah) · 「椰胡」 after it travelled |
 | Sound box | **more than half a coconut shell** · paulownia front · **five-hole** window |
 | Bridge | a **small shell** (whelk); also bamboo or rolled paper |
 | Tuning · range | **g–d¹** (a fifth) · about **two octaves** |

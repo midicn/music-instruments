@@ -143,7 +143,7 @@ updated: 2026-09-26
 | 分类 | 归属 |
 |---|---|
 | **HS 分类** | **弦鸣**（Chordophone）· **擦弦** · 无品无指板 |
-| **次级类型** | **竹制（琴杆与琴筒皆竹）** · 琴筒**极小**（长约 11.4 厘米、后口直径约 4.3 厘米）· **前口蒙蛇皮** · 后敞口 · 五度定弦 · 弓毛夹在两弦之间 |
+| 次级类型 | 竹制（琴杆与琴筒皆竹） · 琴筒极小（长约 11.4 厘米、后口直径约 4.3 厘米）· 前口蒙蛇皮 · 后敞口 · 五度定弦 · 弓毛夹在两弦之间 |
 | **所属族** | 中国 · 拉弦（胡琴族 · 京剧主奏） |
 | **八音** | **丝** —— 传统以蚕丝为弦（20 世纪 50 年代起用钢丝弦，归属沿用传统说法） |
 
@@ -251,7 +251,7 @@ Its accompanying craft shows best in **playing high under a low phrase and low u
 | Classification | Value |
 |---|---|
 | **HS class** | **Chordophone** · **rubbed** · fretless, no fingerboard |
-| **Sub-type** | **bamboo (neck and body both)** · **tiny body** (about 11.4 cm long, rear opening about 4.3 cm) · **snakeskin on the front** · open at the back · tuned in fifths · hair threaded between the strings |
+| Sub-type | bamboo (neck and body both) · tiny body (about 11.4 cm long, rear opening about 4.3 cm) · snakeskin on the front · open at the back · tuned in fifths · hair threaded between the strings |
 | **Family** | Chinese · bowed (huqin family, Peking-opera lead) |
 | **Bayin** | **silk (丝)** — silk strings traditionally (steel since the 1950s; the name is retained) |
 :::

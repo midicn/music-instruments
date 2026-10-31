@@ -21,21 +21,21 @@ links:
   - "[[concept:timbre]]"
   - "[[concept:register]]"
 instances:
-  - chinafolk-002996 | 《大哥拉弦小妹唱》 —— ⭐⭐「拉弦」：**弓压在哪一侧**决定了音色朝向：⭐ **弓在弦外**（马头琴 · 牛腿琴 · 萨它尔 · 艾捷克）vs **弓在弦间**（二胡等九件）；⭐ 「弓毛与琴弦保持**直角**」是弓在弦外那一派的共同要领
-  - chinafolk-008496 | 《弦子弹断换一根》 —— ⭐⭐「弦」：**一根弦能出几个音**，各家的答案不同：⭐ **一根**（牛腿琴，一个八度）·⭐ **两根**（多数）·**四根**（四胡）·⭐ **一主奏 + 9~13 根不被按的共鸣弦**（萨它尔）
-  - chinafolk-003927 | 《打弹弓》 —— ⭐「弹」：**弓法不只拉**——⭐ 跳弓 · 击弓 · 碎弓 · 抖弓 · 连跳弓 · 砍弓 · 连砍弓（齐·宝力高第三次改革一次加进七种）；⭐⭐ **而"能不能奏双音"是这一族最硬的分水岭**
+  - chinafolk-002996 | 《大哥拉弦小妹唱》 ——「拉弦」：**弓压在哪一侧**决定了音色朝向：**弓在弦外**（马头琴 · 牛腿琴 · 萨它尔 · 艾捷克）vs **弓在弦间**（二胡等九件）；「弓毛与琴弦保持**直角**」是弓在弦外那一派的共同要领
+  - chinafolk-008496 | 《弦子弹断换一根》 ——「弦」：**一根弦能出几个音**，各家的答案不同：**一根**（牛腿琴，一个八度）·**两根**（多数）·**四根**（四胡）·**一主奏 + 9~13 根不被按的共鸣弦**（萨它尔）
+  - chinafolk-003927 | 《打弹弓》 ——「弹」：**弓法不只拉**——跳弓 · 击弓 · 碎弓 · 抖弓 · 连跳弓 · 砍弓 · 连砍弓（齐·宝力高第三次改革一次加进七种）；**而"能不能奏双音"是这一族最硬的分水岭**
 sources:
-  - ⭐⭐ **本页是13 件拉弦乐器（erhu · banhu · jinghu · gaohu · zhonghu · gehu · zhuihu · yehu · sihu · matouqin · aijieke · saer · niutuiqin）的总览**，把散在各条里的技术线索收成三条副线 + 一张对照表；**它不引入新事实**，只把已有条目里已经写过的内容并排放在一起 ⭐⭐ **并排之后才看得出三个"分水岭"**
-  - ⭐⭐ **副线一 · 一排不被按的弦（各站唯一的三种分工）**：这一族里有些乐器带一排**不被左手按、只靠主奏弦带动一起响**的弦 —— ⭐⭐ **三种做法完全不同**：**四胡**用**弓毛劈成两股**（一股一根，两股各拉一根）→ 两声齐鸣；⭐ **艾捷克**的共鸣弦**各自定不同音**（g·c¹·d¹·e¹·g¹·a¹·b¹·d²）→ ⭐⭐ **本身有旋律性，是"乐手"**；⭐ **萨它尔**的共鸣弦定**主奏弦本调的泛音列** → ⭐⭐ **只调颜色，是"音响师"**；⭐ **弹布尔 / 塞依吐尔**（拨弦，同源）把五根弦**组合成三组**；⭐⭐ **四件都出自"回部乐"或同一个中亚弓弦脉络 —— 都不是"一排不发声的弦"这个创意的首发明者**
-  - ⭐⭐ **副线二 · 为"转调"设计的两种办法**：**办法 A —— 弦多所以能换**：四胡**四根弦**（1·3 与 2·4 同度）· 马头琴**三种定弦**（反四度 g·c¹ / 正四度 d¹·a / 正五度 d¹·g）· ⭐ 艾捷克**三档**（高音 / 中音低五度 / 低音低八度）；**办法 B —— 弦少但指板全**：⭐⭐ **萨它尔指板 18 品 + 面板 5 个高音品，按十二平均律排列**，主奏弦只有一根且定弦固定（常在 B~d，常定 c）→ ⭐ **不换弦、不动琴马也能演奏各调**。⭐ **这是整段拉弦里最值得学的两个思路：换弦，还是换指法**
-  - ⭐⭐ **副线三 · 直接搬别人的低音方案**：⭐ **马头琴把弓挪到弦外**（弓毛不夹在两弦之间）→ 因而生来能奏双音，其余九件都要费劲（sihu 劈弓毛 / 二胡压弦）· ⭐ **艾捷克的低音档**直接用**大提琴弦 + 大提琴弓**，「**其演奏姿势和方法均与大提琴相同**」（20 世纪 60 年代，乌鲁木齐乐器厂）· ⭐ **革胡为补低音而横置** —— ⭐⭐ **三个共同判断：与其造一件有缺陷的新低音/新方案，不如把成熟的现成做法引进来**
-  - ⭐⭐ **分水岭一 · 弓在弦内还是弦外（本族最硬的一道）**：**弓毛夹在两弦之间** —— 二胡 · 板胡 · 京胡 · 高胡 · 中胡 · 革胡 · 坠胡 · 椰胡 · 四胡（九件，弓被弦"夹住"，两侧都能受力）；⭐ **弓在两弦之外擦奏** —— ⭐ **马头琴 · 艾捷克 · 萨它尔 · 牛腿琴**（四件，弓只能单向吃力，⭐⭐ **但换来一个别人没有的本事：能奏双音**）。⭐⭐ **这是"一拉就响"与"一拉两个音"的分野** —— 而 ⭐ **马头琴的"保持直角"就是弓在弦外那一派的共同要领**（弓毛只有靠"弓杆与弦垂直"这个角度才擦得稳，因为它是**自己架在弦旁边**、不是被弦夹住的）
-  - ⭐⭐ **分水岭二 · 弓毛与弦是什么材料**：**马尾**（多数）· ⭐ **棕丝**（牛腿琴的弓与弦都是棕的 → 「**发音纤柔而略带嘶声**」）· ⭐ **钢丝 / 金属**（新改的四弦乐器）· **尼龙**（马头琴改革时用以代马尾）；⭐ **牛腿琴是全族唯一"弓与弦都不是常规材料"的** → ⭐⭐ **贴人声不是把弦做亮，是把弦做粗**
-  - ⭐⭐ **分水岭三 · 音色靠什么获得（本族有五种完全不同的办法）**：**① 蒙皮的位置**：⭐ **双面蒙皮**（马头琴 →声音被封在小空间 → 浑厚深沉）·单面蒙皮（其余）· ⭐ **蟒皮内皮膜 + 桑木面板同时振动**（艾捷克）；**② 弦的排列**：⭐ **一排不被按的共鸣弦**（见副线一）；**③ 一个可调件**：⭐⭐ **音柱**（牛腿琴 → 全族唯一"能边奏边调音量"）；**④ 弓的用法**：⭐⭐ **弓在弦外 → 能奏双音**（马头琴）；**⑤ 直接换一套弦**：⭐ **低音艾捷克的弦就是大提琴的弦**
-  - ⭐ **弓法清单（各家大同小异）**：右手**长弓 · 短弓 · 连弓 · 分弓 · 顿弓 · 击弓 · 碎弓 · 抖弓 · 跳弓 · 连跳弓 · 砍弓 · 连砍弓**；⭐⭐ **砍弓与连砍弓是齐·宝力高第三次改革才加进马头琴的**（连同**小提琴 · 二胡 · 四胡 · 大提琴**的技巧一起引入）；左手**揉 · 滑 · 颤 · 带 · 打音 · 擞音 · 泛音 · 拨弦 · 弹弦**。⭐ **弓法不只"拉"**：⭐ **跳弓**断弦连点、⭐ **碎弓** rapid 交替、⭐ **砍弓**像剁—— ⭐⭐ **这些名字本身就带着动作，换弓法就换动作，换动作就换语气**
-  - ⭐⭐ **"弓在弦外"那一派还共有一个"弦外右手"要领**：⭐ **牛腿琴弓在弦上、萨它尔弓在弦外**，⭐⭐ **但两者都强调右手持弓的位置**：⭐ **牛腿琴的弓是细竹杆 + 棕丝或马尾**；⭐ **萨它尔「右手持弓方法与艾捷克相同」**；⭐⭐ **弓在弦外的那四件都不靠弓的两侧受力，**所以**手的角度就是音色的第一道关口** —— ⭐⭐ **这也解释了为什么牛腿琴要把音量做成一个手边的音柱**：别的乐器靠弓法换音色，它直接给了一个可拧的件
-  - ⭐⭐ **一条贯穿全族的实用判据 · 弓压在哪一侧**：在正文里对照各家时，最容易忽略也最要紧的一句是 ⭐ **"弓在弦外"** —— ⭐⭐ **它同时决定三件事**：**① 能奏几个音**（弦外 → 双音）· **② 手要不要管角度**（弦外 → 必須保持直角）· **③ 音色朝哪一边**（弦外 → 洪阔 · 低沉 · 豪放；弦内 → 柔和 · 清亮 · 内敛）
-  - ⭐⭐ **收口 · 三句记住这一族**：⭐ **弓压在哪儿**（弦内九件 / 弦外四件）·⭐ **弦有几根**（一根到四根，或一根主奏 + 一排不被按的）· ⭐ **音色从哪儿来**（蒙皮的位置 · 共鸣弦 · 一个可调件 · 弓的位置 · 或者直接换一套别人的弦）
+  - **本页是13 件拉弦乐器（erhu · banhu · jinghu · gaohu · zhonghu · gehu · zhuihu · yehu · sihu · matouqin · aijieke · saer · niutuiqin）的总览**，把散在各条里的技术线索收成三条副线 + 一张对照表；**它不引入新事实**，只把已有条目里已经写过的内容并排放在一起 **并排之后才看得出三个"分水岭"**
+  - **副线一 · 一排不被按的弦（整部图鉴里唯一的三种分工）**：这一族里有些乐器带一排**不被左手按、只靠主奏弦带动一起响**的弦 —— **三种做法完全不同**：**四胡**用**弓毛劈成两股**（一股一根，两股各拉一根）→ 两声齐鸣；**艾捷克**的共鸣弦**各自定不同音**（g·c¹·d¹·e¹·g¹·a¹·b¹·d²）→ **本身有旋律性，是"乐手"**；**萨它尔**的共鸣弦定**主奏弦本调的泛音列** → **只调颜色，是"音响师"**；**弹布尔 / 塞依吐尔**（拨弦，同源）把五根弦**组合成三组**；**四件都出自"回部乐"或同一个中亚弓弦脉络 —— 都不是"一排不发声的弦"这个创意的首发明者**
+  - **副线二 · 为"转调"设计的两种办法**：**办法 A —— 弦多所以能换**：四胡**四根弦**（1·3 与 2·4 同度）· 马头琴**三种定弦**（反四度 g·c¹ / 正四度 d¹·a / 正五度 d¹·g）· 艾捷克**三档**（高音 / 中音低五度 / 低音低八度）；**办法 B —— 弦少但指板全**：**萨它尔指板 18 品 + 面板 5 个高音品，按十二平均律排列**，主奏弦只有一根且定弦固定（常在 B~d，常定 c）→ **不换弦、不动琴马也能演奏各调**。**这是整段拉弦里最值得学的两个思路：换弦，还是换指法**
+  - **副线三 · 直接搬别人的低音方案**：**马头琴把弓挪到弦外**（弓毛不夹在两弦之间）→ 因而生来能奏双音，其余九件都要费劲（sihu 劈弓毛 / 二胡压弦）· **艾捷克的低音档**直接用**大提琴弦 + 大提琴弓**，「**其演奏姿势和方法均与大提琴相同**」（20 世纪 60 年代，乌鲁木齐乐器厂）· **革胡为补低音而横置** —— **三个共同判断：与其造一件有缺陷的新低音/新方案，不如把成熟的现成做法引进来**
+  - **分水岭一 · 弓在弦内还是弦外（本族最硬的一道）**：**弓毛夹在两弦之间** —— 二胡 · 板胡 · 京胡 · 高胡 · 中胡 · 革胡 · 坠胡 · 椰胡 · 四胡（九件，弓被弦"夹住"，两侧都能受力）；**弓在两弦之外擦奏** —— **马头琴 · 艾捷克 · 萨它尔 · 牛腿琴**（四件，弓只能单向吃力，**但换来一个别人没有的本事：能奏双音**）。**这是"一拉就响"与"一拉两个音"的分野** —— 而 **马头琴的"保持直角"就是弓在弦外那一派的共同要领**（弓毛只有靠"弓杆与弦垂直"这个角度才擦得稳，因为它是**自己架在弦旁边**、不是被弦夹住的）
+  - **分水岭二 · 弓毛与弦是什么材料**：**马尾**（多数）· **棕丝**（牛腿琴的弓与弦都是棕的 → 「**发音纤柔而略带嘶声**」）· **钢丝 / 金属**（新改的四弦乐器）· **尼龙**（马头琴改革时用以代马尾）；**牛腿琴是全族唯一"弓与弦都不是常规材料"的** → **贴人声不是把弦做亮，是把弦做粗**
+  - **分水岭三 · 音色靠什么获得（本族有五种完全不同的办法）**：**① 蒙皮的位置**：**双面蒙皮**（马头琴 →声音被封在小空间 → 浑厚深沉）·单面蒙皮（其余）· **蟒皮内皮膜 + 桑木面板同时振动**（艾捷克）；**② 弦的排列**：**一排不被按的共鸣弦**（见副线一）；**③ 一个可调件**：**音柱**（牛腿琴 → 全族唯一"能边奏边调音量"）；**④ 弓的用法**：**弓在弦外 → 能奏双音**（马头琴）；**⑤ 直接换一套弦**：**低音艾捷克的弦就是大提琴的弦**
+  - **弓法清单（各家大同小异）**：右手**长弓 · 短弓 · 连弓 · 分弓 · 顿弓 · 击弓 · 碎弓 · 抖弓 · 跳弓 · 连跳弓 · 砍弓 · 连砍弓**；**砍弓与连砍弓是齐·宝力高第三次改革才加进马头琴的**（连同**小提琴 · 二胡 · 四胡 · 大提琴**的技巧一起引入）；左手**揉 · 滑 · 颤 · 带 · 打音 · 擞音 · 泛音 · 拨弦 · 弹弦**。**弓法不只"拉"**：**跳弓**断弦连点、**碎弓** rapid 交替、**砍弓**像剁—— **这些名字本身就带着动作，换弓法就换动作，换动作就换语气**
+  - **"弓在弦外"那一派还共有一个"弦外右手"要领**：**牛腿琴弓在弦上、萨它尔弓在弦外**，**但两者都强调右手持弓的位置**：**牛腿琴的弓是细竹杆 + 棕丝或马尾**；**萨它尔「右手持弓方法与艾捷克相同」**；**弓在弦外的那四件都不靠弓的两侧受力，**所以**手的角度就是音色的第一道关口** —— **这也解释了为什么牛腿琴要把音量做成一个手边的音柱**：别的乐器靠弓法换音色，它直接给了一个可拧的件
+  - **一条贯穿全族的实用判据 · 弓压在哪一侧**：在正文里对照各家时，最容易忽略也最要紧的一句是 **"弓在弦外"** —— **它同时决定三件事**：**① 能奏几个音**（弦外 → 双音）· **② 手要不要管角度**（弦外 → 必須保持直角）· **③ 音色朝哪一边**（弦外 → 洪阔 · 低沉 · 豪放；弦内 → 柔和 · 清亮 · 内敛）
+  - **收口 · 三句记住这一族**：**弓压在哪儿**（弦内九件 / 弦外四件）·**弦有几根**（一根到四根，或一根主奏 + 一排不被按的）· **音色从哪儿来**（蒙皮的位置 · 共鸣弦 · 一个可调件 · 弓的位置 · 或者直接换一套别人的弦）
   - 「拉弦乐器属八音中的**丝**」依通行资料
 updated: 2026-10-03
 ---
@@ -103,7 +103,7 @@ updated: 2026-10-03
   <path d="M456,145 L456,165" stroke="#E8C547" stroke-width="2.4"/>
   <text x="462" y="150" font-size="9" fill="#E8C547">← 弓在外面</text>
   <text x="520" y="158" font-size="9.5" fill="#97C459">→ 能奏双音</text>
-  <text x="338" y="172" font-size="9" fill="#6E6A64">⭐ 但手必须自己管角度（保持直角）</text>
+  <text x="338" y="172" font-size="9" fill="#6E6A64">但手必须自己管角度（保持直角）</text>
 
   <text x="20" y="206" font-size="10.5" fill="#E8C547">音色从哪儿来 · 四种办法（各家的独门功夫落在其中一格）</text>
 
@@ -134,15 +134,15 @@ updated: 2026-10-03
   <text x="548" y="296" text-anchor="middle" font-size="9" fill="#6E6A64">低音档用大提琴弦</text>
 
   <g font-family="system-ui,sans-serif" font-size="10.5" fill="#A9A49B">
-    <text x="20" y="336" fill="#E8C547">⭐ 转调两条路：换弦（四胡四根 · 马头琴三定弦）｜ 换指法（萨它尔 18+5 品）</text>
-    <text x="20" y="358">⭐ 搬成熟方案：马头琴弓挪弦外 ｜ 艾捷克搬大提琴 ｜ 革胡横置</text>
+    <text x="20" y="336" fill="#E8C547">转调两条路：换弦（四胡四根 · 马头琴三定弦）｜ 换指法（萨它尔 18+5 品）</text>
+    <text x="20" y="358">搬成熟方案：马头琴弓挪弦外 ｜ 艾捷克搬大提琴 ｜ 革胡横置</text>
     <text x="20" y="378" fill="#6E6A64">⚠️ 示意图：按各条目已写事实归纳绘制，非严格比例。</text>
   </g>
 </svg>
 ```
 
 ```audiolab
-{"type":"instrument","gm":"Fiddle","synth":"bowed","phrase":["D4","G4","A4","D5","B4","G4","D4"],"label":"十三件里最常被借用的音色（借二胡近似）","label_en":"The timbre this family lends most often (an erhu stands in)","hint":"通用音色表里没有马头琴、艾捷克、萨它尔和牛腿琴，各站给它们配的替身大多借了二胡或提琴——这一页的十三件里，九件弓在弦间的本就与二胡同构。真实家族的三样特征这条单声部试听件里听不出来：一是弓在弦外那四件的双音（一次两个音）；二是萨它尔那排只调颜色的共鸣弦；三是牛腿琴手边可拧的音柱。","hint_en":"General MIDI has no matouqin, aijieke, saer or niutuiqin, and most stand-ins across this site borrow the erhu or a violin — nine of the thirteen here are built like the erhu anyway. Three things are absent in this single-part sample: the double stops of the four outside-bow instruments (two pitches at once); the saer's resonance strings that only colour the tone; and the niutuiqin's post you turn with one hand."}
+{"type":"instrument","gm":"Fiddle","synth":"bowed","phrase":["D4","G4","A4","D5","B4","G4","D4"],"label":"十三件里最常被借用的音色（借二胡近似）","label_en":"The timbre this family lends most often (an erhu stands in)","hint":"通用音色表里没有马头琴、艾捷克、萨它尔和牛腿琴，其他条目给它们配的替身大多借了二胡或提琴——这一页的十三件里，九件弓在弦间的本就与二胡同构。真实家族的三样特征这条单声部试听件里听不出来：一是弓在弦外那四件的双音（一次两个音）；二是萨它尔那排只调颜色的共鸣弦；三是牛腿琴手边可拧的音柱。","hint_en":"General MIDI has no matouqin, aijieke, saer or niutuiqin, and most stand-ins across this site borrow the erhu or a violin — nine of the thirteen here are built like the erhu anyway. Three things are absent in this single-part sample: the double stops of the four outside-bow instruments (two pitches at once); the saer's resonance strings that only colour the tone; and the niutuiqin's post you turn with one hand."}
 ```
 
 :::
@@ -210,7 +210,7 @@ Bowing is not only pulling: long, short, linked, separate, stopped, struck, brok
   <path d="M456,145 L456,165" stroke="#E8C547" stroke-width="2.4"/>
   <text x="462" y="150" font-size="9" fill="#E8C547">← bow outside</text>
   <text x="516" y="158" font-size="9.5" fill="#97C459">→ two pitches</text>
-  <text x="338" y="172" font-size="9" fill="#6E6A64">⭐ but the hand must own the angle (keep it square)</text>
+  <text x="338" y="172" font-size="9" fill="#6E6A64">but the hand must own the angle (keep it square)</text>
 
   <text x="20" y="206" font-size="10.5" fill="#E8C547">Where the colour comes from · four methods (each family's own trick sits in one)</text>
 
@@ -241,14 +241,14 @@ Bowing is not only pulling: long, short, linked, separate, stopped, struck, brok
   <text x="548" y="296" text-anchor="middle" font-size="9" fill="#6E6A64">cello strings, low register</text>
 
   <g font-family="system-ui,sans-serif" font-size="10.5" fill="#A9A49B">
-    <text x="20" y="336" fill="#E8C547">⭐ Two routes: change strings (sihu 4 · matouqin 3) | change fingering (saer 18+5)</text>
-    <text x="20" y="358">⭐ Borrow a finished solution: matouqin's bow outside ｜ the low aijieke's cello ｜ the gehu laid horizontal</text>
+    <text x="20" y="336" fill="#E8C547">Two routes: change strings (sihu 4 · matouqin 3) | change fingering (saer 18+5)</text>
+    <text x="20" y="358">Borrow a finished solution: matouqin's bow outside ｜ the low aijieke's cello ｜ the gehu laid horizontal</text>
     <text x="20" y="378" fill="#6E6A64">⚠️ Schematic: drawn from facts already stated in each entry, not to scale.</text>
   </g>
 </svg>
 ```
 
 ```audiolab
-{"type":"instrument","gm":"Fiddle","synth":"bowed","phrase":["D4","G4","A4","D5","B4","G4","D4"],"label":"十三件里最常被借用的音色（借二胡近似）","label_en":"The timbre this family lends most often (an erhu stands in)","hint":"通用音色表里没有马头琴、艾捷克、萨它尔和牛腿琴，各站给它们配的替身大多借了二胡或提琴——这一页的十三件里，九件弓在弦间的本就与二胡同构。真实家族的三样特征这条单声部试听件里听不出来：一是弓在弦外那四件的双音（一次两个音）；二是萨它尔那排只调颜色的共鸣弦；三是牛腿琴手边可拧的音柱。","hint_en":"General MIDI has no matouqin, aijieke, saer or niutuiqin, and most stand-ins across this site borrow the erhu or a violin — nine of the thirteen here are built like the erhu anyway. Three things are absent in this single-part sample: the double stops of the four outside-bow instruments (two pitches at once); the saer's resonance strings that only colour the tone; and the niutuiqin's post you turn with one hand."}
+{"type":"instrument","gm":"Fiddle","synth":"bowed","phrase":["D4","G4","A4","D5","B4","G4","D4"],"label":"十三件里最常被借用的音色（借二胡近似）","label_en":"The timbre this family lends most often (an erhu stands in)","hint":"通用音色表里没有马头琴、艾捷克、萨它尔和牛腿琴，其他条目给它们配的替身大多借了二胡或提琴——这一页的十三件里，九件弓在弦间的本就与二胡同构。真实家族的三样特征这条单声部试听件里听不出来：一是弓在弦外那四件的双音（一次两个音）；二是萨它尔那排只调颜色的共鸣弦；三是牛腿琴手边可拧的音柱。","hint_en":"General MIDI has no matouqin, aijieke, saer or niutuiqin, and most stand-ins across this site borrow the erhu or a violin — nine of the thirteen here are built like the erhu anyway. Three things are absent in this single-part sample: the double stops of the four outside-bow instruments (two pitches at once); the saer's resonance strings that only colour the tone; and the niutuiqin's post you turn with one hand."}
 ```
 :::

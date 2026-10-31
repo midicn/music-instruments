@@ -127,7 +127,7 @@ updated: 2026-09-28
   </g>
   <text x="20" y="290" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">⚠️ 三图只画"弦的职责"，不按弦径 · 张力与实际间距；都塔尔为两根弦。</text>
   <text x="20" y="312" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">三件琴常同台：都塔尔与弹布尔「二重奏」，热瓦甫与手鼓在宴席上同席。</text>
-  <text x="20" y="334" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">本批写作线索：㊺ 弦也分工 → ㊻ 同一道题两种解法 → ㊼ 三种分法（这一条收口）。</text>
+  <text x="20" y="334" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">三件弦乐器，三种分工：谁主奏，谁伴奏，谁只负责共鸣。</text>
 </svg>
 ```
 

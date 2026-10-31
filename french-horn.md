@@ -44,7 +44,7 @@ updated: 2026-09-26
 | 分类 | 归属 |
 |---|---|
 | **HS 分类** | **气鸣**（Aerophone）· **唇鸣**（lip-vibrated） |
-| **次级类型** | **漏斗形号嘴** · 阀门（传统为旋转阀） · **圆锥比例大** · **F 调移调乐器** |
+| 次级类型 | 漏斗形号嘴 · 阀门（传统为旋转阀） · 圆锥比例大 · F 调移调乐器 |
 | **所属族** | 西洋 · 铜管（圆号族） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，圆号不在其中 |
 
@@ -136,7 +136,7 @@ updated: 2026-09-26
 |---|---|---|---|
 | [[instrument:trumpet\|小号]] | 约 1.5 米 | 宽 | 中（高音区难） |
 | [[instrument:trombone\|长号]] | 约 2.7 米 | 中 | 中（但滑管可连续修正） |
-| **圆号** | **约 3.7 米** | **密** | **最高** |
+| 圆号 | 约 3.7 米 | 密 | 最高 |
 | [[instrument:tuba\|大号]] | 约 5.5 米 | 极密 | 高（但音区低、容忍度高） |
 
 圆号难在"音区高 + 管子长"这个组合：管子长让泛音密集，音区高又要求精确 ——
@@ -186,7 +186,7 @@ updated: 2026-09-26
 |---|---|---|---|---|
 | [[instrument:trumpet\|小号]] | 约 1.5 米 | 杯形（浅） | 圆柱为主 | 亮、集中 |
 | [[instrument:trombone\|长号]] | 约 2.7 米 | 杯形 | 圆柱为主 | 亮而有厚度 |
-| **圆号** | **约 3.7 米** | **漏斗形** | **圆锥比例大** | 温润、圆、远 |
+| 圆号 | 约 3.7 米 | 漏斗形 | 圆锥比例大 | 温润、圆、远 |
 | [[instrument:tuba\|大号]] | 约 5.5 米 | 深杯 | 圆锥为主 | 厚、暗 |
 | [[instrument:wagner-tuba\|瓦格纳大号]] | 与圆号相近 | **圆号号嘴** | 大号式管身 | 圆号与大号之间 |
 
@@ -239,7 +239,7 @@ It also has a gesture no other brass has: **the right hand rests inside the bell
 | Classification | Value |
 |---|---|
 | **HS class** | **Aerophone** · **lip-vibrated** |
-| **Sub-type** | **Funnel mouthpiece** · valves (traditionally rotary) · **large conical proportion** · **F transposing instrument** |
+| Sub-type | Funnel mouthpiece · valves (traditionally rotary) · large conical proportion · F transposing instrument |
 | **Family** | Western · Brass (horn family) |
 | **Bayin** | Not applicable — a Chinese system; the horn is outside it |
 
@@ -333,7 +333,7 @@ This rule generalises across the brass:
 |---|---|---|---|
 | [[instrument:trumpet\|Trumpet]] | about 1.5 m | wide | moderate (hard at the top) |
 | [[instrument:trombone\|Trombone]] | about 2.7 m | medium | moderate (but the slide corrects continuously) |
-| **Horn** | **about 3.7 m** | **crowded** | **highest** |
+| Horn | about 3.7 m | crowded | highest |
 | [[instrument:tuba\|Tuba]] | about 5.5 m | very crowded | high (but low, so more forgiving) |
 
 The horn is hard because of the combination "high register + long tube": the long tube crowds the
@@ -384,7 +384,7 @@ Four cues:
 |---|---|---|---|---|
 | [[instrument:trumpet\|Trumpet]] | about 1.5 m | cup (shallow) | mostly cylindrical | bright, focused |
 | [[instrument:trombone\|Trombone]] | about 2.7 m | cup | mostly cylindrical | bright with body |
-| **Horn** | **about 3.7 m** | **funnel** | **large conical proportion** | warm, round, distant |
+| Horn | about 3.7 m | funnel | large conical proportion | warm, round, distant |
 | [[instrument:tuba\|Tuba]] | about 5.5 m | deep cup | mostly conical | thick, dark |
 | [[instrument:wagner-tuba\|Wagner tuba]] | horn-like | **horn mouthpiece** | tuba-like body | between horn and tuba |
 

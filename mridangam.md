@@ -20,8 +20,8 @@ instances:
   - groove-000010 | 放克鼓组循环 —— 低音鼓与军鼓的分工，是姆里丹甘鼓「右头说话、左头压底」的现代镜像（C1 · CC-BY-4.0）
   - giantmidi-004946 | 《A Night in India》—— 西方钢琴曲对印度的想象：可对照听低音持续与旋律装饰，再回到姆里丹甘鼓的 tala 循环（C1 · CC-BY-4.0）
 sources:
-  - 姆里丹甘鼓的双面桶形、右头定主音、左头以负重与掌压产生低音、solkattu 口传音节，参 Wikipedia "Mridangam" 与 The New Grove Dictionary of Music and Musicians "Mridangam" 条目；本文为原创表述
-  - adi tala 等周期与 tani avartanam 的用法，参 Grove "Mridangam" 与 Carnatic 音乐通行教材；本文为原创表述
+  - 姆里丹甘鼓的双面桶形、右头定主音、左头以负重与掌压产生低音、solkattu 口传音节，参 Wikipedia "Mridangam" 与 The New Grove Dictionary of Music and Musicians "Mridangam" 条目
+  - adi tala 等周期与 tani avartanam 的用法，参 Grove "Mridangam" 与 Carnatic 音乐通行教材
   - 曲库无姆里丹甘鼓录音，实例取 C1 的印度旋律与鼓组循环作参照，逐条在 why 里写明取材角度
 updated: 2026-10-28
 ---

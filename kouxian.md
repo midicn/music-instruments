@@ -143,8 +143,8 @@ updated: 2026-09-27
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **体鸣**（Idiophone · **拨奏体鸣**）—— ⚠️ 不靠气流发声，是本批**最特殊的一件** |
-| **次级类型** | **框 ＋ 簧舌**（多为**框舌一体的自体簧**）· **竹质 / 铜质（金属）** · 手指**弹拨**或**扯线振动** · 声音靠**口腔共鸣与舌位变化**成形 |
+| HS 分类 | 体鸣（Idiophone · 拨奏体鸣）—— ⚠️ 不靠气流发声，是最特殊的一件 |
+| 次级类型 | 框 ＋ 簧舌（多为框舌一体的自体簧）· 竹质 / 铜质（金属） · 手指弹拨或扯线振动 · 声音靠口腔共鸣与舌位变化成形 |
 | **所属族** | 中国 · 吹管（**边界件**）· 30 多个民族共有（蒙古 · 鄂温克 · 满 · 彝 · 羌 · 傣 · 黎……）· 世界性乐器 |
 | **八音** | **竹** —— 多为竹制（亦有骨 · 铜 · 铁制） |
 
@@ -257,7 +257,7 @@ Its uses have stayed constant: courtship, ritual, amusement, company. Butuo Yi m
 | Classification | Value |
 |---|---|
 | **HS class** | **idiophone** (**plucked idiophone**) — ⚠️ not airflow-driven; the odd one out in this section |
-| **Sub-type** | **frame ＋ tongue** (often integral, "self-reed") · **bamboo / bronze** · plucked by **finger** or **string pull** · pitch shaped by **mouth resonance and tongue position** |
+| Sub-type | frame ＋ tongue (often integral, "self-reed") · bamboo / bronze · plucked by finger or string pull · pitch shaped by mouth resonance and tongue position |
 | **Family** | Chinese · wind (**boundary case**) · shared by 30+ peoples (Mongol, Evenki, Manchu, Yi, Qiang, Dai, Li…) · a world instrument |
 | **Bayin** | **bamboo (竹)** — mostly bamboo (also bone, bronze, iron) |
 :::

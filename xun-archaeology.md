@@ -23,8 +23,7 @@ instances:
  - chinafolk-000277 | 《妓女悲秋》 —— 「悲秋」：埙的音色是文化写定的——《乐书》「埙之为器，立秋之音也」——一种陶土的音色被绑定给一个季节；中国人听到的悲，有一半是陶土的颜色（C3 · 仅限学习研究）
 sources:
  - 埙的考古与复原（陕西省图书馆 · 央视 · 搜狗百科 · 中文维基）——**起源链**：早期雏形是狩猎用的石头「石流星」（绳系石球/泥球，抡起来兜风发声）；先民吹奏带空腔的石头模仿鸟兽叫声诱捕猎物；「击瓮叩缶」之时具备乐器功能。**出土年表**：河姆渡陶埙（浙江余姚 · 约 7000 年 · 椭圆 · 只有吹孔无音孔）；半坡陶哨（西安 · 约 6700 年 · 一吹孔 / 一吹孔一音孔——小三度羽宫）；哈喇海陶埙（内蒙古赤峰赵宝沟 · 6870±90 年 · 梨形 · 一吹孔）；二里岗早商三音孔；山西万泉荆村 · 太原义井二音孔埙（能吹三音，构成最古老三声音阶）；甘肃玉门火烧沟彩陶埙（鱼形 · 三个按音孔 · 能吹宫角徵羽四骨干音 · 二十余座平民墓出土）；晚商定型（辉县琉璃阁殷墓 · 安阳小屯妇好墓三枚一套 · 殷墟 1001 大墓兽面纹骨埙 · 五个按音孔 · 能奏完整七声音阶）；汉流行六音孔；汉以后定形下平上尖卵形 · 出现七孔埙。 **测音考古学的阶梯**：半坡埙小三度（羽宫）是「目前所知最古老的一种音阶形式」→ 荆村/义井三音 → 火烧沟四音 → 晚商五孔可奏完整七声—— **一件乐器身上的孔数，就是中国音史的化石年表**。**音色与文化编码**：幽深 · 悲凄 · 哀婉 · 绵绵不绝；《乐书》「埙之为器，立秋之音也。平底六孔，水之数也」；古人赋予「神圣 · 典雅 · 神秘 · 高贵」；「德者之音」；《诗经》「伯氏吹埙，仲氏吹篪」（与 chi 条交叉）；雅埙（大 · 浑厚低沉）/ 颂埙（小如鸡蛋 · 音响稍高）。**断代与复原**：清朝传承已断代——直隶人吴浔源偶得埙，复制出殷代五音孔梨形陶埙传世「以阐发古音之秘」；1970s–80s 吕骥 · 黄翔鹏 · 曹正 · 陈重等通过对历代出土埙的测音工作考证中国古代音阶、通过复制摸索制埙工艺；**1979 年陈重研制出第一枚可以进行演奏的埙，音孔增至八个**；80 年代埙乐首次登上国际舞台。**现代工艺**：标准化专业制埙（树脂 · 砂 · 粘土综合材料，80 末 90 初成熟 · 张荣华开创 · 抗震不易损坏 · 可成套成系列）；形制由圆形/椭圆→平底卵形；腔体扁腹→圆腹（气容量大发音厚实饱满）；现代八至十一孔拓宽音域；无哨口——演奏者必须自主调整吹气角度以激发气流，亦可转动埙体微调音调（HS 421.221.42 器皿笛）；陶笛近亲但有别（埙无哨口）。 贾平凹《废都》问世，埙乐艺术「借助文学的翅膀重新崛起」；1997 张维良第一张埙乐专辑《问天》
- - 对照线（xun 条写埙本体）——本条讲两件事：① 音孔增长史 = 中国音史的化石年表（测音考古学）；② 断代与复原运动（从吴浔源到陈重）。 对照 guqin-notation 的减字谱与 bianzhong-tuning 的一钟双音——**各站三条「从古代乐器读出古代音乐」的路径：埙靠测音 · 琴靠谱 · 钟靠律**
- - 制作注记 —— 条目写作日期 2026-10-21；inst 站八音吹管类条目；SVG ×2 中英各一；range 两版逐字相同；实例取 chinafolk C3 参照
+ - 对照线（xun 条写埙本体）——本条讲两件事：① 音孔增长史 = 中国音史的化石年表（测音考古学）；② 断代与复原运动（从吴浔源到陈重）。 对照 guqin-notation 的减字谱与 bianzhong-tuning 的一钟双音——**其他条目三条「从古代乐器读出古代音乐」的路径：埙靠测音 · 琴靠谱 · 钟靠律**
 updated: 2026-10-21
 ---
 
@@ -103,7 +102,7 @@ updated: 2026-10-21
 ## 断代与复原
 
 ```audiolab
-{"type":"instrument","gm":"Ocarina","label":"陶土的立秋之音 —— 无哨口的器皿笛","label_en":"The clay voice of autumn's beginning — a whistle-less vessel flute","hint":"埙的听辨点：陶土腔体的「暗」——幽深、悲凄、绵绵不绝，没有哨口的毛边，只有泥土的圆润；《乐书》「埙之为器，立秋之音也」——一种音色被绑定给一个季节。它是各站最古老的乐器条目之一：从石流星（狩猎工具）到妇好墓五孔（雅乐）到 1979 年陈重复原——七千年只做了一件事：多开几个孔，把音程记进陶土。","hint_en":"What to listen for: the darkness of a clay cavity — deep, mournful, unending, without a whistle's fringed edge, only earth's roundness; 「the xun is the sound of the beginning of autumn」 — a timbre bound to a season. One of the site's oldest instrument entries: from the stone meteor (hunting tool) to Fu Hao's tomb five-hole (court music) to Chen Zhong's 1979 revival — for seven thousand years it did one thing: cut more holes, and record intervals into clay."}
+{"type":"instrument","gm":"Ocarina","label":"陶土的立秋之音 —— 无哨口的器皿笛","label_en":"The clay voice of autumn's beginning — a whistle-less vessel flute","hint":"埙的听辨点：陶土腔体的「暗」——幽深、悲凄、绵绵不绝，没有哨口的毛边，只有泥土的圆润；《乐书》「埙之为器，立秋之音也」——一种音色被绑定给一个季节。它是整部图鉴里最古老的乐器条目之一：从石流星（狩猎工具）到妇好墓五孔（雅乐）到 1979 年陈重复原——七千年只做了一件事：多开几个孔，把音程记进陶土。","hint_en":"What to listen for: the darkness of a clay cavity — deep, mournful, unending, without a whistle's fringed edge, only earth's roundness; 「the xun is the sound of the beginning of autumn」 — a timbre bound to a season. One of the site's oldest instrument entries: from the stone meteor (hunting tool) to Fu Hao's tomb five-hole (court music) to Chen Zhong's 1979 revival — for seven thousand years it did one thing: cut more holes, and record intervals into clay."}
 ```
 
 《乐书》说，埙之为器，立秋之音也，平底六孔，水之数也。一种陶土的声音被写进一部书，绑定给一个季节。古人听它，听的是收敛。
@@ -183,7 +182,7 @@ The court kept two sizes. The ya xun was large, deep and low; the song xun was s
 ## Losing the line, and finding it
 
 ```audiolab
-{"type":"instrument","gm":"Ocarina","label":"陶土的立秋之音 —— 无哨口的器皿笛","label_en":"The clay voice of autumn's beginning — a whistle-less vessel flute","hint":"埙的听辨点：陶土腔体的「暗」——幽深、悲凄、绵绵不绝，没有哨口的毛边，只有泥土的圆润；《乐书》「埙之为器，立秋之音也」——一种音色被绑定给一个季节。它是各站最古老的乐器条目之一：从石流星（狩猎工具）到妇好墓五孔（雅乐）到 1979 年陈重复原——七千年只做了一件事：多开几个孔，把音程记进陶土。","hint_en":"What to listen for: the darkness of a clay cavity — deep, mournful, unending, without a whistle's fringed edge, only earth's roundness; 「the xun is the sound of the beginning of autumn」 — a timbre bound to a season. One of the site's oldest instrument entries: from the stone meteor (hunting tool) to Fu Hao's tomb five-hole (court music) to Chen Zhong's 1979 revival — for seven thousand years it did one thing: cut more holes, and record intervals into clay."}
+{"type":"instrument","gm":"Ocarina","label":"陶土的立秋之音 —— 无哨口的器皿笛","label_en":"The clay voice of autumn's beginning — a whistle-less vessel flute","hint":"埙的听辨点：陶土腔体的「暗」——幽深、悲凄、绵绵不绝，没有哨口的毛边，只有泥土的圆润；《乐书》「埙之为器，立秋之音也」——一种音色被绑定给一个季节。它是整部图鉴里最古老的乐器条目之一：从石流星（狩猎工具）到妇好墓五孔（雅乐）到 1979 年陈重复原——七千年只做了一件事：多开几个孔，把音程记进陶土。","hint_en":"What to listen for: the darkness of a clay cavity — deep, mournful, unending, without a whistle's fringed edge, only earth's roundness; 「the xun is the sound of the beginning of autumn」 — a timbre bound to a season. One of the site's oldest instrument entries: from the stone meteor (hunting tool) to Fu Hao's tomb five-hole (court music) to Chen Zhong's 1979 revival — for seven thousand years it did one thing: cut more holes, and record intervals into clay."}
 ```
 
 The Book of Rites calls the xun the sound of early autumn, flat-based, six holes, the number of water. A clay timbre was written into a book and bound to a season.

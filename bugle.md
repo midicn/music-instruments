@@ -57,7 +57,7 @@ updated: 2026-09-26
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **气鸣**（Aerophone）· **唇振**驱动 · **圆锥管** · **无阀** |
+| HS 分类 | 气鸣（Aerophone）· 唇振驱动 · 圆锥管 · 无阀 |
 | **次级类型** | 一段圆锥管绕成一到两圈 · 号嘴 + 喇叭口 · **无阀 · 无指孔 · 无滑管** · 只用泛音列 |
 | **所属族** | 西洋 · 铜管（号族 · 无阀支系 · 军事用法） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，号角不在其中 |
@@ -192,7 +192,7 @@ updated: 2026-09-26
 
 | 乐器 | 管形 | 改管长的手段 | 可用音 | 用途 |
 |---|---|---|---|---|
-| **号角** | **圆锥** | **无** | **主三和弦上的几个音** | **军事信号** |
+| 号角 | 圆锥 | 无 | 主三和弦上的几个音 | 军事信号 |
 | [[instrument:hunting-horn\|猎号]] | 圆锥 | 无 | 泛音列上几个点 | 狩猎信号 |
 | [[instrument:natural-trumpet\|自然小号]] | 圆柱为主 | 无（靠接管换调） | 泛音列（高音区） | 仪典 · 巴洛克合奏 |
 | [[instrument:trumpet\|现代小号]] | 圆柱为主 | **阀** | **完整半音阶** | 管弦乐 · 爵士 |
@@ -267,7 +267,7 @@ has.
 
 | Classification | Value |
 |---|---|
-| **HS class** | **Aerophone** · **lip-reed** driven · **conical bore** · **valveless** |
+| HS class | Aerophone · lip-reed driven · conical bore · valveless |
 | **Sub-type** | one conical tube coiled into one or two loops · mouthpiece + bell · **no valves, no holes, no slide** · harmonic series only |
 | **Family** | Western · brass (horn family, valveless branch, military use) |
 | **Bayin** | Not applicable — a Chinese system; the bugle is outside it |
@@ -402,7 +402,7 @@ Four cues:
 
 | Instrument | Bore | Means of changing length | Available notes | Use |
 |---|---|---|---|---|
-| **Bugle** | **conical** | **none** | **a few notes of one triad** | **military signals** |
+| Bugle | conical | none | a few notes of one triad | military signals |
 | [[instrument:hunting-horn\|Hunting horn]] | conical | none | a few points of the series | hunting signals |
 | [[instrument:natural-trumpet\|Natural trumpet]] | mostly cylindrical | none (crooks change key) | the series (upper register) | ceremony · Baroque ensembles |
 | [[instrument:trumpet\|Modern trumpet]] | mostly cylindrical | **valves** | **full chromatic** | orchestra · jazz |

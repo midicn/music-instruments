@@ -47,7 +47,7 @@ updated: 2026-10-04
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **膜鸣**（Membranophone · 单面框鼓）· **兼具体鸣成分**（框边一圈金属小钹）· **无固定音高** —— **与铃鼓同为「一件乐器跨两个打击分类」** |
+| HS 分类 | 膜鸣（Membranophone · 单面框鼓）· 兼具体鸣成分（框边一圈金属小钹）· 无固定音高 —— 与铃鼓同为「一件乐器跨两个打击分类」 |
 | **范围** | 世界乐器（**巴西**）· 手持框鼓 · 「**非官方国家乐器**」 |
 | **两副面孔** | **中世纪方形双面（Adufe）** vs **巴西圆形单面**——同名两件，后者是前者的后代 |
 | **HS 以外的归属** | 打击乐（西洋段「早期/历史乐器」清单项 · 现代形制流行于巴西） |
@@ -156,7 +156,7 @@ Sule Greg Wilson（卡罗来纳巧克力滴乐队，格莱美专辑《Genuine Ne
 
 | 问 | 答 |
 |---|---|
-| 最要紧的一条 | **「像铃鼓，但不是铃鼓」**——横持（铃鼓竖持）· **鼓面张力可调** · **鼓面声音是主角** · 可拆卸鼓皮 · 小钹更干更少延音 → **「两者中更万能的」** |
+| 最要紧的一条 | 「像铃鼓，但不是铃鼓」——横持（铃鼓竖持）· 鼓面张力可调 · 鼓面声音是主角 · 可拆卸鼓皮 · 小钹更干更少延音 → 「两者中更万能的」 |
 | 击法 | **拇指 · 指尖 · 掌根 · 手掌四类交替**，一面鼓凑成完整节奏；**摇动**与**指搓「锉」声**； 拇指滚奏与铃鼓共有 |
 | 两副面孔 | **中世纪方形双面 Adufe**（13 世纪插图 · 伊比利亚至今 · 源自摩尔/阿拉伯）vs **巴西圆形单面**（六对小钹 · 兽皮/尼龙）—— **原型与后裔，同名两件** |
 | 传播 | 中东框鼓 → **北非 → 伊比利亚 → 葡萄牙殖民者 → 巴西**；巴西潘德罗源自 **pandeireta / pandereta** |
@@ -235,7 +235,7 @@ one.**
 
 | Class | Assignment |
 |---|---|
-| **HS class** | **Membranophone**（single-head frame drum）· **with idiophone component**（a ring of jingles）· **no definite pitch** — like the tambourine, **one instrument across two percussion classes** |
+| HS class | Membranophone（single-head frame drum）· with idiophone component（a ring of jingles）· no definite pitch — like the tambourine, one instrument across two percussion classes |
 | **Scope** | World instrument（**Brazil**）· hand frame drum · 「**非官方国家乐器**」of Brazil |
 | **Two faces** | **the medieval square double-skinned Adufe** vs **the Brazilian round single-head drum** — same name, the latter descended from the former |
 | **Also** | Percussion（the Western section's 「early/historical」 list · the modern form lives in Brazil） |
@@ -348,7 +348,7 @@ Sule Greg Wilson（Carolina Chocolate Drops, the Grammy-winning《Genuine Negro 
 
 | Q | A |
 |---|---|
-| The key point | **「像铃鼓，但不是铃鼓」** — horizontal（tambourine vertical）· **tunable head** · **the skin is the voice** · removable head · drier jingles → **「两者中更万能的」** |
+| The key point | 「像铃鼓，但不是铃鼓」 — horizontal（tambourine vertical）· tunable head · the skin is the voice · removable head · drier jingles → 「两者中更万能的」 |
 | Strokes | **thumb · fingertips · heel · palm in rotation** — one skin makes a whole groove; **shake** and the **rasp**; the thumb roll shared with the tambourine |
 | Two faces | **medieval square Adufe**（13th c. · Iberia · Moorish roots）vs **Brazilian round single-head**（six pairs of jingles · skin or nylon）— **prototype and descendant, one name** |
 | Route | Middle-Eastern frame drums → **North Africa → Iberia → Portuguese colonists → Brazil**; from the **pandeireta / pandereta** |

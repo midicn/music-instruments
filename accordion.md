@@ -187,7 +187,7 @@ updated: 2026-09-26
 |---|---|---|---|---|
 | [[instrument:organ\|管风琴]] | 空气柱 | 机械鼓风 | 不可控 | 不可移动 |
 | [[instrument:harmonium\|簧风琴]] | 自由簧 | 脚踏 | 有限可控 | 较重但可搬动 |
-| **手风琴** | 自由簧 | **左臂手动** | **完全可控** | **便携** |
+| 手风琴 | 自由簧 | 左臂手动 | 完全可控 | 便携 |
 | [[instrument:harmonica\|口琴]] | 自由簧 | **嘴吹吸** | 可控 | **可放进口袋** |
 
 从这张表往下看，"便携性"逐步提升，"音域与音量"逐步下降 ——
@@ -389,7 +389,7 @@ Four cues:
 |---|---|---|---|---|
 | [[instrument:organ\|Organ]] | air columns | mechanical blower | none | immovable |
 | [[instrument:harmonium\|Harmonium]] | free reeds | foot | limited | heavy but movable |
-| **Accordion** | free reeds | **left arm** | **full** | **portable** |
+| Accordion | free reeds | left arm | full | portable |
 | [[instrument:harmonica\|Harmonica]] | free reeds | **breath** | controllable | **pocket-sized** |
 
 Reading down this table, portability rises while range and volume fall — a clear engineering trade-off

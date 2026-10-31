@@ -20,8 +20,8 @@ instances:
   - lakh-000276 | 《Morning Has Broken》—— 长笛与巴松的民谣改编：一支简单的旋律，正好用来听「一口气能走多远」与换气的位置（C1 · CC-BY-4.0）
   - giantmidi-006494 | 《6 Flute Sonatinas》—— 西洋长笛的古典语汇：可与班苏里对照——同样横吹，一个有按键、一个只有孔（C1 · CC-BY-4.0）
 sources:
-  - 班苏里的竹制单管、六至七个指孔、横吹锐边发声、滚管与半孔取音，参 Wikipedia "Bansuri" 与 The New Grove Dictionary of Music and Musicians "Bansuri" 条目；本文为原创表述
-  - Pannalal Ghosh 把班苏里推上古典独奏舞台、Hariprasad Chaurasia 的现代影响，参 Grove "Bansuri" 与印度音乐通行叙述；南印度 venu 的形制差异见 Grove 相应条目；本文为原创表述
+  - 班苏里的竹制单管、六至七个指孔、横吹锐边发声、滚管与半孔取音，参 Wikipedia "Bansuri" 与 The New Grove Dictionary of Music and Musicians "Bansuri" 条目
+  - Pannalal Ghosh 把班苏里推上古典独奏舞台、Hariprasad Chaurasia 的现代影响，参 Grove "Bansuri" 与印度音乐通行叙述；南印度 venu 的形制差异见 Grove 相应条目
   - 曲库无班苏里录音，实例取 C1 的印度旋律与西洋长笛曲作参照，逐条在 why 里写明取材角度
 updated: 2026-10-28
 ---

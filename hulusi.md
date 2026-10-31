@@ -149,8 +149,8 @@ updated: 2026-09-27
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **气鸣**（Aerophone）· **自由簧** · 簧管耦合 · **有固定音高** |
-| **次级类型** | **葫芦作气室** · **3 根竹管**（主管 1 + 副管 2）· 每管一枚**舌形铜簧** · 主管 **7 孔（前 6 后 1）** · 副管不开孔 · **副管可堵** |
+| HS 分类 | 气鸣（Aerophone）· 自由簧 · 簧管耦合 · 有固定音高 |
+| 次级类型 | 葫芦作气室 · 3 根竹管（主管 1 + 副管 2）· 每管一枚舌形铜簧 · 主管 7 孔（前 6 后 1） · 副管不开孔 · 副管可堵 |
 | **所属族** | 中国 · 吹管（**傣 · 阿昌 · 德昂 · 佤 · 布朗**等民族；云南德宏 · 临沧） |
 | **八音** | **匏** —— 以葫芦做气室 |
 
@@ -266,8 +266,8 @@ In Dai villages a young man walked to the girl's window at night and played word
 
 | Classification | Value |
 |---|---|
-| **HS class** | **aerophone** · **free reed** · reed-pipe coupling · **definite pitch** |
-| **Sub-type** | **gourd air chamber** · **3 bamboo pipes** (one melody + two drones) · one **tongue-shaped bronze reed** each · melody pipe with **7 holes (6 front, 1 back)** · drones unperforated · **pluggable** |
+| HS class | aerophone · free reed · reed-pipe coupling · definite pitch |
+| Sub-type | gourd air chamber · 3 bamboo pipes (one melody + two drones) · one tongue-shaped bronze reed each · melody pipe with 7 holes (6 front, 1 back) · drones unperforated · pluggable |
 | **Family** | Chinese · wind (**Dai · Achang · De'ang · Wa · Bulang** peoples; Dehong and Lincang, Yunnan) |
 | **Bayin** | **gourd (匏)** — the air chamber is a gourd |
 :::

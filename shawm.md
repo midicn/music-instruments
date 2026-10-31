@@ -343,7 +343,7 @@ Four cues:
 
 | Instrument | Bore | Reed | Volume | Use |
 |---|---|---|---|---|
-| **Shawm** | conical · wide | double · **large** | **loud** | **outdoors · ceremony** |
+| Shawm | conical · wide | double · large | loud | outdoors · ceremony |
 | [[instrument:oboe\|Oboe]] | conical · narrow | double · small | moderate | indoors · orchestra |
 | [[instrument:crumhorn\|Crumhorn]] | conical · bent | double · **capped** | **quiet** | indoor consort |
 | [[instrument:racket\|Racket]] | conical · folded | double | moderate | the bass part |

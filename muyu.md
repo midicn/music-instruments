@@ -53,7 +53,7 @@ updated: 2026-09-26
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **体鸣**（Idiophone）· **敲击** · **无固定音高** |
+| HS 分类 | 体鸣（Idiophone）· 敲击 · 无固定音高 |
 | **次级类型** | 整块硬木挖空 · 正面开一道长缝 · 配木槌敲击 · 大小不一 |
 | **所属族** | 中国 · 打击（寺院法器 → 乐队节奏乐器） |
 | **八音** | **木** —— 以木为体 |
@@ -135,7 +135,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-这张表把本批的一条暗线数出来了：
+这张表把一条暗线数出来了：
 「一件乐器能控制哪些维度」是一个可以列出来的清单 ——
 音高 · 时值 · 力度 · 音色层次。
 
@@ -180,7 +180,7 @@ updated: 2026-09-26
 
 | 乐器 | 什么在振动 | 音高 | 音色层次 | 主要角色 |
 |---|---|---|---|---|
-| **木鱼** | **木体（挖空 + 开缝）** | **无固定音高** | 很少 | **节拍** |
+| 木鱼 | 木体（挖空 + 开缝） | 无固定音高 | 很少 | 节拍 |
 | [[instrument:woodblock\|西洋木鱼]] | 木体（实心条） | 无固定音高 | 很少 | 色彩 · 节奏 |
 | [[instrument:claves\|响棒]] | 两根硬木棒 | 无固定音高 | 极少 | 节奏骨架 |
 | [[instrument:tanggu\|堂鼓]] | **皮（膜鸣）** | 无固定音高 | **多（心/边/闷）** | 节奏 · 指挥 |
@@ -205,7 +205,7 @@ updated: 2026-09-26
 它不是从民间或宫廷的音乐活动里长出来的，而是先在宗教仪式里承担"组织时间"的职能，
 后来这套职能被音乐原样接收 —— 功能先于审美。
 
-*（顺带一提：本批已写的六件乐器，出身各不相同 —— 古琴出自文人 · 编钟出自宫廷礼乐 ·
+*（顺带一提：这组已写的六件乐器，出身各不相同 —— 古琴出自文人 · 编钟出自宫廷礼乐 ·
 埙出自雅乐 · 笛子与堂鼓出自戏曲与民间 · 木鱼出自寺院。
 "这件乐器是谁用的"，本身就是理解中国乐器的另一张地图。）*
 
@@ -250,7 +250,7 @@ and a single opening.**
 
 | Classification | Value |
 |---|---|
-| **HS class** | **Idiophone** · **struck** · **no definite pitch** |
+| HS class | Idiophone · struck · no definite pitch |
 | **Sub-type** | a solid block of hardwood hollowed out · one long slit in the front · struck with a wooden beater · made in sizes |
 | **Family** | Chinese · percussion (temple implement → ensemble rhythm instrument) |
 | **Bayin** | **wood (木)** — the body is wood |
@@ -375,7 +375,7 @@ Four cues:
 
 | Instrument | What vibrates | Pitch | Timbre levels | Main role |
 |---|---|---|---|---|
-| **Muyu** | **wood (hollowed, slit)** | **no definite pitch** | few | **keeping time** |
+| Muyu | wood (hollowed, slit) | no definite pitch | few | keeping time |
 | [[instrument:woodblock\|Woodblock]] | wood (solid bar) | no definite pitch | few | colour · rhythm |
 | [[instrument:claves\|Claves]] | two hardwood sticks | no definite pitch | very few | rhythmic skeleton |
 | [[instrument:tanggu\|Tanggu]] | **skin (membranophone)** | no definite pitch | **many (centre/rim/damped)** | rhythm · conducting |

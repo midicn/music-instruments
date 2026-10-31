@@ -207,7 +207,7 @@ updated: 2026-09-26
 
 | 乐器 | 有柱吗 | 一弦几音 | 音高怎么定 | 音量 |
 |---|---|---|---|---|
-| **筝** | **有（可移动）** | **一个** | **调音时定好** | **大** |
+| 筝 | 有（可移动） | 一个 | 调音时定好 | 大 |
 | [[instrument:guqin\|古琴]] | **无** | **多个** | 左手按弦（连续） | 小 |
 | [[instrument:pipa\|琵琶]] | **有品（固定）** | 多数 | 按品位 | 中 |
 | [[instrument:harp\|竖琴]] | 无（弦逐级加长） | 一个 | **造琴时定好** | 中大 |
@@ -434,7 +434,7 @@ Four cues:
 
 | Instrument | Bridged? | Notes per string | When the pitch is decided | Volume |
 |---|---|---|---|---|
-| **Zheng** | **yes (movable)** | **one** | **at tuning** | **loud** |
+| Zheng | yes (movable) | one | at tuning | loud |
 | [[instrument:guqin\|Guqin]] | **none** | **many** | by the left hand, continuously | small |
 | [[instrument:pipa\|Pipa]] | **fixed frets** | several | by pressing a fret | medium |
 | [[instrument:harp\|Harp]] | none (graded strings) | one | **when the instrument is made** | medium–loud |

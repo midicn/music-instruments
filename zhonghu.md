@@ -44,21 +44,21 @@ updated: 2026-09-28
 > 「中胡起到**连接高音与低音声部 · 使乐队声音丰满的承上启下作用**。」
 > 「以弥补高低音之间的空隙。」
 
- 本批第 52 条：【为"补缺"而生的乐器 —— 中音补上了，低音还没补上】
+ 【为"补缺"而生的乐器 —— 中音补上了，低音还没补上】
 
 | 音区 | 谁来负责 | 状态 |
 |---|---|---|
 | 高音 | [[instrument:gaohu\|高胡]] | ✅ 已补（广东音乐开来，进了编制） |
 | 中高 | [[instrument:erhu\|二胡]] | 原本就有（但它是"中高"，不是"中"） |
 | **中音** | **中胡** | ✅ **这一条：补上了**（「不可缺少的乐器」） |
-| **低音** | 大胡 · 低胡 · **革胡** · 拉阮…… | ❌ **至今没补上** —— 来源说这些改革乐器「**性能上还存在一定的缺陷**」，所以「**现今绝大多数民族管弦乐队采用西洋大提琴 · 低音提琴**」 |
+| 低音 | 大胡 · 低胡 · 革胡 · 拉阮…… | ❌ 至今没补上 —— 来源说这些改革乐器「性能上还存在一定的缺陷」，所以「现今绝大多数民族管弦乐队采用西洋大提琴 · 低音提琴」 |
 
 同一场"补缺工程"里，中音部成功了，低音部还在借外援。 这一条把这两件事摆在一起看。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **拉弦**（弓擦）· **有固定音高** |
-| **次级类型** | **中音二胡**（结构与二胡相同 · 各部件更大：**琴筒长 15 · 前口外径 10.5 厘米**（圆形 · 蒙蟒皮 · 后口置音窗）· **琴杆 86 厘米** · 弦更粗）· **定弦比二胡低四或五度** · 有龙头 / 弯脖 / 扁圆筒 / 扩音筒诸型 |
+| HS 分类 | 弦鸣（Chordophone）· 拉弦（弓擦）· 有固定音高 |
+| 次级类型 | 中音二胡（结构与二胡相同 · 各部件更大：琴筒长 15 · 前口外径 10.5 厘米（圆形 · 蒙蟒皮 · 后口置音窗）· 琴杆 86 厘米 · 弦更粗）· 定弦比二胡低四或五度 · 有龙头 / 弯脖 / 扁圆筒 / 扩音筒诸型 |
 | **所属族** | 中国 · 拉弦（**民族管弦乐队的中音声部**；亦用于江南丝竹 · 广东音乐 · 越剧伴奏） |
 | **八音** | **丝** |
 
@@ -160,10 +160,10 @@ updated: 2026-09-28
 | 说法 | 内容 |
 |---|---|
 | **20 年代说** | 「**20 世纪 20 年代初**在二胡的基础上创制而成」 |
-| **30 年代 · 有人有名** | 「中国著名民族乐器**制作师周荣庭**（1907—1975）……**为加强中音部音乐的表现力**，他在二胡的基础上研制而成中音拉弦乐器 —— **今日的中胡**」 |
+| 30 年代 · 有人有名 | 「中国著名民族乐器制作师周荣庭（1907—1975）……为加强中音部音乐的表现力，他在二胡的基础上研制而成中音拉弦乐器 —— 今日的中胡」 |
 | **50 年代说** | 「约于 **1950 年代**在二胡基础上改革制成」 |
-| **同期的另一条路** | 「上海**大同乐会**创制了一种中音拉弦乐器 —— **弓胡**（仿古代乐器『提琴』的形制），**未能流传下来**」 |
-| **戏曲那边** | 「中胡亦于 **20 世纪 30 年代**由**京胡**改良发展而来……在**戏曲伴奏**中逐渐成为重要弦乐器」 |
+| 同期的另一条路 | 「上海大同乐会创制了一种中音拉弦乐器 —— 弓胡（仿古代乐器『提琴』的形制），未能流传下来」 |
+| 戏曲那边 | 「中胡亦于 20 世纪 30 年代由京胡改良发展而来……在戏曲伴奏中逐渐成为重要弦乐器」 |
 
  当一支乐队缺一个音区时，会有不止一个人、在不同的地方，同时去造同一件东西。
 上一页的[[instrument:gaohu|高胡]]是"两个人碰出来"（吕文成 ＋ 司徒梦岩）；
@@ -258,15 +258,15 @@ updated: 2026-09-28
 | high | [[instrument:gaohu\|Gaohu]] | ✅ filled (from Guangdong music) |
 | upper-middle | [[instrument:erhu\|Erhu]] | always there (but it is upper-middle, not middle) |
 | **middle** | **Zhonghu** | ✅ **this page: filled** ("indispensable") |
-| **bass** | dahu, dihu, **gehu**, laruan… | ❌ **still not filled** — the sources say these reforms "**still have deficiencies**", so "**most orchestras use the Western cello and double bass**" |
+| bass | dahu, dihu, gehu, laruan… | ❌ still not filled — the sources say these reforms "still have deficiencies", so "most orchestras use the Western cello and double bass" |
 
 **In the same gap-filling project, the middle succeeded and the bass still borrows from abroad.** This page
 puts the two side by side.
 
 | Classification | Value |
 |---|---|
-| **HS class** | **chordophone** · **bowed** · **definite pitch** |
-| **Sub-type** | **alto erhu** (same build as the erhu, every part larger: **box 15 cm long, 10.5 cm across the front** (round, python skin, sound window at the back) · **neck 86 cm** · thicker strings) · **tuned a fourth or fifth below the erhu** · dragon-head / bent-neck / flat-round / amplified-box variants |
+| HS class | chordophone · bowed · definite pitch |
+| Sub-type | alto erhu (same build as the erhu, every part larger: box 15 cm long, 10.5 cm across the front (round, python skin, sound window at the back) · neck 86 cm · thicker strings) · tuned a fourth or fifth below the erhu · dragon-head / bent-neck / flat-round / amplified-box variants |
 | **Family** | Chinese · bowed (the **middle register of the national orchestra**; also Jiangnan sizhu, Guangdong music, Yue opera) |
 | **Bayin** | **silk (丝)** |
 
@@ -367,9 +367,9 @@ puts the two side by side.
 | Account | Content |
 |---|---|
 | **1920s** | "created on the basis of the erhu in the **early 1920s**" |
-| **1930s, with a name** | "the famous instrument maker **Zhou Rongting** (1907–1975)… **to strengthen the middle register**, developed the alto bowed instrument on the erhu's basis — **today's zhonghu**" |
+| 1930s, with a name | "the famous instrument maker Zhou Rongting (1907–1975)… to strengthen the middle register, developed the alto bowed instrument on the erhu's basis — today's zhonghu" |
 | **1950s** | "reformed and made in about the **1950s**" |
-| **A parallel road** | "the Shanghai **Datong Music Society** created an alto bowed instrument, the **gonghu**… **it did not survive**" |
+| A parallel road | "the Shanghai Datong Music Society created an alto bowed instrument, the gonghu… it did not survive" |
 | **On the opera side** | "the zhonghu also **developed from the jinghu** in the **1930s**… becoming an important string instrument in opera accompaniment" |
 
  **When an ensemble lacks a register, more than one person, in more than one place, builds the same thing

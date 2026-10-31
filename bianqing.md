@@ -188,7 +188,7 @@ updated: 2026-09-26
 
 | 乐器 | 什么在振动 | 音高怎么定 | 能重来吗 | 八音 |
 |---|---|---|---|---|
-| **编磬** | **石片** | **磨**（大小 · 厚薄） | **不能（材料只减不增）** | **石** |
+| 编磬 | 石片 | 磨（大小 · 厚薄） | 不能（材料只减不增） | 石 |
 | [[instrument:bianzhong\|编钟]] | **青铜钟体** | **铸** | **能（可重熔再铸）** | 金 |
 | [[instrument:gong\|锣]] | 青铜板体 | 铸造时大致决定 | — | 金 |
 | [[instrument:guqin\|古琴]] | 弦 | 按弦 · 泛音 | 能（当场改） | 丝 |
@@ -412,7 +412,7 @@ Four cues:
 
 | Instrument | What vibrates | Pitch set by | Redoable? | Bayin |
 |---|---|---|---|---|
-| **Bianqing** | **stone slab** | **grinding** (size · thickness) | **no (material only decreases)** | **stone** |
+| Bianqing | stone slab | grinding (size · thickness) | no (material only decreases) | stone |
 | [[instrument:bianzhong\|Bianzhong]] | **bronze bell** | **casting** | **yes (recast)** | metal |
 | [[instrument:gong\|Gong]] | bronze plate | broadly at casting | — | metal |
 | [[instrument:guqin\|Guqin]] | strings | stopping · harmonics | yes (live) | silk |

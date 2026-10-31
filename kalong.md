@@ -118,7 +118,7 @@ updated: 2026-09-28
  <text x="476" y="336" text-anchor="middle" fill="#E8C547">转调办法：加半音装置 · 401 / 501 型（改琴）</text>
  </g>
  <text x="20" y="366" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64"> 同样的形状问题，两种成本观：一个花在手上，一个花在乐器上。</text>
- <text x="20" y="386" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">⚠️ 两图只示"形制与办法"，不按实际比例；扬琴见本批另页。</text>
+ <text x="20" y="386" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">⚠️ 两图只示"形制与办法"，不按实际比例；扬琴见另一页。</text>
 </svg>
 ```
 
@@ -140,8 +140,8 @@ updated: 2026-09-28
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **弹拨** · **有固定音高** |
-| **次级类型** | **中空扁梯形音箱**（左曲右直 · 状似左半张扬琴）· 面板开**圆形音孔 ＋ 花朵状音窗** · 面板两侧置**条码 · 活动码** · **十六至十八组钢丝弦（每组两弦同音）** · 右手拨片（木 / 竹）+ **左手铁制揉弦器「推抹」** |
+| HS 分类 | 弦鸣（Chordophone）· 弹拨 · 有固定音高 |
+| 次级类型 | 中空扁梯形音箱（左曲右直 · 状似左半张扬琴）· 面板开圆形音孔 ＋ 花朵状音窗 · 面板两侧置条码 · 活动码 · 十六至十八组钢丝弦（每组两弦同音） · 右手拨片（木 / 竹）+ 左手铁制揉弦器「推抹」 |
 | **所属族** | 中国 · 弹拨（**维吾尔族**：南疆麦盖提 · 巴楚 · 阿瓦提一带的刀郎木卡姆地区） |
 | **八音** | **丝** |
 
@@ -253,8 +253,8 @@ It is not only local: Turkey, the Arab countries and Uzbekistan have cousins und
 
 | Classification | Value |
 |---|---|
-| **HS class** | **chordophone** · **plucked** · **definite pitch** |
-| **Sub-type** | **hollow flat trapezoid body** (curved left, straight right) · **round sound hole with a flower-shaped window** · bar and movable bridges · **16–18 courses of steel strings, two strings per course** · plectrum (wood or bamboo) plus a **metal slider** in the left hand |
+| HS class | chordophone · plucked · definite pitch |
+| Sub-type | hollow flat trapezoid body (curved left, straight right) · round sound hole with a flower-shaped window · bar and movable bridges · 16–18 courses of steel strings, two strings per course · plectrum (wood or bamboo) plus a metal slider in the left hand |
 | **Family** | Chinese · plucked (**Uyghur**: the Dolan muqam country — Mekit, Bachu, Awat) |
 | **Bayin** | **silk (丝)** |
 :::

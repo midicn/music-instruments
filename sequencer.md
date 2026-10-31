@@ -29,7 +29,7 @@ sources:
  - **Buchla 123/146（1965）：世界第一台商用步进音序器** —— 「Don Buchla 于 1965 年完成第一个 Buchla 100 系列模块化系统，**内含世界上第一台商用步进音序器——最初为 8 步与 16 步模块（123 与 146）**」；「**Buchla 的音序器输出控制电压，可以被 patch 到任何目的地：音高、滤波截止、振幅**」； **「这是革命性的。不再提前编程完整作品，音乐家可以设定**通过模块化接线而**演化的循环图样**」—— **对照 tape-music 的「具体音乐」（提前剪接）：Buchla 的循环图样是「即兴的孪生兄弟」**
  - **Moog 960（1968）：确立步进音序器范式** —— 「三年后，Robert Moog 推出 **960 Sequential Controller**——**大量基于 Buchla 的设计但加了内置时钟**」；「**三排平行 × 每排八步，产生三路同时的控制电压序列**」；「**通过 962 Sequential Switch 链接多台 960，可以造出最多 24 步的图样**」→ **「960 确立了步进音序器范式：一排排旋钮每步一只 · 一只时钟步进 · 可调长度的循环 · 输出 CV 到合成器参数——这个格式影响了此后五十年的硬件音序器**」
  - **「限制成为美学」：Berlin School 的诞生** —— 「**Tangerine Dream、Klaus Schulze、Kraftwerk 围绕序列化的图样构建了整张专辑**」；「**Phaedra（1974）与 Rubycon（1975）里，催眠而演化的序列跑满整面唱片**」； **「限制成了美学。八或十六步，无限循环，用滤波与音高的微妙变化制造运动——**『柏林学派』的电子音乐**诞生于步进音序器的限制**」
- - **Phaedra 的漂移名场面（各站第四次「不精确=活」）** —— 「**除了预热后的温控环境，音准稳定性可能有问题。在 Phaedra 著名的开场里，音序器已经走音——可以清楚听到 Chris Franke 实时用耳朵重新调音**」→ **第四次记录**（Hammond key click · 电吉他回授 · Minimoog 漂移 · **Moog 960 走音的 Phaedra 开场**）——**而且这次是「实时听出来并当场救」——最活的一次**
+ - **Phaedra 的漂移名场面（其他条目第四次「不精确=活」）** —— 「**除了预热后的温控环境，音准稳定性可能有问题。在 Phaedra 著名的开场里，音序器已经走音——可以清楚听到 Chris Franke 实时用耳朵重新调音**」→ **第四次记录**（Hammond key click · 电吉他回授 · Minimoog 漂移 · **Moog 960 走音的 Phaedra 开场**）——**而且这次是「实时听出来并当场救」——最活的一次**
  - **Kraftwerk 的 motorik：把音序器开上高速公路** —— 「**Kraftwerk 在 1974 年专辑 Autobahn 上推进了音序器的应用——用模拟音序器（与 Minimoog 配对）生成标志性的 motorik beats——120–130 BPM 的重复 4/4 图样，模仿高速公路的持续脉动，定义了 krautrock 的电子美学**」
  - **Wendy Carlos 的复调重建** —— 「**Wendy Carlos 在 1968 年专辑 Switched-On Bach 里使用 Moog 960——用它的多排序列化精心重建巴赫的复调对位，通过分层模拟电压**」（ **对照 moog-modular 条：同一张专辑，乐器条讲「被接受」，音序器条讲「怎么做到的」——三排序列各管一个声部**）
  - **演奏中的音序器（三个活技巧）** —— 「**为避免无限重复序列的单调，先锋电子音乐人如 Tangerine Dream 的 Chris Franke 与 Michael Hoenig 会在演奏中实时操作这些开关——从序列中加入与丢掉音符和节拍**」；「**音高排可以被 patch 到两只以上按音程调音的振荡器，振荡器一次一个地混进混出**」（Phaedra · Rubycon · Ricochet · Encore · **Hoenig《Departure from the Northern Wasteland》**）；「**同步两台音序器并分别操作它们，可以立起**Steve Reich 式**的旋转复节奏相位图样**」； **Klaus Schulze 的移调法**：「**音序器的输出电压可以加到键盘控制器的输出电压上——后者用来现场移调整条序列**」（《Timewind》的 Bayreuth Return ·《Moondawn》的 Floating）
@@ -87,7 +87,7 @@ updated: 2026-10-04
  <text x="342" y="264" font-size="9" fill="#97C459"> 演化的循环图样（即兴的孪生兄弟）</text>
 
  <text x="20" y="294" font-size="10.5" fill="#E8C547"> 「柏林学派诞生于步进音序器的限制」—— 八或十六步无限循环，滤波在变，风景就在变</text>
- <text x="20" y="316" font-size="10" fill="#A9A49B">Phaedra 开场走音 · Chris Franke 实时用耳朵重新调音 —— 各站第四次「不精确=活」，最活的一次</text>
+ <text x="20" y="316" font-size="10" fill="#A9A49B">Phaedra 开场走音 · Chris Franke 实时用耳朵重新调音 —— 其他条目第四次「不精确=活」，最活的一次</text>
 
  <g font-family="system-ui,sans-serif" font-size="10.5" fill="#A9A49B">
  <text x="20" y="344" fill="#E8C547"> Kraftwerk Autobahn：motorik beats（120–130 BPM 重复 4/4）—— 无限循环第一次成为「公路」本身</text>
@@ -182,7 +182,7 @@ The music runs with nobody at the keys. The player's work happens before: each k
  <text x="342" y="264" font-size="9" fill="#97C459"> 演化的循环图样（即兴的孪生兄弟）</text>
 
  <text x="20" y="294" font-size="10.5" fill="#E8C547"> 「柏林学派诞生于步进音序器的限制」—— 八或十六步无限循环，滤波在变，风景就在变</text>
- <text x="20" y="316" font-size="10" fill="#A9A49B">Phaedra 开场走音 · Chris Franke 实时用耳朵重新调音 —— 各站第四次「不精确=活」，最活的一次</text>
+ <text x="20" y="316" font-size="10" fill="#A9A49B">Phaedra 开场走音 · Chris Franke 实时用耳朵重新调音 —— 其他条目第四次「不精确=活」，最活的一次</text>
 
  <g font-family="system-ui,sans-serif" font-size="10.5" fill="#A9A49B">
  <text x="20" y="344" fill="#E8C547"> Kraftwerk Autobahn：motorik beats（120–130 BPM 重复 4/4）—— 无限循环第一次成为「公路」本身</text>

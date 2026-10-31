@@ -20,8 +20,8 @@ instances:
   - pdmx-002549 | 《Lute Suite in E minor, BWV 996》—— 巴洛克鲁特琴组曲：同样是拨弦与按品，可对照维纳琴的固定品与横向拉弦（C1 · CC0）
   - giantmidi-004946 | 《A Night in India》—— 西方钢琴曲对印度的想象：听低音如何持续、旋律如何装饰，再回到维纳琴的四根主弦与三根节奏弦（C1 · CC-BY-4.0）
 sources:
-  - 萨拉斯瓦蒂维纳的形制、二十四品、四根主弦与三根 thala 弦、以手指拨弦与横向拉弦取滑音，参 Wikipedia "Veena" 与 The New Grove Dictionary of Music and Musicians "Vina" 条目；本文为原创表述
-  - 「veena」作为一类乐器名与萨拉斯瓦蒂维纳的区分、Carnatic 独奏传统，参 Grove "Vina" 与南印度音乐通行叙述；本文为原创表述
+  - 萨拉斯瓦蒂维纳的形制、二十四品、四根主弦与三根 thala 弦、以手指拨弦与横向拉弦取滑音，参 Wikipedia "Veena" 与 The New Grove Dictionary of Music and Musicians "Vina" 条目
+  - 「veena」作为一类乐器名与萨拉斯瓦蒂维纳的区分、Carnatic 独奏传统，参 Grove "Vina" 与南印度音乐通行叙述
   - 曲库无维纳琴录音，实例取 C1 的印度旋律、鲁特琴与钢琴曲作参照，逐条在 why 里写明取材角度
 updated: 2026-10-28
 ---

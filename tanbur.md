@@ -41,7 +41,7 @@ updated: 2026-09-28
 > 中间一根和内侧并列的两根是伴奏弦。」**
 > 定弦：**g · g · d¹ · g · g** —— **两条外弦同度（成一组），两条内弦同度，中间一条。**
 >
-> **本批第 ㊻ 条：【同一道题，两种解法 ——
+> **这组第 ㊻ 条：【同一道题，两种解法 ——
 > 热瓦甫"一弦主奏 ＋ 数弦陪响"，弹布尔"两弦成组主奏 ＋ 三弦伴奏"】**
 > 题目是一样的：一张琴上好几根弦，怎么让它们各有各的活？
 > 热瓦甫的答案是"一 vs 多"；弹布尔的答案是"分组"：
@@ -49,8 +49,8 @@ updated: 2026-09-28
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **弹拨** · **有固定音高** |
-| **次级类型** | **瓢形（半梨形）音箱**（整块桑木挖制 · **蒙薄木面板** · 开月牙形 / 水滴形音孔）· 细长琴杆（**以琴杆为指板** · 缠丝弦品 16–20 余个 · 另加竹片品）· **五根钢丝弦分三组** · 拨子（钢丝弯成尖形 · 卡于食指指甲缝） |
+| HS 分类 | 弦鸣（Chordophone）· 弹拨 · 有固定音高 |
+| 次级类型 | 瓢形（半梨形）音箱（整块桑木挖制 · 蒙薄木面板 · 开月牙形 / 水滴形音孔）· 细长琴杆（以琴杆为指板 · 缠丝弦品 16–20 余个 · 另加竹片品）· 五根钢丝弦分三组 · 拨子（钢丝弯成尖形 · 卡于食指指甲缝） |
 | **所属族** | 中国 · 弹拨（**维吾尔族 · 乌孜别克族**：最初流行南疆，18 世纪末传到北疆 · 东疆） |
 | **八音** | **丝** |
 
@@ -232,8 +232,8 @@ just ring." The tanbur lives in the same land — and gives a different answer.*
 
 | Classification | Value |
 |---|---|
-| **HS class** | **chordophone** · **plucked** · **definite pitch** |
-| **Sub-type** | **gourd-ladle (half-pear) soundbox** (carved from one block of mulberry · **thin wooden soundboard** · crescent or teardrop sound holes) · slender neck serving as the fingerboard (16–20-plus silk frets, plus bamboo frets) · **five steel strings in three groups** · plectrum of bent steel wire, **wedged in the fingernail** |
+| HS class | chordophone · plucked · definite pitch |
+| Sub-type | gourd-ladle (half-pear) soundbox (carved from one block of mulberry · thin wooden soundboard · crescent or teardrop sound holes) · slender neck serving as the fingerboard (16–20-plus silk frets, plus bamboo frets) · five steel strings in three groups · plectrum of bent steel wire, wedged in the fingernail |
 | **Family** | Chinese · plucked (**Uyghur, Uzbek**: southern Xinjiang first; to the north and east by the late 18th century) |
 | **Bayin** | **silk (丝)** |
 

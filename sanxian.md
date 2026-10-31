@@ -64,7 +64,7 @@ updated: 2026-09-26
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **拨弦** · **无品** |
+| HS 分类 | 弦鸣（Chordophone）· 拨弦 · 无品 |
 | **次级类型** | **鼓头（椭圆木框 · 两面蒙蟒皮）** + 竹制琴马 + **无品琴杆** + 三弦 · 三轸 · 侧抱于怀演奏 |
 | **所属族** | 中国 · 弹拨（戏曲与说唱伴奏的主力） |
 | **八音** | **丝** —— 以蚕丝为弦（今用金属或尼龙弦，归属沿用传统说法） |
@@ -220,7 +220,7 @@ updated: 2026-09-26
 
 | 乐器 | 弦 | 有品 / 柱 | 音箱 | 主要岗位 |
 |---|---|---|---|---|
-| **三弦** | 三 | **无** | **鼓状（两面蒙皮）** | **戏曲 · 说唱伴奏** |
+| 三弦 | 三 | 无 | 鼓状（两面蒙皮） | 戏曲 · 说唱伴奏 |
 | [[instrument:pipa\|琵琶]] | 四 | 有品 | 梨形（木板） | 独奏 · 主奏 |
 | [[instrument:ruan\|阮]] | 四 | 有品 | 圆形（木板） | 中音 · 和声 |
 | [[instrument:guqin\|古琴]] | 七 | **无** | 长方木体 | 独奏（文人） |
@@ -465,7 +465,7 @@ Four cues:
 
 | Instrument | Strings | Frets / bridges | Body | Main job |
 |---|---|---|---|---|
-| **Sanxian** | three | **none** | **drum-shaped, skinned both faces** | **opera · narrative song** |
+| Sanxian | three | none | drum-shaped, skinned both faces | opera · narrative song |
 | [[instrument:pipa\|Pipa]] | four | fretted | pear-shaped (wood) | solo · lead |
 | [[instrument:ruan\|Ruan]] | four | fretted | round (wood) | middle register · chords |
 | [[instrument:guqin\|Guqin]] | seven | **none** | rectangular wood | solo (literati) |

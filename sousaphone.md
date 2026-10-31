@@ -42,7 +42,7 @@ updated: 2026-09-26
 | 分类 | 归属 |
 |---|---|
 | **HS 分类** | **气鸣**（Aerophone）· **唇鸣**（lip-vibrated） |
-| **次级类型** | 深杯号嘴 · **三至四活塞** · 圆锥管**盘绕成环** · 喇叭口**朝前上方** |
+| 次级类型 | 深杯号嘴 · 三至四活塞 · 圆锥管盘绕成环 · 喇叭口朝前上方 |
 | **所属族** | 西洋 · 铜管（大号族 · 行进支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，苏萨号不在其中 |
 
@@ -209,7 +209,7 @@ tuba — **the difference is not pitch but where the sound goes.**
 | Classification | Value |
 |---|---|
 | **HS class** | **Aerophone** · **lip-vibrated** |
-| **Sub-type** | Deep cup mouthpiece · **three or four valves** · conical tube **coiled into a loop** · bell facing **forward and up** |
+| Sub-type | Deep cup mouthpiece · three or four valves · conical tube coiled into a loop · bell facing forward and up |
 | **Family** | Western · Brass (tuba family, marching branch) |
 | **Bayin** | Not applicable — a Chinese system; the sousaphone is outside it |
 

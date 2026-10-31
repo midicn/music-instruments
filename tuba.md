@@ -44,7 +44,7 @@ updated: 2026-09-26
 | 分类 | 归属 |
 |---|---|
 | **HS 分类** | **气鸣**（Aerophone）· **唇鸣**（lip-vibrated） |
-| **次级类型** | 深杯号嘴 · **四至六活塞** · **圆锥比例最大** · **管弦乐里按 C 调实音记谱** |
+| 次级类型 | 深杯号嘴 · 四至六活塞 · 圆锥比例最大 · 管弦乐里按 C 调实音记谱 |
 | **所属族** | 西洋 · 铜管（大号族 · 低音支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，大号不在其中 |
 
@@ -131,7 +131,7 @@ updated: 2026-09-26
 | [[instrument:trumpet\|小号]] | 第 2–8 次 | 较密 | 3 |
 | [[instrument:trombone\|长号]] | 第 2–6 次 | 中 | 0（滑管连续） |
 | [[instrument:french-horn\|圆号]] | 第 3–12 次 | 密（但管长） | 3（+ 拇指阀） |
-| **大号** | **第 1–5 次** | **极疏** | **4–6** |
+| 大号 | 第 1–5 次 | 极疏 | 4–6 |
 
 大号正好相反于圆号：它的管子最长，但工作在低泛音区，
 所以泛音稀疏、音准反而比圆号宽容（人对低音的容忍度也更大），
@@ -235,7 +235,7 @@ several more valves than a [[instrument:trumpet|trumpet]].
 | Classification | Value |
 |---|---|
 | **HS class** | **Aerophone** · **lip-vibrated** |
-| **Sub-type** | Deep cup mouthpiece · **four to six valves** · **largest conical proportion** · **written in C at pitch in the orchestra** |
+| Sub-type | Deep cup mouthpiece · four to six valves · largest conical proportion · written in C at pitch in the orchestra |
 | **Family** | Western · Brass (tuba family, bass branch) |
 | **Bayin** | Not applicable — a Chinese system; the tuba is outside it |
 
@@ -323,7 +323,7 @@ This rule generalises across the brass:
 | [[instrument:trumpet\|Trumpet]] | 2nd–8th | closer | 3 |
 | [[instrument:trombone\|Trombone]] | 2nd–6th | medium | 0 (continuous slide) |
 | [[instrument:french-horn\|Horn]] | 3rd–12th | close (but long tube) | 3 (+ thumb valve) |
-| **Tuba** | **1st–5th** | **very wide** | **4–6** |
+| Tuba | 1st–5th | very wide | 4–6 |
 
 The tuba is the horn's opposite: its tube is the longest, but it works in the lowest partials, so
 spacing is wide and intonation is actually more forgiving (the ear is tolerant down there too). The price is

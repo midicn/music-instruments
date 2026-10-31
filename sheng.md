@@ -61,7 +61,7 @@ updated: 2026-09-26
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **气鸣**（Aerophone）· **自由簧**驱动 · **簧管耦合** |
+| HS 分类 | 气鸣（Aerophone）· 自由簧驱动 · 簧管耦合 |
 | **次级类型** | 笙斗 + 笙苗（长短不一的竹管，上端音窗、下端指孔）+ 每苗一枚簧片 · 旁侧吹口 · **可吹可吸** |
 | **所属族** | 中国 · 吹管（**自由簧乐器的鼻祖**） |
 | **八音** | **匏** —— 笙斗最初以葫芦（匏）制 |
@@ -209,7 +209,7 @@ updated: 2026-09-26
 
 | 乐器 | 发声体 | 音高由谁定 | 吹吸皆鸣吗 | 八音 |
 |---|---|---|---|---|
-| **笙** | **自由簧（管为共鸣）** | **簧片** | **是** | **匏** |
+| 笙 | 自由簧（管为共鸣） | 簧片 | 是 | 匏 |
 | [[instrument:harmonica\|口琴]] | 自由簧 | 簧片 | **是** | （不适用） |
 | [[instrument:harmonium\|簧风琴]] | 自由簧 | 簧片 | 否（脚踏鼓风） | （不适用） |
 | [[instrument:accordion\|手风琴]] | 自由簧 | 簧片 | 否（手动风箱） | （不适用） |
@@ -260,7 +260,7 @@ updated: 2026-09-26
 匏这一类到此补齐（笙）。八音只剩最后一类：石 ——
 下一件换到石：[[instrument:bianqing|编磬]]。
 它与[[instrument:bianzhong|编钟]]是一对："金声玉振"讲的就是这两件，
-而它把本批的问题推到一个更硬的地方：
+而它把问题推到一个更硬的地方：
 被敲响的不是金属、不是膜、不是木，而是一块石头 —— 那么"音高"到底能被刻得多准？
 
 :::
@@ -287,7 +287,7 @@ And it solves a problem that looks impossible:
 
 | Classification | Value |
 |---|---|
-| **HS class** | **Aerophone** · **free-reed** driven · **reed–pipe coupling** |
+| HS class | Aerophone · free-reed driven · reed–pipe coupling |
 | **Sub-type** | wind chest (shengdou) + pipes (shengmiao: bamboo, outlet window above, finger hole below) + one reed per pipe · side mouthpiece · **blown and drawn** |
 | **Family** | Chinese · wind (**the ancestor of free-reed instruments**) |
 | **Bayin** | **gourd (匏)** — the wind chest was originally a gourd |
@@ -441,7 +441,7 @@ Four cues:
 
 | Instrument | What sounds | Pitch set by | Sounds blown & drawn? | Bayin |
 |---|---|---|---|---|
-| **Sheng** | **free reed (pipe couples)** | **the reed** | **yes** | **gourd** |
+| Sheng | free reed (pipe couples) | the reed | yes | gourd |
 | [[instrument:harmonica\|Harmonica]] | free reed | the reed | **yes** | (n/a) |
 | [[instrument:harmonium\|Reed organ]] | free reed | the reed | no (foot bellows) | (n/a) |
 | [[instrument:accordion\|Accordion]] | free reed | the reed | no (hand bellows) | (n/a) |

@@ -48,15 +48,15 @@ updated: 2026-09-27
 > 羌笛从来没有正式进过宫廷。唐代的「十部乐」里没有它 ——
 > 它「只是边塞中所见的乐器」，是士兵与山民自娱自乐的那一件。
 >
-> **本批第 ㊳ 条：【三种命运：进宫又下山（[[instrument:guanzi|管子]]）· 只在宫里（[[instrument:chi|篪]]）· 从未进宫（羌笛）】**
+> **这组第 ㊳ 条：【三种命运：进宫又下山（[[instrument:guanzi|管子]]）· 只在宫里（[[instrument:chi|篪]]）· 从未进宫（羌笛）】**
 > 管子从教坊"下沉"到民间 → 活到今天；篪一直留在雅乐 → 制度一停它只剩图谱；
 > 而羌笛始终在山里 —— 2000 年后，它进了第一批国家级非物质文化遗产名录。
 > 它没有"活下来"的惊险故事，因为它一直就在生活里。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **气鸣**（Aerophone）· **簧管**（每管一枚竹簧）· **双管** · **有固定音高** |
-| **次级类型** | **两支竹管并排**（削成方柱形 · 首中尾三处缠线）· **竖吹** · 管长 **13–19 厘米** · 每管 **6 孔**（孔距相等）· 上端竹簧哨（正面削平 · 刻簧 · **簧舌朝上**）· 涂漆烙花 · 吊红绸带 |
+| HS 分类 | 气鸣（Aerophone）· 簧管（每管一枚竹簧）· 双管 · 有固定音高 |
+| 次级类型 | 两支竹管并排（削成方柱形 · 首中尾三处缠线）· 竖吹 · 管长 13–19 厘米 · 每管 6 孔（孔距相等）· 上端竹簧哨（正面削平 · 刻簧 · 簧舌朝上）· 涂漆烙花 · 吊红绸带 |
 | **所属族** | 中国 · 吹管（**羌族**：四川阿坝茂县 · 黑水一带；羌语称「**切勒**」） |
 | **八音** | **竹** —— 以竹管制成 |
 
@@ -120,7 +120,7 @@ updated: 2026-09-27
 - 那一点点"律差"，加上双簧共振，正好造出天然的颤音 / 叠韵 ——
  「使得羌笛的声音更加悦耳 · 浑厚 · 动听，略带悲凉之感」。
 - 于是有了一句可以带走的规律："成双"不是为了更响，是为了"不齐"——
- 而那点不齐，就是它的音色签名。（本批的"成对"家族：双管 [[instrument:hulusi|葫芦丝]] 的副管 ·
+ 而那点不齐，就是它的音色签名。（"成对"家族：双管 [[instrument:hulusi|葫芦丝]] 的副管 ·
  双管[[instrument:guanzi|管子]] · 曾侯乙那对「雌雄箫」· 两支[[instrument:bawu|巴乌]]的对奏 ——
  每一对"成双"的答案都不一样，羌笛这一对答的是"不齐"。）
 - 另一处来自"相等"的误差：孔距必须相等，但「孔距相等，故『7』音稍低，而『4』音则稍高」——
@@ -258,24 +258,24 @@ updated: 2026-09-27
 
 | 乐器 | 管 | 驱动 | 关键差别 |
 |---|---|---|---|
-| **羌笛** | **双管** | 每管一枚**竹簧** | 本条；音域一个八度；**两管"不齐"成叠韵** |
+| 羌笛 | 双管 | 每管一枚竹簧 | 本条；音域一个八度；两管"不齐"成叠韵 |
 | [[instrument:dizi\|笛子]] | 单管 | 无簧（边棱音） | 「汉笛」；音域宽得多 —— 来源说羌笛「无法演奏汉笛的许多曲目」 |
 | [[instrument:chi\|篪]] | 单管（有底） | 无簧（边棱音） | 雅乐的路；与羌笛隔着"制度内外" |
 | [[instrument:guanzi\|管子]] | 单管 | **双簧** | 另一条"双"的路径：一支管上两片簧（哨片） |
 | [[instrument:hulusi\|葫芦丝]] | 3 管 | 自由簧 | 同有"双管以上的复音"思路，但它靠副管，羌笛靠两枚簧 |
-| **妹妹们** | 双管 | — | 同一形制在各民族的名字：贵州苗族「**姐妹箫**」· 凉山彝「**双马布**」· 湖南苗「**双唢呐**」· 云南彝「**双眼巴**」 |
+| 妹妹们 | 双管 | — | 同一形制在各民族的名字：贵州苗族「姐妹箫」· 凉山彝「双马布」· 湖南苗「双唢呐」· 云南彝「双眼巴」 |
 
  最后一行单独看：同一个"双管"形制，不同的民族各给它起了一个名字 ——
 而最美的那个来自苗族：「姐妹箫」。
 两支并排、同声、又不完全一样的管子 —— 他们管它叫两姐妹。
-（本批「名字史」因此写下第 ⑰ 条：同物异名 —— 名字里写着"他们各自看见了什么"。）
+（这组「名字史」因此写下第 ⑰ 条：同物异名 —— 名字里写着"他们各自看见了什么"。）
 
 ## 下一步
 
 吹管的最后一件，要用嘴"咬"着弹：
 
 口弦 —— 它小到可以藏进衣袋，靠一片簧在口腔里振动，
-口腔的形状就是它的音箱。多民族共有的小乐器，也是本批吹管段的收尾。
+口腔的形状就是它的音箱。多民族共有的小乐器，也是这组吹管段的收尾。
 
 [[instrument:kouxian|口弦]]。
 
@@ -304,8 +304,8 @@ In reality it is **two bamboo pipes side by side in the mountains of Aba, Sichua
 
 | Classification | Value |
 |---|---|
-| **HS class** | **aerophone** · **reed pipe** (one bamboo reed per pipe) · **double-piped** · **definite pitch** |
-| **Sub-type** | **two pipes side by side** (squared off, bound at head, middle and foot) · **vertical** · **13–19 cm** · **6 holes** per pipe (equally spaced) · reed mouthpiece (flattened, cut, **tongue upwards**) · lacquered, branded, red tassels |
+| HS class | aerophone · reed pipe (one bamboo reed per pipe) · double-piped · definite pitch |
+| Sub-type | two pipes side by side (squared off, bound at head, middle and foot) · vertical · 13–19 cm · 6 holes per pipe (equally spaced) · reed mouthpiece (flattened, cut, tongue upwards) · lacquered, branded, red tassels |
 | **Family** | Chinese · wind (**Qiang people**: Maoxian and Heishui, Aba, Sichuan; in Qiang, **"qiele"**) |
 | **Bayin** | **bamboo (竹)** |
 
@@ -512,7 +512,7 @@ Three cues:
 | [[instrument:chi\|Chi]] | single (footed) | none (edge) | the ritual path; inside the institution, where the Qiang flute stayed outside |
 | [[instrument:guanzi\|Guanzi]] | single | **double reed** | another route to "double": two reeds on one pipe |
 | [[instrument:hulusi\|Hulusi]] | 3 | free reed | also multi-voiced — but by drone pipes, not by two reeds |
-| **The sisters** | double | — | one form, many names: Miao "**sister flutes**", Liangshan Yi "**shuang mabu**", Hunan Miao "**double suona**" |
+| The sisters | double | — | one form, many names: Miao "sister flutes", Liangshan Yi "shuang mabu", Hunan Miao "double suona" |
 
  Read the last row alone: one double-pipe form, each people naming it differently —
 and the loveliest name comes from the Guizhou Miao: "sister flutes."

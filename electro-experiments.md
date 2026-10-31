@@ -32,7 +32,7 @@ sources:
  - **Rhythmicon（1931 · 第一台电子节奏机）** —— 「**1931 年 Henry Cowell 委托 Theremin 制造第一台电子节奏机，名为 Rhythmicon**」；「**Cowell 为它写了几部作品，他与 Schillinger 于 1932 年首演**」→ **「节奏机」这个门类（后来的 drum machine 一族）的第一块里程碑，出自特雷门发明人之手**
  - **更早的史前史（1874–1893）** —— 「**1874 年 Elisha Gray 的『音乐电报』**」；「**1881 年巴黎 Clément Ader 的 Théâtrophone**：用两条线把本地剧院的音乐传到两只电话听筒——称为 **『binauricular audition』，第一次经电话的『立体声』音乐会**」；「**1890 年 AT&T 放弃了一项音乐服务，承认音质困难**」；「**1893 年匈牙利人 Tivadar Puskás 创办『电话报』（Telefonhírmondó）**」→ **电话线传音乐这件事，Cahill 不是第一个想的——他是第一个造出乐器的**
  - **Novachord（1939 · 第一台商业化复音合成器）** —— 「Hammond 出品：**163 只真空管**、divide-down 振荡器链，**72 键全部同时发声**；每键九个可选真空管电路塑形波形 + 颤音系统；**空灵的弦乐般音色**」；「**1942 年因战时限制停产，只造了约 1000 台**」—— **Hammond 家族在音轮风琴之外，还悄悄造了第一台复音合成器**
- - **三次实验的「失败」各不相同（收口用）** —— **Telharmonium**：**太大了**（物理失败——技术对了，时代没跟上）· **Trautonium**：**太特殊了**（市场失败——音色奇、乐器难、只有 Sala 会玩）· **Rhythmicon**：**太早了**（需求失败——那时没人需要节奏机）→ **而它们留下的零件**：音轮（→ Hammond）· 拉带（→ 特雷门/马特诺/Ondes 丝带）· 节奏机（→ drum machine）—— **失败的巨人没有白倒，每一具骨架都被后来者拆去用了**
+ - **三次实验的「失败」各不相同** —— **Telharmonium**：**太大了**（物理失败——技术对了，时代没跟上）· **Trautonium**：**太特殊了**（市场失败——音色奇、乐器难、只有 Sala 会玩）· **Rhythmicon**：**太早了**（需求失败——那时没人需要节奏机）→ **而它们留下的零件**：音轮（→ Hammond）· 拉带（→ 特雷门/马特诺/Ondes 丝带）· 节奏机（→ drum machine）—— **失败的巨人没有白倒，每一具骨架都被后来者拆去用了**
  - 「Telharmonium 属**电机械**（音轮发电）；Trautonium 属**电鸣**（电子振荡 + 亚谐波）；Rhythmicon 属**电鸣**」依 Hornbostel–Sachs 分类
 updated: 2026-10-04
 ---
@@ -132,9 +132,9 @@ updated: 2026-10-04
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **电鸣**之下的**电机械**（Telharmonium 音轮发电）与**电鸣**（Trautonium/Rhythmicon 电子振荡） |
-| **范围** | ⭐⭐ **电子段前传汇总**：特雷门（1920）与马特诺（1928）之前的三次大实验——**三次全是「失败」或「险些失败」** |
-| **一句话** | ⭐⭐ **失败的巨人没有白倒——每一具骨架都被后来者拆去用了** |
+| HS 分类 | 电鸣之下的电机械（Telharmonium 音轮发电）与电鸣（Trautonium/Rhythmicon 电子振荡） |
+| **范围** | **电子段前传汇总**：特雷门（1920）与马特诺（1928）之前的三次大实验——**三次全是「失败」或「险些失败」** |
+| **一句话** | **失败的巨人没有白倒——每一具骨架都被后来者拆去用了** |
 | **八音对照** | 八音之外——**十九世纪末的电力时代** |
 
 :::
@@ -234,8 +234,8 @@ Three failures, three kinds: too big, too special, too early. The tonewheels wen
 
 | Class | Assignment |
 |---|---|
-| **HS class** | **electrophone**, sub-divided: **electromechanical**（the Telharmonium's tonewheels）and **electrophone proper**（the Trautonium's and Rhythmicon's electronic oscillation） |
-| **Scope** | ⭐⭐ **a pre-history roundup**: the three great experiments before the theremin（1920）and the Martenot（1928）— **all three failed, or nearly failed** |
-| **In one line** | ⭐⭐ **the failed giants did not fall in vain — every skeleton was cannibalised by what came after** |
+| HS class | electrophone, sub-divided: electromechanical（the Telharmonium's tonewheels）and electrophone proper（the Trautonium's and Rhythmicon's electronic oscillation） |
+| **Scope** | **a pre-history roundup**: the three great experiments before the theremin（1920）and the Martenot（1928）— **all three failed, or nearly failed** |
+| **In one line** | **the failed giants did not fall in vain — every skeleton was cannibalised by what came after** |
 | **Bayin note** | Outside the bayin — born in the age of electricity's first century |
 :::

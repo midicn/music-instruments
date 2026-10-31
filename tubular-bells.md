@@ -147,7 +147,7 @@ updated: 2026-09-26
 | 乐器 | 振动体 | 音高 | 余音 | 用途 |
 |---|---|---|---|---|
 | [[instrument:glockenspiel\|钟琴]] | 钢条 | 有 | 中 | 加亮、勾轮廓 |
-| **管钟** | **金属管** | **有** | **极长** | **模拟钟声** |
+| 管钟 | 金属管 | 有 | 极长 | 模拟钟声 |
 | [[instrument:celesta\|钢片琴]] | 钢片 | 有 | 中 | 玻璃般的音色 |
 | [[instrument:gong\|锣]] | 合金盘 | **无** | 极长 | 气氛与高潮 |
 | [[instrument:pan-flute\|排箫]] | **空气柱** | 有 | 短 | 旋律（**气鸣，不同类**） |
@@ -308,7 +308,7 @@ Four cues:
 | Instrument | Vibrating body | Pitch | Tail | Use |
 |---|---|---|---|---|
 | [[instrument:glockenspiel\|Glockenspiel]] | steel bars | yes | medium | brighten, outline |
-| **Tubular bells** | **metal tubes** | **yes** | **very long** | **imitate bells** |
+| Tubular bells | metal tubes | yes | very long | imitate bells |
 | [[instrument:celesta\|Celesta]] | steel plates | yes | medium | glassy colour |
 | [[instrument:gong\|Gong]] | alloy disc | **no** | very long | atmosphere, climax |
 | [[instrument:pan-flute\|Pan flute]] | **air column** | yes | short | melody (**aerophone, a different class**) |

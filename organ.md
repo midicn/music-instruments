@@ -187,7 +187,7 @@ updated: 2026-09-26
 
 | 乐器 | 发声体 | 键盘语义 | 延音 | 力度可控 |
 |---|---|---|---|---|
-| **管风琴** | **音管内的空气柱** | **开阀（按住即持续）** | **无限** | 不可（靠音栓） |
+| 管风琴 | 音管内的空气柱 | 开阀（按住即持续） | 无限 | 不可（靠音栓） |
 | [[instrument:piano\|钢琴]] | 弦 | 击打 | 衰减 | 可 |
 | [[instrument:celesta\|钢片琴]] | 钢片 | 击打 | 短 | 可 |
 | [[instrument:harmonium\|簧风琴]] | **自由簧** | 气流（脚踏风箱） | 持续 | 部分可 |
@@ -391,7 +391,7 @@ Four cues:
 
 | Instrument | Vibrating body | Key semantics | Sustain | Dynamics |
 |---|---|---|---|---|
-| **Organ** | **air columns in pipes** | **valve (hold = sustain)** | **unlimited** | no (stops instead) |
+| Organ | air columns in pipes | valve (hold = sustain) | unlimited | no (stops instead) |
 | [[instrument:piano\|Piano]] | strings | strike | decaying | yes |
 | [[instrument:celesta\|Celesta]] | steel plates | strike | short | yes |
 | [[instrument:harmonium\|Harmonium]] | **free reeds** | air (foot bellows) | sustained | partly |

@@ -121,9 +121,9 @@ MC-303 刚出来时，圈内有人嘲笑这类乐器，也嘲笑这个圈子的�
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **电鸣**（Electrophone · 音源+音序+控制面一体机 · 现场向）· **loop 为本** · **pattern-based** |
-| **出身** | ⭐⭐ **概念 1981（Movement Drum Computer）· Page R（1982）· 名字 1996（Roland MC-303）** |
-| **两个词** | ⭐⭐ **「live, loop-based」** · **「without interruption of the performance」** |
+| HS 分类 | 电鸣（Electrophone · 音源+音序+控制面一体机 · 现场向）· loop 为本 · pattern-based |
+| **出身** | **概念 1981（Movement Drum Computer）· Page R（1982）· 名字 1996（Roland MC-303）** |
+| **两个词** | **「live, loop-based」** · **「without interruption of the performance」** |
 | **八音对照** | 八音之外——**乐器第一次为「一台机器撑满一整场 set」而设计** |
 
 :::
@@ -214,8 +214,8 @@ Next door sits Akai's MPC: not a groovebox by classification, but serving a simi
 
 | Class | Assignment |
 |---|---|
-| **HS class** | **Electrophone**（sound source + sequencer + control surface, integrated · live-oriented）· **loop-based** · **pattern-based** |
-| **Origin** | ⭐⭐ **the concept 1981（Movement Drum Computer）· Page R（1982）· the name 1996（Roland MC-303）** |
-| **Two words** | ⭐⭐ **「live, loop-based」** · **「without interruption of the performance」** |
+| HS class | Electrophone（sound source + sequencer + control surface, integrated · live-oriented）· loop-based · pattern-based |
+| **Origin** | **the concept 1981（Movement Drum Computer）· Page R（1982）· the name 1996（Roland MC-303）** |
+| **Two words** | **「live, loop-based」** · **「without interruption of the performance」** |
 | **Bayin note** | Outside the bayin — **an instrument designed for 「one machine filling an entire set」** |
 :::

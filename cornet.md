@@ -42,7 +42,7 @@ updated: 2026-09-26
 | 分类 | 归属 |
 |---|---|
 | **HS 分类** | **气鸣**（Aerophone）· **唇鸣**（lip-vibrated） |
-| **次级类型** | 杯形号嘴（较深）· **三活塞阀** · **圆锥比例大于小号** · **降 B 调移调乐器** |
+| 次级类型 | 杯形号嘴（较深）· 三活塞阀 · 圆锥比例大于小号 · 降 B 调移调乐器 |
 | **所属族** | 西洋 · 铜管（小号族） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，短号不在其中 |
 
@@ -228,7 +228,7 @@ differs.
 | Classification | Value |
 |---|---|
 | **HS class** | **Aerophone** · **lip-vibrated** |
-| **Sub-type** | Cup mouthpiece (deeper) · **three piston valves** · **more conical than a trumpet** · **B♭ transposing instrument** |
+| Sub-type | Cup mouthpiece (deeper) · three piston valves · more conical than a trumpet · B♭ transposing instrument |
 | **Family** | Western · Brass (trumpet family) |
 | **Bayin** | Not applicable — a Chinese system; the cornet is outside it |
 

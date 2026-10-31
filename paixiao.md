@@ -53,14 +53,14 @@ updated: 2026-09-26
 > 河南博物院的研究写得很直接：「排箫在上古乐队中确实担任了调校音准的工作。」
 > —— 与曾侯乙编钟的音列一对照，「切合度」清晰可见。
 >
-> 本批第 ㉛ 条：【一管一音：把音阶拆成一排管子 —— 每根管都为它那一个音单独定做】
+> 这组第 ㉛ 条：【一管一音：把音阶拆成一排管子 —— 每根管都为它那一个音单独定做】
 > 而这份"独立"，也让调音变成了往管底塞蜡这种非常具体的手艺：
 > 「以蜜蜡实其底而增减之，则和。」（蔡邕，见《通典》）
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **气鸣**（Aerophone）· **边棱音** · **一管一音** · **有固定音高** |
-| **次级类型** | **13 根苦竹管**依次排列（曾侯乙）· **上端吹口平齐 · 下沿参差** · 三道竹夹缠缚 · **单翼形**（清代起有双翼）· 双手执持、左右移动吹奏 |
+| HS 分类 | 气鸣（Aerophone）· 边棱音 · 一管一音 · 有固定音高 |
+| 次级类型 | 13 根苦竹管依次排列（曾侯乙）· 上端吹口平齐 · 下沿参差 · 三道竹夹缠缚 · 单翼形（清代起有双翼）· 双手执持、左右移动吹奏 |
 | **所属族** | 中国 · 吹管（古籍称「箫」，韶乐「箫韶」的主奏乐器） |
 | **八音** | **竹** —— 以竹管制成 |
 
@@ -123,7 +123,7 @@ updated: 2026-09-26
  这就是它的全部"装配"。通体黑漆、朱绘绹纹与三角雷纹。
 3. 它是一对。 曾侯乙墓出土两件：形制相同、管长有别 —— 雄箫稍长、雌箫略短；
  来源说，古时「雌雄排箫常作合奏，互相衬托，有如男女声二重唱」。
- （本批的「名字史」因此有了第 ⑫ 条：成对的乐器，用"雌雄"命名。）
+ （「名字史」因此有了第 ⑫ 条：成对的乐器，用"雌雄"命名。）
 
 ## 一管一音：旋律是"走"出来的
 
@@ -169,13 +169,13 @@ updated: 2026-09-26
  调音用的是填塞纸粒 —— 同一思路的另一种材料。
 - 而曾侯乙排箫出土时的管底残存黄蜡，把这条工艺链直接接回了 2400 年前：
  「证实了我国古代确有用黄蜡调节音高的做法」。
- 若按本批第 ㉕ 条的"调音三动作"归类：蜡改的是有效管长 —— 属于"改几何"。
+ 若按这组第 ㉕ 条的"调音三动作"归类：蜡改的是有效管长 —— 属于"改几何"。
 
  而这个"需要被仔细调准"的乐器，在乐队里的岗位很特别 ——
 「排箫在上古乐队中确实担任了调校音准的工作」：
 与编钟音列一对照，「切合度」清晰可见；加上超吹可上移一到两个八度，
 它是「金石之乐的协调乐器」。
-一件乐器，同时是乐器与"量音的工具" —— 本批第 ㉛ 条的另一半，正在这里。
+一件乐器，同时是乐器与"量音的工具" —— 这组第 ㉛ 条的另一半，正在这里。
 
 ## 单凤翼，还是双凤翼
 
@@ -300,7 +300,7 @@ updated: 2026-09-26
 |---|---|---|---|
 | **排箫** | 一排 · 横向 | **一个** | 中国：13 管单翼（曾侯乙）；清代双翼按律 |
 | [[instrument:pan-flute\|排箫（西洋）]] | 一排 · 横向 | 一个 | 世界版：希腊潘笛 · nai · siku……（另一条目） |
-| [[instrument:sheng\|笙]] | 一束 · 竖向 | **多个**（和声） | 一簧一音 —— 本批第 ⑧ 条 |
+| [[instrument:sheng\|笙]] | 一束 · 竖向 | **多个**（和声） | 一簧一音 —— 这组第 ⑧ 条 |
 | [[instrument:xiao\|箫]] | 单管 · 竖吹 | 一个 | ⚠️ 先秦的「箫」指排箫，它后来居上 |
 | [[instrument:dizi\|笛子]] | 单管 · 横吹 | 一个 | 一管多音（指孔） |
 
@@ -339,8 +339,8 @@ And its luck lies there too — in 1978, two panpipes came out of the tomb of Ma
 
 | Classification | Value |
 |---|---|
-| **HS class** | **aerophone** · edge-blown · **one note per tube** · **definite pitch** |
-| **Sub-type** | **13 bitter-bamboo tubes** in a row (Zeng Hou Yi) · **level blowing edge, ragged lower ends** · three binding strips · **single wing** (double from the Qing) · held in both hands and moved sideways |
+| HS class | aerophone · edge-blown · one note per tube · definite pitch |
+| Sub-type | 13 bitter-bamboo tubes in a row (Zeng Hou Yi) · level blowing edge, ragged lower ends · three binding strips · single wing (double from the Qing) · held in both hands and moved sideways |
 | **Family** | Chinese · wind (called "xiao" in the classics; the lead instrument of the Shao music, "xiao-shao") |
 | **Bayin** | **bamboo (竹)** — made of bamboo tubes |
 

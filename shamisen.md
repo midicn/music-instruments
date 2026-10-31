@@ -22,7 +22,7 @@ instances:
 sources:
   - 三味线形制（三弦 · 皮膜琴身 · 无品长颈 · 拨子）与三种用法，参 Wikipedia 与 Grove 的 "Shamisen" 条目
   - 津轻三味线与高桥竹山，参 Grove 与 Groemer, The Spirit of Tsugaru
-  - 曲库曲库无三味线录音；本文为原创表述
+  - 曲库曲库无三味线录音
 updated: 2026-10-28
 ---
 

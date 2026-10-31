@@ -57,14 +57,14 @@ updated: 2026-09-26
 > 来源还有一句最硬的话：
 > 「某些场次的弦乐可暂歇，但锣鼓则需从头至尾贯穿始终。」
 >
-> 本批第 ㉚ 条：【戏曲把"调度"整个交给了一组不出旋律的乐器】 ——
+> 这组第 ㉚ 条：【戏曲把"调度"整个交给了一组不出旋律的乐器】 ——
 > 时间是它（节奏 · 板眼 · 起唱的"入头"）· 动作是它（身段 · 走边 · 开打）·
 > 情绪与上下场也是它（气氛 · 效果 · 场次转换）。
 > 一门综合艺术，把自己的"操作系统"，交给了一组打击乐。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **打击乐组合**（体鸣 ＋ 膜鸣）· 诸器均**无固定音高** · 以**锣鼓经**为谱 |
+| HS 分类 | 打击乐组合（体鸣 ＋ 膜鸣）· 诸器均无固定音高 · 以锣鼓经为谱 |
 | **次级类型** | 武场主奏 —— **鼓板（板鼓 ＋ 拍板）· 大锣 · 铙钹 · 小锣**；常配堂鼓 · 梆子等 |
 | **所属族** | 中国 · 戏曲（乐队「**场面**」的**武场**；各剧种编制不同） |
 | **八音** | **金 · 革 · 木** —— 一组乐器横跨三类材料（锣钹＝金 · 鼓＝革 · 板＝木） |
@@ -81,7 +81,7 @@ updated: 2026-09-26
 - 它分两半：文场（弦管乐，管唱）与武场（打击乐，管戏），合称「文武场」。
  两半各有头目：文场是琴师，武场是鼓师。
 - 早年整个文武场六到八个人，演奏上有兼职 ——
- 小乐器往往挂在某个人的手上（这一点，本批的[[instrument:pengling|碰铃]] · [[instrument:bangzi|梆子]]都领教过）。
+ 小乐器往往挂在某个人的手上（这一点，[[instrument:pengling|碰铃]] · [[instrument:bangzi|梆子]]都领教过）。
 
 武场的家当：单皮鼓 · 堂鼓 · 盆鼓 · 檀板 · 广东板 · 大锣 · 小锣 · 钹 · 小镲钹 · 大铙 · 碰钟 · 汤锣……
 但主奏只有四件：鼓板 · 大锣 · 小锣 · 钹 —— 其中鼓板又是领奏。
@@ -127,7 +127,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-四件主奏，各领一个岗位 —— 本批已经一件一件写过它们：
+四件主奏，各领一个岗位 —— 这组已经一件一件写过它们：
 
 | 乐器 | 岗位 | 它的那一页 |
 |---|---|---|
@@ -137,7 +137,7 @@ updated: 2026-09-26
 | **铙钹** | **密度**（填缝 · 底色） | [[instrument:naobo\|铙钹]] |
 | **小锣** | **语气**（人物 · 花点） | [[instrument:xiaoluo\|小锣]] |
 
- 这张表就是本批的收口：五件乐器，一个班组 ——
+ 这张表就是收口：五件乐器，一个班组 ——
 它干活的方式，是把"时间"切成一格一格，由一个人发令、三件合围、左手按下刻度。
 
 ## 锣鼓点：四个作用，三个岗位
@@ -148,7 +148,7 @@ updated: 2026-09-26
 |---|---|---|
 | 一 | **渲染感情** | 《**空城计**》诸葛亮念白时的「**乱锤**」：寻思 · 焦急 · 纷乱 |
 | 二 | **加强夸张 · 配合动作制造气氛** | —— |
-| 三 | **暗示环境 · 摹拟效果** | 夜深→轻击**堂鼓**；水声→轻击**大锣 · 铙钹**；门环声 · 箭声→**小锣** |
+| 三 | 暗示环境 · 摹拟效果 | 夜深→轻击堂鼓；水声→轻击大锣 · 铙钹；门环声 · 箭声→小锣 |
 | 四 | **强化节奏感**（动作舞蹈化 · 舞蹈音乐化） | 「**起霸**」成套：四击头 · 长尖 · 冲头 · 撕边一击 · 归位 |
 
 🔹 再按"岗"分，日常的说法是三类：
@@ -291,7 +291,7 @@ updated: 2026-09-26
 | [[instrument:tanggu\|堂鼓]] | **兼用** | 夜深 · 更鼓 · 大堂鼓击节（《霸王别姬》） |
 | [[instrument:bangzi\|梆子]] | **入列** | 梆子戏剧种：武场自带梆子 |
 
- 这张表就是本批十七条的落点：
+ 这张表就是这组十七条的落点：
 打击乐指挥打击乐 —— 而在这门艺术里，它调度的，是整台戏。
 
 ## 下一步
@@ -330,7 +330,7 @@ The last page asked how precise one instrument can be; this page asks the other 
 
 | Classification | Value |
 |---|---|
-| **HS class** | a **percussion ensemble** (idiophones + membranophones) · all **no definite pitch** · notated as **luogu-jing** |
+| HS class | a percussion ensemble (idiophones + membranophones) · all no definite pitch · notated as luogu-jing |
 | **Sub-type** | the four main players — **drum-and-board (bangu + paiban) · big gong · cymbals · small gong**; often plus tanggu, bangzi |
 | **Family** | Chinese · opera (the **wuchang** of the band, the **changmian**; line-ups vary by genre) |
 | **Bayin** | **metal · leather · wood (金·革·木)** — one band across three materials |
@@ -417,7 +417,7 @@ cells, with one to give orders, three to surround, and a left hand pressing down
 |---|---|---|
 | 1 | **Stirring emotion** | In **The Empty City**, the "**luan chui**" under Zhuge Liang's spoken lines: worry, urgency, confusion |
 | 2 | **Magnifying · supporting movement** | — |
-| 3 | **Suggesting place · imitating effect** | deep night → a soft **tanggu**; water → soft **big gong and cymbals**; door rings, arrows → **small gong** |
+| 3 | Suggesting place · imitating effect | deep night → a soft tanggu; water → soft big gong and cymbals; door rings, arrows → small gong |
 | 4 | **Reinforcing rhythm** (dance-like movement, musical dance) | the "**qiba**" pose-set: siji tou · changjian · chongtou · sibian yiji · guiwei |
 
 🔹 By post, players speak of three kinds:

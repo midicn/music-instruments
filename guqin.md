@@ -205,7 +205,7 @@ updated: 2026-09-26
 
 | 乐器 | 弦数 | 品 | 音高怎么变 | 八音 |
 |---|---|---|---|---|
-| **古琴** | 七 | **无** | **按弦（连续）· 徽位（泛音）** | **丝** |
+| 古琴 | 七 | 无 | 按弦（连续）· 徽位（泛音） | 丝 |
 | [[instrument:pipa\|琵琶]] | 四 | **有品** | 按品位（台阶） | 丝 |
 | [[instrument:erhu\|二胡]] | 二 | 无 | 按弦（连续），弓擦发声 | 丝 |
 | [[instrument:dizi\|笛子]] | — | 无 | 开闭指孔（气鸣） | 竹 |
@@ -247,7 +247,7 @@ updated: 2026-09-26
 八音这一批从丝开始，接下来按材料一组一组走：
 [[instrument:pipa|琵琶]]（丝）· [[instrument:erhu|二胡]]（丝）· [[instrument:dizi|笛子]]（竹）——
 最后到[[instrument:bianzhong|编钟]]（金）。
-它要回答的是本批最核心的问题：
+它要回答的是最核心的问题：
 把同一批乐器用"材料"分和用"什么在振动"分，会得到两张多么不同的地图？
 
 :::
@@ -428,7 +428,7 @@ Four cues:
 
 | Instrument | Strings | Frets | How pitch changes | Bayin |
 |---|---|---|---|---|
-| **Guqin** | seven | **none** | **stopping (continuous) · studs (harmonics)** | **silk** |
+| Guqin | seven | none | stopping (continuous) · studs (harmonics) | silk |
 | [[instrument:pipa\|Pipa]] | four | **fretted** | by fret (steps) | silk |
 | [[instrument:erhu\|Erhu]] | two | none | stopping (continuous), bowed | silk |
 | [[instrument:dizi\|Dizi]] | — | none | opening and closing holes (aerophone) | bamboo |

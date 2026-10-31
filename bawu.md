@@ -166,8 +166,8 @@ updated: 2026-09-27
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **气鸣**（Aerophone）· **自由簧** · 簧管耦合 · **有固定音高** |
-| **次级类型** | **单管**（约 26–28 厘米）· **三角形铜簧嵌于上端近节处一侧** · **8 个按音孔** · 上端封闭 · 下端敞口 · **细短者竖吹 · 粗长者横吹** |
+| HS 分类 | 气鸣（Aerophone）· 自由簧 · 簧管耦合 · 有固定音高 |
+| 次级类型 | 单管（约 26–28 厘米）· 三角形铜簧嵌于上端近节处一侧 · 8 个按音孔 · 上端封闭 · 下端敞口 · 细短者竖吹 · 粗长者横吹 |
 | **所属族** | 中国 · 吹管（**彝 · 哈尼 · 傣 · 佤 · 布朗 · 苗**等民族；云南红河 · 文山 · 西双版纳等地） |
 | **八音** | **竹** —— 以竹管制成 |
 
@@ -302,8 +302,8 @@ You can hear it in film scores now; the weeping under the tone comes from a very
 
 | Classification | Value |
 |---|---|
-| **HS class** | **aerophone** · **free reed** · reed-pipe coupling · **definite pitch** |
-| **Sub-type** | **single pipe** (about 26–28 cm) · **triangular bronze reed set into one side near the top node** · **8 finger holes** · closed top · open bottom · **short-thin vertical, thick-long transverse** |
+| HS class | aerophone · free reed · reed-pipe coupling · definite pitch |
+| Sub-type | single pipe (about 26–28 cm) · triangular bronze reed set into one side near the top node · 8 finger holes · closed top · open bottom · short-thin vertical, thick-long transverse |
 | **Family** | Chinese · wind (**Yi · Hani · Dai · Wa · Bulang · Miao** peoples; Honghe, Wenshan, Xishuangbanna, Yunnan) |
 | **Bayin** | **bamboo (竹)** — made of a bamboo pipe |
 :::

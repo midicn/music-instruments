@@ -19,7 +19,7 @@ instances:
   - mutopia-001737 | 同套《挪威歌曲与舞曲》的《Halling》，对照哈丁费德尔最常伴奏的 2/4 舞曲脉搏；曲库无哈丁费德尔录音（C1 · MUTOPIA-MIXED）
   - mutopia-001738 | 同套《Bruralaat》，婚礼调，对照这件乐器在仪式中的位置；曲库无哈丁费德尔录音（C1 · MUTOPIA-MIXED）
 sources:
-  - 形制、四主弦与四至五共鸣弦、1651 年最早存世乐器，参 Wikipedia "Hardanger fiddle" 与 Grove "Hardanger fiddle"；本文原创
+  - 形制、四主弦与四至五共鸣弦、1651 年最早存世乐器，参 Wikipedia "Hardanger fiddle" 与 Grove "Hardanger fiddle"
   - scordatura、舞曲类型与哈尔沃森《Norske Viser og Dandse》（1895），参 Grove 与 Mutopia 条目说明
   - 曲库无哈丁费德尔录音，实例取哈尔沃森据挪威曲调编配的小提琴与钢琴版，逐条在 why 说明
 updated: 2026-10-28

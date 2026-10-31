@@ -127,9 +127,9 @@ updated: 2026-10-04
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **气鸣**（Aerophone）· **簧鸣**（双簧）· **有固定音高** |
-| **范围** | ⭐⭐ 这一条是**[[instrument:guanzi\|管子]]的历史专题**，不引入新乐器，只把散在该条里的历史线索收拢成一条主线：**从龟兹牧人的乐器，到唐宋宫廷的「众器之首」**；⭐⭐ **它不只是一件乐器——它是隋唐宫廷的「定音标准」** |
-| **三个名字** | ⭐⭐ **筚篥**（龟兹语音译 · 魏晋至唐宋）→ **头管**（元明 · 众器之首的职位）→ **管子**（清代至今 · 器物）—— **三个名字就是三段历史** |
+| HS 分类 | 气鸣（Aerophone）· 簧鸣（双簧）· 有固定音高 |
+| 范围 | 这一条是[[instrument:guanzi\|管子]]的历史专题，不引入新乐器，只把散在该条里的历史线索收拢成一条主线：从龟兹牧人的乐器，到唐宋宫廷的「众器之首」；它不只是一件乐器——它是隋唐宫廷的「定音标准」 |
+| 三个名字 | 筚篥（龟兹语音译 · 魏晋至唐宋）→ 头管（元明 · 众器之首的职位）→ 管子（清代至今 · 器物）—— 三个名字就是三段历史 |
 | **八音** | **木**（管身多为木制或竹制） |
 
 :::
@@ -219,8 +219,8 @@ It travelled east in the same cargo as the sheng. The Shōsōin keeps a Tang pip
 
 | Class | Assignment |
 |---|---|
-| **HS class** | **Aerophone** · **double-reed** · **with definite pitch** |
-| **Scope** | ⭐⭐ **the history overview for [[instrument:guanzi]]** — no new instrument, only the historical threads from that entry gathered into one line; ⭐⭐ **it is not just an instrument — it was the pitch standard of the Sui-Tang court** |
-| **Three names** | ⭐⭐ **bili**（a transliteration from Kuchean · Wei-Jin through Tang-Song）→ **touguan**（"head pipe", Yuan-Ming — a post, not a thing）→ **guanzi**（Qing to now — the thing itself）— **three names, three chapters of history** |
+| HS class | Aerophone · double-reed · with definite pitch |
+| **Scope** | **the history overview for [[instrument:guanzi]]** — no new instrument, only the historical threads from that entry gathered into one line; **it is not just an instrument — it was the pitch standard of the Sui-Tang court** |
+| Three names | bili（a transliteration from Kuchean · Wei-Jin through Tang-Song）→ touguan（"head pipe", Yuan-Ming — a post, not a thing）→ guanzi（Qing to now — the thing itself）— three names, three chapters of history |
 | **Bayin** | **wood**（wooden or bamboo body） |
 :::

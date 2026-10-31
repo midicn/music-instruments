@@ -23,7 +23,7 @@ instances:
  - chinafolk-000887 | 《两条竹子直梆梆》 —— 「两」：**四根弦不是四个音，是两组同音** —— 1·3 弦同度、2·4 弦同度，弓毛分两股同时拉响（**C3 · 仅限学习研究**）
  - chinafolk-003924 | 《赶路》 —— 「路」：四胡「流行于**蒙古国东部与中国内蒙古 · 东北和华北**」，是**走路、赶路时的乐器**（**C3 · 仅限学习研究**）
 sources:
- - **名字与"矛盾"（本批第 56 条主线：一把弓，两个声部）**：「**四胡，因张 4 根弦故名**，亦称作**四股子 · 二夹弦**」；⚠️ 但**四根弦只发两个音**：「其中 **1、3 弦为同度音**，**2、4 弦为同度音**，**两组弦**以**四或五度**定弦」—— **名字没撒谎（确实是四根弦），但"四"和"音"是两回事**
+ - **名字与"矛盾"（一把弓，两个声部）**：「**四胡，因张 4 根弦故名**，亦称作**四股子 · 二夹弦**」；⚠️ 但**四根弦只发两个音**：「其中 **1、3 弦为同度音**，**2、4 弦为同度音**，**两组弦**以**四或五度**定弦」—— **名字没撒谎（确实是四根弦），但"四"和"音"是两回事**
  - **一把弓两股毛（最该记住的一条）**：「**鬃弓分作两股**夹入其间，**同时拉响两组弦**」；「**弓毛的两股马尾分别穿过一、二弦和三、四弦的中间**，**弓子向外靠就是拉外弦，向内靠就是拉内弦**」—— **这不是"四根弦各拉各的"，而是一支弓同时出声**
  - **弓长有出入**：「**琴弓长 75 厘米**、马尾分成两股」（另一来源记 60 厘米）—— ⚠️ **各家数据有出入，这一条不硬取单一数字**
  - **形制（与二胡同源而加粗加长）**：「源于古代**奚琴**，蒙古族称其为**胡尔 · 朝勒**或**四弦**，《**律吕正义后编**》则称之『**提琴**』」；形制「与**二胡相同**，琴杆用红木或乌木制，**略长而粗**，置**四轴**，琴头**平顶无饰**，琴筒为木制，有**圆筒形 · 六角形 · 八角形**之分，**一端蒙以羊皮或蟒皮**」
@@ -47,14 +47,14 @@ updated: 2026-10-03
 > 「**四胡，因张 4 根弦故名**，亦称作四股子 · 二夹弦。」
 > 「其中 **1、3 弦为同度音**，2、4 弦为同度音，两组弦以四或五度定弦。」
 
- 本批第 56 条：【一把弓，两个声部 —— "四"是弦的数目，不是音的数目】
+ 【一把弓，两个声部 —— "四"是弦的数目，不是音的数目】
 
 ## 一把弓怎么同时拉响两组弦
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **拉弦**（弓擦）· **有固定音高** |
-| **次级类型** | **拉弦**（木制琴筒：**圆筒形 · 六角形 · 八角形** · 一端蒙**羊皮或蟒皮** · 琴杆红木或乌木、**比二胡略长而粗** · **四轴** · 琴头**平顶无饰**）· **四根弦分两组同音** · **弓毛分两股**同时拉响两组 · 两组之间**纯五度** |
+| HS 分类 | 弦鸣（Chordophone）· 拉弦（弓擦）· 有固定音高 |
+| 次级类型 | 拉弦（木制琴筒：圆筒形 · 六角形 · 八角形 · 一端蒙羊皮或蟒皮 · 琴杆红木或乌木、比二胡略长而粗 · 四轴 · 琴头平顶无饰）· 四根弦分两组同音 · 弓毛分两股同时拉响两组 · 两组之间纯五度 |
 | **所属族** | 中国 · 拉弦（源于古代**奚琴** · **蒙古族与汉族共有** · 三路定弦分属不同唱腔传统） |
 | **八音** | **丝** |
 
@@ -138,8 +138,8 @@ updated: 2026-10-03
 | 名称 | 外弦 | 内弦 | 用在什么场合 |
 |---|---|---|---|
 | **蒙古高音四胡** | **a¹** | **d²** | 蒙古族音乐，音较高 |
-| **二人台四胡** | **g¹** | **c²** | 为**二人台**伴奏 |
-| **蒙古中音四胡** | **#f¹** | **b¹** | 老艺人在"**丝弦坐唱**"时自拉自唱 |
+| 二人台四胡 | g¹ | c² | 为二人台伴奏 |
+| 蒙古中音四胡 | #f¹ | b¹ | 老艺人在"丝弦坐唱"时自拉自唱 |
 
  为什么会这样？ 研究文献里说得非常直接：
 
@@ -386,7 +386,7 @@ apart. But different places tune it differently:
 | Name | Outer | Inner | Used for |
 |---|---|---|---|
 | **Mongolian high-pitched sihu** | **a¹** | **d²** | Mongolian music, higher |
-| **Er ren tai sihu** (Inner Mongolia) | **g¹** | **c²** | accompanying **er ren tai** |
+| Er ren tai sihu (Inner Mongolia) | g¹ | c² | accompanying er ren tai |
 | **Mongolian mid-range sihu** | **#f¹** | **b¹** | old artists' own singing in "silk-string seated singing" |
 
  Why? The research literature is unusually direct:
@@ -473,8 +473,8 @@ travelling singing style at once.
 
 | Class | Assignment |
 |---|---|
-| **HS class** | **Chordophone** · **bowed** (friction with a bow) · **with definite pitch** |
-| **Sub-type** | **bowed** (wooden sound box, round / hexagonal / octagonal · **sheep or python skin** at one end · neck of redwood or ebony, **longer and thicker** than the erhu · **four pegs** · flat undecorated head) · **four strings** in **two unison pairs** · **the bow hair split in two**, sounding both groups at once · the two groups a **perfect fifth** apart |
+| HS class | Chordophone · bowed (friction with a bow) · with definite pitch |
+| Sub-type | bowed (wooden sound box, round / hexagonal / octagonal · sheep or python skin at one end · neck of redwood or ebony, longer and thicker than the erhu · four pegs · flat undecorated head) · four strings in two unison pairs · the bow hair split in two, sounding both groups at once · the two groups a perfect fifth apart |
 | **Family** | China · bowed strings (**descends from the ancient xiqin** · shared by the **Mongolian and Han** peoples · three sets of tunings across different song traditions) |
 | **Bayin** | **silk** |
 

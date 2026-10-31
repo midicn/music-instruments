@@ -244,7 +244,7 @@ updated: 2026-09-26
 | [[instrument:organ\|管风琴]] | 空气柱 | 机械鼓风 | 不可移动 | C2–C7 |
 | [[instrument:harmonium\|簧风琴]] | 自由簧 | 脚踏 | 较重 | C2–C6 |
 | [[instrument:accordion\|手风琴]] | 自由簧 | 左臂手动 | 便携 | F3–A6 |
-| **口琴** | 自由簧 | **呼吸** | **口袋** | **C4–C7** |
+| 口琴 | 自由簧 | 呼吸 | 口袋 | C4–C7 |
 
 同一原理（自由簧）的四种送气方式：
 机械 · 脚 · 手臂 · 呼吸 ——
@@ -499,7 +499,7 @@ Four cues:
 | [[instrument:organ\|Organ]] | air columns | mechanical blower | immovable | C2–C7 |
 | [[instrument:harmonium\|Harmonium]] | free reeds | foot | heavy | C2–C6 |
 | [[instrument:accordion\|Accordion]] | free reeds | left arm | portable | F3–A6 |
-| **Harmonica** | free reeds | **breath** | **pocket-sized** | **C4–C7** |
+| Harmonica | free reeds | breath | pocket-sized | C4–C7 |
 
 One principle (free reed), four ways of supplying air: machine · foot · arm · breath — the more
 "personal" the air supply, the smaller and more portable the instrument, and the narrower its range and volume.

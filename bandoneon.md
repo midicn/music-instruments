@@ -19,7 +19,7 @@ instances:
   - pdmx-002562 | 皮亚佐拉《Café 1930》—— 《探戈的历史》中的慢乐章，对照班多钮在抒情线条里的呼吸与叹息；曲库无班多钮录音（C1 · CC0）
   - pdmx-002553 | 皮亚佐拉《Prologue (Tango Apasionado)》—— 舞台探戈的序曲，听低音与切分怎样搭起探戈的骨架；曲库无班多钮录音（C1 · CC0）
 sources:
-  - 形制、双音键钮（bisonoric）、十九世纪德国起源与 Heinrich Band 的命名传统，参 Wikipedia "Bandoneon" 与 Grove "Bandoneon"；本文原创
+  - 形制、双音键钮（bisonoric）、十九世纪德国起源与 Heinrich Band 的命名传统，参 Wikipedia "Bandoneon" 与 Grove "Bandoneon"
   - 班多钮进入布宜诺斯艾利斯与探戈乐团的历史、皮亚佐拉的改革，参 Grove "Piazzolla, Astor" 与探戈研究通行叙述；发明者与最早年代按学界保留
   - 曲库无班多钮录音，实例取 C1 的皮亚佐拉探戈作品作参照，逐条在 why 说明
 updated: 2026-10-28

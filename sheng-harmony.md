@@ -24,7 +24,7 @@ instances:
  - chinafolk-008797 | 《满江红调（一）》 —— 「传统和声」：笙「在传统乐曲的演奏常会**叠加上五度、上八度或下四度和声**，称之为**传统和声**」→ **笙的"和"不是随手叠的，是规定好的三个音程**（**C3 · 仅限学习研究**）
 sources:
  - **本页是[[instrument:sheng|笙]]的技法与声学专题**，不引入新乐器，只把散在该条里的技术线索收拢成三条主线：**① 吹吸皆鸣** ② **传统和声的三个音程** ③ **簧片原理西传 —— 口琴与手风琴的祖先**
- - **主线一 · 吹吸皆鸣（本批最该记住的一条）** —— 「有别于一般吹管乐器，笙**吹、吸皆可发音**，故有不少特殊的演奏技巧」； **这意味着两件事**：**① 换气不等于停**（吸气时也在出声，乐句可以不断）· **② 每根簧片两个方向都能响** → 「**簧片可独立振动而不受管体约束**」—— 这正是它后来能"变成"口琴与手风琴的物理前提
+ - **主线一 · 吹吸皆鸣（最该记住的一条）** —— 「有别于一般吹管乐器，笙**吹、吸皆可发音**，故有不少特殊的演奏技巧」； **这意味着两件事**：**① 换气不等于停**（吸气时也在出声，乐句可以不断）· **② 每根簧片两个方向都能响** → 「**簧片可独立振动而不受管体约束**」—— 这正是它后来能"变成"口琴与手风琴的物理前提
  - **笙是世界上最早使用自由簧的乐器**：「笙是世界上最早使用**自由簧**的乐器，也是**世界上现存大多数簧片乐器的鼻祖**」； **音乐学家库尔特·萨克斯《乐器史》开篇**：「**风琴和簧管风琴的自由簧并非欧洲的发明。它来自中国这个自由簧的伟大故乡，至少两千年前，它就以口弦乐器'笙'的形式存在了……**」—— **这是乐器学奠基人把整本书的第一句话让给了笙**
  - **主线二 · 传统和声的三个音程（本页最实用的一段）** —— 「笙在传统乐曲的演奏常会**叠加上五度、上八度或下四度和声**，称之为**传统和声**」； **这三个音程不是随便选的**：**上五度** = 泛音列第二分音之上的第一个新音（最自然的协和）· **上八度** = 同音的重复（最干净）· **下四度** = 上五度的转位（低八度里的那个五度）→ **三个音程全部来自泛音列本身 —— 笙的"和"是从一根管的自然泛音里长出来的，不是从欧洲和声学里学来的**
  - **"一簧一音"与复调能力**：「笙的独特之处在于其『**一簧一音**』的发声原理与自由簧结构，使其能**同时演奏多个音符**，具备**和声与复调**表现力，这在中国民族乐器中独树一帜」； **在现代笙上**：「演奏者可通过气息控制与指法配合，**同时呈现旋律、和声与低音伴奏**，使笙的表现力**堪比西洋乐器中的管风琴**」依专题类资料
@@ -41,7 +41,7 @@ sources:
  - **音色的四个区（本段少见地分了四档）**：「笙的音色**明亮甜美**，**高音清脆透明，中音柔和丰满，低音浑厚低沉**，音量较大」； **而且它还有一层"调和"功能**：「在和其他乐器合奏的时候，能起到**调和乐队音色、丰富乐队音响**的作用」→ **大型的民族管弦乐队里，笙有时要用到高音、中音和低音三种笙** —— 和声乐器天生就分声部
  - **现代形制与音域**：「经改良后簧数扩展至**二十一至三十六簧**」；现代国乐团多用**三十六簧笙**取代传统笙，并设**高音笙**（G3–F♯6）·**中音笙**（C3–B5）·**次中音笙**（G2–F♯5）·**低音笙**（C2–G4）依百科类资料
  - **技法清单（吹吸带来的特殊技巧）**：笙的演奏技巧「约可分为**气息类颤音**（舌颤音 · 腹颤音 · 喉颤音 · **胸腹式气颤音**，以末者最常用）、**口内技术**（吐音 · 花舌 · **呼舌** · 舌阻音 · 顿气 · 剁气）、**手指技术**（指颤音 · 点顿音 · 刮奏 · 捂音）」； **其中「呼舌」为笙独有技巧**； 「花舌又分**细花舌、粗花舌、爆花舌**等种类」； **"最明显的比如葫芦丝、巴乌、竹笛等管乐，都用笙的技巧——双吐、三吐等"** → **笙的技巧传遍了整个吹管家族**依百科类资料
- - **"和"的文化线（收口用）**：「笙跨越三千年的生命轨迹，生动诠释了**『和』这一核心精神的永恒魅力**。它是礼乐文明中『**音声相和**』的技艺载体，是『**与人和**』『**与天和**』的文化象征」； 《诗经·小雅·鹿鸣》：「**我有嘉宾，鼓瑟吹笙。吹笙鼓簧，承筐是将**」依专题类资料
+ - **"和"的文化线**：「笙跨越三千年的生命轨迹，生动诠释了**『和』这一核心精神的永恒魅力**。它是礼乐文明中『**音声相和**』的技艺载体，是『**与人和**』『**与天和**』的文化象征」； 《诗经·小雅·鹿鸣》：「**我有嘉宾，鼓瑟吹笙。吹笙鼓簧，承筐是将**」依专题类资料
  - 「笙属八音中的**匏**」依通行资料
 updated: 2026-10-04
 ---
@@ -58,8 +58,8 @@ updated: 2026-10-04
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **气鸣**（Aerophone）· **簧鸣**（自由簧）· **有固定音高** |
-| **范围** | 只讲**[[instrument:sheng\|笙]]的技法与声学**，不引入新乐器。散在笙那条里的技术线索，在这里收成三条主线：**① 吹吸皆鸣** ② **传统和声的三个音程** ③ **簧片原理西传** |
+| HS 分类 | 气鸣（Aerophone）· 簧鸣（自由簧）· 有固定音高 |
+| 范围 | 只讲[[instrument:sheng\|笙]]的技法与声学，不引入新乐器。散在笙那条里的技术线索，在这里收成三条主线：① 吹吸皆鸣 ② 传统和声的三个音程 ③ 簧片原理西传 |
 | **两派速记** | **吹吸皆鸣**：换气不等于停。｜ **传统和声 = 上五度 + 上八度 + 下四度**，三个音程全部来自泛音列本身。 |
 | **八音** | **匏**。记的是出身：早期笙斗用葫芦，今天的笙斗已是铜的。 |
 
@@ -207,7 +207,7 @@ updated: 2026-10-04
 | 西传时间线 | 波斯 → 1740 怀尔德 → 1777 阿米奥《论中国音乐》→ 1780 克拉岑斯坦改风琴簧 → 1810 格雷尼埃簧片风琴 → **口琴、手风琴、簧管风琴相继问世** |
 | 萨克斯的定论 | 《乐器史》开篇：「**风琴和簧管风琴的自由簧并非欧洲的发明。它来自中国这个自由簧的伟大故乡**」 |
 | 笙与竽 | **「竽，笙之大者」**（笙小簧少 / 竽大簧多，东汉记竽 36 簧）→ 宋代「**只有笙色而无竽色**」→ **绑死在雅乐上的竽退场了，什么都伴奏的笙活下来** |
-| 最早实物 | **曾侯乙笙**（约前 433 年，6 支，**2400 多年前**）：**簧数 14/16/18 偶数**（古籍全记奇数 13/17/19）；**竹簧的调音方法与铜簧完全一样** |
+| 最早实物 | 曾侯乙笙（约前 433 年，6 支，2400 多年前）：簧数 14/16/18 偶数（古籍全记奇数 13/17/19）；竹簧的调音方法与铜簧完全一样 |
 | 亚洲家族 | 盛唐东传日本（正仓院存唐制 17 管笙竽）→ **日本笙 Shō 能奏 11 和弦** · 韩国 Saenghwang · 老挝泰国 Khaen · 印尼 Genggong |
 | 音色 | 「**高音清脆透明 · 中音柔和丰满 · 低音浑厚低沉**」+ **调和乐队音色**（大乐队用高/中/低三种笙） |
 | 八音 | **匏**（ **记出身**：早期笙斗用葫芦；唐代以后改木制，最后铜斗取代木斗） |
@@ -297,8 +297,8 @@ on blow and draw, the three intervals of traditional harmony, and the free reed'
 
 | Class | Assignment |
 |---|---|
-| **HS class** | **Aerophone** · **free-reed** · **with definite pitch** |
-| **Scope** | **the technique and acoustics overview for [[instrument:sheng]]** — no new instrument, only the technical threads from that entry gathered into three main lines: **① sounding on blow and draw** ② **the three intervals of traditional harmony** ③ **the free reed's journey west — ancestor of the harmonica and accordion** |
+| HS class | Aerophone · free-reed · with definite pitch |
+| Scope | the technique and acoustics overview for [[instrument:sheng]] — no new instrument, only the technical threads from that entry gathered into three main lines: ① sounding on blow and draw ② the three intervals of traditional harmony ③ the free reed's journey west — ancestor of the harmonica and accordion |
 | **In short** | **blow and draw both sound**（breathing does not stop the sound）｜ **traditional harmony = fifth above + octave above + fourth below**（all three come from the harmonic series itself） |
 | **Bayin** | **gourd**（ **a record of origin** — early sheng used a gourd wind-chest; today's is bronze） |
 
@@ -439,7 +439,7 @@ repertoire retires with it.** The sheng survived because it accompanied everythi
 | The westward line | Persia → 1740 Wilde → 1777 Amiot《论中国音乐》→ 1780 Kratzenstein → 1810 Grenié → **harmonica, accordion and reed organ follow** |
 | Sachs' verdict | the opening of the History: 「**风琴和簧管风琴的自由簧并非欧洲的发明。它来自中国这个自由簧的伟大故乡**」 |
 | Sheng and yu | **「竽，笙之大者」**（sheng small and few-reeded / yu large and many-reeded, 36 reeds in the Han record）→ Song: 「**只有笙色而无竽色**」→ **the yu, tied to ritual music, retired; the sheng, accompanying everything, survived** |
-| Earliest finds | **the Zeng Houyi sheng**（c. 433 BC, six specimens, **2,400+ years old**）: **14/16/18 reeds — even**（the texts record odd numbers）; **bamboo reeds tuned exactly like bronze ones** |
+| Earliest finds | the Zeng Houyi sheng（c. 433 BC, six specimens, 2,400+ years old）: 14/16/18 reeds — even（the texts record odd numbers）; bamboo reeds tuned exactly like bronze ones |
 | Asian family | Tang-era arrival in Japan（the Shōsōin keeps Tang 17-tube sheng and yu）→ **the Japanese shō sounds 11-note chords** · Korean saenghwang · Lao-Thai khaen · Indonesian genggong |
 | Tone | 「**高音清脆透明 · 中音柔和丰满 · 低音浑厚低沉**」+ **it colours and binds the orchestra**（high / middle / low sheng in the big ensemble） |
 | Bayin | **gourd**（ **a record of origin**: early chest was a gourd; wood after the Tang; bronze finally replaced wood） |

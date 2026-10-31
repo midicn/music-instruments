@@ -103,8 +103,8 @@ updated: 2026-09-28
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **拉弦**（弓擦）· **有固定音高** |
-| **次级类型** | **高音二胡**（琴筒比二胡**小** · 皮膜与音窗通常**圆形** · 传统粤式**龙头圆琴筒无底座**）· 两弦 · **定弦 G4—D5（比二胡高四度）** · **坐奏 · 大腿夹筒** |
+| HS 分类 | 弦鸣（Chordophone）· 拉弦（弓擦）· 有固定音高 |
+| 次级类型 | 高音二胡（琴筒比二胡小 · 皮膜与音窗通常圆形 · 传统粤式龙头圆琴筒无底座）· 两弦 · 定弦 G4—D5（比二胡高四度） · 坐奏 · 大腿夹筒 |
 | **所属族** | 中国 · 拉弦（**广东音乐 · 粤剧**的当家；又名**粤胡**） |
 | **八音** | **丝** |
 
@@ -178,8 +178,8 @@ The repertoire follows. Lü's Step by Step stacks dense triplets while the woodb
 
 | Classification | Value |
 |---|---|
-| **HS class** | **chordophone** · **bowed** · **definite pitch** |
-| **Sub-type** | **soprano erhu** (smaller box · usually **round** skin and sound window · traditional Cantonese form: **dragon-head round box, no base**) · two strings · **tuned G4–D5, a fourth above the erhu** · played **seated, box gripped between the legs** |
+| HS class | chordophone · bowed · definite pitch |
+| Sub-type | soprano erhu (smaller box · usually round skin and sound window · traditional Cantonese form: dragon-head round box, no base) · two strings · tuned G4–D5, a fourth above the erhu · played seated, box gripped between the legs |
 | **Family** | Chinese · bowed (the lead of **Guangdong music and Cantonese opera**; also called **yuehu**) |
 | **Bayin** | **silk (丝)** |
 :::

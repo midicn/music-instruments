@@ -20,8 +20,8 @@ instances:
   - cyberhymnal-000000 | 《O Sing to the Lord Whose Bountiful Hand》—— 管风琴的持续音：与坦布拉一样提供不中断的背景，但一个是按键、一个是拨弦后的余响（C1 · PD）
   - giantmidi-004946 | 《A Night in India》—— 西方钢琴曲对印度的想象：听低音如何持续、上方如何装饰，再对照坦布拉「只做低音与泛音」的极简分工（C1 · CC-BY-4.0）
 sources:
-  - 坦布拉的四弦定音、以空弦拨奏提供持续音、jawari 琴桥与 jiva 线产生泛音，参 Wikipedia "Tanpura" 与 The New Grove Dictionary of Music and Musicians "Tanpura" 条目；本文为原创表述
-  - 米拉杰（Miraj）制琴传统与电子坦布拉的替代现象，参 Grove "Tanpura" 与印度音乐研究通行叙述；本文为原创表述
+  - 坦布拉的四弦定音、以空弦拨奏提供持续音、jawari 琴桥与 jiva 线产生泛音，参 Wikipedia "Tanpura" 与 The New Grove Dictionary of Music and Musicians "Tanpura" 条目
+  - 米拉杰（Miraj）制琴传统与电子坦布拉的替代现象，参 Grove "Tanpura" 与印度音乐研究通行叙述
   - 曲库无坦布拉录音，实例取 C1 的印度旋律、持续音管风琴与钢琴曲作参照，逐条在 why 里写明取材角度
 updated: 2026-10-28
 ---

@@ -46,7 +46,7 @@ updated: 2026-10-04
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **电鸣**（Electrophone · DCO 数字控制振荡 + 模拟滤波放大——**混合架构**）· **六声部复音** · **单 DCO/声部 + 合唱** |
+| HS 分类 | 电鸣（Electrophone · DCO 数字控制振荡 + 模拟滤波放大——混合架构）· 六声部复音 · 单 DCO/声部 + 合唱 |
 | **出身** | **Juno-6（1982-05）→ Juno-60（1982-09）→ Juno-106（1984）**——**以罗马天空之神的妻子命名**（Jupiter 旗舰的精简分支） |
 | **两个数字** | **第一批卖到 $2000 以下的复音合成器** · **Juno-106 = 史上最畅销合成器之一** |
 | **八音对照** | 八音之外——**「稳」字当头的八十年代** |
@@ -149,7 +149,7 @@ Juno 把「噪声」也做成「可爱」——**
 | 问 | 答 |
 |---|---|
 | 最要紧的一条 | **DCO 让合成器第一次「不出走」**——「传统 VCO 在高温下容易走音……新的 DCO 完全可靠」； **「第一台可以带上舞台放心演奏而知道不会走音的模拟复音合成器」** |
-| 对照 Minimoog | **同一问题两种答案**：Minimoog **拥抱漂移**（肥厚签名）· Juno **消灭漂移**（稳当卖点）； **能标准化的先标准化，标准化不了的才是性格** |
+| 对照 Minimoog | 同一问题两种答案：Minimoog 拥抱漂移（肥厚签名）· Juno 消灭漂移（稳当卖点）； 能标准化的先标准化，标准化不了的才是性格 |
 | 数字控制的准确含义 | **「数字的是钟，模拟的是嗓」**——DCO 数字稳定但**产生真正的模拟输出、没有数字阶梯感**（对照 Prophet-5 的混合架构，Juno 把混合做进了振荡器层） |
 | 合唱 | **每声部一只 DCO + 内置合唱增肥**——**用效果替代第二只振荡器**；「开启了可能是有史以来最著名、最被追逐的合唱的传承」 |
 | 三兄弟 | **Juno-6（1982）→ Juno-60（56 patch + DCB）→ Juno-106（MIDI + 128 patch）**； **DCB 是 MIDI 的直接前身**（先有方言再有语言） |
@@ -226,7 +226,7 @@ made the synthesizer stay in tune.**
 
 | Class | Assignment |
 |---|---|
-| **HS class** | **Electrophone**（DCO digitally controlled + analog filter and amp — **hybrid**）· **six-voice polyphony** · **one DCO per voice + chorus** |
+| HS class | Electrophone（DCO digitally controlled + analog filter and amp — hybrid）· six-voice polyphony · one DCO per voice + chorus |
 | **Origin** | **Juno-6（1982-05）→ Juno-60（1982-09）→ Juno-106（1984）** — **named for the wife of the Roman sky-god**（the slimmed branch of the Jupiter flagships） |
 | **Two numbers** | **the first polysynths sold under $2,000** · **the Juno-106 = one of the best-selling synths of all time** |
 | **Bayin note** | Outside the bayin — **the eighties, built on 「stability」** |
@@ -334,7 +334,7 @@ the Juno made its 「noise」 into something 「lovely」 —
 | Q | A |
 |---|---|
 | The key point | **DCO made the synthesizer stay in tune** — 「传统 VCO 容易走音……新的 DCO 完全可靠」; **「第一台可以带上舞台放心演奏而知道不会走音的模拟复音合成器」** |
-| Against the Minimoog | **one question, two answers**: the Minimoog **embraced drift**（fat signature）· the Juno **eliminated drift**（stability as selling point）; **standardize what can be standardized; what cannot is character** |
+| Against the Minimoog | one question, two answers: the Minimoog embraced drift（fat signature）· the Juno eliminated drift（stability as selling point）; standardize what can be standardized; what cannot is character |
 | What 「digital」 means | **the clock is digital; the voice is analog** — DCOs are digitally stable but **produce true analog output, no digital stepping**（the Juno pushed the hybrid into the oscillator layer） |
 | The chorus | **one DCO per voice + built-in chorus fattening** — **effect substituted for second oscillator**; 「开启了可能是有史以来最著名、最被追逐的合唱的传承」 |
 | Three brothers | **Juno-6 → Juno-60（56 patches + DCB）→ Juno-106（MIDI + 128）**; **DCB was MIDI's direct predecessor**（dialect first, language later） |

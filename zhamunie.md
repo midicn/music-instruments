@@ -41,7 +41,7 @@ updated: 2026-09-28
 > 所以「札木聂」的意思是「声音悦耳的琴」。
 > （藏文写作 སྒྲ་སྙན་，威利转写 sgra snyan。）
 
- 本批第 ㊾ 条：【名字是一句评价 —— 它说的不是"我像什么"，而是"我好不好听"】
+ 这组第 ㊾ 条：【名字是一句评价 —— 它说的不是"我像什么"，而是"我好不好听"】
 
 | 名字 | 它说的是 |
 |---|---|
@@ -52,12 +52,12 @@ updated: 2026-09-28
 | [[instrument:dutar\|都塔尔]] | **规格**（两条弦） |
 | **札木聂** | **评价**（悦耳） |
 
-本批此前所有的名字都在"描述"它，只有这一个在"夸"它。
+这组此前所有的名字都在"描述"它，只有这一个在"夸"它。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **弹拨** · **有固定音高** |
-| **次级类型** | **"切开的葫芦"形音箱**（上部较小呈棱形 · 下部较大呈椭圆形 · **蒙羊皮 / 蟒皮 / 山羊皮 / 獐子皮或鱼皮**）· **长琴杆 · 无品** · **六弦两弦一组分三组**（按四度 / 四五度定弦）· 执拨子（牛角等）弹奏 · 常置肩上或席地 |
+| HS 分类 | 弦鸣（Chordophone）· 弹拨 · 有固定音高 |
+| 次级类型 | "切开的葫芦"形音箱（上部较小呈棱形 · 下部较大呈椭圆形 · 蒙羊皮 / 蟒皮 / 山羊皮 / 獐子皮或鱼皮）· 长琴杆 · 无品 · 六弦两弦一组分三组（按四度 / 四五度定弦）· 执拨子（牛角等）弹奏 · 常置肩上或席地 |
 | **所属族** | 中国 · 弹拨（**藏族**：西藏 · 青海 · 四川 · 云南 · 甘肃各藏区） |
 | **八音** | **丝** |
 
@@ -105,7 +105,7 @@ updated: 2026-09-28
  与[[instrument:dutar|都塔尔]]（16–18 品）· [[instrument:tanbur|弹布尔]]（16–20 余品）· [[instrument:dombra|冬不拉]]（8–10 余品）放在一起看，格外显眼：
  同是长颈弹拨，别人按"格"取音，它靠指下的连续位置。
 2. 六弦分三组。 「相邻两弦各为一组，分三组」（每组两弦）——
- 这是本批"弦的分工"的第五种分法（前四：[一 vs 多] · [分组] · [旋律＋底] · [外弦＋内弦]）。
+ 这是这组"弦的分工"的第五种分法（前四：[一 vs 多] · [分组] · [旋律＋底] · [外弦＋内弦]）。
 3. 部件有藏语名。 共鸣箱「藏族俗称『池塘』」——
  一件乐器在本地话里，有自己的叫法。
 
@@ -161,7 +161,7 @@ updated: 2026-09-28
 - "它只是伴奏。" ⚠️ 也可独奏，独奏曲目多为歌舞伴奏曲（《阿妈勒火》《达娃雄奴》《耶几长木》）；
  且弹唱形式本身已是国家级非遗。
 - "名字是音译的空壳。" ⚠️ 恰恰相反：它的名字是有意思的 ——
- 「声音悦耳的琴」；本批唯一一个"评价式"的名字。
+ 「声音悦耳的琴」；这组唯一一个"评价式"的名字。
 
 ## 音色与听辨
 
@@ -221,8 +221,8 @@ opinion.**
 
 | Classification | Value |
 |---|---|
-| **HS class** | **chordophone** · **plucked** · **definite pitch** |
-| **Sub-type** | **"cut-open gourd" body** (small rhomboid upper part, large oval lower part · **sheep, python, goat, deer or fish skin**) · **long, fretless neck** · **six strings in three pairs** (fourths tuning) · a horn plectrum · shoulder-held or seated |
+| HS class | chordophone · plucked · definite pitch |
+| Sub-type | "cut-open gourd" body (small rhomboid upper part, large oval lower part · sheep, python, goat, deer or fish skin) · long, fretless neck · six strings in three pairs (fourths tuning) · a horn plectrum · shoulder-held or seated |
 | **Family** | Chinese · plucked (**Tibetan**: Tibet, Qinghai, Sichuan, Yunnan, Gansu) |
 | **Bayin** | **silk (丝)** |
 

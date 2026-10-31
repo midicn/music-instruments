@@ -58,7 +58,7 @@ updated: 2026-09-26
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **气鸣**（Aerophone）· **双簧**驱动 · **圆锥管** |
+| HS 分类 | 气鸣（Aerophone）· 双簧驱动 · 圆锥管 |
 | **次级类型** | 哨（苇制双簧）+ 气牌 + 侵子（铜芯）+ **木制圆锥管身（八孔，前七后一）** + **铜碗（喇叭口）** |
 | **所属族** | 中国 · 吹管（**外来乐器** · 与[[instrument:shawm|肖姆管]]同族） |
 | **八音** | **木** —— 按木制管身归类（但见上：它是**后加入**的乐器） |
@@ -128,12 +128,12 @@ updated: 2026-09-26
     <text x="525" y="124" fill="#E8C547">唢呐</text><text x="525" y="148">吹打 · 锣鼓</text>
   </g>
   <text x="20" y="222" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">音量不是音质问题 —— 它是「这件乐器打算让多少人听见」的问题。</text>
-  <text x="20" y="244" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">这也是为什么「社会出身」与「音量」在本批里几乎总是一起出现。</text>
+  <text x="20" y="244" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">这也是为什么「社会出身」与「音量」在这组里几乎总是一起出现。</text>
   <text x="20" y="266" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">编钟 · 编磬属于第四种：音量服务于固定的仪式空间。</text>
 </svg>
 ```
 
-这张图把本批的一条暗线摆到了明面上：
+这张图把一条暗线摆到了明面上：
 一件乐器的音量，基本就是它的社会半径。
 
 - 最小的那一头：[[instrument:guqin|古琴]]（弹给自己听）· [[instrument:xiao|箫]]（书斋独处）·
@@ -194,7 +194,7 @@ updated: 2026-09-26
 
 | 乐器 | 发声体 | 管形 | 音量 | 场合 |
 |---|---|---|---|---|
-| **唢呐** | **双簧（苇制哨片）** | **木制圆锥管 + 铜碗** | **极大** | **户外 · 婚丧 · 吹打** |
+| 唢呐 | 双簧（苇制哨片） | 木制圆锥管 + 铜碗 | 极大 | 户外 · 婚丧 · 吹打 |
 | [[instrument:shawm\|肖姆管]] | 双簧 | 木制圆锥管 | 大 | 中世纪户外 |
 | [[instrument:oboe\|双簧管]] | 双簧 | 木制圆锥管（细） | 中 | 管弦乐团 |
 | [[instrument:crumhorn\|克鲁姆管]] | 双簧 + **风帽** | 木管 | **小**（被风帽封住） | 室内 |
@@ -271,7 +271,7 @@ outside it?**
 
 | Classification | Value |
 |---|---|
-| **HS class** | **Aerophone** · **double-reed** driven · **conical bore** |
+| HS class | Aerophone · double-reed driven · conical bore |
 | **Sub-type** | reed (a double reed of cane) + air disc + staple (bronze) + **wooden conical body (eight holes, seven front, one back)** + **bronze bell** |
 | **Family** | Chinese · wind (**an import**, related to the [[instrument:shawm|shawm]]) |
 | **Bayin** | **wood (木)** — by its wooden body (but see above: **a latecomer**) |
@@ -411,7 +411,7 @@ Four cues:
 
 | Instrument | Sound source | Bore | Volume | Venue |
 |---|---|---|---|---|
-| **Suona** | **double reed (cane)** | **conical, wood + bronze bell** | **enormous** | **open air · ceremonies** |
+| Suona | double reed (cane) | conical, wood + bronze bell | enormous | open air · ceremonies |
 | [[instrument:shawm\|Shawm]] | double reed | conical, wood | loud | medieval open air |
 | [[instrument:oboe\|Oboe]] | double reed | conical, wood (narrow) | medium | orchestra |
 | [[instrument:crumhorn\|Crumhorn]] | double reed + **wind cap** | wood | **tiny** (capped) | chamber |

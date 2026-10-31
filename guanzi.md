@@ -164,8 +164,8 @@ updated: 2026-09-27
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **气鸣**（Aerophone）· **双簧** · 圆柱形管身 · **有固定音高** |
-| **次级类型** | **管哨**（苇制双簧哨）＋ **铜制锥形侵子**（固定哨片 · 调节音高）＋ **硬木圆柱管身**（红木 · 檀木 · 乌木 · 花梨）· **八孔（前七后一）** · 大中小 · 双管 · 加键管 |
+| HS 分类 | 气鸣（Aerophone）· 双簧 · 圆柱形管身 · 有固定音高 |
+| 次级类型 | 管哨（苇制双簧哨）＋ 铜制锥形侵子（固定哨片 · 调节音高）＋ 硬木圆柱管身（红木 · 檀木 · 乌木 · 花梨）· 八孔（前七后一） · 大中小 · 双管 · 加键管 |
 | **所属族** | 中国 · 吹管（前身**筚篥**，出自西域龟兹；今以中国北方为主，多民族共用） |
 | **八音** | **竹** —— 元明文献记「以竹为管」（明代起改木制） |
 
@@ -293,8 +293,8 @@ In 1962 the erhu player Huang Haihuai heard it in Guangzhou and transplanted it;
 
 | Classification | Value |
 |---|---|
-| **HS class** | **aerophone** · **double reed** · cylindrical bore · **definite pitch** |
-| **Sub-type** | **reed (double, on a reed-stem)** ＋ **bronze conical **qinzi** ** (holds the reed and **tunes**) ＋ **hardwood cylindrical body** (rosewood, sandalwood, ebony…) · **eight holes (seven front, one back)** · small/mid/large · double · keyed |
+| HS class | aerophone · double reed · cylindrical bore · definite pitch |
+| Sub-type | reed (double, on a reed-stem) ＋ bronze conical qinzi  (holds the reed and tunes) ＋ hardwood cylindrical body (rosewood, sandalwood, ebony…) · eight holes (seven front, one back) · small/mid/large · double · keyed |
 | **Family** | Chinese · wind (from the **bili** of Kucha; today mainly north China, shared across peoples) |
 | **Bayin** | **bamboo (竹)** — Yuan–Ming texts: "bamboo for the pipe" (wood from the Ming on) |
 :::

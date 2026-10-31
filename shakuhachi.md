@@ -21,7 +21,7 @@ instances:
   - essen-009677 | 《Sakura》—— 单声部日本民谣，没有尺八：听五声骨架与句尾停顿，想尺八怎样用 meri 压句尾（C1 · OPEN；无尺八录音）
 sources:
   - 尺八形制、meri / kari 与普化宗制度史，参 Wikipedia 与 Grove 的 "Shakuhachi" 条目及 De Ferranti, The Japanese Shakuhachi
-  - 曲库无尺八录音；本文为原创表述
+  - 曲库无尺八录音
 updated: 2026-10-28
 ---
 

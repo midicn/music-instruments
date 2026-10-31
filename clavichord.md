@@ -176,7 +176,7 @@ updated: 2026-09-26
 |---|---|---|---|---|---|
 | [[instrument:piano\|钢琴]] | 击弦（毡槌） | **可** | 不可 | 大 | A0–C8 |
 | [[instrument:harpsichord\|大键琴]] | 拨弦 | 不可 | 不可 | 中 | F1–F6 |
-| **击弦古钢琴** | 击弦（铜片） | **可** | **可（Bebung）** | **极小** | C2–C6 |
+| 击弦古钢琴 | 击弦（铜片） | 可 | 可（Bebung） | 极小 | C2–C6 |
 | [[instrument:organ\|管风琴]] | 气流 | 不可 | 不可（但可持续） | 极大 | C2–C7 |
 
 四种键盘乐器，"可控性"的组合各不相同：
@@ -368,7 +368,7 @@ Four cues:
 |---|---|---|---|---|---|
 | [[instrument:piano\|Piano]] | struck (felt) | **yes** | no | large | A0–C8 |
 | [[instrument:harpsichord\|Harpsichord]] | plucked | no | no | medium | F1–F6 |
-| **Clavichord** | struck (tangent) | **yes** | **yes (Bebung)** | **tiny** | C2–C6 |
+| Clavichord | struck (tangent) | yes | yes (Bebung) | tiny | C2–C6 |
 | [[instrument:organ\|Organ]] | air | no | no (but sustains) | huge | C2–C7 |
 
 Four keyboards, four different combinations of controllability: the piano and the clavichord control

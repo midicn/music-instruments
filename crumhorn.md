@@ -185,7 +185,7 @@ updated: 2026-09-26
 
 | 乐器 | 簧的位置 | 管身 | 音量 | 力度 |
 |---|---|---|---|---|
-| **克鲁姆管** | **封在风帽内** | 圆锥 · **折弯** | **小** | **不可控** |
+| 克鲁姆管 | 封在风帽内 | 圆锥 · 折弯 | 小 | 不可控 |
 | [[instrument:shawm\|肖姆管]] | 唇直接含簧 | 圆锥 · 直 · 粗 | 大 | 基本可控 |
 | [[instrument:racket\|拉凯特管]] | 封在风帽内 | 圆锥 · **折成柱** | 小 | 不可控 |
 | [[instrument:oboe\|双簧管]] | 唇直接含簧 | 圆锥 · 细 | 中 | 可控 |
@@ -388,7 +388,7 @@ Four cues:
 
 | Instrument | Where the reed sits | Bore | Volume | Dynamics |
 |---|---|---|---|---|
-| **Crumhorn** | **sealed in a cap** | conical · **folded** | **quiet** | **none** |
+| Crumhorn | sealed in a cap | conical · folded | quiet | none |
 | [[instrument:shawm\|Shawm]] | in the lips | conical · straight · wide | loud | largely controllable |
 | [[instrument:racket\|Racket]] | sealed in a cap | conical · **folded to a column** | quiet | none |
 | [[instrument:oboe\|Oboe]] | in the lips | conical · narrow | moderate | controllable |

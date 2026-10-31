@@ -20,8 +20,8 @@ instances:
   - groove-000010 | 放克鼓组循环 —— 两件鼓的现代镜像：低音鼓守拍、军鼓答话；塔布拉鼓把同一分工做成两只手、两只鼓（C1 · CC-BY-4.0）
   - giantmidi-004946 | 《A Night in India》—— 西方钢琴曲对印度的想象：听旋律怎样被装饰、低音怎样持续，再想塔布拉鼓在这套语法里承担什么（C1 · CC-BY-4.0）
 sources:
-  - 塔布拉鼓的成对形制、dayan 与 bayan 的分工、syahi 结构与 bols 体系，参 Wikipedia "Tabla" 与 The New Grove Dictionary of Music and Musicians "Tabla" 条目；两派源流（阿米尔·胡斯劳传说与 18 世纪成形说）并录，正文标明传说性质；本文为原创表述
-  - 六大学派（Delhi · Ajrada · Lucknow · Farrukhabad · Banaras · Punjab）与 theka / lehara 的用法，参 Grove "Tabla" 与 Bor, The Raga Guide 导论；本文为原创表述
+  - 塔布拉鼓的成对形制、dayan 与 bayan 的分工、syahi 结构与 bols 体系，参 Wikipedia "Tabla" 与 The New Grove Dictionary of Music and Musicians "Tabla" 条目；两派源流（阿米尔·胡斯劳传说与 18 世纪成形说）并录，正文标明传说性质
+  - 六大学派（Delhi · Ajrada · Lucknow · Farrukhabad · Banaras · Punjab）与 theka / lehara 的用法，参 Grove "Tabla" 与 Bor, The Raga Guide 导论
   - 曲库无塔布拉鼓录音，实例取 C1 的印度旋律与鼓组循环作参照，逐条在 why 里写明取材角度
 updated: 2026-10-28
 ---

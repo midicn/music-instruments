@@ -57,7 +57,7 @@ updated: 2026-09-26
 | 分类 | 归属 |
 |---|---|
 | **HS 分类** | **气鸣**（Aerophone）· **双簧 + 圆锥管 + 风帽 + 折叠管身** |
-| **次级类型** | 竖吹 · 双簧哨片**封在风帽内** · **圆锥管在短柱内反复折返** · 指孔经**斜钻通道**通向内部管腔 · 小喇叭口 |
+| 次级类型 | 竖吹 · 双簧哨片封在风帽内 · 圆锥管在短柱内反复折返 · 指孔经斜钻通道通向内部管腔 · 小喇叭口 |
 | **所属族** | 西洋 · 木管（双簧管族 · 早期支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，拉凯特管不在其中 |
 
@@ -186,7 +186,7 @@ updated: 2026-09-26
 
 | 乐器 | 管子怎么折 | 外形 | 音区 | 力度 |
 |---|---|---|---|---|
-| **拉凯特管** | **折成柱**（多个来回） | **极短** | 低音 | **不可控**（风帽） |
+| 拉凯特管 | 折成柱（多个来回） | 极短 | 低音 | 不可控（风帽） |
 | [[instrument:crumhorn\|克鲁姆管]] | 折一次（J 形） | 短 | 中高音 | 不可控（风帽） |
 | [[instrument:shawm\|肖姆管]] | 不折 | 长 | 中高音 | 基本可控 |
 | [[instrument:bassoon\|巴松]] | 折一次（U 形）+ 键系 | 中 | 低音 | 可控 |
@@ -262,7 +262,7 @@ length" and "physical size".**
 | Classification | Value |
 |---|---|
 | **HS class** | **Aerophone** · **double reed + conical bore + wind cap + folded bore** |
-| **Sub-type** | Vertical · double reed **in a wind cap** · **conical bore folded back and forth inside a short column** · finger holes via **angled channels** to the internal bores · small bell |
+| Sub-type | Vertical · double reed in a wind cap · conical bore folded back and forth inside a short column · finger holes via angled channels to the internal bores · small bell |
 | **Family** | Western · Woodwinds (oboe family, early branch) |
 | **Bayin** | Not applicable — a Chinese system; the racket is outside it |
 
@@ -390,7 +390,7 @@ Four cues:
 
 | Instrument | How the bore is folded | Size | Register | Dynamics |
 |---|---|---|---|---|
-| **Racket** | **into a column** (many turns) | **tiny** | bass | **none** (wind cap) |
+| Racket | into a column (many turns) | tiny | bass | none (wind cap) |
 | [[instrument:crumhorn\|Crumhorn]] | once (J) | short | middle–high | none (wind cap) |
 | [[instrument:shawm\|Shawm]] | not folded | long | middle–high | largely controllable |
 | [[instrument:bassoon\|Bassoon]] | once (U) + keys | medium | bass | controllable |

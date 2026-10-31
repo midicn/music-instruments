@@ -108,8 +108,8 @@ updated: 2026-09-29
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **拉弦**（弓擦）· **有固定音高** |
-| **次级类型** | **低音拉弦**（**圆形横置**木筒 · 一端蒙**蟒蛇皮**：单皮震动式 / 双皮震动式 · **杠杆式琴码** · **四弦** · 弓**在弦外**拉奏，亦可拨弦）· 音域约**三个八度** |
+| HS 分类 | 弦鸣（Chordophone）· 拉弦（弓擦）· 有固定音高 |
+| 次级类型 | 低音拉弦（圆形横置木筒 · 一端蒙蟒蛇皮：单皮震动式 / 双皮震动式 · 杠杆式琴码 · 四弦 · 弓在弦外拉奏，亦可拨弦）· 音域约三个八度 |
 | **所属族** | 中国 · 拉弦（**民族乐队的低音域**；另立**低音革胡**一档，体形更大、需站或坐高凳） |
 | **八音** | **丝** |
 
@@ -188,8 +188,8 @@ It has not been abandoned. The Hong Kong Chinese Orchestra uses a single-skin ge
 
 | Classification | Value |
 |---|---|
-| **HS class** | **chordophone** · **bowed** · **definite pitch** |
-| **Sub-type** | **low bowed string** (round box placed **horizontally**, one end **skinned in python** — single-skin or double-skin vibrating types · **lever bridge** · **four strings** · bowed **outside** the strings, also plucked) · about **three octaves** |
+| HS class | chordophone · bowed · definite pitch |
+| Sub-type | low bowed string (round box placed horizontally, one end skinned in python — single-skin or double-skin vibrating types · lever bridge · four strings · bowed outside the strings, also plucked) · about three octaves |
 | **Family** | Chinese · bowed (the **bass register of the national orchestra**; with a separate **bass gehu**, larger, needing a tall stool) |
 | **Bayin** | **silk (丝)** |
 :::

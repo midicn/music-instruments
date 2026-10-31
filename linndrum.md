@@ -24,7 +24,7 @@ instances:
  - chinafolk-000653 | 《行过山路记艰难》——「记艰难」：Roger Linn「向父亲借 $20,000 资助 LM-1 开发，用自己 12 年的保时捷付 PCB 设计师」——行过山路的艰难，换来一台真鼓机器（C3 · 仅限学习研究）
 sources:
  - **主线：机器第一次听起来像唱片（本页最该记住的一条）** —— 「**Before the LinnDrum, machines sounded like machines. After the LinnDrum, they sounded like records.**（LinnDrum 之前，机器听起来像机器；之后，它们听起来像唱片。）」—— **对照 808（「没模仿鼓——重新发明了鼓」）**：**808 与 LinnDrum 是同一场辩论的两方——「人造的性格」对「录来的真实」，两条路都赢了，赢的是不同的流派**
- - **Roger Linn 的出身（各站独一份的发明人类型）** —— 「**Linn wasn't an engineering wunderkind with a Ph.D. He was a musician. He worked with other musicians, talked to other musicians, and learned how to code and build his instruments from a place of musical necessity**」； **「Linn 把他的设备视为**激发歌曲写作的工具**，不是人类鼓手的完全替身**」—— **对照各站发明谱系：Hammond（钟表匠）· Cahill（律师）· Moog（工程师×作曲家）· Smith（辞职的工程师）——Linn 是「会写歌的音乐家自学编程」的第一人**
+ - **Roger Linn 的出身（其他条目独一份的发明人类型）** —— 「**Linn wasn't an engineering wunderkind with a Ph.D. He was a musician. He worked with other musicians, talked to other musicians, and learned how to code and build his instruments from a place of musical necessity**」； **「Linn 把他的设备视为**激发歌曲写作的工具**，不是人类鼓手的完全替身**」—— **对照其他条目发明谱系：Hammond（钟表匠）· Cahill（律师）· Moog（工程师×作曲家）· Smith（辞职的工程师）——Linn 是「会写歌的音乐家自学编程」的第一人**
  - **LM-1（1980）：世界第一台采样鼓机** —— 「**The LM1 was the first digital drum machine on the scene……It had the one thing that was missing from all the drum machines that went before: the sound of real drums**」；「**8-bit/28kHz · 十个声部（kick/snare/hi-hat/cabasa/tambourine/一对 toms 与 congas/cowbell/claves/handclaps）**」；「**短采样长度意味着 crash 无法容纳**」；「**$5,000 的巨大价签把它只放进顶级制作人与巨星手里（约 525 台）**」
  - **quantization 与 shuffle 的发明（「沮丧→功能」）** —— 「**Unlike the Roland drum machines that use step-sequencing, the LM-1 was programmed through live playing**」； **「Roger Linn 说过他最初沮丧于机器把他的演奏量化成 16 分音符——计算机分辨率的功能。于是他引入 shuffle 功能，给交替的 16 分音符加一点延迟来注入感觉**」； **「timing correction 与 swing 的组合是决定性的配方——定义了此后所有的鼓机**」——**对照 909 的 shuffle 旋钮：**「**人性节奏做成旋钮」的专利，最早登记在 Linn 名下**
  - **Leon Russell 的两个功能（用户共创）** —— 「**Leon Russell——在 1979 年专辑 Life and Love 上用早期原型——贡献了两个成为行业标准的功能：handclap 采样与 swing timing 函数**」—— **对照 Moog×Deutsch（moog-modular 条）：用户共创的又一次——**「**这次共创的两个功能成了行业标准**」
@@ -125,8 +125,8 @@ Linn 转身去了 Akai，1988 年做出 MPC60，力度感应打击垫和后来�
 | 分类 | 归属 |
 |---|---|
 | **HS 分类** | **电鸣**（Electrophone · 8-bit mu-law 采样回放 + swing 音序）· **15 个独立输出** |
-| **出身** | ⭐⭐ **LM-1（1980 · 世界第一台采样鼓机 · $5,000 · 525 台）** → **LinnDrum（1982 · $2,995 · 5,000 台）**——**Roger Linn：会写歌的音乐家自学编程** |
-| **两个词** | ⭐⭐ **「quantization + swing」（Linn 发明的配方）** · **「inspirational songwriting tools」（Linn 的定位）** |
+| 出身 | LM-1（1980 · 世界第一台采样鼓机 · $5,000 · 525 台） → LinnDrum（1982 · $2,995 · 5,000 台）——Roger Linn：会写歌的音乐家自学编程 |
+| **两个词** | **「quantization + swing」（Linn 发明的配方）** · **「inspirational songwriting tools」（Linn 的定位）** |
 | **八音对照** | 八音之外——**鼓机第一次「放的是录音」** |
 
 :::
@@ -219,7 +219,7 @@ Linn moved to Akai and designed the MPC60 in 1988, where velocity-sensitive pads
 | Class | Assignment |
 |---|---|
 | **HS class** | **Electrophone**（8-bit mu-law sample playback + swing sequencer）· **15 individual outputs** |
-| **Origin** | ⭐⭐ **LM-1（1980 · the world's first sampling drum machine · $5,000 · 525 units）** → **LinnDrum（1982 · $2,995 · 5,000）** — **Roger Linn: the musician who taught himself to code** |
-| **Two words** | ⭐⭐ **「quantization + swing」（Linn's formula）** · **「inspirational songwriting tools」（Linn's positioning）** |
+| Origin | LM-1（1980 · the world's first sampling drum machine · $5,000 · 525 units） → LinnDrum（1982 · $2,995 · 5,000） — Roger Linn: the musician who taught himself to code |
+| **Two words** | **「quantization + swing」（Linn's formula）** · **「inspirational songwriting tools」（Linn's positioning）** |
 | **Bayin note** | Outside the bayin — **the drum machine played 「recordings」 for the first time** |
 :::
