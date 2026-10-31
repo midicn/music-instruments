@@ -38,31 +38,17 @@ updated: 2026-09-26
 ---
 
 ::: zh
-前面三条都在**丝**这一类里 —— 古琴 · 二胡 · 琵琶，都是"**弦**"的问题。
-笛子跨出了这一步：**它没有弦。**
+## 换一种介质
 
-> ⚠️ **同一件事，在弦上和在空气上，是两种完全不同的操作**
-> 弦乐器和管乐器其实在解决**同一个问题**：
-> **让"振动的有效长度"变短或变长，从而改变音高。**
->
-> | | 弦（古琴 · 琵琶） | 空气（笛子） |
-> |---|---|---|
-> | **改变有效长度** | **手指按下去**（把弦截短） | **手指抬起来**（把孔打开） |
-> | **取高音** | **轻触节点** → 泛音 | **超吹** → 激发高次模式 |
-> | **看不见的逻辑** | 手指按到哪，弦就"从哪开始" | 开哪个孔，空气柱就"到哪为止" |
->
-> **注意第二行**：弦上的"泛音"和管上的"超吹"是**同一个物理原理的两个化身** ——
-> 都是"**不去激发最低的模式，而让它按更高次模式振动**"。
-> 古琴的十三徽（等分点）与笛子的超吹，说的是同一件事。
+笛子没有弦。前面几件，古琴、二胡、琵琶，都在解决弦的问题，笛子把振动的介质换成了空气。同一个动作在两种介质上正好相反：弦上要按下去把弦截短，管上要抬起来把孔打开。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **气鸣**（Aerophone）· **边棱音**驱动（气流冲击吹孔边缘）· 开管 |
-| **次级类型** | 竹制 · 横吹 · 一个吹孔 · **一个膜孔（贴笛膜）** · 六个按音孔 · 尾部出音孔 · 无键 |
-| **所属族** | 中国 · 吹管 |
-| **八音** | **竹** —— 以竹为管 |
+| HS 分类 | 气鸣 · 边棱音驱动 · 开管 |
+| 次级类型 | 竹制，横吹，一个吹孔、一个膜孔、六个按音孔，无键 |
+| 八音：竹 | 以竹为管 |
 
-## 结构：一根竹管，七个小孔
+## 一根竹管，七个小孔
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="笛子的结构：一节竹管上从左到右依次是一个吹孔、一个贴着笛膜的膜孔、六个按音孔和两个出音孔">
@@ -102,33 +88,9 @@ updated: 2026-09-26
 </svg>
 ```
 
-三处要点：
+膜孔是它最独特的地方。一片芦苇茎里的薄膜贴上去，气流经过时让它一起振动，音色变亮，多一层"嗡"。这是它和长笛最重要的一条差别。没有键，六个孔直接用手指开闭，孔距因此相等，代价是音准要靠叉口指法和口风去补。
 
-1. **膜孔是它最独特的地方**。一片**芦苇茎里的薄膜**贴在孔上，
-   气流经过时让它**一起振动** → 音色变亮、带一层"嗡"。
-   **这是中国笛区别于外国[[instrument:flute|长笛]]最重要的一点。**
-2. **没有键**。六个孔直接用手指开闭 —— 于是**孔距相等**（工艺上容易做），
-   代价是音准要靠**"叉口"指法**（交叉指法）与**口风**去补。
-   这一点和[[instrument:shawm|肖姆管]]一类的无键木管是同一个问题。
-3. **横吹**。气流冲击吹孔的边缘（**边棱音**）而非穿过哨嘴 ——
-   这与[[instrument:recorder|竖笛]]的"哨嘴"是两种不同的驱动方式，也是它音色更"透气"的原因。
-
-## 一片芦苇膜，就是它区别于长笛的地方
-
-这张"附加部件"的逻辑，本站在**三件乐器**上已经各见过一次：
-
-| 乐器 | 附加的振动部件 | 它改变了什么 | HS 分类变了吗 |
-|---|---|---|---|
-| **笛子** | **笛膜**（芦苇茎内膜） | 音色变亮、带"嗡" | **没有** —— 仍是**气鸣**（振动体是空气柱） |
-| [[instrument:erhu\|二胡]] | **蟒皮**（琴筒一端） | 音色带鼻音、接近人声 | **没有** —— 仍是**弦鸣**（振动体是弦） |
-| [[instrument:crumhorn\|克鲁姆管]] | **风帽**（把簧封住） | 音量骤减、力度不可控 | **没有** —— 仍是**气鸣**（振动体是簧与管） |
-
-**规律可以带走的**：
-**"附加的振动部件"能改变音色与表现力，但不改变一件乐器的分类** ——
-因为 HS 的判据始终是"**什么在振动**"，而这些部件是"**耦合进来参与发声的**"，不是主振动体。
-**这也是为什么"什么在振动"比"看起来像什么"更可靠。**
-
-## 孔数，就是转调的自由度
+## 孔数就是转调的自由度
 
 ```svg
 <svg viewBox="0 0 640 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="笛子孔径改良的阶梯：六孔靠叉口指法转调受限，七孔可转五种调，九孔能奏半音阶，十孔可奏十二个半音">
@@ -172,136 +134,36 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这是本批最重要的一条"平行规律"**：
+六孔的传统笛靠交叉指法转调，能走的调有限；七孔可转五种调，九孔能奏半音阶，十孔十二个半音齐全。孔越多，能改变的档位越多，能走的调也越多，代价是指法更复杂、各音区音色与音量更难统一。琵琶从十二品到二十四品是同一件事：档位决定自由。
 
-| | 弦上（[[instrument:pipa|琵琶]]） | 空气上（笛子） |
-|---|---|---|
-| **改变长度的档位** | **品** | **孔** |
-| **档位少** | 四相十二品 → **只能弹 D 调** | 六孔 → 调性受限，靠叉口指法 |
-| **档位多** | 六相二十四品 → **自由转调** | 九孔 / 十孔 → **可奏半音阶** |
-| **代价** | 品多了，左手更忙 | 孔多了，指法更复杂、音色与音量更难统一 |
-
-**"能不能转调"这件事，在两种介质上由同一个量决定：能改变的档位有多少。**
-**这是一条可以脱离具体乐器带走的规律。**
-
-## 音域
+## 一族的笛，两种性格
 
 ```range
 {"range":"C4–A6","caption":"笛子的音域（约两个半八度 · 以曲笛为例）","caption_en":"Dizi range — about two and a half octaves, a qudi in C as the example","note":"笛子属气鸣乐器（边棱音驱动，开管，竹制）。音域约两个半八度；此处以常见曲笛为例取 C4–A6 示意。各调笛（C · D · E · F · G · A · B）音高标准不同 —— 梆笛短于曲笛、比曲笛约高四度，新笛（大笛）更低。低音区靠开闭按音孔得到，高音区主要靠超吹。记谱即实音。"}
 ```
 
-- **约两个半八度**。低音区靠**开闭按音孔**；高音区主要靠**超吹**（加压激发高次模式）。
-- **它是一"族"而不是一件**：按调分为 C · D · E · F · G · A · B 各种笛；
-  按用途分**曲笛**（伴奏昆曲，管身粗长，音色浑厚柔和）与**梆笛**（伴奏梆子戏，管身细短，高亢明亮），
-  另有更低的**新笛（大笛）**。
-- **同一支笛，换指法就能换调** —— 但换到几个调为止，取决于指法体系是否够用（见上一节）。
-
-## 音色与听辨
-
-四条线索：
-
-1. **明亮、通透、带一层"嗡"**。那层"嗡"就是**笛膜**在振动。
-2. **气息感极强**。边棱音驱动 → 每个音都带着气流本身的声音，所以它比哨嘴类乐器"透气"。
-3. **南北两种性格**。南派（曲笛）**典雅清丽**；北派（梆笛）**刚劲粗犷**。
-4. **膜松紧会改变音高**。夏天膜贴松一点、冬天贴紧一点 ——
-   演奏者用它来抵消气温对音高的影响（**这也是它与其他乐器合奏时必须顾的事**）。
+音域约两个半八度，低音区靠开闭按音孔，高音区靠超吹。它是一族而不是一件，C、D、E、F、G、A、B 各调都有；曲笛为昆曲伴奏，管身粗长，音色浑厚，梆笛为梆子戏伴奏，细短，高亢明亮。南派典雅，北派刚劲。笛膜还要自己贴，夏天松一点、冬天紧一点，用来抵消气温对音高的影响。
 
 ```audiolab
 {"type":"instrument","gm":"Flute","synth":"blown","phrase":["C4","D4","E4","G4","A4","C5","A5"],"label":"从低音区往上：C4 到 A5","label_en":"From the low register upwards — C4 to A5","hint":"注意气息本身的声音 —— 通用音色表里没有笛子，这里借长笛近似；真实的笛子多一层笛膜的「嗡」","hint_en":"Listen for the breath itself. General MIDI has no dizi, so a flute stands in; a real dizi adds the buzz of its reed membrane."}
 ```
 
-## 演奏技法
+贾湖骨笛距今约九千年，是已知最早的吹奏乐器之一；笛由竖吹变横吹、由骨变竹，笛膜到宋元才从箫管移到横笛上。"笛"这个名字两千多年里指过不同的乐器，一件乐器的身份，往往比它的名字年轻。
 
-- **口风是核心**。同一支笛，靠嘴唇与气流角度就能做出音高、音色与力度的变化 ——
-  这是它最"活"的地方。
-- **叉口指法**。按孔距离相等，半音与转调靠**交叉指法**（开中间孔、按两头孔）来补。
-- **超吹**。高音区靠加压激发高次模式 —— 与弦上"轻触节点取泛音"是同一原理。
-- **循环呼吸**常见于长乐句（民间艺人尤其常用）。
-- **笛膜要自己贴**。老嫩、松紧都要调 —— 这是演奏前的例行工作。
-
-## 家族与近亲
-
-| 乐器 | 驱动方式 | 孔 / 键 | 有膜吗 | 八音 |
-|---|---|---|---|---|
-| **笛子** | **边棱音**（横吹） | 六孔，无键 | **有笛膜** | **竹** |
-| [[instrument:flute\|长笛]] | 边棱音（横吹） | **键系（波姆体系）** | 无 | （不适用） |
-| [[instrument:recorder\|竖笛]] | **哨嘴**（有风道） | 八孔，无键 | 无 | （不适用） |
-| [[instrument:guqin\|古琴]] | 拨弦 | — | — | 丝 |
-| [[instrument:erhu\|二胡]] | 擦弦 | — | 无（但有**蟒皮**共鸣体） | 丝 |
-| [[instrument:crumhorn\|克鲁姆管]] | 双簧 + **风帽** | 无键 | 无（但有**风帽**） | （不适用） |
-
-**这一族的分岔点有两个**：
-**① 用什么驱动空气**（边棱音 / 哨嘴 / 簧）；**② 有没有键或附加部件**。
-**笛子站的位置是"最朴素"的一角：只靠一个人、一根管子、几个孔和一片膜。**
-
-## 历史演变
-
-| 时期 | 状态 |
-|---|---|
-| 约九千年前 | **河南舞阳贾湖出土的骨笛**：用鹤类尺骨制成，已有多个按孔，能吹出多个音 —— 是迄今发现最早的吹奏乐器之一 |
-| 先秦 | 文献中的「笛」多指**竖吹**的管乐器（与今天[[instrument:flute\|横吹笛]]不同）；「笛」这个名字在历史上指过不止一件乐器 |
-| 汉代 | **横吹**由西域传入并流行（相传与张骞通西域有关），与本土管乐器交融 |
-| 唐代 | 横吹之笛已很盛行；此时**横笛尚无笛膜**，膜只用在箫管上 |
-| 宋元 | **笛膜移到横笛上**，箫不再贴膜 —— **今天这件笛子的形态由此定型** |
-| 明清 | 成为**戏曲伴奏**的主力：为昆曲伴奏者称**曲笛**、为梆子戏伴奏者称**梆笛**；南派与北派风格形成 |
-| 20 世纪 | 形制改良：七孔 · 九孔 · 十孔笛出现，转调与半音能力增强；出现大量独奏曲目（《牧民新歌》《扬鞭催马运粮忙》《姑苏行》等） |
-
-**它的历史里有一个很有意思的细节**：**「笛」这个名字在两千多年里指过不同的乐器。**
-先秦的"笛"是竖吹的（即后来的箫），今天的横笛是**外来的横吹**与本套管乐器交融的产物，
-而**笛膜**是宋元以后才从箫管"搬"到横笛上的。
-**一件乐器的身份，往往比它的名字年轻得多** —— 这与[[instrument:pipa|琵琶]]"名字描述动作"是同一类问题。
-
-## 常见误解
-
-- **"笛子就是长笛的中国版。"** 外形接近，但两点关键不同：**笛子是竹制、无键、有笛膜**；
-   长笛是金属、键系完整、无膜。**笛膜这一条就足以听出区别。**
-- **"它是膜鸣乐器，因为贴了膜。"** **不是**。判据是"什么在振动"：**振动体是管内的空气柱**（气鸣），
-   笛膜是**参与发声的附加部件**，不改变分类。
-- **"孔越多越好。"** 孔多换来更强的转调能力，代价是**指法更复杂、各音区音色更难统一**。
-   传统六孔笛至今仍是主流。
-- **"笛子的音准天生不准。"** 它的**按孔距离相等**，所以确实需要**叉口指法与口风**来补偿 ——
-   这是**结构与演奏的分工**，不是工艺缺陷。
-- **"它一直就是现在这样。"** 由**竖吹变横吹、由骨变竹**，笛膜更是宋元以后才移上来的。
-- **"八音说它是竹，所以只有竹子能做。"** 与[[instrument:guqin|古琴]]的"丝"同一个道理：
-   **八音描述的是它诞生时的材料**。**而九千年前的骨笛，恰恰不在八音之内** ——
-   八音是特定时代、特定地区对材料的一套分类，**不是一份穷尽的清单**。
-
-## 下一步
-
-**丝与竹都走过了**：丝（弦）与竹（管）在八音里是两个并排的类别，
-而它们各自代表了一整套**改变振动体长度的操作方式**。
-
-最后一类换到**金**：[[instrument:bianzhong|编钟]]——
-它既不用手按、也不用嘴吹，而是**把音高铸进钟体本身**：
-**一件乐器一旦只能"按出厂设置"发声，它的音高就从演奏者手里彻底交了出去。**
 :::
 
 ::: en
-The previous three entries all belonged to **silk** — guqin, erhu, pipa, all questions about **strings**. The dizi
-takes a step out: **it has no strings at all.**
+## A different medium
 
-> ⚠️ **The same job, done completely differently in string and in air**
-> Strings and wind instruments are in fact solving **one problem**: **making the **speaking length** of the vibrator
-> shorter or longer, and so changing the pitch.**
->
-> | | String (guqin, pipa) | Air (dizi) |
-> |---|---|---|
-> | **Changing the speaking length** | **press a finger down** (cut the string short) | **lift a finger off** (open a hole) |
-> | **Getting the high notes** | **touch a node** → harmonic | **overblow** → excite a higher mode |
-> | **The hidden logic** | where the finger stops, the string "starts" | which hole is open, the air column "ends" |
->
-> **Note the second row**: the string's **harmonic** and the pipe's **overblown note** are **two incarnations of one
-> physical principle** — both say "**do not excite the lowest mode; make it vibrate in a higher one**". The guqin's
-> thirteen studs and the dizi's overblowing are talking about the same thing.
+The dizi has no strings. The entries before it, guqin, erhu, pipa, were all questions about strings; this one moves the vibrating medium into air. The gesture reverses: on a string you press down to shorten it, on a pipe you lift a finger to open a hole.
 
 | Classification | Value |
 |---|---|
-| **HS class** | **Aerophone** · **edge tone** (air striking the edge of the blow hole) · open pipe |
-| **Sub-type** | bamboo · transverse · one blow hole · **one membrane hole (with a reed membrane)** · six finger holes · end holes · keyless |
-| **Family** | Chinese · wind |
-| **Bayin** | **bamboo (竹)** — the tube is bamboo |
+| HS class | Aerophone · edge tone · open pipe |
+| Sub-type | bamboo, transverse, one blow hole, one membrane hole, six finger holes, keyless |
+| Bayin | bamboo (竹) |
 
-## Structure: one bamboo tube, seven small holes
+## One tube, seven small holes
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Structure of a dizi: along one length of bamboo tube there are, from left to right, a blow hole, a membrane hole covered by a reed membrane, six finger holes and two end holes">
@@ -341,33 +203,9 @@ takes a step out: **it has no strings at all.**
 </svg>
 ```
 
-Three points:
+The membrane hole is what makes it unlike anything else. A thin membrane from inside a reed stalk is pasted over it, the air stream sets it vibrating too, and the tone brightens with a buzz on top. That single part is the clearest difference from a Western flute. There are no keys: six holes are opened and closed by the fingers, which is why their spacing is even, at the cost of intonation that forked fingerings and embouchure must repair.
 
-1. **The membrane hole is what makes it unique.** A thin membrane from **inside a reed stalk** is pasted over the
-   hole; the air stream sets it **vibrating too**, brightening the tone and adding a buzz. **This is the single most
-   important difference from a Western [[instrument:flute|flute]].**
-2. **No keys.** Six holes opened and closed directly by the fingers — which is why the **spacing is even** (easy to
-   make), at the cost of intonation, compensated by **forked fingerings** and embouchure. The same problem as any
-   keyless woodwind, such as the [[instrument:shawm|shawm]].
-3. **Transverse.** The air strikes the edge of the blow hole (**edge tone**) rather than passing a duct — a
-   different drive from the [[instrument:recorder|recorder]]'s whistle mouthpiece, and the reason it sounds
-   "breathier".
-
-## One reed membrane is what separates it from the flute
-
-This "extra part" logic has now appeared **three times** on this site:
-
-| Instrument | The added vibrating part | What it changes | Does the HS class change? |
-|---|---|---|---|
-| **Dizi** | **reed membrane** | brighter tone, with a buzz | **No** — still **aerophone** (the air column vibrates) |
-| [[instrument:erhu\|Erhu]] | **python skin** over the body | nasal, voice-like colour | **No** — still **chordophone** (the string vibrates) |
-| [[instrument:crumhorn\|Crumhorn]] | **wind cap** sealing the reed | volume collapses, dynamics impossible | **No** — still **aerophone** (reed and pipe vibrate) |
-
-**The rule to take away**: **an added vibrating part changes timbre and expressiveness but never an instrument's
-class** — because the HS test remains "**what vibrates**", and these parts are **coupled into the sound**, not the
-primary vibrator. **Which is why "what vibrates" is more reliable than "what it looks like".**
-
-## The number of holes is the freedom to change key
+## Holes are the freedom to change key
 
 ```svg
 <svg viewBox="0 0 640 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The ladder of dizi hole layouts: six holes rely on forked fingerings with limited keys, seven holes give five keys, nine holes allow a chromatic scale, and ten holes give twelve semitones">
@@ -411,115 +249,19 @@ primary vibrator. **Which is why "what vibrates" is more reliable than "what it 
 </svg>
 ```
 
-**This is the most important parallel rule in this batch**:
+The traditional six-hole flute changes key through cross-fingerings and stays limited. Seven holes give five keys, nine allow a chromatic scale, ten cover all twelve semitones. More positions to change the length means more keys, paid for in harder fingering and less even tone between registers. The pipa from twelve frets to twenty-four is the same story: positions decide freedom.
 
-| | On a string ([[instrument:pipa|pipa]]) | In air (dizi) |
-|---|---|---|
-| **Positions that change the length** | **frets** | **holes** |
-| **Few positions** | 12 frets → **D major only** | six holes → limited keys, forked fingerings |
-| **Many positions** | 24 frets → **any key** | nine or ten holes → **chromatic** |
-| **The price** | more frets, busier left hand | more holes, harder fingerings, less even tone and volume |
-
-**"Can it change key?" is decided, in both media, by the same quantity: how many positions it can change its
-length to.** **That is a rule you can carry away from the instruments themselves.**
-
-## Range
+## One family, two temperaments
 
 ```range
 {"range":"C4–A6","caption":"笛子的音域（约两个半八度 · 以曲笛为例）","caption_en":"Dizi range — about two and a half octaves, a qudi in C as the example","note":"笛子属气鸣乐器（边棱音驱动，开管，竹制）。音域约两个半八度；此处以常见曲笛为例取 C4–A6 示意。各调笛（C · D · E · F · G · A · B）音高标准不同 —— 梆笛短于曲笛、比曲笛约高四度，新笛（大笛）更低。低音区靠开闭按音孔得到，高音区主要靠超吹。记谱即实音。"}
 ```
 
-- **About two and a half octaves.** The low register comes from **opening and closing the finger holes**; the top
-  is reached mainly by **overblowing**.
-- **It is a **family**, not one instrument**: made in C, D, E, F, G, A and B; by use it divides into **qudi**
-  (accompanies Kun opera; long, thick tube, mellow) and **bangdi** (accompanies bangzi opera; short, thin tube,
-  bright and piercing), plus a lower **xindi (da di)**.
-- **One flute, several keys by fingering** — how many, though, depends on whether the fingering system can cover
-  them (see the previous section).
-
-## Timbre, and how to hear it
-
-Four cues:
-
-1. **Bright, clear, with a buzz on top.** That buzz is the **membrane** vibrating.
-2. **Very breathy.** With edge-tone drive, every note carries the sound of the air itself — it sounds
-   "airier" than a duct flute.
-3. **Two regional characters.** The southern school (qudi) is **elegant and clear**; the northern (bangdi) is
-   **firm and rough**.
-4. **Membrane tension changes pitch.** Looser in summer, tighter in winter — the player's way of offsetting the
-   effect of temperature on pitch (and something to manage whenever it plays with others).
+About two and a half octaves: the low register from opening and closing holes, the top from overblowing. It is a family, not one instrument, made in C, D, E, F, G, A and B; the qudi accompanies Kun opera with a long thick tube and a mellow tone, the bangdi accompanies bangzi opera, short and piercing. The south is elegant, the north hard. The player fits the membrane, looser in summer and tighter in winter, to offset temperature.
 
 ```audiolab
 {"type":"instrument","gm":"Flute","synth":"blown","phrase":["C4","D4","E4","G4","A4","C5","A5"],"label":"从低音区往上：C4 到 A5","label_en":"From the low register upwards — C4 to A5","hint":"注意气息本身的声音 —— 通用音色表里没有笛子，这里借长笛近似；真实的笛子多一层笛膜的「嗡」","hint_en":"Listen for the breath itself. General MIDI has no dizi, so a flute stands in; a real dizi adds the buzz of its reed membrane."}
 ```
 
-## Playing techniques
-
-- **Embouchure is everything.** On the same flute, lip position and air angle produce changes in pitch, colour and
-  dynamics — the most "alive" part of the instrument.
-- **Forked fingerings.** With evenly spaced holes, semitones and key changes are covered by **cross-fingerings**
-  (opening a middle hole while covering the outer ones).
-- **Overblowing.** The top register is reached by pressure, exciting higher modes — the same principle as touching
-  a node to get a string harmonic.
-- **Circular breathing** is common in long phrases, especially among folk players.
-- **The membrane must be fitted by the player** — its age and tension adjusted, a routine before every session.
-
-## The family
-
-| Instrument | Drive | Holes / keys | Membrane? | Bayin |
-|---|---|---|---|---|
-| **Dizi** | **edge tone** (transverse) | six holes, keyless | **yes, reed membrane** | **bamboo** |
-| [[instrument:flute\|Flute]] | edge tone (transverse) | **keywork (Boehm system)** | no | (n/a) |
-| [[instrument:recorder\|Recorder]] | **duct / whistle mouthpiece** | eight holes, keyless | no | (n/a) |
-| [[instrument:guqin\|Guqin]] | plucked | — | — | silk |
-| [[instrument:erhu\|Erhu]] | bowed | — | no (but a **python-skin** resonator) | silk |
-| [[instrument:crumhorn\|Crumhorn]] | double reed + **wind cap** | keyless | no (but a **cap**) | (n/a) |
-
-**This family forks in two places**: **① what drives the air** (edge tone / duct / reed); **② whether there are
-keys or added parts**. **The dizi occupies the plainest corner: one person, one tube, a few holes and a piece of
-membrane.**
-
-## History
-
-| Period | State |
-|---|---|
-| c. 9,000 years ago | **bone flutes from Jiahu, Wuyang, Henan**: made from crane wing bones, with several finger holes and able to sound multiple notes — among the earliest playable instruments known |
-| pre-Qin | in the texts, "di" mostly means an **end-blown** pipe (not today's transverse flute); **the name "di" has denoted more than one instrument** |
-| Han | the **transverse flute** arrives from Central Asia and spreads (traditionally linked to Zhang Qian's mission westward), blending with native pipes |
-| Tang | the transverse flute is well established, but **has no membrane** — at that time only the xiao bore one |
-| Song–Yuan | **the membrane moves to the flute** and the xiao stops using it — **the modern dizi takes shape** |
-| Ming–Qing | it becomes the **mainstay of opera accompaniment**: the **qudi** for Kun opera, the **bangdi** for bangzi opera; southern and northern styles separate |
-| 20th c. | layout improvements: seven-, nine- and ten-hole dizi, more keys and semitones; a large solo repertoire appears (**New Shepherd's Song**, **Urging the Horse to Carry Grain**, **A Stroll in Suzhou**) |
-
-**One detail in its history is revealing**: **the name "di" has pointed at different instruments over two
-millennia.** The pre-Qin "di" was end-blown (the later xiao); today's transverse flute is the product of an
-**imported transverse pipe** blending with native ones — and the **membrane** only moved onto it after the Song.
-**An instrument's identity is often much younger than its name** — the same problem as the
-[[instrument:pipa|pipa]]'s "name that describes an action".
-
-## Common misconceptions
-
-- **"A dizi is the Chinese version of a flute."** Outwardly similar, but two key differences: **bamboo, keyless and
-  membraned** versus **metal, fully keyed and membraneless**. **The membrane alone is enough to hear the
-  difference.**
-- **"It is a membranophone, because it has a membrane."** **No.** The test is "what vibrates": **the air column**
-  (aerophone). The membrane is **an added part coupled into the sound**, not a change of class.
-- **"More holes must be better."** More holes buy key freedom at the cost of **more complex fingering and less even
-  tone and volume**. The traditional six-hole dizi remains the mainstream.
-- **"The dizi is simply out of tune."** Its **holes are evenly spaced**, so it genuinely needs **forked fingerings
-  and embouchure** to compensate — a **division of labour between structure and player**, not bad craft.
-- **"It has always looked like this."** End-blown became transverse, bone became bamboo, and the membrane only moved
-  onto it after the Song.
-- **"The bayin says bamboo, so only bamboo will do."** The same as the [[instrument:guqin|guqin]]'s silk: **the bayin
-  describes the material of its own time.** **And the bone flute of nine thousand years ago is not in the bayin at
-  all** — the bayin is one era's, one region's classification of materials, **not an exhaustive list**.
-
-## Next
-
-**Silk and bamboo are both done**: in the bayin they are two neighbouring categories, and each stands for a whole
-set of **ways of changing a vibrator's length**.
-
-The last category turns to **metal**: the [[instrument:bianzhong|bianzhong]] —
-which is neither pressed by a hand nor blown by a mouth, but has its **pitches cast into the bells themselves**.
-**Once an instrument can only sound "as built", its pitch has left the player's hands entirely.**
+The bone flutes of Jiahu are about nine thousand years old, among the earliest playable instruments known. The pipe went from end-blown to transverse and from bone to bamboo, and the membrane only moved onto the flute after the Song. The name di has pointed at different instruments for two millennia; an instrument's identity is often younger than its name.
 :::

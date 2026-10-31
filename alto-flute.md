@@ -46,9 +46,9 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 木管（长笛族 · 中音支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，中音长笛不在其中 |
 
-> ⚠️ **一个概念上的要点**：中音长笛与[[instrument:flute|长笛]]的**指法完全相同**，
-> 但同一份谱子吹出来的音**低一个纯四度**。这不是"演奏者偷懒"，而是移调乐器的定义：
-> 谱面写的是**手指的位置**，不是实际音高。
+> ⚠️ 一个概念上的要点：中音长笛与[[instrument:flute|长笛]]的指法完全相同，
+> 但同一份谱子吹出来的音低一个纯四度。这不是"演奏者偷懒"，而是移调乐器的定义：
+> 谱面写的是手指的位置，不是实际音高。
 > 所以中音长笛演奏者读的是一个「听起来比看上去低四度」的世界 ——
 > 与[[instrument:english-horn|英国管]]（F 调）、[[instrument:clarinet|单簧管]]（降 B 调）属于同一套处理。
 
@@ -76,11 +76,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **又长又粗同时发生**。长度只解释"低四度"，管径才解释音色 ——
+1. 又长又粗同时发生。长度只解释"低四度"，管径才解释音色 ——
    这是理解这件乐器的关键，也是它与短笛形成镜像的地方（短笛是又短又相对粗）。
-2. **弯管（curved headjoint）是人体工学，不是声学**。管太长，手臂够不到，
+2. 弯管（curved headjoint）是人体工学，不是声学。管太长，手臂够不到，
    所以头部常做成折弯状（也有直管版本，音色略有不同）。这是外形差异里唯一与声音无关的一项。
-3. **管径决定了它"柔"在哪里**。见下一节。
+3. 管径决定了它"柔"在哪里。见下一节。
 
 ## 管径为什么决定音色
 
@@ -116,16 +116,16 @@ updated: 2026-09-26
 </svg>
 ```
 
-**一条因果链**：
+一条因果链：
 
-管径变粗 → 高频更容易在管内被**阻尼和反射损失**掉 → 高次泛音激不起来 →
-**基频与低次泛音占据主导** → 听感**柔和、暗、气声显眼**。
+管径变粗 → 高频更容易在管内被阻尼和反射损失掉 → 高次泛音激不起来 →
+基频与低次泛音占据主导 → 听感柔和、暗、气声显眼。
 
 由此还带来两个实用后果：
 
-- **气声更明显**。气流噪声是宽带的，而音色主体偏向低频 —— 两相对比之下，
+- 气声更明显。气流噪声是宽带的，而音色主体偏向低频 —— 两相对比之下，
   呼吸噪声就"浮"出来了。这就是中音长笛那股"吹气感"的来源。
-- **投射力更弱**。它在乐队里不容易穿透，所以多用于**静谧、内省、远景**的段落。
+- 投射力更弱。它在乐队里不容易穿透，所以多用于静谧、内省、远景的段落。
 
 ## 音域
 
@@ -133,35 +133,35 @@ updated: 2026-09-26
 {"range":"G3–G6","written":"C4–C7","common":"G3–D6","caption":"中音长笛的记谱音域与实音音域","caption_en":"The alto flute: notated range above, sounding range below","note":"⚠️ 中音长笛是 G 调移调乐器 —— 记谱比实音高纯四度。谱面写 C4–C7，实际出声 G3–G6（比长笛低纯四度）。"}
 ```
 
-- **实音 G3–G6**，正好卡在长笛音域的下半段再往下延伸一个纯四度。
-- **常用区 G3–D6**：这一段是它最"中音长笛"的地方 —— 柔、厚、气声最匀。
-- **高音区（A6 附近）** 相对费力，音色虽然仍柔，但稳定性明显下降。
+- 实音 G3–G6，正好卡在长笛音域的下半段再往下延伸一个纯四度。
+- 常用区 G3–D6：这一段是它最"中音长笛"的地方 —— 柔、厚、气声最匀。
+- 高音区（A6 附近） 相对费力，音色虽然仍柔，但稳定性明显下降。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **柔和、暗、圆**。与长笛并排听，它的高次泛音明显少 —— 像给长笛的声音加了一层薄的绒。
-2. **气声突出**。在低音区尤其明显：你能清楚听到气流本身的声音。
-3. **投射力弱**。它是"近听美"的乐器：在乐队里常被用来做**远景**与**内声部**，而不是主线条。
-4. **少"尖"**。即便用力吹，它也很难像长笛那样亮起来 —— 管径封住了这条路。
+1. 柔和、暗、圆。与长笛并排听，它的高次泛音明显少 —— 像给长笛的声音加了一层薄的绒。
+2. 气声突出。在低音区尤其明显：你能清楚听到气流本身的声音。
+3. 投射力弱。它是"近听美"的乐器：在乐队里常被用来做远景与内声部，而不是主线条。
+4. 少"尖"。即便用力吹，它也很难像长笛那样亮起来 —— 管径封住了这条路。
 
 ```audiolab
 {"type":"instrument","gm":"Flute","synth":"blown","phrase":["G3","C4","F4","A4","D5"],"label":"中音长笛的常用区：实音 G3 到 D5","label_en":"The alto flute's working register — sounding G3 up to D5","hint":"注意低音区厚而柔、气声明显 —— 通用音色表里没有独立的中音长笛，这里借标准长笛的低音区近似","hint_en":"Hear the thick, breathy low register. The General MIDI set has no separate alto flute, so a standard flute sample is used here as the closest stand-in."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）里**没有独立的中音长笛**。
-> 上面播放的是**标准长笛**的音色，只是音区落在中音长笛的常用范围 —— 它只能近似，不能替代。
+> ⚠️ 关于试听：通用音色表（General MIDI）里没有独立的中音长笛。
+> 上面播放的是标准长笛的音色，只是音区落在中音长笛的常用范围 —— 它只能近似，不能替代。
 
 ## 演奏技法
 
 指法与[[instrument:flute|长笛]]完全一致，所以技巧可以整体迁移（气声、花舌、击键音、泛音都能用）。
 需要重新适应的是三点：
 
-- **耗气量更大**。管更粗更长，要维持同样的音量和音准，需要更多的气 ——
+- 耗气量更大。管更粗更长，要维持同样的音量和音准，需要更多的气 ——
   吹过长笛的人第一次吹它常会觉得"气不够用"。
-- **泛音序列不同**。同一指法激起的泛音偏高，所以高音区需要不同的气流角度。
-- **音色控制在低音区最难**。低音厚而气声重，要吹得"干净"需要非常稳的气流。
+- 泛音序列不同。同一指法激起的泛音偏高，所以高音区需要不同的气流角度。
+- 音色控制在低音区最难。低音厚而气声重，要吹得"干净"需要非常稳的气流。
 
 ## 家族与近亲
 
@@ -172,10 +172,10 @@ updated: 2026-09-26
 | **中音长笛** | G | 记谱比实音**高纯四度** | 约 86 厘米 | 柔和、气声重 |
 | [[instrument:recorder\|竖笛]] | C | 同音 | 分族成套 | 哨嘴驱动，音色直朴 |
 
-**把这张表和[[instrument:piccolo|短笛]]那张并排看，会看到一个很整齐的结构**：
-三支长笛的**指法表相同、移调规则各不相同**，而音色差异主要来自**管长与管径的比例**。
+把这张表和[[instrument:piccolo|短笛]]那张并排看，会看到一个很整齐的结构：
+三支长笛的指法表相同、移调规则各不相同，而音色差异主要来自管长与管径的比例。
 管越长越粗 → 音越低越柔；管越短相对越粗 → 音越高越刺。
-**长笛处在这个连续谱的中间，所以它最"中性"、也最通用。**
+长笛处在这个连续谱的中间，所以它最"中性"、也最通用。
 
 ## 历史演变
 
@@ -189,23 +189,24 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"中音长笛只是低一点的长笛。"** 它同时**更长也更粗** ——
+- "中音长笛只是低一点的长笛。" 它同时更长也更粗 ——
   音色的柔来自管径，不是来自低四度。
-- **"它和长笛指法不同。"** 指法**完全相同**。同一份谱子，它奏出的音整体低一个纯四度。
-- **"弯管是为了音色。"** 弯管是**人体工学**：管太长，直管够不到。声学上直管版本反而略有优势。
-- **"柔和 = 音量小。"** 柔和是**泛音分布**的问题，与音量无关。
+- "它和长笛指法不同。" 指法完全相同。同一份谱子，它奏出的音整体低一个纯四度。
+- "弯管是为了音色。" 弯管是人体工学：管太长，直管够不到。声学上直管版本反而略有优势。
+- "柔和 = 音量小。" 柔和是泛音分布的问题，与音量无关。
   同一力度下它听起来更远，是因为高频投射力弱，不是因为吹不响。
-- **"通用音色表里有中音长笛。"** General MIDI 的音色集里**没有独立的中音长笛** ——
-  只能借用长笛音色近似（本页试听件即如此）。
+- "通用音色表里有中音长笛。" General MIDI 的音色集里没有独立的中音长笛 ——
+  只能借用长笛音色近似（试听件即如此）。
 
 ## 下一步
 
-到这里，**长笛族三支（短笛 · 长笛 · 中音长笛）就齐了**。三支对照的用处在于：
-它们把"管长—管径—音色"这条关系**在同一族里做完了三个采样点**。
+到这里，长笛族三支（短笛 · 长笛 · 中音长笛）就齐了。三支对照的用处在于：
+它们把"管长—管径—音色"这条关系在同一族里做完了三个采样点。
 
-再往下走就是**换驱动方式**：长笛族靠气流切片，接下来的一族
-（[[instrument:oboe|双簧管]] 及其近亲）把驱动源换成两片芦竹做的**簧片**。
+再往下走就是换驱动方式：长笛族靠气流切片，接下来的一族
+（[[instrument:oboe|双簧管]] 及其近亲）把驱动源换成两片芦竹做的簧片。
 一旦换了驱动，音色的可塑性会收窄，但音准、音量会变稳 —— 那是另一套取舍。
+
 :::
 
 ::: en
@@ -223,9 +224,9 @@ the alto flute **a perfect fourth up** — and all three share one fingering cha
 | **Family** | Western · Woodwinds (flute family, alto branch) |
 | **Bayin** | Not applicable — a Chinese system; the alto flute is outside it |
 
-> ⚠️ **One conceptual point**: the alto flute has **exactly the same fingerings** as the
-> [[instrument:flute|flute]], yet the same page of music comes out **a perfect fourth lower**. That is not
-> laziness; it is what a transposing instrument is: the page shows **the fingers, not the pitch**.
+> ⚠️ One conceptual point: the alto flute has exactly the same fingerings as the
+> [[instrument:flute|flute]], yet the same page of music comes out a perfect fourth lower. That is not
+> laziness; it is what a transposing instrument is: the page shows the fingers, not the pitch.
 > So its player reads a world that sounds a fourth below what it looks like — the same arrangement as the
 > [[instrument:english-horn|English horn]] (in F) and the [[instrument:clarinet|clarinet]] (in B♭).
 
@@ -253,13 +254,13 @@ the alto flute **a perfect fourth up** — and all three share one fingering cha
 
 Three points:
 
-1. **It grows in both dimensions at once.** Length explains the fourth; the bore explains the colour. This
-   is the key to the instrument, and it makes the alto flute a mirror of the piccolo (short **and**
+1. It grows in both dimensions at once. Length explains the fourth; the bore explains the colour. This
+   is the key to the instrument, and it makes the alto flute a mirror of the piccolo (short and
    relatively wide).
-2. **The curved headjoint is ergonomics, not acoustics.** The tube is too long for the arms to reach, so the
+2. The curved headjoint is ergonomics, not acoustics. The tube is too long for the arms to reach, so the
    head is often bent (straight versions exist and are marginally better acoustically). It is the only
    external feature with nothing to do with sound.
-3. **The bore is where "soft" comes from.** Next section.
+3. The bore is where "soft" comes from. Next section.
 
 ## Why the bore decides the colour
 
@@ -295,17 +296,17 @@ Three points:
 </svg>
 ```
 
-**One causal chain**:
+One causal chain:
 
-a wider bore → high frequencies suffer more **damping and reflection loss** → the upper harmonics cannot be
-driven → the **fundamental and lower harmonics dominate** → the sound is **soft, dark, and the breath noise
+a wider bore → high frequencies suffer more damping and reflection loss → the upper harmonics cannot be
+driven → the fundamental and lower harmonics dominate → the sound is **soft, dark, and the breath noise
 stands out**.
 
 Two practical consequences follow:
 
-- **The breath is more audible.** Air noise is broadband, while the tonal body leans low — against that
+- The breath is more audible. Air noise is broadband, while the tonal body leans low — against that
   background the noise "floats up". This is where the alto flute's blowing quality comes from.
-- **It projects less.** It rarely cuts through a band, which is why it is used for **quiet, inward, distant**
+- It projects less. It rarely cuts through a band, which is why it is used for quiet, inward, distant
   moments.
 
 ## Range
@@ -314,28 +315,28 @@ Two practical consequences follow:
 {"range":"G3–G6","written":"C4–C7","common":"G3–D6","caption":"中音长笛的记谱音域与实音音域","caption_en":"The alto flute: notated range above, sounding range below","note":"⚠️ 中音长笛是 G 调移调乐器 —— 记谱比实音高纯四度。谱面写 C4–C7，实际出声 G3–G6（比长笛低纯四度）。"}
 ```
 
-- **Sounding G3–G6**, exactly the flute's lower half extended by a fourth downwards.
-- **The working register is G3–D6**: soft, thick, its breath best evened out.
-- **The top (around A6)** is comparatively hard work; still soft, but noticeably less stable.
+- Sounding G3–G6, exactly the flute's lower half extended by a fourth downwards.
+- The working register is G3–D6: soft, thick, its breath best evened out.
+- The top (around A6) is comparatively hard work; still soft, but noticeably less stable.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Soft, dark, round.** Heard beside a flute, it plainly has fewer upper harmonics — like a thin layer of
+1. Soft, dark, round. Heard beside a flute, it plainly has fewer upper harmonics — like a thin layer of
    felt over the flute's sound.
-2. **Prominent breath.** Especially low down: you can hear the air itself.
-3. **Weak projection.** It is a close-up instrument, used in an orchestra for **distance** and **inner
+2. Prominent breath. Especially low down: you can hear the air itself.
+3. Weak projection. It is a close-up instrument, used in an orchestra for distance and **inner
    parts**, not for the leading line.
-4. **It will not sharpen.** No matter how hard it is pushed it cannot turn bright the way a flute does —
+4. It will not sharpen. No matter how hard it is pushed it cannot turn bright the way a flute does —
    the bore closes that road.
 
 ```audiolab
 {"type":"instrument","gm":"Flute","synth":"blown","phrase":["G3","C4","F4","A4","D5"],"label":"中音长笛的常用区：实音 G3 到 D5","label_en":"The alto flute's working register — sounding G3 up to D5","hint":"注意低音区厚而柔、气声明显 —— 通用音色表里没有独立的中音长笛，这里借标准长笛的低音区近似","hint_en":"Hear the thick, breathy low register. The General MIDI set has no separate alto flute, so a standard flute sample is used here as the closest stand-in."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI set has **no separate alto flute**. What plays above is a
-> **standard flute** sample, placed in the alto flute's working register — an approximation, not a
+> ⚠️ On the audio: the General MIDI set has no separate alto flute. What plays above is a
+> standard flute sample, placed in the alto flute's working register — an approximation, not a
 > substitute.
 
 ## Playing techniques
@@ -343,11 +344,11 @@ Four cues:
 The fingerings are identical to the [[instrument:flute|flute]], so the technique transfers wholesale (air
 tone, flutter tongue, key clicks, harmonics all work). Three things must be relearned:
 
-- **It takes more air.** A longer, wider tube needs more breath for the same volume and pitch; flautists
+- It takes more air. A longer, wider tube needs more breath for the same volume and pitch; flautists
   trying it for the first time usually run out.
-- **The harmonic series differs.** The same fingering starts higher partials, so the top register needs a
+- The harmonic series differs. The same fingering starts higher partials, so the top register needs a
   different air angle.
-- **The low register is the hardest to control.** Thick and breathy, it only comes out "clean" with a very
+- The low register is the hardest to control. Thick and breathy, it only comes out "clean" with a very
   steady jet.
 
 ## The family
@@ -360,8 +361,8 @@ tone, flutter tongue, key clicks, harmonics all work). Three things must be rele
 | [[instrument:recorder\|Recorder]] | C | at pitch | a consort of sizes | duct-blown, plain |
 
 **Set this table beside the one on the [[instrument:piccolo|piccolo]] page and a tidy structure appears**:
-three flutes, **one fingering chart, three different transpositions**, with the colour difference coming
-mainly from **the ratio of length to bore**. Longer and wider → lower and softer; shorter and relatively
+three flutes, one fingering chart, three different transpositions, with the colour difference coming
+mainly from the ratio of length to bore. Longer and wider → lower and softer; shorter and relatively
 wide → higher and harder. **The standard flute sits in the middle, which is exactly why it is the neutral
 and most general one.**
 
@@ -377,23 +378,23 @@ and most general one.**
 
 ## Common misconceptions
 
-- **"An alto flute is just a lower flute."** It is **longer and wider** — the softness comes from the bore,
+- "An alto flute is just a lower flute." It is longer and wider — the softness comes from the bore,
   not from the fourth.
-- **"The fingerings differ."** They are **identical**. The same page simply sounds a fourth lower.
-- **"The curved head is for the sound."** It is **ergonomics**: the tube is too long to reach. Acoustically
+- "The fingerings differ." They are identical. The same page simply sounds a fourth lower.
+- "The curved head is for the sound." It is ergonomics: the tube is too long to reach. Acoustically
   the straight version is marginally better.
-- **"Soft means quiet."** Softness is **harmonic distribution**, not volume. At equal dynamic it sounds
+- "Soft means quiet." Softness is harmonic distribution, not volume. At equal dynamic it sounds
   farther away because its high frequencies project poorly, not because it cannot be played loudly.
-- **"General MIDI has an alto flute."** It does not — only the standard flute can be borrowed as an
+- "General MIDI has an alto flute." It does not — only the standard flute can be borrowed as an
   approximation (as on this page).
 
 ## Next
 
-That completes **all three flutes (piccolo, flute, alto flute)**. Their value as a set is that they sample
-the "length–bore–colour" relationship three times **inside one family**.
+That completes all three flutes (piccolo, flute, alto flute). Their value as a set is that they sample
+the "length–bore–colour" relationship three times inside one family.
 
-The next step is to **change the drive**: the flutes are jet-driven; the next family
-(the [[instrument:oboe|oboe]] and its relatives) replaces the jet with a **reed cut from cane**. Once the
+The next step is to change the drive: the flutes are jet-driven; the next family
+(the [[instrument:oboe|oboe]] and its relatives) replaces the jet with a reed cut from cane. Once the
 drive changes, the flexibility of colour narrows while pitch and volume become steadier — a different
 bargain.
 :::

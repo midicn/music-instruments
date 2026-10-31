@@ -33,29 +33,19 @@ updated: 2026-09-26
 ---
 
 ::: zh
-钢片琴是打击乐里最特别的一件：**它由键盘手演奏，却属打击乐器。**
-判据仍然是那一条 —— **什么在振动**：振动体是**钢片**，键盘只是**触发机构**。
+## 键盘手演奏的打击乐
 
-这正好让它可以和钢琴并排对照：
-**钢琴也是键盘击奏，但振动体是弦 —— 所以属弦鸣。**
+《糖梅仙子之舞》开头那几颗音，是钢片琴替整个管弦乐队发的光。它由键盘手演奏，却归在打击乐里：键盘只是触发机构，真正振动的是下面一排钢片。判据还是那一条：什么在振动。同一台琴，低音区厚，高音区薄，写旋律时多半留在中高音区，低音只用来垫底。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **体鸣**（Idiophone）· **有音高** |
-| **次级类型** | **键盘**触发击槌 · 敲击一排钢片 · 钢片下方有共鸣箱 |
-| **所属族** | 西洋 · 打击（体鸣·琴条族 · 键盘触发支系） |
-| **八音** | 不适用 —— 周代八音是中国乐器的体系，钢片琴不在其中 |
+| HS 分类 | 体鸣 · 有固定音高 |
+| 次级类型 | 键盘触发击槌，敲击钢片，下方有木质共鸣箱 |
+| 八音 | 不适用，周代八音是中国乐器的体系 |
 
-> ⚠️ **一个概念上的要点**：**"键盘"是一种操作界面，不是分类依据。**
-> - **钢琴**：键盘 → 击槌 → **弦**振动 → **弦鸣**
-> - **钢片琴**：键盘 → 击槌 → **钢片**振动 → **体鸣**
-> - **管风琴**：键盘 → 气流 → **空气柱**振动 → **气鸣**
-> - **电子琴**：键盘 → 电路 → **电鸣**
->
-> 四种乐器都有键盘，却分属 HS 五分法里的**四个不同大类**。
-> **界面相同，分类完全不同** —— 这是"分类看振源"这条原则最干净的一次演示。
+## 键盘不是分类依据
 
-## 结构：键盘只是触发机构
+钢琴、钢片琴、管风琴、电子琴都有键盘，却分别落在弦鸣、体鸣、气鸣、电鸣四个大类里。界面相同，振源不同。钢片比钟琴的钢条更厚更大，音色因此不尖，清脆里带一点圆。
 
 ```svg
 <svg viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="钢片琴的结构：键盘、击槌机构、一排钢片与下方共鸣箱">
@@ -109,14 +99,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-三处要点：
-
-1. **键盘只是操作界面**。真正发声的是钢片 —— 这就是它属打击乐的原因。
-2. **击槌机构**连接键盘与钢片。手感与钢琴类似（有触键力度），
-   但**音色变化主要靠触键力度**，不像钢琴有踏板延长余音。
-3. **共鸣箱在钢片下方**。作用与琴条一族的共鸣管相同。
-
-## 「琴条一族」六件齐了
+## 同一族里的六件
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="琴条一族六件乐器的对照：振动体材料、形状与演奏方式三项决定了它们全部的音色差异">
@@ -151,114 +134,36 @@ updated: 2026-09-26
 </svg>
 ```
 
-## 音域
+木琴用硬木条，马林巴用软木条，颤音琴用铝条，钟琴用钢条，管钟用金属管，钢片琴用钢片。机械逻辑一样，变量只有材料、形状和谁来演奏。颤音琴靠旋转阀做颤动，管钟靠管长，钢片琴靠键盘，三件都是金属，音色没有一件重复。
+
+## 能当旋律乐器用
 
 ```range
 {"range":"C3–C8","common":"C4–C7","caption":"钢片琴的音域","caption_en":"Celesta range","note":"钢片琴属体鸣的有音高乐器（键盘触发）。常见音域 C3–C8（五组）——比钟琴低得多，用途也更宽。记谱即实音。"}
 ```
 
-- **C3–C8**（五组）—— 是琴条一族里**音域最宽**的一件。
-- **常用区 C4–C7**：这一段它最"玻璃"。
-- **它能承担旋律**（不像钟琴只能在上面加亮），所以在管弦乐里可以写完整的旋律线。
-
-## 音色与听辨
-
-四条线索：
-
-1. **玻璃般、清脆、带一点圆**。它不像钟琴那样尖锐，也不像马林巴那样暖 ——
-   是"清亮里有一点柔"。
-2. **有触键力度层次**。这是它与槌击类乐器最大的差别：
-   敲得轻就真的轻，力度曲线可以很细。
-3. **余音中等**。比钟琴长，但没有踏板可延长。
-4. **低频有实际分量**。五组音域让它在低音区也有真实的声音 ——
-   这是它能当"完整乐器"而不是"点缀"的原因。
+音域 C3–C8，五组，是这一族里最宽的，常用区 C4–C7，那一段最"玻璃"。它有触键力度，轻就真的轻，这是槌击乐器难做到的；但没有延音踏板，余音收不住。1886 年 Auguste Mustel 定型，柴可夫斯基把它写进《糖梅仙子之舞》之后，"仙女的音乐"就有了固定的音色。在那之前，仙女的音乐用竖琴与钟琴；一个音色与一个意象绑在一起，就会长期替它说话。它也能独奏，能写完整的旋律线，不只是点缀。与钢琴叠八度是常见做法，得到的不是更响，而是更亮。
 
 ```audiolab
 {"type":"instrument","gm":"Celesta","synth":"struck","phrase":["C4","E4","G4","C5","E5","G5"],"label":"钢片琴的常用区：C4 到 G5","label_en":"The celesta's working register — C4 up to G5","hint":"注意音色如玻璃般清脆，而且有触键的力度层次 —— 这来自键盘触发","hint_en":"Hear the glassy clarity and the touch-sensitive dynamics — a consequence of keyboard action."}
 ```
 
-## 演奏技法
-
-- **键盘技法**（与钢琴共通）。音色变化靠触键力度。
-- **没有延音踏板**。余音不能延长，所以和弦要靠同时按键。
-- **与钢琴叠奏**是常见做法：钢片琴在高八度叠在钢琴上，得到"闪光"的效果。
-- **它也常单独承担旋律段**（如《糖梅仙子之舞》）。
-
-## 家族与近亲
-
-| 乐器 | 振动体 | 触发方式 | 音域 | 音色 |
-|---|---|---|---|---|
-| [[instrument:xylophone\|木琴]] | 硬木条 | 槌击 | F4–C8 | 干、脆 |
-| [[instrument:marimba\|马林巴]] | 软木条 | 槌击 | C2–C7 | 暖、厚 |
-| [[instrument:vibraphone\|颤音琴]] | 铝条 | 槌击 | F3–F6 | 金属、闪烁 |
-| [[instrument:glockenspiel\|钟琴]] | 钢条 | 槌击 | G5–C8 | 极亮 |
-| [[instrument:tubular-bells\|管钟]] | 金属管 | 槌击 | C4–F6 | 钟声 |
-| **钢片琴** | **钢片** | **键盘** | **C3–C8** | **玻璃般** |
-
-**六件都是"体鸣 + 有音高"** —— 这也是本站这一格的完整名单。
-Hammers 与 keyboards 的区别只影响"谁来演奏"，不影响分类。
-
-## 历史演变
-
-| 时期 | 状态 |
-|---|---|
-| 1886 年（法国） | 由 **Auguste Mustel** 定型；此前有类似的"键盘钢片"实验乐器 |
-| 1880—1890 年代 | 柴可夫斯基在《糖梅仙子之舞》里使用 → 它的音色被全世界记住 |
-| 20 世纪 | 成为管弦乐与影视配乐的标准乐器；用法从"仙女/魔幻"扩展到"时间、回忆、闪光" |
-| 20 世纪后期至今 | 管弦乐、影视配乐、流行编曲的常用色彩乐器 |
-
-**《糖梅仙子之舞》几乎是这件乐器的"名片"** ——
-在它出现之前，"仙女的音乐"用别的音色表达；在它之后，钢片琴成了一种**通用的符号**。
-这与[[instrument:gong|锣]]在影视里代表"仪式"是同一种机制：
-**一个音色一旦与某个意象绑定，就会长期承担那个意象。**
-
-## 常见误解
-
-- **"钢片琴是键盘乐器。"** 它**有键盘**，但属**打击乐 · 体鸣** ——
-  判据是"什么在振动"（钢片），不是"用什么演奏"。
-- **"它和钟琴是一回事。"** 两者都是"钢 + 有音高"，但**触发方式不同**（键盘 vs 槌击）、
-  音域不同（C3–C8 vs G5–C8）、音色也不同。
-- **"它只是点缀音色。"** 五组音域让它能承担完整旋律 ——
-  独奏段落与旋律线在管弦乐里都很常见。
-- **"它与钢琴同族。"** 都是键盘，但**钢琴是弦鸣**（弦振动），钢片琴是**体鸣**（钢片振动）——
-  **界面相同，分类不同**。
-- **"它不能控制力度。"** 恰恰相反：键盘击奏让它有**触键力度层次**，
-  这是槌击类乐器难以做到的。
-
-## 下一步
-
-打击批还剩 11 条：响板 · 敲击棒 · 鞭响器 · 乐砧 · 风铃 · 砂槌 · 雨棍 · 木鱼 ·
-**爵士鼓组** · **拉丁打击组** · **手碟**。
-其中后三件最有内容 —— 前两件是"一件乐器其实是一组"，
-手碟则是 2000 年才出现的新体鸣乐器。
 :::
 
 ::: en
-The celesta is percussion's most particular member: **played by a keyboard player, yet classified as
-percussion.** The test is the same one — **what vibrates**: the vibrating body is a **steel plate**; the
-keyboard is only a **trigger**.
+## Percussion played by a keyboard player
 
-That makes it an exact counterpart to the piano: **the piano is also keyboard-struck, but its vibrating body
-is a string — hence a chordophone.**
+The opening notes of the Dance of the Sugar Plum Fairy are a celesta lending the whole orchestra its light. A keyboard player plays it, yet it belongs to percussion: the keyboard is a trigger, and what vibrates is a row of steel plates. The test is the same one as everywhere: what vibrates. On the same instrument the bass is thick and the top is thin, so melodic writing stays in the upper middle and the low end only fills.
 
 | Classification | Value |
 |---|---|
-| **HS class** | **Idiophone** · **pitched** |
-| **Sub-type** | **Keyboard** action drives hammers · striking a row of steel plates · soundbox beneath |
-| **Family** | Western · Percussion (idiophone, bar family, keyboard-triggered branch) |
-| **Bayin** | Not applicable — a Chinese system; the celesta is outside it |
+| HS class | Idiophone · definite pitch |
+| Sub-type | keyboard action drives hammers against steel plates, soundbox below |
+| Bayin | not applicable — a Chinese system |
 
-> ⚠️ **One conceptual point**: **a keyboard is an interface, not a classification.**
-> - **Piano**: keyboard → hammer → **string** → **chordophone**
-> - **Celesta**: keyboard → hammer → **steel plate** → **idiophone**
-> - **Organ**: keyboard → air → **air column** → **aerophone**
-> - **Electronic keyboard**: keyboard → circuit → **electrophone**
->
-> Four instruments, all with keyboards, in **four different classes** of Hornbostel–Sachs.
-> **Same interface, entirely different classification** — the cleanest demonstration anywhere of "classify by
-> the source".
+## A keyboard is not a class
 
-## Structure: the keyboard is only a trigger
+Piano, celesta, organ and electronic keyboard all have keys and land in four different classes: chordophone, idiophone, aerophone, electrophone. Same interface, different source. The plates are thicker and larger than a glockenspiel's bars, which is why the tone is crisp rather than piercing, with a little roundness.
 
 ```svg
 <svg viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Celesta structure: keyboard, hammer action, a row of steel plates and a soundbox below">
@@ -312,14 +217,7 @@ is a string — hence a chordophone.**
 </svg>
 ```
 
-Three points:
-
-1. **The keyboard is only an interface.** The steel plates make the sound — hence its place in percussion.
-2. **A hammer action** connects keys to plates. The touch is piano-like (velocity-sensitive), but **colour is
-   controlled mainly by touch**, with no sustaining pedal.
-3. **A soundbox below** the plates, doing what a resonator does in the bar family.
-
-## The bar family's six are complete
+## Six in one family
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The six instruments of the bar family compared: material, shape and playing method account for all their differences">
@@ -354,83 +252,17 @@ Three points:
 </svg>
 ```
 
-## Range
+Xylophone on hard wood, marimba on softer wood, vibraphone on aluminium, glockenspiel on steel bars, tubular bells on metal tubes, celesta on steel plates. One mechanical logic, three variables: material, shape, and who operates it. Three of them are metal, and no two sound alike: the vibraphone fans its bars with a motor, tubular bells depend on tube length, the celesta on its keyboard action.
+
+## It can carry a melody
 
 ```range
 {"range":"C3–C8","common":"C4–C7","caption":"钢片琴的音域","caption_en":"Celesta range","note":"钢片琴属体鸣的有音高乐器（键盘触发）。常见音域 C3–C8（五组）——比钟琴低得多，用途也更宽。记谱即实音。"}
 ```
 
-- **C3–C8** (five octaves) — the **widest range** in the bar family.
-- **The working register is C4–C7**, where it is most glassy.
-- **It can carry melody** (unlike a glockenspiel, which only brightens), so orchestras write full melodic
-  lines for it.
-
-## Timbre, and how to hear it
-
-Four cues:
-
-1. **Glassy, crisp, with a little roundness** — neither as piercing as a glockenspiel nor as warm as a
-   marimba.
-2. **Velocity sensitivity**, the great difference from mallet instruments: play lightly and it really is soft.
-3. **A medium tail**: longer than a glockenspiel's, with no pedal to extend it.
-4. **Real weight low down**, since five octaves give it genuine low notes — which is why it can be a complete
-   instrument rather than a garnish.
+C3 to C8, five octaves, the widest in the family; C4 to C7 is where it sounds most glassy. Touch gives it real dynamic shading, which mallet instruments struggle to match, and there is no sustaining pedal, so the ring cannot be held. Auguste Mustel settled the design in 1886, and after Tchaikovsky used it, fairy music had a fixed colour; before that, fairy music was harps and glockenspiels. It also plays real melodic lines, not only sparkle, and doubling a piano an octave up gives brightness rather than volume.
 
 ```audiolab
 {"type":"instrument","gm":"Celesta","synth":"struck","phrase":["C4","E4","G4","C5","E5","G5"],"label":"钢片琴的常用区：C4 到 G5","label_en":"The celesta's working register — C4 up to G5","hint":"注意音色如玻璃般清脆，而且有触键的力度层次 —— 这来自键盘触发","hint_en":"Hear the glassy clarity and the touch-sensitive dynamics — a consequence of keyboard action."}
 ```
-
-## Playing techniques
-
-- **Keyboard technique** (shared with the piano); colour follows touch.
-- **No sustaining pedal**, so chords must be held by pressing keys together.
-- **Doubling the piano** an octave up is common, producing a sparkle.
-- **It also carries melodic passages on its own** (as in the **Dance of the Sugar Plum Fairy**).
-
-## The family
-
-| Instrument | Vibrating body | Triggered by | Range | Colour |
-|---|---|---|---|---|
-| [[instrument:xylophone\|Xylophone]] | hard wooden bars | mallets | F4–C8 | dry, brittle |
-| [[instrument:marimba\|Marimba]] | softer wooden bars | mallets | C2–C7 | warm, thick |
-| [[instrument:vibraphone\|Vibraphone]] | aluminium bars | mallets | F3–F6 | metallic, shimmering |
-| [[instrument:glockenspiel\|Glockenspiel]] | steel bars | mallets | G5–C8 | very bright |
-| [[instrument:tubular-bells\|Tubular bells]] | metal tubes | mallets | C4–F6 | bell-like |
-| **Celesta** | **steel plates** | **keyboard** | **C3–C8** | **glassy** |
-
-**All six are "idiophone + pitched"** — the complete membership of that cell. Whether it is hammers or a
-keyboard affects **who plays it**, not how it is classified.
-
-## History
-
-| Period | State |
-|---|---|
-| 1886 (France) | settled by **Auguste Mustel**; earlier "keyboard steel-plate" experiments existed |
-| 1880s–90s | Tchaikovsky uses it in the **Dance of the Sugar Plum Fairy** → its colour is remembered worldwide |
-| 20th c. | becomes standard orchestral and film-scoring colour; its use widens from "fairy/magic" to "time, memory, sparkle" |
-| Late 20th c. onward | a common colour instrument in orchestra, film and pop arranging |
-
-**The **Dance of the Sugar Plum Fairy** is effectively its calling card** — before it, "fairy music" was
-expressed with other colours; after it, the celesta became a **standard symbol**. The same mechanism as the
-[[instrument:gong|gong]] standing for ritual in film: **once a colour is bound to an image, it carries that
-image for a long time.**
-
-## Common misconceptions
-
-- **"The celesta is a keyboard instrument."** It **has** a keyboard but belongs to **percussion · idiophone** —
-  the test is what vibrates (steel plates), not how it is played.
-- **"It is the same as a glockenspiel."** Both are "steel + pitched", but the **trigger differs** (keyboard
-  versus mallets), as do range (C3–C8 versus G5–C8) and colour.
-- **"It is only a garnish."** Five octaves let it carry complete melodies — solo passages are common.
-- **"It is the same family as the piano."** Both have keyboards, but **the piano is a chordophone** (strings)
-  and the celesta an **idiophone** (steel plates) — **same interface, different class.**
-- **"It cannot control dynamics."** The opposite: keyboard action gives it **velocity-sensitive layering**,
-  which mallet instruments struggle to match.
-
-## Next
-
-Eleven percussion entries remain: castanets · claves · whip · anvil · wind chimes · maracas · rainstick ·
-woodblock · **drum kit** · **Latin percussion** · **handpan**. The last three are the most substantial — the
-first two are "one instrument that is really a set", and the handpan an idiophone that only appeared around
-2000.
 :::

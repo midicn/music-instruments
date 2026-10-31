@@ -38,7 +38,7 @@ updated: 2026-09-26
 它的名字就是这段关系的记录 —— 希腊语 **ophis（蛇）+ kleis（键）**，意为"带键的蛇形号"。
 
 它的历史任务是**给低音声部一个可靠的铜管**。它做到了，但只做了二三十年 ——
-**1835 年大号出现后，它迅速退场。** 它的失败恰好解释了活塞为什么重要。
+1835 年大号出现后，它迅速退场。 它的失败恰好解释了活塞为什么重要。
 
 | 分类 | 归属 |
 |---|---|
@@ -47,12 +47,12 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 铜管（早期支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，奥菲克莱德号不在其中 |
 
-> ⚠️ **一个概念上的要点**：**"有键"与"有活塞"是两种完全不同的技术。**
-> - **键系**：一个键开**一个孔** → 想覆盖全部半音就需要**很多键**，
->   而每个键都要密封、都要手指够到 → **指法复杂、反应迟钝**。
-> - **活塞**：一个手指动作**接入一整段管子** → 指法与木管一样简洁 → **反应快、密封可靠**。
+> ⚠️ 一个概念上的要点："有键"与"有活塞"是两种完全不同的技术。
+> - 键系：一个键开一个孔 → 想覆盖全部半音就需要很多键，
+>   而每个键都要密封、都要手指够到 → 指法复杂、反应迟钝。
+> - 活塞：一个手指动作接入一整段管子 → 指法与木管一样简洁 → 反应快、密封可靠。
 >
-> **两者都在解决"补齐泛音列之间的音"，但活塞的解法在低音区明显更有效** ——
+> 两者都在解决"补齐泛音列之间的音"，但活塞的解法在低音区明显更有效 ——
 > 这就是奥菲克莱德号只风光了二三十年的原因。
 
 ## 结构：圆锥管 + 键系
@@ -96,10 +96,10 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **铜制圆锥管**。比蛇形号耐用、音色更明确，音量也更大 —— 这是它迅速取代蛇形号的直接原因。
-2. **九至十二个键**。按键数量已经不少，但**每个键只解决一个音** ——
+1. 铜制圆锥管。比蛇形号耐用、音色更明确，音量也更大 —— 这是它迅速取代蛇形号的直接原因。
+2. 九至十二个键。按键数量已经不少，但每个键只解决一个音 ——
    要覆盖全部半音，键数会迅速变得不可管理。
-3. **喇叭口朝上外张**。低音铜管的共同做法（低频向下会被吸收）。
+3. 喇叭口朝上外张。低音铜管的共同做法（低频向下会被吸收）。
 
 ## 为什么键系只风光了二三十年
 
@@ -133,7 +133,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这段技术史的教益**：
+这段技术史的教益：
 
 | 路线 | 代表 | 在低音区的表现 |
 |---|---|---|
@@ -142,8 +142,8 @@ updated: 2026-09-26
 | 指孔 + 键 | **奥菲克莱德号** | 反应慢、密封难、孔太大 |
 | **活塞** | [[instrument:tuba\|大号]] | **稳定、快、可靠** |
 
-**四步走完，答案是唯一的** —— 这也是乐器史里一个很典型的例子：
-**一项技术被淘汰，常常不是因为它做错了什么，而是因为有另一条路线在同一个问题上更省力。**
+四步走完，答案是唯一的 —— 这也是乐器史里一个很典型的例子：
+一项技术被淘汰，常常不是因为它做错了什么，而是因为有另一条路线在同一个问题上更省力。
 
 ## 音域
 
@@ -151,32 +151,32 @@ updated: 2026-09-26
 {"range":"C2–C4","common":"C2–C3","caption":"奥菲克莱德号的音域","caption_en":"Ophicleide range","note":"奥菲克莱德号是铜制、靠指孔与键系取音的低音铜管，音域约 C2–C4（高音区可再上探）。记谱即实音。名称来自希腊语「蛇 + 键」—— 它被看作蛇形号的改进。"}
 ```
 
-- **约 C2–C4**，两个八度 —— 正好是管弦乐低音声部的音区。
-- **常用区 C2–C3**：它的工作几乎全在低音区。
-- **高音区（C4 附近）** 音色会变紧、变薄 —— 这一段它不如[[instrument:trombone|长号]]。
+- 约 C2–C4，两个八度 —— 正好是管弦乐低音声部的音区。
+- 常用区 C2–C3：它的工作几乎全在低音区。
+- 高音区（C4 附近） 音色会变紧、变薄 —— 这一段它不如[[instrument:trombone|长号]]。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **厚、亮、带"铜的硬"**。比蛇形号明确得多 —— 这是铜管管身带来的。
-2. **低音区有独特的力量感**。它不像大号那样"圆"，而是**硬一些、边缘更清楚**。
-3. **反应偏慢**。键系在低音区的迟钝直接反映在发音上。
-4. **音准仍然不稳**。键孔盖的密封性与大孔溢流都会影响音高 —— 这是它的固有弱点。
+1. 厚、亮、带"铜的硬"。比蛇形号明确得多 —— 这是铜管管身带来的。
+2. 低音区有独特的力量感。它不像大号那样"圆"，而是硬一些、边缘更清楚。
+3. 反应偏慢。键系在低音区的迟钝直接反映在发音上。
+4. 音准仍然不稳。键孔盖的密封性与大孔溢流都会影响音高 —— 这是它的固有弱点。
 
 ```audiolab
 {"type":"instrument","gm":"Tuba","synth":"brass","phrase":["C2","G2","C3","E3","G3"],"label":"奥菲克莱德号的常用区：C2 到 G3","label_en":"The ophicleide's working register — C2 up to G3","hint":"注意比大号更硬更亮的低音 —— 通用音色表里没有奥菲克莱德号，这里借大号音色近似","hint_en":"Hear a harder, brighter low end than a tuba's. General MIDI has no ophicleide, so a tuba sample stands in."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）里**没有奥菲克莱德号**。
-> 上面播放的是**大号**音色 —— 音区对了，但**它那种更硬、更有边缘的音色听不到。**
+> ⚠️ 关于试听：通用音色表（General MIDI）里没有奥菲克莱德号。
+> 上面播放的是大号音色 —— 音区对了，但它那种更硬、更有边缘的音色听不到。
 
 ## 演奏技法
 
-- **指法与木管相近但不相同**。键系排列与现代木管不同，需要专门学习。
-- **低音区需要极大的气量**。管径大、音区低，气流要非常充沛。
-- **高音区靠泛音列与键孔配合**。它的高音区不如长号稳定。
-- **在柏辽兹与门德尔松的谱上能看到它** —— 那些声部今天通常由大号或长号替代。
+- 指法与木管相近但不相同。键系排列与现代木管不同，需要专门学习。
+- 低音区需要极大的气量。管径大、音区低，气流要非常充沛。
+- 高音区靠泛音列与键孔配合。它的高音区不如长号稳定。
+- 在柏辽兹与门德尔松的谱上能看到它 —— 那些声部今天通常由大号或长号替代。
 
 ## 家族与近亲
 
@@ -187,8 +187,8 @@ updated: 2026-09-26
 | [[instrument:tuba\|大号]] | **活塞** | D1–F4 | 1835 年起 | 沿用至今 |
 | [[instrument:trombone\|长号]] | 滑管 | E2–B♭4 | 15 世纪起 | 沿用至今 |
 
-**注意最后两行**：长号用滑管、大号用活塞，
-**同一个时代的两种技术都活了下来** —— 而键系路线（蛇形号 → 奥菲克莱德号）整体退场。
+注意最后两行：长号用滑管、大号用活塞，
+同一个时代的两种技术都活了下来 —— 而键系路线（蛇形号 → 奥菲克莱德号）整体退场。
 
 ## 历史演变
 
@@ -202,19 +202,19 @@ updated: 2026-09-26
 | 20 世纪 | 古乐运动让它少量复活；也有当代作品为它写新声部 |
 | 20 世纪后期至今 | 保留在复古演奏与乐器史研究里 |
 
-**它在总谱里留下了几处著名的痕迹**：柏辽兹《幻想交响曲》的某些版本、
+它在总谱里留下了几处著名的痕迹：柏辽兹《幻想交响曲》的某些版本、
 门德尔松《仲夏夜之梦》序曲的低音声部等。
-今天的演出中这些声部多由**大号或长号**替代 —— 所以它成了一件"在谱上有、在台上少见"的乐器。
+今天的演出中这些声部多由大号或长号替代 —— 所以它成了一件"在谱上有、在台上少见"的乐器。
 
 ## 常见误解
 
-- **"奥菲克莱德号是活塞乐器。"** 它**没有活塞**，靠**键系开孔**取音 ——
+- "奥菲克莱德号是活塞乐器。" 它没有活塞，靠键系开孔取音 ——
   这正是它被淘汰的原因。
-- **"有键就更先进。"** 键系在低音区效率很低：孔大难密封、指法复杂、反应慢。
-- **"它是大号的早期名称。"** 两者是不同的乐器，取音方式完全不同；
-  大号是**取代**了它，不是**改名**。
-- **"它只用在法国。"** 英、德等地的乐队也使用过；它的地位在 19 世纪上半叶相当普遍。
-- **"它已经灭绝。"** 古乐运动保留了它，今天有专门的演奏者与复制乐器。
+- "有键就更先进。" 键系在低音区效率很低：孔大难密封、指法复杂、反应慢。
+- "它是大号的早期名称。" 两者是不同的乐器，取音方式完全不同；
+  大号是取代了它，不是改名。
+- "它只用在法国。" 英、德等地的乐队也使用过；它的地位在 19 世纪上半叶相当普遍。
+- "它已经灭绝。" 古乐运动保留了它，今天有专门的演奏者与复制乐器。
 
 ## 下一步
 
@@ -223,7 +223,8 @@ updated: 2026-09-26
 → 奥菲克莱德号（键系）→ [[instrument:tuba|大号]]（活塞）。
 
 铜管部分还剩最后一件特殊乐器：[[instrument:wagner-tuba|瓦格纳大号]]。
-它值得单独看，因为它是"**号嘴与管身可以分别选配**"这条设计自由度的最好例证。
+它值得单独看，因为它是"号嘴与管身可以分别选配"这条设计自由度的最好例证。
+
 :::
 
 ::: en
@@ -232,7 +233,7 @@ replaced by brass, bare holes by a **key system**. Its name records the relation
 **ophis (snake) + kleis (key)**, "the keyed serpent".
 
 Its historical task was to **give the bass a reliable brass instrument**. It succeeded — for only twenty or
-thirty years: **after 1835, when the tuba appeared, it left the stage.** Its failure is exactly what explains
+thirty years: after 1835, when the tuba appeared, it left the stage. Its failure is exactly what explains
 why valves mattered.
 
 | Classification | Value |
@@ -242,11 +243,11 @@ why valves mattered.
 | **Family** | Western · Brass (early branch) |
 | **Bayin** | Not applicable — a Chinese system; the ophicleide is outside it |
 
-> ⚠️ **One conceptual point**: **"keyed" and "valved" are completely different technologies.**
-> - **Keys**: one key opens **one hole** → covering every semitone needs **many keys**, each of which must
->   seal and be reachable → **complex fingering, slow response**.
-> - **Valves**: one finger movement **switches in a whole length of tube** → fingering as simple as a
->   woodwind's → **fast and reliably sealed**.
+> ⚠️ One conceptual point: "keyed" and "valved" are completely different technologies.
+> - Keys: one key opens one hole → covering every semitone needs many keys, each of which must
+>   seal and be reachable → complex fingering, slow response.
+> - Valves: one finger movement switches in a whole length of tube → fingering as simple as a
+>   woodwind's → fast and reliably sealed.
 >
 > **Both solve "fill in the notes between partials", but valves are plainly the better solution in the low
 > register** — which is why the ophicleide's heyday lasted only a couple of decades.
@@ -292,11 +293,11 @@ why valves mattered.
 
 Three points:
 
-1. **A brass conical tube.** More durable than the serpent, with a clearer tone and more volume — the direct
+1. A brass conical tube. More durable than the serpent, with a clearer tone and more volume — the direct
    reason it displaced it quickly.
-2. **Nine to twelve keys.** Already a lot, yet **each key solves only one note** — covering every semitone
+2. Nine to twelve keys. Already a lot, yet each key solves only one note — covering every semitone
    quickly becomes unmanageable.
-3. **An upward-flaring bell**, standard for low brass (low frequencies aimed at the floor are absorbed).
+3. An upward-flaring bell, standard for low brass (low frequencies aimed at the floor are absorbed).
 
 ## Why the keys lasted only a couple of decades
 
@@ -330,7 +331,7 @@ Three points:
 </svg>
 ```
 
-**The lesson of this technical history**:
+The lesson of this technical history:
 
 | Route | Example | In the low register |
 |---|---|---|
@@ -339,7 +340,7 @@ Three points:
 | Holes + keys | **ophicleide** | slow, hard to seal, holes too large |
 | **Valves** | [[instrument:tuba\|tuba]] | **stable, fast, reliable** |
 
-**Four steps, one answer** — a textbook case in instrument history: **a technology is often abandoned not
+Four steps, one answer — a textbook case in instrument history: **a technology is often abandoned not
 because it did anything wrong, but because another route is less effort on the same problem.**
 
 ## Range
@@ -348,33 +349,33 @@ because it did anything wrong, but because another route is less effort on the s
 {"range":"C2–C4","common":"C2–C3","caption":"奥菲克莱德号的音域","caption_en":"Ophicleide range","note":"奥菲克莱德号是铜制、靠指孔与键系取音的低音铜管，音域约 C2–C4（高音区可再上探）。记谱即实音。名称来自希腊语「蛇 + 键」—— 它被看作蛇形号的改进。"}
 ```
 
-- **About C2–C4**, two octaves — precisely the orchestral bass register.
-- **The working register is C2–C3**; almost all its work is low.
-- **Around C4** the tone tightens and thins — less capable there than a [[instrument:trombone|trombone]].
+- About C2–C4, two octaves — precisely the orchestral bass register.
+- The working register is C2–C3; almost all its work is low.
+- Around C4 the tone tightens and thins — less capable there than a [[instrument:trombone|trombone]].
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Thick, bright, with a brassy hardness** — much clearer than the serpent's, thanks to the brass body.
-2. **A distinctive low-register force.** Not as round as a tuba — harder, with clearer edges.
-3. **Rather slow in response**, the key system's sluggishness showing in the attack.
-4. **Pitch still unstable**: pad sealing and leakage from large holes both affect it — an inherent weakness.
+1. Thick, bright, with a brassy hardness — much clearer than the serpent's, thanks to the brass body.
+2. A distinctive low-register force. Not as round as a tuba — harder, with clearer edges.
+3. Rather slow in response, the key system's sluggishness showing in the attack.
+4. Pitch still unstable: pad sealing and leakage from large holes both affect it — an inherent weakness.
 
 ```audiolab
 {"type":"instrument","gm":"Tuba","synth":"brass","phrase":["C2","G2","C3","E3","G3"],"label":"奥菲克莱德号的常用区：C2 到 G3","label_en":"The ophicleide's working register — C2 up to G3","hint":"注意比大号更硬更亮的低音 —— 通用音色表里没有奥菲克莱德号，这里借大号音色近似","hint_en":"Hear a harder, brighter low end than a tuba's. General MIDI has no ophicleide, so a tuba sample stands in."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI set has **no ophicleide**. A **tuba** sample plays above — the
-> register is right, but **the harder, edgier tone is absent.**
+> ⚠️ On the audio: the General MIDI set has no ophicleide. A tuba sample plays above — the
+> register is right, but the harder, edgier tone is absent.
 
 ## Playing techniques
 
-- **Fingering is woodwind-like but not identical**; the key layout differs from any modern woodwind and must
+- Fingering is woodwind-like but not identical; the key layout differs from any modern woodwind and must
   be learned separately.
-- **A very large air requirement** for the low register — wide bore, low pitch.
-- **The top register mixes partials with keyed holes**, and is less stable than a trombone's.
-- **It can be seen in Berlioz and Mendelssohn** — parts now normally given to tuba or trombone.
+- A very large air requirement for the low register — wide bore, low pitch.
+- The top register mixes partials with keyed holes, and is less stable than a trombone's.
+- It can be seen in Berlioz and Mendelssohn — parts now normally given to tuba or trombone.
 
 ## The family
 
@@ -385,7 +386,7 @@ Four cues:
 | [[instrument:tuba\|Tuba]] | **valves** | D1–F4 | from 1835 | still in use |
 | [[instrument:trombone\|Trombone]] | slide | E2–B♭4 | from the 15th c. | still in use |
 
-**Note the last two rows**: the slide and the valve, two technologies of the same era, both survived — while
+Note the last two rows: the slide and the valve, two technologies of the same era, both survived — while
 the key route (serpent → ophicleide) left the stage entirely.
 
 ## History
@@ -400,25 +401,25 @@ the key route (serpent → ophicleide) left the stage entirely.
 | 20th c. | the early-music movement revives it in small doses; composers write new parts for it |
 | Late 20th c. onward | kept alive in period performance and organology |
 
-**It left a few famous traces in scores**: certain versions of Berlioz's **Symphonie fantastique**, the bass of
-Mendelssohn's **A Midsummer Night's Dream** overture, and others. Today those parts are usually taken by
-**tuba or trombone** — making it an instrument "on the page but rarely on the stage".
+It left a few famous traces in scores: certain versions of Berlioz's Symphonie fantastique, the bass of
+Mendelssohn's A Midsummer Night's Dream overture, and others. Today those parts are usually taken by
+tuba or trombone — making it an instrument "on the page but rarely on the stage".
 
 ## Common misconceptions
 
-- **"An ophicleide has valves."** It has **no valves** — it is stopped by **keys over holes**, exactly why it
+- "An ophicleide has valves." It has no valves — it is stopped by keys over holes, exactly why it
   was displaced.
-- **"Keys are more advanced."** Down low they are inefficient: large holes are hard to seal, fingering is
+- "Keys are more advanced." Down low they are inefficient: large holes are hard to seal, fingering is
   complex and response is slow.
-- **"It is just an early name for the tuba."** They are different instruments with completely different note
-  selection; the tuba **replaced** it rather than renaming it.
-- **"It was used only in France."** English and German bands used it too; in the first half of the 19th
+- "It is just an early name for the tuba." They are different instruments with completely different note
+  selection; the tuba replaced it rather than renaming it.
+- "It was used only in France." English and German bands used it too; in the first half of the 19th
   century it was widely established.
-- **"It is extinct."** The early-music movement keeps it alive, with dedicated players and modern copies.
+- "It is extinct." The early-music movement keeps it alive, with dedicated players and modern copies.
 
 ## Next
 
-That completes the brass line's **historical branch**: [[instrument:natural-trumpet|natural trumpet]] (series
+That completes the brass line's historical branch: [[instrument:natural-trumpet|natural trumpet]] (series
 only) → [[instrument:serpent|serpent]] (holes) → ophicleide (keys) → [[instrument:tuba|tuba]] (valves).
 
 One special instrument remains in the brass: the [[instrument:wagner-tuba|Wagner tuba]]. It deserves its own

@@ -44,17 +44,17 @@ updated: 2026-09-26
 > ⚠️ **筝有柱，古琴没有。**
 > | | [[instrument:guqin\|古琴]]（无柱） | **筝**（一弦一柱） |
 > |---|---|---|
-> | 音高怎么来 | **左手按弦，当下决定** | **柱预先定好** |
-> | 每根弦能出几个音 | **很多**（按到哪算哪） | **一个** |
-> | 弹奏时演奏者在做什么 | **一边造音，一边发音** | **只是"选弦"** |
-> | 音量 | 小 | **大得多** |
-> | 场合 | 书斋 · 弹给自己听 | **舞台 · 合奏 · 一屋子人** |
+> | 音高怎么来 | 左手按弦，当下决定 | 柱预先定好 |
+> | 每根弦能出几个音 | 很多（按到哪算哪） | 一个 |
+> | 弹奏时演奏者在做什么 | 一边造音，一边发音 | 只是"选弦" |
+> | 音量 | 小 | 大得多 |
+> | 场合 | 书斋 · 弹给自己听 | 舞台 · 合奏 · 一屋子人 |
 >
-> **一次结构上的妥协，就是两种命运。**
-> 筝把"选音"这件事从**左手的手上**挪到了**调音的那几分钟里** ——
-> 换来的是**更大的音量**与**更快的速度**，付出的是**一弦只能一个音**。
+> 一次结构上的妥协，就是两种命运。
+> 筝把"选音"这件事从左手的手上挪到了调音的那几分钟里 ——
+> 换来的是更大的音量与更快的速度，付出的是一弦只能一个音。
 >
-> **"移柱应律"是筝最显著的标志**：想改音高，去动那根柱子。
+> "移柱应律"是筝最显著的标志：想改音高，去动那根柱子。
 
 | 分类 | 归属 |
 |---|---|
@@ -99,14 +99,14 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **柱子排成一条斜线**。二十一枚雁柱**从低音到高音逐渐上升**，
-   排成"雁飞"的形状 —— 所以叫**雁柱**。**移动它就能改音高**（移柱应律）。
-2. **弦数就是它的音域史**。从最早的五弦，到秦汉十二弦、唐宋十三弦、
-   明清十四至十六弦，直到**现代二十一弦** —— **加一根弦，就多一个音。**
-3. **它与[[instrument:harp|竖琴]]是"两个方向上的同一种解法"**：
-   竖琴用**不同长度的弦**给出不同音高（弦逐级加长）；
-   筝用**同一列弦 + 可移动的柱**，让每根弦的有效长度不同。
-   **目标一样，做法一个是"造弦"，一个是"移柱"。**
+1. 柱子排成一条斜线。二十一枚雁柱从低音到高音逐渐上升，
+   排成"雁飞"的形状 —— 所以叫雁柱。移动它就能改音高（移柱应律）。
+2. 弦数就是它的音域史。从最早的五弦，到秦汉十二弦、唐宋十三弦、
+   明清十四至十六弦，直到现代二十一弦 —— 加一根弦，就多一个音。
+3. 它与[[instrument:harp|竖琴]]是"两个方向上的同一种解法"：
+   竖琴用不同长度的弦给出不同音高（弦逐级加长）；
+   筝用同一列弦 + 可移动的柱，让每根弦的有效长度不同。
+   目标一样，做法一个是"造弦"，一个是"移柱"。
 
 ## 有柱与无柱
 
@@ -138,32 +138,32 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图是整页的分岔点**：
+这张图是整页的分岔点：
 
-- **无柱**（[[instrument:guqin|古琴]] · [[instrument:pipa|琵琶]]的按音区）：左手**按到哪算哪**，
-  一根弦能出很多音，音高是**连续的线** —— 代价是**音量小、速度慢**。
-- **有柱**（筝）：**一根弦一个音**，音高**在调音时就定好** ——
-  收益是**音量大得多**（柱把弦的张力撑起来，配大音箱）**与速度快得多**（右手只管拨）。
-- **代价也是明摆着的**：**音要多，就得加弦** ——
-  所以筝的**弦数史就是它的音域史**：5 → 12 → 13 → 16 → **21** → 25 弦。
+- 无柱（[[instrument:guqin|古琴]] · [[instrument:pipa|琵琶]]的按音区）：左手按到哪算哪，
+  一根弦能出很多音，音高是连续的线 —— 代价是音量小、速度慢。
+- 有柱（筝）：一根弦一个音，音高在调音时就定好 ——
+  收益是音量大得多（柱把弦的张力撑起来，配大音箱）与速度快得多（右手只管拨）。
+- 代价也是明摆着的：音要多，就得加弦 ——
+  所以筝的弦数史就是它的音域史：5 → 12 → 13 → 16 → 21 → 25 弦。
 
-**这就是"一次结构上的妥协，两种命运"**：
-**一个弹给自己听，一个弹给一屋子人听。**
+这就是"一次结构上的妥协，两种命运"：
+一个弹给自己听，一个弹给一屋子人听。
 
 ## 以韵补声：定弦只有五声
 
-筝的定弦**按五声音阶排列** —— 也就是说，**没有 fa 和 si 的弦**。
+筝的定弦按五声音阶排列 —— 也就是说，没有 fa 和 si 的弦。
 
-那么这两个音从哪来？**在 mi 与 la 两弦上按弦按出来。**
-这一手有个很好的名字：**「以韵补声」** —— **用"韵"去补"声"的缺口。**
+那么这两个音从哪来？在 mi 与 la 两弦上按弦按出来。
+这一手有个很好的名字：「以韵补声」 —— 用"韵"去补"声"的缺口。
 
 三个连带的后果：
 
-1. **筝的左手因此没有失业**。右手负责"选弦"，左手负责**在弦上把缺的音按出来**。
-2. **按音成了它的风格来源**。按弦的**力度 · 幅度 · 时值**不同，
+1. 筝的左手因此没有失业。右手负责"选弦"，左手负责在弦上把缺的音按出来。
+2. 按音成了它的风格来源。按弦的力度 · 幅度 · 时值不同，
    各地筝曲就形成了不同的风味 —— 这是"以韵补声"更深的含义：
-   **缺的两个音只是技术问题，而"怎么按"是艺术问题。**
-3. **它同时用两条腿走路**：**加弦**解决音域，**按弦**解决缺音 ——
+   缺的两个音只是技术问题，而"怎么按"是艺术问题。
+3. 它同时用两条腿走路：加弦解决音域，按弦解决缺音 ——
    而这两条路分别对应本书的另外两条主线（"档位数量 = 自由度"与"音高如何被做出来"）。
 
 ## 音域
@@ -172,22 +172,22 @@ updated: 2026-09-26
 {"range":"D2–D6","caption":"筝的音域（二十一弦）","caption_en":"Zheng range — the 21-string instrument","note":"筝属弦鸣乐器（拨弦，一弦一柱）。二十一弦筝音域为 D2–D6，共四个八度；其他规格：十三弦为 A–d²、十六弦为 A–a²、二十五弦可达 A¹–g³ 或 D–b³。乐团合奏亦用二十五 · 二十六弦。定弦按五声音阶排列，fa 与 si 需在 mi · la 两弦上按弦取得。记谱即实音。"}
 ```
 
-- **四个八度**（D2–D6，二十一弦）—— 比[[instrument:guqin|古琴]]略窄，但**低音厚得多**。
-- **低音是"真的低音"**。古琴的低音是七根空弦上的一组点，而筝用**更长更粗的弦 + 大音箱**，
+- 四个八度（D2–D6，二十一弦）—— 比[[instrument:guqin|古琴]]略窄，但低音厚得多。
+- 低音是"真的低音"。古琴的低音是七根空弦上的一组点，而筝用更长更粗的弦 + 大音箱，
    声音更饱满 —— 这正是它音量大的原因之一。
-- **加弦是为了加音域**：乐团里常配**二十五 · 二十六弦**筝，
-   以及高音筝 · 低音筝 —— **同一件乐器按音区分工**。
+- 加弦是为了加音域：乐团里常配二十五 · 二十六弦筝，
+   以及高音筝 · 低音筝 —— 同一件乐器按音区分工。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **明亮、结实、余音长**。共鸣箱大 → 声音比古琴**亮而外放**。
-2. **一颗颗清楚的音**。"摇指"（快速反复拨同一弦）把点连成线，
-   "刮奏"（扫过一串弦）则是一道**水声般的滑行**。
-3. **低音厚 · 高音清**。二十一弦跨四个八度，音区之间差别明显。
-4. **"东方的钢琴"这个说法说的是它的角色**：音域宽、音量大、和声与伴奏能力好 ——
-   **它是一件能被"抬到大场面"的中国乐器**。
+1. 明亮、结实、余音长。共鸣箱大 → 声音比古琴亮而外放。
+2. 一颗颗清楚的音。"摇指"（快速反复拨同一弦）把点连成线，
+   "刮奏"（扫过一串弦）则是一道水声般的滑行。
+3. 低音厚 · 高音清。二十一弦跨四个八度，音区之间差别明显。
+4. "东方的钢琴"这个说法说的是它的角色：音域宽、音量大、和声与伴奏能力好 ——
+   它是一件能被"抬到大场面"的中国乐器。
 
 ```audiolab
 {"type":"instrument","gm":"Koto","synth":"plucked","phrase":["D3","E3","G3","A3","D4","E4"],"label":"筝的常用区：D3 到 E4","label_en":"The zheng's working register — D3 up to E4","hint":"注意按五声排列的弦序（没有 fa 与 si）—— 通用音色表里的筝（Koto）正是日本仿中国筝而制的乐器，这次是同族借用","hint_en":"Listen for the pentatonic string order — no fa, no si. The koto in General MIDI is Japan's descendant of the Chinese zheng, so this is a family stand-in."}
@@ -195,12 +195,12 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **右手弹，左手按**。右手用大 · 食 · 中三指拨弦（常戴**义甲**：玳瑁 · 尼龙 · 塑料制，胶带固定于第一指节）；
-   左手在**柱的左侧**按弦，改变张力来润色旋律。
-- **右手技法**：托 · 劈 · 挑 · 抹 · 剔 · 勾 · 摇 · 撮 —— 其中**摇指**把点连成线，**刮奏**带动整串弦。
-- **左手技法**：按音 · 滑音 · 揉弦 · 颤音 · 泛音 · 煞音 · 扣弦。
-- **戴着义甲弹**。现代普遍戴；也有流派主张不戴 —— 音色因此不同。
-- **五大流派**：**陕西 · 河南 · 山东 · 浙江 · 客家**（另有潮州筝 · 福建筝等），
+- 右手弹，左手按。右手用大 · 食 · 中三指拨弦（常戴义甲：玳瑁 · 尼龙 · 塑料制，胶带固定于第一指节）；
+   左手在柱的左侧按弦，改变张力来润色旋律。
+- 右手技法：托 · 劈 · 挑 · 抹 · 剔 · 勾 · 摇 · 撮 —— 其中摇指把点连成线，刮奏带动整串弦。
+- 左手技法：按音 · 滑音 · 揉弦 · 颤音 · 泛音 · 煞音 · 扣弦。
+- 戴着义甲弹。现代普遍戴；也有流派主张不戴 —— 音色因此不同。
+- 五大流派：陕西 · 河南 · 山东 · 浙江 · 客家（另有潮州筝 · 福建筝等），
    各自风格与"怎么按弦"直接相关。
 
 ## 家族与近亲
@@ -213,9 +213,9 @@ updated: 2026-09-26
 | [[instrument:harp\|竖琴]] | 无（弦逐级加长） | 一个 | **造琴时定好** | 中大 |
 | [[instrument:clavichord\|击弦古钢琴]] | **有品（固定）** | 多数 | 按键（可揉弦） | 极小 |
 
-**这一族的判断轴是"音高在哪一刻被决定"**：
-**造琴时**（竖琴）· **调音时**（筝）· **按下去的那一刻**（古琴 · 琵琶 · 击弦古钢琴）。
-**越靠后决定，演奏者手上的活越多，音量与速度就越受限** —— 而且这个代价是不可两边都占的。
+这一族的判断轴是"音高在哪一刻被决定"：
+造琴时（竖琴）· 调音时（筝）· 按下去的那一刻（古琴 · 琵琶 · 击弦古钢琴）。
+越靠后决定，演奏者手上的活越多，音量与速度就越受限 —— 而且这个代价是不可两边都占的。
 
 ## 历史演变
 
@@ -228,35 +228,36 @@ updated: 2026-09-26
 | 近现代 | 定型为**二十一弦**（最常用）；出现二十五 · 二十六弦以及高音筝 · 低音筝；形成**五大流派** |
 | 今天 | 中国最普及的弹拨乐器之一；既有大量独奏曲目，也是民族乐队 · 流行音乐 · 教学与考级的常客 |
 
-**它与[[instrument:guqin|古琴]]的对照贯穿了整个历史**：
-一面是"**士无故不撤琴瑟**"（修养之物，弹给自己听），
-一面是"**秦之声**"（热闹、公开、数量多）。
-**同一种材料、同一种手法，只因为多了那一列柱子，就走上了两条路。**
+它与[[instrument:guqin|古琴]]的对照贯穿了整个历史：
+一面是"士无故不撤琴瑟"（修养之物，弹给自己听），
+一面是"秦之声"（热闹、公开、数量多）。
+同一种材料、同一种手法，只因为多了那一列柱子，就走上了两条路。
 
 ## 常见误解
 
-- **"筝就是古琴。"** 两件乐器：**古琴七弦无柱，筝二十一弦一弦一柱**；
-   古琴音量小、多在书斋；筝音量大、常上舞台。**最简判据：看有没有柱子。**
-- **"筝有二十一弦，所以有二十一个音。"** 它有**二十一个弦音**，
-   但**fa 与 si 要在 mi · la 两弦上按出来** —— 所以实际能演奏的音**多于弦数**。
-- **"定弦只有五声，所以筝不能弹七声音阶。"** 能 ——
-   按弦补出 fa 与 si 之后，**五声 · 六声 · 七声音阶都可以演奏**。
-- **"有柱就意味着音高不能改。"** **柱是可移动的**：**移柱应律**正是筝最显著的标志。
-   只是**不能边弹边移**（那是调音的事）。
-- **"筝只是民间的热闹乐器。"** 它在古代宫廷音乐里同样重要（汉相和歌 · 隋九部乐 · 唐十部乐），
+- "筝就是古琴。" 两件乐器：古琴七弦无柱，筝二十一弦一弦一柱；
+   古琴音量小、多在书斋；筝音量大、常上舞台。最简判据：看有没有柱子。
+- "筝有二十一弦，所以有二十一个音。" 它有二十一个弦音，
+   但fa 与 si 要在 mi · la 两弦上按出来 —— 所以实际能演奏的音多于弦数。
+- "定弦只有五声，所以筝不能弹七声音阶。" 能 ——
+   按弦补出 fa 与 si 之后，五声 · 六声 · 七声音阶都可以演奏。
+- "有柱就意味着音高不能改。" 柱是可移动的：移柱应律正是筝最显著的标志。
+   只是不能边弹边移（那是调音的事）。
+- "筝只是民间的热闹乐器。" 它在古代宫廷音乐里同样重要（汉相和歌 · 隋九部乐 · 唐十部乐），
    也有完整的独奏传统与流派体系。
-- **"八音说它是丝，所以只能用丝弦。"** 与[[instrument:guqin|古琴]]同理：
-   **八音记的是它诞生时的材料**；现代用尼龙钢丝弦，音量与稳定性都更好。
+- "八音说它是丝，所以只能用丝弦。" 与[[instrument:guqin|古琴]]同理：
+   八音记的是它诞生时的材料；现代用尼龙钢丝弦，音量与稳定性都更好。
 
 ## 下一步
 
-**弹拨这一类还差几件更专门的**：[[instrument:ruan|阮]]（圆腹直项）·
+弹拨这一类还差几件更专门的：[[instrument:ruan|阮]]（圆腹直项）·
 [[instrument:sanxian|三弦]]（无品 · 以鼓为腔）——
-它们会把"有柱 / 有品 / 无品"这三种选择摆在一起，形成一张**完整的对照**。
+它们会把"有柱 / 有品 / 无品"这三种选择摆在一起，形成一张完整的对照。
 
-而**拉弦**那一支还只有[[instrument:erhu|二胡]]一件：
-接下来是**板胡**与**京胡** —— 它们把"共鸣体换掉"这件事做到了极致：
-**同样是两根弦，只换一个琴筒，就换出了一整类戏曲的嗓音。**
+而拉弦那一支还只有[[instrument:erhu|二胡]]一件：
+接下来是板胡与京胡 —— 它们把"共鸣体换掉"这件事做到了极致：
+同样是两根弦，只换一个琴筒，就换出了一整类戏曲的嗓音。
+
 :::
 
 ::: en
@@ -266,17 +267,17 @@ single thing:
 > ⚠️ **The zheng has bridges; the guqin has none.**
 > | | [[instrument:guqin\|Guqin]] (no bridges) | **Zheng** (one bridge per string) |
 > |---|---|---|
-> | Where the pitch comes from | **left hand stops a string, in the moment** | **set in advance by the bridge** |
-> | Notes per string | **many** (wherever you stop it) | **one** |
-> | What the player does | **makes the note and sounds it** | **merely chooses a string** |
-> | Volume | small | **far larger** |
-> | Setting | a study, played for oneself | **a stage, an ensemble, a roomful of people** |
+> | Where the pitch comes from | left hand stops a string, in the moment | set in advance by the bridge |
+> | Notes per string | many (wherever you stop it) | one |
+> | What the player does | makes the note and sounds it | merely chooses a string |
+> | Volume | small | far larger |
+> | Setting | a study, played for oneself | a stage, an ensemble, a roomful of people |
 >
-> **One structural compromise, two destinies.**
-> The zheng moves "choosing the pitch" out of the left hand and into **the few minutes of tuning** — buying
-> **more volume** and **more speed**, and paying with **one note per string**.
+> One structural compromise, two destinies.
+> The zheng moves "choosing the pitch" out of the left hand and into the few minutes of tuning — buying
+> more volume and more speed, and paying with one note per string.
 >
-> **"Moving the bridge sets the pitch" is the zheng's most conspicuous feature**: to change a note, you move a
+> "Moving the bridge sets the pitch" is the zheng's most conspicuous feature: to change a note, you move a
 > post.
 
 | Classification | Value |
@@ -322,13 +323,13 @@ single thing:
 
 Three points:
 
-1. **The bridges form a rising line**, from the lowest string to the highest, like a flock in flight — hence
-   **"goose bridges"**. **Moving one changes a pitch** (moving the bridge sets the pitch).
-2. **String count is its range history**: from the earliest five, to twelve in the Qin–Han, thirteen in the
-   Tang–Song, fourteen to sixteen in the Ming–Qing, to **twenty-one today** — **add a string, gain a note.**
-3. **It and the [[instrument:harp|harp]] are the same solution in two directions**: the harp gives different pitches by
-   **strings of different lengths**; the zheng uses **one row of strings plus movable bridges** to make each
-   string's speaking length different. **One makes strings, the other moves posts.**
+1. The bridges form a rising line, from the lowest string to the highest, like a flock in flight — hence
+   "goose bridges". Moving one changes a pitch (moving the bridge sets the pitch).
+2. String count is its range history: from the earliest five, to twelve in the Qin–Han, thirteen in the
+   Tang–Song, fourteen to sixteen in the Ming–Qing, to twenty-one today — add a string, gain a note.
+3. It and the [[instrument:harp|harp]] are the same solution in two directions: the harp gives different pitches by
+   strings of different lengths; the zheng uses one row of strings plus movable bridges to make each
+   string's speaking length different. One makes strings, the other moves posts.
 
 ## Bridged and unbridged
 
@@ -360,33 +361,33 @@ Three points:
 </svg>
 ```
 
-**This figure is the page's fork**:
+This figure is the page's fork:
 
-- **Unbridged** (the [[instrument:guqin|guqin]], and the stopped notes of the [[instrument:pipa|pipa]]): the left hand
-  **stops wherever it likes**, one string yields many notes, and pitch is a **continuous line** — at the cost of
-  **low volume and little speed**.
-- **Bridged** (the zheng): **one note per string**, the pitch **settled at tuning** — buying **far more volume**
-  (the bridge holds the string's tension, with a large box) **and far more speed** (the right hand merely plucks).
-- **And the cost is obvious too**: **more notes means more strings** — which is why the zheng's **string count is
-  its range history**: 5 → 12 → 13 → 16 → **21** → 25.
+- Unbridged (the [[instrument:guqin|guqin]], and the stopped notes of the [[instrument:pipa|pipa]]): the left hand
+  stops wherever it likes, one string yields many notes, and pitch is a continuous line — at the cost of
+  low volume and little speed.
+- Bridged (the zheng): one note per string, the pitch settled at tuning — buying far more volume
+  (the bridge holds the string's tension, with a large box) and far more speed (the right hand merely plucks).
+- And the cost is obvious too: more notes means more strings — which is why the zheng's **string count is
+  its range history: 5 → 12 → 13 → 16 → 21** → 25.
 
-**One structural compromise, two destinies**: **one plays for its owner, the other for a roomful of people.**
+One structural compromise, two destinies: one plays for its owner, the other for a roomful of people.
 
 ## "Complementing the note with nuance": only five notes are tuned
 
-The zheng is tuned **to a pentatonic scale** — meaning **there is no string for fa or si**.
+The zheng is tuned to a pentatonic scale — meaning there is no string for fa or si.
 
-So where do those two notes come from? **They are pressed out on the mi and la strings.** This technique has a
-lovely name: **"using nuance to supply the note"** — **filling the gap in **notes** with **nuance**.**
+So where do those two notes come from? They are pressed out on the mi and la strings. This technique has a
+lovely name: "using nuance to supply the note" — filling the gap in notes with nuance.
 
 Three consequences follow:
 
-1. **The left hand is not unemployed.** The right hand chooses strings; the left hand **presses the missing notes
+1. The left hand is not unemployed. The right hand chooses strings; the left hand **presses the missing notes
    out of them**.
-2. **Pressing becomes the source of its style.** Differences in **force, depth and duration** of the press give
+2. Pressing becomes the source of its style. Differences in force, depth and duration of the press give
    regional repertoires their different flavours — which is the deeper meaning of the phrase: **the two missing
-   notes are a technical problem, but **how you press** is an artistic one.**
-3. **It walks on two legs at once**: **adding strings** solves range, **pressing** solves the gaps — and those two
+   notes are a technical problem, but how you press is an artistic one.**
+3. It walks on two legs at once: adding strings solves range, pressing solves the gaps — and those two
    roads correspond to two other threads of this project.
 
 ## Range
@@ -395,22 +396,22 @@ Three consequences follow:
 {"range":"D2–D6","caption":"筝的音域（二十一弦）","caption_en":"Zheng range — the 21-string instrument","note":"筝属弦鸣乐器（拨弦，一弦一柱）。二十一弦筝音域为 D2–D6，共四个八度；其他规格：十三弦为 A–d²、十六弦为 A–a²、二十五弦可达 A¹–g³ 或 D–b³。乐团合奏亦用二十五 · 二十六弦。定弦按五声音阶排列，fa 与 si 需在 mi · la 两弦上按弦取得。记谱即实音。"}
 ```
 
-- **Four octaves** (D2–D6 on 21 strings) — slightly narrower than the [[instrument:guqin|guqin]], but **much
+- Four octaves (D2–D6 on 21 strings) — slightly narrower than the [[instrument:guqin|guqin]], but **much
   heavier in the bass**.
-- **Its bass is real bass.** The guqin's low register is a set of points on seven open strings; the zheng uses
-  **longer, thicker strings and a large box**, which is one reason it is so much louder.
-- **Adding strings adds range**: orchestras often use **25 or 26-string** zhengs, plus high and low models —
-  **one instrument, divided by register**.
+- Its bass is real bass. The guqin's low register is a set of points on seven open strings; the zheng uses
+  longer, thicker strings and a large box, which is one reason it is so much louder.
+- Adding strings adds range: orchestras often use 25 or 26-string zhengs, plus high and low models —
+  one instrument, divided by register.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Bright, firm, long-ringing.** The large soundbox makes it **brighter and more outgoing** than the guqin.
-2. **Distinct beads of sound.** **Yao zhi** (rapid repetition on one string) joins the beads into a line, and
-   **gua zou** (sweeping across a run of strings) is a **water-like slide**.
-3. **Heavy bass, clear treble.** Four octaves make the registers plainly different.
-4. **"The piano of the East" describes its role**: wide range, good volume, good harmony — **an instrument that can
+1. Bright, firm, long-ringing. The large soundbox makes it brighter and more outgoing than the guqin.
+2. Distinct beads of sound. Yao zhi (rapid repetition on one string) joins the beads into a line, and
+   gua zou (sweeping across a run of strings) is a water-like slide.
+3. Heavy bass, clear treble. Four octaves make the registers plainly different.
+4. "The piano of the East" describes its role: wide range, good volume, good harmony — **an instrument that can
    be put on a big occasion.**
 
 ```audiolab
@@ -419,15 +420,15 @@ Four cues:
 
 ## Playing techniques
 
-- **Right hand plucks, left hand presses.** The right hand uses thumb, index and middle finger (usually with
-  **picks**: tortoiseshell, nylon or plastic, taped to the first joint of the finger); the left hand presses the
-  strings **to the left of the bridges**, changing tension to colour the melody.
-- **Right-hand techniques**: to, pi, tiao, mo, ti, gou, yao, cuo — with **yao zhi** turning points into lines and
-  **gua zou** sweeping whole runs.
-- **Left-hand techniques**: pressing, sliding, vibrato, tremolo, harmonics, damping, hooked plucking.
-- **Played with picks** by most modern players, though some schools play bare-handed — and the timbre differs.
-- **Five regional schools**: **Shaanxi · Henan · Shandong · Zhejiang · Hakka** (plus Chaozhou and Fujian styles),
-  whose differences are directly tied to **how the strings are pressed**.
+- Right hand plucks, left hand presses. The right hand uses thumb, index and middle finger (usually with
+  picks: tortoiseshell, nylon or plastic, taped to the first joint of the finger); the left hand presses the
+  strings to the left of the bridges, changing tension to colour the melody.
+- Right-hand techniques: to, pi, tiao, mo, ti, gou, yao, cuo — with yao zhi turning points into lines and
+  gua zou sweeping whole runs.
+- Left-hand techniques: pressing, sliding, vibrato, tremolo, harmonics, damping, hooked plucking.
+- Played with picks by most modern players, though some schools play bare-handed — and the timbre differs.
+- Five regional schools: Shaanxi · Henan · Shandong · Zhejiang · Hakka (plus Chaozhou and Fujian styles),
+  whose differences are directly tied to how the strings are pressed.
 
 ## The family
 
@@ -439,8 +440,8 @@ Four cues:
 | [[instrument:harp\|Harp]] | none (graded strings) | one | **when the instrument is made** | medium–loud |
 | [[instrument:clavichord\|Clavichord]] | **fixed frets** | several | by the key (and can be bent) | very small |
 
-**The axis in this family is "at what moment the pitch is decided"**: **at making** (harp) · **at tuning** (zheng) ·
-**at the instant of pressing** (guqin, pipa, clavichord). **The later the decision, the more work the hands must do
+The axis in this family is "at what moment the pitch is decided": at making (harp) · at tuning (zheng) ·
+at the instant of pressing (guqin, pipa, clavichord). **The later the decision, the more work the hands must do
 — and the more volume and speed are limited.** The trade cannot be taken from both ends.
 
 ## History
@@ -454,34 +455,34 @@ Four cues:
 | modern era | standardised at **twenty-one strings** (the most common), with 25 and 26-string and high and low models; **five regional schools** take shape |
 | today | one of China's most widely played plucked instruments, with a large solo repertoire and a constant presence in orchestras, popular music and teaching |
 
-**Its contrast with the [[instrument:guqin|guqin]] runs through the whole history**: one side is "the gentleman never
-puts aside his qin" (an object of cultivation, played for oneself); the other is "**the sound of Qin**" (public,
+Its contrast with the [[instrument:guqin|guqin]] runs through the whole history: one side is "the gentleman never
+puts aside his qin" (an object of cultivation, played for oneself); the other is "the sound of Qin" (public,
 loud, plentiful). **The same material and the same plucking — and because of one row of posts, two different
 lives.**
 
 ## Common misconceptions
 
-- **"The zheng is the guqin."** Two instruments: **the guqin has seven strings and no bridges; the zheng has
+- "The zheng is the guqin." Two instruments: **the guqin has seven strings and no bridges; the zheng has
   twenty-one strings and one bridge each**; the guqin is quiet and belongs to a study, the zheng is loud and often
-  on stage. **The shortest test: are there bridges?**
-- **"Twenty-one strings means twenty-one notes."** It has **twenty-one open-string notes**, but **fa and si are
-  pressed out of the mi and la strings** — so it can play **more notes than it has strings**.
-- **"A pentatonic tuning means it cannot play seven-note scales."** It can: with fa and si pressed in,
-  **pentatonic, hexatonic and heptatonic music are all playable.**
-- **"Bridges mean the pitch cannot be changed."** **The bridges move**, and moving them to set the pitch is the
-  zheng's signature. You simply cannot move one **while playing** — that is a tuner's job.
-- **"It is only a folk instrument for festive occasions."** It was equally important in court music (Han xianghe,
+  on stage. The shortest test: are there bridges?
+- "Twenty-one strings means twenty-one notes." It has twenty-one open-string notes, but **fa and si are
+  pressed out of the mi and la strings — so it can play more notes than it has strings**.
+- "A pentatonic tuning means it cannot play seven-note scales." It can: with fa and si pressed in,
+  pentatonic, hexatonic and heptatonic music are all playable.
+- "Bridges mean the pitch cannot be changed." The bridges move, and moving them to set the pitch is the
+  zheng's signature. You simply cannot move one while playing — that is a tuner's job.
+- "It is only a folk instrument for festive occasions." It was equally important in court music (Han xianghe,
   Sui nine-part, Tang ten-part ensembles), and it has a full solo tradition and schools.
-- **"The bayin says silk, so only silk strings will do."** As with the guqin: **the bayin records the material of its
+- "The bayin says silk, so only silk strings will do." As with the guqin: **the bayin records the material of its
   own time**; nylon-wound steel is now standard, louder and more stable.
 
 ## Next
 
-**A few more specialised plucked instruments remain**: the [[instrument:ruan|ruan]] (round-bodied, straight-necked)
+A few more specialised plucked instruments remain: the [[instrument:ruan|ruan]] (round-bodied, straight-necked)
 and the [[instrument:sanxian|sanxian]] (fretless, with a drum for a body) — together they will put the three
-choices — **bridged, fretted, or neither** — side by side in one comparison.
+choices — bridged, fretted, or neither — side by side in one comparison.
 
-And the **bowed** branch still has only the [[instrument:erhu|erhu]]: next come the **banhu** and the **jinghu**,
+And the bowed branch still has only the [[instrument:erhu|erhu]]: next come the banhu and the jinghu,
 which take "swap the resonator" as far as it will go: **two strings, one different soundbox, and an entire operatic
 voice comes out.**
 :::

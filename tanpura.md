@@ -32,39 +32,39 @@ updated: 2026-10-28
 
 坦布拉有四根弦，却**不演奏旋律**。它只做一件事：把演出的主音 **Sa** 铺成一片连续的背景，让歌手或独奏者随时有一个「家」可以回。印度音乐里，这叫 **drone**（持续音）——不是伴奏和弦，也不是低音线，而是一个**不移动的参照系**。
 
-它的声音有一个矛盾的美感：弦是**拨**的，声音却听不出一个一个的点。四根弦按顺序拨响，前一根的余响还没落，后一根已经接上；加上琴桥上的 **jiva** 线带来的高频「沙沙」泛音，最后得到的是一片**有呼吸的持续音**。
+它的声音有一个矛盾的美感：弦是拨的，声音却听不出一个一个的点。四根弦按顺序拨响，前一根的余响还没落，后一根已经接上；加上琴桥上的 jiva 线带来的高频「沙沙」泛音，最后得到的是一片有呼吸的持续音。
 
 ## 形制：葫芦、长颈、四根弦
 
-- **琴身**：常见是一只掏空的葫芦（gourd），也有木制；葫芦的圆腔给低音一个温暖的底。
-- **琴颈**：长而无品，顶端有四枚弦轴；琴颈上常有可滑动的**调音珠**，用于微调。
-- **琴桥**：**弧形**（jawari），弦不是压在一点上，而是擦过一段弧面；琴桥与弦之间夹一根**棉线（jiva）**，让弦在振动时轻轻碰到弧面，产生密集的高频泛音——这是坦布拉「亮而不断」的秘密。
-- **弦**：四根，传统为钢弦；定音通常是 **Pa – Sa – Sa – Sa**（五度、主音、主音、低八度主音）。遇到没有 Pa 的 raga，第一根改定 Ma 或 Ni。
-- **演奏**：只用空弦，不按音；食指与中指按顺序拨，速度与间隔由演奏者控制。**它不改变音高，只改变声音的密度。**
+- 琴身：常见是一只掏空的葫芦（gourd），也有木制；葫芦的圆腔给低音一个温暖的底。
+- 琴颈：长而无品，顶端有四枚弦轴；琴颈上常有可滑动的调音珠，用于微调。
+- 琴桥：弧形（jawari），弦不是压在一点上，而是擦过一段弧面；琴桥与弦之间夹一根棉线（jiva），让弦在振动时轻轻碰到弧面，产生密集的高频泛音——这是坦布拉「亮而不断」的秘密。
+- 弦：四根，传统为钢弦；定音通常是 Pa – Sa – Sa – Sa（五度、主音、主音、低八度主音）。遇到没有 Pa 的 raga，第一根改定 Ma 或 Ni。
+- 演奏：只用空弦，不按音；食指与中指按顺序拨，速度与间隔由演奏者控制。它不改变音高，只改变声音的密度。
 
 ## 它定的不是音，是「家」
 
-坦布拉最重要的功能是**定主音**。同一场演出里，坦布拉的 Sa 就是所有人的 Sa：歌手、西塔琴、塔布拉鼓都向它靠。它不参与旋律，却决定了旋律的**引力中心**。
+坦布拉最重要的功能是定主音。同一场演出里，坦布拉的 Sa 就是所有人的 Sa：歌手、西塔琴、塔布拉鼓都向它靠。它不参与旋律，却决定了旋律的引力中心。
 
-这也是为什么印度音乐里常把坦布拉放在舞台一角，从头响到尾：它不是一首曲子，而是**一首曲子的地面**。
+这也是为什么印度音乐里常把坦布拉放在舞台一角，从头响到尾：它不是一首曲子，而是一首曲子的地面。
 
 ## 米拉杰与电子坦布拉
 
-印度马哈拉施特拉邦的**米拉杰（Miraj）** 是著名的坦布拉制作中心，一把好琴的弧面与 jiva 位置需要手工调。20 世纪后期，**电子坦布拉**（小盒子或手机应用）大量取代了现场乐器：音量可调、永不跑弦、携带方便。
+印度马哈拉施特拉邦的米拉杰（Miraj） 是著名的坦布拉制作中心，一把好琴的弧面与 jiva 位置需要手工调。20 世纪后期，电子坦布拉（小盒子或手机应用）大量取代了现场乐器：音量可调、永不跑弦、携带方便。
 
-这带来一个有意思的损失：电子坦布拉给出的是**稳定的正弦式持续音**，而真琴的 jiva 泛音、拨弦的轻微不等间隔、葫芦腔的共鸣，恰恰是它「像呼吸」的部分。**方便与生命感，在这里是一对反比。**
+这带来一个有意思的损失：电子坦布拉给出的是稳定的正弦式持续音，而真琴的 jiva 泛音、拨弦的轻微不等间隔、葫芦腔的共鸣，恰恰是它「像呼吸」的部分。方便与生命感，在这里是一对反比。
 
 ## 与近亲对照
 
-- **sitar**：西塔琴的共鸣弦常被叫作 tanpura 弦，因为它模仿坦布拉的持续音；但西塔琴是旋律乐器，坦布拉不是。
-- **harmonium**：风琴也能提供持续音，但它是按键与簧片的稳定音；坦布拉是拨弦后的自然衰减与泛音。
-- **guqin**：古琴的散音与泛音也能长响，但它服务于旋律与气韵；坦布拉把「不旋律」推到极致。
+- sitar：西塔琴的共鸣弦常被叫作 tanpura 弦，因为它模仿坦布拉的持续音；但西塔琴是旋律乐器，坦布拉不是。
+- harmonium：风琴也能提供持续音，但它是按键与簧片的稳定音；坦布拉是拨弦后的自然衰减与泛音。
+- guqin：古琴的散音与泛音也能长响，但它服务于旋律与气韵；坦布拉把「不旋律」推到极致。
 
 ## 带走三件事
 
-1. **drone 不是伴奏**：它不跟旋律走，它给旋律一个不动的中心。
-2. **拨弦却能连续**：四根弦的余响互相接续，jiva 线把高频泛音撒在上面。
-3. **极简的分工**：一件乐器只负责一个音高中心，却撑起整场演出。
+1. drone 不是伴奏：它不跟旋律走，它给旋律一个不动的中心。
+2. 拨弦却能连续：四根弦的余响互相接续，jiva 线把高频泛音撒在上面。
+3. 极简的分工：一件乐器只负责一个音高中心，却撑起整场演出。
 
 ### HS 分类
 
@@ -138,39 +138,39 @@ updated: 2026-10-28
 
 The tanpura has four strings and **plays no melody**. It does one thing: spreads the tonic **Sa** of the performance into a continuous background, so that the singer or soloist always has a home to return to. In Indian music this is the **drone** — not an accompanying chord, not a bass line, but a frame of reference that does not move.
 
-Its sound holds a contradiction: the strings are **plucked**, yet the ear hears no separate points. The four strings are plucked in order, each ring overlapping the next; with the **jiva** thread on the bridge adding a fine, bright buzz, the result is a **breathing** continuum.
+Its sound holds a contradiction: the strings are **plucked**, yet the ear hears no separate points. The four strings are plucked in order, each ring overlapping the next; with the jiva thread on the bridge adding a fine, bright buzz, the result is a breathing continuum.
 
 ## Form: gourd, long neck, four strings
 
-- **Body**: usually a hollowed gourd (sometimes wood); the round cavity gives the low end its warmth.
-- **Neck**: long and fretless, with four pegs; sliding **tuning beads** allow fine adjustment.
-- **Bridge**: **curved** (jawari), so the string does not press on a single point but grazes an arc. A **cotton thread (jiva)** sits between string and bridge and makes the string touch the arc as it vibrates, producing dense high overtones — the secret of the tanpura's bright, unbroken sound.
-- **Strings**: four, traditionally steel; the usual tuning is **Pa – Sa – Sa – Sa** (fifth, tonic, tonic, tonic an octave lower). For ragas without Pa, the first string is retuned to Ma or Ni.
-- **Playing**: open strings only, never stopped; index and middle fingers pluck in order, and the player controls speed and spacing. **It never changes pitch — only the density of the sound.**
+- Body: usually a hollowed gourd (sometimes wood); the round cavity gives the low end its warmth.
+- Neck: long and fretless, with four pegs; sliding tuning beads allow fine adjustment.
+- Bridge: curved (jawari), so the string does not press on a single point but grazes an arc. A cotton thread (jiva) sits between string and bridge and makes the string touch the arc as it vibrates, producing dense high overtones — the secret of the tanpura's bright, unbroken sound.
+- Strings: four, traditionally steel; the usual tuning is Pa – Sa – Sa – Sa (fifth, tonic, tonic, tonic an octave lower). For ragas without Pa, the first string is retuned to Ma or Ni.
+- Playing: open strings only, never stopped; index and middle fingers pluck in order, and the player controls speed and spacing. It never changes pitch — only the density of the sound.
 
 ## It does not tune a note; it tunes a home
 
-The tanpura's main job is to **fix the tonic**. In a performance its Sa is everyone's Sa: singer, sitar and tabla all orient to it. It takes no part in the melody, yet it decides the melody's **centre of gravity**.
+The tanpura's main job is to fix the tonic. In a performance its Sa is everyone's Sa: singer, sitar and tabla all orient to it. It takes no part in the melody, yet it decides the melody's centre of gravity.
 
-That is why the tanpura stands in a corner of the stage and sounds from beginning to end: it is not a piece, it is **the ground a piece stands on**.
+That is why the tanpura stands in a corner of the stage and sounds from beginning to end: it is not a piece, it is the ground a piece stands on.
 
 ## Miraj and the electronic tanpura
 
-**Miraj** in Maharashtra is a famous centre of tanpura making; the curve of the bridge and the position of the jiva are set by hand. From the late twentieth century, **electronic tanpuras** (a small box or a phone app) replaced the live instrument in many rooms: adjustable volume, never out of tune, easy to carry.
+Miraj in Maharashtra is a famous centre of tanpura making; the curve of the bridge and the position of the jiva are set by hand. From the late twentieth century, electronic tanpuras (a small box or a phone app) replaced the live instrument in many rooms: adjustable volume, never out of tune, easy to carry.
 
-There is a loss in that convenience: an electronic tanpura gives a **steady, sine-like drone**, while the jiva overtones, the slightly uneven plucking and the gourd's resonance are precisely what make the real instrument **breathe**. Convenience and life are in inverse proportion here.
+There is a loss in that convenience: an electronic tanpura gives a steady, sine-like drone, while the jiva overtones, the slightly uneven plucking and the gourd's resonance are precisely what make the real instrument breathe. Convenience and life are in inverse proportion here.
 
 ## Against its relatives
 
-- **sitar**: the sitar's sympathetic strings are often called tanpura strings because they imitate this drone; but the sitar is a melody instrument, the tanpura is not.
-- **harmonium**: it can also provide a drone, but through keys and reeds; the tanpura is plucked decay and overtones.
-- **guqin**: its open and harmonic notes also ring long, but they serve melody and breath; the tanpura pushes "no melody" to the limit.
+- sitar: the sitar's sympathetic strings are often called tanpura strings because they imitate this drone; but the sitar is a melody instrument, the tanpura is not.
+- harmonium: it can also provide a drone, but through keys and reeds; the tanpura is plucked decay and overtones.
+- guqin: its open and harmonic notes also ring long, but they serve melody and breath; the tanpura pushes "no melody" to the limit.
 
 ## Three things to take away
 
-1. **A drone is not accompaniment**: it does not follow the melody; it gives the melody a centre that does not move.
-2. **Plucked, yet continuous**: four rings overlap, and the jiva thread scatters high overtones over them.
-3. **Radical division of labour**: one instrument owns one pitch centre and holds up an entire performance.
+1. A drone is not accompaniment: it does not follow the melody; it gives the melody a centre that does not move.
+2. Plucked, yet continuous: four rings overlap, and the jiva thread scatters high overtones over them.
+3. Radical division of labour: one instrument owns one pitch centre and holds up an entire performance.
 
 ### HS classification
 
@@ -235,5 +235,4 @@ There is a loss in that convenience: an electronic tanpura gives a **steady, sin
 ```audiolab
 {"type":"instrument","gm":"Sitar","synth":"plucked","phrase":["C3","G3","C4","C3","G3","C4","C3"],"label":"四根空弦：Pa–Sa–Sa–Sa","label_en":"Four open strings: Pa–Sa–Sa–Sa","hint":"通用音色表里没有坦布拉，这里借 Sitar 的空弦近似：听四根弦按顺序拨响、余响互相接上。真实的坦布拉还有两样这条试听件给不了：一、jiva 线擦过弧形琴桥产生的高频「沙沙」泛音；二、真琴每个音的衰减与轻微不等间隔，让持续音像呼吸；电子坦布拉正是把这两样抹平了。","hint_en":"The General MIDI table has no tanpura, so open Sitar strings stand in: listen to the four strings plucked in order, each ring overlapping the next. Two things the sample cannot give you: the fine high-frequency buzz of the jiva thread grazing the curved bridge, and the natural decay and slight irregularity that make a real tanpura breathe — exactly what an electronic tanpura smooths away."}
 ```
-
 :::

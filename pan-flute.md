@@ -47,9 +47,9 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 木管（哨嘴族 · 多管支系）· 同时是世界乐器 |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系；中国的**排箫属竹**，见中国乐器部分 |
 
-> ⚠️ **一个概念上的要点**：**闭管只产生奇次泛音**（1、3、5…）。
+> ⚠️ **一个概念上的要点**：闭管只产生奇次泛音（1、3、5…）。
 > 这一条把排箫与[[instrument:clarinet|单簧管]]归到同一个声学家族 —— 两者的音色都因此偏暗、带"空"，
-> 而[[instrument:flute|长笛]]、[[instrument:recorder|竖笛]]这类**开管**则泛音齐全、音色更亮。
+> 而[[instrument:flute|长笛]]、[[instrument:recorder|竖笛]]这类开管则泛音齐全、音色更亮。
 > **同一件乐器的音色"亮还是暗"，在木管里很多时候先由"开管还是闭管"决定，
 > 然后才轮到材料。**
 
@@ -92,11 +92,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **每管一音，管长即音高**。这排管本身就是一条可视化的音阶。
-2. **闭管 → 只产生奇次泛音**。所以它的音色偏暗、带气流声，
+1. 每管一音，管长即音高。这排管本身就是一条可视化的音阶。
+2. 闭管 → 只产生奇次泛音。所以它的音色偏暗、带气流声，
    与[[instrument:clarinet|单簧管]]属同一个声学体系（见下节）。
-3. **吹奏靠嘴唇与气流角度**。它不用哨嘴，而是靠嘴唇对准管口的边缘 ——
-   所以它的**可塑性比竖笛大**，但比长笛小。
+3. 吹奏靠嘴唇与气流角度。它不用哨嘴，而是靠嘴唇对准管口的边缘 ——
+   所以它的可塑性比竖笛大，但比长笛小。
 
 ## 闭管与开管
 
@@ -130,7 +130,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这里出现了木管声学的第三个层次**（前两个是驱动方式与管形）：
+这里出现了木管声学的第三个层次（前两个是驱动方式与管形）：
 
 | 层次 | 决定什么 | 例 |
 |---|---|---|
@@ -139,7 +139,7 @@ updated: 2026-09-26
 | **开闭** | 泛音齐不齐 → 亮不亮 | 开管 / 闭管 |
 
 排箫是"闭管"这一条最干净的例证 —— 它没有任何按键、没有簧片，
-**唯一的声学特征就是"闭"**，而音色立刻变暗。
+唯一的声学特征就是"闭"，而音色立刻变暗。
 
 ## 音域
 
@@ -147,19 +147,19 @@ updated: 2026-09-26
 {"range":"G3–G6","common":"C4–C6","caption":"排箫的音域（以约 20 管的形制为例）","caption_en":"Pan flute range (a roughly 20-tube instrument)","note":"排箫的音域随管数与形制变化很大 —— 从安第斯山区两组各六支的小型 siku，到罗马尼亚约二十管的 nai。这里以较完整的形制为例，约 G3–G6（三个八度）。记谱即实音，不移调。"}
 ```
 
-- **约 G3–G6**（三个八度），是管数较多的形制。
-- **小型形制窄得多**：安第斯 siku 常做成**两组各六到八支**，一人只管一组，
-  两人交替吹奏才能奏出完整音阶 —— 这是一种**社会性的乐器设计**。
-- **换管即换音**。演奏者靠移动乐器（而不是按孔）来选择音高，所以快速乐句要求极高的准确性。
+- 约 G3–G6（三个八度），是管数较多的形制。
+- 小型形制窄得多：安第斯 siku 常做成两组各六到八支，一人只管一组，
+  两人交替吹奏才能奏出完整音阶 —— 这是一种社会性的乐器设计。
+- 换管即换音。演奏者靠移动乐器（而不是按孔）来选择音高，所以快速乐句要求极高的准确性。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **暗、空、带明显的气流声**。这是闭管的直接结果，也是它在世界音乐里最容易被认出的特征。
-2. **音量不大，但穿透有特点**。它的高频少，却在安静的段落里非常醒目。
-3. **滑音天然可行**。因为靠移动管口对准嘴唇，滑音几乎是它的本能动作。
-4. **各管音色略有差异**。管子越短，音越高，气流声占比越大 —— 所以它的高音区比低音区更"沙"。
+1. 暗、空、带明显的气流声。这是闭管的直接结果，也是它在世界音乐里最容易被认出的特征。
+2. 音量不大，但穿透有特点。它的高频少，却在安静的段落里非常醒目。
+3. 滑音天然可行。因为靠移动管口对准嘴唇，滑音几乎是它的本能动作。
+4. 各管音色略有差异。管子越短，音越高，气流声占比越大 —— 所以它的高音区比低音区更"沙"。
 
 ```audiolab
 {"type":"instrument","gm":"Pan Flute","synth":"blown","phrase":["G4","C5","E5","G5","C6"],"label":"排箫的常用区：G4 到 C6","label_en":"The pan flute's working register — G4 up to C6","hint":"注意音色里的「空」与气流声 —— 闭管只有奇次泛音，所以它天生比长笛暗","hint_en":"Hear the hollowness and the air — a closed tube has only odd harmonics, so it is darker than a flute."}
@@ -167,12 +167,12 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **移动乐器选音**（不按键）。这是它与其他所有木管最根本的操作差别。
-- **滑音与"甩"音**。靠嘴唇在管口滑动，可以做出极流畅的滑音 ——
+- 移动乐器选音（不按键）。这是它与其他所有木管最根本的操作差别。
+- 滑音与"甩"音。靠嘴唇在管口滑动，可以做出极流畅的滑音 ——
   罗马尼亚与安第斯的演奏风格都大量使用它。
-- **循环呼吸**。为了做长线条，排箫演奏者普遍使用循环呼吸 ——
+- 循环呼吸。为了做长线条，排箫演奏者普遍使用循环呼吸 ——
   这在民族演奏传统里是基本功。
-- **气息角度控制音高**。同一根管上靠角度可以做到约一个半音的微调（与陶笛类似）。
+- 气息角度控制音高。同一根管上靠角度可以做到约一个半音的微调（与陶笛类似）。
 
 ## 家族与近亲
 
@@ -184,8 +184,8 @@ updated: 2026-09-26
 | [[instrument:flute\|长笛]] | 嘴唇 | 开管 | 齐全 | 亮、可塑性强 |
 | [[instrument:clarinet\|单簧管]] | 单簧片 | **闭管**（圆柱） | **只有奇次** | 暗、厚、音区分裂 |
 
-**排箫与单簧管在同一列（只有奇次泛音）**，但驱动方式完全不同 ——
-一个靠嘴唇、一个靠簧片。**音色的"明暗"由开闭决定，音色的"性格"由驱动决定** ——
+排箫与单簧管在同一列（只有奇次泛音），但驱动方式完全不同 ——
+一个靠嘴唇、一个靠簧片。音色的"明暗"由开闭决定，音色的"性格"由驱动决定 ——
 两个维度各管一段。
 
 ## 世界分布
@@ -221,12 +221,12 @@ updated: 2026-09-26
 </svg>
 ```
 
-**它是"独立发明"的典型例子**：古希腊、中国、安第斯、非洲各自的排箫**没有共同的源头**，
+它是"独立发明"的典型例子：古希腊、中国、安第斯、非洲各自的排箫没有共同的源头，
 而是不同的人群各自发现了同一种最简单的解决方案 ——
 "想要更多音，就并排多放几根管"。
 
 这也让它在民族音乐学里成为一个常被引用的案例：
-**形制相似不等于传播，也可能只是同一个物理约束下的必然结果。**
+形制相似不等于传播，也可能只是同一个物理约束下的必然结果。
 
 ## 历史演变
 
@@ -241,29 +241,30 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"排箫是玩具或民俗乐器。"** 它有完整的音阶与成体系的演奏技法，
+- "排箫是玩具或民俗乐器。" 它有完整的音阶与成体系的演奏技法，
   罗马尼亚的 nai 能演奏高度复杂的古典与民间曲目。
-- **"它和陶笛是一回事。"** 都被叫做"闭"，但闭的对象不同：
-  陶笛闭的是**腔**（音高看容积），排箫闭的是**管**（音高看管长）。
-- **"排箫一定是同一个东西传遍世界的。"** 它是**独立发明**的典型 ——
+- "它和陶笛是一回事。" 都被叫做"闭"，但闭的对象不同：
+  陶笛闭的是腔（音高看容积），排箫闭的是管（音高看管长）。
+- "排箫一定是同一个东西传遍世界的。" 它是独立发明的典型 ——
   各地形制相似，但没有共同的源头，只是物理约束下的同一种解法。
-- **"排箫的音色亮。"** 闭管只有奇次泛音，所以它天生**偏暗、带气流声** ——
+- "排箫的音色亮。" 闭管只有奇次泛音，所以它天生偏暗、带气流声 ——
   想要亮的音色就得用开管（如长笛、竖笛）。
-- **"中国的排箫是外来乐器。"** 中国的排箫是**独立发展的竹制乐器**，
+- "中国的排箫是外来乐器。" 中国的排箫是独立发展的竹制乐器，
   属八音中的「竹」，先秦已有记载 —— 与古希腊的潘笛是并行传统。
 
 ## 下一步
 
-到这里，**西洋木管组（I2）18 条全部完成**。
+到这里，西洋木管组（I2）18 条全部完成。
 
-这一批留下的不只是条目，还有一条贯穿全组的主线 —— **木管的三个声学层次**：
-**驱动方式**（边棱音 / 单簧 / 双簧）决定音色的性格与稳定性，
-**管形**（圆柱 / 圆锥）决定音区是否分裂，
-**开闭**（开管 / 闭管）决定泛音齐不齐、音色亮不亮。
-三个层次各管一段，**任何一件木管都能在它们构成的坐标里被定位**。
+这一批留下的不只是条目，还有一条贯穿全组的主线 —— 木管的三个声学层次：
+驱动方式（边棱音 / 单簧 / 双簧）决定音色的性格与稳定性，
+管形（圆柱 / 圆锥）决定音区是否分裂，
+开闭（开管 / 闭管）决定泛音齐不齐、音色亮不亮。
+三个层次各管一段，任何一件木管都能在它们构成的坐标里被定位。
 
-接下来木管组要正式交棒 —— 下一组是**铜管**，
-那是一个全新的驱动原理：**靠嘴唇振动**，而不是靠气流切边或簧片开合。
+接下来木管组要正式交棒 —— 下一组是铜管，
+那是一个全新的驱动原理：靠嘴唇振动，而不是靠气流切边或簧片开合。
+
 :::
 
 ::: en
@@ -284,7 +285,7 @@ consequence.
 
 > ⚠️ **One conceptual point**: **a closed tube produces only odd harmonics** (1, 3, 5…). That places the pan
 > flute in the same acoustic family as the [[instrument:clarinet|clarinet]]: both sound dark and hollow,
-> while **open** tubes such as the [[instrument:flute|flute]] and [[instrument:recorder|recorder]] carry all
+> while open tubes such as the [[instrument:flute|flute]] and [[instrument:recorder|recorder]] carry all
 > the harmonics and sound brighter. **In woodwinds, whether a tone is bright or dark is often settled first
 > by open versus closed, and only then by material.**
 
@@ -327,10 +328,10 @@ consequence.
 
 Three points:
 
-1. **One note per tube; length is pitch.** The row of tubes is a visible scale.
-2. **Closed tubes give only odd harmonics**, hence the dark, airy tone — the same acoustic family as the
+1. One note per tube; length is pitch. The row of tubes is a visible scale.
+2. Closed tubes give only odd harmonics, hence the dark, airy tone — the same acoustic family as the
    [[instrument:clarinet|clarinet]] (next section).
-3. **It is blown across the edge with the lips**, not through a duct — so it is **more flexible than a
+3. It is blown across the edge with the lips, not through a duct — so it is **more flexible than a
    recorder**, though less than a flute.
 
 ## Open and closed tubes
@@ -365,7 +366,7 @@ Three points:
 </svg>
 ```
 
-**A third layer of woodwind acoustics appears here** (after drive and bore shape):
+A third layer of woodwind acoustics appears here (after drive and bore shape):
 
 | Layer | Decides | Examples |
 |---|---|---|
@@ -382,22 +383,22 @@ feature is being closed**, and the colour turns dark at once.
 {"range":"G3–G6","common":"C4–C6","caption":"排箫的音域（以约 20 管的形制为例）","caption_en":"Pan flute range (a roughly 20-tube instrument)","note":"排箫的音域随管数与形制变化很大 —— 从安第斯山区两组各六支的小型 siku，到罗马尼亚约二十管的 nai。这里以较完整的形制为例，约 G3–G6（三个八度）。记谱即实音，不移调。"}
 ```
 
-- **About G3–G6** (three octaves) for a fuller instrument.
-- **Small forms are far narrower**: an Andean siku is often **two rows of six to eight tubes**, one row per
-  player, so a complete scale needs two people alternating — a **social instrument design**.
-- **Changing note means moving the instrument**, not covering a hole, so fast passagework demands great
+- About G3–G6 (three octaves) for a fuller instrument.
+- Small forms are far narrower: an Andean siku is often two rows of six to eight tubes, one row per
+  player, so a complete scale needs two people alternating — a social instrument design.
+- Changing note means moving the instrument, not covering a hole, so fast passagework demands great
   accuracy.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Dark, hollow, audibly airy** — the direct result of a closed tube, and its most recognisable trait in
+1. Dark, hollow, audibly airy — the direct result of a closed tube, and its most recognisable trait in
    world music.
-2. **Modest volume with a distinctive presence**: little high frequency, yet very noticeable in quiet
+2. Modest volume with a distinctive presence: little high frequency, yet very noticeable in quiet
    passages.
-3. **Glissando is built in**, since the player moves the tube mouth across the lips.
-4. **Each tube colours slightly differently**: shorter tubes mean more air noise, so the top sounds
+3. Glissando is built in, since the player moves the tube mouth across the lips.
+4. Each tube colours slightly differently: shorter tubes mean more air noise, so the top sounds
    "sandier" than the bottom.
 
 ```audiolab
@@ -406,13 +407,13 @@ Four cues:
 
 ## Playing techniques
 
-- **Moving the instrument to choose the note** — the fundamental operational difference from every other
+- Moving the instrument to choose the note — the fundamental operational difference from every other
   woodwind.
-- **Slides and scoops.** Drawing the lips across the tube mouths gives very smooth glissandi — heavily used
+- Slides and scoops. Drawing the lips across the tube mouths gives very smooth glissandi — heavily used
   in Romanian and Andean styles.
-- **Circular breathing.** To sustain long lines, pan flute players commonly use it; in folk traditions it is
+- Circular breathing. To sustain long lines, pan flute players commonly use it; in folk traditions it is
   basic technique.
-- **Air angle controls pitch**: on one tube, roughly a semitone of adjustment (as on an ocarina).
+- Air angle controls pitch: on one tube, roughly a semitone of adjustment (as on an ocarina).
 
 ## The family
 
@@ -424,7 +425,7 @@ Four cues:
 | [[instrument:flute\|Flute]] | lips | open tube | all | bright, flexible |
 | [[instrument:clarinet\|Clarinet]] | single reed | **closed tube** (cylindrical) | **odd only** | dark, thick, split registers |
 
-**The pan flute and the clarinet share the "odd harmonics only" column**, but their drives are entirely
+The pan flute and the clarinet share the "odd harmonics only" column, but their drives are entirely
 different — one by lips, one by reed. **Brightness comes from open versus closed; character comes from the
 drive** — two dimensions, each handling its own stretch.
 
@@ -461,8 +462,8 @@ drive** — two dimensions, each handling its own stretch.
 </svg>
 ```
 
-**It is the classic case of independent invention**: the panpipes of ancient Greece, China, the Andes and
-Africa share **no common source**. Different peoples each arrived at the simplest possible solution —
+It is the classic case of independent invention: the panpipes of ancient Greece, China, the Andes and
+Africa share no common source. Different peoples each arrived at the simplest possible solution —
 "want more notes? line up more tubes."
 
 That has made it a favourite example in ethnomusicology: **similar form does not imply transmission; it can
@@ -481,30 +482,28 @@ simply be the inevitable answer to the same physical constraint.**
 
 ## Common misconceptions
 
-- **"A pan flute is a toy or a folk curio."** It has a full scale and a systematic technique; the Romanian
+- "A pan flute is a toy or a folk curio." It has a full scale and a systematic technique; the Romanian
   nai plays highly complex classical and folk repertoire.
-- **"It is the same as an ocarina."** Both are called "closed", but of different things: the ocarina closes
-  a **cavity** (pitch by volume), the pan flute closes **tubes** (pitch by length).
-- **"All panpipes descend from one origin."** It is a textbook case of **independent invention** — similar
+- "It is the same as an ocarina." Both are called "closed", but of different things: the ocarina closes
+  a cavity (pitch by volume), the pan flute closes tubes (pitch by length).
+- "All panpipes descend from one origin." It is a textbook case of independent invention — similar
   forms, no common source, the same solution forced by the same physics.
-- **"A pan flute sounds bright."** A closed tube has only odd harmonics, so it is inherently **dark and
+- "A pan flute sounds bright." A closed tube has only odd harmonics, so it is inherently **dark and
   airy**; brightness needs an open tube (flute, recorder).
-- **"The Chinese paixiao came from abroad."** China's paixiao is an **independently developed bamboo
+- "The Chinese paixiao came from abroad." China's paixiao is an **independently developed bamboo
   instrument**, classed under 竹 in the eight categories and documented since pre-Qin times — a parallel
   tradition to the Greek syrinx.
 
 ## Next
 
-That completes **all 18 entries of the Western woodwind group (I2)**.
+That completes all 18 entries of the Western woodwind group (I2).
 
 This batch leaves behind more than entries: one thread runs through the whole group — **the three acoustic
-layers of woodwinds**. The **drive** (edge-tone / single reed / double reed) sets the character and
-stability of the colour; the **bore** (cylindrical / conical) decides whether registers split; being **open
+layers of woodwinds. The drive** (edge-tone / single reed / double reed) sets the character and
+stability of the colour; the bore (cylindrical / conical) decides whether registers split; being **open
 or closed** decides harmonic completeness and therefore brightness. Three layers, each handling its own
-stretch — **and every woodwind can be located in the coordinates they form.**
+stretch — and every woodwind can be located in the coordinates they form.
 
-The woodwind group now hands over: the next section is **brass**, built on an entirely new principle —
-**vibrating lips**, rather than a cut jet or a beating reed.
+The woodwind group now hands over: the next section is brass, built on an entirely new principle —
+vibrating lips, rather than a cut jet or a beating reed.
 :::
-
-

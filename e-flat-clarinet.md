@@ -46,10 +46,10 @@ updated: 2026-09-26
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，高音单簧管不在其中 |
 
 > ⚠️ **一个概念上的要点**：注意它的**记谱方向与低音单簧管相反**。
-> 高音单簧管谱面写 C，实际出声**高**小三度（实音更**高**）；
-> [[instrument:bass-clarinet|低音单簧管]]谱面写 C，实际出声**低**大九度（实音更**低**）。
+> 高音单簧管谱面写 C，实际出声高小三度（实音更高）；
+> [[instrument:bass-clarinet|低音单簧管]]谱面写 C，实际出声低大九度（实音更低）。
 > 而同族的标准单簧管谱面写 C、出声低大二度。
-> 三支都是**降 B / 降 E 调乐器**，但**记谱偏移的量和方向都不一样** ——
+> 三支都是降 B / 降 E 调乐器，但记谱偏移的量和方向都不一样 ——
 > 所以"看调性猜记谱"必然出错，只能查惯例。
 
 ## 结构：同一套键系，三分之二的管长
@@ -86,11 +86,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **管长与音高不成比例**。短三分之一，只高小三度 —— 与[[instrument:piccolo|短笛]]"管长减半、高八度"
-   是同一条规律：**越短的管，长度对音高越敏感**。
-2. **键距被压缩**。管短了，音孔间距也跟着变小，手指要更"挤" ——
+1. 管长与音高不成比例。短三分之一，只高小三度 —— 与[[instrument:piccolo|短笛]]"管长减半、高八度"
+   是同一条规律：越短的管，长度对音高越敏感。
+2. 键距被压缩。管短了，音孔间距也跟着变小，手指要更"挤" ——
    这是演奏者换用这件乐器时最先感到的不适。
-3. **音准最不稳定**。管短 → 内径与音孔的相对误差被放大 →
+3. 音准最不稳定。管短 → 内径与音孔的相对误差被放大 →
    同一支管上，音准对气息与哨片状态比标准单簧管敏感得多。
 
 ## 它在乐队里做什么
@@ -131,9 +131,9 @@ updated: 2026-09-26
 
 它在两类乐队里的处境很不一样：
 
-- **管乐团**：几乎是标配。它给主旋律加一层高八度（或高十六度），让整块音响"亮起来"。
+- 管乐团：几乎是标配。它给主旋律加一层高八度（或高十六度），让整块音响"亮起来"。
   军乐与进行曲的辉煌感有一大半来自这一层。
-- **管弦乐**：用得少而精。作曲家把它留给**最高潮**或**某个荒诞、尖锐的瞬间** ——
+- 管弦乐：用得少而精。作曲家把它留给最高潮或某个荒诞、尖锐的瞬间 ——
   一旦出现就极其醒目，所以不能滥用。
 
 ## 音域
@@ -142,36 +142,36 @@ updated: 2026-09-26
 {"range":"G3–B♭6","written":"E3–G6","caption":"高音单簧管的记谱音域与实音音域","caption_en":"The E-flat clarinet: notated range above, sounding range below","note":"⚠️ 降 E 调高音单簧管是移调乐器 —— 实音比谱面高小三度。谱面写 E3–G6，实际出声 G3–B♭6。高音区上限视演奏者指法而定。"}
 ```
 
-- **实音 G3–B♭6**，比标准单簧管整体高三度，最高音与[[instrument:piccolo|短笛]]的高音区重叠。
-- **常用区大约 G3–F6**，再往上会明显变窄、变难。
-- **低音区只有 G3 到 B♭3** —— 它没有真正的低音，与标准单簧管形成互补。
+- 实音 G3–B♭6，比标准单簧管整体高三度，最高音与[[instrument:piccolo|短笛]]的高音区重叠。
+- 常用区大约 G3–F6，再往上会明显变窄、变难。
+- 低音区只有 G3 到 B♭3 —— 它没有真正的低音，与标准单簧管形成互补。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **尖、细、极亮**。它与[[instrument:piccolo|短笛]]是乐队里最"刺"的两件，但质感不同：
-   短笛是气柱的高频噪声多，它则是**簧片驱动的紧凑高频**。
-2. **穿透力极强**。整块管乐团全奏时仍能听见。
-3. **音准很"活"**。管短，气息稍变音高就动 —— 所以它在乐队里常被其他声部抱怨，这是有物理原因的。
-4. **低音区反而温柔**。它低音区（G3 附近）的音色比想象中温和得多，与高音区判若两件。
+1. 尖、细、极亮。它与[[instrument:piccolo|短笛]]是乐队里最"刺"的两件，但质感不同：
+   短笛是气柱的高频噪声多，它则是簧片驱动的紧凑高频。
+2. 穿透力极强。整块管乐团全奏时仍能听见。
+3. 音准很"活"。管短，气息稍变音高就动 —— 所以它在乐队里常被其他声部抱怨，这是有物理原因的。
+4. 低音区反而温柔。它低音区（G3 附近）的音色比想象中温和得多，与高音区判若两件。
 
 ```audiolab
 {"type":"instrument","gm":"Clarinet","synth":"reed","phrase":["G3","C4","F4","B♭4","F5"],"label":"高音单簧管的音区：实音 G3 到 F5","label_en":"The E-flat clarinet's register — sounding G3 up to F5","hint":"注意高频的紧凑与亮度 —— 通用音色表里没有高音单簧管，这里借单簧管音色近似","hint_en":"Hear the compact brightness. General MIDI has no E-flat clarinet, so a standard clarinet sample stands in."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）里**没有高音单簧管**。
-> 上面播放的是**单簧管**音色，移到它的音区 —— 只能提示音区，不能替代真实音色。
+> ⚠️ 关于试听：通用音色表（General MIDI）里没有高音单簧管。
+> 上面播放的是单簧管音色，移到它的音区 —— 只能提示音区，不能替代真实音色。
 
 ## 演奏技法
 
 指法与[[instrument:clarinet|单簧管]]完全相同（同一套键系逻辑），所以多数演奏者都能兼吹。
 需要重新适应的是：
 
-- **口型更紧、气压更高**。管短管细，需要更急更细的气流。
-- **音准控制更难**。同一根管上，温度与气息造成的偏差被放大。
-- **声音离耳朵更近**。高频在演奏者耳边的强度大，长时间演奏需要听力保护。
-- **换音区（the break）仍在同一位置**（因为指法相同），但跨过去更难 ——
+- 口型更紧、气压更高。管短管细，需要更急更细的气流。
+- 音准控制更难。同一根管上，温度与气息造成的偏差被放大。
+- 声音离耳朵更近。高频在演奏者耳边的强度大，长时间演奏需要听力保护。
+- 换音区（the break）仍在同一位置（因为指法相同），但跨过去更难 ——
   短管对气压变化更不留情。
 
 ## 家族与近亲
@@ -183,9 +183,9 @@ updated: 2026-09-26
 | [[instrument:bass-clarinet\|低音单簧管]] | B♭ | 记谱比实音**高大九度** | 约 120 厘米 | 低音、暗、厚 |
 | [[instrument:piccolo\|短笛]] | C | 记谱比实音**低一个八度** | 约 32 厘米 | 另一族的最亮一支 |
 
-**把这张表与[[instrument:piccolo|短笛]]那张并排看**，会发现一个有意思的对称：
-两支乐队里"最亮"的乐器，一支来自**边棱音**（短笛），一支来自**单簧驱动**（高音单簧管）——
-**管形与驱动方式不同，但"最高音区 + 最强穿透"这个位置是一样的。**
+把这张表与[[instrument:piccolo|短笛]]那张并排看，会发现一个有意思的对称：
+两支乐队里"最亮"的乐器，一支来自边棱音（短笛），一支来自单簧驱动（高音单簧管）——
+管形与驱动方式不同，但"最高音区 + 最强穿透"这个位置是一样的。
 
 ## 历史演变
 
@@ -196,29 +196,30 @@ updated: 2026-09-26
 | 19 世纪末—20 世纪 | 成为管乐团的标准成员；管弦乐中的用法逐渐定型为"极端亮色" |
 | 20 世纪 | 当代作曲家在需要荒诞、尖锐或极致辉煌的段落时使用它 |
 
-**它有一个很实用的优点**：与标准[[instrument:clarinet|单簧管]]**共用指法**。
+它有一个很实用的优点：与标准[[instrument:clarinet|单簧管]]共用指法。
 所以一个单簧管演奏者可以随时拿起它，不必从头学一件乐器 ——
 这也是它在乐团里能长期稳定的原因之一。
 
 ## 常见误解
 
-- **"高音单簧管就是小一号的单簧管，没什么不同。"** 管长少三分之一，但音高只高小三度 ——
-  键距、气压需求、音准稳定性都变了。它是一件需要**专门练习**的乐器。
-- **"它是降 E 调，所以记谱要降小三度。"** 方向要说清楚：**实音比谱面高**小三度。
-  同族的低音单簧管则**实音比谱面低**大九度 —— 同是"降 B / 降 E 调"，方向可以相反。
-- **"声音尖是因为演奏者吹得太狠。"** 尖是它的**设计目的**：管短、管径细、高频成分多。
+- "高音单簧管就是小一号的单簧管，没什么不同。" 管长少三分之一，但音高只高小三度 ——
+  键距、气压需求、音准稳定性都变了。它是一件需要专门练习的乐器。
+- "它是降 E 调，所以记谱要降小三度。" 方向要说清楚：实音比谱面高小三度。
+  同族的低音单簧管则实音比谱面低大九度 —— 同是"降 B / 降 E 调"，方向可以相反。
+- "声音尖是因为演奏者吹得太狠。" 尖是它的设计目的：管短、管径细、高频成分多。
   演奏者能控制的是别让它失控，而不是让它变柔。
-- **"它和短笛一个角色，可以互相替代。"** 质感不同：短笛是边棱音的气声高频，
+- "它和短笛一个角色，可以互相替代。" 质感不同：短笛是边棱音的气声高频，
   它是簧片的紧凑高频；混在乐队里的融合度也不一样。
-- **"通用音色表里有它。"** General MIDI 里**没有**高音单簧管，只能借单簧管近似（本页试听件即如此）。
+- "通用音色表里有它。" General MIDI 里没有高音单簧管，只能借单簧管近似（试听件即如此）。
 
 ## 下一步
 
-单簧管族的另一支是**更低**的 [[instrument:bass-clarinet|低音单簧管]] ——
+单簧管族的另一支是更低的 [[instrument:bass-clarinet|低音单簧管]] ——
 它的记谱偏移方向正好与这一支相反，两条放在一起看，就把"移调记谱"这件事讲完了。
 
 想比较"乐队里最亮的位置"这个角色，就去看 [[instrument:piccolo|短笛]]：
 同一种功能，另一种驱动方式。
+
 :::
 
 ::: en
@@ -276,12 +277,12 @@ It is the most assertive high woodwind in a wind band, and in an orchestra the i
 
 Three points:
 
-1. **Length and pitch are not proportional.** A third shorter for only a minor third up — the same rule as
+1. Length and pitch are not proportional. A third shorter for only a minor third up — the same rule as
    the [[instrument:piccolo|piccolo]]'s halved tube sounding an octave higher: **the shorter the tube, the
    more sensitive it is to length**.
-2. **The key spacing shrinks.** Shorter tube, closer holes, a more cramped hand — the first discomfort a
+2. The key spacing shrinks. Shorter tube, closer holes, a more cramped hand — the first discomfort a
    player notices when switching.
-3. **Pitch is the least stable here.** A short tube magnifies the relative error of bore and holes, so
+3. Pitch is the least stable here. A short tube magnifies the relative error of bore and holes, so
    intonation is far more sensitive to air and reed than on a standard clarinet.
 
 ## What it does in a band
@@ -322,9 +323,9 @@ Three points:
 
 Its situation differs sharply between the two kinds of ensemble:
 
-- **Wind band**: near-standard. It doubles the melody an octave (or two) up, brightening the whole block;
+- Wind band: near-standard. It doubles the melody an octave (or two) up, brightening the whole block;
   much of the brilliance of marches comes from this layer.
-- **Orchestra**: used sparingly and precisely, reserved for a **climax** or a **grotesque, piercing
+- Orchestra: used sparingly and precisely, reserved for a climax or a **grotesque, piercing
   moment** — so striking that it cannot be overused.
 
 ## Range
@@ -333,30 +334,30 @@ Its situation differs sharply between the two kinds of ensemble:
 {"range":"G3–B♭6","written":"E3–G6","caption":"高音单簧管的记谱音域与实音音域","caption_en":"The E-flat clarinet: notated range above, sounding range below","note":"⚠️ 降 E 调高音单簧管是移调乐器 —— 实音比谱面高小三度。谱面写 E3–G6，实际出声 G3–B♭6。高音区上限视演奏者指法而定。"}
 ```
 
-- **Sounding G3–B♭6**, a third above the standard clarinet, its top overlapping the
+- Sounding G3–B♭6, a third above the standard clarinet, its top overlapping the
   [[instrument:piccolo|piccolo]]'s.
-- **The working register is roughly G3–F6**; above that it thins and hardens.
-- **The bottom runs only G3 to B♭3** — it has no true bass, which is exactly how it complements the
+- The working register is roughly G3–F6; above that it thins and hardens.
+- The bottom runs only G3 to B♭3 — it has no true bass, which is exactly how it complements the
   standard clarinet.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Thin and extremely bright.** With the [[instrument:piccolo|piccolo]] it is one of the two most piercing
+1. Thin and extremely bright. With the [[instrument:piccolo|piccolo]] it is one of the two most piercing
    instruments in a band, but the grain differs: the piccolo carries more air-borne high-frequency noise,
-   while this is a **compact, reed-driven brilliance**.
-2. **Enormous projection** — still audible through a full band tutti.
-3. **Unstable pitch.** A short tube moves with the least change of air, which is why it is often blamed in
+   while this is a compact, reed-driven brilliance.
+2. Enormous projection — still audible through a full band tutti.
+3. Unstable pitch. A short tube moves with the least change of air, which is why it is often blamed in
    rehearsal — with a physical cause.
-4. **Its low register is surprisingly mild**, quite unlike its top: at G3 it sounds much gentler than
+4. Its low register is surprisingly mild, quite unlike its top: at G3 it sounds much gentler than
    reputation suggests.
 
 ```audiolab
 {"type":"instrument","gm":"Clarinet","synth":"reed","phrase":["G3","C4","F4","B♭4","F5"],"label":"高音单簧管的音区：实音 G3 到 F5","label_en":"The E-flat clarinet's register — sounding G3 up to F5","hint":"注意高频的紧凑与亮度 —— 通用音色表里没有高音单簧管，这里借单簧管音色近似","hint_en":"Hear the compact brightness. General MIDI has no E-flat clarinet, so a standard clarinet sample stands in."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI set has **no E-flat clarinet**. An **ordinary clarinet** sample,
+> ⚠️ On the audio: the General MIDI set has no E-flat clarinet. An ordinary clarinet sample,
 > moved into its register, is playing above — a hint of range, not the real colour.
 
 ## Playing techniques
@@ -364,10 +365,10 @@ Four cues:
 The fingerings are identical to the [[instrument:clarinet|clarinet]], so most players can double. What
 must be relearned:
 
-- **A tighter embouchure and higher pressure** for a smaller, narrower tube.
-- **Harder pitch control**, since temperature and air deviations are magnified.
-- **A much louder instrument at the player's ear**, calling for hearing protection.
-- **The break sits in the same place** (same fingerings) but is harder to cross — a short tube is less
+- A tighter embouchure and higher pressure for a smaller, narrower tube.
+- Harder pitch control, since temperature and air deviations are magnified.
+- A much louder instrument at the player's ear, calling for hearing protection.
+- The break sits in the same place (same fingerings) but is harder to cross — a short tube is less
   forgiving of changes in air.
 
 ## The family
@@ -380,7 +381,7 @@ must be relearned:
 | [[instrument:piccolo\|Piccolo]] | C | written an **octave below** sounding | about 32 cm | the other family's brightest |
 
 **Set beside the [[instrument:piccolo|piccolo]] table, an interesting symmetry appears**: the brightest
-instrument in a band comes either from **edge-tone drive** (piccolo) or from **single-reed drive** (E♭
+instrument in a band comes either from edge-tone drive (piccolo) or from single-reed drive (E♭
 clarinet) — **different bores and drives, the same position: top register, maximum penetration.**
 
 ## History
@@ -392,27 +393,27 @@ clarinet) — **different bores and drives, the same position: top register, max
 | Late 19th–20th c. | a standard band member, and in the orchestra its role hardens into "extreme brightness" |
 | 20th c. | contemporary composers use it for the grotesque, the piercing, or the most brilliant climaxes |
 
-**A very practical advantage**: it **shares fingerings with the standard [[instrument:clarinet|clarinet]]**,
+A very practical advantage: it shares fingerings with the standard [[instrument:clarinet|clarinet]],
 so a clarinettist can pick it up without learning a new instrument — one reason it has remained stable in
 ensembles.
 
 ## Common misconceptions
 
-- **"It is just a smaller clarinet and plays about the same."** A third less tube yields only a minor third
+- "It is just a smaller clarinet and plays about the same." A third less tube yields only a minor third
   up — key spacing, air pressure and pitch stability all change. It is an instrument for **dedicated
   practice**.
-- **"It is in E♭, so you write a minor third lower."** The direction matters: it sounds a minor third
-  **higher**, while the bass clarinet sounds a major ninth **lower** — both are B♭/E♭ instruments and the
+- "It is in E♭, so you write a minor third lower." The direction matters: it sounds a minor third
+  higher, while the bass clarinet sounds a major ninth lower — both are B♭/E♭ instruments and the
   shift can go either way.
-- **"It sounds shrill because the player overblows."** Shrillness is the **design**: short tube, narrow bore,
+- "It sounds shrill because the player overblows." Shrillness is the design: short tube, narrow bore,
   high-frequency content. The player's job is to keep it under control, not to make it soft.
-- **"It does the piccolo's job, so either will do."** The grain differs: the piccolo is air-driven with
+- "It does the piccolo's job, so either will do." The grain differs: the piccolo is air-driven with
   breath noise, the E♭ clarinet is a compact reed tone; they blend differently in an ensemble.
-- **"General MIDI has one."** It does not; an ordinary clarinet is the only stand-in (as on this page).
+- "General MIDI has one." It does not; an ordinary clarinet is the only stand-in (as on this page).
 
 ## Next
 
-The family's other end is the **lower** [[instrument:bass-clarinet|bass clarinet]], whose transposition
+The family's other end is the lower [[instrument:bass-clarinet|bass clarinet]], whose transposition
 runs the opposite way — the two together complete the story of transposing notation.
 
 To compare the "brightest seat in the band", see the [[instrument:piccolo|piccolo]]: the same job done by a

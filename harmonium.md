@@ -36,7 +36,7 @@ updated: 2026-09-26
 ::: zh
 簧风琴是"管风琴的小型替代品"：**它用脚踏风箱供气，靠自由簧发声。**
 它与[[instrument:organ|管风琴]]同属**气鸣**（都是气流驱动），
-但**发声体不同**：一个是音管里的**空气柱**，一个是**簧片本身**。
+但**发声体不同**：一个是音管里的**空气柱**，一个是簧片本身。
 
 这条差别带来了一整套不同的乐器（簧风琴 · 手风琴 · 口琴）。
 
@@ -47,16 +47,16 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 键盘（自由簧支系）· 同时是**世界乐器**（在印度尤为常见） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，簧风琴不在其中 |
 
-> ⚠️ **一个概念上的要点**：**"自由簧"与木管的"拍簧"是两种不同的发声机制。**
-> - **自由簧**（free reed）：簧片装在一个**略大于它**的框里，
->   振动时**不碰到框**，频率**主要由簧片本身的刚度与质量决定**。
+> ⚠️ 一个概念上的要点："自由簧"与木管的"拍簧"是两种不同的发声机制。
+> - 自由簧（free reed）：簧片装在一个略大于它的框里，
+>   振动时不碰到框，频率主要由簧片本身的刚度与质量决定。
 >   → 簧风琴 · 手风琴 · 口琴 · 笙（中国的笙是自由簧的早期实例）。
-> - **拍簧**（beating reed）：簧片**拍打**一个开口或互相拍打。
+> - 拍簧（beating reed）：簧片拍打一个开口或互相拍打。
 >   → [[instrument:clarinet|单簧管]]（单片拍簧）· [[instrument:oboe|双簧管]]（双片互拍）。
 >
-> **两种机制都叫"簧"，但自由度完全不同** —— 自由簧的频率由簧片自身定，
-> 拍簧的频率则与管长耦合。这也是为什么自由簧乐器**不需要不同长度的管**来定音高：
-> **一片小簧就能发出很低的音**（口琴就是最好的证明）。
+> 两种机制都叫"簧"，但自由度完全不同 —— 自由簧的频率由簧片自身定，
+> 拍簧的频率则与管长耦合。这也是为什么自由簧乐器不需要不同长度的管来定音高：
+> 一片小簧就能发出很低的音（口琴就是最好的证明）。
 
 ## 结构：脚踏风箱 + 自由簧 + 键盘
 
@@ -106,11 +106,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **自由簧是发声体**。气流使它在一个略大的框里自由振动，
-   **频率由簧片本身的刚度与质量决定** —— 与管长无关。
-2. **脚踏风箱使演奏者自己供气**。所以送气的多少由脚控制，
+1. 自由簧是发声体。气流使它在一个略大的框里自由振动，
+   频率由簧片本身的刚度与质量决定 —— 与管长无关。
+2. 脚踏风箱使演奏者自己供气。所以送气的多少由脚控制，
    这也是簧风琴与[[instrument:organ|管风琴]]（由机械鼓风）的一个实际差别。
-3. **音栓仍然存在**（改变音色与音量），但功能与管风琴的音栓不同 ——
+3. 音栓仍然存在（改变音色与音量），但功能与管风琴的音栓不同 ——
    管风琴换的是"哪一组音管"，簧风琴换的是"哪一组簧与共鸣箱"。
 
 ## 它与管风琴的关系
@@ -143,7 +143,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-**"自由簧把低音从体积里解放出来"** 是这一族乐器共同的技术意义：
+"自由簧把低音从体积里解放出来" 是这一族乐器共同的技术意义：
 [[instrument:organ|管风琴]]要靠几米长的音管才能发出低频，
 而自由簧乐器用一片小簧就能做到 —— 于是键盘乐器第一次可以被搬动。
 
@@ -153,20 +153,20 @@ updated: 2026-09-26
 {"range":"C2–C6","common":"C2–C5","caption":"簧风琴的音域","caption_en":"Harmonium range","note":"簧风琴属气鸣乐器（自由簧）。常见音域约 C2–C6，视乐器而定；常用区 C2–C5。它与管风琴音区相近，但体积小得多。"}
 ```
 
-- **约 C2–C6**（视乐器），与[[instrument:organ|管风琴]]音区相近，但体积小得多。
-- **常用区 C2–C5**：它的音乐多为伴奏、和声与宗教音乐，所以低中音区最重要。
-- **它没有管风琴那样的超低音**（32 英尺管）—— 自由簧的低音有物理上限。
+- 约 C2–C6（视乐器），与[[instrument:organ|管风琴]]音区相近，但体积小得多。
+- 常用区 C2–C5：它的音乐多为伴奏、和声与宗教音乐，所以低中音区最重要。
+- 它没有管风琴那样的超低音（32 英尺管）—— 自由簧的低音有物理上限。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **温暖、略带"簧"的颤动**。它不像管风琴那样"纯"，有一种持续音里的轻微起伏 ——
+1. 温暖、略带"簧"的颤动。它不像管风琴那样"纯"，有一种持续音里的轻微起伏 ——
    这是自由簧的特征。
-2. **音可无限持续**（与管风琴一样，气流不停音就不停）。
-3. **力度可以靠脚踏控制**（但幅度有限）。这一点与管风琴不同 ——
-   管风琴的送气由机械完成，簧风琴由演奏者的脚控制，所以**能做出一些强弱的呼吸感**。
-4. **音色随音栓变化，但不如管风琴丰富**。它的表现力主要靠**和声与持续**。
+2. 音可无限持续（与管风琴一样，气流不停音就不停）。
+3. 力度可以靠脚踏控制（但幅度有限）。这一点与管风琴不同 ——
+   管风琴的送气由机械完成，簧风琴由演奏者的脚控制，所以能做出一些强弱的呼吸感。
+4. 音色随音栓变化，但不如管风琴丰富。它的表现力主要靠和声与持续。
 
 ```audiolab
 {"type":"instrument","gm":"Reed Organ","synth":"blown","phrase":["C3","E3","G3","C4","E4","G4"],"label":"簧风琴的常用区：C3 到 G4","label_en":"The harmonium's working register — C3 up to G4","hint":"注意音色里那点持续的「簧」的颤动 —— 这是自由簧与音管的区别","hint_en":"Hear the slight reedy tremble under the sustained tone — free reed versus air column."}
@@ -174,10 +174,10 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **脚踏风箱是技术核心**。脚的力度与均匀度直接决定声音的稳定与呼吸感。
-- **双手弹键盘**，另有音栓供切换。
-- **常作为伴奏与和声乐器**：为独唱、合唱或独奏乐器伴奏（尤其在小教堂与家庭里）。
-- **印度用法不同**：在印度，簧风琴成为**声乐伴奏**的常用乐器
+- 脚踏风箱是技术核心。脚的力度与均匀度直接决定声音的稳定与呼吸感。
+- 双手弹键盘，另有音栓供切换。
+- 常作为伴奏与和声乐器：为独唱、合唱或独奏乐器伴奏（尤其在小教堂与家庭里）。
+- 印度用法不同：在印度，簧风琴成为声乐伴奏的常用乐器
   （演奏者常用右手弹旋律、左手控制风箱或做持续音），并发展出独特的演奏风格。
 
 ## 家族与近亲
@@ -189,8 +189,8 @@ updated: 2026-09-26
 | [[instrument:accordion\|手风琴]] | **自由簧** | **手动风箱** | F3–A6 | 独奏、民间音乐 |
 | [[instrument:harmonica\|口琴]] | **自由簧** | **嘴吹吸** | C4–C7 | 独奏、民间、蓝调 |
 
-**后三行是"自由簧三件"**，它们的差别在**送气方式**：
-**脚踏（簧风琴）· 手动（手风琴）· 口吹（口琴）** ——
+后三行是"自由簧三件"，它们的差别在送气方式：
+脚踏（簧风琴）· 手动（手风琴）· 口吹（口琴） ——
 同一原理的三种操作方案。
 
 ## 历史演变
@@ -203,28 +203,29 @@ updated: 2026-09-26
 | 20 世纪 | 在西方被钢琴与电子乐器取代；**在印度仍是常用乐器** |
 | 20 世纪后期至今 | 西方作为复古与民谣乐器使用；印度与南亚继续广泛使用 |
 
-**它是"传播后在新地方生根"的典型案例**：
+它是"传播后在新地方生根"的典型案例：
 在欧洲退场，在印度成为常用乐器 ——
-**同一件乐器在不同文化里的命运可以完全相反。**
+同一件乐器在不同文化里的命运可以完全相反。
 
 ## 常见误解
 
-- **"簧风琴就是小管风琴。"** 同属**气鸣**，但**发声体不同**：
+- "簧风琴就是小管风琴。" 同属气鸣，但发声体不同：
   管风琴是空气柱（音高由管长定），簧风琴是自由簧（音高由簧片定）。
-- **"自由簧与木管的簧片是一回事。"** 机制不同：自由簧在框里自由振动；
-  木管的簧片是**拍簧**（拍打开口或互相拍打）。
-- **"它没有力度控制。"** 它**有一点**：脚踏送气量会影响音量与音色，
+- "自由簧与木管的簧片是一回事。" 机制不同：自由簧在框里自由振动；
+  木管的簧片是拍簧（拍打开口或互相拍打）。
+- "它没有力度控制。" 它有一点：脚踏送气量会影响音量与音色，
   这是它与[[instrument:organ|管风琴]]的一个实际差别。
-- **"它在今天已经消失。"** 在西方确实少见，但在**印度与南亚仍是常用乐器**，
+- "它在今天已经消失。" 在西方确实少见，但在印度与南亚仍是常用乐器，
   且西方民谣与古乐领域也有人使用。
-- **"管风琴音栓与簧风琴音栓是一回事。"** 功能相似（选择音色），
+- "管风琴音栓与簧风琴音栓是一回事。" 功能相似（选择音色），
   但对象不同：一个换"哪组音管"，一个换"哪组簧与共鸣箱"。
 
 ## 下一步
 
 自由簧一族还剩 2 条：[[instrument:accordion|手风琴]]（手动风箱）与
 [[instrument:harmonica|口琴]]（嘴吹吸）。
-三件一起看，"**同一个原理、三种送气方式**"这条线就完整了。
+三件一起看，"同一个原理、三种送气方式"这条线就完整了。
+
 :::
 
 ::: en
@@ -243,15 +244,15 @@ That one difference produces a whole family of instruments (harmonium, accordion
 
 > ⚠️ **One conceptual point**: **a "free reed" and a woodwind's "beating reed" are two different
 > mechanisms.**
-> - **Free reed**: the reed sits in a frame **slightly larger** than itself and vibrates **without touching**
->   it; the frequency is **set mainly by the reed's own stiffness and mass**.
->   → harmonium · accordion · harmonica · the Chinese **sheng** (an early free-reed instance).
-> - **Beating reed**: the reed **strikes** an opening or another reed.
+> - Free reed: the reed sits in a frame slightly larger than itself and vibrates without touching
+>   it; the frequency is set mainly by the reed's own stiffness and mass.
+>   → harmonium · accordion · harmonica · the Chinese sheng (an early free-reed instance).
+> - Beating reed: the reed strikes an opening or another reed.
 >   → [[instrument:clarinet|clarinet]] (single, beating) · [[instrument:oboe|oboe]] (two, striking each other).
 >
-> **Both are called "reeds", but their freedom differs completely** — a free reed's pitch comes from the reed
+> Both are called "reeds", but their freedom differs completely — a free reed's pitch comes from the reed
 > itself, whereas a beating reed's is coupled to the tube length. Which is why free-reed instruments **need no
-> pipes of different lengths to set pitch**: **one small reed can sound very low** — the harmonica proves it.
+> pipes of different lengths to set pitch: one small reed can sound very low** — the harmonica proves it.
 
 ## Structure: foot bellows, free reeds, keyboard
 
@@ -301,11 +302,11 @@ That one difference produces a whole family of instruments (harmonium, accordion
 
 Three points:
 
-1. **The free reed is the source.** Air makes it vibrate without touching its frame, and **pitch is set by the
+1. The free reed is the source. Air makes it vibrate without touching its frame, and **pitch is set by the
    reed's own stiffness and mass** — independent of any tube.
-2. **Foot bellows mean the player supplies the air**, so how much is sent is controlled by the foot. A practical
+2. Foot bellows mean the player supplies the air, so how much is sent is controlled by the foot. A practical
    difference from the [[instrument:organ|organ]], whose air comes from a blower.
-3. **Stops still exist** (changing colour and volume), but unlike the organ's they select **sets of reeds and
+3. Stops still exist (changing colour and volume), but unlike the organ's they select **sets of reeds and
    resonators** rather than ranks of pipes.
 
 ## Its relation to the organ
@@ -338,7 +339,7 @@ Three points:
 </svg>
 ```
 
-**"The free reed freed low pitch from bulk"** is the shared technical significance of this family: an
+"The free reed freed low pitch from bulk" is the shared technical significance of this family: an
 [[instrument:organ|organ]] needs metres of pipe to sound low, while a free-reed instrument needs one small
 reed — and keyboards became portable for the first time.
 
@@ -348,22 +349,22 @@ reed — and keyboards became portable for the first time.
 {"range":"C2–C6","common":"C2–C5","caption":"簧风琴的音域","caption_en":"Harmonium range","note":"簧风琴属气鸣乐器（自由簧）。常见音域约 C2–C6，视乐器而定；常用区 C2–C5。它与管风琴音区相近，但体积小得多。"}
 ```
 
-- **About C2–C6** depending on the instrument — close to an [[instrument:organ|organ]]'s register, at a
+- About C2–C6 depending on the instrument — close to an [[instrument:organ|organ]]'s register, at a
   fraction of the size.
-- **The working register is C2–C5**: its music is mostly accompaniment, harmony and church music, so the low
+- The working register is C2–C5: its music is mostly accompaniment, harmony and church music, so the low
   middle matters most.
-- **It has no organ-like sub-bass** (32-foot pipes) — free reeds have a physical lower limit.
+- It has no organ-like sub-bass (32-foot pipes) — free reeds have a physical lower limit.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Warm, with a slight reedy tremble.** Less "pure" than an organ — a slight movement inside the sustained
+1. Warm, with a slight reedy tremble. Less "pure" than an organ — a slight movement inside the sustained
    tone, characteristic of free reeds.
-2. **Unlimited sustain** (as with the organ: as long as air flows, the note holds).
-3. **Some dynamic control via the feet**, though limited. Unlike the organ, whose air comes from a blower, the
+2. Unlimited sustain (as with the organ: as long as air flows, the note holds).
+3. Some dynamic control via the feet, though limited. Unlike the organ, whose air comes from a blower, the
    harmonium's air is metered by the player's foot, allowing a little breathing.
-4. **Colour varies with the stops, but less widely than an organ's.** Its expression lies in **harmony and
+4. Colour varies with the stops, but less widely than an organ's. Its expression lies in **harmony and
    sustain**.
 
 ```audiolab
@@ -372,12 +373,12 @@ Four cues:
 
 ## Playing techniques
 
-- **The foot bellows are the core technique**: foot pressure and evenness decide the stability and breath of
+- The foot bellows are the core technique: foot pressure and evenness decide the stability and breath of
   the sound.
-- **Both hands on the keyboard**, with stops for changes.
-- **Usually an accompanying and harmonic instrument**: for solo voice, choir or solo instruments (especially in
+- Both hands on the keyboard, with stops for changes.
+- Usually an accompanying and harmonic instrument: for solo voice, choir or solo instruments (especially in
   small churches and homes).
-- **Indian practice differs**: there the harmonium became a standard **vocal accompanist** (the right hand often
+- Indian practice differs: there the harmonium became a standard vocal accompanist (the right hand often
   plays the melody while the left works the bellows or holds a drone), developing its own performance style.
 
 ## The family
@@ -389,8 +390,8 @@ Four cues:
 | [[instrument:accordion\|Accordion]] | **free reeds** | **hand bellows** | F3–A6 | solo, folk music |
 | [[instrument:harmonica\|Harmonica]] | **free reeds** | **breath** | C4–C7 | solo, folk, blues |
 
-**The last three are the "free-reed trio"**, distinguished by **how the air is supplied**:
-**foot (harmonium) · hand (accordion) · breath (harmonica)** — one principle, three solutions.
+The last three are the "free-reed trio", distinguished by how the air is supplied:
+foot (harmonium) · hand (accordion) · breath (harmonica) — one principle, three solutions.
 
 ## History
 
@@ -402,20 +403,20 @@ Four cues:
 | 20th c. | displaced in the West by the piano and electronic instruments; **still common in India** |
 | Late 20th c. onward | used in the West for revival and folk music; widely played in India and South Asia |
 
-**It is a textbook case of "transplanted and taking root"**: it left the European stage and became an everyday
-instrument in India — **the same instrument can have opposite fates in different cultures.**
+It is a textbook case of "transplanted and taking root": it left the European stage and became an everyday
+instrument in India — the same instrument can have opposite fates in different cultures.
 
 ## Common misconceptions
 
-- **"A harmonium is a small organ."** Both are **aerophones**, but **the vibrating body differs**: an organ's
+- "A harmonium is a small organ." Both are aerophones, but the vibrating body differs: an organ's
   is an air column (pitch by pipe length), a harmonium's a free reed (pitch by the reed).
-- **"Free reeds and woodwind reeds are the same thing."** The mechanisms differ: a free reed vibrates inside its
-  frame without touching it; a woodwind reed is a **beating reed** (striking an opening or another reed).
-- **"It has no dynamic control."** It has **some**: the foot's air supply affects volume and colour, a practical
+- "Free reeds and woodwind reeds are the same thing." The mechanisms differ: a free reed vibrates inside its
+  frame without touching it; a woodwind reed is a beating reed (striking an opening or another reed).
+- "It has no dynamic control." It has some: the foot's air supply affects volume and colour, a practical
   difference from the [[instrument:organ|organ]].
-- **"It has disappeared."** Rare in the West, but **still a standard instrument in India and South Asia**, and
+- "It has disappeared." Rare in the West, but still a standard instrument in India and South Asia, and
   used in Western folk and early-music circles.
-- **"Organ stops and harmonium stops are the same."** Similar in purpose (selecting colour), but their objects
+- "Organ stops and harmonium stops are the same." Similar in purpose (selecting colour), but their objects
   differ: one chooses pipe ranks, the other reed and resonator sets.
 
 ## Next

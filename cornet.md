@@ -37,7 +37,7 @@ updated: 2026-09-26
 差别只在两处 —— **管身的圆锥比例更大**，**号嘴的杯更深**。
 
 就这两处，让它的音色明显比小号**圆、柔、暗**。它是"管形决定音色"这条规律最干净的例证：
-**同样的音高、同样的演奏方式，只是管子的形状不同。**
+同样的音高、同样的演奏方式，只是管子的形状不同。
 
 | 分类 | 归属 |
 |---|---|
@@ -46,11 +46,11 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 铜管（小号族） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，短号不在其中 |
 
-> ⚠️ **一个名称上的要点**：**历史上的 "cornet" 与今天的短号常常不是同一件乐器。**
-> 文艺复兴与巴洛克的 **cornetto（科尔内管）** 是**木制或骨制**的管，靠**指孔**取音 ——
-> 它属**木管式的指孔铜管**（唇鸣 + 指孔），而不是活塞铜管。
-> 曲目单、古乐唱片里看到的 "cornet"，**绝大多数指的是 cornetto**。
-> 判据很简单：**看它有没有活塞** —— 有活塞是短号，有指孔是科尔内管。
+> ⚠️ 一个名称上的要点：历史上的 "cornet" 与今天的短号常常不是同一件乐器。
+> 文艺复兴与巴洛克的 cornetto（科尔内管） 是木制或骨制的管，靠指孔取音 ——
+> 它属木管式的指孔铜管（唇鸣 + 指孔），而不是活塞铜管。
+> 曲目单、古乐唱片里看到的 "cornet"，绝大多数指的是 cornetto。
+> 判据很简单：看它有没有活塞 —— 有活塞是短号，有指孔是科尔内管。
 
 ## 三兄弟：只差一个圆锥度
 
@@ -76,7 +76,7 @@ updated: 2026-09-26
   <text x="530" y="162" text-anchor="middle" font-size="10.5" fill="#E07A3F">柔、暗、近人声</text>
   <text x="20" y="200" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">三支的管长完全相同（都是降 B 调、同一套指法、同一段音域），差别只在管子从吹口到喇叭口的"外张速度"。</text>
   <text x="20" y="222" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">管越早开始外张，高次泛音就越不容易被激起 —— 音色因此越柔、越暗。</text>
-  <text x="20" y="248" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">这是本站最能说明"管形决定音色"的一组对照：<tspan font-weight="bold">除形状外一切都相同，声音却明显不同。</tspan></text>
+  <text x="20" y="248" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">这是最能说明"管形决定音色"的一组对照：<tspan font-weight="bold">除形状外一切都相同，声音却明显不同。</tspan></text>
   <g class="lead" stroke="#6E6A64" stroke-width=".9">
     <path d="M60,290 L150,290"/><path d="M280,290 L370,290"/><path d="M490,290 L580,290"/>
   </g>
@@ -86,12 +86,12 @@ updated: 2026-09-26
 </svg>
 ```
 
-**一条因果链**（与[[instrument:alto-flute|中音长笛]]那条同源）：
+一条因果链（与[[instrument:alto-flute|中音长笛]]那条同源）：
 
 管身越早外张（圆锥度越大）→ 高次泛音越难被激起 → 音色的高频成分越少 →
-**听感从"亮"走向"柔""暗"**。号嘴的深度也朝同一方向起作用（深杯同样削高频）。
+听感从"亮"走向"柔""暗"。号嘴的深度也朝同一方向起作用（深杯同样削高频）。
 
-**所以三兄弟是三档连续而不是三件乐器**：小号 → 短号 → 富鲁格号，
+所以三兄弟是三档连续而不是三件乐器：小号 → 短号 → 富鲁格号，
 "亮度"依次下降，"柔度"依次上升。演奏者换乐器只需换乐器，不必重学。
 
 ## 从管乐团到早期爵士
@@ -125,12 +125,12 @@ updated: 2026-09-26
 </svg>
 ```
 
-**为什么短号在管乐团里这么重要？** 因为管乐团是**木管 + 铜管的混合体**：
+为什么短号在管乐团里这么重要？ 因为管乐团是木管 + 铜管的混合体：
 短号更圆、更柔的音色更容易与木管融在一起，而小号会显得"盖过"它们。
 这也是英式铜管乐队（brass band）至今仍以短号为主力、甚至用短号替代小号的原因。
 
-**爵士里它为什么又让位？** 爵士乐队在 1920—30 年代变得更大、更吵
-（更多萨克斯、更大音量），小号的**亮度与穿透力**成了优势。
+爵士里它为什么又让位？ 爵士乐队在 1920—30 年代变得更大、更吵
+（更多萨克斯、更大音量），小号的亮度与穿透力成了优势。
 短号没有消失，但它从主角变成了色彩选择。
 
 ## 音域
@@ -139,35 +139,35 @@ updated: 2026-09-26
 {"range":"E3–B♭5","written":"F♯3–C6","caption":"短号的记谱音域与实音音域","caption_en":"The cornet: notated range above, sounding range below","note":"⚠️ 降 B 调短号是移调乐器 —— 记谱比实音高大二度。谱面写 F♯3–C6，实际出声 E3–B♭5 —— 与小号完全相同。三兄弟的音域与指法都一致，差别只在音色。"}
 ```
 
-- **实音 E3–B♭5** —— **与[[instrument:trumpet|小号]]完全一致**。
+- 实音 E3–B♭5 —— 与[[instrument:trumpet|小号]]完全一致。
   这正是"三兄弟只差音色"的具体含义。
-- **常用区 C4–C6**，与小号相同。
-- 由于音色更柔，它在**中低音区**（C4–G4）比小号更常用 —— 那里它的圆润最明显。
+- 常用区 C4–C6，与小号相同。
+- 由于音色更柔，它在中低音区（C4–G4）比小号更常用 —— 那里它的圆润最明显。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **圆、柔、稍暗**。与小号并排听，它少了那层"金属的锋利"，多了一层"木质感"。
-2. **不易"炸"**。同样的力度下，它的音色不大会变得刺耳 —— 这是圆锥管的特性。
-3. **融合性好**。与木管、与圆号都容易混在一起，不容易"跳出来"。
-4. **近距离更好听**。它的投射力略逊于小号，在安静或室内环境里反而更动人。
+1. 圆、柔、稍暗。与小号并排听，它少了那层"金属的锋利"，多了一层"木质感"。
+2. 不易"炸"。同样的力度下，它的音色不大会变得刺耳 —— 这是圆锥管的特性。
+3. 融合性好。与木管、与圆号都容易混在一起，不容易"跳出来"。
+4. 近距离更好听。它的投射力略逊于小号，在安静或室内环境里反而更动人。
 
 ```audiolab
 {"type":"instrument","gm":"Trumpet","synth":"brass","phrase":["E3","B3","E4","G4","B♭4","E5"],"label":"短号的常用区：E3 到 E5","label_en":"The cornet's working register — E3 up to E5","hint":"注意比小号更圆更柔的音色 —— 通用音色表里没有短号，这里借小号音色近似","hint_en":"Hear a rounder, softer tone than a trumpet's. General MIDI has no cornet, so a trumpet sample stands in."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）里**没有短号**。
-> 上面播放的是**小号**音色 —— 它能提示音区与演奏方式，但**听不到短号真正的圆柔**。
+> ⚠️ 关于试听：通用音色表（General MIDI）里没有短号。
+> 上面播放的是小号音色 —— 它能提示音区与演奏方式，但听不到短号真正的圆柔。
 
 ## 演奏技法
 
-技法与[[instrument:trumpet|小号]]完全相同（同一套活塞、同一套指法），差别在**气息与音色的取用**：
+技法与[[instrument:trumpet|小号]]完全相同（同一套活塞、同一套指法），差别在气息与音色的取用：
 
-- **更适合连奏与抒情线条**。圆润的音色让长线条听起来更"唱"。
-- **弱奏更容易**。圆锥管在低音量下不容易散，所以短号在安静的段落里表现更好。
-- **强奏的"炸"不如小号**。想要极端亮度与穿透力时，作曲者会选小号。
-- **弱音器通用**（与小号同一套），但效果上不如在小号上那么"尖锐"。
+- 更适合连奏与抒情线条。圆润的音色让长线条听起来更"唱"。
+- 弱奏更容易。圆锥管在低音量下不容易散，所以短号在安静的段落里表现更好。
+- 强奏的"炸"不如小号。想要极端亮度与穿透力时，作曲者会选小号。
+- 弱音器通用（与小号同一套），但效果上不如在小号上那么"尖锐"。
 
 ## 家族与近亲
 
@@ -178,8 +178,8 @@ updated: 2026-09-26
 | [[instrument:flugelhorn\|富鲁格号]] | 最大 | 深 | 柔、暗、近人声 | 爵士色彩 / 管乐团柔声部 |
 | 科尔内管（cornetto） | — | — | 明亮带"人声感" | **文艺复兴**，木制、指孔，**非本族** |
 
-**最后一行是本节最需要记住的一条**：名字相同、外形略似，
-但**科尔内管是木制指孔乐器**，属"唇鸣 + 指孔"的古老做法，
+最后一行是本节最需要记住的一条：名字相同、外形略似，
+但科尔内管是木制指孔乐器，属"唇鸣 + 指孔"的古老做法，
 与活塞短号之间隔着三百年的技术史。
 
 ## 历史演变
@@ -196,14 +196,14 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"短号就是小号，只是名字不同。"** 同一族、同一套指法，但**圆锥度与号嘴深度不同** →
+- "短号就是小号，只是名字不同。" 同一族、同一套指法，但圆锥度与号嘴深度不同 →
   音色可辨地更圆更柔。这是"管形决定音色"的教科书例证。
-- **"短号的音域比小号窄。"** **完全相同**（都是记谱 F♯3–C6 / 实音 E3–B♭5）。
-- **"cornet 就是短号。"** ⚠️ **历史上的 cornetto（科尔内管）是另一件乐器**：
-  木制或骨制、靠**指孔**取音。看曲目单时要先判断是哪一个 —— 古乐语境里几乎都是 cornetto。
-- **"短号是过时的乐器。"** 它在**管乐团与英式铜管乐队里仍是主力**，
+- "短号的音域比小号窄。" 完全相同（都是记谱 F♯3–C6 / 实音 E3–B♭5）。
+- "cornet 就是短号。" ⚠️ 历史上的 cornetto（科尔内管）是另一件乐器：
+  木制或骨制、靠指孔取音。看曲目单时要先判断是哪一个 —— 古乐语境里几乎都是 cornetto。
+- "短号是过时的乐器。" 它在管乐团与英式铜管乐队里仍是主力，
   在那些编制里它的融合性比小号更重要。
-- **"它和小号可以随意互换。"** 指法可以，但**音响不能**：
+- "它和小号可以随意互换。" 指法可以，但音响不能：
   作曲家写短号，要的就是那种圆柔；换成小号会盖住木管。
 
 ## 下一步
@@ -214,6 +214,7 @@ updated: 2026-09-26
 想跳到铜管三层次的另一个维度，就去看 [[instrument:trombone|长号]]
 （不用活塞，用滑管连续改变管长）或 [[instrument:french-horn|圆号]]
 （圆锥度更大、号嘴是漏斗形的一族）。
+
 :::
 
 ::: en
@@ -231,11 +232,11 @@ differs.
 | **Family** | Western · Brass (trumpet family) |
 | **Bayin** | Not applicable — a Chinese system; the cornet is outside it |
 
-> ⚠️ **One point about the name**: **the historical "cornet" is often not today's cornet.**
-> The Renaissance and Baroque **cornetto** is a **wooden or bone** pipe with **finger holes** — a
+> ⚠️ One point about the name: the historical "cornet" is often not today's cornet.
+> The Renaissance and Baroque cornetto is a wooden or bone pipe with finger holes — a
 > lip-vibrated instrument with holes, not a valved brass. On a programme or an early-music recording,
 > "cornet" nearly always means the cornetto.
-> The test is easy: **valves mean cornet, holes mean cornetto.**
+> The test is easy: valves mean cornet, holes mean cornetto.
 
 ## Three brothers: one conicality apart
 
@@ -271,13 +272,13 @@ differs.
 </svg>
 ```
 
-**One causal chain** (the same one as on the [[instrument:alto-flute|alto flute]] page):
+One causal chain (the same one as on the [[instrument:alto-flute|alto flute]] page):
 
 the earlier the body flares (more conical) → the harder upper harmonics are to excite → less high-frequency
-content → **the sound moves from "bright" towards "soft" and "dark".** Mouthpiece depth pushes in the same
+content → the sound moves from "bright" towards "soft" and "dark". Mouthpiece depth pushes in the same
 direction (a deep cup also damps the top).
 
-**So the three brothers are three stops on a continuum, not three instruments**: trumpet → cornet →
+So the three brothers are three stops on a continuum, not three instruments: trumpet → cornet →
 flugelhorn, brightness falling and softness rising in order. A player switches instruments, not disciplines.
 
 ## From wind band to early jazz
@@ -311,12 +312,12 @@ flugelhorn, brightness falling and softness rising in order. A player switches i
 </svg>
 ```
 
-**Why was the cornet so central in wind bands?** A wind band mixes **woodwinds and brass**: the cornet's
+Why was the cornet so central in wind bands? A wind band mixes woodwinds and brass: the cornet's
 rounder, softer tone blends with the woodwinds where a trumpet would cover them. That is also why British
 brass bands still field cornets as their lead — often in place of trumpets.
 
-**And why did jazz move on?** Jazz bands grew bigger and louder through the 1920s–30s (more saxophones,
-more volume), and the trumpet's **brightness and projection** became an advantage. The cornet did not
+And why did jazz move on? Jazz bands grew bigger and louder through the 1920s–30s (more saxophones,
+more volume), and the trumpet's brightness and projection became an advantage. The cornet did not
 disappear; it went from lead to colour.
 
 ## Range
@@ -325,40 +326,40 @@ disappear; it went from lead to colour.
 {"range":"E3–B♭5","written":"F♯3–C6","caption":"短号的记谱音域与实音音域","caption_en":"The cornet: notated range above, sounding range below","note":"⚠️ 降 B 调短号是移调乐器 —— 记谱比实音高大二度。谱面写 F♯3–C6，实际出声 E3–B♭5 —— 与小号完全相同。三兄弟的音域与指法都一致，差别只在音色。"}
 ```
 
-- **Sounding E3–B♭5** — **identical to the [[instrument:trumpet|trumpet]]**. That is what "the three brothers
+- Sounding E3–B♭5 — identical to the [[instrument:trumpet|trumpet]]. That is what "the three brothers
   differ only in colour" means concretely.
-- **The working register is C4–C6**, the same.
-- Because it is softer, its **middle-low register (C4–G4)** is used more than on a trumpet — that is where
+- The working register is C4–C6, the same.
+- Because it is softer, its middle-low register (C4–G4) is used more than on a trumpet — that is where
   its roundness shows most.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Round, soft, slightly dark.** Beside a trumpet it lacks the metallic edge and gains a woodier layer.
-2. **It does not blare.** At the same dynamic it does not turn harsh — a property of the conical bore.
-3. **It blends.** It mixes easily with woodwinds and with horns, and seldom sticks out.
-4. **It sounds better up close.** Its projection is a little less than a trumpet's, which makes it more
+1. Round, soft, slightly dark. Beside a trumpet it lacks the metallic edge and gains a woodier layer.
+2. It does not blare. At the same dynamic it does not turn harsh — a property of the conical bore.
+3. It blends. It mixes easily with woodwinds and with horns, and seldom sticks out.
+4. It sounds better up close. Its projection is a little less than a trumpet's, which makes it more
    moving in a quiet or chamber setting.
 
 ```audiolab
 {"type":"instrument","gm":"Trumpet","synth":"brass","phrase":["E3","B3","E4","G4","B♭4","E5"],"label":"短号的常用区：E3 到 E5","label_en":"The cornet's working register — E3 up to E5","hint":"注意比小号更圆更柔的音色 —— 通用音色表里没有短号，这里借小号音色近似","hint_en":"Hear a rounder, softer tone than a trumpet's. General MIDI has no cornet, so a trumpet sample stands in."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI set has **no cornet**. A **trumpet** sample is playing above — it
-> suggests the register and the manner, but **not the cornet's roundness**.
+> ⚠️ On the audio: the General MIDI set has no cornet. A trumpet sample is playing above — it
+> suggests the register and the manner, but not the cornet's roundness.
 
 ## Playing techniques
 
 The technique is identical to the [[instrument:trumpet|trumpet]] (same valves, same fingerings); the
-differences are in **air and what it is used for**:
+differences are in air and what it is used for:
 
-- **Better suited to legato and lyrical lines** — the round tone makes long phrases sing.
-- **Easier to play softly**: a conical bore does not fall apart at low volume, so the cornet does better in
+- Better suited to legato and lyrical lines — the round tone makes long phrases sing.
+- Easier to play softly: a conical bore does not fall apart at low volume, so the cornet does better in
   quiet passages.
-- **Less "blare" at full power**: when extreme brightness and projection are wanted, composers choose a
+- Less "blare" at full power: when extreme brightness and projection are wanted, composers choose a
   trumpet.
-- **The same mutes apply**, though they bite less than on a trumpet.
+- The same mutes apply, though they bite less than on a trumpet.
 
 ## The family
 
@@ -369,7 +370,7 @@ differences are in **air and what it is used for**:
 | [[instrument:flugelhorn\|Flugelhorn]] | most | deep | soft, dark, voice-like | jazz colour / band soft voice |
 | Cornetto | — | — | bright with a vocal edge | **Renaissance**, wooden, finger holes, **not this family** |
 
-**That last row is the one to remember**: same name, vaguely similar shape, but the **cornetto is a wooden,
+That last row is the one to remember: same name, vaguely similar shape, but the **cornetto is a wooden,
 hole-stopped pipe** — a "lips + holes" approach from three centuries before the valved cornet.
 
 ## History
@@ -386,14 +387,14 @@ hole-stopped pipe** — a "lips + holes" approach from three centuries before th
 
 ## Common misconceptions
 
-- **"A cornet is just a trumpet with a different name."** Same family, same fingerings, but **different
+- "A cornet is just a trumpet with a different name." Same family, same fingerings, but **different
   conicality and cup depth** → audibly rounder and softer. A textbook case of bore deciding colour.
-- **"The cornet has a smaller range."** **Identical** (both written F♯3–C6 / sounding E3–B♭5).
-- **"A cornet is a cornetto."** ⚠️ **The historical cornetto is a different instrument**: wood or bone, with
-  **finger holes**. On a programme, check which one — in early music it is almost always the cornetto.
-- **"The cornet is obsolete."** It remains the **lead of wind and British brass bands**, where its blending
+- "The cornet has a smaller range." Identical (both written F♯3–C6 / sounding E3–B♭5).
+- "A cornet is a cornetto." ⚠️ The historical cornetto is a different instrument: wood or bone, with
+  finger holes. On a programme, check which one — in early music it is almost always the cornetto.
+- "The cornet is obsolete." It remains the lead of wind and British brass bands, where its blending
   matters more than a trumpet's brightness.
-- **"Cornet and trumpet are interchangeable."** The fingerings are, the **sound is not**: when a composer
+- "Cornet and trumpet are interchangeable." The fingerings are, the sound is not: when a composer
   writes for cornet, the round warmth is the point; a trumpet would cover the woodwinds.
 
 ## Next

@@ -30,7 +30,7 @@ instances:
   - thesession-000011 | 另一首单声部舞曲，节奏更方整，可与上一条对照
 sources:
   - 琴体尺寸取通行制琴数据：琴体长 508 毫米（Dreadnought 体型）、上腰宽 300、腰宽 273、下腰宽 400 毫米，弦长 645 毫米
-  - 定弦 E–A–D–G–B–E 与「记谱比实音高一个八度」属通行乐器学常识，本文为原创表述
+  - 定弦 E–A–D–G–B–E 与「记谱比实音高一个八度」属通行乐器学常识
   - X 形音梁为钢弦吉他常用结构（19 世纪中叶起由 C. F. Martin 体系确立），扇形音梁为尼龙弦常用结构，依通行制琴史与工艺叙述
   - ⚠️ 库内没有标题或作曲家可确认指向「民谣吉他」的曲目 —— 本条给出的 5 首是**吉他族**曲目（同族可对照），音色由试听件负责
 updated: 2026-09-25
@@ -124,16 +124,16 @@ updated: 2026-09-25
 
 看不见的那处（X 形音梁）才是根因。钢弦的张力加起来约 **80 公斤**，
 是尼龙弦的一倍。这么大的拉力如果只靠细木条摊开，面板会被拉变形，
-所以钢弦吉他改用**两根交叉的主梁（X 形）**：交叉点落在音孔下方，
-把拉力沿对角线分到琴体的两侧。**它不是为了让声音更好，是为了让琴不散架。**
+所以钢弦吉他改用两根交叉的主梁（X 形）：交叉点落在音孔下方，
+把拉力沿对角线分到琴体的两侧。它不是为了让声音更好，是为了让琴不散架。
 
 ## 发声原理：同一套路径，两倍的驱动力
 
 路径与所有板腔体一致：弦 → 琴码 → 面板 → 箱内空气 → 音孔辐射。
-民谣吉他多出来的，是**驱动力**：
+民谣吉他多出来的，是驱动力：
 
-- 钢弦张力高一倍 → 面板被推得更狠 → **音量更大**。
-- 钢弦的内阻尼小 → **高次谐波留得更多** → 声音更亮、更有"金属感"。
+- 钢弦张力高一倍 → 面板被推得更狠 → 音量更大。
+- 钢弦的内阻尼小 → 高次谐波留得更多 → 声音更亮、更有"金属感"。
 - 代价同样来自这里：钢弦按下去更费力（尤其大横按），
   手指的磨损更重，弦的寿命更短（尼龙弦几个月不换，钢弦几周就失亮）。
 
@@ -168,9 +168,9 @@ updated: 2026-09-25
 </svg>
 ```
 
-**一处反直觉的事实**：民谣吉他音量比古典大，但**低频并不更深**。
+一处反直觉的事实：民谣吉他音量比古典大，但低频并不更深。
 两件的共鸣箱共振频率都在 100 Hz 上下，最低空弦都是 E2（82 Hz）。
-钢弦增加的是**中高频**与**音量** —— 所以"民谣吉他低音更猛"其实常常是错觉：
+钢弦增加的是中高频与音量 —— 所以"民谣吉他低音更猛"其实常常是错觉：
 听起来更"响"，容易被当成更低。
 
 ## 音域
@@ -179,22 +179,22 @@ updated: 2026-09-25
 {"range":"E2–E6","written":"E3–E7","common":"E2–C5","caption":"民谣吉他的记谱音域与实音音域","caption_en":"Acoustic guitar: notated range above, sounding range below","note":"与古典吉他同定弦、同音域 —— 记谱比实音高一个八度。"}
 ```
 
-定弦完全一样：**E2–A2–D3–G3–B3–E4**。所以两件吉他的**指法可以直接搬**
+定弦完全一样：E2–A2–D3–G3–B3–E4。所以两件吉他的指法可以直接搬
 ——这是弹唱者能从古典教材里借练习曲的原因。
 
-音域上与古典吉他的差别是**实际可用性**：琴颈接入第 14 品，
-上面的音（比如 E6）比以前容易按到；同时又多了用**变调夹**换调这条捷径
+音域上与古典吉他的差别是实际可用性：琴颈接入第 14 品，
+上面的音（比如 E6）比以前容易按到；同时又多了用变调夹换调这条捷径
 （夹在第 2 品，指法不动就成了 D 调）。古典吉他用变调夹很少，民谣里几乎是标配。
 
 ## 音色与听辨
 
 三条识别线索：
 
-1. **音头更"脆"**。钢弦被拨的瞬间有清亮的爆音，比尼龙的圆音头明显得多。
+1. 音头更"脆"。钢弦被拨的瞬间有清亮的爆音，比尼龙的圆音头明显得多。
    在独奏里这像"颗粒"，在扫弦里它变成整个和弦的"边"。
-2. **余音里有金属泛音**。衰减时不是均匀变轻，而是上方的泛音先退、
+2. 余音里有金属泛音。衰减时不是均匀变轻，而是上方的泛音先退、
    留下一层带金属味的芯。这是钢弦内阻尼小的直接结果。
-3. **扫弦时的"弦噪"**。拨片划过缠弦会有细微的摩擦噪声，
+3. 扫弦时的"弦噪"。拨片划过缠弦会有细微的摩擦噪声，
    转调夹与手指滑动也有。这些噪声在高保真录音里很清楚，
    是民谣吉他录音的"指纹"之一。
 
@@ -202,29 +202,29 @@ updated: 2026-09-25
 {"type":"instrument","gm":"Acoustic Guitar (steel)","synth":"plucked","phrase":["E2","A2","D3","G3","B3","E4"],"label":"六根空弦：钢弦与尼龙的差别在哪","label_en":"Six open strings — what steel changes","hint":"先听这一遍钢弦，再去听古典吉他页的尼龙弦：音量、音头的脆度、泛音的多寡","hint_en":"Hear this steel set, then compare with the nylon set on the classical guitar page — volume, attack, overtones."}
 ```
 
-> 本页「在库中听例子」里的曲子是**乐谱与演奏的骨架**（转写或雕版 MIDI），
+> 「在库中听例子」里的曲子是乐谱与演奏的骨架（转写或雕版 MIDI），
 > 音色由上面的试听件负责。另外如实说明：库内没有标题或作曲家可确认指向「民谣吉他」的曲目
 > —— 上面 5 首是吉他族（同一定弦）的曲目，用于听织体，不是钢弦吉他的录音。
 
 ## 演奏技法
 
-民谣吉他的右手**通常用拨片**，这是它与古典吉他最直观的分界。三种主流做法：
+民谣吉他的右手通常用拨片，这是它与古典吉他最直观的分界。三种主流做法：
 
-- **拨片扫弦（strumming）**：手腕带动，上下往复。上扫与下扫的音量比例、
+- 拨片扫弦（strumming）：手腕带动，上下往复。上扫与下扫的音量比例、
   扫的弦数范围，决定了伴奏的"形状"。这是弹唱的核心技术。
-- **指弹（fingerstyle）**：放下拨片，用拇指负责低音三根、食指中指无名指负责高音三根。
+- 指弹（fingerstyle）：放下拨片，用拇指负责低音三根、食指中指无名指负责高音三根。
   它与古典吉他的右手体系同源，但通常用指腹或指套而不是指甲，音色更闷、更"木"。
-- **混合拨弦（hybrid picking）**：握着拨片的同时用中指无名指补音 ——
+- 混合拨弦（hybrid picking）：握着拨片的同时用中指无名指补音 ——
   介于两者之间，乡村与布鲁斯常用。
 
 左手方面，因为钢弦张力大，民谣吉他有几件古典吉他很少用的技术：
 
-- **大横按（barre）**：一根手指按住六根弦。钢弦上这是体力活，
+- 大横按（barre）：一根手指按住六根弦。钢弦上这是体力活，
   但也正是它让一个和弦指型能整体移动（所以常用变调夹省力）。
-- **击弦与勾弦（hammer-on / pull-off）**：靠左手发音，不需要右手拨。
-- **滑音与推弦**：民谣里滑音常见；推弦（把弦横向推高）主要在电吉他上，
+- 击弦与勾弦（hammer-on / pull-off）：靠左手发音，不需要右手拨。
+- 滑音与推弦：民谣里滑音常见；推弦（把弦横向推高）主要在电吉他上，
   钢弦民谣上也能做，但幅度小。
-- **打板（percussive）**：用小指侧或手掌敲面板当节奏 —— 指弹独奏里常用。
+- 打板（percussive）：用小指侧或手掌敲面板当节奏 —— 指弹独奏里常用。
 
 ## 家族与近亲
 
@@ -236,16 +236,16 @@ updated: 2026-09-25
 | [[instrument:mandolin\|曼陀林]] | 4 组**复弦**钢弦 | 纵向音梁（拱形面板） | 极脆、颤音 | 民间舞曲、蓝草 |
 | [[instrument:lute\|鲁特琴]] | 6 组以上复弦（羊肠） | 横梁为主 | 轻、干 | 文艺复兴独奏 |
 
-一个常被混淆的点：**"民谣"这个词说的是用途，不是结构**。
+一个常被混淆的点："民谣"这个词说的是用途，不是结构。
 同一把钢弦吉他，弹民谣叫民谣吉他，弹蓝草叫平顶吉他，弹指弹叫指弹吉他 ——
-**乐器是同一件**。真正分结构的是弦与音梁（见上表），不是曲风。
+乐器是同一件。真正分结构的是弦与音梁（见上表），不是曲风。
 
 ## 历史演变
 
-钢弦吉他不是某一天被发明出来的，而是**弦的进步逼出来的结构变化**。
+钢弦吉他不是某一天被发明出来的，而是弦的进步逼出来的结构变化。
 
 19 世纪以前，欧洲的吉他用的都是羊肠弦（后来是尼龙）。羊肠弦张力小、音色柔，
-但**音量小、易断、怕潮**。19 世纪末美国的制琴师开始尝试钢弦 —— 一上来问题就出现了：
+但音量小、易断、怕潮。19 世纪末美国的制琴师开始尝试钢弦 —— 一上来问题就出现了：
 面板被拉变形，琴体开胶。于是结构跟着改：
 
 | 年代 | 变化 | 原因 |
@@ -255,25 +255,25 @@ updated: 2026-09-25
 | 20 世纪初 | 琴颈接入点从第 12 品移到**第 14 品** | 高把位可用，适应弹唱与独奏 |
 | 20 世纪 | 出现钢芯缠弦（磷青铜、黄铜） | 音量与音色稳定，寿命更长 |
 
-这套结构后来直接搬到了电吉他上：**电吉他的琴体形状、定弦、指法与民谣吉他同源**，
+这套结构后来直接搬到了电吉他上：电吉他的琴体形状、定弦、指法与民谣吉他同源，
 只是把"用共鸣箱放大"换成了"用拾音器转换成电信号"。
 所以民谣吉他是理解电声乐器的第一块台阶，也是 20 世纪流行音乐里出现次数最多的乐器。
 
 ## 常见误解
 
-- **"民谣吉他比古典吉他好，音量更大。"** → 它们服务不同目的。钢弦换来的音量，
-  代价是**动态层次更粗**、按弦更费力、弦寿命更短。古典吉他那种极弱的渐弱，
+- "民谣吉他比古典吉他好，音量更大。" → 它们服务不同目的。钢弦换来的音量，
+  代价是动态层次更粗、按弦更费力、弦寿命更短。古典吉他那种极弱的渐弱，
   钢弦很难做到。
-- **"民谣吉他低音更猛。"** → 音量更大 ≠ 低频更深。两件的最低空弦都是 E2（82 Hz），
+- "民谣吉他低音更猛。" → 音量更大 ≠ 低频更深。两件的最低空弦都是 E2（82 Hz），
   共鸣箱共振也都在 100 Hz 上下。钢弦多出来的主要是中高频与总响度。
-- **"琴颈接在第 14 品只是好看。"** → 那是实打实的可用性差别：
+- "琴颈接在第 14 品只是好看。" → 那是实打实的可用性差别：
   第 12 品接入时，第 15 品以上的位置要避过琴体去按，非常吃力。
-- **"变调夹是偷懒。"** → 它是**换调与换音色的工具**。夹上以后空弦音变了，
+- "变调夹是偷懒。" → 它是换调与换音色的工具。夹上以后空弦音变了，
   同一个和弦指型的音响也会变（开放弦的共鸣与按弦音不同）——
   这是编曲上的选择，不只是省力。
-- **"吉他谱上的音就是听到的音。"** → 和古典吉他一想，是**移调乐器**，
+- "吉他谱上的音就是听到的音。" → 和古典吉他一想，是移调乐器，
   记谱比实音高一个八度。看音域图的两行就清楚。
-- **"弦断了随便换一根就行。"** → 钢弦有规格（粗细、材质、缠法），
+- "弦断了随便换一根就行。" → 钢弦有规格（粗细、材质、缠法），
   混用会让张力失衡，面板受力不均。整套换是常规做法。
 
 ## 下一步
@@ -282,6 +282,7 @@ updated: 2026-09-25
 往历史看 [[instrument:lute|鲁特琴]]（吉他的复弦祖先）。
 想听"小一号的同一件事"，去 [[instrument:ukulele|尤克里里]] ——
 只有四根弦，但定弦里藏着一个小反直觉。
+
 :::
 
 ::: en
@@ -372,10 +373,10 @@ instrument from folding up.**
 ## How it sounds: same path, twice the drive
 
 The acoustic path is common to every box-bodied instrument: string → saddle → top plate → air →
-out through the soundhole. What the acoustic guitar adds is **drive**:
+out through the soundhole. What the acoustic guitar adds is drive:
 
-- Steel pulls twice as hard → the plate is pushed harder → **more volume**.
-- Steel has lower damping → **more high overtones survive** → brighter, more metallic.
+- Steel pulls twice as hard → the plate is pushed harder → more volume.
+- Steel has lower damping → more high overtones survive → brighter, more metallic.
 - The cost comes from the same place: higher string tension means harder fretting (especially barre
   chords), more wear on the fingers, and a shorter string life — nylon lasts months, steel loses its
   brightness in weeks.
@@ -407,10 +408,10 @@ out through the soundhole. What the acoustic guitar adds is **drive**:
 </svg>
 ```
 
-**One counter-intuitive fact**: an acoustic guitar is louder than a classical, but its bass is **not
+One counter-intuitive fact: an acoustic guitar is louder than a classical, but its bass is **not
 deeper**. Both boxes resonate near 100 Hz and both have E2 (82 Hz) as their lowest open string. What
-steel adds is **mid and high frequency energy plus overall loudness** — so "steel-string guitars have
-a bigger bass" is usually an illusion: it sounds **louder**, and loudness gets mistaken for depth.
+steel adds is mid and high frequency energy plus overall loudness — so "steel-string guitars have
+a bigger bass" is usually an illusion: it sounds louder, and loudness gets mistaken for depth.
 
 ## Range
 
@@ -418,55 +419,55 @@ a bigger bass" is usually an illusion: it sounds **louder**, and loudness gets m
 {"range":"E2–E6","written":"E3–E7","common":"E2–C5","caption":"民谣吉他的记谱音域与实音音域","caption_en":"Acoustic guitar: notated range above, sounding range below","note":"与古典吉他同定弦、同音域 —— 记谱比实音高一个八度。"}
 ```
 
-The tuning is identical: **E2–A2–D3–G3–B3–E4**. Fingerings transfer directly between the two guitars —
+The tuning is identical: E2–A2–D3–G3–B3–E4. Fingerings transfer directly between the two guitars —
 which is why a strummer can borrow studies from classical method books.
 
-The practical difference is **access and keys**: with the neck joining at fret 14, high positions are
-much easier to reach, and the **capo** becomes a routine tool (clamp at fret 2 and the same shapes
+The practical difference is access and keys: with the neck joining at fret 14, high positions are
+much easier to reach, and the capo becomes a routine tool (clamp at fret 2 and the same shapes
 sound in D). Classical players rarely use a capo; acoustic players treat it as standard equipment.
 
 ## Timbre, and how to hear it
 
 Three identifying cues:
 
-1. **A crisper attack.** A plucked steel string has a bright burst that nylon's rounder attack lacks.
+1. A crisper attack. A plucked steel string has a bright burst that nylon's rounder attack lacks.
    In a solo it reads as "grain"; in a strummed chord it becomes the chord's edge.
-2. **Metallic overtones in the decay.** Steel does not fade evenly — the top end goes last,
+2. Metallic overtones in the decay. Steel does not fade evenly — the top end goes last,
    leaving a metallic core behind. That is low damping at work.
-3. **String noise.** A pick across wound strings makes a fine scraping sound, as do capo and finger
+3. String noise. A pick across wound strings makes a fine scraping sound, as do capo and finger
    slides. Close-miked recordings capture it clearly; it is part of the instrument's fingerprint.
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Guitar (steel)","synth":"plucked","phrase":["E2","A2","D3","G3","B3","E4"],"label":"六根空弦：钢弦与尼龙的差别在哪","label_en":"Six open strings — what steel changes","hint":"先听这一遍钢弦，再去听古典吉他页的尼龙弦：音量、音头的脆度、泛音的多寡","hint_en":"Hear this steel set, then compare with the nylon set on the classical guitar page — volume, attack, overtones."}
 ```
 
-> The tracks under “Listen in the library” are the **skeleton of the music** — transcription or
+> The tracks under “Listen in the library” are the skeleton of the music — transcription or
 > engraving MIDI — while timbre is handled by the player above. For transparency: no track in the
 > library carries a title or composer that identifies it as acoustic-guitar music. The five above are
 > guitar-family works (same tuning) chosen for texture, not steel-string recordings.
 
 ## Playing techniques
 
-The right hand **usually holds a pick**, the most visible divide from the classical guitar.
+The right hand usually holds a pick, the most visible divide from the classical guitar.
 Three mainstream approaches:
 
-- **Strumming**: the wrist drives the pick up and down. The loudness ratio between up- and downstrokes,
+- Strumming: the wrist drives the pick up and down. The loudness ratio between up- and downstrokes,
   and how many strings each stroke covers, define the shape of an accompaniment. The core technique of
   playing and singing.
-- **Fingerstyle**: put the pick down; the thumb takes the three bass strings and the index, middle and
+- Fingerstyle: put the pick down; the thumb takes the three bass strings and the index, middle and
   ring fingers the top three. It shares ancestry with the classical right hand, but usually plays with
   fingertips or picks rather than nails — duller, woodier.
-- **Hybrid picking**: hold the pick and add the middle and ring fingers. Between the two worlds, common
+- Hybrid picking: hold the pick and add the middle and ring fingers. Between the two worlds, common
   in country and blues.
 
 On the left hand, high tension brings techniques a classical player rarely needs:
 
-- **Barre chords**: one finger across all six strings. Physically demanding on steel — which is exactly
+- Barre chords: one finger across all six strings. Physically demanding on steel — which is exactly
   why a capo is so useful, since it lets a shape move without the effort.
-- **Hammer-ons and pull-offs**: sounding notes with the left hand alone.
-- **Slides and bends**: slides are common; bends (pushing the string sideways to raise pitch) belong
+- Hammer-ons and pull-offs: sounding notes with the left hand alone.
+- Slides and bends: slides are common; bends (pushing the string sideways to raise pitch) belong
   mainly to electric guitars, but work in a small range on steel too.
-- **Percussive playing**: tapping the top plate with the side of the palm or fingers for rhythm —
+- Percussive playing: tapping the top plate with the side of the palm or fingers for rhythm —
   routine in fingerstyle solo work.
 
 ## The family
@@ -479,9 +480,9 @@ On the left hand, high tension brings techniques a classical player rarely needs
 | [[instrument:mandolin\|Mandolin]] | 4 **doubled** courses, steel | longitudinal (arched top) | very crisp, tremolo | folk dance, bluegrass |
 | [[instrument:lute\|Lute]] | 6+ doubled courses, gut | transverse braces | light, dry | Renaissance solo |
 
-One frequent confusion: **"acoustic" names a use, not a structure.** The same steel-string instrument
+One frequent confusion: "acoustic" names a use, not a structure. The same steel-string instrument
 is called a folk guitar when strummed and a fingerstyle guitar when played without a pick —
-**it is one instrument**. What actually separates instruments is strings and bracing (the table above),
+it is one instrument. What actually separates instruments is strings and bracing (the table above),
 not repertoire.
 
 ## History
@@ -490,7 +491,7 @@ The steel-string guitar was not invented on a single day; **string technology fo
 change**.
 
 Before the 19th century European guitars used gut strings (later nylon). Gut is low-tension and mellow
-but **quiet, fragile and humidity-sensitive**. Late in the 19th century American makers began
+but quiet, fragile and humidity-sensitive. Late in the 19th century American makers began
 experimenting with steel — and immediately hit problems: tops deformed, bodies came apart. So the
 structure followed:
 
@@ -508,20 +509,20 @@ electric instruments — and the most frequently heard instrument in 20th-centur
 
 ## Common misconceptions
 
-- **"Acoustic is better than classical — more volume."** They serve different purposes. Steel buys
-  volume at the cost of **coarser dynamics**, harder fretting and shorter string life. The classical
+- "Acoustic is better than classical — more volume." They serve different purposes. Steel buys
+  volume at the cost of coarser dynamics, harder fretting and shorter string life. The classical
   guitar's very soft pianissimo is hard to achieve on steel.
-- **"Acoustic guitars have a bigger bass."** More volume is not deeper bass. Both have E2 (82 Hz) as
+- "Acoustic guitars have a bigger bass." More volume is not deeper bass. Both have E2 (82 Hz) as
   their lowest string, and both boxes resonate near 100 Hz. Steel adds mostly mid and high energy and
   overall loudness.
-- **"The 14th-fret neck joint is just cosmetic."** It is a real usability difference: with a 12th-fret
+- "The 14th-fret neck joint is just cosmetic." It is a real usability difference: with a 12th-fret
   joint, notes above fret 15 require reaching past the body.
-- **"A capo is for people who cannot transpose."** It is a tool for **changing key and colour**. Once
+- "A capo is for people who cannot transpose." It is a tool for changing key and colour. Once
   clamped, the open strings change, so the same chord shapes sound different — an arranging decision,
   not just convenience.
-- **"What you read is what sounds."** As with the classical guitar, this is a **transposing**
+- "What you read is what sounds." As with the classical guitar, this is a transposing
   instrument, notated an octave above sounding pitch.
-- **"When a string breaks, replace just that one."** Steel strings have specs — gauge, material,
+- "When a string breaks, replace just that one." Steel strings have specs — gauge, material,
   winding. Mixing them unbalances tension across the top. Replacing the set is standard practice.
 
 ## Next

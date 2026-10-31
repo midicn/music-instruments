@@ -30,9 +30,9 @@ instances:
   - giantmidi-003738 | Carulli 的小二重奏 —— 两把吉他对话，对照单把吉他时的声部处理
 sources:
   - 琴体尺寸取通行制琴数据：琴体长 480 毫米、上腰宽 285、腰宽 225、下腰宽 355 毫米，弦长 650 毫米
-  - 定弦 E–A–D–G–B–E（除三度外均为四度）与「记谱比实音高一个八度」属通行乐器学常识，本文为原创表述
+  - 定弦 E–A–D–G–B–E（除三度外均为四度）与「记谱比实音高一个八度」属通行乐器学常识
   - 扇形音梁（fan bracing）为尼龙弦吉他常用结构、X 形音梁为钢弦吉他常用结构，依通行制琴工艺叙述
-  - 音域数据依通行乐谱与乐器词典，本文为原创表述
+  - 音域数据依通行乐谱与乐器词典
 updated: 2026-09-25
 ---
 
@@ -124,15 +124,15 @@ updated: 2026-09-25
 
 小提琴的腰被"掐"得很深（0.32），因为它**用弓**，弓要在腰那里进出；
 吉他的腰浅（0.47），因为它**用手拨**，只需要让手腕能扫过琴弦 ——
-于是它把多出来的面积全给了面板。**面积就是音量。**
+于是它把多出来的面积全给了面板。面积就是音量。
 
 ## 发声原理：扇形音梁是给尼龙弦定做的
 
 吉他与小提琴的声学路径同构：弦 → 琴码 → 面板 → 箱内空气 → 音孔辐射出去。
-真正不同的地方在**面板内侧那几根木头**。
+真正不同的地方在面板内侧那几根木头。
 
 尼龙弦的张力比钢弦低得多（六根合起来约 40 公斤，只有钢弦的一半）。
-张力小，面板被"推"的力就小，所以古典吉他用**扇形音梁**：几根细木条从音孔下方向外呈扇形铺开，
+张力小，面板被"推"的力就小，所以古典吉他用扇形音梁：几根细木条从音孔下方向外呈扇形铺开，
 把力分散到面板的一大片区域上，让整块面板尽量均匀地振动。
 
 ```svg
@@ -166,12 +166,12 @@ updated: 2026-09-25
 </svg>
 ```
 
-（对照：钢弦吉他用的是 **X 形音梁** —— 交叉的两根主梁。钢弦张力大一倍，
+（对照：钢弦吉他用的是 X 形音梁 —— 交叉的两根主梁。钢弦张力大一倍，
 面板更需要"抗拉"而不是"被摊开"。见 [[instrument:acoustic-guitar|民谣吉他]] 一节。）
 
-**音孔不是装饰，是开口**：箱内空气通过它成为一个**亥姆霍兹共振器**，
+音孔不是装饰，是开口：箱内空气通过它成为一个亥姆霍兹共振器，
 频率约在 100 Hz 附近。吉他最低的空弦 E2 是 82 Hz —— 比共振点还低，
-所以吉他的最低几个音天生偏薄。这是**任何**吉他（不论多贵）都逃不掉的物理限制。
+所以吉他的最低几个音天生偏薄。这是任何吉他（不论多贵）都逃不掉的物理限制。
 
 ## 音域
 
@@ -179,7 +179,7 @@ updated: 2026-09-25
 {"range":"E2–E6","written":"E3–E7","common":"E2–C5","caption":"古典吉他的记谱音域与实音音域","caption_en":"Classical guitar: notated range above, sounding range below","note":"吉他是移调乐器 —— 记谱比实音高一个八度。上面一行是记谱，下面一行是实际听到的音高。"}
 ```
 
-四根弦的定弦是 **E2–A2–D3–G3–B3–E4**：除了 G 到 B 是三度，其余相邻弦都是四度。
+四根弦的定弦是 E2–A2–D3–G3–B3–E4：除了 G 到 B 是三度，其余相邻弦都是四度。
 这个"三度例外"是吉他的历史包袱 —— 它是为了让和弦指型能横向移动而留下的，
 代价是音阶指型在 G–B 之间要换一次形状。
 
@@ -190,47 +190,47 @@ updated: 2026-09-25
 
 古典吉他的听辨要点：
 
-1. **音头是"指甲"而不是"拨片"**。拨弦的瞬间有一小段高频的"啵"，
+1. 音头是"指甲"而不是"拨片"。拨弦的瞬间有一小段高频的"啵"，
    但比钢弦吉他圆、比拨片软。这个音头是它的第一识别特征。
-2. **余音衰减得比钢弦快、但更干净**。尼龙弦的内阻尼大，
+2. 余音衰减得比钢弦快、但更干净。尼龙弦的内阻尼大，
    所以声音不会像钢弦那样拖着长长的金属泛音尾巴。
-3. **低音弦不"炸"**。E2 与 A2 这两个音偏薄（前面说的音孔共振问题），
+3. 低音弦不"炸"。E2 与 A2 这两个音偏薄（前面说的音孔共振问题），
    好的演奏会用靠弦（apoyando）去补，但补不回来 —— 这是设计上的特点，不是缺陷。
-4. **泛音位置清晰**。因为面板整体在振动，吉他的自然泛音（第 12、7、5 品）
+4. 泛音位置清晰。因为面板整体在振动，吉他的自然泛音（第 12、7、5 品）
    非常容易听出，音色通透得像另一种乐器。
 
-下面的试听件给的是六根空弦，从最低到最高。**注意最低两根（E2、A2）比其余四根薄**
+下面的试听件给的是六根空弦，从最低到最高。注意最低两根（E2、A2）比其余四根薄
 —— 那就是音孔共振频率在下方的结果。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Guitar (nylon)","synth":"plucked","phrase":["E2","A2","D3","G3","B3","E4"],"label":"六根空弦：从 E2 到 E4","label_en":"Six open strings — E2 up to E4","hint":"注意最低两根弦比其他四根薄；这是共鸣箱共振频率落在它们上方造成的","hint_en":"Notice how the two lowest strings sound thinner than the rest — the box resonance sits above them."}
 ```
 
-> 本页「在库中听例子」里的曲子是**乐谱与演奏的骨架**（转写或雕版 MIDI），
+> 「在库中听例子」里的曲子是乐谱与演奏的骨架（转写或雕版 MIDI），
 > 音色由上面的试听件负责。
 
 ## 演奏技法
 
-古典吉他的右手**不用拨片**，用拇指（p）与食指、中指、无名指（i、m、a）四种分工。
-这是它名称里"古典"的实际含义：**右手的指法是成体系的**。
+古典吉他的右手不用拨片，用拇指（p）与食指、中指、无名指（i、m、a）四种分工。
+这是它名称里"古典"的实际含义：右手的指法是成体系的。
 
-- **靠弦（apoyando）与勾弦（tirando）**：靠弦是拨完后手指停在下一根弦上，
+- 靠弦（apoyando）与勾弦（tirando）：靠弦是拨完后手指停在下一根弦上，
   声音更厚、更适合旋律；勾弦是手指离弦，声音更轻、更适合快速音型。
   这两件事是古典吉他右手的底层语法。
-- **轮指（tremolino）**：拇指弹低音，i、m、a 依次弹同一个高音 ——
+- 轮指（tremolino）：拇指弹低音，i、m、a 依次弹同一个高音 ——
   听起来像"长音"，其实是同音重复。这是古典吉他的招牌技巧之一。
-- **击弦与滑音**（左手）：不用右手拨，靠左手手指敲在品丝上发音（锤弦），
+- 击弦与滑音（左手）：不用右手拨，靠左手手指敲在品丝上发音（锤弦），
   或滑过去带出下一个音。
-- **自然泛音与人工泛音**：右手虚按第 12、7、5 品产生泛音；
+- 自然泛音与人工泛音：右手虚按第 12、7、5 品产生泛音；
   左手按弦、右手在指定等分点虚触则为人工泛音。
-- **回声与消音**：靠右手掌侧轻触琴桥附近的弦，得到闷住的音或短促的断音。
+- 回声与消音：靠右手掌侧轻触琴桥附近的弦，得到闷住的音或短促的断音。
 
-因为不用拨片，古典吉他的**音量普遍小于钢弦吉他**，但**动态层次更细** ——
+因为不用拨片，古典吉他的音量普遍小于钢弦吉他，但动态层次更细 ——
 它能做到非常弱的渐弱，这是拨片不容易做到的。
 
 ## 家族与近亲
 
-吉他族与**拨片族**是两条线，容易混：
+吉他族与拨片族是两条线，容易混：
 
 | 乐器 | 弦 | 定弦 | 发音方式 | 记谱 |
 |---|---|---|---|---|
@@ -240,51 +240,52 @@ updated: 2026-09-25
 | [[instrument:mandolin\|曼陀林]] | 4 组**复弦**（钢） | G D A E | 拨片 | 实音 |
 | [[instrument:lute\|鲁特琴]] | 6 组及以上**复弦**（羊肠） | G C F A D G | 指腹 / 指甲 | 实音 |
 
-**两组关键差异**：① 拨弦还是拨片；② 单弦还是复弦。
+两组关键差异：① 拨弦还是拨片；② 单弦还是复弦。
 复弦（曼陀林、鲁特琴）每两根弦同音，声音更厚、余音更长，代价是调音与换弦的工作量翻倍。
 
 吉他一族往上追，共同的祖先是 [[instrument:lute|鲁特琴]]。
-从鲁特琴到吉他，最本质的变化是**把复弦改成单弦**：更少的弦、更大的音量、更容易调音。
+从鲁特琴到吉他，最本质的变化是把复弦改成单弦：更少的弦、更大的音量、更容易调音。
 
 ## 历史演变
 
-吉他族的根在**鲁特琴**。16 世纪西班牙出现了一种更小、用四组复弦的**比维拉琴**
+吉他族的根在鲁特琴。16 世纪西班牙出现了一种更小、用四组复弦的比维拉琴
 （vihuela），它用吉他的定弦逻辑（四度加三度）取代了鲁特琴的定弦 ——
-这个选择一直留到今天：**吉他的定弦是西班牙的，不是欧洲通用的**。
+这个选择一直留到今天：吉他的定弦是西班牙的，不是欧洲通用的。
 
 之后三百年是加弦的过程：四组 → 五组 → 五根单弦（16 世纪）→ 六根单弦（约 18 世纪末）。
 
-真正的定型发生在 **19 世纪的西班牙**。制琴师 **Torres** 把琴体尺寸加大到一个新的比例
-（今天说的"古典吉他尺寸"就是他那时的），并确立了**扇形音梁**。
+真正的定型发生在 19 世纪的西班牙。制琴师 Torres 把琴体尺寸加大到一个新的比例
+（今天说的"古典吉他尺寸"就是他那时的），并确立了扇形音梁。
 从那以后，古典吉他的形制基本没有再变 —— 现在做的琴和 150 年前的琴，
 外观与内部结构几乎一样。
 
-20 世纪它走出了两条路：一条是**演奏传统**（Segovia 把古典吉他推上独奏舞台），
-另一条是**写作传统**（从 Tárrega、Barrios 到今天的作曲家）。
-今天古典吉他是少数**既有完整教学体系、又有当代作品**的拨弦乐器之一。
+20 世纪它走出了两条路：一条是演奏传统（Segovia 把古典吉他推上独奏舞台），
+另一条是写作传统（从 Tárrega、Barrios 到今天的作曲家）。
+今天古典吉他是少数既有完整教学体系、又有当代作品的拨弦乐器之一。
 
 ## 常见误解
 
-- **"古典吉他只能弹古典音乐。"** → "古典"指的是**持琴与右手技法体系**，
+- "古典吉他只能弹古典音乐。" → "古典"指的是持琴与右手技法体系，
   不是曲目范围。当代作品、爵士改编、民间音乐都在弹，只是用同一套手。
-- **"尼龙弦不如钢弦，音量小就是差。"** → 两种弦是为两种结构配的：
+- "尼龙弦不如钢弦，音量小就是差。" → 两种弦是为两种结构配的：
   尼龙弦张力小 → 面板要扇形梁摊力；钢弦张力大 → 面板要 X 形梁抗拉。
   音量小是"用更小的张力换更细的动态"的代价，不是等级差别。
-- **"六根弦，所以能弹的比小提琴多。"** → 弦多不等于音域宽。吉他实音音域 E2–E6（约四个八度），
-  小提琴 G3–E7 —— **小提琴的上限更高**。吉他多的是**同时发音的能力**（六根弦可以一起响）。
-- **"品丝让音准完全没问题。"** → 品丝只把音高**量化到十二平均律的固定格子**上。
+- "六根弦，所以能弹的比小提琴多。" → 弦多不等于音域宽。吉他实音音域 E2–E6（约四个八度），
+  小提琴 G3–E7 —— 小提琴的上限更高。吉他多的是同时发音的能力（六根弦可以一起响）。
+- "品丝让音准完全没问题。" → 品丝只把音高量化到十二平均律的固定格子上。
   想弹出别的律制（或做出滑音）就做不到了 —— 这正是无品乐器（比如
   [[instrument:violin|小提琴]]）存在的理由。
-- **"吉他谱上的音就是实际听到的音。"** → 反了。吉他是**移调乐器**，
+- "吉他谱上的音就是实际听到的音。" → 反了。吉他是移调乐器，
   记谱比实音高一个八度。看音域图上的两行就清楚。
-- **"弦越多越好。"** → 从六弦到七弦、八弦确实扩展了低音，但复弦（如曼陀林）
+- "弦越多越好。" → 从六弦到七弦、八弦确实扩展了低音，但复弦（如曼陀林）
   并不意味着更大音量 —— 那是另一种取舍，见 [[instrument:mandolin|曼陀林]]。
 
 ## 下一步
 
 想继续听：先听 [[instrument:acoustic-guitar|民谣吉他]] —— 同一个形状、换了一套弦和一套音梁，
-两件对照能把"**结构跟着弦走**"这件事听得很明白；
+两件对照能把"结构跟着弦走"这件事听得很明白；
 再往上追到 [[instrument:lute|鲁特琴]]，看吉他的复弦祖先长什么样。
+
 :::
 
 ::: en
@@ -370,15 +371,15 @@ That last line is the key fact of this section. Set the three side by side (meas
 A violin's waist is cut deep (0.32) because it is **bowed** — the bow has to pass through the waist.
 A guitar's waist is shallow (0.47) because it is **plucked by hand**, and the hand only needs room to
 sweep across the strings. The area it saves goes straight into the top plate.
-**Area is volume.**
+Area is volume.
 
 ## How it sounds: fan bracing is built for nylon
 
 The acoustic path is the same as a violin's: string → bridge → top plate → air in the box → out
-through the soundhole. What differs is **the wood on the inside of the top plate**.
+through the soundhole. What differs is the wood on the inside of the top plate.
 
 Nylon strings pull far less than steel — about 40 kg for all six, roughly half of a steel set.
-Less tension means less force pushing the top plate, so a classical guitar uses **fan bracing**:
+Less tension means less force pushing the top plate, so a classical guitar uses fan bracing:
 several thin struts spreading outwards from below the soundhole, distributing the force over a wide
 area so the whole plate vibrates as evenly as possible.
 
@@ -409,10 +410,10 @@ area so the whole plate vibrates as evenly as possible.
 </svg>
 ```
 
-(For comparison, steel-string guitars use **X-bracing** — two main braces crossing. Steel pulls twice
+(For comparison, steel-string guitars use X-bracing — two main braces crossing. Steel pulls twice
 as hard, so the plate needs to resist rather than spread. See [[instrument:acoustic-guitar|acoustic guitar]].)
 
-**The soundhole is an opening, not decoration**: the air inside acts as a **Helmholtz resonator**,
+The soundhole is an opening, not decoration: the air inside acts as a Helmholtz resonator,
 at roughly 100 Hz. The guitar's lowest open string, E2, is 82 Hz — below the resonance.
 So the guitar's lowest notes are inherently thin. No guitar escapes this; it is a physical limit,
 not a matter of price.
@@ -423,24 +424,24 @@ not a matter of price.
 {"range":"E2–E6","written":"E3–E7","common":"E2–C5","caption":"古典吉他的记谱音域与实音音域","caption_en":"Classical guitar: notated range above, sounding range below","note":"吉他是移调乐器 —— 记谱比实音高一个八度。上面一行是记谱，下面一行是实际听到的音高。"}
 ```
 
-The six strings are tuned **E2–A2–D3–G3–B3–E4**: every adjacent pair is a fourth **except G to B**,
+The six strings are tuned E2–A2–D3–G3–B3–E4: every adjacent pair is a fourth except G to B,
 which is a third. That exception is a historical inheritance — it was kept because it lets chord
 shapes move across the neck, and the price is that scale patterns change shape at the G–B boundary.
 
-One useful consequence: **the lowest four strings (E A D G) are all a fourth apart**, the same logic
+One useful consequence: the lowest four strings (E A D G) are all a fourth apart, the same logic
 the violin family uses — so a guitarist picking up a bass can transfer those fingerings directly.
 
 ## Timbre, and how to hear it
 
 How to recognise a classical guitar:
 
-1. **The attack is fingernail, not pick.** There is a small high-frequency click at the pluck, but
+1. The attack is fingernail, not pick. There is a small high-frequency click at the pluck, but
    rounder and softer than a steel string's or a pick's. It is the first identifying feature.
-2. **The decay is faster but cleaner than steel.** Nylon has higher internal damping, so the sound
+2. The decay is faster but cleaner than steel. Nylon has higher internal damping, so the sound
    does not trail the long metallic overtone tail that steel strings do.
-3. **The bass strings do not boom.** E2 and A2 are thin (the soundhole-resonance issue above). A good
+3. The bass strings do not boom. E2 and A2 are thin (the soundhole-resonance issue above). A good
    player compensates with rest strokes, but only partly — it is a design characteristic, not a fault.
-4. **Harmonics are clear.** Because the whole plate vibrates, the natural harmonics at frets 12, 7
+4. Harmonics are clear. Because the whole plate vibrates, the natural harmonics at frets 12, 7
    and 5 ring out very cleanly, sounding almost like another instrument.
 
 The player below gives the six open strings, lowest to highest. **Notice that the bottom two (E2, A2)
@@ -450,27 +451,27 @@ sound thinner than the rest** — that is the box resonance sitting above them.
 {"type":"instrument","gm":"Acoustic Guitar (nylon)","synth":"plucked","phrase":["E2","A2","D3","G3","B3","E4"],"label":"六根空弦：从 E2 到 E4","label_en":"Six open strings — E2 up to E4","hint":"注意最低两根弦比其他四根薄；这是共鸣箱共振频率落在它们上方造成的","hint_en":"Notice how the two lowest strings sound thinner than the rest — the box resonance sits above them."}
 ```
 
-> The tracks under “Listen in the library” are the **skeleton of the music** — transcription or
+> The tracks under “Listen in the library” are the skeleton of the music — transcription or
 > engraving MIDI — while timbre is handled by the player above.
 
 ## Playing techniques
 
-The right hand uses **no pick**: the thumb (p) and the index, middle and ring fingers (i, m, a) divide
-the work. That is the practical meaning of "classical" in the name — **the right hand is a system**.
+The right hand uses no pick: the thumb (p) and the index, middle and ring fingers (i, m, a) divide
+the work. That is the practical meaning of "classical" in the name — the right hand is a system.
 
-- **Rest stroke (apoyando) and free stroke (tirando)**: in a rest stroke the finger comes to rest on
+- Rest stroke (apoyando) and free stroke (tirando): in a rest stroke the finger comes to rest on
   the next string — fuller, better for melody; in a free stroke it lifts away — lighter, better for
   fast figures. These two are the grammar of the right hand.
-- **Tremolo**: the thumb plays the bass while i, m and a repeat the same high note, so it sounds like
+- Tremolo: the thumb plays the bass while i, m and a repeat the same high note, so it sounds like
   one long note. A signature technique.
-- **Hammer-ons and slides** (left hand): sounding a note by hammering a finger onto the fret, or
+- Hammer-ons and slides (left hand): sounding a note by hammering a finger onto the fret, or
   sliding into it, without plucking.
-- **Natural and artificial harmonics**: touch the string lightly at fret 12, 7 or 5; or stop with the
+- Natural and artificial harmonics: touch the string lightly at fret 12, 7 or 5; or stop with the
   left hand and touch a node with the right.
-- **Muting**: the side of the right palm near the bridge gives a damped or staccato sound.
+- Muting: the side of the right palm near the bridge gives a damped or staccato sound.
 
-Because there is no pick, a classical guitar is generally **quieter than a steel-string**, but it has
-**finer dynamic shading** — it can fade to a very soft pianissimo, which a pick makes difficult.
+Because there is no pick, a classical guitar is generally quieter than a steel-string, but it has
+finer dynamic shading — it can fade to a very soft pianissimo, which a pick makes difficult.
 
 ## The family
 
@@ -484,49 +485,49 @@ The guitar line and the pick line are easy to confuse:
 | [[instrument:mandolin\|Mandolin]] | 4 doubled **courses** (steel) | G D A E | pick | at pitch |
 | [[instrument:lute\|Lute]] | 6+ doubled **courses** (gut) | G C F A D G | fingertips/nails | at pitch |
 
-**Two decisive differences**: plucked by finger or by pick; single strings or doubled courses.
+Two decisive differences: plucked by finger or by pick; single strings or doubled courses.
 Doubled courses (mandolin, lute) make each note thicker and longer, at the cost of twice the tuning
 and restringing work.
 
 Chasing the guitar's ancestry leads to the [[instrument:lute|lute]]. The essential change from lute to
-guitar was **replacing doubled courses with single strings**: fewer strings, more volume, easier tuning.
+guitar was replacing doubled courses with single strings: fewer strings, more volume, easier tuning.
 
 ## History
 
-The guitar family's root is the **lute**. In 16th-century Spain a smaller instrument with four doubled
-courses appeared — the **vihuela** — and it replaced the lute's tuning with the guitar logic
+The guitar family's root is the lute. In 16th-century Spain a smaller instrument with four doubled
+courses appeared — the vihuela — and it replaced the lute's tuning with the guitar logic
 (fourths plus one third). That choice survives today: **the guitar's tuning is Spanish, not general
 European practice**.
 
 Three centuries of adding strings followed: four courses → five courses → five single strings
 (16th c.) → six single strings (around the end of the 18th c.).
 
-The decisive fixing happened in **19th-century Spain**. The maker **Torres** enlarged the body to a new
-proportion — today's "classical guitar size" is his — and established **fan bracing**. Since then the
+The decisive fixing happened in 19th-century Spain. The maker Torres enlarged the body to a new
+proportion — today's "classical guitar size" is his — and established fan bracing. Since then the
 instrument has barely changed: a guitar built now has almost the same outside shape and inside
 structure as one built 150 years ago.
 
-The 20th century split it into two traditions: **performing** (Segovia put the classical guitar on the
-solo stage) and **writing** (from Tárrega and Barrios to composers working today). It is one of the
+The 20th century split it into two traditions: performing (Segovia put the classical guitar on the
+solo stage) and writing (from Tárrega and Barrios to composers working today). It is one of the
 few plucked instruments with both a complete teaching method and a living contemporary repertoire.
 
 ## Common misconceptions
 
-- **"A classical guitar can only play classical music."** "Classical" names the **hold and the
+- "A classical guitar can only play classical music." "Classical" names the **hold and the
   right-hand technique**, not a repertoire. Contemporary works, jazz arrangements and folk music all
   get played — with the same hand.
-- **"Nylon is inferior to steel; less volume means worse."** The two string types match two structures:
+- "Nylon is inferior to steel; less volume means worse." The two string types match two structures:
   low tension needs fan bracing to spread the force; high tension needs X-bracing to resist it. Lower
   volume is the price of trading tension for finer dynamics, not a rank.
-- **"Six strings means it covers more than a violin."** More strings is not more range. A guitar sounds
-  E2–E6 (about four octaves); a violin is G3–E7 — **the violin goes higher**. What the guitar adds is
-  **the ability to sound several notes at once**.
-- **"Frets make intonation a solved problem."** Frets **quantise** pitch onto the twelve-tone grid. You
+- "Six strings means it covers more than a violin." More strings is not more range. A guitar sounds
+  E2–E6 (about four octaves); a violin is G3–E7 — the violin goes higher. What the guitar adds is
+  the ability to sound several notes at once.
+- "Frets make intonation a solved problem." Frets quantise pitch onto the twelve-tone grid. You
   cannot play another temperament, or slide — exactly why unfretted instruments such as the
   [[instrument:violin|violin]] exist.
-- **"What you read is what sounds."** Backwards. The guitar is a **transposing** instrument, notated an
+- "What you read is what sounds." Backwards. The guitar is a transposing instrument, notated an
   octave above sounding pitch. The two rows on the range chart show it.
-- **"More strings is simply better."** Seven- and eight-string guitars do extend the bass, but doubled
+- "More strings is simply better." Seven- and eight-string guitars do extend the bass, but doubled
   courses (as on a mandolin) do not mean more volume — that is a different trade-off, see
   [[instrument:mandolin|mandolin]].
 
@@ -534,6 +535,6 @@ few plucked instruments with both a complete teaching method and a living contem
 
 To keep listening: go to the [[instrument:acoustic-guitar|acoustic guitar]] — same shape, a different
 set of strings and a different bracing pattern. Hearing the two side by side makes
-**"structure follows the strings"** audible. Then trace the ancestry to the [[instrument:lute|lute]]
+"structure follows the strings" audible. Then trace the ancestry to the [[instrument:lute|lute]]
 and see what the guitar's doubled-course ancestor looked like.
 :::

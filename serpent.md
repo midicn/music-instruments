@@ -48,9 +48,9 @@ updated: 2026-09-26
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，蛇形号不在其中 |
 
 > ⚠️ **一个概念上的要点**：**"铜管"是一类驱动方式，不是一个材料类别。**
-> 蛇形号是**木头的、蒙皮的**，但它靠嘴唇振动发声 → 属**铜管**；
-> 而[[instrument:recorder|竖笛]]是木头的、靠气流切边 → 属**木管**。
-> 反过来，金属的长笛属木管。**材料、外形、名称都不判类 —— 只有"什么在振动"判类。**
+> 蛇形号是木头的、蒙皮的，但它靠嘴唇振动发声 → 属铜管；
+> 而[[instrument:recorder|竖笛]]是木头的、靠气流切边 → 属木管。
+> 反过来，金属的长笛属木管。材料、外形、名称都不判类 —— 只有"什么在振动"判类。
 
 ## 结构：蛇形、木胎、蒙皮、指孔
 
@@ -85,11 +85,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **驱动是铜管式的**（嘴唇振动 + 杯形号嘴），**取音是木管式的**（六个指孔）。
+1. 驱动是铜管式的（嘴唇振动 + 杯形号嘴），取音是木管式的（六个指孔）。
    这个组合让它既不像木管那样容易吹准，也不像后来的活塞铜管那样稳定。
-2. **木胎 + 蒙皮**。木管身外面裹一层皮革以防开裂 —— 这是它音色"朦胧、粗糙"的一部分原因。
+2. 木胎 + 蒙皮。木管身外面裹一层皮革以防开裂 —— 这是它音色"朦胧、粗糙"的一部分原因。
    皮革也给它的音色加了一层柔和的阻尼。
-3. **音准是它最大的问题**。指孔的位置固定，但演奏者的手型与气息变化会显著影响音高 ——
+3. 音准是它最大的问题。指孔的位置固定，但演奏者的手型与气息变化会显著影响音高 ——
    这正是它后来被键系与活塞取代的原因。
 
 ## 它为"低音铜管"提供过什么
@@ -121,11 +121,11 @@ updated: 2026-09-26
 </svg>
 ```
 
-**它在音乐史里留下了两个痕迹**：
+它在音乐史里留下了两个痕迹：
 
-- **教堂低音的传统**。它在法国教堂音乐里长期承担低音声部 ——
+- 教堂低音的传统。它在法国教堂音乐里长期承担低音声部 ——
   在没有大号的时代，这是"给合唱的低音加厚度"的常用做法。
-- **一种独特的音色记忆**。柏辽兹等作曲家记得它的音色，
+- 一种独特的音色记忆。柏辽兹等作曲家记得它的音色，
   并把它写进了新的作品（见[[instrument:ophicleide|奥菲克莱德号]]一条）。
 
 ## 音域
@@ -134,32 +134,32 @@ updated: 2026-09-26
 {"range":"C3–C5","common":"C3–G4","caption":"蛇形号的音域","caption_en":"Serpent range","note":"蛇形号是木制、蒙皮、蛇形弯曲的低音管乐器，靠唇鸣驱动、指孔取音。音域约 C3–C5。记谱即实音。"}
 ```
 
-- **约 C3–C5**，两个八度 —— 正好落在当时合唱低音声部的音区。
-- **常用区 C3–G4**：这一段是它最"朦胧厚实"的地方。
-- **它的音准问题在低音区最严重** —— 指孔与泛音列的组合在低音区容错很小。
+- 约 C3–C5，两个八度 —— 正好落在当时合唱低音声部的音区。
+- 常用区 C3–G4：这一段是它最"朦胧厚实"的地方。
+- 它的音准问题在低音区最严重 —— 指孔与泛音列的组合在低音区容错很小。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **朦胧、粗糙、带"咆哮"**。皮革与木胎给它的音色加了一层柔和的模糊 ——
+1. 朦胧、粗糙、带"咆哮"。皮革与木胎给它的音色加了一层柔和的模糊 ——
    这是它常被形容为"低沉而笨拙"的原因。
-2. **音量不大但向前**。它的投射力不如现代低音铜管，但在小编制与教堂空间里够用。
-3. **低音区困难**。低音区音准难、发音难 —— 这也是它被取代的直接原因之一。
-4. **高音区意外地"开"**。上到 C5 附近时音色反而清晰一些，历史上也有演奏者用它吹较高声部。
+2. 音量不大但向前。它的投射力不如现代低音铜管，但在小编制与教堂空间里够用。
+3. 低音区困难。低音区音准难、发音难 —— 这也是它被取代的直接原因之一。
+4. 高音区意外地"开"。上到 C5 附近时音色反而清晰一些，历史上也有演奏者用它吹较高声部。
 
 ```audiolab
 {"type":"instrument","gm":"Tuba","synth":"brass","phrase":["C3","G3","C4","E4","G4"],"label":"蛇形号的常用区：C3 到 G4","label_en":"The serpent's working register — C3 up to G4","hint":"注意音色的朦胧与粗糙 —— 通用音色表里没有蛇形号，这里借大号音色近似","hint_en":"Hear the veiled, coarse tone. General MIDI has no serpent, so a tuba sample stands in."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）里**没有蛇形号**。
-> 上面播放的是**大号**音色 —— 音区对了，但**皮革与木胎带来的模糊完全听不到。**
+> ⚠️ 关于试听：通用音色表（General MIDI）里没有蛇形号。
+> 上面播放的是大号音色 —— 音区对了，但皮革与木胎带来的模糊完全听不到。
 
 ## 演奏技法
 
-- **指孔按孔位置固定，全靠气息与唇部微调音准** —— 这是它最难的地方。
-- **持握姿势特殊**。蛇形弯曲的管身要双手分别扶住，指孔的排列与现代木管完全不同。
-- **唇部控制要求高**。它没有键系可以"补偿"，所以音准责任全在演奏者身上。
+- 指孔按孔位置固定，全靠气息与唇部微调音准 —— 这是它最难的地方。
+- 持握姿势特殊。蛇形弯曲的管身要双手分别扶住，指孔的排列与现代木管完全不同。
+- 唇部控制要求高。它没有键系可以"补偿"，所以音准责任全在演奏者身上。
 
 ## 家族与近亲
 
@@ -171,8 +171,8 @@ updated: 2026-09-26
 | [[instrument:natural-trumpet\|自然小号]] | 唇鸣 | 仅泛音列 | 铜 | 巴洛克 |
 | [[instrument:recorder\|竖笛]] | **气流切边** | 指孔 | 木 | 中世纪起 |
 
-**对照最后一行**：蛇形号与[[instrument:recorder|竖笛]]都靠指孔取音，
-但**驱动方式完全不同** —— 一个嘴唇、一个气流。**"指孔"是取音方式，不是分类依据。**
+对照最后一行：蛇形号与[[instrument:recorder|竖笛]]都靠指孔取音，
+但驱动方式完全不同 —— 一个嘴唇、一个气流。"指孔"是取音方式，不是分类依据。
 
 ## 历史演变
 
@@ -187,21 +187,22 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"蛇形号是木管。"** 它是**木制的铜管** —— 判据是"什么在振动"（嘴唇），不是材料。
-- **"它是大号的前身，所以差不多。"** 取音方式完全不同（指孔 vs 活塞）——
+- "蛇形号是木管。" 它是木制的铜管 —— 判据是"什么在振动"（嘴唇），不是材料。
+- "它是大号的前身，所以差不多。" 取音方式完全不同（指孔 vs 活塞）——
   它的音准、音量、灵活性都远不如大号。
-- **"它只是猎奇乐器。"** 它在法国教堂音乐里服务了近三百年，
+- "它只是猎奇乐器。" 它在法国教堂音乐里服务了近三百年，
   是一段很实在的音乐实践。
-- **"它有指孔所以容易吹准。"** 恰恰相反：指孔位置固定，音准则要靠气息与唇部硬找 ——
+- "它有指孔所以容易吹准。" 恰恰相反：指孔位置固定，音准则要靠气息与唇部硬找 ——
   这是它最大的弱点。
-- **"它已经消失。"** 古乐运动保留了它，当代也有作曲家为它写新作。
+- "它已经消失。" 古乐运动保留了它，当代也有作曲家为它写新作。
 
 ## 下一步
 
 它的直接继任者是 [[instrument:ophicleide|奥菲克莱德号]]（铜制、加键）——
 那一条会讲清"为什么键系也没能救低音铜管"。
 
-想直接看结论，就去 [[instrument:tuba|大号]]：**活塞最终胜出的原因很朴素 —— 更容易演奏。**
+想直接看结论，就去 [[instrument:tuba|大号]]：活塞最终胜出的原因很朴素 —— 更容易演奏。
+
 :::
 
 ::: en
@@ -221,8 +222,8 @@ attempt, the [[instrument:ophicleide|ophicleide]] its improved version, and the 
 
 > ⚠️ **One conceptual point**: **"brass" names a drive, not a material.** The serpent is **wooden and
 > leather-covered**, but it sounds by vibrating lips → it is **brass**; a [[instrument:recorder|recorder]] is
-> wooden and driven by a cut jet → a **woodwind**. Conversely the metal flute is a woodwind.
-> **Material, shape and name decide nothing — only what vibrates does.**
+> wooden and driven by a cut jet → a woodwind. Conversely the metal flute is a woodwind.
+> Material, shape and name decide nothing — only what vibrates does.
 
 ## Structure: snake shape, wood, leather, finger holes
 
@@ -257,11 +258,11 @@ attempt, the [[instrument:ophicleide|ophicleide]] its improved version, and the 
 
 Three points:
 
-1. **Brass drive** (lip vibration, cup mouthpiece) with **woodwind note-selection** (six holes). The
+1. Brass drive (lip vibration, cup mouthpiece) with woodwind note-selection (six holes). The
    combination made it neither as easy to tune as a woodwind nor as stable as later valved brass.
-2. **Wood sheathed in leather.** The leather kept the wooden body from splitting — and its damping is part of
+2. Wood sheathed in leather. The leather kept the wooden body from splitting — and its damping is part of
    why the tone is veiled and coarse.
-3. **Intonation was its great weakness.** The holes are fixed, yet hand position and air change the pitch
+3. Intonation was its great weakness. The holes are fixed, yet hand position and air change the pitch
    markedly — the direct reason keys and valves later displaced it.
 
 ## What it contributed to "low brass"
@@ -293,11 +294,11 @@ Three points:
 </svg>
 ```
 
-**It left two traces**:
+It left two traces:
 
-- **A church-bass tradition.** It long carried the bass in French church music — before the tuba, a standard
+- A church-bass tradition. It long carried the bass in French church music — before the tuba, a standard
   way to thicken a choir's bottom.
-- **A remembered timbre.** Composers such as Berlioz remembered its colour and wrote it into new works (see
+- A remembered timbre. Composers such as Berlioz remembered its colour and wrote it into new works (see
   the [[instrument:ophicleide|ophicleide]] entry).
 
 ## Range
@@ -306,35 +307,35 @@ Three points:
 {"range":"C3–C5","common":"C3–G4","caption":"蛇形号的音域","caption_en":"Serpent range","note":"蛇形号是木制、蒙皮、蛇形弯曲的低音管乐器，靠唇鸣驱动、指孔取音。音域约 C3–C5。记谱即实音。"}
 ```
 
-- **About C3–C5**, two octaves — exactly the register of a choral bass part.
-- **The working register is C3–G4**, where it is at its veiled, thickest best.
-- **Its intonation problem is worst low down**, where holes and partials leave little tolerance.
+- About C3–C5, two octaves — exactly the register of a choral bass part.
+- The working register is C3–G4, where it is at its veiled, thickest best.
+- Its intonation problem is worst low down, where holes and partials leave little tolerance.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Veiled, coarse, growling.** Leather over wood adds a soft blur — why it is often called "deep and
+1. Veiled, coarse, growling. Leather over wood adds a soft blur — why it is often called "deep and
    clumsy".
-2. **Moderate volume but forward**: less projecting than modern low brass, adequate in small ensembles and
+2. Moderate volume but forward: less projecting than modern low brass, adequate in small ensembles and
    church acoustics.
-3. **The low register is difficult** — hard to tune and hard to sound, a direct reason for its replacement.
-4. **The top is surprisingly open**: around C5 the tone clears, and players historically used it for higher
+3. The low register is difficult — hard to tune and hard to sound, a direct reason for its replacement.
+4. The top is surprisingly open: around C5 the tone clears, and players historically used it for higher
    parts too.
 
 ```audiolab
 {"type":"instrument","gm":"Tuba","synth":"brass","phrase":["C3","G3","C4","E4","G4"],"label":"蛇形号的常用区：C3 到 G4","label_en":"The serpent's working register — C3 up to G4","hint":"注意音色的朦胧与粗糙 —— 通用音色表里没有蛇形号，这里借大号音色近似","hint_en":"Hear the veiled, coarse tone. General MIDI has no serpent, so a tuba sample stands in."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI set has **no serpent**. A **tuba** sample plays above — the register
-> is right, but **the leather-and-wood blur is entirely absent.**
+> ⚠️ On the audio: the General MIDI set has no serpent. A tuba sample plays above — the register
+> is right, but the leather-and-wood blur is entirely absent.
 
 ## Playing techniques
 
-- **The holes are fixed; pitch is corrected by air and lips alone** — its hardest aspect.
-- **An unusual hold**: the S-curve must be steadied by both hands, and the hole layout is unlike any modern
+- The holes are fixed; pitch is corrected by air and lips alone — its hardest aspect.
+- An unusual hold: the S-curve must be steadied by both hands, and the hole layout is unlike any modern
   woodwind's.
-- **High lip control demanded**, since there is no keywork to compensate.
+- High lip control demanded, since there is no keywork to compensate.
 
 ## The family
 
@@ -346,8 +347,8 @@ Four cues:
 | [[instrument:natural-trumpet\|Natural trumpet]] | lip | series only | brass | Baroque |
 | [[instrument:recorder\|Recorder]] | **cut jet** | finger holes | wood | from the Middle Ages |
 
-**Compare the last row**: the serpent and the [[instrument:recorder|recorder]] both select notes with holes,
-but their **drives differ completely** — lips versus air. **Holes are a way of selecting notes, not a
+Compare the last row: the serpent and the [[instrument:recorder|recorder]] both select notes with holes,
+but their drives differ completely — lips versus air. **Holes are a way of selecting notes, not a
 classification.**
 
 ## History
@@ -363,19 +364,19 @@ classification.**
 
 ## Common misconceptions
 
-- **"The serpent is a woodwind."** It is a **wooden brass** — the test is what vibrates (lips), not material.
-- **"It is the tuba's ancestor, so they are similar."** Note selection is entirely different (holes versus
+- "The serpent is a woodwind." It is a wooden brass — the test is what vibrates (lips), not material.
+- "It is the tuba's ancestor, so they are similar." Note selection is entirely different (holes versus
   valves) — its intonation, volume and agility are far below a tuba's.
-- **"It is a curiosity."** It served French church music for nearly three centuries: an entirely practical
+- "It is a curiosity." It served French church music for nearly three centuries: an entirely practical
   musical life.
-- **"Holes make it easy to play in tune."** The opposite: fixed holes leave intonation to air and lips — its
+- "Holes make it easy to play in tune." The opposite: fixed holes leave intonation to air and lips — its
   greatest weakness.
-- **"It has disappeared."** The early-music movement keeps it alive, and contemporary composers write for it.
+- "It has disappeared." The early-music movement keeps it alive, and contemporary composers write for it.
 
 ## Next
 
 Its direct successor is the [[instrument:ophicleide|ophicleide]] (brass, with keys) — that entry explains
-**why keys also failed to save low brass**.
+why keys also failed to save low brass.
 
 For the conclusion, go to the [[instrument:tuba|tuba]]: **valves won for a plain reason — they are easier to
 play.**

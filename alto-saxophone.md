@@ -49,11 +49,11 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 木管（萨克斯族） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，萨克斯不在其中 |
 
-> ⚠️ **一个概念上的要点**：萨克斯是**铜做的**，但它**不是铜管乐器**。
-> 判据只有一条：**什么在振动发声**。
-> 铜管靠**嘴唇**振动（唇鸣），萨克斯靠**簧片**振动（簧鸣）—— 所以它在 HS 分类里属**气鸣 · 簧鸣**，
+> ⚠️ 一个概念上的要点：萨克斯是铜做的，但它不是铜管乐器。
+> 判据只有一条：什么在振动发声。
+> 铜管靠嘴唇振动（唇鸣），萨克斯靠簧片振动（簧鸣）—— 所以它在 HS 分类里属气鸣 · 簧鸣，
 > 与[[instrument:clarinet|单簧管]]同源，与"靠嘴唇吹响"的铜管那一族毫无关系。
-> **材料决定音色倾向，不决定分类。**
+> 材料决定音色倾向，不决定分类。
 
 ## 结构：圆锥管，折返一次
 
@@ -97,12 +97,12 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **圆锥管是金属做的**。越往下越粗，需要金属的可加工性 ——
+1. 圆锥管是金属做的。越往下越粗，需要金属的可加工性 ——
    这也是为什么木质乐器里很少有制成萨克斯这种比例的成功例子。
-2. **折返一次 + 喇叭口朝上**。与[[instrument:bass-clarinet|低音单簧管]]同样的布局，
+2. 折返一次 + 喇叭口朝上。与[[instrument:bass-clarinet|低音单簧管]]同样的布局，
    但管径渐粗。
-3. **圆锥管 → 超吹得八度**，与[[instrument:oboe|双簧管]]一样，而不是像[[instrument:clarinet|单簧管]]那样得十二度。
-   结果：**萨克斯的音区过渡是平滑的**，不会出现单簧管那种"三截"。
+3. 圆锥管 → 超吹得八度，与[[instrument:oboe|双簧管]]一样，而不是像[[instrument:clarinet|单簧管]]那样得十二度。
+   结果：萨克斯的音区过渡是平滑的，不会出现单簧管那种"三截"。
 
 ## 萨克斯族：一套指法，四支音高
 
@@ -133,13 +133,13 @@ updated: 2026-09-26
 </svg>
 ```
 
-**上面这张图是理解整个萨克斯族的钥匙**：
+上面这张图是理解整个萨克斯族的钥匙：
 
-- **四支的记谱音域完全相同**（都写 B♭3–F♯6）；
-- 但**实音各不相同**：高音比中音高、次中音比中音低、上低音再低一档；
-- 于是 **一套指法、一套视谱习惯，走遍全族** —— 演奏者换支只需适应体量与气息，不必重学乐器。
+- 四支的记谱音域完全相同（都写 B♭3–F♯6）；
+- 但实音各不相同：高音比中音高、次中音比中音低、上低音再低一档；
+- 于是 一套指法、一套视谱习惯，走遍全族 —— 演奏者换支只需适应体量与气息，不必重学乐器。
 
-这与[[instrument:clarinet|单簧管族]]正好相反：那边三支的**记谱**各不相同（大二度 / 小三度 / 大九度）。
+这与[[instrument:clarinet|单簧管族]]正好相反：那边三支的记谱各不相同（大二度 / 小三度 / 大九度）。
 
 ## 音域
 
@@ -147,20 +147,20 @@ updated: 2026-09-26
 {"range":"D♭3–A♭5","written":"B♭3–F♯6","common":"D♭3–F5","caption":"中音萨克斯的记谱音域与实音音域","caption_en":"The alto saxophone: notated range above, sounding range below","note":"⚠️ 中音萨克斯是降 E 调移调乐器 —— 记谱比实音高大六度。谱面写 B♭3–F♯6，实际出声 D♭3–A♭5。高音区可再上探，但需特殊指法。"}
 ```
 
-- **实音 D♭3–A♭5**，约两个半八度 —— 不宽，但覆盖了最适合歌唱的音区。
-- **常用区 D♭3–F5**：这是它最"像人声"的一段，也是爵士里最常被使用的音区。
-- **低音区（D♭3 附近）** 厚而有力，是它在管乐团里垫中低音的地方。
+- 实音 D♭3–A♭5，约两个半八度 —— 不宽，但覆盖了最适合歌唱的音区。
+- 常用区 D♭3–F5：这是它最"像人声"的一段，也是爵士里最常被使用的音区。
+- 低音区（D♭3 附近） 厚而有力，是它在管乐团里垫中低音的地方。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **介于"木管"与"人声"之间**。它比[[instrument:clarinet|单簧管]]更"开"、更亮，
+1. 介于"木管"与"人声"之间。它比[[instrument:clarinet|单簧管]]更"开"、更亮，
    又比[[instrument:oboe|双簧管]]更松弛 —— 这种质感是它成为爵士主音的原因。
-2. **音区过渡平滑**。圆锥管加上单簧驱动，让它在两个八度里没有明显的音色断层。
-3. **极容易做"滑音"与"弯音"**。靠口型与气息，它可以做出接近人声的滑入与颤抖 ——
+2. 音区过渡平滑。圆锥管加上单簧驱动，让它在两个八度里没有明显的音色断层。
+3. 极容易做"滑音"与"弯音"。靠口型与气息，它可以做出接近人声的滑入与颤抖 ——
    爵士里那种"唱"的感觉就来自这里。
-4. **音量动态极大**。从耳语到压倒整个管乐团，它是木管里动态范围最宽的一类。
+4. 音量动态极大。从耳语到压倒整个管乐团，它是木管里动态范围最宽的一类。
 
 ```audiolab
 {"type":"instrument","gm":"Alto Sax","synth":"reed","phrase":["D♭3","F3","A♭3","C4","F4","A♭4"],"label":"中音萨克斯的常用区：D♭3 到 A♭4","label_en":"The alto saxophone's working register — D♭3 up to A♭4","hint":"注意它比单簧管更「开」、更松弛 —— 同样的单簧片，换到圆锥管上就不一样了","hint_en":"Hear how much more open and relaxed it is than a clarinet — the same single reed, but on a conical bore."}
@@ -168,13 +168,13 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **滑音（glissando）与弯音（bend）**：萨克斯的招牌。靠口型松紧与气息控制，
+- 滑音（glissando）与弯音（bend）：萨克斯的招牌。靠口型松紧与气息控制，
   可以做出跨度极大的连续滑音。
-- **超吹（altissimo）**：高音区靠特殊指法与口型推到谱面之上 —— 现代爵士与当代作品大量使用。
-- **花舌、气声（subtone）**：低音区刻意放松口型得到气声，是爵士抒情句的常用手段。
-- **双击与循环呼吸**：与现代木管技法共通。
+- 超吹（altissimo）：高音区靠特殊指法与口型推到谱面之上 —— 现代爵士与当代作品大量使用。
+- 花舌、气声（subtone）：低音区刻意放松口型得到气声，是爵士抒情句的常用手段。
+- 双击与循环呼吸：与现代木管技法共通。
 
-**萨克斯的一个结构性优势**：它的哨片是**工业成品**（与单簧管一样绑在硬质吹嘴上），
+萨克斯的一个结构性优势：它的哨片是工业成品（与单簧管一样绑在硬质吹嘴上），
 所以入门门槛远低于[[instrument:oboe|双簧管]]族 —— 这是它在 20 世纪迅速普及的现实原因之一。
 
 ## 家族与近亲
@@ -187,7 +187,7 @@ updated: 2026-09-26
 | [[instrument:baritone-saxophone\|上低音]] | E♭ | 记谱比实音**高大十三度** | D♭2–A♭4 | 低音支撑 |
 | [[instrument:clarinet\|单簧管]] | B♭ | 记谱比实音**高大二度** | D3–B♭6 | **圆柱管**，音区分裂 |
 
-**注意最上面四行**：调性按 **B♭ → E♭ → B♭ → E♭** 交替，而**记谱音域全都一样**。
+注意最上面四行：调性按 B♭ → E♭ → B♭ → E♭ 交替，而记谱音域全都一样。
 这两条一起，就是萨克斯族"一套指法走全族"的完整说明。
 
 ## 历史演变
@@ -200,34 +200,35 @@ updated: 2026-09-26
 | 20 世纪中期 | 在爵士里分化出多个流派（摇摆、比波普、冷爵士、自由爵士）；同时成为管乐团的标准成员 |
 | 20 世纪后期至今 | 进入摇滚、放克、流行与当代古典；当代作品大量使用扩展技法 |
 
-**它为什么能同时统治管乐团与爵士？** 两个原因：
-**音量大**（金属圆锥管 + 单簧驱动，投射力强）、
-**可塑性强**（滑音、弯音、气声、超吹都容易做）。
+它为什么能同时统治管乐团与爵士？ 两个原因：
+音量大（金属圆锥管 + 单簧驱动，投射力强）、
+可塑性强（滑音、弯音、气声、超吹都容易做）。
 前者让它能撑起管乐团的中音声部，后者让它能像人声一样"唱"。
 
 ## 常见误解
 
-- **"萨克斯是铜管乐器。"** 它是**气鸣 · 簧鸣**：靠**簧片**振动，不是靠嘴唇。
+- "萨克斯是铜管乐器。" 它是气鸣 · 簧鸣：靠簧片振动，不是靠嘴唇。
   判据是"什么在振动发声"，不是"用什么材料做的"。
-- **"金属做的一定是铜管。"** 材料只影响音色倾向。
+- "金属做的一定是铜管。" 材料只影响音色倾向。
   同理，木质的长笛、树脂的单簧管，分类也都不因材料而变。
-- **"萨克斯一族要分别学。"** **指法全族通用** —— 因为四支的记谱音域完全相同，
+- "萨克斯一族要分别学。" 指法全族通用 —— 因为四支的记谱音域完全相同，
   换支只是音高与体量变了。
-- **"它和单簧管差不多，都是单簧片。"** 管形不同：萨克斯是**圆锥管**（超吹得八度、音区平滑），
-  单簧管是**圆柱管**（超吹得十二度、音区分裂）。驱动一样，管形不一样。
-- **"它只是爵士乐器。"** 它 1846 年就为**军乐队与管弦乐**而设计，古典曲目（比才、拉威尔、
+- "它和单簧管差不多，都是单簧片。" 管形不同：萨克斯是圆锥管（超吹得八度、音区平滑），
+  单簧管是圆柱管（超吹得十二度、音区分裂）。驱动一样，管形不一样。
+- "它只是爵士乐器。" 它 1846 年就为军乐队与管弦乐而设计，古典曲目（比才、拉威尔、
   普罗科菲耶夫等）里都能见到。
 
 ## 下一步
 
 萨克斯族里最值得先看的另外两支：
 
-1. **[[instrument:soprano-saxophone|高音萨克斯]]**：直管形，最容易与单簧管混淆 ——
+1. [[instrument:soprano-saxophone|高音萨克斯]]：直管形，最容易与单簧管混淆 ——
    同时也是把"驱动 × 管形"这张分类表讲得最清楚的一条。
-2. **[[instrument:tenor-saxophone|次中音萨克斯]]**：爵士独奏的招牌，音色最接近人声。
+2. [[instrument:tenor-saxophone|次中音萨克斯]]：爵士独奏的招牌，音色最接近人声。
 
 而它的两个"对照物"分别是 [[instrument:clarinet|单簧管]]（同驱动、异管形）与
 [[instrument:oboe|双簧管]]（异驱动、同管形）—— 三条并排看，木管分类的两个维度就闭合了。
+
 :::
 
 ::: en
@@ -245,11 +246,11 @@ Two things about it are commonly misread: **it is made of metal yet belongs to t
 | **Family** | Western · Woodwinds (saxophone family) |
 | **Bayin** | Not applicable — a Chinese system; the saxophone is outside it |
 
-> ⚠️ **One conceptual point**: the saxophone is **made of brass**, but it is **not a brass instrument**.
-> There is only one test: **what vibrates to make the sound.** Brass instruments use the **lips**; the
-> saxophone uses a **reed** — so in Hornbostel–Sachs it is an **aerophone · reed instrument**, kin to the
+> ⚠️ **One conceptual point**: the saxophone is **made of brass**, but it is not a brass instrument.
+> There is only one test: what vibrates to make the sound. Brass instruments use the lips; the
+> saxophone uses a reed — so in Hornbostel–Sachs it is an aerophone · reed instrument, kin to the
 > [[instrument:clarinet|clarinet]], and unrelated to the trumpet family.
-> **Material shapes the colour; it does not decide the category.**
+> Material shapes the colour; it does not decide the category.
 
 ## Structure: a conical tube, folded once
 
@@ -293,12 +294,12 @@ Two things about it are commonly misread: **it is made of metal yet belongs to t
 
 Three points:
 
-1. **A conical tube made of metal.** It widens downwards, which calls for metal's workability — one reason
+1. A conical tube made of metal. It widens downwards, which calls for metal's workability — one reason
    few wooden instruments of these proportions succeeded.
-2. **Folded once, with the bell up.** The same layout as the [[instrument:bass-clarinet|bass clarinet]], but
+2. Folded once, with the bell up. The same layout as the [[instrument:bass-clarinet|bass clarinet]], but
    with a widening bore.
-3. **A cone overblows an octave**, as on the [[instrument:oboe|oboe]] and unlike the
-   [[instrument:clarinet|clarinet]]'s twelfth. The result: **the saxophone's registers blend smoothly**, with
+3. A cone overblows an octave, as on the [[instrument:oboe|oboe]] and unlike the
+   [[instrument:clarinet|clarinet]]'s twelfth. The result: the saxophone's registers blend smoothly, with
    none of the clarinet's three-way split.
 
 ## The family: one fingering chart, four pitches
@@ -330,15 +331,15 @@ Three points:
 </svg>
 ```
 
-**This diagram is the key to the whole family**:
+This diagram is the key to the whole family:
 
-- **All four share the same written range** (B♭3–F♯6);
-- but **each sounds at a different pitch** — soprano above alto, tenor below it, baritone lower still;
-- so **one fingering chart and one reading habit serve the whole family** — a player switching instruments
+- All four share the same written range (B♭3–F♯6);
+- but each sounds at a different pitch — soprano above alto, tenor below it, baritone lower still;
+- so one fingering chart and one reading habit serve the whole family — a player switching instruments
   adapts only to size and air, not to a new instrument.
 
 This is the exact opposite of the [[instrument:clarinet|clarinet family]], where the three members are each
-**written differently** (a major second, a minor third, a major ninth).
+written differently (a major second, a minor third, a major ninth).
 
 ## Range
 
@@ -346,22 +347,22 @@ This is the exact opposite of the [[instrument:clarinet|clarinet family]], where
 {"range":"D♭3–A♭5","written":"B♭3–F♯6","common":"D♭3–F5","caption":"中音萨克斯的记谱音域与实音音域","caption_en":"The alto saxophone: notated range above, sounding range below","note":"⚠️ 中音萨克斯是降 E 调移调乐器 —— 记谱比实音高大六度。谱面写 B♭3–F♯6，实际出声 D♭3–A♭5。高音区可再上探，但需特殊指法。"}
 ```
 
-- **Sounding D♭3–A♭5**, about two and a half octaves — not wide, but covering the most singable register.
-- **The working register is D♭3–F5**: its most voice-like stretch, and the one jazz uses most.
-- **The low register (around D♭3)** is thick and strong, where it underpins the middle of a wind band.
+- Sounding D♭3–A♭5, about two and a half octaves — not wide, but covering the most singable register.
+- The working register is D♭3–F5: its most voice-like stretch, and the one jazz uses most.
+- The low register (around D♭3) is thick and strong, where it underpins the middle of a wind band.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Somewhere between a woodwind and a voice.** More open and brighter than a
+1. Somewhere between a woodwind and a voice. More open and brighter than a
    [[instrument:clarinet|clarinet]], more relaxed than an [[instrument:oboe|oboe]] — the quality that made it
    jazz's lead voice.
-2. **Smooth register changes**, thanks to a conical bore on a single reed — no obvious break across two
+2. Smooth register changes, thanks to a conical bore on a single reed — no obvious break across two
    octaves.
-3. **Slides and bends come easily.** With embouchure and air it can glide and waver like a singer — the
+3. Slides and bends come easily. With embouchure and air it can glide and waver like a singer — the
    source of jazz's "singing" quality.
-4. **A huge dynamic range**, from a whisper to overpowering a full band.
+4. A huge dynamic range, from a whisper to overpowering a full band.
 
 ```audiolab
 {"type":"instrument","gm":"Alto Sax","synth":"reed","phrase":["D♭3","F3","A♭3","C4","F4","A♭4"],"label":"中音萨克斯的常用区：D♭3 到 A♭4","label_en":"The alto saxophone's working register — D♭3 up to A♭4","hint":"注意它比单簧管更「开」、更松弛 —— 同样的单簧片，换到圆锥管上就不一样了","hint_en":"Hear how much more open and relaxed it is than a clarinet — the same single reed, but on a conical bore."}
@@ -369,15 +370,15 @@ Four cues:
 
 ## Playing techniques
 
-- **Glissando and bend**: the saxophone's signature. Embouchure tension and air can carry a slide across a
+- Glissando and bend: the saxophone's signature. Embouchure tension and air can carry a slide across a
   wide interval.
-- **Altissimo**: special fingerings and embouchure push the top register above the written range — heavily
+- Altissimo: special fingerings and embouchure push the top register above the written range — heavily
   used in modern jazz and contemporary music.
-- **Flutter tongue and subtone**: relaxing the embouchure low down gives a breathy tone, a staple of
+- Flutter tongue and subtone: relaxing the embouchure low down gives a breathy tone, a staple of
   lyrical jazz phrasing.
-- **Double tonguing and circular breathing**: shared with modern woodwind practice generally.
+- Double tonguing and circular breathing: shared with modern woodwind practice generally.
 
-**One structural advantage**: its reeds are **factory products** bound to a rigid mouthpiece (like the
+One structural advantage: its reeds are factory products bound to a rigid mouthpiece (like the
 clarinet's), so the entry barrier is far lower than in the [[instrument:oboe|oboe]] family — a practical
 reason it spread so fast in the 20th century.
 
@@ -391,7 +392,7 @@ reason it spread so fast in the 20th century.
 | [[instrument:baritone-saxophone\|Baritone]] | E♭ | written a **major thirteenth above** sounding | D♭2–A♭4 | the bass of the section |
 | [[instrument:clarinet\|Clarinet]] | B♭ | written a **major second above** sounding | D3–B♭6 | **cylindrical**; registers split |
 
-**Note the top four rows**: the keys alternate **B♭ → E♭ → B♭ → E♭** while the **written range is the same
+Note the top four rows: the keys alternate B♭ → E♭ → B♭ → E♭ while the **written range is the same
 throughout**. Together those two facts explain "one fingering chart for the whole family".
 
 ## History
@@ -404,31 +405,31 @@ throughout**. Together those two facts explain "one fingering chart for the whol
 | Mid-20th c. | splits into several jazz schools (swing, bebop, cool, free); also a standard wind-band member |
 | Late 20th c. onward | moves into rock, funk, pop and contemporary classical; extended techniques are common |
 
-**Why does it dominate both the wind band and jazz?** Two reasons: **loudness** (a metal conical tube on a
-single reed projects strongly) and **flexibility** (slides, bends, subtone and altissimo all come easily).
+Why does it dominate both the wind band and jazz? Two reasons: loudness (a metal conical tube on a
+single reed projects strongly) and flexibility (slides, bends, subtone and altissimo all come easily).
 The first lets it hold the middle of a band; the second lets it sing.
 
 ## Common misconceptions
 
-- **"The saxophone is a brass instrument."** It is an **aerophone · reed instrument**: the **reed** vibrates,
+- "The saxophone is a brass instrument." It is an aerophone · reed instrument: the reed vibrates,
   not the lips. The test is what vibrates, not what it is made of.
-- **"Metal means brass."** Material only colours the sound. A wooden flute or a resin clarinet keeps its
+- "Metal means brass." Material only colours the sound. A wooden flute or a resin clarinet keeps its
   classification too.
-- **"Each saxophone must be learned separately."** **The fingerings are shared** — the written range is
+- "Each saxophone must be learned separately." The fingerings are shared — the written range is
   identical across the family, so switching changes pitch and size, not the instrument's logic.
-- **"It is much like a clarinet, both single-reed."** The bores differ: the saxophone is **conical**
-  (overblows an octave, smooth registers), the clarinet **cylindrical** (overblows a twelfth, split
+- "It is much like a clarinet, both single-reed." The bores differ: the saxophone is conical
+  (overblows an octave, smooth registers), the clarinet cylindrical (overblows a twelfth, split
   registers). Same drive, different tube.
-- **"It is only a jazz instrument."** It was designed in 1846 for **military and orchestral** use; classical
+- "It is only a jazz instrument." It was designed in 1846 for military and orchestral use; classical
   scores by Bizet, Ravel and Prokofiev all use it.
 
 ## Next
 
 Two other members of the family are worth reading next:
 
-1. **[[instrument:soprano-saxophone|Soprano saxophone]]**: a straight instrument, the easiest to confuse with
+1. [[instrument:soprano-saxophone|Soprano saxophone]]: a straight instrument, the easiest to confuse with
    a clarinet — and the entry that sets out the "drive × bore" table most clearly.
-2. **[[instrument:tenor-saxophone|Tenor saxophone]]**: jazz's signature solo voice, the closest to a human
+2. [[instrument:tenor-saxophone|Tenor saxophone]]: jazz's signature solo voice, the closest to a human
    singing tone.
 
 Its two reference points are the [[instrument:clarinet|clarinet]] (same drive, different bore) and the

@@ -33,29 +33,16 @@ updated: 2026-09-26
 ---
 
 ::: zh
-颤音琴是[[instrument:marimba|马林巴]]的"金属版"：结构几乎一样（琴条 + 共鸣管），
-但琴条换成**铝合金**，并且共鸣管里多了一组**旋转阀**。
 
-它身上有一个名不副实的地方，值得单独说清：
-**它的"颤音"颤的是音量，不是音高。**
+## 电机一转，声音开始闪
+
+颤音琴的马达在琴箱下面，一根皮带带着所有共鸣管里的阀片同时旋转。阀片周期性挡住管口，音量一涨一落，听起来像音在闪。转速可以调，慢的时候像呼吸，快的时候像电流。关掉马达，它立刻变回一台普通的金属条琴。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **体鸣**（Idiophone）· **有音高** |
-| **次级类型** | 铝合金条按音高排列 · 共鸣管内装**旋转阀**（电机驱动） · 用软头或硬头槌击奏 |
-| **所属族** | 西洋 · 打击（体鸣·木条族的金属支系） |
-| **八音** | 不适用 —— 周代八音是中国乐器的体系，颤音琴不在其中 |
-
-> ⚠️ **一个概念上的要点**：**"颤音琴"这个名字其实不准确。**
-> - **vibrato（颤音）**：音**高**的快速起伏 —— 弦乐、人声、管乐常用。
-> - **tremolo（颤吟）**：音**量**的快速起伏 —— 颤音琴管内的旋转阀做的是这个。
->
-> 电机带动共鸣管内的阀片同步旋转，周期性遮挡管口 →
-> **音量按固定频率起伏** → 听感是"闪烁"，而不是"音在抖"。
-> 所以它的英文名 vibraphone 也是沿用了错的名字 ——
-> **乐器名称常常是历史遗留，不能当成声学描述来读**（与[[instrument:english-horn|英国管]]那条同类）。
-
-## 结构：金属条 + 共鸣管 + 旋转阀
+| HS 分类 | 体鸣 · 有音高 |
+| 结构 | 铝合金条 + 共鸣管 + 旋转阀（一台电机同步驱动）+ 延音踏板 |
+| 八音：不适用 | 周代八音不收金属条琴 |
 
 ```svg
 <svg viewBox="0 0 640 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="颤音琴的结构：铝合金琴条、下方共鸣管、管内的旋转阀与驱动电机">
@@ -104,15 +91,9 @@ updated: 2026-09-26
 </svg>
 ```
 
-三处要点：
+## 名字说的是另一件事
 
-1. **金属条 + 共鸣管**（与马林巴同构），所以它同时有金属的亮与共鸣管的暖。
-2. **旋转阀由一台电机同步驱动**。整台琴的阀片同步转动 →
-   **所有音的起伏相位一致** → 音色统一而不混乱。
-3. **可以关掉**。关掉电机就是一台普通的金属条琴 —— 所以"颤音"是**可选的效果**，
-   不是乐器不可分割的属性。
-
-## "颤音"到底颤的是什么
+vibrato 是音高在抖，弦乐与歌声用它；tremolo 是音量在抖，颤音琴做的是后者。中文把两个词都译成颤音，英文名 vibraphone 也沿用了错的那个。所有阀片由一台电机带动，起伏同步，所以整台琴闪得整齐。这一点在配器上很实用：给弦乐写颤音是音高，给颤音琴写颤音是开电机。名字错了一百多年，用法却一直很清楚。
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="颤音与颤吟的对比：颤音是音高起伏，颤吟是音量起伏；颤音琴的旋转阀做的是后者">
@@ -143,111 +124,35 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这条区分在配器上很实用**：
-写"要颤音"时，如果是[[instrument:violin|弦乐]]，写的是音高起伏；
-如果是颤音琴，写的是**开电机**（音量起伏）。两者的记谱与听感都不一样。
+## 三个八度，一块踏板
 
-## 音域
+常见音域 F3 到 F6，三个八度，比马林巴窄。常用区在 C4 到 C5，金属光泽最舒服，爵士乐手大多待在这里。多数琴有延音踏板，踩下去余音互相叠加；四根槌可以同时按下四个音，于是它能像钢琴一样弹和弦。音域窄是它的限制，和声能力把它补了回来。
 
 ```range
 {"range":"F3–F6","common":"C4–C5","caption":"颤音琴的音域","caption_en":"Vibraphone range","note":"颤音琴属体鸣的有音高乐器。常见音域 F3–F6（三组）。共鸣管内的旋转阀产生周期性的音量起伏 —— 严格说这是振幅调制（tremolo），不是音高颤动。"}
 ```
 
-- **F3–F6**（三组），比[[instrument:marimba|马林巴]]窄得多，也比[[instrument:xylophone|木琴]]低一些。
-- **常用区 C4–C5**：这一段它的金属光泽最舒服，也是爵士里最常停留的地方。
-- **音域窄是它的局限** —— 但它靠音色与和声能力补回了这一点。
+## 1916 年之后
 
-## 音色与听辨
-
-四条线索：
-
-1. **金属光泽 + 长余音**。它比马林巴更"亮"、更"冷"，余音也更长。
-2. **"闪烁"是它的签名**（开电机时）。这种周期性的音量起伏很难与其他乐器混淆。
-3. **延音踏板可控制余音**。多数颤音琴有踏板，踩下则余音相互叠加 ——
-   这让它能像钢琴一样"踩踏板弹和弦"。
-4. **既能当旋律乐器，也能当和声乐器**。四槌技术 + 踏板使它在爵士里常承担和声层。
+1916 年，美国的 Herman Winterhoff 在金属条琴上加装共鸣管与旋转阀，现代颤音琴定型。1920 年代它进入爵士乐，此后既是独奏乐器，也是和声层；四槌技术普及之后，一个人就能同时给出旋律与伴奏。它是琴条家族里最年轻的一件，也是唯一把效果装进琴体的一件：不是换材料，而是加一个可控变量。听它时先注意余音有多长，再注意那层闪匀不匀。匀，说明电机在转。
 
 ```audiolab
 {"type":"instrument","gm":"Vibraphone","synth":"metal","phrase":["C4","E4","G4","C5","E5","G5"],"label":"颤音琴的常用区：C4 到 G5","label_en":"The vibraphone's working register — C4 up to G5","hint":"注意音色的金属光泽与余音 —— 以及「闪烁」感来自音量的周期性起伏","hint_en":"Hear the metallic sheen and the long tail — and how the shimmer comes from periodic changes in loudness."}
 ```
 
-## 演奏技法
-
-- **四槌技术**（与马林巴共用一套技法体系）。
-- **踏板（damper pedal）**：控制余音长短，踩下则音相互叠加。
-- **电机的开关与转速**：可以根据音乐需要关掉或调节起伏速度。
-- **槌头选择**：软硬不同的槌头配合电机，能做出从"冷冽"到"朦胧"的多种质感。
-
-## 家族与近亲
-
-| 乐器 | 琴条 | 共鸣管 | 附加装置 | 音域 | 音色 |
-|---|---|---|---|---|---|
-| [[instrument:xylophone\|木琴]] | 硬木 | 短 | — | F4–C8 | 干、脆 |
-| [[instrument:marimba\|马林巴]] | 软木 | 长 | — | C2–C7 | 暖、厚 |
-| **颤音琴** | **铝合金** | 长 | **旋转阀 + 踏板** | F3–F6 | 金属、闪烁 |
-| [[instrument:glockenspiel\|钟琴]] | 钢 | — | — | G5–C8 | 极亮、通透 |
-| [[instrument:celesta\|钢片琴]] | 钢片（键盘） | 共鸣箱 | 键盘击奏 | C3–C8 | 玻璃般 |
-
-**"琴条一族"到这里已经有五件** —— 它们的区别可以完全归结为
-**材料、共鸣管长度、附加装置**三项。这是全站"同构不同音色"最完整的一组。
-
-## 历史演变
-
-| 时期 | 状态 |
-|---|---|
-| 1916 年（美国） | 由 Herman Winterhoff 等人在金属条琴基础上加装共鸣管与旋转阀 → 现代颤音琴成型 |
-| 1920—1930 年代 | 进入**爵士乐**；成为爵士颤音琴演奏家的乐器 |
-| 20 世纪中期 | 在爵士里确立了独奏与和声双重角色；四槌技术普及 |
-| 20 世纪后期 | 进入流行、影视配乐与当代古典；电机的使用方式也更灵活 |
-| 20 世纪后期至今 | 爵士、流行、影视、当代音乐的通用乐器 |
-
-**它是"琴条一族里最年轻的一件"**（1916 年才定型）——
-而它加装旋转阀的思路，也说明**打击乐器可以被"现代化"**：
-不是改材料，而是增加可控变量。
-
-## 常见误解
-
-- **"颤音琴的颤音是音高在抖。"** 恰恰相反：旋转阀做的是**音量起伏**（tremolo），
-  音高不变。名字是历史遗留。
-- **"它和木琴是一回事。"** 同族但材料不同（金属 vs 木），且多出旋转阀与踏板 ——
-  音色与用法都不同。
-- **"它只有三组音域，所以用处有限。"** 它靠音色与和声能力立足，
-  在爵士里是很重要的独奏与伴奏乐器。
-- **"旋转阀只是装饰。"** 它改变了颤音琴的**音色身份** ——
-  关掉电机后它就不再是"颤音琴"了。
-- **"它不能当独奏乐器。"** 四槌技术 + 踏板让它能独立演奏旋律与和声，有完整的独奏文献。
-
-## 下一步
-
-金属一族还有三件：[[instrument:glockenspiel|钟琴]]（钢条、极亮）、
-[[instrument:tubular-bells|管钟]]（悬挂金属管、钟声）、
-[[instrument:celesta|钢片琴]]（键盘击奏"钢片"、玻璃般）。
-再往外是 [[instrument:gong|锣]] —— 同样是金属整体振动，但无音高、余音极长。
 :::
 
 ::: en
-The vibraphone is the [[instrument:marimba|marimba]]'s "metal version": nearly the same structure (bars
-over resonators), but the bars are **aluminium** and the resonators hold a set of **rotating vanes**.
 
-It carries a misnomer worth stating plainly: **its "vibrato" modulates loudness, not pitch.**
+## The motor turns, and the sound begins to flicker
 
-| Classification | Value |
+Under the frame a belt drives every vane in every resonator tube at once. The vanes cover the tube mouths in turn, the volume rises and falls, and the note seems to flicker. Switch the motor off and it becomes an ordinary metal-bar instrument.
+
+| Class | Assignment |
 |---|---|
-| **HS class** | **Idiophone** · **pitched** |
-| **Sub-type** | Aluminium bars arranged by pitch · **rotating vanes** inside the resonators (motor-driven) · struck with soft or hard mallets |
-| **Family** | Western · Percussion (idiophone; metal branch of the bar family) |
-| **Bayin** | Not applicable — a Chinese system; the vibraphone is outside it |
-
-> ⚠️ **One conceptual point**: **"vibraphone" is a misnomer.**
-> - **vibrato**: rapid variation of **pitch** — used by strings, voices and winds.
-> - **tremolo**: rapid variation of **loudness** — what the vanes actually do.
->
-> A motor turns the vanes in the resonators so they periodically cover the tube openings →
-> **loudness pulses at a fixed rate** → the effect is a shimmer, not a wobble.
-> The English name inherited the same mistake — **instrument names are often historical leftovers and must
-> not be read as acoustic descriptions** (the same as the [[instrument:english-horn|English horn]]).
-
-## Structure: metal bars, resonators and vanes
+| HS class | Idiophone · pitched |
+| Form | aluminium bars + resonator tubes + rotating vanes (one motor, all in step) + damper pedal |
+| Bayin | outside it — the Zhou system took no metal-bar instruments |
 
 ```svg
 <svg viewBox="0 0 640 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vibraphone structure: aluminium bars, resonators below, rotating vanes inside them and a drive motor">
@@ -296,16 +201,9 @@ It carries a misnomer worth stating plainly: **its "vibrato" modulates loudness,
 </svg>
 ```
 
-Three points:
+## The name describes something else
 
-1. **Metal bars over resonators** (the same structure as a marimba), giving it both metal brightness and
-   resonator warmth.
-2. **One motor drives all the vanes together**, so every note pulses in phase → a unified colour rather than a
-   muddle.
-3. **It can be switched off.** Without the motor it is simply a metal-bar instrument — the shimmer is an
-   **optional effect**, not an inseparable property.
-
-## What the "vibrato" actually modulates
+Vibrato is a wobble in pitch, which strings and voices use; tremolo is a wobble in volume, which is what the vanes do. Chinese translates both with one word, and the English name kept the wrong one. A single motor drives all the vanes, so the flicker is synchronised across the instrument, and that is why it sounds unified. In scoring the distinction is practical: vibrato for strings means pitch, vibrato for the vibraphone means switching the motor on.
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vibrato and tremolo compared: vibrato varies pitch while tremolo varies loudness; the vibraphone's vanes do the latter">
@@ -336,86 +234,19 @@ Three points:
 </svg>
 ```
 
-**This distinction matters in scoring**: asking for "vibrato" means pitch movement on a
-[[instrument:violin|violin]], but on a vibraphone it means **switching the motor on** (loudness movement). The
-notation and the result differ.
+## Three octaves and a pedal
 
-## Range
+The range runs F3 to F6, three octaves, narrower than the marimba. The working register is C4 to C5, where the metal sheen sits most comfortably and where jazz players spend their time. Most instruments have a damper pedal; hold it down and notes stack, and four mallets can press four notes at once, so it plays chords like a piano. The narrow range is a limit; the harmony makes up for it.
 
 ```range
 {"range":"F3–F6","common":"C4–C5","caption":"颤音琴的音域","caption_en":"Vibraphone range","note":"颤音琴属体鸣的有音高乐器。常见音域 F3–F6（三组）。共鸣管内的旋转阀产生周期性的音量起伏 —— 严格说这是振幅调制（tremolo），不是音高颤动。"}
 ```
 
-- **F3–F6** (three octaves), much narrower than a [[instrument:marimba|marimba]], a little lower than a
-  [[instrument:xylophone|xylophone]].
-- **The working register is C4–C5**, where its metallic sheen is most comfortable and where jazz mostly lives.
-- **A narrow range is its limitation** — but its colour and harmonic ability compensate.
+## After 1916
 
-## Timbre, and how to hear it
-
-Four cues:
-
-1. **Metallic sheen with a long tail** — brighter and cooler than a marimba, and longer-ringing.
-2. **The shimmer is its signature** (with the motor on); that periodic loudness pulse is hard to confuse with
-   anything else.
-3. **A damper pedal controls the tail.** Most vibraphones have one, so notes can pile up — letting it play
-   chords like a piano with the pedal down.
-4. **Both melodic and harmonic.** Four mallets plus the pedal let it carry harmony in jazz.
+In 1916 the American Herman Winterhoff added resonator tubes and rotating vanes to a metal-bar instrument, and the modern vibraphone settled into shape. It entered jazz in the 1920s and has been both a solo voice and a harmony layer since. It is the youngest of the bar family and the only one with an effect built into the body: not a new material, a new variable. Listen first to the length of the tail, then to whether the flicker is even. If it is even, the motor is running.
 
 ```audiolab
 {"type":"instrument","gm":"Vibraphone","synth":"metal","phrase":["C4","E4","G4","C5","E5","G5"],"label":"颤音琴的常用区：C4 到 G5","label_en":"The vibraphone's working register — C4 up to G5","hint":"注意音色的金属光泽与余音 —— 以及「闪烁」感来自音量的周期性起伏","hint_en":"Hear the metallic sheen and the long tail — and how the shimmer comes from periodic changes in loudness."}
 ```
-
-## Playing techniques
-
-- **Four-mallet technique** (a shared system with the marimba).
-- **Damper pedal** to control the tail; held down, notes accumulate.
-- **Motor on/off and speed**, adjusted to the music.
-- **Mallet choice**: hard and soft heads combined with the motor give textures from icy to hazy.
-
-## The family
-
-| Instrument | Bars | Resonators | Extra | Range | Colour |
-|---|---|---|---|---|---|
-| [[instrument:xylophone\|Xylophone]] | hard wood | short | — | F4–C8 | dry, brittle |
-| [[instrument:marimba\|Marimba]] | softer wood | long | — | C2–C7 | warm, thick |
-| **Vibraphone** | **aluminium** | long | **vanes + pedal** | F3–F6 | metallic, shimmering |
-| [[instrument:glockenspiel\|Glockenspiel]] | steel | — | — | G5–C8 | very bright, clear |
-| [[instrument:celesta\|Celesta]] | steel plates (keyboard) | soundbox | keyboard action | C3–C8 | glassy |
-
-**The bar family now has five members**, and their differences reduce entirely to **material, resonator
-length and added devices** — the most complete "same structure, different colours" group on the site.
-
-## History
-
-| Period | State |
-|---|---|
-| 1916 (USA) | Herman Winterhoff and others add resonators and rotating vanes to a metal-bar instrument → the modern vibraphone |
-| 1920s–30s | enters **jazz**; becomes the instrument of jazz vibraphonists |
-| Mid-20th c. | its solo and harmonic roles in jazz are established; four-mallet technique spreads |
-| Late 20th c. | enters pop, film scoring and contemporary classical; the motor is used more flexibly |
-| Late 20th c. onward | a standard in jazz, pop, film and contemporary music |
-
-**It is the youngest member of the bar family** (settled only in 1916) — and the way it added vanes shows that
-**percussion can be modernised**: not by changing material but by adding a controllable variable.
-
-## Common misconceptions
-
-- **"Its vibrato is pitch movement."** The opposite: the vanes modulate **loudness** (tremolo), leaving pitch
-  unchanged. The name is a historical leftover.
-- **"It is the same as a xylophone."** Same family but a different material (metal versus wood), plus vanes and
-  a pedal — different sound and use.
-- **"Three octaves makes it limited."** It stands on colour and harmony, and is an important solo and
-  accompanying instrument in jazz.
-- **"The vanes are decorative."** They define its identity — switch the motor off and it is no longer a
-  "vibraphone".
-- **"It cannot be a solo instrument."** Four mallets plus the pedal allow melody and harmony together, and it
-  has a full solo repertoire.
-
-## Next
-
-Three metal instruments remain: the [[instrument:glockenspiel|glockenspiel]] (steel bars, extremely bright),
-[[instrument:tubular-bells|tubular bells]] (hung metal tubes, bell sound) and the
-[[instrument:celesta|celesta]] (keyboard-struck steel plates, glassy). Beyond them lies the
-[[instrument:gong|gong]] — also a metal body vibrating as a whole, but unpitched with an extremely long tail.
 :::

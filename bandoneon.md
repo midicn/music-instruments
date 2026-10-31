@@ -34,27 +34,27 @@ updated: 2026-10-28
 ## 形制：双音键钮与风箱
 
 - **方箱**：左右箱体夹着折扇风箱，双手抱住推拉供气。
-- **按钮**：两面都是钮；同一个钮推拉发出**两个不同的音**——**bisonoric（双音）**；演奏者要同时想钮与风箱。
-- **自由簧**：气流使簧片振动。
+- 按钮：两面都是钮；同一个钮推拉发出两个不同的音——bisonoric（双音）；演奏者要同时想钮与风箱。
+- 自由簧：气流使簧片振动。
 
-**乐句的呼吸由风箱决定**：换向不只换气，还换音。
+乐句的呼吸由风箱决定：换向不只换气，还换音。
 
 ## 从德国到阿根廷
 
-前身是 19 世纪德国的**康采蒂纳**。常见说法把它归于 **Heinrich Band**；但谁最早制造、哪年定型仍有争议，**单一起源叙事要当传说看**。
+前身是 19 世纪德国的康采蒂纳。常见说法把它归于 Heinrich Band；但谁最早制造、哪年定型仍有争议，单一起源叙事要当传说看。
 
-19 世纪后期，德意移民把它带到南美。它便宜、够响，能吹旋律也能压和弦，很快进入布宜诺斯艾利斯的探戈乐队。到 1920 年代，它已是 **orquesta típica** 的核心。
+19 世纪后期，德意移民把它带到南美。它便宜、够响，能吹旋律也能压和弦，很快进入布宜诺斯艾利斯的探戈乐队。到 1920 年代，它已是 orquesta típica 的核心。
 
-**皮亚佐拉（Astor Piazzolla, 1921–1992）** 把它从舞厅推向音乐会。他跟 Nadia Boulanger 学习后，把探戈切分、爵士和声与古典结构熔成 **nuevo tango**。
+皮亚佐拉（Astor Piazzolla, 1921–1992） 把它从舞厅推向音乐会。他跟 Nadia Boulanger 学习后，把探戈切分、爵士和声与古典结构熔成 nuevo tango。
 
 ## 与手风琴、口琴对照
 
-- **accordion**：右手琴键或钮，左手低音与和弦，通常**同音**；班多钮两面是钮、**双音**，没有现成的低音和弦区。
-- **harmonica**：同为自由簧，也常双音；口琴靠嘴，班多钮靠风箱。
+- accordion：右手琴键或钮，左手低音与和弦，通常同音；班多钮两面是钮、双音，没有现成的低音和弦区。
+- harmonica：同为自由簧，也常双音；口琴靠嘴，班多钮靠风箱。
 
 ## 常见误解
 
-- **“班多钮就是手风琴。”** 它没有钢琴键盘、两面都是钮、推拉异音；同属自由簧，不等于同一件乐器。
+- “班多钮就是手风琴。” 它没有钢琴键盘、两面都是钮、推拉异音；同属自由簧，不等于同一件乐器。
 
 ## HS 分类
 
@@ -97,9 +97,9 @@ updated: 2026-10-28
 
 ## 带走三件事
 
-1. **双音**：同一个钮，推与拉两个音；风箱方向是演奏的一部分。
-2. **移民的乐器**：德国制造，阿根廷养活；探戈给了它第二个祖国。
-3. **皮亚佐拉**：他把班多钮带进音乐厅，却没把它从探戈里拿走。
+1. 双音：同一个钮，推与拉两个音；风箱方向是演奏的一部分。
+2. 移民的乐器：德国制造，阿根廷养活；探戈给了它第二个祖国。
+3. 皮亚佐拉：他把班多钮带进音乐厅，却没把它从探戈里拿走。
 
 :::
 
@@ -112,24 +112,24 @@ The bandoneon is a **square box**: buttons on both sides, bellows in the middle,
 ## Form: bisonoric buttons and bellows
 
 - **Square box**: two cases joined by folding bellows; the player pumps with both hands.
-- **Buttons**: both sides are buttons. The same button gives **two different notes** on push and pull — **bisonoric**; button and bellows direction must be planned together.
-- **Free reeds**: air vibrates metal reeds; the bandoneon is a free-reed aerophone.
-- **Layout**: a tango bandoneon usually has 71 buttons and 142 voices.
+- Buttons: both sides are buttons. The same button gives two different notes on push and pull — bisonoric; button and bellows direction must be planned together.
+- Free reeds: air vibrates metal reeds; the bandoneon is a free-reed aerophone.
+- Layout: a tango bandoneon usually has 71 buttons and 142 voices.
 
-**The bellows decides the breathing of a phrase**: changing direction changes pitch as well as breath, so phrasing, bass roots and bellows are planned together.
+The bellows decides the breathing of a phrase: changing direction changes pitch as well as breath, so phrasing, bass roots and bellows are planned together.
 
 ## From Germany to Argentina
 
-Its predecessor is the German **concertina** family. Common accounts name **Heinrich Band**, and the instrument carries his name; its first maker and date are disputed, so **the single-origin story is legend**. German and Italian immigrants brought it to Buenos Aires; it entered tango bands and by the 1920s was the core of the **orquesta típica**. **Astor Piazzolla (1921–1992)** took it to the concert hall, fusing tango, jazz and classical structure into **nuevo tango**.
+Its predecessor is the German concertina family. Common accounts name Heinrich Band, and the instrument carries his name; its first maker and date are disputed, so the single-origin story is legend. German and Italian immigrants brought it to Buenos Aires; it entered tango bands and by the 1920s was the core of the orquesta típica. Astor Piazzolla (1921–1992) took it to the concert hall, fusing tango, jazz and classical structure into nuevo tango.
 
 ## Against the accordion and the harmonica
 
-- **Accordion**: keys or buttons on the right, bass and chords on the left, usually **unisonoric**; the bandoneon is **bisonoric**, without a bass-chord section.
-- **Harmonica**: also a free reed, often bisonoric; the mouth drives it, bellows drive the bandoneon.
+- Accordion: keys or buttons on the right, bass and chords on the left, usually unisonoric; the bandoneon is bisonoric, without a bass-chord section.
+- Harmonica: also a free reed, often bisonoric; the mouth drives it, bellows drive the bandoneon.
 
 ## Common misconceptions
 
-- **"A bandoneon is just an accordion."** No piano keyboard, buttons on both sides, a different note on push and pull: free reeds do not make it the same instrument.
+- "A bandoneon is just an accordion." No piano keyboard, buttons on both sides, a different note on push and pull: free reeds do not make it the same instrument.
 
 ## HS class
 
@@ -172,8 +172,7 @@ Its predecessor is the German **concertina** family. Common accounts name **Hein
 
 ## Three things to take away
 
-1. **Bisonoric**: one button, two notes; bellows direction is part of playing.
-2. **An immigrant instrument**: German-made, Argentine-fed; tango gave it a second homeland.
-3. **Piazzolla**: he took it to the concert hall without leaving tango.
-
+1. Bisonoric: one button, two notes; bellows direction is part of playing.
+2. An immigrant instrument: German-made, Argentine-fed; tango gave it a second homeland.
+3. Piazzolla: he took it to the concert hall without leaving tango.
 :::

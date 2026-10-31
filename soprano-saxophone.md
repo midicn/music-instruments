@@ -47,11 +47,11 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 木管（萨克斯族 · 高音支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，高音萨克斯不在其中 |
 
-> ⚠️ **一个概念上的要点**：高音萨克斯与[[instrument:clarinet|单簧管]]的**调性相同（都是降 B）、
-> 记谱偏移也相同（都是高大二度）**，但**音响完全不同**。
-> 差别全部来自**管形**：圆锥管（萨克斯）能激起全部泛音、超吹得八度、音区平滑；
+> ⚠️ 一个概念上的要点：高音萨克斯与[[instrument:clarinet|单簧管]]的**调性相同（都是降 B）、
+> 记谱偏移也相同（都是高大二度），但音响完全不同**。
+> 差别全部来自管形：圆锥管（萨克斯）能激起全部泛音、超吹得八度、音区平滑；
 > 圆柱管（单簧管）只有奇次泛音、超吹得十二度、音区分裂。
-> **所以判断两件乐器是不是"同一类"，看谱面没用 —— 要看驱动方式和管形。**
+> 所以判断两件乐器是不是"同一类"，看谱面没用 —— 要看驱动方式和管形。
 
 ## 木管分类的两个维度
 
@@ -76,7 +76,7 @@ updated: 2026-09-26
   <rect x="180" y="160" width="210" height="40" rx="4" fill="#17171A" stroke="#5B7FA8" stroke-width="1.3"/>
   <text x="285" y="184" text-anchor="middle" font-size="11" fill="#5B7FA8">单簧管</text>
   <rect x="410" y="160" width="210" height="40" rx="4" fill="#17171A" stroke="#E07A3F" stroke-width="2"/>
-  <text x="515" y="184" text-anchor="middle" font-size="11" fill="#E07A3F">萨克斯（含本页这一支）</text>
+  <text x="515" y="184" text-anchor="middle" font-size="11" fill="#E07A3F">萨克斯（含这一支）</text>
   <rect x="180" y="220" width="210" height="40" rx="4" fill="#17171A" stroke="#343439" stroke-width="1.2"/>
   <text x="285" y="244" text-anchor="middle" font-size="11" fill="#6E6A64">基本不存在</text>
   <rect x="410" y="220" width="210" height="40" rx="4" fill="#17171A" stroke="#9C7A3C" stroke-width="1.3"/>
@@ -86,13 +86,13 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张表值得记住**。木管的分类并不复杂，只要抓住两个问题：
+这张表值得记住。木管的分类并不复杂，只要抓住两个问题：
 
-1. **什么在驱动它？** —— 边棱音（气流切边）/ 单簧片 / 双簧片。
-2. **管是什么形状？** —— 圆柱 / 圆锥。
+1. 什么在驱动它？ —— 边棱音（气流切边）/ 单簧片 / 双簧片。
+2. 管是什么形状？ —— 圆柱 / 圆锥。
 
 两个问题各有三种或两种答案，交叉出的格子就是全部木管。
-**萨克斯的独特性在于它单独占据了一格：单簧驱动 + 圆锥管。**
+萨克斯的独特性在于它单独占据了一格：单簧驱动 + 圆锥管。
 所以它既不像单簧管（音区分裂），也不像双簧管（簧片难做）—— 它是这两者的"优点的交集"。
 
 ## 结构：直管形
@@ -134,9 +134,9 @@ updated: 2026-09-26
 
 两处要点：
 
-1. **直管形 + 细长管身**。它不需要像中音萨克斯那样折返，因为管长已经够短。
-2. **渐粗的管径**。与[[instrument:clarinet|单簧管]]的等径圆柱形成最容易看出的外形差别 ——
-   **看管径是否均匀，就能判断是圆柱还是圆锥。**
+1. 直管形 + 细长管身。它不需要像中音萨克斯那样折返，因为管长已经够短。
+2. 渐粗的管径。与[[instrument:clarinet|单簧管]]的等径圆柱形成最容易看出的外形差别 ——
+   看管径是否均匀，就能判断是圆柱还是圆锥。
 
 ## 音域
 
@@ -144,37 +144,37 @@ updated: 2026-09-26
 {"range":"A♭3–E6","written":"B♭3–F♯6","common":"A♭3–C6","caption":"高音萨克斯的记谱音域与实音音域","caption_en":"The soprano saxophone: notated range above, sounding range below","note":"⚠️ 高音萨克斯是降 B 调移调乐器 —— 记谱比实音高大二度。谱面写 B♭3–F♯6，实际出声 A♭3–E6。注意这个记谱偏移与降 B 调单簧管完全相同。"}
 ```
 
-- **实音 A♭3–E6**，比中音萨克斯高一个纯四度左右。
-- **注意记谱那两行**：谱面 B♭3–F♯6 —— **与[[instrument:clarinet|单簧管]]、与萨克斯族其他三支都完全一样**。
+- 实音 A♭3–E6，比中音萨克斯高一个纯四度左右。
+- 注意记谱那两行：谱面 B♭3–F♯6 —— 与[[instrument:clarinet|单簧管]]、与萨克斯族其他三支都完全一样。
   这就是"一套指法走全族"的具体样子。
-- **高音区（C6 以上）很难吹准**。管细，气息与口型的微小变化都会让音高偏移。
+- 高音区（C6 以上）很难吹准。管细，气息与口型的微小变化都会让音高偏移。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **紧、亮、带"鼻音"**。比[[instrument:alto-saxophone|中音萨克斯]]更集中、更窄 ——
+1. 紧、亮、带"鼻音"。比[[instrument:alto-saxophone|中音萨克斯]]更集中、更窄 ——
    管细、波长短，音色自然更紧。
-2. **音量穿透力强**。它的投射能力在萨克斯族里最突出，独奏时不容易被乐队盖住。
-3. **音准最难控制**。管细 → 音高对气息极敏感；同一支管上，演奏者要花很大功夫稳住音准。
-4. **直管形影响持握与投射方向**。喇叭口朝下，声音先落到地面再散开 ——
+2. 音量穿透力强。它的投射能力在萨克斯族里最突出，独奏时不容易被乐队盖住。
+3. 音准最难控制。管细 → 音高对气息极敏感；同一支管上，演奏者要花很大功夫稳住音准。
+4. 直管形影响持握与投射方向。喇叭口朝下，声音先落到地面再散开 ——
    所以它在录音室里常被要求调整角度。
 
 ```audiolab
 {"type":"instrument","gm":"Soprano Sax","synth":"reed","phrase":["A♭3","C4","E♭4","A♭4","C5","E♭5"],"label":"高音萨克斯的常用区：A♭3 到 E♭5","label_en":"The soprano saxophone's working register — A♭3 up to E♭5","hint":"注意比中音萨克斯更紧、更窄的音色，以及音准对气息的敏感","hint_en":"Hear how much tighter and narrower it is than an alto — and how sensitive the pitch is to air."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）里**有**高音萨克斯（Soprano Sax），
+> ⚠️ 关于试听：通用音色表（General MIDI）里有高音萨克斯（Soprano Sax），
 > 所以上面播放的是它的音色 —— 但采样有限，实际现场的音色比它更"窄"也更灵活。
 
 ## 演奏技法
 
 技法与[[instrument:alto-saxophone|中音萨克斯]]完全一致（同族同指法），差别都在"更难"：
 
-- **音准要更主动地控制**。管细短，需要靠口型持续微调。
-- **气息要更集中**。同样的气流在细管上会显得过冲。
-- **直管形的持握**。没有折返的支撑结构，手腕与手臂的负担与中音不同。
-- **爵士里的一段特殊用法**：直管高音萨克斯在早期爵士（新奥尔良时期）里是独奏乐器，
+- 音准要更主动地控制。管细短，需要靠口型持续微调。
+- 气息要更集中。同样的气流在细管上会显得过冲。
+- 直管形的持握。没有折返的支撑结构，手腕与手臂的负担与中音不同。
+- 爵士里的一段特殊用法：直管高音萨克斯在早期爵士（新奥尔良时期）里是独奏乐器，
   后来被次中音取代，又在 20 世纪中期由少数演奏者带回前台。
 
 ## 家族与近亲
@@ -187,9 +187,9 @@ updated: 2026-09-26
 | [[instrument:clarinet\|单簧管]] | 直管 | B♭ | 高大二度 | **圆柱** | **三个音区分裂** |
 | [[instrument:oboe\|双簧管]] | 直管 | C | 同音 | **圆锥** | 平滑（双簧驱动） |
 
-**把高音萨克斯与单簧管并排看**，会发现一件有意思的事：
-**它们的调性、记谱偏移、甚至外形都有相似之处，但音区行为完全相反。**
-一方平滑，一方分裂 —— 差别只有一个来源：**管形**。
+把高音萨克斯与单簧管并排看，会发现一件有意思的事：
+它们的调性、记谱偏移、甚至外形都有相似之处，但音区行为完全相反。
+一方平滑，一方分裂 —— 差别只有一个来源：管形。
 
 ## 历史演变
 
@@ -202,14 +202,14 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"高音萨克斯就是单簧管。"** 外形与记谱确实相似，但**管形不同**：
+- "高音萨克斯就是单簧管。" 外形与记谱确实相似，但管形不同：
   圆锥（萨克斯）vs 圆柱（单簧管）→ 音区行为完全相反。
-- **"它比中音萨克斯好吹。"** 更难：管细短 → **音准更敏感、气息要求更集中**。
-- **"萨克斯族的指法各不相同。"** **全族通用** —— 四支的记谱音域完全相同，
+- "它比中音萨克斯好吹。" 更难：管细短 → 音准更敏感、气息要求更集中。
+- "萨克斯族的指法各不相同。" 全族通用 —— 四支的记谱音域完全相同，
   差别只在音高与体量。
-- **"金属做的萨克斯属于铜管。"** 它是**气鸣 · 簧鸣**（簧片振动），
+- "金属做的萨克斯属于铜管。" 它是气鸣 · 簧鸣（簧片振动），
   与靠嘴唇振动的铜管不同族。
-- **"弯颈的就是另一种乐器。"** 直管与弯颈只是**外形版本**（弯颈便于持握、改变投射角度），
+- "弯颈的就是另一种乐器。" 直管与弯颈只是外形版本（弯颈便于持握、改变投射角度），
   声学上同属高音萨克斯。
 
 ## 下一步
@@ -220,6 +220,7 @@ updated: 2026-09-26
 想把"驱动 × 管形"这张表用满，最值得对照的是 [[instrument:clarinet|单簧管]]
 （同驱动、异管形）与 [[instrument:oboe|双簧管]]（异驱动、同管形）——
 四条放在一起，木管分类的两个维度就完全闭合了。
+
 :::
 
 ::: en
@@ -240,9 +241,9 @@ classification.
 
 > ⚠️ **One conceptual point**: the soprano saxophone and the [[instrument:clarinet|clarinet]] share a
 > **key (both in B♭) and a transposition (both written a major second above)**, yet they sound nothing
-> alike. The whole difference comes from the **bore**: a cone (saxophone) sustains all harmonics, overblows
+> alike. The whole difference comes from the bore: a cone (saxophone) sustains all harmonics, overblows
 > an octave and blends registers; a cylinder (clarinet) sustains only odd harmonics, overblows a twelfth and
-> splits its registers. **So the page tells you nothing about kinship — the drive and the bore do.**
+> splits its registers. So the page tells you nothing about kinship — the drive and the bore do.
 
 ## The two dimensions of woodwind classification
 
@@ -277,10 +278,10 @@ classification.
 </svg>
 ```
 
-**This table is worth remembering.** Woodwind classification is not complicated if you ask two questions:
+This table is worth remembering. Woodwind classification is not complicated if you ask two questions:
 
-1. **What drives it?** — an edge-tone (a cut jet) / a single reed / a double reed.
-2. **What shape is the bore?** — cylindrical / conical.
+1. What drives it? — an edge-tone (a cut jet) / a single reed / a double reed.
+2. What shape is the bore? — cylindrical / conical.
 
 Two questions with two or three answers each, and their intersections are all of the woodwinds.
 **The saxophone is unique because it alone occupies one cell: single-reed drive on a conical bore.**
@@ -326,9 +327,9 @@ intersection of their advantages.
 
 Two points:
 
-1. **A straight, slender body.** It needs no fold because the tube is short enough already.
-2. **A widening bore.** Against the [[instrument:clarinet|clarinet]]'s uniform cylinder this is the easiest
-   visual test — **check whether the bore is even, and you know whether it is a cylinder or a cone.**
+1. A straight, slender body. It needs no fold because the tube is short enough already.
+2. A widening bore. Against the [[instrument:clarinet|clarinet]]'s uniform cylinder this is the easiest
+   visual test — check whether the bore is even, and you know whether it is a cylinder or a cone.
 
 ## Range
 
@@ -336,28 +337,28 @@ Two points:
 {"range":"A♭3–E6","written":"B♭3–F♯6","common":"A♭3–C6","caption":"高音萨克斯的记谱音域与实音音域","caption_en":"The soprano saxophone: notated range above, sounding range below","note":"⚠️ 高音萨克斯是降 B 调移调乐器 —— 记谱比实音高大二度。谱面写 B♭3–F♯6，实际出声 A♭3–E6。注意这个记谱偏移与降 B 调单簧管完全相同。"}
 ```
 
-- **Sounding A♭3–E6**, roughly a perfect fourth above an alto saxophone.
-- **Note the two written lines**: B♭3–F♯6 — **identical to the [[instrument:clarinet|clarinet]] and to the
+- Sounding A♭3–E6, roughly a perfect fourth above an alto saxophone.
+- Note the two written lines: B♭3–F♯6 — **identical to the [[instrument:clarinet|clarinet]] and to the
   other three saxophones**. That is what "one fingering chart for the family" looks like.
-- **Above C6 it is very hard to play in tune.** A thin tube means the smallest change of air or embouchure
+- Above C6 it is very hard to play in tune. A thin tube means the smallest change of air or embouchure
   shifts the pitch.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Tight, bright, slightly nasal.** More focused and narrower than an [[instrument:alto-saxophone|alto]] —
+1. Tight, bright, slightly nasal. More focused and narrower than an [[instrument:alto-saxophone|alto]] —
    a thin short tube simply sounds tenser.
-2. **Strong projection**, the best in the family; hard to cover in a solo.
-3. **The hardest to keep in tune.** A thin tube is extremely air-sensitive.
-4. **The straight body shapes the projection.** The bell points down, so the sound reaches the floor first —
+2. Strong projection, the best in the family; hard to cover in a solo.
+3. The hardest to keep in tune. A thin tube is extremely air-sensitive.
+4. The straight body shapes the projection. The bell points down, so the sound reaches the floor first —
    which is why studios often ask for a different angle.
 
 ```audiolab
 {"type":"instrument","gm":"Soprano Sax","synth":"reed","phrase":["A♭3","C4","E♭4","A♭4","C5","E♭5"],"label":"高音萨克斯的常用区：A♭3 到 E♭5","label_en":"The soprano saxophone's working register — A♭3 up to E♭5","hint":"注意比中音萨克斯更紧、更窄的音色，以及音准对气息的敏感","hint_en":"Hear how much tighter and narrower it is than an alto — and how sensitive the pitch is to air."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI set **does** include a Soprano Sax, so the sound above is genuinely
+> ⚠️ On the audio: the General MIDI set does include a Soprano Sax, so the sound above is genuinely
 > that instrument — though the sample is limited, and a live one is narrower and more flexible still.
 
 ## Playing techniques
@@ -365,10 +366,10 @@ Four cues:
 The technique is identical to the [[instrument:alto-saxophone|alto saxophone]] (same family, same
 fingerings); the differences are all "harder":
 
-- **Pitch must be actively managed** on a thin short tube.
-- **A more focused air stream** — the same air that suits an alto overblows a soprano.
-- **A different hold**, since a straight body offers no folded support.
-- **A special place in jazz history**: the straight soprano was an early New Orleans solo instrument, was
+- Pitch must be actively managed on a thin short tube.
+- A more focused air stream — the same air that suits an alto overblows a soprano.
+- A different hold, since a straight body offers no folded support.
+- A special place in jazz history: the straight soprano was an early New Orleans solo instrument, was
   displaced by the tenor, and was brought back to the front by a few players in the mid-20th century.
 
 ## The family
@@ -381,9 +382,9 @@ fingerings); the differences are all "harder":
 | [[instrument:clarinet\|Clarinet]] | straight | B♭ | a major second above | **cylindrical** | **three split registers** |
 | [[instrument:oboe\|Oboe]] | straight | C | at pitch | **conical** | smooth (double-reed drive) |
 
-**Set the soprano sax beside the clarinet** and something interesting appears: their **key, transposition
+Set the soprano sax beside the clarinet and something interesting appears: their **key, transposition
 and even silhouette** are similar, yet their register behaviour is exactly opposite — one blends, one
-splits. The only cause is **the bore**.
+splits. The only cause is the bore.
 
 ## History
 
@@ -396,16 +397,16 @@ splits. The only cause is **the bore**.
 
 ## Common misconceptions
 
-- **"A soprano saxophone is a clarinet."** The silhouette and the notation are indeed similar, but the
-  **bores differ**: conical (saxophone) versus cylindrical (clarinet) — and so does register behaviour,
+- "A soprano saxophone is a clarinet." The silhouette and the notation are indeed similar, but the
+  bores differ: conical (saxophone) versus cylindrical (clarinet) — and so does register behaviour,
   completely.
-- **"It is easier to play than an alto."** Harder: a thin short tube means **more sensitive pitch and a more
+- "It is easier to play than an alto." Harder: a thin short tube means **more sensitive pitch and a more
   focused air stream**.
-- **"Each saxophone has its own fingerings."** **They are shared** across the family — the written range is
+- "Each saxophone has its own fingerings." They are shared across the family — the written range is
   identical, only pitch and size change.
-- **"A metal saxophone is brass."** It is an **aerophone · reed instrument** (the reed vibrates), not the
+- "A metal saxophone is brass." It is an aerophone · reed instrument (the reed vibrates), not the
   lip-vibrated brass family.
-- **"A curved neck makes it a different instrument."** Straight and curved-neck are **body versions**
+- "A curved neck makes it a different instrument." Straight and curved-neck are body versions
   (the curve eases the hold and changes the projection angle); acoustically both are soprano saxophones.
 
 ## Next

@@ -42,14 +42,14 @@ updated: 2026-09-26
 > ⚠️ **把它和上一条放在一起，HS 分类就讲清楚了。**
 > | | [[instrument:tanggu\|堂鼓]] | **木鱼** |
 > |---|---|---|
-> | 什么在振动 | **一张绷紧的皮** | **木头本身** |
-> | HS 类别 | **膜鸣** | **体鸣** |
-> | 八音 | 革 | **木** |
+> | 什么在振动 | 一张绷紧的皮 | 木头本身 |
+> | HS 类别 | 膜鸣 | 体鸣 |
+> | 八音 | 革 | 木 |
 >
-> **两件都是"敲"的乐器、两件都没有固定音高** ——
-> 但一件的声音来自**蒙上去的皮**，另一件来自**木头自己**。
-> **这就是"什么在振动"这条判据最干净的一次示范**：
-> 光看外表（都是敲、都无音高）完全分不出，**必须问振动体是谁**。
+> 两件都是"敲"的乐器、两件都没有固定音高 ——
+> 但一件的声音来自蒙上去的皮，另一件来自木头自己。
+> 这就是"什么在振动"这条判据最干净的一次示范：
+> 光看外表（都是敲、都无音高）完全分不出，必须问振动体是谁。
 
 | 分类 | 归属 |
 |---|---|
@@ -90,13 +90,13 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **振动体就是木体**。这是[[instrument:tanggu|堂鼓]]的镜像：
-   鼓要**蒙一张皮**才有声音，木鱼**什么都不用蒙** ——
-   **它的材料本身就是它的声音。**
-2. **那道缝是它的"口"**。缝让木体能自由地变形振动，
+1. 振动体就是木体。这是[[instrument:tanggu|堂鼓]]的镜像：
+   鼓要蒙一张皮才有声音，木鱼什么都不用蒙 ——
+   它的材料本身就是它的声音。
+2. 那道缝是它的"口"。缝让木体能自由地变形振动，
    也是声音出来的地方；它的名字正是来自这个形如鱼口的开口（早期木鱼多雕成鱼形）。
-3. **与[[instrument:woodblock|西洋木鱼]]、[[instrument:claves|响棒]]是同一族**：
-   **硬木 + 无音高 + 纯靠敲击** —— 只不过木鱼把"挖空"和"开缝"这两步做到了极致。
+3. 与[[instrument:woodblock|西洋木鱼]]、[[instrument:claves|响棒]]是同一族：
+   硬木 + 无音高 + 纯靠敲击 —— 只不过木鱼把"挖空"和"开缝"这两步做到了极致。
 
 ## 一件乐器能控制几个维度？
 
@@ -135,31 +135,31 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张表把本批的一条暗线数出来了**：
-**「一件乐器能控制哪些维度」是一个可以列出来的清单** ——
+这张表把本批的一条暗线数出来了：
+「一件乐器能控制哪些维度」是一个可以列出来的清单 ——
 音高 · 时值 · 力度 · 音色层次。
 
-- **古琴 · 琵琶 · 笛子**：四样都在手上。
-- **编钟**：音高是**铸定时预先选定**的（不是现场做出来的）；**音色层次几乎没有**（只有敲击力度与部位）。
-- **堂鼓**：**没有音高**，但**时值 · 力度 · 音色（心/边/闷击）**都在手上 ——
-  所以它能**指挥**一支乐队。
-- **木鱼**：**没有音高**，**音色层次极少** ——
-  它剩下的只有**"什么时候响"**和**"多响"**。
+- 古琴 · 琵琶 · 笛子：四样都在手上。
+- 编钟：音高是铸定时预先选定的（不是现场做出来的）；音色层次几乎没有（只有敲击力度与部位）。
+- 堂鼓：没有音高，但时值 · 力度 · 音色（心/边/闷击）都在手上 ——
+  所以它能指挥一支乐队。
+- 木鱼：没有音高，音色层次极少 ——
+  它剩下的只有"什么时候响"和"多响"。
 
-**而这就够了。**
-**"能组织时间"是一件器物成为乐器的底线** ——
-木鱼站在那条底线上，**再往下就没有乐器了。**
+而这就够了。
+"能组织时间"是一件器物成为乐器的底线 ——
+木鱼站在那条底线上，再往下就没有乐器了。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **短促、干脆、无余音**。敲一下就是一下，**声音几乎不拖尾** ——
-   这正是节拍乐器需要的：**它不占时间，只标记时间。**
-2. **硬木的"笃"**。与[[instrument:claves|响棒]]、[[instrument:woodblock|西洋木鱼]]同族：
-   **材料硬 → 起振快、衰减快 → 界限清楚。**
-3. **大小不同则音色不同**。小的清脆、大的厚实 —— 合奏里常备几个不同的木鱼。
-4. **位置有细微差别**。敲缝边与敲侧面音色略有不同，
+1. 短促、干脆、无余音。敲一下就是一下，声音几乎不拖尾 ——
+   这正是节拍乐器需要的：它不占时间，只标记时间。
+2. 硬木的"笃"。与[[instrument:claves|响棒]]、[[instrument:woodblock|西洋木鱼]]同族：
+   材料硬 → 起振快、衰减快 → 界限清楚。
+3. 大小不同则音色不同。小的清脆、大的厚实 —— 合奏里常备几个不同的木鱼。
+4. 位置有细微差别。敲缝边与敲侧面音色略有不同，
    但差别远小于[[instrument:tanggu|堂鼓]]的"心/边/闷"三种。
 
 ```audiolab
@@ -168,13 +168,13 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **单槌敲击**。绝大多数情况下这就是全部 —— **一件乐器、一根槌、一个动作**。
-- **敲"点"而不敲"线"**。它不做滚奏也不做渐强渐弱：**它的任务就是给出清楚的时间点。**
-- **诵经的节拍器**。寺院里诵经时用木鱼统一节奏 ——
+- 单槌敲击。绝大多数情况下这就是全部 —— 一件乐器、一根槌、一个动作。
+- 敲"点"而不敲"线"。它不做滚奏也不做渐强渐弱：它的任务就是给出清楚的时间点。
+- 诵经的节拍器。寺院里诵经时用木鱼统一节奏 ——
    一群人念同一段经，靠的就是这个不断重复的"笃"。
-- **乐队里的节奏骨架**。进入民族管弦乐队与戏曲乐队之后，
-   它常与[[instrument:tanggu|堂鼓]] · 锣 · 钹配合，标记**板眼**。
-- **不需要"调"**。音高无关紧要 —— 这是它比其他乐器都省事的地方。
+- 乐队里的节奏骨架。进入民族管弦乐队与戏曲乐队之后，
+   它常与[[instrument:tanggu|堂鼓]] · 锣 · 钹配合，标记板眼。
+- 不需要"调"。音高无关紧要 —— 这是它比其他乐器都省事的地方。
 
 ## 家族与近亲
 
@@ -187,9 +187,9 @@ updated: 2026-09-26
 | [[instrument:bianzhong\|编钟]] | 青铜钟体 | **有固定音高** | 少 | 旋律 · 礼乐 |
 | [[instrument:gong\|锣]] | 青铜板体 | 无固定音高 | 中（余音可控性差） | 色彩 · 句读 |
 
-**这一族（打击）的分岔其实只有三问**：
-**① 什么在振动**（膜 / 体 / 金属）· **② 有没有确定的音高** · **③ 能给出几个层次**。
-**木鱼在三个问题上的答案都是最简的** —— 而它仍然是乐器。
+这一族（打击）的分岔其实只有三问：
+① 什么在振动（膜 / 体 / 金属）· ② 有没有确定的音高 · ③ 能给出几个层次。
+木鱼在三个问题上的答案都是最简的 —— 而它仍然是乐器。
 
 ## 历史演变
 
@@ -201,35 +201,36 @@ updated: 2026-09-26
 | 近现代 | 成为民族管弦乐队与戏曲乐队的**常规打击乐器**；形制按大小成套制作 |
 | 今天 | 寺院 · 戏曲 · 民族乐队 · 甚至流行音乐里都在用；也是最能代表中国文化符号的乐器之一 |
 
-**它的历史是一条少见的**"**法器 → 乐器**"的路：
-它**不是从民间或宫廷的音乐活动里长出来的**，而是**先在宗教仪式里承担"组织时间"的职能**，
-后来这套职能被音乐原样接收 —— **功能先于审美**。
+它的历史是一条少见的"法器 → 乐器"的路：
+它不是从民间或宫廷的音乐活动里长出来的，而是先在宗教仪式里承担"组织时间"的职能，
+后来这套职能被音乐原样接收 —— 功能先于审美。
 
-*（顺带一提：本批已写的六件乐器，出身各不相同 —— **古琴**出自文人 · **编钟**出自宫廷礼乐 ·
-**埙**出自雅乐 · **笛子与堂鼓**出自戏曲与民间 · **木鱼**出自寺院。
-**"这件乐器是谁用的"，本身就是理解中国乐器的另一张地图。**）*
+*（顺带一提：本批已写的六件乐器，出身各不相同 —— 古琴出自文人 · 编钟出自宫廷礼乐 ·
+埙出自雅乐 · 笛子与堂鼓出自戏曲与民间 · 木鱼出自寺院。
+"这件乐器是谁用的"，本身就是理解中国乐器的另一张地图。）*
 
 ## 常见误解
 
-- **"木鱼就是个小鼓。"** **不是**。鼓靠**蒙皮**（膜鸣），木鱼靠**木头本身**（体鸣）——
-  两件都没有音高、都要敲，但**振动体完全不同**。
-- **"木鱼只能念佛用。"** 它早已是**民族管弦乐队与戏曲乐队的常规打击乐器**；
-   而它在寺院里的本职，本来就是**音乐性的**（打节拍）。
-- **"没有音高的乐器很简单，不值得细说。"** 恰恰相反：
-   它逼出了"**什么算乐器**"这个问题 —— 而答案是**"能不能组织时间"**。
-- **"木鱼有固定音高。"** **无固定音高**：大小与敲击位置会改变音高感，但不构成确定的音级。
-- **"它和西洋木鱼是一回事。"** 同族不同制：**木鱼是挖空 + 开长缝**，
-  西洋木鱼是**实心木条** —— 所以木鱼的声音更"空"、更有共鸣感。
-- **"八音里的'木'只是材料分类。"** 它确实只说材料 ——
-   但**材料在这里就是全部**：木鱼的声音完全来自那块木头，**没有一样东西是"附加"上去的**。
+- "木鱼就是个小鼓。" 不是。鼓靠蒙皮（膜鸣），木鱼靠木头本身（体鸣）——
+  两件都没有音高、都要敲，但振动体完全不同。
+- "木鱼只能念佛用。" 它早已是民族管弦乐队与戏曲乐队的常规打击乐器；
+   而它在寺院里的本职，本来就是音乐性的（打节拍）。
+- "没有音高的乐器很简单，不值得细说。" 恰恰相反：
+   它逼出了"什么算乐器"这个问题 —— 而答案是"能不能组织时间"。
+- "木鱼有固定音高。" 无固定音高：大小与敲击位置会改变音高感，但不构成确定的音级。
+- "它和西洋木鱼是一回事。" 同族不同制：木鱼是挖空 + 开长缝，
+  西洋木鱼是实心木条 —— 所以木鱼的声音更"空"、更有共鸣感。
+- "八音里的'木'只是材料分类。" 它确实只说材料 ——
+   但材料在这里就是全部：木鱼的声音完全来自那块木头，没有一样东西是"附加"上去的。
 
 ## 下一步
 
-**木这一类到此补齐**（木鱼）。八音只差两类：**匏 · 石** ——
-下一件换到**匏**（葫芦）：[[instrument:sheng|笙]]。
-它是一件**又老又关键**的乐器：**中国最早的自由簧乐器**，
-而且**一个音孔能同时发出几个音** ——
-**它要回答的是：一件管乐器为什么可以不只发出一个音？**
+木这一类到此补齐（木鱼）。八音只差两类：匏 · 石 ——
+下一件换到匏（葫芦）：[[instrument:sheng|笙]]。
+它是一件又老又关键的乐器：中国最早的自由簧乐器，
+而且一个音孔能同时发出几个音 ——
+它要回答的是：一件管乐器为什么可以不只发出一个音？
+
 :::
 
 ::: en
@@ -239,13 +240,13 @@ and a single opening.**
 > ⚠️ **Set it beside the previous entry and HS classification explains itself.**
 > | | [[instrument:tanggu\|Tanggu]] | **Muyu** |
 > |---|---|---|
-> | What vibrates | **a stretched skin** | **the wood itself** |
-> | HS class | **membranophone** | **idiophone** |
-> | Bayin | hide | **wood** |
+> | What vibrates | **a stretched skin** | the wood itself |
+> | HS class | membranophone | idiophone |
+> | Bayin | hide | wood |
 >
-> **Both are struck and both are unpitched** — but one sounds from **a skin stretched on**, the other from **the
-> wood alone**. **This is the cleanest demonstration of the "what vibrates" test**: from the outside (both struck,
-> both unpitched) they are indistinguishable; you have to ask **who the vibrator is**.
+> Both are struck and both are unpitched — but one sounds from a skin stretched on, the other from **the
+> wood alone. This is the cleanest demonstration of the "what vibrates" test**: from the outside (both struck,
+> both unpitched) they are indistinguishable; you have to ask who the vibrator is.
 
 | Classification | Value |
 |---|---|
@@ -286,11 +287,11 @@ and a single opening.**
 
 Three points:
 
-1. **The vibrator is the wood.** This is the mirror image of the [[instrument:tanggu|tanggu]]: a drum needs **a skin
-   stretched on** to make any sound, a muyu needs **nothing added** — **its material is its voice.**
-2. **The slit is its "mouth".** It lets the body flex and vibrate freely and is where the sound comes out; the name
+1. The vibrator is the wood. This is the mirror image of the [[instrument:tanggu|tanggu]]: a drum needs **a skin
+   stretched on to make any sound, a muyu needs nothing added — its material is its voice.**
+2. The slit is its "mouth". It lets the body flex and vibrate freely and is where the sound comes out; the name
    comes from this fish-mouth opening (early muyu were carved in the shape of a fish).
-3. **It is of a family with the [[instrument:woodblock|woodblock]] and [[instrument:claves|claves]]**: **hard wood,
+3. **It is of a family with the [[instrument:woodblock|woodblock]] and [[instrument:claves|claves]]: hard wood,
    no pitch, pure striking** — except the muyu takes "hollow it out" and "cut a slit" as far as they go.
 
 ## How many dimensions can an instrument control?
@@ -331,29 +332,29 @@ Three points:
 </svg>
 ```
 
-**This table counts out a hidden thread of the batch**: **"which dimensions an instrument can control" is a list
+This table counts out a hidden thread of the batch: **"which dimensions an instrument can control" is a list
 you can write down** — pitch · timing · dynamics · timbre levels.
 
-- **Guqin, pipa, dizi**: all four in the player's hands.
-- **Bianzhong**: its pitch was **selected in advance at the foundry** (not made in the moment), and it has almost no
+- Guqin, pipa, dizi: all four in the player's hands.
+- Bianzhong: its pitch was selected in advance at the foundry (not made in the moment), and it has almost no
   timbre levels.
-- **Tanggu**: **no pitch**, but **timing, dynamics and timbre (centre / rim / damped)** are all there — which is why
-  it can **conduct** a band.
-- **Muyu**: **no pitch** and **very few timbre levels** — what it has left is **"when"** and **"how loud"**.
+- Tanggu: no pitch, but timing, dynamics and timbre (centre / rim / damped) are all there — which is why
+  it can conduct a band.
+- Muyu: no pitch and very few timbre levels — what it has left is "when" and "how loud".
 
-**And that is enough. Organising time is the floor of being an instrument** — the muyu stands on that floor, and
-**one step lower there is no instrument at all.**
+And that is enough. Organising time is the floor of being an instrument — the muyu stands on that floor, and
+one step lower there is no instrument at all.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Short, dry, tail-less.** One stroke is one stroke — exactly what a time-keeping instrument needs: **it does not
+1. Short, dry, tail-less. One stroke is one stroke — exactly what a time-keeping instrument needs: **it does not
    occupy time, it marks it.**
-2. **The hard-wood "tok".** The same family as [[instrument:claves|claves]] and the
-   [[instrument:woodblock|woodblock]]: **hard material → fast onset, fast decay → clear edges.**
-3. **Size changes the colour.** Small ones are crisp, large ones fuller — ensembles keep several.
-4. **Position makes a small difference** — the slit edge versus the side — but far less than the
+2. The hard-wood "tok". The same family as [[instrument:claves|claves]] and the
+   [[instrument:woodblock|woodblock]]: hard material → fast onset, fast decay → clear edges.
+3. Size changes the colour. Small ones are crisp, large ones fuller — ensembles keep several.
+4. Position makes a small difference — the slit edge versus the side — but far less than the
    [[instrument:tanggu|tanggu]]'s centre/rim/damped.
 
 ```audiolab
@@ -362,13 +363,13 @@ Four cues:
 
 ## Playing techniques
 
-- **A single beater.** In most situations that is the whole of it — **one instrument, one beater, one motion.**
-- **It marks points, not lines.** No rolls, no crescendos: **its job is to give clear instants of time.**
-- **The metronome of chanting.** In temples it keeps the recitation together — a group reciting the same text relies
+- A single beater. In most situations that is the whole of it — one instrument, one beater, one motion.
+- It marks points, not lines. No rolls, no crescendos: its job is to give clear instants of time.
+- The metronome of chanting. In temples it keeps the recitation together — a group reciting the same text relies
   on that repeating "tok".
-- **A rhythmic skeleton in ensembles.** In the Chinese orchestra and in opera it works with the
+- A rhythmic skeleton in ensembles. In the Chinese orchestra and in opera it works with the
   [[instrument:tanggu|tanggu]], gongs and cymbals to mark the metrical structure.
-- **Nothing to tune.** Pitch is irrelevant — the least troublesome of all instruments.
+- Nothing to tune. Pitch is irrelevant — the least troublesome of all instruments.
 
 ## The family
 
@@ -381,8 +382,8 @@ Four cues:
 | [[instrument:bianzhong\|Bianzhong]] | bronze bell | **definite** | few | melody · ritual |
 | [[instrument:gong\|Gong]] | bronze plate | no definite pitch | medium (ring hard to control) | colour · punctuation |
 
-**This struck family forks on only three questions**: **① what vibrates** (skin / wood / metal) · **② is the pitch
-definite** · **③ how many levels can it give**. **The muyu answers the simplest way to all three** — and remains an
+This struck family forks on only three questions: ① what vibrates (skin / wood / metal) · **② is the pitch
+definite · ③ how many levels can it give. The muyu answers the simplest way to all three** — and remains an
 instrument.
 
 ## History
@@ -395,34 +396,34 @@ instrument.
 | modern era | a standard percussion instrument in the Chinese orchestra and in opera bands, made in sets of sizes |
 | today | used in temples, opera, the national orchestra and even popular music; also one of the most recognisable cultural symbols of China |
 
-**Its history is an unusual road from **ritual implement** to **instrument** **: it did not grow out of folk or court music
-but **first carried the function of "organising time" inside a religious rite**, which music then took over
-unchanged — **function came before aesthetics.**
+Its history is an unusual road from ritual implement to instrument : it did not grow out of folk or court music
+but first carried the function of "organising time" inside a religious rite, which music then took over
+unchanged — function came before aesthetics.
 
-*(Incidentally, the six instruments written so far come from very different places — **guqin** from the literati ·
-**bianzhong** from court ritual · **xun** from ceremonial music · **dizi and tanggu** from opera and folk life ·
-**muyu** from the monastery. **"Who used this instrument" is itself another map for understanding Chinese
+*(Incidentally, the six instruments written so far come from very different places — guqin from the literati ·
+bianzhong from court ritual · xun from ceremonial music · dizi and tanggu from opera and folk life ·
+muyu from the monastery. **"Who used this instrument" is itself another map for understanding Chinese
 instruments.**)*
 
 ## Common misconceptions
 
-- **"A muyu is just a small drum."** **No.** A drum sounds from **a stretched skin** (membranophone); a muyu from
-  **the wood itself** (idiophone). Both are struck and unpitched, but **the vibrator is entirely different.**
-- **"It is only for chanting."** It is already a **standard percussion instrument of the Chinese orchestra and opera
+- "A muyu is just a small drum." No. A drum sounds from a stretched skin (membranophone); a muyu from
+  the wood itself (idiophone). Both are struck and unpitched, but the vibrator is entirely different.
+- "It is only for chanting." It is already a **standard percussion instrument of the Chinese orchestra and opera
   bands** — and its temple job was musical in the first place (keeping time).
-- **"An instrument without pitch is simple and not worth close reading."** The opposite: it forces the question
-  **"what counts as an instrument"** — and the answer is **"can it organise time".**
-- **"A muyu has a definite pitch."** **No definite pitch**: size and striking point change the sense of pitch but
+- "An instrument without pitch is simple and not worth close reading." The opposite: it forces the question
+  "what counts as an instrument" — and the answer is "can it organise time".
+- "A muyu has a definite pitch." No definite pitch: size and striking point change the sense of pitch but
   produce no fixed degree.
-- **"It is the same as a Western woodblock."** Same family, different construction: **the muyu is hollowed with a
-  long slit**, the woodblock is **a solid bar** — which is why the muyu sounds hollower and more resonant.
-- **"Wood in the bayin is only a material label."** It is only a material label — **but here the material is
-  everything**: a muyu's sound comes entirely from that block, **with nothing added.**
+- "It is the same as a Western woodblock." Same family, different construction: **the muyu is hollowed with a
+  long slit, the woodblock is a solid bar** — which is why the muyu sounds hollower and more resonant.
+- "Wood in the bayin is only a material label." It is only a material label — **but here the material is
+  everything: a muyu's sound comes entirely from that block, with nothing added.**
 
 ## Next
 
-**The wood category is complete** (the muyu). Only two bayin categories remain: **gourd · stone** — and the next
-instrument turns to **gourd**: the [[instrument:sheng|sheng]].
-It is both old and pivotal: **China's earliest free-reed instrument**, and **one hole can sound several notes at
-once**. Its question is: **why can a wind instrument sound more than one note at a time?**
+The wood category is complete (the muyu). Only two bayin categories remain: gourd · stone — and the next
+instrument turns to gourd: the [[instrument:sheng|sheng]].
+It is both old and pivotal: China's earliest free-reed instrument, and **one hole can sound several notes at
+once. Its question is: why can a wind instrument sound more than one note at a time?**
 :::

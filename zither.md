@@ -83,7 +83,7 @@ zither 是**类名**：弦绷在扁平的琴箱上，与面板平行，琴体兼
 | 扬琴 | 击弦齐特 | 用琴竹击弦，不是拨弦 |
 | 钢琴 | HS 板面齐特 | 有键盘与击弦机，没人叫它 zither |
 
-guzheng 常被叫 Chinese zither；差别在**雁柱、定弦与演奏传统**。钢琴也属板面齐特，却没人叫它 zither。**分类看结构，名字看习惯。**
+guzheng 常被叫 Chinese zither；差别在**雁柱、定弦与演奏传统**。钢琴也属板面齐特，却没人叫它 zither。分类看结构，名字看习惯。
 
 ### HS 分类
 
@@ -96,19 +96,20 @@ guzheng 常被叫 Chinese zither；差别在**雁柱、定弦与演奏传统**�
 
 ## 电影里的齐特琴
 
-1949 年《The Third Man》让 Anton Karas 用独奏齐特琴弹遍全片，开放弦扫奏与颤音成了“旧欧洲”的声音符号。**刻板印象不是错，只是窄**：它把有沙龙独奏、阿尔卑斯合奏与当代创作的乐器压成一个怀旧标签。
+1949 年《The Third Man》让 Anton Karas 用独奏齐特琴弹遍全片，开放弦扫奏与颤音成了“旧欧洲”的声音符号。刻板印象不是错，只是窄：它把有沙龙独奏、阿尔卑斯合奏与当代创作的乐器压成一个怀旧标签。
 
 ## 常见误解
 
-- **"齐特琴就是一件乐器。"** 它是一个类；现代常指音乐会或阿尔卑斯齐特琴。
-- **"筝不是齐特琴。"** 在 HS 里筝是板面齐特，英语也常叫 Chinese zither；边界在雁柱与演奏传统。
-- **"齐特琴只能弹民间小调。"** 十九世纪有沙龙独奏作品，也有当代创作。
+- "齐特琴就是一件乐器。" 它是一个类；现代常指音乐会或阿尔卑斯齐特琴。
+- "筝不是齐特琴。" 在 HS 里筝是板面齐特，英语也常叫 Chinese zither；边界在雁柱与演奏传统。
+- "齐特琴只能弹民间小调。" 十九世纪有沙龙独奏作品，也有当代创作。
 
 ## 带走三件事
 
-1. **zither 是类名**：板面、弦与面板平行、无独立琴颈。
-2. **两组弦分工**：左手按旋律，右手拨开放伴奏弦。
-3. **边界看结构**：筝、古琴、扬琴、钢琴都属板面齐特，叫不叫 zither 是语言习惯。
+1. zither 是类名：板面、弦与面板平行、无独立琴颈。
+2. 两组弦分工：左手按旋律，右手拨开放伴奏弦。
+3. 边界看结构：筝、古琴、扬琴、钢琴都属板面齐特，叫不叫 zither 是语言习惯。
+
 :::
 
 ::: en
@@ -167,7 +168,7 @@ Melody strings span a little over an octave, while accompaniment reaches F1. Met
 | yangqin | struck zither | struck with bamboo hammers, not plucked |
 | piano | HS board zither | keyboard and hammer action, never called a zither |
 
-So calling the guzheng a Chinese zither is not a contradiction; it differs in **bridges, tuning and tradition**. The piano is a board zither in HS but never a zither in speech. **Classification follows structure; naming follows habit.**
+So calling the guzheng a Chinese zither is not a contradiction; it differs in **bridges, tuning and tradition**. The piano is a board zither in HS but never a zither in speech. Classification follows structure; naming follows habit.
 
 ### HS classification
 
@@ -180,17 +181,17 @@ So calling the guzheng a Chinese zither is not a contradiction; it differs in **
 
 ## The zither in film
 
-In 1949 "The Third Man", Anton Karas played a solo zither across the whole score; its open-string sweep and tremolo became a sound of old Europe. **The stereotype is not wrong, only narrow**: it turns an instrument with salon solos, Alpine ensembles and contemporary works into one nostalgic label.
+In 1949 "The Third Man", Anton Karas played a solo zither across the whole score; its open-string sweep and tremolo became a sound of old Europe. The stereotype is not wrong, only narrow: it turns an instrument with salon solos, Alpine ensembles and contemporary works into one nostalgic label.
 
 ## Common misconceptions
 
-- **"The zither is one instrument."** It is a class; modern usage usually means the concert or Alpine zither.
-- **"The zheng is not a zither."** In HS it is a board zither, and English often calls it a Chinese zither; the boundary is bridges and tradition.
-- **"The zither only plays folk tunes."** There are salon solos and contemporary works.
+- "The zither is one instrument." It is a class; modern usage usually means the concert or Alpine zither.
+- "The zheng is not a zither." In HS it is a board zither, and English often calls it a Chinese zither; the boundary is bridges and tradition.
+- "The zither only plays folk tunes." There are salon solos and contemporary works.
 
 ## Three things to take away
 
-1. **Zither is a class name**: a flat body, strings parallel to the soundboard, no separate neck.
-2. **Two string groups**: the left hand stops melody, the right hand plucks open accompaniment.
-3. **Boundaries follow structure**: zheng, guqin, yangqin and piano all fall under board zithers; whether we call them zithers is a matter of habit.
+1. Zither is a class name: a flat body, strings parallel to the soundboard, no separate neck.
+2. Two string groups: the left hand stops melody, the right hand plucks open accompaniment.
+3. Boundaries follow structure: zheng, guqin, yangqin and piano all fall under board zithers; whether we call them zithers is a matter of habit.
 :::

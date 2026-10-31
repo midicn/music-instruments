@@ -46,10 +46,10 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 木管（单簧管族 · 低音支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，低音单簧管不在其中 |
 
-> ⚠️ **一个概念上的要点**：同是**降 B 调**乐器，[[instrument:clarinet|单簧管]]记谱比实音高**大二度**，
-> 低音单簧管记谱比实音高**大九度**（= 一个八度 + 大二度）。
-> 换句话说，低音单簧管的记谱 = **单簧管的记谱再往上一整个八度**。
-> 这个"再多一个八度"是刻意的：**让演奏者读到的谱面永远落在单簧管的常用谱区**，
+> ⚠️ **一个概念上的要点**：同是**降 B 调**乐器，[[instrument:clarinet|单簧管]]记谱比实音高大二度，
+> 低音单簧管记谱比实音高大九度（= 一个八度 + 大二度）。
+> 也就是说，低音单簧管的记谱 = 单簧管的记谱再往上一整个八度。
+> 这个"再多一个八度"是刻意的：让演奏者读到的谱面永远落在单簧管的常用谱区，
 > 于是同一份指法表、同一套肌肉记忆都还能用。
 
 ## 结构：折返一次的长管
@@ -94,11 +94,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **折返一次**（不是巴松那样的 U 形对折）。所以它的外形是"一根长管 + 一个回转"，
-   而不是巴松那样"两根平行管 + 顶部 S 管"。**折返的段数直接反映管长。**
-2. **喇叭口朝上外张**。这与单簧管的朝下喇叭不同 —— 低音单簧管的喇叭口向上，
+1. 折返一次（不是巴松那样的 U 形对折）。所以它的外形是"一根长管 + 一个回转"，
+   而不是巴松那样"两根平行管 + 顶部 S 管"。折返的段数直接反映管长。
+2. 喇叭口朝上外张。这与单簧管的朝下喇叭不同 —— 低音单簧管的喇叭口向上，
    声音更容易投射出去（否则低频会被地面吸收）。
-3. **键距极宽**。管身长，音孔间距大，所以它有一套**额外的联动键**，
+3. 键距极宽。管身长，音孔间距大，所以它有一套额外的联动键，
    让演奏者的手不必真的够到每一个孔。
 
 ## 记谱：为什么是"大九度"
@@ -128,13 +128,13 @@ updated: 2026-09-26
 </svg>
 ```
 
-**移调记谱的目的，在低音单簧管身上最清楚**：
+移调记谱的目的，在低音单簧管身上最清楚：
 
-- 演奏者读到的谱面（E♭3–G6）恰好是**单簧管的常用谱区**；
-- 所以同一套指法、同一套视谱习惯**原样可用**；
-- 代价是：**听者听到的音比谱面低一个大九度** —— 读谱的人必须时刻记着这件事。
+- 演奏者读到的谱面（E♭3–G6）恰好是单簧管的常用谱区；
+- 所以同一套指法、同一套视谱习惯原样可用；
+- 代价是：听者听到的音比谱面低一个大九度 —— 读谱的人必须时刻记着这件事。
 
-这也是木管移调记谱的通用逻辑：**统一的是手指，不是声音。**
+这也是木管移调记谱的通用逻辑：统一的是手指，不是声音。
 同类还有[[instrument:piccolo|短笛]]（低八度记谱）与[[instrument:english-horn|英国管]]（高五度记谱）。
 
 ## 音域
@@ -143,37 +143,37 @@ updated: 2026-09-26
 {"range":"D♭2–F5","written":"E♭3–G6","common":"D♭2–B♭4","caption":"低音单簧管的记谱音域与实音音域","caption_en":"The bass clarinet: notated range above, sounding range below","note":"⚠️ 低音单簧管是降 B 调移调乐器 —— 记谱比实音高大九度（一个八度 + 大二度）。谱面写 E♭3–G6，实际出声 D♭2–F5。低音可加键下探至 C2。"}
 ```
 
-- **实音 D♭2–F5**，恰好覆盖了单簧管音域的下方一整段。
-- **常用区 D♭2–B♭4**：它主要在低音区工作 —— 这正是它存在的理由。
-- **高音区（C5 以上）** 虽然能吹，但音色会变得像"更粗的单簧管"，用得少。
+- 实音 D♭2–F5，恰好覆盖了单簧管音域的下方一整段。
+- 常用区 D♭2–B♭4：它主要在低音区工作 —— 这正是它存在的理由。
+- 高音区（C5 以上） 虽然能吹，但音色会变得像"更粗的单簧管"，用得少。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **暗、厚、带一点"沙"**。低音区尤其明显，像在单簧管的声音外面包了一层。
-2. **它仍然是单簧管**。因为管形没变，三个音区的**关系**与标准单簧管一致 ——
+1. 暗、厚、带一点"沙"。低音区尤其明显，像在单簧管的声音外面包了一层。
+2. 它仍然是单簧管。因为管形没变，三个音区的关系与标准单簧管一致 ——
    只是整体下移，并因为管子长而变得更"缓"。
-3. **低音区极有分量**。这一段是管弦乐里给低音木管"加底"的常用手段。
-4. **高音区会"跳出来"**。一旦上到 C5 以上，它就不再是背景，而是**一件独奏乐器** ——
+3. 低音区极有分量。这一段是管弦乐里给低音木管"加底"的常用手段。
+4. 高音区会"跳出来"。一旦上到 C5 以上，它就不再是背景，而是一件独奏乐器 ——
    爵士里那种"低沉的独白"正是用这一段。
 
 ```audiolab
 {"type":"instrument","gm":"Clarinet","synth":"reed","phrase":["D♭2","A♭2","D♭3","A♭3","D♭4"],"label":"低音单簧管的低音区：实音 D♭2 到 D♭4","label_en":"The bass clarinet's low register — sounding D♭2 up to D♭4","hint":"注意低音区的厚度与「沙」—— 通用音色表里没有低音单簧管，这里借单簧管音色下探近似","hint_en":"Hear the thickness and grain of the bottom. General MIDI has no bass clarinet, so a clarinet sample is taken down as a stand-in."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）里**没有低音单簧管**。
-> 上面播放的是**单簧管**音色，移到它的低音区 —— 只能提示音区，不能替代真实音色。
+> ⚠️ 关于试听：通用音色表（General MIDI）里没有低音单簧管。
+> 上面播放的是单簧管音色，移到它的低音区 —— 只能提示音区，不能替代真实音色。
 
 ## 演奏技法
 
 指法与[[instrument:clarinet|单簧管]]同源，但有三处必须重学：
 
-- **指距与联动键**。管身长、音孔远，所以它有一批额外的联动键；
+- 指距与联动键。管身长、音孔远，所以它有一批额外的联动键；
   初上手时"手指够不到"是常事。
-- **持握方式**。它靠一根**钉在管身上的支架（peg）**立在地上，或挂在颈带上；
+- 持握方式。它靠一根钉在管身上的支架（peg）立在地上，或挂在颈带上；
   双手只负责按键。
-- **气压需求低但气量需求大**。管粗管长，需要持续的气流才能撑住低音。
+- 气压需求低但气量需求大。管粗管长，需要持续的气流才能撑住低音。
 
 ## 家族与近亲
 
@@ -184,9 +184,9 @@ updated: 2026-09-26
 | **低音单簧管** | B♭ | 记谱比实音**高大九度** | **圆柱**（折返一次） | 暗、厚、低 |
 | [[instrument:bassoon\|巴松]] | C | 同音 | **圆锥**（U 形对折） | 木管组的低音 |
 
-**这张表里最值得比的一对是低音单簧管与巴松**：两者都在低音区工作，但
-**一个圆柱、一个圆锥** —— 于是它们的低音"质感"完全不同：
-低音单簧管是**柔顺而绵密**的，巴松是**有木质感与颗粒**的。
+这张表里最值得比的一对是低音单簧管与巴松：两者都在低音区工作，但
+一个圆柱、一个圆锥 —— 于是它们的低音"质感"完全不同：
+低音单簧管是柔顺而绵密的，巴松是有木质感与颗粒的。
 在管弦乐里，这正是它们分工的依据。
 
 ## 历史演变
@@ -201,23 +201,24 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"低音单簧管就是大号单簧管，吹法一样。"** 指法逻辑一样，但**指距、气压、持握**都不同；
+- "低音单簧管就是大号单簧管，吹法一样。" 指法逻辑一样，但指距、气压、持握都不同；
   它需要单独练习。
-- **"它和巴松是同类低音乐器。"** 管形不同：低音单簧管是**圆柱管**、巴松是**圆锥管**，
+- "它和巴松是同类低音乐器。" 管形不同：低音单簧管是圆柱管、巴松是圆锥管，
   所以低音质感不同 —— 一个是绵密的，一个是木质颗粒的。
-- **"记谱高九度，说明是高音乐器。"** 记谱方向与音区无关：
-  它**实音很低**，谱面高只是为了让演奏者读谱方便。
-- **"低音单簧管只有低音。"** 它的高音区（C5 以上）音色会突然"跳"出来 ——
+- "记谱高九度，说明是高音乐器。" 记谱方向与音区无关：
+  它实音很低，谱面高只是为了让演奏者读谱方便。
+- "低音单簧管只有低音。" 它的高音区（C5 以上）音色会突然"跳"出来 ——
   爵士与现代作品大量使用这一段，用法与低音区完全不同。
-- **"通用音色表里有它。"** General MIDI 里**没有**低音单簧管，只能借单簧管近似（本页试听件即如此）。
+- "通用音色表里有它。" General MIDI 里没有低音单簧管，只能借单簧管近似（试听件即如此）。
 
 ## 下一步
 
 单簧管族的三支到这里就齐了。想收拢"管形决定音色"这条线，最值得对照的是
-[[instrument:bassoon|巴松]] —— 同是低音木管，却是**圆锥管 + 双簧 + U 形对折**。
+[[instrument:bassoon|巴松]] —— 同是低音木管，却是圆锥管 + 双簧 + U 形对折。
 
 想看另一端的极端，就回到 [[instrument:e-flat-clarinet|高音单簧管]]：
 同族、同指法，音高与体量却完全相反。
+
 :::
 
 ::: en
@@ -236,9 +237,9 @@ plus a major second.
 | **Bayin** | Not applicable — a Chinese system; the bass clarinet is outside it |
 
 > ⚠️ **One conceptual point**: both are **in B♭**, yet the [[instrument:clarinet|clarinet]] is written a
-> **major second** above sounding while the bass clarinet is written a **major ninth** above (= an octave
+> major second above sounding while the bass clarinet is written a major ninth above (= an octave
 > plus a major second). In other words, the bass clarinet's notation is **the clarinet's notation raised a
-> whole octave**. That extra octave is deliberate: **it keeps the page inside the register a clarinettist
+> whole octave. That extra octave is deliberate: it keeps the page inside the register a clarinettist
 > already reads**, so one fingering chart and one set of muscle memories still work.
 
 ## Structure: a tube folded once
@@ -283,11 +284,11 @@ plus a major second.
 
 Three points:
 
-1. **Folded once**, not the bassoon's U. So its shape is "one long tube plus a turnaround" rather than two
-   parallel bores with a crook on top. **The number of folds tells you the tube length.**
-2. **The bell flares upward**, unlike a clarinet's downward bell — otherwise the low frequencies would be
+1. Folded once, not the bassoon's U. So its shape is "one long tube plus a turnaround" rather than two
+   parallel bores with a crook on top. The number of folds tells you the tube length.
+2. The bell flares upward, unlike a clarinet's downward bell — otherwise the low frequencies would be
    absorbed by the floor instead of projecting.
-3. **Very wide key spacing.** A long body puts the holes far apart, so it carries a set of **extra linked
+3. Very wide key spacing. A long body puts the holes far apart, so it carries a set of **extra linked
    keys** so the hand need not actually reach every hole.
 
 ## Notation: why a major ninth
@@ -317,13 +318,13 @@ Three points:
 </svg>
 ```
 
-**Nowhere is the purpose of transposing notation clearer**:
+Nowhere is the purpose of transposing notation clearer:
 
 - the page the player reads (E♭3–G6) is exactly the clarinet's comfortable register;
 - so one fingering chart and one reading habit transfer unchanged;
-- the price is that **the listener hears a major ninth lower** — and the reader must never forget it.
+- the price is that the listener hears a major ninth lower — and the reader must never forget it.
 
-That is the standard logic of woodwind transposition: **it unifies the fingers, not the sound.** The same
+That is the standard logic of woodwind transposition: it unifies the fingers, not the sound. The same
 applies to the [[instrument:piccolo|piccolo]] (written an octave low) and the
 [[instrument:english-horn|English horn]] (written a fifth high).
 
@@ -333,37 +334,37 @@ applies to the [[instrument:piccolo|piccolo]] (written an octave low) and the
 {"range":"D♭2–F5","written":"E♭3–G6","common":"D♭2–B♭4","caption":"低音单簧管的记谱音域与实音音域","caption_en":"The bass clarinet: notated range above, sounding range below","note":"⚠️ 低音单簧管是降 B 调移调乐器 —— 记谱比实音高大九度（一个八度 + 大二度）。谱面写 E♭3–G6，实际出声 D♭2–F5。低音可加键下探至 C2。"}
 ```
 
-- **Sounding D♭2–F5**, covering the whole lower stretch of the clarinet's range.
-- **The working register is D♭2–B♭4**: it works mainly low, which is why it exists.
-- **Above C5** it can play, but the colour turns into "a fatter clarinet" and it is used sparingly.
+- Sounding D♭2–F5, covering the whole lower stretch of the clarinet's range.
+- The working register is D♭2–B♭4: it works mainly low, which is why it exists.
+- Above C5 it can play, but the colour turns into "a fatter clarinet" and it is used sparingly.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Dark, thick, faintly grainy**, most obviously low down — as if the clarinet's tone were wrapped in
+1. Dark, thick, faintly grainy, most obviously low down — as if the clarinet's tone were wrapped in
    something.
-2. **Still a clarinet.** The bore is unchanged, so the **relationship** between the three registers matches
+2. Still a clarinet. The bore is unchanged, so the relationship between the three registers matches
    the standard clarinet — shifted down and, being longer, made gentler.
-3. **Enormous weight at the bottom**, the standard way to underpin low woodwind writing.
-4. **Above C5 it steps forward**: no longer background but **a solo instrument** — the low monologue of
+3. Enormous weight at the bottom, the standard way to underpin low woodwind writing.
+4. Above C5 it steps forward: no longer background but a solo instrument — the low monologue of
    jazz lives in this register.
 
 ```audiolab
 {"type":"instrument","gm":"Clarinet","synth":"reed","phrase":["D♭2","A♭2","D♭3","A♭3","D♭4"],"label":"低音单簧管的低音区：实音 D♭2 到 D♭4","label_en":"The bass clarinet's low register — sounding D♭2 up to D♭4","hint":"注意低音区的厚度与「沙」—— 通用音色表里没有低音单簧管，这里借单簧管音色下探近似","hint_en":"Hear the thickness and grain of the bottom. General MIDI has no bass clarinet, so a clarinet sample is taken down as a stand-in."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI set has **no bass clarinet**. The sound above is an **ordinary
+> ⚠️ On the audio: the General MIDI set has no bass clarinet. The sound above is an **ordinary
 > clarinet** sample moved down — a hint of register, not the real colour.
 
 ## Playing techniques
 
 The fingerings come from the [[instrument:clarinet|clarinet]], but three things must be relearned:
 
-- **Spacing and linked keys.** A long body places the holes far apart, hence the extra keys; "my fingers
+- Spacing and linked keys. A long body places the holes far apart, hence the extra keys; "my fingers
   will not reach" is the newcomer's standard complaint.
-- **How it is held.** It stands on a **peg** or hangs from a neck strap, the hands only working the keys.
-- **Little pressure but much air**: a wide, long tube needs a steady supply to hold the low notes.
+- How it is held. It stands on a peg or hangs from a neck strap, the hands only working the keys.
+- Little pressure but much air: a wide, long tube needs a steady supply to hold the low notes.
 
 ## The family
 
@@ -374,9 +375,9 @@ The fingerings come from the [[instrument:clarinet|clarinet]], but three things 
 | **Bass clarinet** | B♭ | written a **major ninth above** sounding | **cylindrical**, folded once | dark, thick, low |
 | [[instrument:bassoon\|Bassoon]] | C | at pitch | **conical**, folded in a U | the woodwind bass |
 
-**The pair worth comparing here is the bass clarinet and the bassoon**: both work low, but
-**one is cylindrical and the other conical** — so their low registers feel entirely different.
-The bass clarinet is **supple and close-grained**; the bassoon is **woody and grainy**. That difference is
+The pair worth comparing here is the bass clarinet and the bassoon: both work low, but
+one is cylindrical and the other conical — so their low registers feel entirely different.
+The bass clarinet is supple and close-grained; the bassoon is woody and grainy. That difference is
 exactly how orchestras divide the work between them.
 
 ## History
@@ -391,16 +392,16 @@ exactly how orchestras divide the work between them.
 
 ## Common misconceptions
 
-- **"A bass clarinet is a big clarinet played the same way."** Same fingering logic, but **spacing, air
+- "A bass clarinet is a big clarinet played the same way." Same fingering logic, but **spacing, air
   pressure and how it is held** all differ; it needs its own practice.
-- **"It and the bassoon are the same sort of low instrument."** Different bores: the bass clarinet is
-  **cylindrical**, the bassoon **conical** — so one low register is close-grained and the other woody and
+- "It and the bassoon are the same sort of low instrument." Different bores: the bass clarinet is
+  cylindrical, the bassoon conical — so one low register is close-grained and the other woody and
   grainy.
-- **"Written a ninth high means it is a high instrument."** Notation has nothing to do with register: its
-  **sound is low**, and the page is high only for the reader's convenience.
-- **"It only plays low."** Above C5 its colour suddenly steps forward — jazz and contemporary music use that
+- "Written a ninth high means it is a high instrument." Notation has nothing to do with register: its
+  sound is low, and the page is high only for the reader's convenience.
+- "It only plays low." Above C5 its colour suddenly steps forward — jazz and contemporary music use that
   register constantly, and quite differently from the bottom.
-- **"General MIDI has one."** It does not; a clarinet sample is the only stand-in (as on this page).
+- "General MIDI has one." It does not; a clarinet sample is the only stand-in (as on this page).
 
 ## Next
 

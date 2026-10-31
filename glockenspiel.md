@@ -33,26 +33,17 @@ updated: 2026-09-26
 ---
 
 ::: zh
-钟琴是"琴条一族"里最亮的一件：**钢条**。它没有长长的共鸣管，
-只有一层**极薄极硬的钢** —— 于是得到了打击乐里最通透、最亮的音色。
 
-它在管弦乐里的角色很单纯：**在最上面加一层光。**
+## 一层薄钢
+
+钟琴的全部结构就是一片片钢条：薄、硬，架在支架上，下面没有长长的共鸣管。马林巴靠管子把声音养厚，钟琴不给声音留这条路。能量全被推到高频，于是它成了打击乐里最亮、最通透的一件。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **体鸣**（Idiophone）· **有音高** |
-| **次级类型** | 钢条按音高排列 · 部分形制加短共鸣管或共鸣箱 · 用硬头槌击奏 |
-| **所属族** | 西洋 · 打击（体鸣·琴条族的金属支系） |
-| **八音** | 不适用 —— 周代八音是中国乐器的体系，钟琴不在其中 |
-
-> ⚠️ **一个概念上的要点**：**"钟琴"与"钢片琴"最容易混，但它们是两件不同的乐器。**
-> - **钟琴（glockenspiel）**：**击奏**的钢条，演奏者用手拿槌敲 —— 属打击乐的常规编制。
-> - **[[instrument:celesta|钢片琴]]（celesta）**：**键盘**击奏钢片，外形像一架小钢琴。
->
-> 两者中文名字里都有"琴"，音色也有点像（都亮），但**演奏方式完全不同** ——
-> 一个是打击乐手，一个是键盘手。**名字相近不等于同类。**
-
-## 结构：极薄极硬的钢条
+| HS 分类 | 体鸣 · 有音高 |
+| 次级类型 | 钢条按音高排列 · 用硬头槌击奏 · 部分形制加短共鸣管 |
+| 所属族 | 西洋 · 打击（体鸣 · 琴条族的金属支系） |
+| 八音 | 不适用 —— 周代八音是中国乐器的体系，钟琴不在其中 |
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="钟琴的结构：按音高排列的钢条、下方的支撑架与硬头琴槌">
@@ -91,110 +82,48 @@ updated: 2026-09-26
 </svg>
 ```
 
-三处要点：
+钢条越短音越高，整排钢条都做得窄小，槌头也跟着小。极薄的钢振动时**高次泛音**丰富、基频相对弱，这就是它听起来清而冷的原因；马林巴的软木条正相反，基频强，所以暖。它的构造几乎没有余地：没有踏板，没有止音装置，手上只有两根槌。
 
-1. **钢条极薄极硬**。高次泛音丰富、基频相对弱 → 音色"亮而清"，
-   与马林巴的"暖而厚"正好相反。
-2. **没有长共鸣管**。这既是它音色"不暖"的原因，也是它能做得轻便、可以拿着走的原因。
-3. **两种形制**：架式（平放）与**里拉式**（lyra，立着拿）—— 后者行进乐队与站立演奏常用。
-
-## 音域
+## 音域在极高处
 
 ```range
 {"range":"G5–C8","common":"G5–G7","caption":"钟琴的音域","caption_en":"Glockenspiel range","note":"钟琴属体鸣的有音高乐器。常见音域 G5–C8（两至三组），比木琴还高。音域极高是它的名片，也是它只能「加亮」不能「承担旋律」的原因。"}
 ```
 
-- **G5–C8**，几乎全在极高音区 —— 比[[instrument:xylophone|木琴]]还高。
-- **常用区 G5–G7**：管弦乐里绝大多数钟琴声部都在这里。
-- **它不做低音、不做和声**。它的功能就是**在上面加一层亮光**，
-  或者与长笛、小提琴等高音乐器叠在一起加强轮廓。
+G5 到 C8，比[[instrument:xylophone|木琴]]还高。常用区 G5 到 G7，管弦乐里绝大多数钟琴声部都在这里。它不做低音，也不做和声，音区决定了它只能在最上面工作。
 
-## 音色与听辨
+## 它加的是光
 
-四条线索：
+管弦乐里写钟琴，多半让它和长笛、小提琴、竖琴叠在同一条线上，把轮廓描亮。单独听它的旋律会觉得单薄，放进乐队里正好 —— 它的价值在**叠加**，不在独奏。
 
-1. **极亮、通透、略带"金属的冷"**。它的高频成分在打击乐里最多。
-2. **穿透力极强**。与[[instrument:triangle|三角铁]]同理 ——
-   高频衰减小，能在整个乐队里被听见。
-3. **余音适中**。比马林巴短，但不像木琴那么干。
-4. **换槌改变很多**。硬槌 → 尖锐；软槌 → 圆润但仍亮。
+这也是它音域窄却不可缺的原因。一整块音响缺一层高频，加一件钟琴就补上了；换成别的乐器都太厚。
+
+## 别和钢片琴弄混
+
+名字里都带琴，声音都亮，于是钟琴和[[instrument:celesta|钢片琴]]常被当成同一件。演奏方式完全不同：钟琴是打击乐手拿槌敲钢条，钢片琴是键盘手按键，由机械去敲钢片。一个是打击乐声部，一个是键盘声部。
+
+另有一种里拉式（lyra），钢条竖着装、用肩带挂在身上，行进乐队站着演奏，技法不变。
+
+莫扎特《魔笛》里用的是键盘式的钟琴，不是今天乐队里架着的那一种。十九世纪钢条取代小钟之后，钟琴才定型成现在的样子。
 
 ```audiolab
 {"type":"instrument","gm":"Glockenspiel","synth":"metal","phrase":["C6","E6","G6","C7","E7","G7"],"label":"钟琴的常用区：C6 到 G7","label_en":"The glockenspiel's working register — C6 up to G7","hint":"注意音色的通透与「冷」 —— 所有能量都在高频，所以它极亮也极穿透","hint_en":"Hear the transparent, cool brightness — all the energy is high, so it cuts through anything."}
 ```
 
-## 演奏技法
-
-- **硬头槌**为默认（塑料、橡胶或木）。换软头会明显改变音色。
-- **双手各一槌**，主要奏单音与快速音型；四槌在钟琴上较少用。
-- **滚奏**可得到持续的亮线。
-- **里拉式**（站立演奏）时用肩带固定，技法与架式相同。
-
-## 家族与近亲
-
-| 乐器 | 振动体 | 演奏方式 | 音域 | 音色 |
-|---|---|---|---|---|
-| [[instrument:xylophone\|木琴]] | 硬木条 | 槌击 | F4–C8 | 干、脆 |
-| [[instrument:marimba\|马林巴]] | 软木条 | 槌击 | C2–C7 | 暖、厚 |
-| [[instrument:vibraphone\|颤音琴]] | 铝条 | 槌击 | F3–F6 | 金属、闪烁 |
-| **钟琴** | **钢条** | **槌击** | **G5–C8** | **极亮、通透** |
-| [[instrument:celesta\|钢片琴]] | 钢片 | **键盘** | C3–C8 | 玻璃般 |
-| [[instrument:tubular-bells\|管钟]] | 金属管 | 槌击 | C4–F6 | 钟声、极长余音 |
-
-**这张表把"琴条一族"的全貌摆齐了** ——
-六件乐器，差别只在**振动体材料 / 形状 / 演奏方式**三项。
-这也是本站"体鸣 + 有音高"的全部常规成员。
-
-## 历史演变
-
-| 时期 | 状态 |
-|---|---|
-| 中世纪—文艺复兴 | 欧洲已有小型钟组（如钟琴类乐器）用于钟楼与仪典 |
-| 17—18 世纪 | 键盘式的钟琴（carillon）与击奏式的小钟琴并存；莫扎特《魔笛》用过键盘钟琴 |
-| 19 世纪 | 钢条取代小钟成为主流；成为管弦乐与管乐团的标准打击乐器 |
-| 20 世纪 | 用法从"钟声模仿"扩展到"加亮音色"；里拉式在行进乐队普及 |
-| 20 世纪后期至今 | 管弦乐、管乐团、行进乐队、流行与影视配乐通用 |
-
-## 常见误解
-
-- **"钟琴与钢片琴是同一件乐器。"** 两者**演奏方式完全不同**（槌击 vs 键盘），
-  音域、形制与编制归属也不同。名字相近只是巧合。
-- **"钟琴只是小一号的木琴。"** 材料（钢 vs 木）、音域（G5–C8 vs F4–C8）与音色都不同。
-- **"它只能模仿钟声。"** 它更多用于**加亮**与**勾轮廓** ——
-  与长笛、小提琴、竖琴叠加是常见写法。
-- **"钟琴只能站着拿。"** 架式与里拉式两种形制都存在，各有使用场合。
-- **"它的音域窄所以不重要。"** 它的功能不是"演奏主题"，而是"给整块音响加一层光"——
-  这个功能在配器里不可或缺。
-
-## 下一步
-
-金属一族还剩 [[instrument:tubular-bells|管钟]]（模拟真正的钟声）与
-[[instrument:celesta|钢片琴]]（键盘击奏的钢片）。
-再往外是 [[instrument:gong|锣]] —— 同样金属整体振动，但无音高、余音极长。
 :::
 
 ::: en
-The glockenspiel is the brightest member of the bar family: **steel bars**. With no long resonators, only a
-layer of **very thin, very hard steel**, it produces percussion's most transparent, brightest tone.
 
-Its role in an orchestra is simple: **add a layer of light at the very top.**
+## A layer of thin steel
+
+A glockenspiel is a row of steel bars: thin, hard, sitting on a frame, with no long resonators underneath. A marimba uses its tubes to fatten the sound. The glockenspiel leaves that route closed, pushes the energy high, and ends up the brightest, most transparent thing in percussion.
 
 | Classification | Value |
 |---|---|
-| **HS class** | **Idiophone** · **pitched** |
-| **Sub-type** | Steel bars arranged by pitch · some forms add short resonators or a soundbox · struck with hard mallets |
-| **Family** | Western · Percussion (idiophone; metal branch of the bar family) |
-| **Bayin** | Not applicable — a Chinese system; the glockenspiel is outside it |
-
-> ⚠️ **One conceptual point**: **the glockenspiel and the celesta are most often confused, but they are
-> different instruments.**
-> - **Glockenspiel**: **struck** steel bars, played by a percussionist with mallets.
-> - **[[instrument:celesta|Celesta]]**: steel plates struck by a **keyboard**, looking like a small piano.
->
-> Both Chinese names end in "琴" and both sound bright, but the **playing method is entirely different** —
-> one is a percussionist's instrument, the other a keyboard player's. **Similar names are not the same class.**
-
-## Structure: very thin, very hard steel
+| HS class | Idiophone · pitched |
+| Sub-type | Steel bars in pitch order · hard mallets · some forms add short resonators |
+| Family | Western · Percussion (idiophone, metal branch of the bar family) |
+| Bayin | Not applicable — a Chinese system |
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Glockenspiel structure: steel bars arranged by pitch on a stand, with hard mallets">
@@ -233,85 +162,32 @@ Its role in an orchestra is simple: **add a layer of light at the very top.**
 </svg>
 ```
 
-Three points:
+Shorter bars sound higher, so the whole set is small and narrow, and the mallets are small with it. Very thin steel carries strong **upper partials** and a weak fundamental, which is why it sounds clear and cold; a marimba's soft wooden bars do the opposite and sound warm. There is almost nothing else to the instrument: no pedal, no damper, two sticks in the hands.
 
-1. **Very thin, very hard steel**. Rich upper partials with a relatively weak fundamental → bright and clear,
-   the opposite of a marimba's warm thickness.
-2. **No long resonators.** That is why it is not warm — and why it can be light enough to carry.
-3. **Two forms**: stand-mounted (flat) and **lyra** (held upright) — the latter for marching and standing
-   performance.
-
-## Range
+## Up where the air is thin
 
 ```range
 {"range":"G5–C8","common":"G5–G7","caption":"钟琴的音域","caption_en":"Glockenspiel range","note":"钟琴属体鸣的有音高乐器。常见音域 G5–C8（两至三组），比木琴还高。音域极高是它的名片，也是它只能「加亮」不能「承担旋律」的原因。"}
 ```
 
-- **G5–C8**, almost entirely in the very high register — above the [[instrument:xylophone|xylophone]].
-- **The working register is G5–G7**; nearly all orchestral writing sits there.
-- **It does not do bass or harmony.** Its function is to **add a layer of light above**, or to reinforce the
-  outline when doubled with flutes and violins.
+G5 to C8, above even the [[instrument:xylophone|xylophone]]. Orchestras work almost entirely between G5 and G7. It plays no bass and no harmony; the register keeps it at the top of the texture.
 
-## Timbre, and how to hear it
+## It adds light, not melody
 
-Four cues:
+Orchestral writing for glockenspiel usually doubles it with flutes, violins or harp, sharpening an outline that is already there. Heard alone, a glockenspiel tune sounds thin. Inside a band it is exactly right, because its value lies in **doubling**, not in soloing.
 
-1. **Extremely bright, transparent, slightly cold.** It carries the most high-frequency content in
-   percussion.
-2. **Very penetrating** — the same reason as the [[instrument:triangle|triangle]]: high frequencies decay
-   slowly, so it is heard through a whole band.
-3. **A moderate tail**: longer than a xylophone's, shorter than a marimba's.
-4. **Mallet choice changes a lot**: hard is piercing, soft is rounder but still bright.
+That is also why a narrow range does not make it dispensable. When a mass of sound lacks a high layer, one glockenspiel supplies it, and any substitute would simply be too thick.
+
+## Not the celesta
+
+Both Chinese names end in 琴, both sound bright, so the glockenspiel and the [[instrument:celesta|celesta]] get treated as one instrument. They are played completely differently: a percussionist strikes steel bars with mallets; a keyboard player presses keys and machinery strikes steel plates. One belongs to the percussion section, the other to the keyboard.
+
+A lyra form also exists, the bars set upright and carried on a strap for marching bands, played standing with the same technique.
+
+Mozart's Magic Flute calls for a keyboard glockenspiel, not the framed instrument in an orchestra today. The modern form settled in the nineteenth century, once steel bars had replaced small bells.
 
 ```audiolab
 {"type":"instrument","gm":"Glockenspiel","synth":"metal","phrase":["C6","E6","G6","C7","E7","G7"],"label":"钟琴的常用区：C6 到 G7","label_en":"The glockenspiel's working register — C6 up to G7","hint":"注意音色的通透与「冷」—— 所有能量都在高频，所以它极亮也极穿透","hint_en":"Hear the transparent, cool brightness — all the energy is high, so it cuts through anything."}
 ```
 
-## Playing techniques
-
-- **Hard heads** are the default (plastic, rubber or wood); soft heads change the colour noticeably.
-- **One mallet per hand**, mainly single notes and fast figures; four mallets are rare here.
-- **Rolls** give a continuous bright line.
-- **The lyra form** is carried on a strap; the technique is the same.
-
-## The family
-
-| Instrument | Vibrating body | Played by | Range | Colour |
-|---|---|---|---|---|
-| [[instrument:xylophone\|Xylophone]] | hard wooden bars | mallets | F4–C8 | dry, brittle |
-| [[instrument:marimba\|Marimba]] | softer wooden bars | mallets | C2–C7 | warm, thick |
-| [[instrument:vibraphone\|Vibraphone]] | aluminium bars | mallets | F3–F6 | metallic, shimmering |
-| **Glockenspiel** | **steel bars** | **mallets** | **G5–C8** | **very bright, transparent** |
-| [[instrument:celesta\|Celesta]] | steel plates | **keyboard** | C3–C8 | glassy |
-| [[instrument:tubular-bells\|Tubular bells]] | metal tubes | mallets | C4–F6 | bell-like, very long tail |
-
-**This table lays out the whole bar family** — six instruments differing only in **material, shape and how
-they are played**. Together they are the entire standard membership of "idiophone + pitched".
-
-## History
-
-| Period | State |
-|---|---|
-| Medieval–Renaissance | small bell sets exist in Europe for towers and ceremony |
-| 17th–18th c. | keyboard carillons and small struck bell instruments coexist; Mozart uses a keyboard glockenspiel in **The Magic Flute** |
-| 19th c. | steel bars replace small bells and become standard orchestral and band percussion |
-| 20th c. | its use widens from "imitating bells" to "brightening colour"; the lyra form spreads in marching bands |
-| Late 20th c. onward | universal in orchestra, band, marching band, pop and film |
-
-## Common misconceptions
-
-- **"The glockenspiel and the celesta are the same instrument."** Their **playing methods differ entirely**
-  (mallets versus keyboard), as do range, form and scoring — the similar names are coincidence.
-- **"It is a small xylophone."** Different material (steel versus wood), range (G5–C8 versus F4–C8) and colour.
-- **"It only imitates bells."** It is used mainly to **brighten** and **outline** — doubling flutes, violins
-  and harps is standard practice.
-- **"It must be held standing."** Both stand-mounted and lyra forms exist.
-- **"A narrow range makes it unimportant."** Its function is not to play themes but to **lay light over the
-  whole texture** — indispensable in scoring.
-
-## Next
-
-Two metal instruments remain: [[instrument:tubular-bells|tubular bells]] (imitating real bells) and the
-[[instrument:celesta|celesta]] (keyboard-struck steel plates). Beyond them lies the
-[[instrument:gong|gong]] — also a metal body vibrating as a whole, but unpitched with an extremely long tail.
 :::

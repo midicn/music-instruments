@@ -37,15 +37,15 @@ updated: 2026-09-26
 它与双簧管共用**全部三个声学要素**：**双簧 + 圆锥管 + 无键的指孔** ——
 唯一的大差别是：**它把所有东西都做得更大、更粗、更响。**
 
-它存在的理由很实际：**在没有扩音设备的时代，户外与仪典场合需要一件能盖过人群的乐器。**
+它存在的理由很实际：在没有扩音设备的时代，户外与仪典场合需要一件能盖过人群的乐器。
 
-> ⚠️ **一个概念上的要点**：**"音量大"在早期乐器里不是缺点，而是功能定位。**
+> ⚠️ 一个概念上的要点："音量大"在早期乐器里不是缺点，而是功能定位。
 > - 现代音乐厅有建筑声学与扩音系统，所以乐器可以追求"细腻的音色"。
-> - 而文艺复兴的**户外场景**（游行 · 市场 · 塔楼 · 婚礼）没有这些条件 ——
->   乐器必须**靠自己把声音送到几十米外**。
+> - 而文艺复兴的户外场景（游行 · 市场 · 塔楼 · 婚礼）没有这些条件 ——
+>   乐器必须靠自己把声音送到几十米外。
 >
 > 所以肖姆管与[[instrument:recorder|竖笛]]的分工很像今天"小号 vs 小提琴"的分工：
-> **一个负责"传出去"，一个负责"听着好"。**
+> 一个负责"传出去"，一个负责"听着好"。
 > 理解这一点，才能理解为什么早期乐器里那些"粗糙"的声音并不是做得不好。
 
 | 分类 | 归属 |
@@ -93,11 +93,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **管径粗、哨片大**。这两条一起决定它的音量 ——
+1. 管径粗、哨片大。这两条一起决定它的音量 ——
    气流量大，所以声音能"送出去"。
-2. **哨座（簧仓）**。早期肖姆管的哨片常被装在一个木制的小腔里保护与固定 ——
+2. 哨座（簧仓）。早期肖姆管的哨片常被装在一个木制的小腔里保护与固定 ——
    这也影响了它的音色（与[[instrument:crumhorn|克鲁姆管]]把簧完全封住是同一思路的两个程度）。
-3. **基本无键**。指孔直接用手按，所以半音要靠**交叉指法**得到 ——
+3. 基本无键。指孔直接用手按，所以半音要靠交叉指法得到 ——
    这与现代双簧管的键系形成对照。
 
 ## 它与双簧管的关系
@@ -121,11 +121,11 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图给出的是一条通用规律**：
-**管径与哨片尺寸决定音量** ——
+这张图给出的是一条通用规律：
+管径与哨片尺寸决定音量 ——
 把管做细、哨做小，就得到室内乐器（双簧管）；
 把管做粗、哨做大，就得到户外乐器（肖姆管）。
-**"同一族乐器可以覆盖完全不同的使用场景"，靠的就是这两个尺寸。**
+"同一族乐器可以覆盖完全不同的使用场景"，靠的就是这两个尺寸。
 
 ## 音域
 
@@ -133,20 +133,20 @@ updated: 2026-09-26
 {"range":"C4–D6","common":"C4–A5","caption":"肖姆管的音域（以常见形制为例）","caption_en":"Shawm range (a typical instrument)","note":"肖姆管属气鸣乐器（双簧 + 圆锥管）。音域约 C4–D6，视形制与尺寸而定 —— 肖姆管有成套的不同大小（高音 · 中音 · 低音）。记谱即实音。"}
 ```
 
-- **约 C4–D6**（视形制），**成套制作** —— 与[[instrument:recorder|竖笛]]一样，
+- 约 C4–D6（视形制），成套制作 —— 与[[instrument:recorder|竖笛]]一样，
   同时有高音 · 中音 · 低音等不同尺寸，可组成合奏。
-- **常用区 C4–A5**。
-- **它的高音区很难控制**。管径粗 + 无键 → 高音需要很强的唇部控制与交叉指法。
+- 常用区 C4–A5。
+- 它的高音区很难控制。管径粗 + 无键 → 高音需要很强的唇部控制与交叉指法。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **响亮、尖锐、带"鼻音"**。它是文艺复兴乐器里最"穿透"的一件。
-2. **音色粗犷，泛音丰富**。不像双簧管那样集中 —— 粗管径让它的泛音更"散"。
-3. **音量动态不大**。它天生就响，很难做出细腻的弱奏 ——
+1. 响亮、尖锐、带"鼻音"。它是文艺复兴乐器里最"穿透"的一件。
+2. 音色粗犷，泛音丰富。不像双簧管那样集中 —— 粗管径让它的泛音更"散"。
+3. 音量动态不大。它天生就响，很难做出细腻的弱奏 ——
    这与它"户外乐器"的定位一致。
-4. **常与鼓、长号（萨克布特）等合奏**。文艺复兴的"高声部"组合里，
+4. 常与鼓、长号（萨克布特）等合奏。文艺复兴的"高声部"组合里，
    它常与打击乐一起构成热闹的外声部。
 
 ```audiolab
@@ -155,11 +155,11 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **无键 → 交叉指法**。半音靠"叉指"得到，音色会略闷 ——
+- 无键 → 交叉指法。半音靠"叉指"得到，音色会略闷 ——
   这是所有无键木管的共同问题。
-- **唇部控制要求高**。大哨片需要更强的唇部支撑，高音尤其困难。
-- **循环呼吸**在此类乐器上很常见（需要持续的外声部）。
-- **成套合奏**：不同尺寸的肖姆管按声部组合，与现代管乐团的思路类似。
+- 唇部控制要求高。大哨片需要更强的唇部支撑，高音尤其困难。
+- 循环呼吸在此类乐器上很常见（需要持续的外声部）。
+- 成套合奏：不同尺寸的肖姆管按声部组合，与现代管乐团的思路类似。
 
 ## 家族与近亲
 
@@ -171,9 +171,9 @@ updated: 2026-09-26
 | [[instrument:racket\|拉凯特管]] | 圆锥 · 折成柱 | 双簧 | 中 | 低音声部 |
 | [[instrument:recorder\|竖笛]] | 管 · 哨嘴 | **无簧** | 中 | 室内合奏 |
 
-**注意这一族在十五六世纪的"分工"**：
-**肖姆管 = 外声部（响）· 克鲁姆管与竖笛 = 内声部（柔）· 拉凯特管 = 低音**。
-这是一个**按音量配置的编制** —— 与现代管弦乐按音色配置的逻辑不同。
+注意这一族在十五六世纪的"分工"：
+肖姆管 = 外声部（响）· 克鲁姆管与竖笛 = 内声部（柔）· 拉凯特管 = 低音。
+这是一个按音量配置的编制 —— 与现代管弦乐按音色配置的逻辑不同。
 
 ## 历史演变
 
@@ -186,28 +186,29 @@ updated: 2026-09-26
 | 18 世纪 | 肖姆管基本退出专业使用；只在民间留存（如西班牙与地中海的 dulzaina 一类） |
 | 20 世纪 | 古乐运动复原并重新使用；也有当代制作者 |
 
-**它的演化方向极其清楚**：**为了"更细腻的音色"而把管做细、哨做小** ——
+它的演化方向极其清楚：为了"更细腻的音色"而把管做细、哨做小 ——
 也就是从"传得远"转向"听得好"。
-**当音乐厅取代了广场，乐器的设计目标就变了。**
+当音乐厅取代了广场，乐器的设计目标就变了。
 
 ## 常见误解
 
-- **"肖姆管是"粗糙的双簧管"。"** 它**不是做得不好的双簧管** ——
+- "肖姆管是"粗糙的双簧管"。" 它不是做得不好的双簧管 ——
   在它的使用场景（户外 · 仪典）里，它的设计目标就是"响"。
-- **"它有很多键。"** **基本无键**，半音靠交叉指法。
-- **"它只能吹响的乐句。"** 它有完整的成套乐器与合奏文献；
-  但**弱奏确实不是它的强项**。
-- **"双簧管是肖姆管的"改良版"，所以两者可以互换。"** 音响与用途都不同 ——
+- "它有很多键。" 基本无键，半音靠交叉指法。
+- "它只能吹响的乐句。" 它有完整的成套乐器与合奏文献；
+  但弱奏确实不是它的强项。
+- "双簧管是肖姆管的"改良版"，所以两者可以互换。" 音响与用途都不同 ——
   这与"[[instrument:recorder|竖笛]] vs [[instrument:flute|长笛]]"的关系类似。
-- **"它已经灭绝。"** 古乐运动让它复活；地中海地区的民间双簧管乐器（如 dulzaina）
+- "它已经灭绝。" 古乐运动让它复活；地中海地区的民间双簧管乐器（如 dulzaina）
   也被认为是它民间支系的延续。
 
 ## 下一步
 
-肖姆管的近亲有两件，都是"**同一个双簧原理的形制变体**"：
+肖姆管的近亲有两件，都是"同一个双簧原理的形制变体"：
 [[instrument:crumhorn|克鲁姆管]]（把簧封在帽里 → 音量骤减、音色变"嗡"）
 与 [[instrument:racket|拉凯特管]]（把管折成柱状 → 短小却能发低音）。
-三件放在一起，"**管身形状 = 音色与音区的旋钮**"这条规律就很清楚了。
+三件放在一起，"管身形状 = 音色与音区的旋钮"这条规律就很清楚了。
+
 :::
 
 ::: en
@@ -218,13 +219,13 @@ the only great difference being that **it makes everything bigger, thicker and l
 Its reason to exist is practical: **before amplification, outdoor and ceremonial music needed an instrument
 that could carry over a crowd.**
 
-> ⚠️ **One conceptual point**: **in early instruments, loudness is not a defect but a function.**
-> - A modern concert hall has architecture and amplification, so instruments can pursue **subtle colour**.
-> - Renaissance **outdoor settings** (processions, markets, towers, weddings) had none of that —
->   an instrument had to **project its own sound tens of metres**.
+> ⚠️ One conceptual point: in early instruments, loudness is not a defect but a function.
+> - A modern concert hall has architecture and amplification, so instruments can pursue subtle colour.
+> - Renaissance outdoor settings (processions, markets, towers, weddings) had none of that —
+>   an instrument had to project its own sound tens of metres.
 >
 > So the shawm and the [[instrument:recorder|recorder]] divide their work much as a trumpet and a violin do
-> today: **one is there to carry, the other to sound beautiful.**
+> today: one is there to carry, the other to sound beautiful.
 > Only with this in mind does the "roughness" of early instruments make sense as a design choice rather than
 > poor workmanship.
 
@@ -273,10 +274,10 @@ that could carry over a crowd.**
 
 Three points:
 
-1. **A wide bore and a large reed** together determine its volume: more air means sound that **carries**.
-2. **The pirouette** — a small wooden collar that holds and protects the reed (the same idea as the
+1. A wide bore and a large reed together determine its volume: more air means sound that carries.
+2. The pirouette — a small wooden collar that holds and protects the reed (the same idea as the
    [[instrument:crumhorn|crumhorn]]'s cap, to a lesser degree) — also colours the tone.
-3. **Essentially keyless**, so semitones come from **forked fingerings** — in contrast to the modern oboe's key
+3. Essentially keyless, so semitones come from forked fingerings — in contrast to the modern oboe's key
    system.
 
 ## Its relation to the oboe
@@ -300,9 +301,9 @@ Three points:
 </svg>
 ```
 
-**The general rule this shows**: **bore width and reed size determine volume** — thin the bore and shrink the
+The general rule this shows: bore width and reed size determine volume — thin the bore and shrink the
 reed and you get an indoor instrument (the oboe); thicken and enlarge them and you get an outdoor one (the
-shawm). **Two dimensions let one family cover entirely different settings.**
+shawm). Two dimensions let one family cover entirely different settings.
 
 ## Range
 
@@ -310,21 +311,21 @@ shawm). **Two dimensions let one family cover entirely different settings.**
 {"range":"C4–D6","common":"C4–A5","caption":"肖姆管的音域（以常见形制为例）","caption_en":"Shawm range (a typical instrument)","note":"肖姆管属气鸣乐器（双簧 + 圆锥管）。音域约 C4–D6，视形制与尺寸而定 —— 肖姆管有成套的不同大小（高音 · 中音 · 低音）。记谱即实音。"}
 ```
 
-- **About C4–D6** depending on form, made **in consorts** — like the [[instrument:recorder|recorder]], it
+- About C4–D6 depending on form, made in consorts — like the [[instrument:recorder|recorder]], it
   comes in soprano, alto, bass sizes that play together.
-- **The working register is C4–A5.**
-- **Its top register is hard to control**: a wide keyless bore demands strong lip control and forked
+- The working register is C4–A5.
+- Its top register is hard to control: a wide keyless bore demands strong lip control and forked
   fingerings up high.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Loud, brilliant, nasal** — the most penetrating of Renaissance instruments.
-2. **Coarse and harmonically rich.** Less focused than an oboe: a wide bore spreads the partials.
-3. **Little dynamic range.** It is simply loud, and fine soft playing is not its strength — consistent with its
+1. Loud, brilliant, nasal — the most penetrating of Renaissance instruments.
+2. Coarse and harmonically rich. Less focused than an oboe: a wide bore spreads the partials.
+3. Little dynamic range. It is simply loud, and fine soft playing is not its strength — consistent with its
    outdoor role.
-4. **Often played with drum and sackbut.** In a Renaissance "loud band" it forms the outer, festive voice.
+4. Often played with drum and sackbut. In a Renaissance "loud band" it forms the outer, festive voice.
 
 ```audiolab
 {"type":"instrument","gm":"Oboe","synth":"reed","phrase":["C4","E4","G4","C5","E5"],"label":"肖姆管的常用区：C4 到 E5","label_en":"The shawm's working register — C4 up to E5","hint":"注意比双簧管更粗更响的音色 —— 通用音色表里没有肖姆管，这里借双簧管音色近似","hint_en":"Hear a coarser, louder tone than an oboe's. General MIDI has no shawm, so an oboe sample stands in."}
@@ -332,11 +333,11 @@ Four cues:
 
 ## Playing techniques
 
-- **Keyless, hence forked fingerings.** Semitones come from cross-fingerings and sound slightly duller — a
+- Keyless, hence forked fingerings. Semitones come from cross-fingerings and sound slightly duller — a
   common issue for all keyless woodwinds.
-- **High lip demands**: a large reed needs strong support, and the top register especially.
-- **Circular breathing** is common on such instruments (sustained outer parts).
-- **Consort playing**: different sizes combine by part, much like a modern wind ensemble in concept.
+- High lip demands: a large reed needs strong support, and the top register especially.
+- Circular breathing is common on such instruments (sustained outer parts).
+- Consort playing: different sizes combine by part, much like a modern wind ensemble in concept.
 
 ## The family
 
@@ -348,9 +349,9 @@ Four cues:
 | [[instrument:racket\|Racket]] | conical · folded | double | moderate | the bass part |
 | [[instrument:recorder\|Recorder]] | tube · duct | **none** | moderate | indoor consort |
 
-**Note how this family divided its work in the 15th–16th centuries**: **shawm = outer voice (loud) ·
+Note how this family divided its work in the 15th–16th centuries: **shawm = outer voice (loud) ·
 crumhorn and recorder = inner voices (soft) · racket = bass.**
-That is an ensemble organised **by volume** — a different logic from the modern orchestra's organisation by
+That is an ensemble organised by volume — a different logic from the modern orchestra's organisation by
 timbre.
 
 ## History
@@ -364,25 +365,25 @@ timbre.
 | 18th c. | effectively leaves professional use, surviving in folk forms (such as the Mediterranean **dulzaina**) |
 | 20th c. | revived by the early-music movement, with modern makers |
 
-**Its direction of evolution is perfectly clear**: **the bore was narrowed and the reed reduced in pursuit of
-a finer colour** — from "carrying far" to "sounding beautiful". **When the concert hall replaced the square,
+Its direction of evolution is perfectly clear: **the bore was narrowed and the reed reduced in pursuit of
+a finer colour — from "carrying far" to "sounding beautiful". When the concert hall replaced the square,
 the design goal changed.**
 
 ## Common misconceptions
 
-- **"A shawm is a badly made oboe."** It is **not a poor oboe** — in its settings (outdoors, ceremony) its
-  design goal was simply **loudness**.
-- **"It has many keys."** **Essentially keyless**; semitones come from forked fingerings.
-- **"It can only play loud phrases."** It has a full consort repertoire, but **soft playing is genuinely not its
+- "A shawm is a badly made oboe." It is not a poor oboe — in its settings (outdoors, ceremony) its
+  design goal was simply loudness.
+- "It has many keys." Essentially keyless; semitones come from forked fingerings.
+- "It can only play loud phrases." It has a full consort repertoire, but **soft playing is genuinely not its
   strength**.
-- **"The oboe is the shawm improved, so they are interchangeable."** Their sound and use differ — much as the
+- "The oboe is the shawm improved, so they are interchangeable." Their sound and use differ — much as the
   [[instrument:recorder|recorder]] relates to the [[instrument:flute|flute]].
-- **"It is extinct."** The early-music movement revived it, and Mediterranean folk double reeds (such as the
-  **dulzaina**) are regarded as continuations of its folk branches.
+- "It is extinct." The early-music movement revived it, and Mediterranean folk double reeds (such as the
+  dulzaina) are regarded as continuations of its folk branches.
 
 ## Next
 
-Two relatives of the shawm show **variations on the same double-reed principle**: the
+Two relatives of the shawm show variations on the same double-reed principle: the
 [[instrument:crumhorn|crumhorn]] (reed capped → suddenly quiet and buzzing) and the
 [[instrument:racket|racket]] (bore folded into a column → short yet low). Read together, the rule "**body shape
 is the knob for colour and register**" becomes clear.

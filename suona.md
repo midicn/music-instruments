@@ -46,15 +46,15 @@ updated: 2026-09-26
 > ⚠️ **八音是封闭的，而乐器史是开放的。**
 > 周代的八音（金 · 石 · 土 · 革 · 丝 · 木 · 匏 · 竹）是一套**按材料分类的封闭体系** ——
 > 它描述的是**当时中国的乐器**。
-> 而唢呐的雏形「苏尔奈」诞生在**公元 3 世纪左右的波斯 · 阿拉伯**，
-> **至迟于金元时期才传入中国**，连名字都是**阿拉伯语音译**。
+> 而唢呐的雏形「苏尔奈」诞生在公元 3 世纪左右的波斯 · 阿拉伯，
+> 至迟于金元时期才传入中国，连名字都是阿拉伯语音译。
 >
-> 于是它只有两条路：**被塞进最近的一个旧类别**，或者**承认自己是外来户**。
-> 按材料，它的管身是木制的 → 归入**木**；
-> 但严格说，**它不属于周代那套体系** —— 因为**那套体系里还没有它**。
+> 于是它只有两条路：被塞进最近的一个旧类别，或者承认自己是外来户。
+> 按材料，它的管身是木制的 → 归入木；
+> 但严格说，它不属于周代那套体系 —— 因为那套体系里还没有它。
 >
-> **这一点其实不是八音的缺陷，而是所有"按材料分类"的体系的共同处境**：
-> **体系的边界，就是它最诚实的地方。**
+> 这一点其实不是八音的缺陷，而是所有"按材料分类"的体系的共同处境：
+> 体系的边界，就是它最诚实的地方。
 
 | 分类 | 归属 |
 |---|---|
@@ -98,13 +98,13 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **双簧是发声体**。两片苇制哨片靠气流拍打振动，
-   管身与铜碗负责**放大与润色** —— 这是它与[[instrument:dizi|笛子]]、[[instrument:xiao|箫]]最根本的区别：
-   **后两者的发声体是管里的空气，它的发声体是哨。**
-2. **木杆 + 铜碗**。八个按音孔开在木制圆锥管身上（**前七后一**），
-   下端的铜碗把声音**放大并送远** —— 这是它音量的第二处来源。
-3. **它与[[instrument:shawm|肖姆管]] · [[instrument:oboe|双簧管]]同族**。
-   欧洲中世纪的双簧管族通过**陆路与海路两个方向**传播，唢呐就是**东端**的那一支。
+1. 双簧是发声体。两片苇制哨片靠气流拍打振动，
+   管身与铜碗负责放大与润色 —— 这是它与[[instrument:dizi|笛子]]、[[instrument:xiao|箫]]最根本的区别：
+   后两者的发声体是管里的空气，它的发声体是哨。
+2. 木杆 + 铜碗。八个按音孔开在木制圆锥管身上（前七后一），
+   下端的铜碗把声音放大并送远 —— 这是它音量的第二处来源。
+3. 它与[[instrument:shawm|肖姆管]] · [[instrument:oboe|双簧管]]同族。
+   欧洲中世纪的双簧管族通过陆路与海路两个方向传播，唢呐就是东端的那一支。
 
 ## 音量，就是社会半径
 
@@ -133,24 +133,24 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图把本批的一条暗线摆到了明面上**：
-**一件乐器的音量，基本就是它的社会半径。**
+这张图把本批的一条暗线摆到了明面上：
+一件乐器的音量，基本就是它的社会半径。
 
-- **最小的那一头**：[[instrument:guqin|古琴]]（弹给自己听）· [[instrument:xiao|箫]]（书斋独处）·
-  [[instrument:xun|埙]]（安静的雅乐）—— 它们**不需要让很多人听见**。
-- **中间**：[[instrument:sheng|笙]]（合奏里的黏合剂）· [[instrument:pipa|琵琶]] · [[instrument:erhu|二胡]]（室内乐）·
+- 最小的那一头：[[instrument:guqin|古琴]]（弹给自己听）· [[instrument:xiao|箫]]（书斋独处）·
+  [[instrument:xun|埙]]（安静的雅乐）—— 它们不需要让很多人听见。
+- 中间：[[instrument:sheng|笙]]（合奏里的黏合剂）· [[instrument:pipa|琵琶]] · [[instrument:erhu|二胡]]（室内乐）·
   [[instrument:dizi|笛子]]（戏台与田野）。
-- **最大的那一头**：**唢呐**与**吹打锣鼓** ——
-  **婚丧嫁娶、节庆庙会**，它要让**一整个村子都听见**。
+- 最大的那一头：唢呐与吹打锣鼓 ——
+  婚丧嫁娶、节庆庙会，它要让一整个村子都听见。
 
-**而这条线的两端都留下了文学证据**：
-一端是「**士无故不撤琴瑟**」（琴是修养，不是表演）；
+而这条线的两端都留下了文学证据：
+一端是「士无故不撤琴瑟」（琴是修养，不是表演）；
 另一端是明代王磐的《朝天子·咏喇叭》：
 
-> 「**喇叭，唢呐，曲儿小腔儿大。**官船来往乱如麻，全仗你抬声价。
-> **军听了军愁，民听了民怕。**」
+> 「喇叭，唢呐，曲儿小腔儿大。官船来往乱如麻，全仗你抬声价。
+> 军听了军愁，民听了民怕。」
 
-**四百年前的人写唢呐，写的全是音量，以及音量背后的权势。**
+四百年前的人写唢呐，写的全是音量，以及音量背后的权势。
 
 ## 音域
 
@@ -158,22 +158,22 @@ updated: 2026-09-26
 {"range":"A4–B6","caption":"唢呐的音域（示意 · 两个八度余）","caption_en":"Suona range (indicative — a little over two octaves)","note":"唢呐属气鸣乐器（双簧驱动，圆锥管）。音域约两个八度余，此处取 A4–B6 示意 —— 唢呐规格差异极大（小唢呐「海笛」更高、大唢呐更低），各调与各规格音高标准不同，本图不代表所有唢呐。现代也有加键半音唢呐以扩大音域。记谱即实音。"}
 ```
 
-- **约两个八度余**。音域不算宽，但**它不靠音域取胜** —— 它靠**音量 · 穿透力 · 与模仿能力**。
-- **不同规格差别很大**：小唢呐（海笛）高、大唢呐低；
+- 约两个八度余。音域不算宽，但它不靠音域取胜 —— 它靠音量 · 穿透力 · 与模仿能力。
+- 不同规格差别很大：小唢呐（海笛）高、大唢呐低；
   高 · 中 · 低配套的唢呐是现代民族乐队里的常规配置。
-- **高音更费气**。资料明确说：**音越高耗气量越大**，所以**循环换气**几乎是唢呐手的必修课。
+- 高音更费气。资料明确说：音越高耗气量越大，所以循环换气几乎是唢呐手的必修课。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **音量洪大、高亢明亮、穿透力极强**。它能"炸翻全场"，也能"似泣诉般婉转"。
-2. **带"哨"的质感**。双簧振动天然带一点沙沙的棱角 ——
+1. 音量洪大、高亢明亮、穿透力极强。它能"炸翻全场"，也能"似泣诉般婉转"。
+2. 带"哨"的质感。双簧振动天然带一点沙沙的棱角 ——
    这是它区别于所有吹管乐器的地方，和[[instrument:oboe|双簧管]]同源。
-3. **擅仿人声与鸟鸣**。北方的「**咔腔**」能成套模仿戏曲唱腔甚至**念白**；
+3. 擅仿人声与鸟鸣。北方的「咔腔」能成套模仿戏曲唱腔甚至念白；
    《百鸟朝凤》则是模仿鸟鸣的极致。
-4. **两副面孔**：**喜庆**（迎亲、节庆）与**悲怆**（丧葬、祭奠）——
-    **同一件乐器承担了中国人生命仪式的两端。**
+4. 两副面孔：喜庆（迎亲、节庆）与悲怆（丧葬、祭奠）——
+    同一件乐器承担了中国人生命仪式的两端。
 
 ```audiolab
 {"type":"instrument","gm":"Shanai","synth":"reed","phrase":["A4","B4","D5","E5","A5","B5"],"label":"唢呐的常用区：A4 到 B5","label_en":"The suona's working register — A4 up to B5","hint":"注意双簧特有的那股「哨」劲儿 —— 通用音色表里的 Shanai 是印度同类双簧管，最接近唢呐","hint_en":"Notice the reedy edge unique to a double reed. The Shanai in General MIDI is the closest relative available."}
@@ -181,13 +181,13 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **循环换气**。吸气时用腮部把气挤出去，使长音不断 ——
-   唢呐的**费气**在这些乐器里是数一数二的。
-- **滑音 · 颤音 · 吐音 · 花舌**，以及**气拱音 · 气顶音 · 三弦音 · 箫音**等特殊技法。
-- **咔腔**。成套模仿戏曲唱腔与念白，是北方唢呐的绝活。
-- **南北两派**。南方多吹戏曲曲牌、很少装饰；
+- 循环换气。吸气时用腮部把气挤出去，使长音不断 ——
+   唢呐的费气在这些乐器里是数一数二的。
+- 滑音 · 颤音 · 吐音 · 花舌，以及气拱音 · 气顶音 · 三弦音 · 箫音等特殊技法。
+- 咔腔。成套模仿戏曲唱腔与念白，是北方唢呐的绝活。
+- 南北两派。南方多吹戏曲曲牌、很少装饰；
    北方技巧复杂、流派众多（陕北苍凉高亢 · 山东豪放热烈 · 江南婉转细腻）。
-- **常与打击乐配合**。在吹打乐里它常是**领奏乐器** ——
+- 常与打击乐配合。在吹打乐里它常是领奏乐器 ——
    与[[instrument:tanggu|堂鼓]] · [[instrument:gong|锣]]构成"吹"与"打"两条线。
 
 ## 家族与近亲
@@ -201,9 +201,9 @@ updated: 2026-09-26
 | [[instrument:dizi\|笛子]] | 空气柱 | 竹管 | 中 | 戏台 · 田野 |
 | [[instrument:xiao\|箫]] | 空气柱 | 竹管 | **小** | 书斋 · 独处 |
 
-**这一族的判断轴很清楚**：
-**发声体是不是簧**（唢呐/肖姆管/双簧管 vs 笛/箫），
-以及**有没有东西把声音挡住**（[[instrument:crumhorn|克鲁姆管]]的风帽把音量压到最小，唢呐的铜碗把它放到最大）。
+这一族的判断轴很清楚：
+发声体是不是簧（唢呐/肖姆管/双簧管 vs 笛/箫），
+以及有没有东西把声音挡住（[[instrument:crumhorn|克鲁姆管]]的风帽把音量压到最小，唢呐的铜碗把它放到最大）。
 
 ## 历史演变
 
@@ -218,37 +218,38 @@ updated: 2026-09-26
 | 20 世纪 | 出现高 · 中 · 低配套以及加键半音唢呐；《百鸟朝凤》于 20 世纪 50 年代初获第四届世界青年联欢节民间音乐比赛银质奖 |
 | 2006 年 | **唢呐艺术列入第一批国家级非物质文化遗产名录** |
 
-**它的历史是一条完整的"外来户落地"路线**：
-**波斯 · 阿拉伯（3 世纪）→ 西域（两晋）→ 中原（金元）→ 军乐（明）→ 民间（明清）→ 宫廷《回部乐》（清）→ 非遗（2006）。**
-**一件乐器用了一千多年，从"别人的"变成了"我们的"。**
+它的历史是一条完整的"外来户落地"路线：
+波斯 · 阿拉伯（3 世纪）→ 西域（两晋）→ 中原（金元）→ 军乐（明）→ 民间（明清）→ 宫廷《回部乐》（清）→ 非遗（2006）。
+一件乐器用了一千多年，从"别人的"变成了"我们的"。
 
 ## 常见误解
 
-- **"唢呐是中国传统乐器。"** 它是**外来乐器**：雏形诞生于 3 世纪的波斯 · 阿拉伯，
-   金元时期才传入中国，**连名字都是阿拉伯语音译**。它在中国的历史约七百年 —— **不到古琴的四分之一。**
-- **"八音里没有它，说明它不算中国乐器。"** 八音描述的是**周代的中国**；
-   后来传入的乐器（唢呐 · 扬琴 · 胡琴族）**都晚于那套体系**。
-   **这不是八音的缺陷，而是所有封闭分类体系的共同处境。**
-- **"唢呐只能吹红白喜事。"** 它早已是**独奏乐器**，也是**民族乐队与戏曲乐队**的常规乐器；
+- "唢呐是中国传统乐器。" 它是外来乐器：雏形诞生于 3 世纪的波斯 · 阿拉伯，
+   金元时期才传入中国，连名字都是阿拉伯语音译。它在中国的历史约七百年 —— 不到古琴的四分之一。
+- "八音里没有它，说明它不算中国乐器。" 八音描述的是周代的中国；
+   后来传入的乐器（唢呐 · 扬琴 · 胡琴族）都晚于那套体系。
+   这不是八音的缺陷，而是所有封闭分类体系的共同处境。
+- "唢呐只能吹红白喜事。" 它早已是独奏乐器，也是民族乐队与戏曲乐队的常规乐器；
    1956 年之前它就已登上国际比赛舞台。
-- **"唢呐就是响亮，没有细腻。"** 它能控制气息吹出柔美的「**箫音**」，
-   也能成套模仿人声唱腔（**咔腔**）—— **响只是它最容易被注意到的那一面。**
-- **"它的音量来自铜碗。"** 铜碗是**放大器**，不是发声体；
-   **发声体是那两片苇制哨片**。这也解释了为什么它和[[instrument:oboe|双簧管]]同族。
-- **"唢呐是一路土生土长的民间乐器。"** 它**先当军乐**（明代戚继光用它传令），
-   **后进民间**，**再进宫廷**（清代《回部乐》）—— 路径与"民间乐器"的直觉正好相反。
+- "唢呐就是响亮，没有细腻。" 它能控制气息吹出柔美的「箫音」，
+   也能成套模仿人声唱腔（咔腔）—— 响只是它最容易被注意到的那一面。
+- "它的音量来自铜碗。" 铜碗是放大器，不是发声体；
+   发声体是那两片苇制哨片。这也解释了为什么它和[[instrument:oboe|双簧管]]同族。
+- "唢呐是一路土生土长的民间乐器。" 它先当军乐（明代戚继光用它传令），
+   后进民间，再进宫廷（清代《回部乐》）—— 路径与"民间乐器"的直觉正好相反。
 
 ## 下一步
 
-**吹管这一类到此有了四件**：[[instrument:dizi|笛子]]（横吹有膜）· [[instrument:xiao|箫]]（竖吹无膜）·
-[[instrument:sheng|笙]]（自由簧）· **唢呐**（双簧）——
+吹管这一类到此有了四件：[[instrument:dizi|笛子]]（横吹有膜）· [[instrument:xiao|箫]]（竖吹无膜）·
+[[instrument:sheng|笙]]（自由簧）· 唢呐（双簧）——
 它们正好把"空气怎么被激发"这件事的四条路走完了：
-**边棱音（横/竖）· 簧片（自由簧/双簧）。**
+边棱音（横/竖）· 簧片（自由簧/双簧）。
 
-接下来换到**弹拨**：[[instrument:zheng|筝]]。
-它与[[instrument:guqin|古琴]]同为"丝"、同为弹拨，但**走了一条完全不同的路**：
-**有了雁柱** —— 于是它不再靠手指按弦选音，而是**靠"移动柱子"预先定好每一根弦的音**。
-**同一类乐器，一次"结构上的妥协"，就是两种命运。**
+接下来换到弹拨：[[instrument:zheng|筝]]。
+它与[[instrument:guqin|古琴]]同为"丝"、同为弹拨，但走了一条完全不同的路：
+有了雁柱 —— 于是它不再靠手指按弦选音，而是靠"移动柱子"预先定好每一根弦的音。
+同一类乐器，一次"结构上的妥协"，就是两种命运。
+
 :::
 
 ::: en
@@ -259,14 +260,14 @@ outside it?**
 > The Zhou-dynasty bayin (metal · stone · earth · hide · silk · wood · gourd · bamboo) is a **closed, material-based
 > system** — it describes **the instruments of China at that time**.
 > But the suona's ancestor, the **surna**, was born in **Persia and Arabia around the 3rd century CE**, reached China
-> **no later than the Jin–Yuan period**, and even its name is a **transliteration from Arabic**.
+> no later than the Jin–Yuan period, and even its name is a transliteration from Arabic.
 >
-> So it has only two options: **be filed under the nearest old category**, or **admit it is a newcomer**.
-> By material, its body is wooden → **wood**; but strictly speaking, **it does not belong to the Zhou system** —
-> **because that system predates it.**
+> So it has only two options: be filed under the nearest old category, or admit it is a newcomer.
+> By material, its body is wooden → wood; but strictly speaking, it does not belong to the Zhou system —
+> because that system predates it.
 >
 > **This is not a flaw in the bayin but the common condition of every material-based scheme**:
-> **the edge of a system is the most honest thing about it.**
+> the edge of a system is the most honest thing about it.
 
 | Classification | Value |
 |---|---|
@@ -310,13 +311,13 @@ outside it?**
 
 Three points:
 
-1. **The double reed is the sound source.** Two cane blades beat against each other in the airstream; the body
-   and bell **amplify and colour**. This is the fundamental difference from the [[instrument:dizi|dizi]] and
-   [[instrument:xiao|xiao]]: **their sound source is the air in the tube, the suona's is the reed.**
-2. **Wooden body, bronze bell.** Eight finger holes in a conical wooden body (**seven front, one back**), and the
-   bell at the bottom **amplifies and throws** the sound — its second source of volume.
+1. The double reed is the sound source. Two cane blades beat against each other in the airstream; the body
+   and bell amplify and colour. This is the fundamental difference from the [[instrument:dizi|dizi]] and
+   [[instrument:xiao|xiao]]: their sound source is the air in the tube, the suona's is the reed.
+2. Wooden body, bronze bell. Eight finger holes in a conical wooden body (seven front, one back), and the
+   bell at the bottom amplifies and throws the sound — its second source of volume.
 3. **It is of a family with the [[instrument:shawm|shawm]] and the [[instrument:oboe|oboe]].** The European
-   double-reed family travelled **by land and by sea**; the suona is the **eastern end** of that line.
+   double-reed family travelled by land and by sea; the suona is the eastern end of that line.
 
 ## Volume is social radius
 
@@ -345,22 +346,22 @@ Three points:
 </svg>
 ```
 
-**This figure puts one of the batch's hidden threads on the table**: **an instrument's volume is more or less its
+This figure puts one of the batch's hidden threads on the table: **an instrument's volume is more or less its
 social radius.**
 
-- **The smallest end**: the [[instrument:guqin|guqin]] (played for oneself) · the [[instrument:xiao|xiao]] (a study
-  alone) · the [[instrument:xun|xun]] (ceremonial quiet) — they **need not be heard by many**.
-- **The middle**: [[instrument:sheng|sheng]] (the ensemble's glue) · [[instrument:pipa|pipa]] ·
+- The smallest end: the [[instrument:guqin|guqin]] (played for oneself) · the [[instrument:xiao|xiao]] (a study
+  alone) · the [[instrument:xun|xun]] (ceremonial quiet) — they need not be heard by many.
+- The middle: [[instrument:sheng|sheng]] (the ensemble's glue) · [[instrument:pipa|pipa]] ·
   [[instrument:erhu|erhu]] (chamber music) · [[instrument:dizi|dizi]] (stage and field).
-- **The loudest end**: the **suona** with wind-and-percussion bands — at **weddings, funerals, temple fairs**, it has
-  to be heard by **an entire village**.
+- The loudest end: the suona with wind-and-percussion bands — at weddings, funerals, temple fairs, it has
+  to be heard by an entire village.
 
-**And both ends left literary evidence**: one end has "the gentleman never puts aside his qin and se" (the qin is
+And both ends left literary evidence: one end has "the gentleman never puts aside his qin and se" (the qin is
 cultivation, not performance); the other has Wang Pan's 16th-century lyric *To the Tune of Chaotianzi: On the
 Trumpet*:
 
-> "**Trumpet, suona — a small tune, a big voice.** Official boats come and go like tangled hemp; on you they rely
-> for prestige. **Soldiers dread it, people fear it.**"
+> "Trumpet, suona — a small tune, a big voice. Official boats come and go like tangled hemp; on you they rely
+> for prestige. Soldiers dread it, people fear it."
 
 **A writer four hundred years ago described the suona entirely in terms of volume — and of the power that volume
 stood for.**
@@ -371,23 +372,23 @@ stood for.**
 {"range":"A4–B6","caption":"唢呐的音域（示意 · 两个八度余）","caption_en":"Suona range (indicative — a little over two octaves)","note":"唢呐属气鸣乐器（双簧驱动，圆锥管）。音域约两个八度余，此处取 A4–B6 示意 —— 唢呐规格差异极大（小唢呐「海笛」更高、大唢呐更低），各调与各规格音高标准不同，本图不代表所有唢呐。现代也有加键半音唢呐以扩大音域。记谱即实音。"}
 ```
 
-- **A little over two octaves.** Not a wide range — and **it does not win on range**: it wins on **volume,
+- A little over two octaves. Not a wide range — and it does not win on range: it wins on **volume,
   penetration and mimicry**.
-- **Sizes differ greatly**: the small **haidi** is higher, the large suona lower; modern bands use matched high,
+- Sizes differ greatly: the small haidi is higher, the large suona lower; modern bands use matched high,
   middle and low sets.
-- **The top costs the most breath**: sources are explicit that **the higher the note, the more air it takes**,
-  which is why **circular breathing** is close to compulsory for suona players.
+- The top costs the most breath: sources are explicit that the higher the note, the more air it takes,
+  which is why circular breathing is close to compulsory for suona players.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Enormous, bright, penetrating.** It can blast a hall, and it can also sound like weeping.
-2. **A "reedy" edge.** A double reed adds a sandy grain — what separates it from every other wind instrument, and
+1. Enormous, bright, penetrating. It can blast a hall, and it can also sound like weeping.
+2. A "reedy" edge. A double reed adds a sandy grain — what separates it from every other wind instrument, and
    what it shares with the [[instrument:oboe|oboe]].
-3. **It mimics voices and birds.** Northern players use **kaqiang** to imitate whole operatic arias and even spoken
-   lines; **Hundred Birds Paying Homage to the Phoenix** is the extreme case of bird mimicry.
-4. **Two faces**: **joy** (weddings, festivals) and **mourning** (funerals, memorials) — **one instrument carrying
+3. It mimics voices and birds. Northern players use kaqiang to imitate whole operatic arias and even spoken
+   lines; Hundred Birds Paying Homage to the Phoenix is the extreme case of bird mimicry.
+4. Two faces: joy (weddings, festivals) and mourning (funerals, memorials) — **one instrument carrying
    both ends of a life's ceremonies.**
 
 ```audiolab
@@ -396,14 +397,14 @@ Four cues:
 
 ## Playing techniques
 
-- **Circular breathing.** While inhaling, the cheeks squeeze out stored air so the long note never breaks — the
+- Circular breathing. While inhaling, the cheeks squeeze out stored air so the long note never breaks — the
   suona's air consumption is among the highest of any wind instrument.
-- **Slides, vibrato, tonguing, flutter tonguing**, plus special effects such as air-arched and air-topped tones,
+- Slides, vibrato, tonguing, flutter tonguing, plus special effects such as air-arched and air-topped tones,
   "three-string" and "xiao" tones.
-- **Kaqiang**: imitating whole arias and even spoken text, a northern speciality.
-- **Two regional schools**: the south plays operatic tunes with little ornament; the north is far more elaborate,
+- Kaqiang: imitating whole arias and even spoken text, a northern speciality.
+- Two regional schools: the south plays operatic tunes with little ornament; the north is far more elaborate,
   with many local styles (northern Shaanxi high and bleak · Shandong bold and hot · Jiangnan soft and fine).
-- **Usually with percussion.** In wind-and-percussion bands it is often the **lead instrument** — together with the
+- Usually with percussion. In wind-and-percussion bands it is often the lead instrument — together with the
   [[instrument:tanggu|tanggu]] and [[instrument:gong|gong]] it forms the "blown" and "struck" lines.
 
 ## The family
@@ -417,8 +418,8 @@ Four cues:
 | [[instrument:dizi\|Dizi]] | air column | bamboo | medium | stage · field |
 | [[instrument:xiao\|Xiao]] | air column | bamboo | **small** | study · solitude |
 
-**The axes in this family are plain**: **is the sound source a reed** (suona, shawm, oboe vs dizi, xiao), and
-**is something blocking the sound** (the [[instrument:crumhorn|crumhorn]]'s wind cap squeezes volume to a minimum;
+The axes in this family are plain: is the sound source a reed (suona, shawm, oboe vs dizi, xiao), and
+is something blocking the sound (the [[instrument:crumhorn|crumhorn]]'s wind cap squeezes volume to a minimum;
 the suona's bronze bell throws it to a maximum).
 
 ## History
@@ -434,37 +435,37 @@ the suona's bronze bell throws it to a maximum).
 | 20th c. | matched high, middle and low sets and keyed chromatic models appear; **Hundred Birds** wins a silver medal at the 4th World Festival of Youth and Students in the early 1950s |
 | 2006 | **suona art is entered in the first national list of intangible cultural heritage** |
 
-**Its history is a complete record of an import taking root**: **Persia and Arabia (3rd c.) → Central Asia (Jin) →
+Its history is a complete record of an import taking root: **Persia and Arabia (3rd c.) → Central Asia (Jin) →
 the Central Plains (Jin–Yuan) → military music (Ming) → folk life (Ming–Qing) → court music (Qing) → intangible
-heritage (2006).** **In a thousand years, "theirs" became "ours".**
+heritage (2006). In a thousand years, "theirs" became "ours".**
 
 ## Common misconceptions
 
-- **"The suona is a traditional Chinese instrument."** It is an **import**: its ancestor arose in 3rd-century
-  Persia and Arabia, it arrived in China in the Jin–Yuan period, and **even its name is an Arabic transliteration**.
-  Its history in China is about 700 years — **less than a quarter of the guqin's.**
-- **"If it is not in the bayin, it is not Chinese."** The bayin describes **China in the Zhou dynasty**; later
-  arrivals (suona, yangqin, the huqin family) **all postdate that system**. **That is not a flaw in the bayin but the
+- "The suona is a traditional Chinese instrument." It is an import: its ancestor arose in 3rd-century
+  Persia and Arabia, it arrived in China in the Jin–Yuan period, and even its name is an Arabic transliteration.
+  Its history in China is about 700 years — less than a quarter of the guqin's.
+- "If it is not in the bayin, it is not Chinese." The bayin describes China in the Zhou dynasty; later
+  arrivals (suona, yangqin, the huqin family) all postdate that system. **That is not a flaw in the bayin but the
   common condition of any closed classification.**
-- **"It only plays weddings and funerals."** It has long been a **solo instrument** and a regular member of Chinese
+- "It only plays weddings and funerals." It has long been a solo instrument and a regular member of Chinese
   orchestras and opera bands; it reached an international competition stage before 1956.
-- **"It is loud and nothing else."** It can be played so softly it produces a "xiao tone", and it can imitate whole
-  human arias (**kaqiang**) — **loudness is only its most noticeable face.**
-- **"Its volume comes from the bronze bell."** The bell **amplifies**; it does not sound. **The sound source is the
+- "It is loud and nothing else." It can be played so softly it produces a "xiao tone", and it can imitate whole
+  human arias (kaqiang) — loudness is only its most noticeable face.
+- "Its volume comes from the bronze bell." The bell amplifies; it does not sound. **The sound source is the
   pair of cane reeds** — which is why it is of a family with the [[instrument:oboe|oboe]].
-- **"It grew up purely as a folk instrument."** It **served as military music first** (Qi Jiguang used it for
-  signals), **then entered folk life**, and **later the court** (the Qing **Hui Division**) — the opposite of the
+- "It grew up purely as a folk instrument." It served as military music first (Qi Jiguang used it for
+  signals), then entered folk life, and later the court (the Qing Hui Division) — the opposite of the
   intuitive path.
 
 ## Next
 
-**The wind category now has four**: the [[instrument:dizi|dizi]] (transverse, membraned) · the [[instrument:xiao|xiao]]
-(end-blown, bare) · the [[instrument:sheng|sheng]] (free reed) · the **suona** (double reed) — together they exhaust
-the four ways of **setting air in motion**: **edge tone (transverse or end-blown) and reed (free or double).**
+The wind category now has four: the [[instrument:dizi|dizi]] (transverse, membraned) · the [[instrument:xiao|xiao]]
+(end-blown, bare) · the [[instrument:sheng|sheng]] (free reed) · the suona (double reed) — together they exhaust
+the four ways of setting air in motion: edge tone (transverse or end-blown) and reed (free or double).
 
-Next the batch turns to **plucked strings**: the [[instrument:zheng|zheng]].
+Next the batch turns to plucked strings: the [[instrument:zheng|zheng]].
 It shares silk and plucking with the [[instrument:guqin|guqin]], but took an entirely different road: **it has
-bridges** — so it no longer chooses pitch by stopping strings with the fingers, but **sets each string's pitch in
+bridges — so it no longer chooses pitch by stopping strings with the fingers, but sets each string's pitch in
 advance by moving a bridge**.
-**One structural compromise, two destinies.**
+One structural compromise, two destinies.
 :::

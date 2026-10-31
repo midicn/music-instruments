@@ -33,10 +33,12 @@ updated: 2026-09-26
 ---
 
 ::: zh
-柔音双簧管是[[instrument:oboe|双簧管]]的**低小三度**版本，管身略长、喇叭口做成球状。
-它的全部意义几乎都可以用一句话说清：**这是巴洛克时代想要"更柔的双簧管"时给出的一个解。**
+柔音双簧管是[[instrument:oboe|双簧管]]的**低小三度**版本。
+管身略长，喇叭口做成球状。
+一句话就能说清它的来意：巴洛克时代想要"更柔的双簧管"，这是给出的一个解。
 
-它还有一个容易让人绕进去的地方：**它是 A 调乐器，但现代乐谱按实音记谱** ——
+还有一个容易让人绕进去的地方。
+**它是 A 调乐器，现代乐谱却按实音记谱。**
 所以看谱时**不需要**替它移调。
 
 | 分类 | 归属 |
@@ -46,11 +48,11 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 木管（双簧管族 · 次高音支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，柔音管不在其中 |
 
-> ⚠️ **一个概念上的要点**：**"是 A 调乐器"不等于"要按移调记谱"。**
-> [[instrument:english-horn|英国管]]同样在 C 谱位置上比双簧管低，但**记谱要高纯五度**；
-> 柔音管虽然也低（小三度），现代却**直接按实音写谱**。
-> 换句话说：**调性（in A）说的是"实际音高"，记谱方式说的是"谱面怎么写" —— 这是两件事。**
-> 判断一件乐器怎么读谱，只能看它的**记谱惯例**，不能从调性推。
+> ⚠️ 一个概念上的要点："是 A 调乐器"不等于"要按移调记谱"。
+> [[instrument:english-horn|英国管]]同样比双簧管低，记谱却要高纯五度。
+> 柔音管也低，现代却直接按实音写谱。
+> 调性说的是实际音高，记谱方式说的是谱面怎么写。这是两件事。
+> 判断一件乐器怎么读谱，只能看记谱惯例，不能从调性推。
 
 ## 结构：略长的管与球状喇叭口
 
@@ -88,13 +90,15 @@ updated: 2026-09-26
 </svg>
 ```
 
-三处要点：
+三处要点。
 
-1. **管长只多一点点**（约 8 厘米），音高却低**小三度** ——
-   短管对长度的变化非常敏感，这与[[instrument:piccolo|短笛]]"管长减半、音高翻倍"是同一条规律的两端。
-2. **球状喇叭口比英国管小**。三支双簧管的喇叭口形状可以按顺序辨认（见下节）。
-3. **弯管同样是它的部件**。所以"折角管"这个描述其实同时适用于柔音管与英国管 ——
-   名字挂到英国管头上有一定偶然性。
+1. 管长只多一点点，约 8 厘米，音高却低小三度。
+   短管对长度非常敏感。这与[[instrument:piccolo|短笛]]"管长减半、音高翻倍"是同一条规律的两端。
+2. 球状喇叭口比英国管小。
+   三支双簧管的喇叭口，可以按形状顺序辨认，见下节。
+3. 弯管同样是它的部件。
+   所以"折角管"这个描述，柔音管与英国管都适用。
+   名字挂到英国管头上，有一定偶然性。
 
 ## 三支双簧管的喇叭口
 
@@ -123,11 +127,14 @@ updated: 2026-09-26
 </svg>
 ```
 
-**一条连续的"亮度梯度"**：
-双簧管（亮）→ 柔音管（柔）→ 英国管（暗）。三个采样点由**球状腔体的体积**依次决定。
+一条连续的亮度梯度。
+双簧管亮，柔音管柔，英国管暗。
+三个采样点，由球状腔体的体积依次决定。
 
-这也解释了它们在乐队里的分工：
-**双簧管负责线条的清晰度，柔音管负责一丝柔化，英国管负责厚度与哀。**
+这也解释了它们在乐队里的分工。
+双簧管负责线条的清晰度。
+柔音管负责一丝柔化。
+英国管负责厚度与哀。
 
 ## 音域
 
@@ -135,38 +142,45 @@ updated: 2026-09-26
 {"range":"A3–E6","common":"A3–C6","caption":"柔音双簧管的音域","caption_en":"Oboe d'amore range","note":"柔音管虽为 A 调乐器（比双簧管低小三度），但现代乐谱按实音记谱 —— 谱面与出声一致，不按双簧管指法移调。标准音域 A3–E6。"}
 ```
 
-- **实音 A3–E6**，正好是双簧管音域整体下移小三度。
-- **常用区 A3–C6**：它的高音区不如双簧管自如，往上的空间有限。
-- **与双簧管对比时最值得注意的一点**：同一个音高，柔音管要**更长、更粗的气流**才能维持，
-  所以它天生带一种"厚"—— 那是管径比例留下的痕迹。
+- 实音 A3–E6，正好是双簧管音域整体下移小三度。
+- 常用区 A3–C6。它的高音区不如双簧管自如，往上空间有限。
+- 与双簧管对比时最该注意一点。同一个音高，柔音管要更长、更粗的气流才能维持。
+  所以它天生带一种"厚"，那是管径比例留下的痕迹。
 
 ## 音色与听辨
 
-四条线索：
+四条线索。
 
-1. **柔、甜，比双簧管少一点"紧"**。球状喇叭口削掉了一部分高次泛音，
-   于是那股窄亮的紧张感被缓了下来。
-2. **仍保留双簧的芯**。再怎么柔，它还是簧片驱动 —— 声音里有芯，不会像长笛那样散。
-3. **偏暗的中音区最好听**（A4 附近）。它的低音区不如双簧管厚，高音区又不如双簧管自由。
-4. **在乐队里作用接近"滤镜"**。它不抢线条，但一出现就让整块织体柔化下来。
+1. 柔、甜，比双簧管少一点"紧"。
+   球状喇叭口削掉了一部分高次泛音，那股窄亮的紧张感被缓了下来。
+2. 仍保留双簧的芯。
+   再怎么柔，它还是簧片驱动。声音里有芯，不会像长笛那样散。
+3. 偏暗的中音区最好听，A4 附近。
+   低音区不如双簧管厚，高音区又不如双簧管自由。
+4. 在乐队里作用接近"滤镜"。
+   它不抢线条，但一出现，整块织体就柔化下来。
 
 ```audiolab
 {"type":"instrument","gm":"Oboe","synth":"reed","phrase":["A3","C4","E4","A4","C5","E5"],"label":"柔音双簧管的常用区：A3 到 E5","label_en":"The oboe d'amore's working register — A3 up to E5","hint":"注意比双簧管低小三度之后那种「柔」—— 通用音色表里没有柔音管，这里借双簧管音色近似","hint_en":"Hear how a minor third lower turns soft. General MIDI has no d'amore, so an oboe sample stands in."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）里**没有柔音双簧管**。
-> 上面播放的是**双簧管**音色，移到柔音管的音区 —— 它能提示音区，但不能替代真实音色。
+> ⚠️ 关于试听：通用音色表（General MIDI）里没有柔音双簧管。
+> 上面播放的是双簧管音色，移到柔音管的音区。
+> 它能提示音区，不能替代真实音色。
 
 ## 演奏技法
 
-技法与[[instrument:oboe|双簧管]]同源（同一套哨片工艺与键系逻辑），差别在于**哨片与弯管**：
+技法与[[instrument:oboe|双簧管]]同源。
+同一套哨片工艺，同一套键系逻辑。
+差别在哨片与弯管。
 
-- **哨片略大**。柔音管的哨片比双簧管稍宽，绑在弯管顶端。
-- **持握靠弯管与肩带**。管身比双簧管长，多数演奏者使用颈带。
-- **键距更宽**。管身更长，手指的伸展距离随之增大，快速乐句需要重新适应。
+- 哨片略大。柔音管的哨片比双簧管稍宽，绑在弯管顶端。
+- 持握靠弯管与肩带。管身比双簧管长，多数演奏者使用颈带。
+- 键距更宽。管身更长，手指伸展距离随之增大，快速乐句需要重新适应。
 
-值得强调的是：**柔音管是"巴洛克乐器"**，所以它的曲目多要求**圆润的连奏**、
-**较少的重音**与**克制到近乎无痕的颤音** —— 那是巴洛克演奏法对它的期待。
+柔音管是巴洛克乐器。
+它的曲目多要求圆润的连奏、较少的重音、克制到近乎无痕的颤音。
+那是巴洛克演奏法对它的期待。
 
 ## 家族与近亲
 
@@ -177,43 +191,44 @@ updated: 2026-09-26
 | [[instrument:english-horn\|英国管]] | F | 记谱比实音**高纯五度** | 低**纯五度** | 更大的球状 | 暗、哀、厚 |
 | [[instrument:bassoon\|巴松]] | C | 实音 | 低**两个八度** | 折管 + 长喇叭 | 木管组的低音 |
 
-**注意这张表里"记谱"那一列的参差** —— 它与"调"那一列**不平行**。
-这就是本节开头那个要点：**调性说的是实际音高，记谱惯例是另一套约定。**
-三支管都低，但只有英国管按移调记谱。
+注意"记谱"那一列的参差。
+它和"调"那一列不平行。
+调性说的是实际音高，记谱惯例是另一套约定。
+三支管都低，只有英国管按移调记谱。
 
 ## 历史演变
 
 | 时期 | 状态 |
 |---|---|
-| 18 世纪上半叶 | 在德国出现并广泛使用；**巴赫**为它写过相当数量的独奏与助奏声部，是它最辉煌的时期 |
-| 18 世纪后期 | 随着双簧管族的口味转向"亮而有力"，逐渐退出主流 |
-| 19 世纪 | 几近停用，只在少数场合复原 |
-| 20 世纪 | **复兴**：管弦乐总谱里重新出现，用于需要在双簧管与英国管之间取一种中间色彩的段落 |
-| 20 世纪后期至今 | 成为管弦乐与古乐演奏的标准"色彩乐器"；巴洛克原样复原演奏也大量使用它 |
+| 18 世纪上半叶 | 在德国出现并广泛使用。**巴赫**为它写过相当数量的独奏与助奏声部，这是它最辉煌的时期。 |
+| 18 世纪后期 | 双簧管族的口味转向"亮而有力"，它逐渐退出主流。 |
+| 19 世纪 | 几近停用，只在少数场合复原。 |
+| 20 世纪 | **复兴**。管弦乐总谱里重新出现，用在需要一种中间色彩的段落。 |
+| 20 世纪后期至今 | 成为管弦乐与古乐演奏的标准"色彩乐器"。巴洛克原样复原演奏也大量使用它。 |
 
-它在当代的处境很典型：**不是必需品，但一旦作曲家想要"比双簧管柔、又比英国管亮"的声音，
-它就是唯一的选择。** 一件乐器的存续，最终取决于它是否占据了不可替代的那一档。
+它在当代的处境很典型。
+不是必需品。
+但作曲家想要"比双簧管柔、又比英国管亮"的声音时，它是唯一的选择。
+一件乐器的存续，取决于它是否占据了不可替代的那一档。
 
 ## 常见误解
 
-- **"柔音双簧管就是英国管。"** 两者常被混为一谈，但**调不同**：
-  柔音管低**小三度**（A 调），英国管低**纯五度**（F 调）；球状喇叭口也大小不同。
-- **"它是 A 调，所以要替它移调。"** **现代乐谱按实音记谱**。
-  判断记谱方式要看**惯例**，不能从调性推。
-- **"它只是双簧管挪低一点。"** 管长只多 8 厘米，但**喇叭口换了形状** ——
-  所以它的音色不是"低一点的双簧管"，而是族内一条独立坐标上的点。
-- **"曲目太少，所以不重要。"** 它的分量几乎完全来自巴洛克 ——
-  **巴赫留下的那些声部**足以让它在任何一次古乐演奏中出场。
-- **"通用音色表里有它。"** General MIDI 里**没有**柔音管，只能借双簧管近似（本页试听件即如此）。
+- "柔音双簧管就是英国管。" 两者常被混为一谈，但调不同。柔音管低小三度（A 调），英国管低纯五度（F 调）。球状喇叭口也大小不同。
+- "它是 A 调，所以要替它移调。" 现代乐谱按实音记谱。判断记谱方式要看惯例，不能从调性推。
+- "它只是双簧管挪低一点。" 管长只多 8 厘米，喇叭口却换了形状。它的音色不是"低一点的双簧管"，而是族内一条独立坐标上的点。
+- "曲目太少，所以不重要。" 它的分量几乎完全来自巴洛克。巴赫留下的那些声部，足以让它在任何一次古乐演奏中出场。
+- "通用音色表里有它。" General MIDI 里没有柔音管，只能借双簧管近似。上面的试听件就是这么做的。
 
 ## 下一步
 
-双簧管族的三个档位（[[instrument:oboe|双簧管]] · 柔音管 · [[instrument:english-horn|英国管]]）到这里齐了。
-再往下是**低两个八度**的 [[instrument:bassoon|巴松]] —— 那支管长到必须折起来才拿得动。
+双簧管族的三个档位到这里齐了：[[instrument:oboe|双簧管]]、柔音管、[[instrument:english-horn|英国管]]。
+再往下是低两个八度的 [[instrument:bassoon|巴松]]。
+那支管长到必须折起来才拿得动。
 
-如果想换一条对照轴，就去看 [[instrument:clarinet|单簧管]]：
-同样是单根木管 + 单个簧片，却因为**圆柱管**而拥有三个截然不同的音区 ——
-那是"管形决定一切"的另一个极端例子。
+想换一条对照轴，就去看 [[instrument:clarinet|单簧管]]。
+同样是单根木管加单个簧片，却因为圆柱管而有三个截然不同的音区。
+那是"管形决定一切"的另一个极端。
+
 :::
 
 ::: en
@@ -231,11 +246,11 @@ there is **no transposition to do** when reading for it.
 | **Family** | Western · Woodwinds (oboe family, mezzo-soprano branch) |
 | **Bayin** | Not applicable — a Chinese system; the d'amore is outside it |
 
-> ⚠️ **One conceptual point**: **"being in A" does not mean "transposing notation".**
+> ⚠️ **One conceptual point**: "being in A" does not mean "transposing notation".
 > The [[instrument:english-horn|English horn]] also sits below the oboe in C terms, yet it **is written a
-> fifth higher**; the d'amore, though lower too (a minor third), is simply **written at sounding pitch**
+> fifth higher; the d'amore, though lower too (a minor third), is simply written at sounding pitch**
 > today. Put another way: **the key (in A) describes the sound; the notation convention describes the
-> page** — two separate things. To know how an instrument is read, look at its **notation practice**;
+> page — two separate things. To know how an instrument is read, look at its notation practice**;
 > never infer it from the key.
 
 ## Structure: a slightly longer tube and a bulbous bell
@@ -276,12 +291,12 @@ there is **no transposition to do** when reading for it.
 
 Three points:
 
-1. **Only a little more tube** (about 8 cm) yet a **minor third** lower — short tubes are very sensitive to
+1. Only a little more tube (about 8 cm) yet a minor third lower — short tubes are very sensitive to
    length, the other end of the same rule that makes a [[instrument:piccolo|piccolo]]'s halved tube sound an
    octave up.
-2. **A smaller bulbous bell than the English horn's.** The three bells can be told apart in sequence
+2. A smaller bulbous bell than the English horn's. The three bells can be told apart in sequence
    (next section).
-3. **It too has a crook.** So "bent horn" describes the d'amore as much as the English horn — the name
+3. It too has a crook. So "bent horn" describes the d'amore as much as the English horn — the name
    landed on one of them somewhat by accident.
 
 ## Three oboes, three bells
@@ -311,8 +326,8 @@ Three points:
 </svg>
 ```
 
-**A continuous brightness gradient**: oboe (bright) → d'amore (soft) → English horn (dark), sampled by the
-**volume of the bulbous cavity**.
+A continuous brightness gradient: oboe (bright) → d'amore (soft) → English horn (dark), sampled by the
+volume of the bulbous cavity.
 
 That also explains their division of labour: **the oboe keeps the line clear, the d'amore softens it
 slightly, the English horn supplies thickness and grief.**
@@ -323,40 +338,40 @@ slightly, the English horn supplies thickness and grief.**
 {"range":"A3–E6","common":"A3–C6","caption":"柔音双簧管的音域","caption_en":"Oboe d'amore range","note":"柔音管虽为 A 调乐器（比双簧管低小三度），但现代乐谱按实音记谱 —— 谱面与出声一致，不按双簧管指法移调。标准音域 A3–E6。"}
 ```
 
-- **Sounding A3–E6** — the oboe's range shifted down a minor third.
-- **The working register is A3–C6**; the top is less free than the oboe's and does not go as far.
-- **The comparison worth noting**: the same pitch needs **more air over a longer, wider column**, so the
+- Sounding A3–E6 — the oboe's range shifted down a minor third.
+- The working register is A3–C6; the top is less free than the oboe's and does not go as far.
+- The comparison worth noting: the same pitch needs more air over a longer, wider column, so the
   d'amore carries an inherent thickness — the mark of its bore ratio.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Soft and sweet, with less of the oboe's tension.** The bulb damps part of the upper spectrum, so the
+1. Soft and sweet, with less of the oboe's tension. The bulb damps part of the upper spectrum, so the
    narrow brightness is tempered.
-2. **Still a reed core.** However soft, it is reed-driven and never scatters the way a flute can.
-3. **Best in its dark middle** (around A4). Its bottom is thinner than the oboe's and its top less free.
-4. **In an orchestra it works like a filter** — it does not take the line, but it softens the whole texture
+2. Still a reed core. However soft, it is reed-driven and never scatters the way a flute can.
+3. Best in its dark middle (around A4). Its bottom is thinner than the oboe's and its top less free.
+4. In an orchestra it works like a filter — it does not take the line, but it softens the whole texture
    wherever it appears.
 
 ```audiolab
 {"type":"instrument","gm":"Oboe","synth":"reed","phrase":["A3","C4","E4","A4","C5","E5"],"label":"柔音双簧管的常用区：A3 到 E5","label_en":"The oboe d'amore's working register — A3 up to E5","hint":"注意比双簧管低小三度之后那种「柔」—— 通用音色表里没有柔音管，这里借双簧管音色近似","hint_en":"Hear how a minor third lower turns soft. General MIDI has no d'amore, so an oboe sample stands in."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI set has **no oboe d'amore**. What plays above is an **oboe** sample
+> ⚠️ On the audio: the General MIDI set has no oboe d'amore. What plays above is an oboe sample
 > moved into the d'amore's register — it suggests the range, not the true colour.
 
 ## Playing techniques
 
 The technique is shared with the [[instrument:oboe|oboe]] (the same reed craft, the same keywork logic),
-differing in **reed and crook**:
+differing in reed and crook:
 
-- **A slightly larger reed**, wider than an oboe's, bound onto the top of the crook.
-- **A neck strap**, since the body is longer.
-- **Wider key spacing**, so fast passagework has to be relearned.
+- A slightly larger reed, wider than an oboe's, bound onto the top of the crook.
+- A neck strap, since the body is longer.
+- Wider key spacing, so fast passagework has to be relearned.
 
-Worth stressing: **the d'amore is a Baroque instrument**, and its repertoire expects **round legato**,
-**few accents**, and **vibrato so restrained it is almost invisible** — that is what Baroque performance
+Worth stressing: the d'amore is a Baroque instrument, and its repertoire expects round legato,
+few accents, and vibrato so restrained it is almost invisible — that is what Baroque performance
 practice asks of it.
 
 ## The family
@@ -368,8 +383,8 @@ practice asks of it.
 | [[instrument:english-horn\|English horn]] | F | written a **fifth above** sounding | a **fifth** lower | larger bulb | dark, plaintive, thick |
 | [[instrument:bassoon\|Bassoon]] | C | at pitch | **two octaves** lower | folded + long bell | the woodwind bass |
 
-**Note how the "notation" column and the "key" column do not line up** — which is exactly the point made at
-the top: **the key describes the sound, the notation convention is a separate agreement.** All three are
+Note how the "notation" column and the "key" column do not line up — which is exactly the point made at
+the top: the key describes the sound, the notation convention is a separate agreement. All three are
 lower, yet only the English horn transposes.
 
 ## History
@@ -388,15 +403,15 @@ else can hold.
 
 ## Common misconceptions
 
-- **"The oboe d'amore is the English horn."** Constantly confused, but the **keys differ**: the d'amore is a
-  **minor third** lower (in A), the English horn a **fifth** lower (in F), and the bulbs differ in size.
-- **"It is in A, so you transpose for it."** Modern scores are **at sounding pitch**. Judging notation means
-  knowing the **convention**, not the key.
-- **"It is just an oboe moved down a bit."** Only 8 cm longer, but with a **different bell** — so its colour
+- "The oboe d'amore is the English horn." Constantly confused, but the keys differ: the d'amore is a
+  minor third lower (in A), the English horn a fifth lower (in F), and the bulbs differ in size.
+- "It is in A, so you transpose for it." Modern scores are at sounding pitch. Judging notation means
+  knowing the convention, not the key.
+- "It is just an oboe moved down a bit." Only 8 cm longer, but with a different bell — so its colour
   is not "a lower oboe" but its own point on a separate axis.
-- **"A small repertoire means it hardly matters."** Its weight comes almost entirely from the Baroque —
-  **the parts Bach left** are enough to put it in any period performance.
-- **"General MIDI has one."** It does not; an oboe sample is the only stand-in (as on this page).
+- "A small repertoire means it hardly matters." Its weight comes almost entirely from the Baroque —
+  the parts Bach left are enough to put it in any period performance.
+- "General MIDI has one." It does not; an oboe sample is the only stand-in (as in the sample above).
 
 ## Next
 
@@ -405,6 +420,6 @@ That completes the oboe family's three stops ([[instrument:oboe|oboe]] · d'amor
 down — a tube long enough that it has to be folded to be held.
 
 For another axis of comparison, go to the [[instrument:clarinet|clarinet]]: also a single wooden tube with a
-single reed, yet because its bore is **cylindrical** it carries three completely different registers — the
+single reed, yet because its bore is cylindrical it carries three completely different registers — the
 other extreme of "the bore decides everything".
 :::

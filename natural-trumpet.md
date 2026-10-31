@@ -47,10 +47,10 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 铜管（小号族 · 早期支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，自然小号不在其中 |
 
-> ⚠️ **一个概念上的要点**：**"无阀门"不等于"不会吹"—— 它意味着"音只能从泛音列里挑"。**
-> 自然小号的高音区泛音密集，所以**高音区反而音更多**；
+> ⚠️ **一个概念上的要点**："无阀门"不等于"不会吹"—— 它意味着"音只能从泛音列里挑"。
+> 自然小号的高音区泛音密集，所以高音区反而音更多；
 > 低音区泛音稀少，只有几个音可用。
-> 这与现代铜管的直觉相反：**对自然号来说，越高越好吹（音越多），越低越难（几乎没有音）。**
+> 这与现代铜管的直觉相反：对自然号来说，越高越好吹（音越多），越低越难（几乎没有音）。
 
 ## 结构：更长的管，没有阀门
 
@@ -82,11 +82,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **管更长、管径更细、喇叭口更小**。这三条一起让它的音色**比现代小号柔** ——
+1. 管更长、管径更细、喇叭口更小。这三条一起让它的音色比现代小号柔 ——
    巴洛克的听觉理想不追求尖亮的投射。
-2. **没有阀门，但有"套节"（crook / shank）**。演奏者可以换接管或变调管，
-   改变整支乐器的调性 —— 这是当时**改变整套可用音**的唯一办法。
-3. **常与定音鼓配对**。两者都是只有少数音可用的乐器，合在一起成为巴洛克"仪典音响"的模板。
+2. 没有阀门，但有"套节"（crook / shank）。演奏者可以换接管或变调管，
+   改变整支乐器的调性 —— 这是当时改变整套可用音的唯一办法。
+3. 常与定音鼓配对。两者都是只有少数音可用的乐器，合在一起成为巴洛克"仪典音响"的模板。
 
 ## 泛音列就是它的全部音
 
@@ -121,7 +121,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这条"反直觉"的分布决定了巴洛克小号的写法**：
+这条"反直觉"的分布决定了巴洛克小号的写法：
 
 | 音区 | 泛音疏密 | 可用的音 | 演奏难度 |
 |---|---|---|---|
@@ -129,11 +129,11 @@ updated: 2026-09-26
 | 中音区 | 中（第 3–6 次） | 五六个 | 需要控制 |
 | **高音区（clarino）** | **密（第 6–16 次）** | **多，可吹旋律** | **极难，是专门技艺** |
 
-**所以巴洛克小号的独奏段几乎都在高音区** ——
-那不是为了炫耀，而是**因为只有那里才有足够的音可以写成旋律**。
+所以巴洛克小号的独奏段几乎都在高音区 ——
+那不是为了炫耀，而是因为只有那里才有足够的音可以写成旋律。
 
 这也解释了"克拉里诺（clarino）"这个词：
-它指的是**用高音区演奏旋律**的专门技艺，与"clarinet（单簧管）"的词源同出一处
+它指的是用高音区演奏旋律的专门技艺，与"clarinet（单簧管）"的词源同出一处
 （都来自拉丁语 clarus，"明亮"）。
 
 ## 音域
@@ -142,39 +142,39 @@ updated: 2026-09-26
 {"range":"C4–D6","common":"C4–G5","caption":"自然小号的可用音区（以 C 调为例）","caption_en":"Natural trumpet — the playable register (in C)","note":"自然小号只能吹泛音列上的音，所以「音域」要理解为「可用音的分布」。低音区只有几个音；高音区（clarino）泛音密、可写旋律，是巴洛克独奏段所在。记谱即实音。"}
 ```
 
-- **可用音集中在 C4–D6** 之间，但**不是连续的半音** —— 而是泛音列上的点。
-- **常用区 C4–G5**：这一带的音比较密集，可以写出旋律。
-- **高音区（G5 以上）** 是**克拉里诺技艺**的地盘，巴洛克小号手以此为专业。
+- 可用音集中在 C4–D6 之间，但不是连续的半音 —— 而是泛音列上的点。
+- 常用区 C4–G5：这一带的音比较密集，可以写出旋律。
+- 高音区（G5 以上） 是克拉里诺技艺的地盘，巴洛克小号手以此为专业。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **比现代小号柔、圆、小一号**。音量与投射力都不如现代小号 ——
+1. 比现代小号柔、圆、小一号。音量与投射力都不如现代小号 ——
    巴洛克编制本来就小，不需要那么大的声音。
-2. **音头有"号角感"**。它天生适合信号式的短句。
-3. **高音区有独特的"紧"**。克拉里诺高音不像现代小号那样亮，
+2. 音头有"号角感"。它天生适合信号式的短句。
+3. 高音区有独特的"紧"。克拉里诺高音不像现代小号那样亮，
    而是一种紧张、带"挤"的音色。
-4. **音准依赖泛音列的准确位置**。既然是泛音列上的点，音准就由唇部张力精确决定 ——
+4. 音准依赖泛音列的准确位置。既然是泛音列上的点，音准就由唇部张力精确决定 ——
    与现代小号一样难，只是难点不同。
 
 ```audiolab
 {"type":"instrument","gm":"Trumpet","synth":"brass","phrase":["C4","G4","C5","E5","G5","C6"],"label":"自然小号可用音的一例：C4 到 C6","label_en":"One set of natural trumpet notes — C4 up to C6","hint":"注意这些音都是泛音列上的点，中间没有半音 —— 现代小号演奏的巴洛克曲目用的是同一批音","hint_en":"These notes are points on the harmonic series, with no semitones between them — the same notes a modern trumpet uses for this repertoire."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）里**没有自然小号**。
-> 上面播放的是**现代小号**音色，音高取自它可用的泛音列 ——
-> **音区与音高是对的，音色比真实的自然小号更亮更硬。**
+> ⚠️ 关于试听：通用音色表（General MIDI）里没有自然小号。
+> 上面播放的是现代小号音色，音高取自它可用的泛音列 ——
+> 音区与音高是对的，音色比真实的自然小号更亮更硬。
 
 ## 演奏技法
 
-- **一切靠唇部张力与气息**。没有按键可以按，音高完全由嘴唇的振动状态决定 ——
-  所以自然小号的演奏是**纯唇部控制**的技术。
-- **克拉里诺（clarino）与普林齐帕莱（principale）两种风格**：
+- 一切靠唇部张力与气息。没有按键可以按，音高完全由嘴唇的振动状态决定 ——
+  所以自然小号的演奏是纯唇部控制的技术。
+- 克拉里诺（clarino）与普林齐帕莱（principale）两种风格：
   前者在高音区吹旋律，后者在中低音区吹号角式的长音与节奏型。
-- **现代多用"巴洛克小号"复制品**：常开三个**指孔**（vent holes）来辅助音准与高音 ——
+- 现代多用"巴洛克小号"复制品：常开三个指孔（vent holes）来辅助音准与高音 ——
   这是个折衷，也说明纯自然号的高音区有多难。
-- **变调管（crook）**：换接管来改变乐器调性 —— 巴洛克乐手常备多套。
+- 变调管（crook）：换接管来改变乐器调性 —— 巴洛克乐手常备多套。
 
 ## 家族与近亲
 
@@ -186,8 +186,8 @@ updated: 2026-09-26
 | [[instrument:serpent\|蛇形号]] | **指孔** | 指孔 + 泛音列 | 16 世纪末起 |
 | [[instrument:ophicleide\|奥菲克莱德号]] | **指孔 + 键** | 指孔 + 键系 + 泛音列 | 19 世纪初起 |
 
-**中间三行是一条技术谱系**：从"完全靠泛音列"到"靠指孔"到"靠键"，
-最后到"靠活塞" —— **每一步都在解决同一个问题：怎么把泛音列之间的音补上。**
+中间三行是一条技术谱系：从"完全靠泛音列"到"靠指孔"到"靠键"，
+最后到"靠活塞" —— 每一步都在解决同一个问题：怎么把泛音列之间的音补上。
 
 ## 历史演变
 
@@ -201,30 +201,31 @@ updated: 2026-09-26
 | 20 世纪 | **古乐运动复兴**：演奏者用复制品重建巴洛克小号技艺 |
 | 20 世纪后期至今 | 古乐演奏的标准配置；也用于当代作品 |
 
-**"有键小号"这一站值得注意**：它出现在自然小号与活塞小号之间，
-用**指孔 + 键**来补齐半音 —— 与[[instrument:ophicleide|奥菲克莱德号]]是同一思路，
-只是用在不同的音区。**海顿那首著名的协奏曲就是为它写的，而不是为自然小号。**
+"有键小号"这一站值得注意：它出现在自然小号与活塞小号之间，
+用指孔 + 键来补齐半音 —— 与[[instrument:ophicleide|奥菲克莱德号]]是同一思路，
+只是用在不同的音区。海顿那首著名的协奏曲就是为它写的，而不是为自然小号。
 
 ## 常见误解
 
-- **"自然小号是'不完善的小号'。"** 它是巴洛克音乐的**标准乐器**，
+- "自然小号是'不完善的小号'。" 它是巴洛克音乐的标准乐器，
   在那套音乐里它完全够用 —— 而且高音区的技艺是当时最难的器乐技巧之一。
-- **"没有阀门所以吹不出旋律。"** 恰恰相反：**高音区泛音密集，能吹出完整的旋律**。
+- "没有阀门所以吹不出旋律。" 恰恰相反：高音区泛音密集，能吹出完整的旋律。
   巴洛克的华丽小号段就在那里。
-- **"音越低越容易。"** 对自然号来说**越低音越少** ——
+- "音越低越容易。" 对自然号来说越低音越少 ——
   低音区只有两三个音，反而没有旋律可写。
-- **"海顿小号协奏曲是给自然小号的。"** 它是为**有键小号**写的 ——
+- "海顿小号协奏曲是给自然小号的。" 它是为有键小号写的 ——
   一件用键开孔补齐半音的过渡乐器。
-- **"它已经灭绝了。"** 20 世纪古乐运动让它完全复活，
+- "它已经灭绝了。" 20 世纪古乐运动让它完全复活，
   今天有一批专职的巴洛克小号演奏者。
 
 ## 下一步
 
-顺着"补齐泛音列之间的音"这条技术线往下走，就是两件用**指孔**的低音铜管：
+顺着"补齐泛音列之间的音"这条技术线往下走，就是两件用指孔的低音铜管：
 [[instrument:serpent|蛇形号]]（木制、蛇形）与 [[instrument:ophicleide|奥菲克莱德号]]（铜制、带键）。
-它们的故事会解释**为什么活塞最终赢了**。
+它们的故事会解释为什么活塞最终赢了。
 
 想直接看结果，就去 [[instrument:tuba|大号]] —— 那条技术线的终点。
+
 :::
 
 ::: en
@@ -243,7 +244,7 @@ astonishing things inside it.
 | **Bayin** | Not applicable — a Chinese system; the natural trumpet is outside it |
 
 > ⚠️ **One conceptual point**: **"valveless" does not mean "unplayable" — it means "the notes can only be
-> chosen from the harmonic series".** Partials crowd together high up, so the **top register has more
+> chosen from the harmonic series". Partials crowd together high up, so the top register has more
 > notes**; the low register is sparse, with only a few.
 > The opposite of modern brass intuition: **on a natural instrument, higher is easier (more notes), lower is
 > harder (almost none).**
@@ -278,11 +279,11 @@ astonishing things inside it.
 
 Three points:
 
-1. **Longer tube, narrower bore, smaller bell.** Together they make it **softer than a modern trumpet** —
+1. Longer tube, narrower bore, smaller bell. Together they make it softer than a modern trumpet —
    Baroque taste did not want bright projection.
-2. **No valves, but "crooks".** Players swapped crooks or shanks to change the instrument's key — the only
-   way then to **change which notes were available**.
-3. **Often paired with timpani.** Both offer few notes, and both supply ceremonial weight — the template for
+2. No valves, but "crooks". Players swapped crooks or shanks to change the instrument's key — the only
+   way then to change which notes were available.
+3. Often paired with timpani. Both offer few notes, and both supply ceremonial weight — the template for
    Baroque festive sound.
 
 ## The harmonic series is all it has
@@ -318,7 +319,7 @@ Three points:
 </svg>
 ```
 
-**This counter-intuitive distribution shapes all Baroque trumpet writing**:
+This counter-intuitive distribution shapes all Baroque trumpet writing:
 
 | Register | Partial spacing | Notes available | Difficulty |
 |---|---|---|---|
@@ -326,11 +327,11 @@ Three points:
 | Middle | medium (3rd–6th) | five or six | needs control |
 | **Top (clarino)** | **dense (6th–16th)** | **many, enough for melody** | **extremely hard, a specialist craft** |
 
-**So Baroque trumpet solos live in the top register** — not for display, but because **only there are there
+So Baroque trumpet solos live in the top register — not for display, but because **only there are there
 enough notes to write a melody.**
 
-That also explains the word **clarino**: it names **the craft of playing melody in the high register**, and
-shares its root with "clarinet" (both from Latin **clarus**, bright).
+That also explains the word clarino: it names the craft of playing melody in the high register, and
+shares its root with "clarinet" (both from Latin clarus, bright).
 
 ## Range
 
@@ -338,40 +339,40 @@ shares its root with "clarinet" (both from Latin **clarus**, bright).
 {"range":"C4–D6","common":"C4–G5","caption":"自然小号的可用音区（以 C 调为例）","caption_en":"Natural trumpet — the playable register (in C)","note":"自然小号只能吹泛音列上的音，所以「音域」要理解为「可用音的分布」。低音区只有几个音；高音区（clarino）泛音密、可写旋律，是巴洛克独奏段所在。记谱即实音。"}
 ```
 
-- **The usable notes sit between C4 and D6**, but they are **not a chromatic scale** — they are points on
+- The usable notes sit between C4 and D6, but they are not a chromatic scale — they are points on
   the harmonic series.
-- **The working area is C4–G5**, dense enough to carry melody.
-- **Above G5** belongs to the **clarino** craft, a Baroque trumpeter's speciality.
+- The working area is C4–G5, dense enough to carry melody.
+- Above G5 belongs to the clarino craft, a Baroque trumpeter's speciality.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Softer, rounder, a size smaller** than a modern trumpet — Baroque ensembles were small and did not need
+1. Softer, rounder, a size smaller than a modern trumpet — Baroque ensembles were small and did not need
    the volume.
-2. **A fanfare-like attack**, naturally suited to signalling figures.
-3. **A distinctive tightness at the top**: clarino high notes are not bright like a modern trumpet's but
+2. A fanfare-like attack, naturally suited to signalling figures.
+3. A distinctive tightness at the top: clarino high notes are not bright like a modern trumpet's but
    tense and squeezed.
-4. **Pitch depends on hitting partials exactly.** Being points on a series, intonation is decided entirely by
+4. Pitch depends on hitting partials exactly. Being points on a series, intonation is decided entirely by
    lip tension — as hard as a modern trumpet, just hard in a different place.
 
 ```audiolab
 {"type":"instrument","gm":"Trumpet","synth":"brass","phrase":["C4","G4","C5","E5","G5","C6"],"label":"自然小号可用音的一例：C4 到 C6","label_en":"One set of natural trumpet notes — C4 up to C6","hint":"注意这些音都是泛音列上的点，中间没有半音 —— 现代小号演奏的巴洛克曲目用的是同一批音","hint_en":"These notes are points on the harmonic series, with no semitones between them — the same notes a modern trumpet uses for this repertoire."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI set has **no natural trumpet**. A **modern trumpet** sample plays
+> ⚠️ On the audio: the General MIDI set has no natural trumpet. A modern trumpet sample plays
 > above, on notes drawn from the same series — **the register and pitch are right, the tone brighter and
 > harder than the real thing.**
 
 ## Playing techniques
 
-- **Everything depends on lip tension and air.** There are no keys to press; pitch is the vibration state of
-  the lips — natural trumpet playing is **pure lip control**.
-- **Two styles: clarino and principale** — the first plays melody in the high register, the second fanfare
+- Everything depends on lip tension and air. There are no keys to press; pitch is the vibration state of
+  the lips — natural trumpet playing is pure lip control.
+- Two styles: clarino and principale — the first plays melody in the high register, the second fanfare
   figures in the middle and low.
-- **Modern copies usually add three vent holes** to help pitch and the top register — a compromise that also
+- Modern copies usually add three vent holes to help pitch and the top register — a compromise that also
   shows how hard the pure natural instrument is up there.
-- **Crooks** change the key of the instrument; Baroque players kept several.
+- Crooks change the key of the instrument; Baroque players kept several.
 
 ## The family
 
@@ -383,8 +384,8 @@ Four cues:
 | [[instrument:serpent\|Serpent]] | **finger holes** | holes + series | from the late 16th c. |
 | [[instrument:ophicleide\|Ophicleide]] | **holes + keys** | holes + keys + series | from the early 19th c. |
 
-**The middle three rows are a technical lineage**: from "series only" to "holes" to "keys", and finally to
-"valves" — **each step solving the same problem: how to fill the notes between the partials.**
+The middle three rows are a technical lineage: from "series only" to "holes" to "keys", and finally to
+"valves" — each step solving the same problem: how to fill the notes between the partials.
 
 ## History
 
@@ -398,28 +399,28 @@ Four cues:
 | 20th c. | **revived by the early-music movement**, with players rebuilding the clarino craft on copies |
 | Late 20th c. onward | a standard in period performance, and used in contemporary music |
 
-**The "keyed trumpet" stop is worth noting**: it sits between the natural and the valved trumpet, using
-**holes and keys** to fill in semitones — the same idea as the [[instrument:ophicleide|ophicleide]], in a
-different register. **Haydn's famous concerto was written for it, not for the natural trumpet.**
+The "keyed trumpet" stop is worth noting: it sits between the natural and the valved trumpet, using
+holes and keys to fill in semitones — the same idea as the [[instrument:ophicleide|ophicleide]], in a
+different register. Haydn's famous concerto was written for it, not for the natural trumpet.
 
 ## Common misconceptions
 
-- **"A natural trumpet is an imperfect trumpet."** It was the **standard instrument** of Baroque music,
+- "A natural trumpet is an imperfect trumpet." It was the standard instrument of Baroque music,
   entirely adequate there — and its high register demanded one of the hardest instrumental crafts of the age.
-- **"No valves means no melody."** The opposite: **in the top register the partials are dense and melody is
+- "No valves means no melody." The opposite: **in the top register the partials are dense and melody is
   possible**. That is where the brilliant Baroque parts live.
-- **"Lower is easier."** On a natural instrument **lower means fewer notes** — only two or three, so there is
+- "Lower is easier." On a natural instrument lower means fewer notes — only two or three, so there is
   no melody to write.
-- **"Haydn's trumpet concerto is for a natural trumpet."** It is for the **keyed trumpet**, a transitional
+- "Haydn's trumpet concerto is for a natural trumpet." It is for the keyed trumpet, a transitional
   instrument using keys over holes.
-- **"It is extinct."** The 20th-century early-music movement revived it completely, and there are now
+- "It is extinct." The 20th-century early-music movement revived it completely, and there are now
   dedicated performers.
 
 ## Next
 
 Following the technical thread of "filling in the notes between partials", the next two are **hole-stopped
 low brass**: the [[instrument:serpent|serpent]] (wooden, snake-shaped) and the
-[[instrument:ophicleide|ophicleide]] (brass, with keys). Their story explains **why valves won**.
+[[instrument:ophicleide|ophicleide]] (brass, with keys). Their story explains why valves won.
 
 For the endpoint of that thread, go straight to the [[instrument:tuba|tuba]].
 :::

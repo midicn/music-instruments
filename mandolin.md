@@ -28,9 +28,9 @@ instances:
   - thesession-007583 | 第三首传统舞曲，节奏更方整，适合对照同一条旋律的不同拨法
 sources:
   - 琴体尺寸取通行制琴数据：A 型曼陀林琴体长 330 毫米、最大宽 200 毫米，弦长 350 毫米
-  - 「四组复弦、定弦 G–D–A–E 与小提琴完全相同」属通行乐器学常识，本文为原创表述
+  - 「四组复弦、定弦 G–D–A–E 与小提琴完全相同」属通行乐器学常识
   - 曼陀林出自 17–18 世纪的意大利 mandolino 一族、维瓦尔第与贝多芬都为其写过作品、20 世纪在美国蓝草音乐中成为核心乐器，依通行乐器史叙述
-  - 音域数据依通行乐谱与乐器词典，本文为原创表述
+  - 音域数据依通行乐谱与乐器词典
 updated: 2026-09-25
 ---
 
@@ -112,23 +112,23 @@ updated: 2026-09-25
 1. **梨形琴体，没有明确的腰**。曼陀林不是"缩小的小提琴"，
    它的琴体是水滴形（A 型），最宽处在中下部。这个形状与
    [[instrument:lute|鲁特琴]]同一路线。
-2. **四组复弦**。每组两根同音，共八根。拨一次等于同时拨两根 →
-   **音量与余音都加倍**，代价是**调音与换弦的工作量翻倍**（八根弦要配成四对）。
-3. **可调琴桥 + 有品**。琴桥可以从音孔里调节位置与高度，
+2. 四组复弦。每组两根同音，共八根。拨一次等于同时拨两根 →
+   音量与余音都加倍，代价是调音与换弦的工作量翻倍（八根弦要配成四对）。
+3. 可调琴桥 + 有品。琴桥可以从音孔里调节位置与高度，
    这在拨弦乐器里是"方便但容易被动坏"的设计；有品则让音准固定下来。
 
 ## 发声原理：复弦是"免费"的加倍
 
-单根弦被拨响后，能量很快耗完。**两根同音弦紧挨着同时被拨**，会发生两件事：
+单根弦被拨响后，能量很快耗完。两根同音弦紧挨着同时被拨，会发生两件事：
 
 - 它们的振动几乎同步，声波在空气里叠加 → 音量明显更大。
-- 两根弦不可能完全同频（哪怕差几赫兹），叠加时会产生缓慢的**拍音**（颤动感）
+- 两根弦不可能完全同频（哪怕差几赫兹），叠加时会产生缓慢的拍音（颤动感）
   → 余音听起来更长、更有"波纹"。
 
-这正是复弦的全部作用：**用一倍的材料，换更大的音量与更长的余音**。
+这正是复弦的全部作用：用一倍的材料，换更大的音量与更长的余音。
 不需要更大的共鸣箱 —— 这对一件要抱在怀里、还要用拨片快速换弦的乐器来说很关键。
 
-> 代价要说清楚：八根弦意味着**调音时间翻倍**，只要有一根跑音，
+> 代价要说清楚：八根弦意味着调音时间翻倍，只要有一根跑音，
 > 整组的音量与余音都会打折。所以曼陀林手对调音的敏感度普遍高于吉他手。
 
 ## 音域
@@ -137,10 +137,10 @@ updated: 2026-09-25
 {"range":"G3–E7","common":"G3–E6","caption":"曼陀林的实音音域与常用音区","caption_en":"The mandolin’s sounding range and its working register","note":"曼陀林与小提琴同一套定弦（G–D–A–E），所以音域也相同。它不是移调乐器，记谱音与实际音高一致。"}
 ```
 
-因为定弦与小提琴相同，**音域也相同**：G3 到 E7（约四个八度）。
+因为定弦与小提琴相同，音域也相同：G3 到 E7（约四个八度）。
 但两者的实际用法差别很大：
 
-- 小提琴的高把位是常态；曼陀林的高把位需要**越过琴体**去按，
+- 小提琴的高把位是常态；曼陀林的高把位需要越过琴体去按，
   指板也短，所以实际常用区集中在中音区。
 - 曼陀林的高音区音色变"尖"而不是变"亮"，所以乐曲里很少长时间停在高把位。
 
@@ -148,20 +148,20 @@ updated: 2026-09-25
 
 三条线索：
 
-1. **极短的音头 + 极快的衰减**。拨片碰上钢弦是"啪"的一声，之后迅速退去。
-   所以曼陀林几乎天生适合**快速音型**，不适合长音 ——
+1. 极短的音头 + 极快的衰减。拨片碰上钢弦是"啪"的一声，之后迅速退去。
+   所以曼陀林几乎天生适合快速音型，不适合长音 ——
    除非用下面那个技巧。
-2. **颤音（tremolo）**。因为单音留不住，曼陀林用**极快的上下交替拨弦**
+2. 颤音（tremolo）。因为单音留不住，曼陀林用极快的上下交替拨弦
    把一个音"续"下去 —— 听起来像长音，其实是每秒十几次的重复。
    这是它最著名的技法，也是它听上去"在抖"的原因。
-3. **复弦的"波纹"**。同音双弦叠加出的拍音，让每个音都带一层细微的颤动 ——
+3. 复弦的"波纹"。同音双弦叠加出的拍音，让每个音都带一层细微的颤动 ——
    这是它与[[instrument:ukulele|尤克里里]]（单弦、四根）最容易分辨的地方。
 
 ```audiolab
 {"type":"instrument","gm":"Banjo","synth":"plucked","phrase":["G3","D4","A4","E5"],"label":"四组空弦：与小提琴同一套定弦","label_en":"Four open courses — the violin's tuning","hint":"⚠️ GM 音色表里没有曼陀林，这里借最接近的拨弦采样（Banjo）示范音头。请与小提琴页的同一组空弦对比：音高一样，但曼陀林的音头更脆、余音更短","hint_en":"The GM palette has no mandolin, so this borrows the nearest sampled pluck (Banjo). Compare with the violin's open strings — same pitches, but a crisper attack and a shorter decay."}
 ```
 
-> 本页「在库中听例子」里的曲子是**乐谱与演奏的骨架**（转写或雕版 MIDI），
+> 「在库中听例子」里的曲子是乐谱与演奏的骨架（转写或雕版 MIDI），
 > 音色由上面的试听件负责。
 
 ## 与小提琴：同定弦、异命运
@@ -214,7 +214,7 @@ updated: 2026-09-25
 | 持续能力 | 短，靠**颤音**续 | 长，靠弓持续 |
 | 有品 | 有 | 无 |
 
-**同一套音、两种命运**：曼陀林换来的是"音头清楚、节奏有颗粒"，
+同一套音、两种命运：曼陀林换来的是"音头清楚、节奏有颗粒"，
 失去的是持续音；小提琴反过来。
 所以同一条旋律，两件乐器会演化出完全不同的写法 ——
 曼陀林偏爱分解和弦与快速音型，小提琴偏爱长句与歌唱性连弓。
@@ -231,20 +231,20 @@ updated: 2026-09-25
 | [[instrument:ukulele\|尤克里里]] | 4 根单弦 | G4 C4 E4 A4（复入式） | 指腹 | 抱持 |
 | [[instrument:classical-guitar\|古典吉他]] | 6 根单弦 | E2 A2 D3 G3 B3 E4 | 指甲 | 抱持 |
 
-曼陀林是这张表里**唯一一件"复弦 + 高音定弦 + 拨片"**的乐器。
+曼陀林是这张表里唯一一件"复弦 + 高音定弦 + 拨片"的乐器。
 复弦家族里其他成员（鲁特琴、俄罗斯的多种多姆拉琴）多数不在中音偏高区，
 所以曼陀林的位置是独特的。
 
 ## 历史演变
 
-要理解曼陀林的定弦为什么和小提琴一样，得从**拨弦乐器的复弦传统**说起。
+要理解曼陀林的定弦为什么和小提琴一样，得从拨弦乐器的复弦传统说起。
 
-16–17 世纪的欧洲，拨弦乐器普遍用**复弦**：鲁特琴是，曼陀林的前身
-**mandolino**（意大利的小型复弦拨弦乐器）也是。它们当时的定弦往往成对配置
+16–17 世纪的欧洲，拨弦乐器普遍用复弦：鲁特琴是，曼陀林的前身
+mandolino（意大利的小型复弦拨弦乐器）也是。它们当时的定弦往往成对配置
 （两组接近的音 + 两组），不是今天这套 G–D–A–E。
 
-到了 18 世纪，意大利的制琴传统把这个体系整理成了**四组复弦、定弦取小提琴那一套**——
-这样**小提琴曲可以直接搬到曼陀林上弹**。这是关键的一步：
+到了 18 世纪，意大利的制琴传统把这个体系整理成了四组复弦、定弦取小提琴那一套——
+这样小提琴曲可以直接搬到曼陀林上弹。这是关键的一步：
 曼陀林从此有了一个"上游曲库"。维瓦尔第、贝多芬等人都为它写过作品，
 写的时候直接借用了弦乐界的乐句语言。
 
@@ -256,22 +256,22 @@ updated: 2026-09-25
 | 20 世纪 30–40 年代 | 成为美国**蓝草音乐**的核心乐器（Bill Monroe 的影响力） |
 | 今天 | 两条线并存：古典／室内乐的传统，与蓝草／民间的传统 |
 
-顺带说一个今天最容易被忽略的细节：**"曼陀林"其实有好几种形制**。
-那波里式的背板是**碗状**（像半个瓢），A 型是**平背梨形**，F 型有**涡卷与 f 孔**。
+顺带说一个今天最容易被忽略的细节："曼陀林"其实有好几种形制。
+那波里式的背板是碗状（像半个瓢），A 型是平背梨形，F 型有涡卷与 f 孔。
 它们的定弦一样，音色与音量不同 —— F 型音量最大，是蓝草的标配。
 
 ## 常见误解
 
-- **"曼陀林就是小号的小提琴。"** → 定弦与音域确实相同，但**发音方式完全不同**：
+- "曼陀林就是小号的小提琴。" → 定弦与音域确实相同，但发音方式完全不同：
   拨片拨弦（音头极短）对弓摩擦（可无限持续）。这一条差别决定了它俩的曲目写法分道扬镳。
-- **"八根弦，所以是八音。"** → 是**四组**、每组两根同音。听起来是四个音，不是八个。
-- **"定弦和小提琴一样，所以指法可以照搬。"** → 音程关系可以照搬，但**有品 vs 无品**、
+- "八根弦，所以是八音。" → 是四组、每组两根同音。听起来是四个音，不是八个。
+- "定弦和小提琴一样，所以指法可以照搬。" → 音程关系可以照搬，但有品 vs 无品、
   把位高度、右手发音方式都不同。同一段旋律的合理写法会不一样。
-- **"颤音是装饰。"** → 不是。因为单音留不住，**颤音是曼陀林做出长音的唯一手段**。
+- "颤音是装饰。" → 不是。因为单音留不住，颤音是曼陀林做出长音的唯一手段。
   它是生存技术，不是花样。
-- **"曼陀林只有一种样子。"** → 至少三种形制：那波里式（碗背）、A 型（平背）、F 型（带 f 孔）。
+- "曼陀林只有一种样子。" → 至少三种形制：那波里式（碗背）、A 型（平背）、F 型（带 f 孔）。
   定弦相同，音响差别不小。
-- **"它只是民间乐器。"** → 18 世纪欧洲作曲界就为它写过作品（协奏曲、奏鸣曲），
+- "它只是民间乐器。" → 18 世纪欧洲作曲界就为它写过作品（协奏曲、奏鸣曲），
   古典传统一直在。蓝草只是它的第二个舞台。
 
 ## 下一步
@@ -280,6 +280,7 @@ updated: 2026-09-25
 [[instrument:ukulele|尤克里里]] 是"四组弦但用单弦"的对照（一个四组单弦、一个四组复弦）。
 想理解复弦为什么能加倍音量，[[concept:harmonic-series|泛音列]]与
 [[concept:interval|音程]]两节能给出机制。
+
 :::
 
 ::: en
@@ -355,26 +356,26 @@ Three structural points:
 1. **A pear-shaped body with no real waist.** The mandolin is not a shrunken violin; the A-style body
    is teardrop-shaped, widest in the lower half — the same line of construction as the
    [[instrument:lute|lute]].
-2. **Four doubled courses.** Two strings per note, eight in total. One stroke sounds both →
-   **volume and sustain roughly double**, at the cost of **twice the tuning and restringing work**
+2. Four doubled courses. Two strings per note, eight in total. One stroke sounds both →
+   volume and sustain roughly double, at the cost of twice the tuning and restringing work
    (eight strings must be matched into four pairs).
-3. **An adjustable bridge plus frets.** The bridge can be repositioned and raised through the soundhole
+3. An adjustable bridge plus frets. The bridge can be repositioned and raised through the soundhole
    — convenient, and easy to knock out of adjustment. Frets fix the intonation.
 
 ## How it sounds: doubling for free
 
-When a single string is plucked its energy runs out quickly. **Two unison strings struck together**
+When a single string is plucked its energy runs out quickly. Two unison strings struck together
 do two things:
 
 - Their vibrations are almost synchronised, so the sound waves add in the air → noticeably more volume.
-- They can never be **exactly** the same frequency (a few hertz apart at most); the addition produces a
-  slow **beating** → the sustain sounds longer and slightly rippled.
+- They can never be exactly the same frequency (a few hertz apart at most); the addition produces a
+  slow beating → the sustain sounds longer and slightly rippled.
 
-That is the whole point of courses: **twice the material for more volume and longer sustain**, with no
+That is the whole point of courses: twice the material for more volume and longer sustain, with no
 need for a bigger box — which matters a great deal for an instrument held in the lap and played with a
 fast-moving pick.
 
-> The cost should be stated: eight strings means **double the tuning time**, and one string drifting
+> The cost should be stated: eight strings means double the tuning time, and one string drifting
 > dulls the volume and sustain of its whole course. Mandolin players tend to be more sensitive to tuning
 > than guitarists.
 
@@ -384,31 +385,31 @@ fast-moving pick.
 {"range":"G3–E7","common":"G3–E6","caption":"曼陀林的实音音域与常用音区","caption_en":"The mandolin’s sounding range and its working register","note":"曼陀林与小提琴同一套定弦（G–D–A–E），所以音域也相同。它不是移调乐器，记谱音与实际音高一致。"}
 ```
 
-Because the tuning is the violin's, **the range is the violin's**: G3 to E7, about four octaves.
+Because the tuning is the violin's, the range is the violin's: G3 to E7, about four octaves.
 In practice the two use it very differently:
 
-- A violinist lives in high positions; a mandolinist must reach **past the body** and the fingerboard is
+- A violinist lives in high positions; a mandolinist must reach past the body and the fingerboard is
   short, so the working register sits in the middle.
-- High notes on a mandolin turn **thin** rather than bright, so music rarely stays up there long.
+- High notes on a mandolin turn thin rather than bright, so music rarely stays up there long.
 
 ## Timbre, and how to hear it
 
 Three cues:
 
-1. **An extremely short attack and a fast decay.** A pick on steel is a "clack" followed by a rapid
-   fade. That makes the mandolin naturally suited to **fast figures** and unsuited to long notes —
+1. An extremely short attack and a fast decay. A pick on steel is a "clack" followed by a rapid
+   fade. That makes the mandolin naturally suited to fast figures and unsuited to long notes —
    unless you use the technique below.
-2. **Tremolo.** Because a single note will not hold, the mandolin **alternates the pick at great speed**
+2. Tremolo. Because a single note will not hold, the mandolin alternates the pick at great speed
    to sustain it. It sounds like a long note but is really a dozen-plus repetitions a second. This is
    its best-known technique, and the reason it seems to shimmer.
-3. **The ripple of doubled courses.** The beating between unison pairs leaves a faint tremble on every
+3. The ripple of doubled courses. The beating between unison pairs leaves a faint tremble on every
    note — the easiest way to tell a mandolin from a [[instrument:ukulele|ukulele]] (four single strings).
 
 ```audiolab
 {"type":"instrument","gm":"Banjo","synth":"plucked","phrase":["G3","D4","A4","E5"],"label":"四组空弦：与小提琴同一套定弦","label_en":"Four open courses — the violin's tuning","hint":"⚠️ GM 音色表里没有曼陀林，这里借最接近的拨弦采样（Banjo）示范音头。请与小提琴页的同一组空弦对比：音高一样，但曼陀林的音头更脆、余音更短","hint_en":"The GM palette has no mandolin, so this borrows the nearest sampled pluck (Banjo). Compare with the violin's open strings — same pitches, but a crisper attack and a shorter decay."}
 ```
 
-> The tracks under “Listen in the library” are the **skeleton of the music** — transcription or
+> The tracks under “Listen in the library” are the skeleton of the music — transcription or
 > engraving MIDI — while timbre is handled by the player above.
 
 ## Mandolin and violin: one tuning, two fates
@@ -458,7 +459,7 @@ The same G–D–A–E lives two very different lives:
 | Sustaining | short — tremolo does the work | long — the bow sustains |
 | Frets | yes | no |
 
-**One set of notes, two fates.** The mandolin buys a clear attack and rhythmic grain, and pays with
+One set of notes, two fates. The mandolin buys a clear attack and rhythmic grain, and pays with
 sustain; the violin is the reverse. Given the same melody, the two evolve completely different
 writing — the mandolin favours broken chords and fast figures, the violin long phrases and singing
 legato.
@@ -485,11 +486,11 @@ To understand why the mandolin shares the violin's tuning, start with the **cour
 tradition**.
 
 In 16th- and 17th-century Europe plucked instruments commonly used courses: the lute did, and so did
-the mandolin's ancestor, the Italian **mandolino** — a small course-strung instrument. Its tunings were
+the mandolin's ancestor, the Italian mandolino — a small course-strung instrument. Its tunings were
 usually arranged in pairs (two adjacent notes plus two others), not today's G–D–A–E.
 
-In the 18th century the Italian making tradition settled it into **four courses tuned like a violin** —
-which meant **violin music could be played directly on the mandolin**. That was the decisive step: the
+In the 18th century the Italian making tradition settled it into four courses tuned like a violin —
+which meant violin music could be played directly on the mandolin. That was the decisive step: the
 mandolin acquired an upstream repertoire. Vivaldi, Beethoven and others wrote for it, using the
 phrasing language of the string world directly.
 
@@ -501,26 +502,26 @@ phrasing language of the string world directly.
 | 1930s–40s | becomes central to American **bluegrass** (Bill Monroe's influence) |
 | Today | two traditions coexist: classical/chamber and bluegrass/folk |
 
-One easily missed detail: **"mandolin" covers several constructions**. Neapolitan mandolins have a
-**bowl back** (half a gourd), the A-style is a **flat-backed pear**, and the F-style has **scrolls and
+One easily missed detail: "mandolin" covers several constructions. Neapolitan mandolins have a
+bowl back (half a gourd), the A-style is a flat-backed pear, and the F-style has **scrolls and
 f-holes**. The tuning is the same; volume and tone differ — the F-style is the loudest and is standard
 in bluegrass.
 
 ## Common misconceptions
 
-- **"A mandolin is a small violin."** Same tuning and range, but the **sound production is completely
+- "A mandolin is a small violin." Same tuning and range, but the **sound production is completely
   different**: a pick (vanishingly short attack) versus bow friction (sustainable indefinitely). That
   one difference sends their repertoires in different directions.
-- **"Eight strings, so eight notes."** Four **courses**, two strings each in unison. You hear four
+- "Eight strings, so eight notes." Four courses, two strings each in unison. You hear four
   notes, not eight.
-- **"Same tuning as a violin, so fingerings carry over."** Interval relationships do — but **frets
+- "Same tuning as a violin, so fingerings carry over." Interval relationships do — but **frets
   versus none**, position height and right-hand technique all differ. What a good line looks like
   changes.
-- **"Tremolo is ornament."** It is not. Because a single note will not sustain, **tremolo is the only
+- "Tremolo is ornament." It is not. Because a single note will not sustain, **tremolo is the only
   way a mandolin makes a long note**. It is survival technique, not decoration.
-- **"There is one kind of mandolin."** At least three: Neapolitan (bowl back), A-style (flat back) and
+- "There is one kind of mandolin." At least three: Neapolitan (bowl back), A-style (flat back) and
   F-style (with f-holes). Same tuning, noticeably different sound.
-- **"It is only a folk instrument."** European composers wrote concertos and sonatas for it in the 18th
+- "It is only a folk instrument." European composers wrote concertos and sonatas for it in the 18th
   century; the classical tradition never stopped. Bluegrass is its second stage.
 
 ## Next

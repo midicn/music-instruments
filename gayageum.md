@@ -52,8 +52,8 @@ updated: 2026-10-28
 ## 带走三件事
 
 1. **十二弦，一弦一雁足**：音高可以重新安置。
-2. **右手拨、左手按**：弄弦让一个音有后半生。
-3. **正乐与散调**：一件乐器，两种说话方式。
+2. 右手拨、左手按：弄弦让一个音有后半生。
+3. 正乐与散调：一件乐器，两种说话方式。
 
 ### HS 分类
 
@@ -120,8 +120,8 @@ The Japanese koto has thirteen strings, movable bridges (ji) and picks (tsume) o
 ## Three things to take away
 
 1. **Twelve strings, one bridge each**: pitch can be re-placed.
-2. **Right hand plucks, left hand presses**: nonghyeon gives a note an afterlife.
-3. **Jeongak and sanjo**: one instrument, two ways of speaking.
+2. Right hand plucks, left hand presses: nonghyeon gives a note an afterlife.
+3. Jeongak and sanjo: one instrument, two ways of speaking.
 
 ### HS classification
 
@@ -158,5 +158,4 @@ The Japanese koto has thirteen strings, movable bridges (ji) and picks (tsume) o
 ```audiolab
 {"type":"instrument","gm":"Koto","synth":"plucked","phrase":["D3","G3","A3","C4","D4","A3"],"label":"伽倻琴：五声骨架上的弄弦","label_en":"Gayageum: a pentatonic frame, bent","hint":"通用音色表里没有伽倻琴，这里借 Koto 近似：五声音阶的拨弦同属东亚板面筝。真实的伽倻琴还有三样这条试听件给不了：一、雁足移动后一弦一音的自由定弦；二、左手在雁足左侧按弦，把音推高或压低的弄弦；三、丝弦或尼龙弦拨后的粗糙衰减。","hint_en":"The General MIDI table has no gayageum, so a Koto stands in: both are East Asian board zithers plucked on a pentatonic frame. Three things the sample cannot give you: the free one-string-one-pitch tuning set by moving the bridges, the left hand pressing to the left of a bridge to bend the pitch (nonghyeon), and the grainy decay of silk or nylon strings."}
 ```
-
 :::

@@ -49,11 +49,11 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 打击（体鸣·琴条族的"管"支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，管钟不在其中 |
 
-> ⚠️ **一个概念上的要点**：**"一管一音"与"一排管"是两件事。**
-> [[instrument:pan-flute|排箫]]也是"多管一音"，但它是**气鸣乐器** —— 靠气流切边发声；
-> 管钟是**体鸣乐器** —— 靠金属管本身振动发声。
-> 两者外形逻辑相似（按音高排列的管），**但振动体完全不同**。
-> **形状相似 ≠ 同类。** 判据永远是"什么在振动"。
+> ⚠️ 一个概念上的要点："一管一音"与"一排管"是两件事。
+> [[instrument:pan-flute|排箫]]也是"多管一音"，但它是气鸣乐器 —— 靠气流切边发声；
+> 管钟是体鸣乐器 —— 靠金属管本身振动发声。
+> 两者外形逻辑相似（按音高排列的管），但振动体完全不同。
+> 形状相似 ≠ 同类。 判据永远是"什么在振动"。
 
 ## 结构：悬挂的管与标定的敲击点
 
@@ -104,11 +104,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **敲击点是标定的**。管钟的每根管在制造时就确定了"击哪里音最准"，
+1. 敲击点是标定的。管钟的每根管在制造时就确定了"击哪里音最准"，
    演奏者必须击在那里 —— 否则音高会偏低、泛音也会变。
-2. **踩板控制余音**。管钟的余音极长，踩板让演奏者可以在需要时立刻收干声音。
-3. **音高与管长的关系**：管越长音越低 —— 与气鸣管乐器方向一致，
-   但**振动体不同**（金属本体 vs 空气柱），这是它与[[instrument:pan-flute|排箫]]的根本区别。
+2. 踩板控制余音。管钟的余音极长，踩板让演奏者可以在需要时立刻收干声音。
+3. 音高与管长的关系：管越长音越低 —— 与气鸣管乐器方向一致，
+   但振动体不同（金属本体 vs 空气柱），这是它与[[instrument:pan-flute|排箫]]的根本区别。
 
 ## 音域
 
@@ -116,19 +116,19 @@ updated: 2026-09-26
 {"range":"C4–F6","common":"C4–C6","caption":"管钟的音域（以一组半的形制为例）","caption_en":"Tubular bells range (a one-and-a-half-octave set)","note":"管钟属体鸣的有音高乐器。常见音域 C4–F6（一组半），另有音域更宽的形制。记谱即实音。"}
 ```
 
-- **C4–F6**（以一组半的形制为例）—— **窄，但足够**，
+- C4–F6（以一组半的形制为例）—— 窄，但足够，
   因为它模拟的是钟声，而钟声本身不需要宽音域。
-- **常用区 C4–C6**：管弦乐里的管钟声部几乎都在这里。
-- **它的功能是"音色"而不是"音域"** —— 一次钟声的出现比它奏了多少音更重要。
+- 常用区 C4–C6：管弦乐里的管钟声部几乎都在这里。
+- 它的功能是"音色"而不是"音域" —— 一次钟声的出现比它奏了多少音更重要。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **钟声**。它的音色与真实教堂钟非常接近 —— 这是它存在的唯一理由。
-2. **余音极长**。一次击奏能响很久，所以快速连续击奏会叠成一片。
-3. **低频有分量**。管径大、管长长，所以钟声的"重量"是真实的。
-4. **泛音复杂**。钟声的泛音不是谐波列，所以听起来"有厚度、不干净"——
+1. 钟声。它的音色与真实教堂钟非常接近 —— 这是它存在的唯一理由。
+2. 余音极长。一次击奏能响很久，所以快速连续击奏会叠成一片。
+3. 低频有分量。管径大、管长长，所以钟声的"重量"是真实的。
+4. 泛音复杂。钟声的泛音不是谐波列，所以听起来"有厚度、不干净"——
    这正是钟之所以为钟的原因。
 
 ```audiolab
@@ -137,10 +137,10 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **击标定敲击点**（见上图）—— 这是正确音高的前提。
-- **软头或中硬头槌**。硬槌会引出更多金属噪声。
-- **踩板控制余音**：需要收干时踩下。
-- **多次击奏的取舍**：余音长，所以连续击奏必须考虑"叠不叠得上"。
+- 击标定敲击点（见上图）—— 这是正确音高的前提。
+- 软头或中硬头槌。硬槌会引出更多金属噪声。
+- 踩板控制余音：需要收干时踩下。
+- 多次击奏的取舍：余音长，所以连续击奏必须考虑"叠不叠得上"。
 
 ## 家族与近亲
 
@@ -152,9 +152,9 @@ updated: 2026-09-26
 | [[instrument:gong\|锣]] | 合金盘 | **无** | 极长 | 气氛与高潮 |
 | [[instrument:pan-flute\|排箫]] | **空气柱** | 有 | 短 | 旋律（**气鸣，不同类**） |
 
-**管钟与[[instrument:glockenspiel|钟琴]]都在"金属 + 有音高"这一格**，
+管钟与[[instrument:glockenspiel|钟琴]]都在"金属 + 有音高"这一格，
 但一个模拟钟声（长余音）、一个加亮音色（中余音）——
-**同一格里还能继续分档，分档依据是"余音长度"**。
+同一格里还能继续分档，分档依据是"余音长度"。
 
 ## 历史演变
 
@@ -166,23 +166,23 @@ updated: 2026-09-26
 | 20 世纪 | 用法扩展到影视配乐（教堂、仪式、回忆场景几乎是标配） |
 | 20 世纪后期至今 | 管弦乐、管乐团、影视配乐的通用乐器 |
 
-**它是一项"替代技术"的胜利**：真钟无法搬进音乐厅，
+它是一项"替代技术"的胜利：真钟无法搬进音乐厅，
 而管钟用一排金属管给出了几乎相同的声音 ——
 这与[[instrument:tubular-bells|大号取代奥菲克莱德号]]是同一种逻辑：
-**更方便的方案往往会赢。**
+更方便的方案往往会赢。
 
 ## 常见误解
 
-- **"管钟与钟琴是同一件乐器。"** 一个是**悬挂的管**（模拟钟声、余音极长），
-  一个是**平放的钢条**（加亮音色、余音中等）——
+- "管钟与钟琴是同一件乐器。" 一个是悬挂的管（模拟钟声、余音极长），
+  一个是平放的钢条（加亮音色、余音中等）——
   形制、音色、用途都不同。
-- **"随便击哪里都一样。"** **每根管都有标定的敲击点** ——
+- "随便击哪里都一样。" 每根管都有标定的敲击点 ——
   击偏了音高会偏低、泛音也会变化。
-- **"它和排箫是一类。"** 都是"多管一音"，但排箫是**气鸣**（空气柱振动），
-  管钟是**体鸣**（金属振动）—— **不同类**。
-- **"它音域窄所以少见。"** 它出现得不多，但每次出现都是为了**整个段落的色彩**，
+- "它和排箫是一类。" 都是"多管一音"，但排箫是气鸣（空气柱振动），
+  管钟是体鸣（金属振动）—— 不同类。
+- "它音域窄所以少见。" 它出现得不多，但每次出现都是为了整个段落的色彩，
   不是为了弹旋律。
-- **"它只是模仿教堂钟。"** 影视与当代作品也用它表现"时间、记忆、仪式"等抽象意涵 ——
+- "它只是模仿教堂钟。" 影视与当代作品也用它表现"时间、记忆、仪式"等抽象意涵 ——
   它的音色本身已成了一种符号。
 
 ## 下一步
@@ -190,6 +190,7 @@ updated: 2026-09-26
 金属一类里还剩两件：[[instrument:celesta|钢片琴]]（键盘击奏的钢片，玻璃般）
 与 [[instrument:gong|锣]]（无音高、余音极长的合金盘）。
 锣会把打击批带出"有音高"的范围，进入"只用音色本身说话"的那一片。
+
 :::
 
 ::: en
@@ -208,11 +209,11 @@ requirement**.
 | **Family** | Western · Percussion (idiophone; "tube" branch of the bar family) |
 | **Bayin** | Not applicable — a Chinese system; tubular bells are outside it |
 
-> ⚠️ **One conceptual point**: **"one note per tube" and "a row of tubes" are two separate matters.**
-> The [[instrument:pan-flute|pan flute]] is also "many tubes, one note each", but it is an **aerophone** —
-> driven by a cut jet; tubular bells are an **idiophone** — the metal tube itself vibrates.
-> The layout logic is similar (tubes in pitch order) but **the vibrating body is entirely different**.
-> **Similar shape is not the same class.** The test is always what vibrates.
+> ⚠️ **One conceptual point**: "one note per tube" and "a row of tubes" are two separate matters.
+> The [[instrument:pan-flute|pan flute]] is also "many tubes, one note each", but it is an aerophone —
+> driven by a cut jet; tubular bells are an idiophone — the metal tube itself vibrates.
+> The layout logic is similar (tubes in pitch order) but the vibrating body is entirely different.
+> Similar shape is not the same class. The test is always what vibrates.
 
 ## Structure: hung tubes and a marked striking point
 
@@ -263,10 +264,10 @@ requirement**.
 
 Three points:
 
-1. **The striking point is marked.** Each tube's best-sounding spot is set at manufacture, and the player must
+1. The striking point is marked. Each tube's best-sounding spot is set at manufacture, and the player must
    hit it — off it, the pitch drops and the partials change.
-2. **A pedal damps the tail**, letting the player cut the sound off when needed.
-3. **Pitch versus length**: a longer tube is lower, as with air columns — but the **vibrating body differs**
+2. A pedal damps the tail, letting the player cut the sound off when needed.
+3. Pitch versus length: a longer tube is lower, as with air columns — but the vibrating body differs
    (metal versus air), which is the fundamental difference from the [[instrument:pan-flute|pan flute]].
 
 ## Range
@@ -275,20 +276,20 @@ Three points:
 {"range":"C4–F6","common":"C4–C6","caption":"管钟的音域（以一组半的形制为例）","caption_en":"Tubular bells range (a one-and-a-half-octave set)","note":"管钟属体鸣的有音高乐器。常见音域 C4–F6（一组半），另有音域更宽的形制。记谱即实音。"}
 ```
 
-- **C4–F6** for a one-and-a-half-octave set — **narrow, but sufficient**, since it imitates bells, which do
+- C4–F6 for a one-and-a-half-octave set — narrow, but sufficient, since it imitates bells, which do
   not need a wide range.
-- **The working register is C4–C6**; nearly all orchestral writing sits there.
-- **Its function is colour, not range** — that a bell appears at all matters more than how many notes it
+- The working register is C4–C6; nearly all orchestral writing sits there.
+- Its function is colour, not range — that a bell appears at all matters more than how many notes it
   plays.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Bells.** The colour is very close to real church bells — the sole reason it exists.
-2. **An extremely long tail**, so fast repeated strokes pile up.
-3. **Real weight low down**, from wide, long tubes.
-4. **Complex partials.** A bell's overtones are not a harmonic series, so it sounds thick and impure — which
+1. Bells. The colour is very close to real church bells — the sole reason it exists.
+2. An extremely long tail, so fast repeated strokes pile up.
+3. Real weight low down, from wide, long tubes.
+4. Complex partials. A bell's overtones are not a harmonic series, so it sounds thick and impure — which
    is exactly why a bell is a bell.
 
 ```audiolab
@@ -297,10 +298,10 @@ Four cues:
 
 ## Playing techniques
 
-- **Strike the marked spot** (see the diagram) — the precondition for correct pitch.
-- **Soft or medium mallets**; hard ones bring out more metallic noise.
-- **The damper pedal** cuts the tail when required.
-- **Judging repeated strokes**: with such a long tail, the player must decide what may overlap.
+- Strike the marked spot (see the diagram) — the precondition for correct pitch.
+- Soft or medium mallets; hard ones bring out more metallic noise.
+- The damper pedal cuts the tail when required.
+- Judging repeated strokes: with such a long tail, the player must decide what may overlap.
 
 ## The family
 
@@ -326,26 +327,26 @@ and the divider is tail length.**
 | 20th c. | their use extends to film scoring, where churches, ceremonies and memory are near-standard cues |
 | Late 20th c. onward | universal in orchestra, band and film music |
 
-**It is a victory of substitution technology**: real bells cannot be moved into a concert hall, and a row of
+It is a victory of substitution technology: real bells cannot be moved into a concert hall, and a row of
 metal tubes gives almost the same sound — the same logic as the tuba replacing the ophicleide:
-**the more convenient solution tends to win.**
+the more convenient solution tends to win.
 
 ## Common misconceptions
 
-- **"Tubular bells and a glockenspiel are the same instrument."** One is **hung tubes** (bell imitation, very
-  long tail), the other **flat steel bars** (brightening, medium tail) — different form, colour and use.
-- **"Anywhere on the tube will do."** **Each tube has a marked striking point**; off it the pitch drops and
+- "Tubular bells and a glockenspiel are the same instrument." One is hung tubes (bell imitation, very
+  long tail), the other flat steel bars (brightening, medium tail) — different form, colour and use.
+- "Anywhere on the tube will do." Each tube has a marked striking point; off it the pitch drops and
   the partials change.
-- **"It is the same class as a pan flute."** Both are "many tubes, one note", but the pan flute is an
-  **aerophone** (air column) and this an **idiophone** (metal) — **different classes**.
-- **"A narrow range makes it rare."** It appears seldom, but each time for the **colour of a whole passage**,
+- "It is the same class as a pan flute." Both are "many tubes, one note", but the pan flute is an
+  aerophone (air column) and this an idiophone (metal) — different classes.
+- "A narrow range makes it rare." It appears seldom, but each time for the colour of a whole passage,
   not to play melody.
-- **"It only imitates church bells."** Film and contemporary music also use it for time, memory and ritual —
+- "It only imitates church bells." Film and contemporary music also use it for time, memory and ritual —
   its colour has become a symbol in itself.
 
 ## Next
 
 Two metal instruments remain: the [[instrument:celesta|celesta]] (keyboard-struck steel plates, glassy) and
 the [[instrument:gong|gong]] (unpitched alloy disc, extremely long tail). The gong takes percussion out of
-"pitched" territory into the region where **timbre alone speaks**.
+"pitched" territory into the region where timbre alone speaks.
 :::

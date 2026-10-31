@@ -25,7 +25,7 @@ sources:
   - ⭐⭐ **主线：一个 20 世纪的发明（本页最该记住的一条）** —— 「我国民族声乐艺术，广义上讲主要包括传统的戏曲演唱、曲艺说唱和民间的民歌演唱三大类民族演唱艺术……**狭义的民族声乐艺术，则可以简单地理解为现代人所说的『民族唱法』**」；⭐⭐ **一个词同时指「三个古老传统」和「一个现代学院专业」——「民族唱法」是 20 世纪中国声乐现代化的产物：把戏曲、曲艺、民歌三个口传传统，用一次制度性的重装，变成一个「唱法」**
   - ⭐⭐ **建制年表：一个「唱法」的出生证明是一份专业设置文件** —— 「1940 年代在延安……又借鉴西洋美声唱法，形成了当时风格独具、举世无双的『戏歌唱法』」（《白毛女》· 王昆 · 郭兰英——「郭兰英原本是一位山西梆子的演员，她在山西梆子的基础上不断提高，逐渐发展到民族声乐的高度」）；「1949 年冬到 1950 年初，开始了广泛的『土洋』之争」；「**沈阳音乐学院 1956 年率先设置了民族声乐专业**」（1956.8 文化部批准，十年一贯制，「由学习欧洲传统唱法的声乐教师和担任民间音乐课程教师联合授课」）；「1957 年 2 月 5—21 日，文化部在北京召开中国声乐艺术史上第一次『全国声乐教学会议』，150 余位出席——**对西洋欧洲唱法要民族化；对民族传统唱法要继承、学习，并进一步发展提高**」；「1958 年中央音乐学院（汤雪耕）、上海音乐学院（王品素）紧随……同年开办民族班（受国家文化部和中央民委的委任，『要在保持他们民族风格的基础上提高和发展他们的演唱能力』——培养出了才旦卓玛、何纪光）」；「1961 年，文化部教育工作方案将『民间演唱专业』确定为音乐院校的正式专业，并就此更名为『民族声乐专业』」；「1964 年在周恩来同志的倡议和决策下，建立了中国音乐学院」；⭐⭐ **从「民间演唱」到「民族声乐专业」——一个名字的专业化，就是一门唱法的诞生礼**
   - ⭐⭐ **土洋之争：谁也没赢谁，但谁都离不开谁** —— 「1958 年，声乐界发生了一件大事——『土洋之争』——有一批教师从国外留学归来，他们以洋唱法为基础进行教学，另外一批人则以传统唱法为基础进行教学——**争论的结果是谁也没赢谁，但却使大家明白：这二者谁也不能取代谁**」；「中国民族本土声乐演唱艺术正是在这场『土、洋嗓子』的论辩中争得了价值的确认」；⭐⭐ **1958 年的奇观**：「梁美珍、苏凤娟、孙家馨等 60 多位欧洲传统唱法歌唱家……分别向李月秋（四川清音）、小彩舞（京韵大鼓）等名艺人学习曲艺和传统唱法并举行了汇报演出」——⭐⭐ **「洋嗓子拜民间为师」：一次自上而下的求知，发生在两个正互相较劲的阵营之间**
-  - ⭐⭐ **李焕之 1962 之问（本页最锋利的一句）** —— 「李焕之在题为《谈谈民族演唱艺术的发展与提高》中不仅指出民族唱法学习西洋方法是一条路，同时也提醒人们『在土洋结合上问题是很多的』，如在西洋唱法和民族唱法结合的过程中，**『是西洋的被改造了呢还是西洋的改造了民族』**」；⭐⭐ **一场「结合」里，谁改造了谁？——这个问题至今没有标准答案（对照全站：DX7 的 FM 被美国公司拒绝、Yamaha 十分钟懂——技术借用的方向问题，又一次出现）**
+  - ⭐⭐ **李焕之 1962 之问（本页最锋利的一句）** —— 「李焕之在题为《谈谈民族演唱艺术的发展与提高》中不仅指出民族唱法学习西洋方法是一条路，同时也提醒人们『在土洋结合上问题是很多的』，如在西洋唱法和民族唱法结合的过程中，**『是西洋的被改造了呢还是西洋的改造了民族』**」；⭐⭐ **一场「结合」里，谁改造了谁？——这个问题至今没有标准答案（对照各站：DX7 的 FM 被美国公司拒绝、Yamaha 十分钟懂——技术借用的方向问题，又一次出现）**
   - ⭐⭐ **技术的本质在「腔」** —— 「字正腔圆」的「腔」不是装饰是结构——山歌好唱、吊腔难，难在拖腔里的韵味（音高微起伏 · 滑音 · 倚音 · 气口）；对照 bel-canto 条的 messa di voce（单音渐强渐弱是 19 世纪文献的「主要表达源」）——⭐⭐ **两个传统都把「拖住一个音」当作歌唱的核心技术：一个唱出韵味，一个唱出表情——同一手法，两种美学**
   - ⭐⭐ **少数民族的另一条通道** —— 民族班的设立逻辑（「保持他们民族风格的基础上提高和发展他们的演唱能力」）与汉族学院派主脉不同——才旦卓玛（藏族）· 何纪光——⭐⭐ **「民族唱法」这个词内部还有一条民族界线——学院的「民族声乐」主要指汉族戏曲-曲艺-民歌脉，而少数民族唱法走的是「保持风格 + 提高能力」的另一条通道**（对照本站后来的世界乐器条目——声音的地理分布，从来不服专业目录）
   - ⭐ **金铁霖体系与代表人物谱系** —— 「金铁霖民族声乐体系影响最为深远」（中国音乐学院院长）；王昆 · 郭兰英（承前启后）· 郭颂 · 王玉珍 · 黄虹 · 胡松华 · 才旦卓玛 · 彭丽媛 · 宋祖英——⭐⭐ **一条从「梆子台」到「音乐厅」的路线，走了四十年**
@@ -33,75 +33,35 @@ updated: 2026-10-21
 ---
 
 ::: zh
+「山歌好唱难吊腔」——民歌自己的谚语，说破了民族唱法的技术含量：难在「腔」上。
 
-## ⭐⭐ 主线：山歌好唱难吊腔
+「民族唱法」是一个 20 世纪的发明。它把三个更老的传统重装成一个唱法：戏曲提供韵腔与行当嗓音，曲艺提供说唱结合与吐字行腔，民歌提供山歌的穿透、小调的叙事、号子的协作。狭义上，「民族声乐」就是今天说的「民族唱法」——一个词同时指三个古老传统和一个现代学院专业。
 
-> 「**山歌好唱难吊腔**」——民歌自己的谚语，说破了民族唱法的全部秘密。
-
-⭐⭐ **「民族唱法」是一个 20 世纪的发明**——它把三个更老的传统
-（**戏曲 · 曲艺 · 民歌**）重装成了一个「唱法」：
-
-| 传统 | 提供什么 |
+| 分类 | 归属 |
 |---|---|
-| 戏曲 | 韵腔 · 行当嗓音 · 身段化的唱 |
-| 曲艺 | 说唱结合 · 吐字行腔（京韵大鼓 · 四川清音） |
-| 民歌 | 山歌的穿透 · 小调的叙事 · 号子的协作 |
+| HS 分类 | 人体（气鸣 · 簧振 + 滤波）；同一副声带，一次制度性的重装 |
+| 出身 | 1940s 戏歌唱法 → 1956 沈阳 → 1957 全国声乐教学会议 → 1961 定名 → 1964 中国音乐学院 |
+| 八音 | 不适用 |
 
-⭐⭐ **「狭义的民族声乐艺术，则可以简单地理解为现代人所说的『民族唱法』」——
-一个词同时指「三个古老传统」和「一个现代学院专业」。**
+## 一份专业设置文件
 
-| HS 分类 | 归属 |
-|---|---|
-| **HS 分类** | **人体（气鸣 · 簧振 + 滤波）**——**同一个声带，一次制度性的重装：口传唱法 → 学院专业** |
-| **出身** | ⭐⭐ **1940s 戏歌唱法（《白毛女》· 郭兰英）→ 1956 沈阳音专首设专业 → 1957 全国声乐教学会议 → 1961 定名「民族声乐专业」→ 1964 中国音乐学院** |
-| **八音注** | 八音之外——**它是八音的「唱」：金-编钟的庙堂 · 丝-古琴的士人 · 竹-牧童的山歌——唱法把它们的嗓子接进了音乐厅** |
+1940 年代延安的「戏歌唱法」是起点：《白毛女》，王昆，郭兰英——郭兰英本是山西梆子演员，从梆子台走到新歌剧。1949 年冬至 1950 年初，「土洋」之争开始。1956 年沈阳音乐学院率先设民族声乐专业，由欧洲唱法教师与民间音乐教师联合授课；1957 年 2 月，第一次全国声乐教学会议在北京召开，一百五十余人出席，结论是对西洋唱法要民族化，对民族传统要继承、学习、提高。1958 年中央与上海跟进，民族班培养出才旦卓玛、何纪光。1961 年「民间演唱专业」定名为「民族声乐专业」，1964 年中国音乐学院建立。
 
-## ⭐⭐ 建制年表：出生证明是一份专业设置文件
+从「民间演唱」到「民族声乐专业」，一个名字的专业化，就是一门唱法的诞生礼。
 
-| 年 | 事件 |
-|---|---|
-| 1940s | 延安「戏歌唱法」——《白毛女》· 王昆 · **郭兰英（山西梆子演员出身）** |
-| 1949–50 | 「土洋」之争（第一次） |
-| **1956** | **沈阳音专率先设民族声乐专业**——欧洲唱法教师 + 民间音乐教师**联合授课** |
-| 1957.2 | **第一次全国声乐教学会议**（150 余位）——「对西洋欧洲唱法要民族化」 |
-| 1958 | 中央 · 上海跟进；**民族班**（文化部 + 中央民委委任）——才旦卓玛 · 何纪光 |
-| 1961 | 「民间演唱专业」定名「**民族声乐专业**」 |
-| 1964 | 周恩来倡议——**中国音乐学院**建立 |
+## 土洋之争，与李焕之的问题
 
-⭐⭐ **从「民间演唱」到「民族声乐专业」——一个名字的专业化，
-就是一门唱法的诞生礼。**
+1958 年那场争论的结果是谁也没赢，但大家都明白：两者谁也取代不了谁。同一年出现一个奇观：六十多位欧洲唱法歌唱家，包括梁美珍、苏凤娟、孙家馨，分别向李月秋、小彩舞等艺人学曲艺。洋嗓子拜民间为师，发生在两个正较劲的阵营之间。
 
-## ⭐⭐ 土洋之争：谁也没赢谁，但谁都离不开谁
+1962 年，李焕之问了一句：「是西洋的被改造了呢还是西洋的改造了民族？」一场「结合」里谁改造了谁，这个问题至今没有标准答案。
 
-⭐⭐ **「争论的结果是谁也没赢谁，但却使大家明白：
-这二者谁也不能取代谁」**——1958 年的奇观：
-「梁美珍、苏凤娟、孙家馨等 60 多位欧洲传统唱法歌唱家……
-分别向李月秋、小彩舞等名艺人学习曲艺和传统唱法」——
-⭐⭐ **「洋嗓子拜民间为师」：一次自上而下的求知，
-发生在两个正互相较劲的阵营之间。**
+## 腔是结构
 
-## ⭐⭐ 李焕之 1962 之问
+「字正腔圆」的「腔」不是装饰。山歌好唱，吊腔难，难在拖腔里的韵味：音高微起伏、滑音、倚音、气口。美声把「拖住一个音」做成 messa di voce，唱出表情；民族唱法把它唱出韵味。同一手法，两种美学。
 
-> 「**是西洋的被改造了呢还是西洋的改造了民族**」
+少数民族走的是另一条通道。民族班的设立逻辑是「保持他们民族风格的基础上提高和发展演唱能力」，才旦卓玛（藏）、何纪光从这里出来。学院里的「民族声乐」主要指汉族戏曲、曲艺、民歌一脉，这个词内部还有一条民族界线。
 
-⭐⭐ **一场「结合」里，谁改造了谁？**——这个问题至今没有标准答案。
-（对照 DX7 的 FM：被美国公司拒绝、被 Yamaha 十分钟听懂——
-**技术借用的方向问题，又一次出现。**）
-
-## ⭐ 技术的本质在「腔」
-
-⭐⭐ **字正腔圆的「腔」不是装饰是结构**——山歌好唱，吊腔难，
-难在拖腔里的韵味（音高微起伏 · 滑音 · 倚音 · 气口）。
-对照 bel-canto 条的 messa di voce：⭐⭐ **两个传统都把「拖住一个音」
-当作歌唱的核心技术——一个唱出韵味，一个唱出表情：同一手法，两种美学。**
-
-⭐⭐ **少数民族的另一条通道**：民族班的逻辑是「**保持他们民族风格的基础上
-提高和发展他们的演唱能力**」——才旦卓玛（藏）· 何纪光——
-**「民族唱法」这个词内部还有一条民族界线**（声音的地理分布，
-从来不服专业目录）。
-
-⭐ **金铁霖体系「影响最为深远」**；代表人物从「梆子台」走到「音乐厅」：
-王昆 · 郭兰英 · 郭颂 · 王玉珍 · 黄虹 · 胡松华 · 才旦卓玛 · 彭丽媛 · 宋祖英。
+金铁霖体系影响最深；代表人物从梆子台走到音乐厅：王昆、郭兰英、郭颂、王玉珍、黄虹、胡松华、才旦卓玛、彭丽媛、宋祖英。
 
 ```svg
 <svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Chinese national vocal style: three old traditions (opera, storytelling, folk song) repackaged into one 20th-century method — the institutional timeline 1940s to 1964, the earth-versus-ocean debate, and Li Huanzhi's 1962 question">
@@ -177,85 +137,33 @@ updated: 2026-10-21
 :::
 
 ::: en
+Folk songs are easy to sing, hard to hold the tone. The proverb says where the technique lives: in holding one note.
 
-## ⭐⭐ The main line: folk songs are easy to sing, hard to hold the tone
+The Chinese national vocal style is a 20th-century invention. It repackaged three older traditions into one method: opera supplying held-tone colour and role-typed voices, storytelling the fusion of speech and song, folk song the projection of mountain song.
 
-> 「**Folk songs are easy to sing, hard to hold the tone**」 — the folk canon's own
-proverb, stating the whole secret of the national vocal style.
-
-⭐⭐ **The 「national vocal style」 is a 20th-century invention** — it repackaged
-three older traditions (**opera · storytelling · folk song**) into one
-「method」:
-
-| Tradition | What it contributed |
+| Classification | Value |
 |---|---|
-| Opera | held-tone flavour · role-tying voices (the bangzi style) |
-| Storytelling | speech-song fusion · articulation (jingyun drumming · Sichuan qingyin) |
-| Folk song | mountain-song projection · narrative tunes · work-song coordination |
+| HS class | the body (aerophone, reed vibration plus filtering); the same folds, institutionally repackaged |
+| Origin | the 1940s opera-song style; Shenyang 1956; the 1957 conference; named 1961; the China Conservatory 1964 |
+| Bayin | not applicable |
 
-⭐⭐ **「the narrow sense of Chinese national vocal art can be understood simply
-as what moderns call the 『national vocal style』」 — one word naming both three
-ancient traditions and one modern conservatory major.**
+## A curriculum document as a birth certificate
 
-| HS class | Assignment |
-|---|---|
-| **HS class** | **the body (aerophone · reed vibration + filtering)** — **the same folds, an institutional repackaging: oral methods → a conservatory major** |
-| **Origin** | ⭐⭐ **the 1940s opera-song style (The White-Haired Girl · Guo Lanying) → Shenyang's 1956 major → the 1957 national vocal-teaching conference → the 1961 naming 「national vocal music major」 → the 1964 China Conservatory** |
-| **Bayin note** | Outside the bayin — **it is the 「singing」 of the bayin: the metal of ritual bells · the silk of the literati's guqin · the bamboo of the herd-boy's mountain song — the method brought their voices into the concert hall** |
+Yan'an's opera-song style is the start: The White-Haired Girl, Wang Kun, Guo Lanying, herself a Shanxi bangzi actress who moved from the opera stage to the new opera. The earth-versus-ocean debate opened in 1949–50. In 1956 Shenyang set up the major, taught jointly by European-method and folk-music teachers; in February 1957 the first national vocal-teaching conference met in Beijing with 150 delegates, concluding that the Western method must be nationalised and the tradition inherited and raised. Central and Shanghai followed in 1958, and the ethnic class produced Tseten Dolma and He Jiguang. The major was renamed the national vocal music major in 1961, and the China Conservatory founded in 1964.
 
-## ⭐⭐ The institutional timeline: the birth certificate is a curriculum document
+## Nobody won, and a question
 
-| Year | Event |
-|---|---|
-| 1940s | Yan'an's 「opera-song style」 — The White-Haired Girl · Wang Kun · **Guo Lanying (from a Shanxi bangzi actress)** |
-| 1949–50 | the first 「earth-versus-ocean」 debate |
-| **1956** | **Shenyang first established the major** — European-method teachers + folk-music teachers **co-teaching** |
-| 1957.2 | **the first national vocal-teaching conference** (150+ attendees) — 「the European method must be nationalised」 |
-| 1958 | the Central and Shanghai conservatories followed; the **ethnic class** (commissioned by the Ministry of Culture and the State Ethnic Affairs Commission) — Tseten Dolma · He Jiguang |
-| 1961 | 「folk singing major」 renamed 「**national vocal music major**」 |
-| 1964 | on Zhou Enlai's initiative — **the China Conservatory founded** |
+The 1958 debate ended with neither side winning, and everyone understanding that neither could replace the other. That year sixty European-trained singers, among them Liang Meizhen and Sun Jiaxin, studied storytelling with folk masters. Western voices bowing to folk teachers, between two rival camps.
 
-⭐⭐ **From 「folk singing」 to 「national vocal music major」 — the
-professionalisation of a name is a method's birth rite.**
+In 1962 Li Huanzhi asked whether the Western had been transformed, or the Western had transformed the national. In a fusion, who transforms whom? There is still no standard answer.
 
-## ⭐⭐ Earth versus ocean: nobody won, nobody could leave
+## The tone is structure
 
-⭐⭐ **「the debate's result was that neither side won, but everyone understood
-that neither could replace the other」** — the 1958 spectacle:
-「Liang Meizhen, Su Fengjuan, Sun Jiaxin and 60+ other European-method singers……
-learned storytelling and traditional singing from masters Li Yueqiu and
-Xiao Caiwu」 — ⭐⭐ **「Western voices bowing to folk masters」: a top-down
-learning, conducted between two camps in open rivalry.**
+In clear words and round tone, the roundness is not ornament. Folk songs are easy; holding the tone is hard, and the hardness is in the held note — micro-pitch undulation, portamento, grace notes, breath placement. Bel canto made holding a note into messa di voce and sang expression; this style sings flavour.
 
-## ⭐⭐ Li Huanzhi's 1962 question
+Ethnic minorities took another channel: the ethnic class was told to raise ability while preserving ethnic style, and Tseten Dolma came through it. Inside the term is an ethnic border: the conservatory's national style means the Han line of opera, storytelling and folk song.
 
-> 「**was the Western transformed, or did the Western transform the national?**」
-
-⭐⭐ **In a 「fusion」, who transformed whom?** — the question has no standard
-answer to this day. (Against the DX7's FM: refused by American companies,
-understood by Yamaha in ten minutes — **the direction of technological
-borrowing, raised once again.**)
-
-## ⭐ The technique's essence lies in the 「tone」
-
-⭐⭐ **The 「tone」 in zhengqiang-qiangyuan (clear words, round tone) is not
-ornament but structure** — folk songs are easy to sing, but holding the tone is
-hard: the difficulty lies in the flavour inside the held tone (micro-pitch
-undulation · portamento · grace notes · breath placement). Against the
-bel-canto entry's messa di voce: ⭐⭐ **both traditions treat 「holding one
-note」 as the core technique of singing — one sings out flavour, the other
-sings out expression: the same means, two aesthetics.**
-
-⭐⭐ **The other channel for ethnic minorities**: the ethnic class's logic was
-「**raising and developing their performance ability on the basis of preserving
-their ethnic style**」 — Tseten Dolma (Tibetan) · He Jiguang —
-**there is an ethnic border inside the term 「national vocal style」 itself**
-(the geography of sound has never obeyed professional catalogues).
-
-⭐ **The Jin Tielin system 「has been the most far-reaching」**; the lineage of
-exemplars walked from the bangzi stage to the concert hall: Wang Kun ·
-Guo Lanying · Guo Song · Wang Yuzhen · Huang Hong · Hu Songhua · Tseten Dolma ·
-Peng Liyuan · Song Zuying.
+The Jin Tielin system has been the most far-reaching; the lineage runs from the bangzi stage to the concert hall — Wang Kun, Guo Lanying, Guo Song, Wang Yuzhen, Huang Hong, Hu Songhua, Tseten Dolma, Peng Liyuan, Song Zuying.
 
 ```svg
 <svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The Chinese national vocal style: three old traditions (opera, storytelling, folk song) repackaged into one 20th-century method — the institutional timeline 1940s to 1964, the earth-versus-ocean debate, and Li Huanzhi's 1962 question">
@@ -324,5 +232,4 @@ Peng Liyuan · Song Zuying.
 ```audiolab
 {"type":"instrument","gm":"Choir Aahs","phrase":["C3","E3","G3","C4","E4","G4","C5"],"label":"民族唱法的拖腔：人声长音（借合唱人声近似吊腔意象）","label_en":"The national style's held tone — a voice (choir aahs stand in for the held tone)","hint":"民族唱法的本质是「一个 20 世纪的发明」——这条合唱人声取其「人声质感」，但它最标志的三个特征在这里听不出来：一是「腔」——字正腔圆的拖腔韵味（音高微起伏 · 滑音 · 倚音 · 气口），山歌好唱、吊腔难，技术全在拖住一个音的方式里；二是它的出身——三个口传传统（戏曲/曲艺/民歌）被 1956 年以来的学院建制重装成一个「唱法」，「民族唱法」这个词同时指三个古老传统和一个现代专业；三是土洋之争未解的追问——「是西洋的被改造了呢还是西洋的改造了民族」（李焕之 1962）——一场「结合」里谁改造了谁，至今没有标准答案。","hint_en":"The Chinese national vocal style's essence is 「a 20th-century invention」 — this choir-aahs sample takes the vocal texture, but its three signatures are absent: the 「tone」 — the held-tone flavour of zhengqiang-qiangyuan (micro-pitch undulation · portamento · grace notes · breath placement); folk songs are easy to sing, but holding the tone is hard, all the technique lying in how one note is sustained; its origin — three oral traditions (opera/storytelling/folk song) repackaged into one 「method」 by conservatory institutionalisation since 1956, one word naming both three ancient traditions and one modern major; and the earth-versus-ocean debate's unresolved question — 「was the Western transformed, or did the Western transform the national?」 (Li Huanzhi, 1962) — in a 「fusion」, who transformed whom, with no standard answer to this day."}
 ```
-
 :::

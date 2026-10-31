@@ -37,18 +37,18 @@ updated: 2026-09-26
 ::: zh
 前面每一条都讲一件**乐器**：一件需要**人实时操作**、声音**当下一刻产生**的器物。
 
-**自动演奏乐器是这一类目里唯一的例外** —— 它不是一件乐器，而是**一类装置**：
-**它把"演奏"这件事本身存下来，再让它自己发生。**
+**自动演奏乐器是这一类目里唯一的例外** —— 它不是一件乐器，而是一类装置：
+它把"演奏"这件事本身存下来，再让它自己发生。
 
-> ⚠️ **它回答的是一个全新的问题：演奏能不能被保存？**
-> 在此之前，人类能保存的只有**乐谱** —— 而乐谱保存的是**指令**，
-> 每一次演奏仍然是**一次性的**，弹完就没了。
+> ⚠️ 它回答的是一个全新的问题：演奏能不能被保存？
+> 在此之前，人类能保存的只有乐谱 —— 而乐谱保存的是指令，
+> 每一次演奏仍然是一次性的，弹完就没了。
 >
-> 自动演奏乐器第一次做到了：**把"什么时候、动哪个音"记在硬件上，然后重复执行。**
-> 钉筒上的销钉、纸卷上的孔，就是**一份关于动作的记录**。
+> 自动演奏乐器第一次做到了：把"什么时候、动哪个音"记在硬件上，然后重复执行。
+> 钉筒上的销钉、纸卷上的孔，就是一份关于动作的记录。
 >
-> 由此得到本页的核心分野：
-> **它记录的是「动作」，留声机记录的是「声音」** ——
+> 由此得到核心分野：
+> 它记录的是「动作」，留声机记录的是「声音」 ——
 > 这是两种完全不同的"保存音乐"。
 
 | 分类 | 归属 |
@@ -65,9 +65,9 @@ updated: 2026-09-26
 | 街头管风琴（桶式或纸卷） | **音管内的空气柱** | **气鸣** |
 | 机械乐队里的鼓类 | **鼓皮** | **膜鸣** |
 
-**注意这一族里没有"自己的声音"** ——
+注意这一族里没有"自己的声音" ——
 音乐盒响的是梳齿，自动钢琴响的是钢琴，街头管风琴响的是音管。
-**它扮演的角色是"演奏者"，不是"乐器"** —— 这一点下面还会用到。
+它扮演的角色是"演奏者"，不是"乐器" —— 这一点下面还会用到。
 
 ## 结构：曲目被"刻"在金属上
 
@@ -116,12 +116,12 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **销钉的位置就是数据**。哪一根销钉在筒的哪一行（＝哪个音）、哪一刻转到梳齿面前（＝什么时候响）
-   —— 这就是一份**关于动作的记录**。
-2. **梳齿靠长度定音**。长短不同的金属齿 → 不同的振动频率。
-   它和[[instrument:celesta|钢片琴]]、[[instrument:glockenspiel|钟琴]]是同一类发声体（**金属片的体鸣**），
-   只是**由销钉而不是由人**去敲。
-3. **曲目固定在硬件里**。这是它最早、也最硬的限制 ——
+1. 销钉的位置就是数据。哪一根销钉在筒的哪一行（＝哪个音）、哪一刻转到梳齿面前（＝什么时候响）
+   —— 这就是一份关于动作的记录。
+2. 梳齿靠长度定音。长短不同的金属齿 → 不同的振动频率。
+   它和[[instrument:celesta|钢片琴]]、[[instrument:glockenspiel|钟琴]]是同一类发声体（金属片的体鸣），
+   只是由销钉而不是由人去敲。
+3. 曲目固定在硬件里。这是它最早、也最硬的限制 ——
    下一张图会看到这条限制是怎么被一步步松开的。
 
 ## 记录的是什么
@@ -170,7 +170,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-**从左到右是一条清晰的递进**：
+从左到右是一条清晰的递进：
 
 | 载体 | 记录了什么 | 曲目能换吗 | 能重放"某一次具体的演奏"吗 |
 |---|---|---|---|
@@ -178,16 +178,16 @@ updated: 2026-09-26
 | **纸卷** | 音 + 时刻 + **力度与速度** | 换卷 | **能** |
 | **录音** | **声音本身** | — | 能，而且**连音色一起** |
 
-**三个结论**：
+三个结论：
 
-1. **"记录动作"必然丢掉东西**：钉筒只记"哪个音、什么时候"，
-   所以它弹不出轻重缓急 —— **力度、音色、踏板的细节全都不在记录里**。
-2. **纸卷是一次关键升级**。加上力度与速度之后，
-   自动钢琴第一次能**重放某一次具体的演奏** —— 二十世纪初有一批名家正是靠这种方式留下了自己的弹奏。
-3. **它最终输在"记录对象"上**。留声机（1877 年起）直接记录**声音**，
+1. "记录动作"必然丢掉东西：钉筒只记"哪个音、什么时候"，
+   所以它弹不出轻重缓急 —— 力度、音色、踏板的细节全都不在记录里。
+2. 纸卷是一次关键升级。加上力度与速度之后，
+   自动钢琴第一次能重放某一次具体的演奏 —— 二十世纪初有一批名家正是靠这种方式留下了自己的弹奏。
+3. 它最终输在"记录对象"上。留声机（1877 年起）直接记录声音，
    不必再去驱动一件乐器，也不必再受乐器本身的限制。
-   **但它那条思路赢了**：今天的**音序器与 MIDI 记录的仍然是"动作"** ——
-   **谁打孔、谁编数据，谁就是那个不在现场的演奏者。**
+   但它那条思路赢了：今天的音序器与 MIDI 记录的仍然是"动作" ——
+   谁打孔、谁编数据，谁就是那个不在现场的演奏者。
 
 ## 音域
 
@@ -195,23 +195,23 @@ updated: 2026-09-26
 {"range":"A0–C8","caption":"自动钢琴的音域 —— 就是钢琴的音域（本类目中最宽的一档）","caption_en":"Range of a player piano — simply the piano's range, the widest member of this category","note":"本类目横跨多种装置，音域没有单一值：音乐盒一类的梳齿只覆盖两三个八度、而且音高是固定的若干根齿；街头管风琴的音域取决于它的音管；这里给出此类中最宽的一档 —— 纸卷自动钢琴，它本来就是一台完整的钢琴，因此覆盖全部 88 键（A0–C8）。记谱即实音。"}
 ```
 
-- **本类目没有单一音域** —— 因为它本来就不是一种乐器。
-- **音乐盒**最窄：梳齿只有那么多根，**音高是固定的若干个**，
-  和[[instrument:hunting-horn|猎号]]一样属于"**音是点不是段**"的一类。
-- **自动钢琴最宽**：**A0–C8，全部 88 键** —— 因为它**就是一台钢琴**，
+- 本类目没有单一音域 —— 因为它本来就不是一种乐器。
+- 音乐盒最窄：梳齿只有那么多根，音高是固定的若干个，
+  和[[instrument:hunting-horn|猎号]]一样属于"音是点不是段"的一类。
+- 自动钢琴最宽：A0–C8，全部 88 键 —— 因为它就是一台钢琴，
   只不过按键的手换成了纸卷。
-- **这张图取的是最宽的成员**，因为"这一族的上限"正好由它定义。
+- 这张图取的是最宽的成员，因为"这一族的上限"正好由它定义。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **声音来自真实乐器，不是电子合成**。音乐盒响的是金属齿，
-   自动钢琴响的是琴弦 —— **它只是把"手"换掉了**。
-2. **极度规整**。没有呼吸、没有犹豫 —— 每一下都在精确的时刻发生。
-3. **音乐盒类偏"薄而亮"**。梳齿的金属振动天然带金属感，与[[instrument:celesta|钢片琴]]同族。
-4. **纸卷自动钢琴能听出"人味"**。力度与速度被记录下来之后，
-   重放出来的是一**次具体的演奏**，而不是"照着谱子弹"。
+1. 声音来自真实乐器，不是电子合成。音乐盒响的是金属齿，
+   自动钢琴响的是琴弦 —— 它只是把"手"换掉了。
+2. 极度规整。没有呼吸、没有犹豫 —— 每一下都在精确的时刻发生。
+3. 音乐盒类偏"薄而亮"。梳齿的金属振动天然带金属感，与[[instrument:celesta|钢片琴]]同族。
+4. 纸卷自动钢琴能听出"人味"。力度与速度被记录下来之后，
+   重放出来的是一次具体的演奏，而不是"照着谱子弹"。
 
 ```audiolab
 {"type":"instrument","gm":"Music Box","synth":"struck","phrase":["C5","E5","G5","C6","G5","E5"],"label":"音乐盒的常用音区：C5 到 C6","label_en":"A music box's usual register — C5 up to C6","hint":"每一根梳齿都是被销钉单独拨响的 —— 注意那种薄、亮、每一击都一模一样的金属声","hint_en":"Each tooth is flicked separately by a pin — hear the thin, bright metal tone with every strike identical."}
@@ -227,7 +227,7 @@ updated: 2026-09-26
 | **机械乐队** | 销钉筒 / 纸卷 | 视形制 | 多件乐器同时被机械驱动 |
 | **钟塔与教堂装置** | 销钉筒 + 钟 | 极少更换 | 这一族**最早的形态** |
 
-**⚠️ 把三个容易混的名字一次分清**（判据永远只有一条：**什么在振动，谁决定音高**）：
+⚠️ 把三个容易混的名字一次分清（判据永远只有一条：什么在振动，谁决定音高）：
 
 | 中文名 | 实际所指 | 什么在振动 | 谁决定音高 |
 |---|---|---|---|
@@ -248,31 +248,31 @@ updated: 2026-09-26
 | 20 世纪上半叶 | 被**留声机与广播**排挤出主流市场 |
 | 20 世纪后期至今 | 作为收藏与古乐装置被修复；**其思路延续到音序器与 MIDI** —— 记录动作这条路线活了下来 |
 
-**它的结局与[[instrument:portative-organ|便携管风琴]]有一个相同的形状**：
-**不是原理错了，而是"记录对象"选错了。**
-便携管风琴输给了更轻的实现方式；自动演奏乐器输给了**更直接的记录对象**（声音）。
-**两条技术路线的更替，往往不是"谁做得更好"，而是"谁记的东西更根本"。**
+它的结局与[[instrument:portative-organ|便携管风琴]]有一个相同的形状：
+不是原理错了，而是"记录对象"选错了。
+便携管风琴输给了更轻的实现方式；自动演奏乐器输给了更直接的记录对象（声音）。
+两条技术路线的更替，往往不是"谁做得更好"，而是"谁记的东西更根本"。
 
 ## 常见误解
 
-- **"自动演奏乐器就是录音机。"** **不是。**
-  录音机记录并重放**声音**；自动演奏乐器**驱动一件真实的声学乐器** ——
-  它扮演的是**演奏者**，**自己没有任何声音**。
-- **"它不需要人。"** 需要 —— 只是**人从现场移到了事前**：
-  **打孔、钉销钉、编排的人，才是那个演奏者**。今天编 MIDI 的人处在完全一样的位置。
-- **"它只是古董玩具。"** 它是**音乐存储与重放的第一步**，
-  而且纸卷自动钢琴曾**记录下一批名家的真实弹奏** —— 那是当时的"录音"。
-- **"它被录音淘汰，说明它一无是处。"** 更准确地说：
-  **它输在记录对象上**（动作必然丢掉音色与细节），
-  而**它的思路活到了今天**（音序器 · MIDI · 自动演奏钢琴）。
-- **"自动钢琴和真人弹的一样。"** 纸卷能记录力度与速度，
-  但**音色与踏板细节的表达能力有限** —— 这是它的天花板，也是它被取代的原因之一。
-- **"手摇风琴、音乐盒、手风琴是一类东西。"** 中文名字撞车而已：
-  **一个是弦、一个是梳齿、一个是自由簧**，发声体与"谁决定音高"都不同。
+- "自动演奏乐器就是录音机。" 不是。
+  录音机记录并重放声音；自动演奏乐器驱动一件真实的声学乐器 ——
+  它扮演的是演奏者，自己没有任何声音。
+- "它不需要人。" 需要 —— 只是人从现场移到了事前：
+  打孔、钉销钉、编排的人，才是那个演奏者。今天编 MIDI 的人处在完全一样的位置。
+- "它只是古董玩具。" 它是音乐存储与重放的第一步，
+  而且纸卷自动钢琴曾记录下一批名家的真实弹奏 —— 那是当时的"录音"。
+- "它被录音淘汰，说明它一无是处。" 更准确地说：
+  它输在记录对象上（动作必然丢掉音色与细节），
+  而它的思路活到了今天（音序器 · MIDI · 自动演奏钢琴）。
+- "自动钢琴和真人弹的一样。" 纸卷能记录力度与速度，
+  但音色与踏板细节的表达能力有限 —— 这是它的天花板，也是它被取代的原因之一。
+- "手摇风琴、音乐盒、手风琴是一类东西。" 中文名字撞车而已：
+  一个是弦、一个是梳齿、一个是自由簧，发声体与"谁决定音高"都不同。
 
 ## 下一步
 
-**早期乐器这一组九条到此结束。** 回看这一组给出的五条主线：
+早期乐器这一组九条到此结束。 回看这一组给出的五条主线：
 
 | 主线 | 内容 |
 |---|---|
@@ -282,9 +282,10 @@ updated: 2026-09-26
 | **信号怎么传** | 无阀 → 泛音列 → 音是点不是段 → 信息搬进节奏（猎号 · 号角） |
 | **演奏能不能被保存** | 记录动作（自动演奏乐器）vs 记录声音（留声机） |
 
-下一批是一次**整体换轨**：
-[[instrument:guqin|中国八音]]——不是"欧美的另一批乐器"，而是**另一套完全不同的分类体系**（金 · 石 · 土 · 革 · 丝 · 木 · 匏 · 竹）。
-它要回答一个问题：**同一批器物，用「什么在振动」分，和用「用什么材料做」分，会得到两张多么不同的地图？**
+下一批是一次整体换轨：
+[[instrument:guqin|中国八音]]——不是"欧美的另一批乐器"，而是另一套完全不同的分类体系（金 · 石 · 土 · 革 · 丝 · 木 · 匏 · 竹）。
+它要回答一个问题：同一批器物，用「什么在振动」分，和用「用什么材料做」分，会得到两张多么不同的地图？
+
 :::
 
 ::: en
@@ -292,17 +293,17 @@ Every entry so far has described an **instrument**: something a **person operate
 comes into being **at that moment**.
 
 **Mechanical instruments are the one exception in this group** — they are not an instrument but **a class of
-devices**: **they store the act of playing itself and then let it happen on its own.**
+devices: they store the act of playing itself and then let it happen on its own.**
 
-> ⚠️ **They answer an entirely new question: can a performance be preserved?**
-> Before this, the only thing that could be preserved was **notation** — and notation preserves **instructions**;
-> each performance was still **a one-off**, gone as soon as it ended.
+> ⚠️ They answer an entirely new question: can a performance be preserved?
+> Before this, the only thing that could be preserved was notation — and notation preserves instructions;
+> each performance was still a one-off, gone as soon as it ended.
 >
 > Mechanical instruments did it for the first time: **write "when, and which note" into hardware, then execute it
-> repeatedly.** A pin on a barrel, a hole in a paper roll — that is **a record of actions**.
+> repeatedly. A pin on a barrel, a hole in a paper roll — that is a record of actions**.
 >
 > Which gives this page's central distinction:
-> **they record **actions**, whereas the phonograph records **sound** ** — two entirely different ways of "keeping
+> they record actions, whereas the phonograph records sound  — two entirely different ways of "keeping
 > music".
 
 | Classification | Value |
@@ -319,8 +320,8 @@ devices**: **they store the act of playing itself and then let it happen on its 
 | Barrel organ (barrel or paper roll) | **air column in pipes** | **aerophone** |
 | Drums inside a mechanical band | **drumheads** | **membranophone** |
 
-**Note that nothing in this family has a sound of its own** — a music box sounds its comb, a player piano sounds
-a piano, a barrel organ sounds pipes. **Its role is the **performer**, not the instrument** — a point that matters
+Note that nothing in this family has a sound of its own — a music box sounds its comb, a player piano sounds
+a piano, a barrel organ sounds pipes. Its role is the performer, not the instrument — a point that matters
 below.
 
 ## Structure: the tune is cut into metal
@@ -370,12 +371,12 @@ below.
 
 Three points:
 
-1. **The pin positions are the data.** Which pin, on which row of the barrel (= which note), arriving at the comb
-   at which moment (= when it sounds) — that is **a record of actions**.
-2. **The comb sets pitch by length.** Teeth of different lengths vibrate at different frequencies. It shares its
+1. The pin positions are the data. Which pin, on which row of the barrel (= which note), arriving at the comb
+   at which moment (= when it sounds) — that is a record of actions.
+2. The comb sets pitch by length. Teeth of different lengths vibrate at different frequencies. It shares its
    vibrating body with the [[instrument:celesta|celesta]] and [[instrument:glockenspiel|glockenspiel]] — **struck
-   metal** — except that **pins strike it instead of hands**.
-3. **The repertoire is fixed in hardware.** That is its earliest and hardest limitation — and the next figure shows
+   metal — except that pins strike it instead of hands**.
+3. The repertoire is fixed in hardware. That is its earliest and hardest limitation — and the next figure shows
    how it was loosened step by step.
 
 ## What each carrier records
@@ -424,7 +425,7 @@ Three points:
 </svg>
 ```
 
-**Left to right is a clear progression**:
+Left to right is a clear progression:
 
 | Carrier | What it records | Swappable repertoire? | Can it replay one specific performance? |
 |---|---|---|---|
@@ -432,16 +433,16 @@ Three points:
 | **Paper roll** | notes + timing + **dynamics and tempo** | change the roll | **yes** |
 | **Recording** | **the sound itself** | — | yes, **timbre included** |
 
-**Three conclusions**:
+Three conclusions:
 
-1. **"Recording actions" necessarily loses things**: a barrel stores only "which note, when", so it cannot play
-   loud and soft — **dynamics, timbre and pedal detail are simply not in the record**.
-2. **The paper roll was the key upgrade.** With dynamics and tempo added, the player piano could for the first
-   time **replay one particular performance** — and in the early 20th century a number of famous players left
+1. "Recording actions" necessarily loses things: a barrel stores only "which note, when", so it cannot play
+   loud and soft — dynamics, timbre and pedal detail are simply not in the record.
+2. The paper roll was the key upgrade. With dynamics and tempo added, the player piano could for the first
+   time replay one particular performance — and in the early 20th century a number of famous players left
    their playing behind in exactly this form.
-3. **It lost in the end on **what** was recorded.** The phonograph (from 1877) captured **sound** directly, with no
+3. It lost in the end on what was recorded. The phonograph (from 1877) captured sound directly, with no
    need to drive an instrument and no limits from that instrument.
-   **But its idea won**: today's **sequencers and MIDI still record actions** — **whoever punches the roll or
+   But its idea won: today's sequencers and MIDI still record actions — **whoever punches the roll or
    edits the data is the performer who is not in the room.**
 
 ## Range
@@ -450,23 +451,23 @@ Three points:
 {"range":"A0–C8","caption":"自动钢琴的音域 —— 就是钢琴的音域（本类目中最宽的一档）","caption_en":"Range of a player piano — simply the piano's range, the widest member of this category","note":"本类目横跨多种装置，音域没有单一值：音乐盒一类的梳齿只覆盖两三个八度、而且音高是固定的若干根齿；街头管风琴的音域取决于它的音管；这里给出此类中最宽的一档 —— 纸卷自动钢琴，它本来就是一台完整的钢琴，因此覆盖全部 88 键（A0–C8）。记谱即实音。"}
 ```
 
-- **This class has no single range** — because it is not a single instrument.
-- **Music boxes are the narrowest**: a comb has only so many teeth and **the pitches are a fixed set** — like the
-  [[instrument:hunting-horn|hunting horn]], a case of **points rather than a stretch**.
-- **Player pianos are the widest**: **A0–C8, all 88 keys** — because **they are pianos**, with the hands replaced
+- This class has no single range — because it is not a single instrument.
+- Music boxes are the narrowest: a comb has only so many teeth and the pitches are a fixed set — like the
+  [[instrument:hunting-horn|hunting horn]], a case of points rather than a stretch.
+- Player pianos are the widest: A0–C8, all 88 keys — because they are pianos, with the hands replaced
   by a paper roll.
-- **The chart shows the widest member**, because that member defines this family's ceiling.
+- The chart shows the widest member, because that member defines this family's ceiling.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **The sound comes from a real instrument, not a synthesiser.** A music box sounds metal teeth, a player piano
-   sounds strings — **only the hands have been replaced.**
-2. **Extremely regular.** No breathing, no hesitation: everything happens at an exact moment.
-3. **Music boxes sound thin and bright.** Metal teeth carry a metallic ring, the same family as the
+1. The sound comes from a real instrument, not a synthesiser. A music box sounds metal teeth, a player piano
+   sounds strings — only the hands have been replaced.
+2. Extremely regular. No breathing, no hesitation: everything happens at an exact moment.
+3. Music boxes sound thin and bright. Metal teeth carry a metallic ring, the same family as the
    [[instrument:celesta|celesta]].
-4. **Player pianos can sound human.** Once dynamics and tempo are recorded, what comes out is **one particular
+4. Player pianos can sound human. Once dynamics and tempo are recorded, what comes out is **one particular
    performance**, not "the notes played straight".
 
 ```audiolab
@@ -483,7 +484,7 @@ Four cues:
 | **Mechanical band** | barrel / paper roll | depends on model | several instruments driven at once |
 | **Tower and church devices** | pinned barrel + bells | rarely | the **earliest form** of this family |
 
-**⚠️ Four confusing names settled at once** (the only test: **what vibrates, and who decides the pitch**):
+⚠️ Four confusing names settled at once (the only test: what vibrates, and who decides the pitch):
 
 | Name | What it actually is | What vibrates | Who sets the pitch |
 |---|---|---|---|
@@ -505,31 +506,31 @@ Four cues:
 | late 20th c. to today | restored as collectors' items and early-music devices; **its idea lives on in sequencers and MIDI** — recording actions never died |
 
 **Its fate has the same shape as the [[instrument:portative-organ|portative organ]]'s**:
-**the principle was not wrong; the **object** being recorded was.**
+the principle was not wrong; the object being recorded was.
 The portative organ lost to a lighter implementation; mechanical instruments lost to a **more direct recording
-object** — sound. **When one technology replaces another, it is rarely a question of which is better made, but of
+object — sound. When one technology replaces another, it is rarely a question of which is better made, but of
 which records something more fundamental.**
 
 ## Common misconceptions
 
-- **"A mechanical instrument is a gramophone."** **No.** A gramophone records and replays **sound**; a mechanical
-  instrument **drives a real acoustic instrument** — it plays the role of the **performer** and **has no sound of
+- "A mechanical instrument is a gramophone." No. A gramophone records and replays sound; a mechanical
+  instrument drives a real acoustic instrument — it plays the role of the performer and **has no sound of
   its own**.
-- **"It needs no human."** It does — the human has **moved from the moment to beforehand**: **the person who
+- "It needs no human." It does — the human has moved from the moment to beforehand: **the person who
   punches the roll or sets the pins is the performer.** Anyone programming MIDI today stands in exactly that place.
-- **"It is just an antique toy."** It was **the first step in storing and replaying music**, and player pianos
-  **captured the real playing of noted performers** — the "recordings" of their day.
-- **"It was replaced by recording, so it was worthless."** More precisely: **it lost on what it recorded** (actions
-  necessarily lose timbre and detail) — and **its idea survived** (sequencers, MIDI, modern reproducing pianos).
-- **"A player piano sounds just like a person."** A roll can record dynamics and tempo, but **timbre and pedal
+- "It is just an antique toy." It was the first step in storing and replaying music, and player pianos
+  captured the real playing of noted performers — the "recordings" of their day.
+- "It was replaced by recording, so it was worthless." More precisely: it lost on what it recorded (actions
+  necessarily lose timbre and detail) — and its idea survived (sequencers, MIDI, modern reproducing pianos).
+- "A player piano sounds just like a person." A roll can record dynamics and tempo, but **timbre and pedal
   detail are limited** — its ceiling, and one reason it was superseded.
-- **"Hurdy-gurdies, music boxes and accordions are the same sort of thing."** Only the Chinese names collide: **one
+- "Hurdy-gurdies, music boxes and accordions are the same sort of thing." Only the Chinese names collide: **one
   is strings, one is teeth, one is free reeds** — different vibrating bodies, and different answers to "who decides
   the pitch".
 
 ## Next
 
-**The early-instrument group of nine ends here.** Looking back, it produced five threads:
+The early-instrument group of nine ends here. Looking back, it produced five threads:
 
 | Thread | Content |
 |---|---|
@@ -540,7 +541,7 @@ which records something more fundamental.**
 | **Whether a performance can be kept** | recording actions (mechanical instruments) vs recording sound (the phonograph) |
 
 The next batch switches track entirely: [[instrument:guqin|the Chinese bayin]] — not "another set of Western
-instruments" but **a completely different system of classification** (metal, stone, earth, hide, silk, wood,
+instruments" but a completely different system of classification (metal, stone, earth, hide, silk, wood,
 gourd, bamboo). It asks: **if you sort the same objects by "what vibrates" and by "what material it is made of",
 how different are the two maps?**
 :::

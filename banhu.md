@@ -39,30 +39,14 @@ updated: 2026-09-26
 ---
 
 ::: zh
-板胡与[[instrument:erhu|二胡]]的差别，是这一批里最容易讲清、也最惊人的一件：
-**同一族 · 同一弓法 · 同样两根弦 —— 只换掉了共鸣体上的一块材料。**
 
-> ⚠️ **皮 → 板，而这块板写进了它的名字里。**
-> | | [[instrument:erhu\|二胡]] | **板胡** |
-> |---|---|---|
-> | 琴筒前口蒙什么 | **蟒皮（膜）** | **薄桐木板** |
-> | 音色 | 柔和 · 圆润 · **接近人声** | **高亢 · 明亮 · 穿透** |
-> | 适合什么 | 抒情的歌唱性旋律 | **「高亢 · 激昂 · 热烈 · 火爆」的情绪** |
-> | 名字从哪来 | 来自"胡"（族属） | ⭐ **来自那块板 —— 「板」胡** |
->
-> **"板胡"这个名字，就是那次材料选择的直接记录。**
-> 于是本批的"名字史"攒够了四条：
-> **① 描述动作**（[[instrument:pipa|琵琶]]）· **② 换位置**（[[instrument:xiao|箫]]与笛）·
-> **③ 被抢走**（[[instrument:ruan|阮]]）· **④ 记录一次材料选择**（**板胡**）
+把二胡的蟒皮换掉，换上一块薄桐木板，声音立刻从说话变成了喊。板胡和二胡的差别就这么一点：同一族，同一副弓法，同样两根弦，只换了共鸣体上的一块材料。
 
-| 分类 | 归属 |
-|---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **擦弦** · 无品无指板 |
-| **次级类型** | **琴筒（瓢）前口胶薄桐木板** · 椰壳制 · 无音窗 · 两弦 · **腰马**代之千斤 · 粗弓长弓 |
-| **所属族** | 中国 · 拉弦（胡琴族 · 戏曲主奏支系） |
-| **八音** | **丝** —— 传统以蚕丝为弦（今用钢丝弦，归属沿用传统说法） |
+## 只换了一块板
 
-## 结构：与二胡同一副架子，一块不同的面
+琴筒又叫瓢，圆筒状，多用椰壳，也有木、竹、铜的。前口不蒙皮，胶一块薄桐木板，没有音窗。琴杆用红木、紫檀或乌木，弦轴与面板平行，杆上装一个腰马，作用相当于二胡的千斤，材料是牛角或红木。弓比二胡的粗，马尾多而紧，弓身比琴还长——为的是留出大幅度快速运弓的余地。
+
+板比皮硬，高频更足，声音更亮、更穿透。皮膜振动柔和、阻尼大，出来的是接近人声的圆润；木板振动硬，出来的是高亢。材料不只决定音色，它决定了这件乐器被派去唱什么。
 
 ```svg
 <svg viewBox="0 0 640 390" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="板胡的结构：琴杆上装腰马，下端是椰壳制的琴筒，琴筒前口胶着一块薄桐木板而非皮；弓杆在上、马尾在下，两弦穿在中间">
@@ -101,16 +85,11 @@ updated: 2026-09-26
 </svg>
 ```
 
-三处要点：
+## 板决定它去唱什么
 
-1. **琴筒不蒙皮，而胶一块薄桐木板**。这是它唯一本质的差别 ——
-   **弓、弦、按音方式、弓毛夹在两弦之间，全都和二胡一样。**
-2. **腰马代替千斤**。二胡用"千斤"，板胡在琴杆上装**腰马**（牛角或红木制）——
-   名字不同、材料不同，作用一样。
-3. **弓更粗、更长**。弓杆比二胡的粗，马尾多而紧，**弓身比琴体还长** ——
-   这是为了给"火爆"的演奏留出余地。
+板胡是梆子腔的主奏：河北梆子、秦腔、晋剧、蒲剧、豫剧、评剧、吕剧、山东梆子，那一套高亢激越的唱法，正好需要一副高亢激越的嗓子。
 
-## 皮，还是板？
+秦腔的例子最清楚。原先的主奏是二股弦，两者都是桐木板面，差别在弦——皮弦对丝弦。同一块板，换一种弦，音色一变，主奏就换了人。同一段历史里，「材料决定岗位」演了两次。
 
 ```svg
 <svg viewBox="0 0 640 290" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="胡琴族的两副嗓子对照：左侧的蟒皮膜面给出柔和近人声的音色，右侧的桐木板面给出高亢明亮的音色">
@@ -141,134 +120,47 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图是整页的核心**：两块面板、两种音色、两种岗位。
-
-- **皮（膜）**：振动柔和、阻尼大 → 音色**接近人声** → 适合**抒情的歌唱性旋律**（[[instrument:erhu|二胡]]）。
-- **板（木）**：振动更硬、高频更足 → 音色**高亢明亮** → 适合**「高亢 · 激昂 · 热烈 · 火爆」的情绪**（**板胡**）。
-
-**而这一次材料差别，直接决定了它的社会岗位**：
-**板胡是梆子腔的主奏** —— 河北梆子 · 秦腔 · 晋剧 · 蒲剧 · 豫剧 · 评剧 · 吕剧 · 山东梆子……
-**"梆子腔"那种高亢激越的唱法，正好需要一副高亢激越的嗓子。**
-
-*（秦腔的例子尤其清楚：原先的主奏是**二股弦**，两者**都是桐木板面**，
-差别在**琴弦材质**（皮弦 vs 丝弦）—— **同一块板，换的是弦，音色一变，主奏就换人了**。
-同一段历史里，"材料决定岗位"出现了两次。）*
-
-## 音域
-
 ```range
 {"range":"D5–G7","caption":"板胡的音域（以高音板胡为例）","caption_en":"Banhu range — the high-pitched instrument as the example","note":"板胡属弦鸣乐器（擦弦，无品无指板）。传统有五度与四度两种定弦，高度也因剧种与演唱者嗓音而不同；民族乐队中常按五度定弦：高音板胡内弦 d² · 外弦 a²（比二胡高一个八度，即 D5 · A5），音域约两个八度加一个四度，此处按 D5–G7 示意。中音板胡（秦胡 · 胡呼）定弦低五度、音色更浑厚；次中音板胡更低。各剧种形制与定弦不同，本图不代表所有板胡。记谱即实音。"}
 ```
-
-- **比二胡高整整一个八度** —— 这是它音色"尖"的原因之一（高音区本身就是它的主战场）。
-- **常用音域约两个八度加一个四度**（高音板胡）。
-- **定弦跟着剧种与演唱者走**。同一个剧种，唱的人嗓子不同，定弦就可以不同 ——
-   **它是"为唱腔服务"的乐器，所以它必须能跟着人走**（这一点与[[instrument:sanxian|三弦]]的无品出于同一个理由）。
-
-## 音色与听辨
-
-四条线索：
-
-1. **音量大、清脆嘹亮**。这是它与[[instrument:erhu|二胡]]最容易分辨的一点。
-2. **高亢而有"炸"感**。木板比皮膜更硬，高频更足，**穿透力极强**。
-3. **也懂抒情**。它并非只会"吼"：**低音区深沉醇厚，高音区激越高亢**，两副面孔。
-4. **乡土气**。它的音色天生带民间味 —— 这也是它进不了"常规编制"的原因（见下）。
 
 ```audiolab
 {"type":"instrument","gm":"Violin","synth":"bowed","phrase":["D5","A5","D6","A5","D5"],"label":"高音板胡的空弦与上方：D5 到 D6","label_en":"The high banhu's open strings and above — D5 up to D6","hint":"注意比二胡高一个八度、也更硬的擦弦声 —— 通用音色表里没有板胡，这里借小提琴近似（真实板胡还要「炸」得多）","hint_en":"Notice the octave above the erhu and the harder edge. General MIDI has no banhu, so a violin stands in; a real banhu is far more piercing."}
 ```
 
-## 演奏技法
+## 一个把位到三个把位
 
-- **基本技巧与[[instrument:erhu|二胡]]相同**：左手按弦、换把、揉弦，右手运弓。
-- **左手的移指滑音与压弦**更见特色 —— **戏曲唱腔的"腔"就靠这个**。
-- **右手的跳弓 · 顿弓 · 碎弓**以及**双弦演奏**都很有特点。
-- **弓长于琴体**。这样的弓才能做出大幅度的快速运弓 —— 为"火爆"服务。
-- **换把是它的一条发展线**：秦腔板胡**最初只有一个把位**，
-  音域不够时靠**"借音演奏"**（遇高音降八度、遇低音升八度）——
-  直到 20 世纪 30 年代才发展到两个把位，后来才有人拓展到第三把位。
+秦腔板胡最初只有一个把位。音域不够的时候靠「借音」：遇到高音降八度，遇到低音升八度。二十世纪三十年代才发展到两个把位，后来又有人拓到第三个。
 
-## 家族与近亲
+定弦有五度和四度两种，高低随剧种和演唱者的嗓音走。民族乐队里常按五度定：高音板胡内弦 d²、外弦 a²，比二胡高整整一个八度，音域约两个八度加一个四度。它是为唱腔服务的乐器，所以必须跟得住人。
 
-| 乐器 | 共鸣体 | 音色 | 岗位 | 在乐队里 |
-|---|---|---|---|---|
-| **板胡** | **桐木板** | **高亢 · 明亮 · 穿透** | **梆子腔戏曲主奏** | **特殊声部（不进常规编制）** |
-| [[instrument:erhu\|二胡]] | **蟒皮（膜）** | 柔和 · 近人声 | 独奏 · 合奏 · 越剧 | **常规编制** |
-| [[instrument:jinghu\|京胡]] | 蛇皮（小琴筒） | 极亮 · 极穿透 | 京剧主奏 | 特殊声部 |
-| [[instrument:sanxian\|三弦]] | **蟒皮（鼓状）** | 清脆 · 干而响 | 戏曲 · 说唱伴奏 | 常规编制 |
-| [[instrument:ruan\|阮]] | 木板（圆形） | 中正圆润 | 中音 · 和声 | **标准编制** |
+## 太像自己
 
-**这张表里藏着一条反直觉的规律**：
-**音色"太有个性"的乐器，反而进不了常规编制 —— [[instrument:erhu|二胡]]系列能互相融合，
-而板胡"不易与二胡系列的拉弦乐器融和"，因此只作为特殊声部使用。**
-**它不被编入常规编制，不是因为不好，而是因为它太像它自己。**
-这与[[instrument:ruan|阮]]正好相反：**阮靠"能混"成为常备，板胡靠"不能混"成为标记。**
+它音量大，清脆嘹亮，个性强到不容易跟二胡系列的拉弦乐器融在一起。因此它在民族乐队里一般只作特殊声部，没有编进常规编制。不是因为不好，是因为它太像它自己。
 
-## 历史演变
+这和阮正好相反：阮靠能混成为常备，板胡靠不能混成为标记。二十世纪五十年代以后，它自己也成了独奏乐器，《大起板》《花梆子》《秦腔牌子曲》都是那之后的事。
 
-| 时期 | 状态 |
+一把琴被一种唱法造出来，这在乐器里不算常见。先有梆子腔那种唱，才需要这样一副嗓子。
+
+
+| 分类 | 归属 |
 |---|---|
-| 明末清初 | **随梆子腔的兴起而流行**，成为梆子戏的主要伴奏乐器（板胡在中国约有三百多年历史） |
-| 清代 | 随地方戏曲的繁荣扩展到多种梆子剧种与曲艺；形制逐渐演化定型 |
-| 近代 | 广泛用于河北梆子 · 评剧 · 豫剧 · **秦腔** · 晋剧 · 蒲剧 · 吕剧 · 山东梆子 · 陕北道情等；流行于西北 · 华北 · 东北 |
-| 20 世纪 30 年代 | 秦腔板胡由**一个把位发展到两个把位**，指法与弓法开始革新 |
-| 20 世纪 50 年代后 | **逐渐用作独奏乐器**，常出现在音乐会中；出现《大起板》《花梆子》《秦腔牌子曲》等独奏曲 |
-| 今天 | 仍是梆子腔系戏曲不可替代的主奏；作为独奏与特色乐器活跃在民族乐队与音乐会中 |
+| **HS 分类** | **弦鸣**（Chordophone）· **擦弦** · 无品无指板 |
+| **次级类型** | **琴筒（瓢）前口胶薄桐木板** · 椰壳制 · 无音窗 · 两弦 · **腰马**代之千斤 · 粗弓长弓 |
+| **所属族** | 中国 · 拉弦（胡琴族 · 戏曲主奏支系） |
+| **八音** | **丝** —— 传统以蚕丝为弦（今用钢丝弦，归属沿用传统说法） |
 
-**它的历史可以一句话概括**：
-**它是被"一种唱法"造出来的乐器** —— 不是先有乐器再找用途，
-而是**先有梆子腔那种高亢激越的唱，才需要一副高亢激越的嗓子**。
-
-## 常见误解
-
-- **"板胡就是二胡的另一种叫法。"** 两件乐器：**二胡蒙蟒皮，板胡蒙桐木板** ——
-   一字之差，音色与岗位都不同。
-- **"板胡也是膜鸣乐器，因为二胡是。"** **不是**：**振动体是弦**（弦鸣），
-   蟒皮与桐木板都只是**共鸣体**。**共鸣体的材料变了，分类不变** ——
-   这也再次说明"什么在振动"比"看起来像什么"更可靠。
-- **"板胡只能伴奏戏曲。"** 20 世纪 50 年代以来它已是**独奏乐器**，
-   有《大起板》《花梆子》《秦腔牌子曲》等曲目。
-- **"音量大的乐器一定更受欢迎。"** 恰恰相反：**它"音色个性太强"，
-   因此没有编入民族乐团的常规编制**，只作特殊声部使用。
-- **"板胡的音域比二胡窄，因为它高。"** 它比二胡**高一个八度**，音域约**两个八度加一个四度**；
-   而且**高音区正是它的主场**。
-- **"八音说它是丝，所以只能用丝弦。"** 与[[instrument:guqin|古琴]]同理：
-   **八音记的是它诞生时的材料**；秦腔的历史里，"**同一块板换一种弦**"就改变过一次主奏人选。
-
-## 下一步
-
-**拉弦这一类到此有了两件**：[[instrument:erhu|二胡]]（蟒皮）与**板胡**（桐木板）。
-下一件[[instrument:jinghu|京胡]]把这件事推到极端：
-**琴筒更小、蒙蛇皮，音色极亮极穿透 ——**
-**它是京剧的"嗓子"**，而它要回答的是：
-**当一件乐器小到几乎只剩一个"点"，它凭什么撑起一整门国剧？**
 :::
 
 ::: en
-The difference between the banhu and the [[instrument:erhu|erhu]] is the easiest — and the most startling — in this
-batch: **same family, same bowing, same two strings, with one material on the resonator swapped out.**
 
-> ⚠️ **Skin → board, and the board ended up in the name.**
-> | | [[instrument:erhu\|Erhu]] | **Banhu** |
-> |---|---|---|
-> | What covers the body's front | **python skin (a membrane)** | **a thin paulownia board** |
-> | Timbre | soft · round · **close to a human voice** | **high · bright · penetrating** |
-> | Suited to | lyrical, singing lines | **"high, fierce, hot, fiery" emotions** |
-> | Where the name comes from | "hu" (family) | ⭐ **the board — **ban**-hu** |
->
-> **The name "banhu" is a direct record of that one material choice.**
-> Which completes the batch's naming stories:
-> **① describes an action** ([[instrument:pipa|pipa]]) · **② changes places** ([[instrument:xiao|xiao]] and di) ·
-> **③ gets taken away** ([[instrument:ruan|ruan]]) · **④ records a material choice** (**banhu**)
+Replace the erhu's python skin with a thin paulownia board and the voice stops speaking and starts shouting. That is the whole difference: same family, same bowing, same two strings, one material changed.
 
-| Classification | Value |
-|---|---|
-| **HS class** | **Chordophone** · **rubbed** · fretless, no fingerboard |
-| **Sub-type** | **thin paulownia board glued to the body's front** · coconut-shell body · no sound windows · two strings · a **yama** (waist nut) instead of the qianjin · thick, long bow |
-| **Family** | Chinese · bowed (huqin family, operatic-lead branch) |
-| **Bayin** | **silk (丝)** — silk strings traditionally (steel today; the name is retained) |
+## One board
 
-## Structure: the erhu's frame, a different face
+The body, called the ladle, is a short cylinder usually of coconut shell. Its face carries no skin; a thin paulownia board is glued on, and there are no sound windows. The neck is rosewood or ebony, the pegs run parallel to the face, and a waist nut of horn or rosewood does the erhu's qianjin work. The bow is heavier, with more hair under more tension, and longer than the instrument itself — room for big, fast strokes.
+
+A board is harder than skin and carries more high frequency, so it is brighter and cuts further. A membrane vibrates softly and damps heavily, which is where the erhu's voice-like roundness comes from. Material does more than set the timbre. It decides what the instrument is sent out to sing.
 
 ```svg
 <svg viewBox="0 0 640 390" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Structure of a banhu: a neck carrying a waist nut, a coconut-shell body at the bottom whose front is glued with a thin paulownia board rather than skin, and a bow with its stick above and hair below threaded between the two strings">
@@ -307,16 +199,11 @@ batch: **same family, same bowing, same two strings, with one material on the re
 </svg>
 ```
 
-Three points:
+## Material decides the job
 
-1. **No skin on the front — a thin paulownia board is glued on.** This is the only essential difference: **bow,
-   strings, stopping and the hair threaded between the strings are all the erhu's.**
-2. **A waist nut instead of a qianjin.** The erhu uses a **qianjin**; the banhu uses a **waist nut**, of horn or
-   rosewood — a different name and material for the same job.
-3. **A thicker, longer bow.** Thicker stick, more and tighter hair, **longer than the instrument itself** — room for
-   "fiery" playing.
+The banhu leads bangzi opera: Hebei bangzi, Qin opera, Jin opera, Pu opera, Henan opera, pingju, Lü opera, Shandong bangzi. That singing is high and fierce, and it needs a high, fierce voice.
 
-## Skin, or board?
+Qin opera shows it twice. Its original lead was the erguxian, which also had a paulownia face; the difference was gut against silk strings. Same board, different strings, the colour changes and the lead chair changes hands.
 
 ```svg
 <svg viewBox="0 0 640 290" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Two voices of the huqin family compared: a python-skin membrane on the left giving a soft, voice-like tone, and a thin paulownia board on the right giving a bright, penetrating tone">
@@ -347,112 +234,33 @@ Three points:
 </svg>
 ```
 
-**This figure is the heart of the page**: two faces, two timbres, two jobs.
-
-- **Skin (a membrane)**: soft vibration, heavy damping → a tone **close to the human voice** → **lyrical, singing
-  lines** (the [[instrument:erhu|erhu]]).
-- **Board (wood)**: harder vibration, more high frequency → a **high, bright** tone → **"high, fierce, hot, fiery"
-  emotions** (the **banhu**).
-
-**And that one material difference fixed its social post**: the banshu leads **bangzi opera** — Hebei bangzi,
-Qin opera, Jin opera, Pu opera, Henan opera, pingju, Lü opera, Shandong bangzi…
-**the high, intense singing of bangzi music needs exactly a high, intense voice.**
-
-**(Qin opera shows it twice over: its original lead was the **erguxian*, and **both have paulownia board faces** —
-the difference was **string material** (gut versus silk). **Same board, different strings, timbre changes, and the
-lead chair changes hands.** In one story, "material decides the post" happens twice.)*
-
-## Range
-
 ```range
 {"range":"D5–G7","caption":"板胡的音域（以高音板胡为例）","caption_en":"Banhu range — the high-pitched instrument as the example","note":"板胡属弦鸣乐器（擦弦，无品无指板）。传统有五度与四度两种定弦，高度也因剧种与演唱者嗓音而不同；民族乐队中常按五度定弦：高音板胡内弦 d² · 外弦 a²（比二胡高一个八度，即 D5 · A5），音域约两个八度加一个四度，此处按 D5–G7 示意。中音板胡（秦胡 · 胡呼）定弦低五度、音色更浑厚；次中音板胡更低。各剧种形制与定弦不同，本图不代表所有板胡。记谱即实音。"}
 ```
-
-- **A full octave above the erhu** — one reason it sounds so sharp (the high register is its home ground).
-- **Working range about two octaves and a fourth** (high banhu).
-- **Tuning follows the genre and the singer.** In the same genre, a different voice means a different tuning — **it
-  is an instrument built to serve a sung line, so it must be able to follow a person** (the same reasoning behind the
-  [[instrument:sanxian|sanxian]]'s fretless neck).
-
-## Timbre, and how to hear it
-
-Four cues:
-
-1. **Loud, crisp and bright.** The easiest way to tell it from the [[instrument:erhu|erhu]].
-2. **High with a "blast".** A wooden board is harder than skin, with more high frequency and **very strong
-   penetration**.
-3. **It can also sing softly.** It does not only shout: **the low register is deep and full, the top fierce and
-   high** — two faces.
-4. **A rustic flavour.** Its colour is unmistakably folk — which is also why it never entered the regular roster
-   (see below).
 
 ```audiolab
 {"type":"instrument","gm":"Violin","synth":"bowed","phrase":["D5","A5","D6","A5","D5"],"label":"高音板胡的空弦与上方：D5 到 D6","label_en":"The high banhu's open strings and above — D5 up to D6","hint":"注意比二胡高一个八度、也更硬的擦弦声 —— 通用音色表里没有板胡，这里借小提琴近似（真实板胡还要「炸」得多）","hint_en":"Notice the octave above the erhu and the harder edge. General MIDI has no banhu, so a violin stands in; a real banhu is far more piercing."}
 ```
 
-## Playing techniques
+## One position, then three
 
-- **The basics are the [[instrument:erhu|erhu]]'s**: stopping and shifting with the left hand, bowing with the
-  right.
-- **Left-hand finger-glides and pressing** are especially characteristic — **the inflections of operatic singing
-  depend on them**.
-- **Right-hand staccato, spiccato, tremolo** and double-string playing are all distinctive.
-- **The bow is longer than the instrument**, which is what allows large, fast strokes — in the service of "fire".
-- **Shifting positions is a story in itself**: the Qin-opera banhu **began with a single position**, and when the
-  range ran out players used **"borrowed notes"** (dropping an octave for high notes, raising one for low notes) —
-  only in the 1930s did it reach two positions, and later players extended it to a third.
+The Qin-opera banhu began with a single position. When the range ran out, players borrowed notes, dropping an octave for high ones and raising it for low ones. Two positions arrived only in the 1930s, a third later.
 
-## The family
+Tuning is in fifths or fourths, following the genre and the singer. In an orchestra the high banhu is usually tuned to d² and a², a full octave above the erhu, with a working range of about two octaves and a fourth. It exists to serve a sung line, so it must be able to follow a person.
 
-| Instrument | Resonator | Timbre | Post | In the orchestra |
-|---|---|---|---|---|
-| **Banhu** | **paulownia board** | **high · bright · piercing** | **lead of bangzi opera** | **special section (not in the standard roster)** |
-| [[instrument:erhu\|Erhu]] | **python skin (membrane)** | soft · voice-like | solo · ensemble · Yue opera | **regular roster** |
-| [[instrument:jinghu\|Jinghu]] | snakeskin (tiny body) | extremely bright | lead of Peking opera | special section |
-| [[instrument:sanxian\|Sanxian]] | **python skin (drum)** | crisp · dry and loud | opera · narrative song | regular roster |
-| [[instrument:ruan\|Ruan]] | wood (round) | centred, round | middle register · chords | **standard roster** |
+## Too much itself
 
-**A counter-intuitive rule hides in this table**: **instruments with too much personality do not enter the regular
-roster** — the [[instrument:erhu|erhu]] family blends with itself, while the banhu **"does not easily blend with
-erhu-family instruments"** and is therefore used only as a special section. **It is left out not because it is
-worse, but because it is too much itself.** The exact opposite of the [[instrument:ruan|ruan]]: **the ruan earns its
-place by blending; the banhu earns its place by refusing to.**
+It is loud, crisp and bright, and its personality is strong enough that it does not blend with erhu-family instruments. So it appears as a special voice, not in the standard roster. Not because it is worse, but because it is too much itself.
 
-## History
+The ruan is the opposite: it earns its place by blending, the banhu by refusing to. Since the 1950s it has also been a solo instrument, with Da Qi Ban, Hua Bangzi and the Qin opera suite.
 
-| Period | State |
+An instrument built by a way of singing is not common. The singing came first; then it needed this voice.
+
+
+| Classification | Value |
 |---|---|
-| late Ming–early Qing | **spreads with the rise of bangzi opera**, becoming its main accompanying instrument (the banhu is about 300 years old) |
-| Qing | extends with regional opera into many bangzi genres and narrative forms; the form settles |
-| modern era | widely used in Hebei bangzi, pingju, Henan opera, **Qin opera**, Jin opera, Pu opera, Lü opera, Shandong bangzi and Shaanxi narrative song; common in the northwest, north and northeast |
-| 1930s | the Qin-opera banhu **goes from one position to two**, with new fingerings and bowing |
-| after the 1950s | **increasingly used as a solo instrument**; works such as **Da Qi Ban**, **Hua Bangzi** and **Qin Qiang Pai Zi Qu** appear |
-| today | still the irreplaceable lead of the bangzi operas, and an active solo and colour instrument in orchestras and concerts |
-
-**Its history in one sentence**: **it was built by a way of singing** — not an instrument in search of a use, but
-**a high, fierce kind of singing that needed a high, fierce voice.**
-
-## Common misconceptions
-
-- **"A banhu is just another name for an erhu."** Two instruments: **the erhu is skinned with python, the banhu
-  boarded with paulownia** — one word's difference, and both timbre and post follow.
-- **"Being part of the huqin family, it must be a membranophone."** **No**: **the strings vibrate** (chordophone);
-  python skin and paulownia board are both only **resonators**. **Changing the resonator's material does not change
-  the class** — further proof that "what vibrates" beats "what it looks like".
-- **"It only accompanies opera."** Since the 1950s it has been a **solo instrument**, with works such as *Da Qi
-  Ban* and **Qin Qiang Pai Zi Qu**.
-- **"A louder instrument must be more welcome."** The opposite: **because its colour has "too much personality", it
-  is not in the Chinese orchestra's standard roster** and serves only as a special section.
-- **"Being higher, it must have a narrower range."** It is **an octave above the erhu**, with a range of about **two
-  octaves and a fourth** — and the high register is precisely its home ground.
-- **"The bayin says silk, so only silk strings will do."** As with the [[instrument:guqin|guqin]]: **the bayin
-  records the material of its own time**; in Qin opera's history, "**the same board with different strings**" once
-  changed who led the band.
-
-## Next
-
-**The bowed family now has two here**: the [[instrument:erhu|erhu]] (python skin) and the **banhu** (paulownia
-board). The next instrument, the [[instrument:jinghu|jinghu]], takes it to the limit: **a smaller body, skinned
-with snake, an extremely bright and penetrating tone** — **it is the "voice" of Peking opera**, and it asks: **how
-can an instrument reduced to almost a single point hold up an entire national theatre?**
+| **HS class** | **Chordophone** · **rubbed** · fretless, no fingerboard |
+| **Sub-type** | **thin paulownia board glued to the body's front** · coconut-shell body · no sound windows · two strings · a **yama** (waist nut) instead of the qianjin · thick, long bow |
+| **Family** | Chinese · bowed (huqin family, operatic-lead branch) |
+| **Bayin** | **silk (丝)** — silk strings traditionally (steel today; the name is retained) |
 :::

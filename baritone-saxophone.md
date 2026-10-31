@@ -48,12 +48,12 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 木管（萨克斯族 · 上低音支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，上低音萨克斯不在其中 |
 
-> ⚠️ **一个概念上的要点**：到这里可以把萨克斯族的**调性规律**一次讲清 ——
-> **B♭ 调（高音、次中音）与 E♭ 调（中音、上低音）交替**，形成
+> ⚠️ 一个概念上的要点：到这里可以把萨克斯族的调性规律一次讲清 ——
+> B♭ 调（高音、次中音）与 E♭ 调（中音、上低音）交替，形成
 > "高音 B♭ → 中音 E♭ → 次中音 B♭ → 上低音 E♭" 的阶梯。
-> 而它们的**谱面全都是 B♭3–F♯6，一模一样**。
-> 于是每往下换一支，**谱面不动，实际音高下降**（大二度 → 大六度 → 大九度 → 大十三度）。
-> **"调性"决定的是实际音高，"记谱"是另一套约定 —— 两者都不该拿来互相推断。**
+> 而它们的谱面全都是 B♭3–F♯6，一模一样。
+> 于是每往下换一支，谱面不动，实际音高下降（大二度 → 大六度 → 大九度 → 大十三度）。
+> "调性"决定的是实际音高，"记谱"是另一套约定 —— 两者都不该拿来互相推断。
 
 ## 结构：折返两次
 
@@ -98,11 +98,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **折返两次**。这是萨克斯族里唯一需要两次折叠的成员 ——
+1. 折返两次。这是萨克斯族里唯一需要两次折叠的成员 ——
    与[[instrument:bass-clarinet|低音单簧管]]（一次折返）、[[instrument:bassoon|巴松]]（U 形对折）
    属于同一类"用折叠换音高"的做法。
-2. **体量与重量**。它比次中音萨克斯重得多，通常用**落地支架**或加宽背带承重。
-3. **喇叭口朝上**。低音向地面辐射会被吸收，所以低音萨克斯族的喇叭口一律朝上。
+2. 体量与重量。它比次中音萨克斯重得多，通常用落地支架或加宽背带承重。
+3. 喇叭口朝上。低音向地面辐射会被吸收，所以低音萨克斯族的喇叭口一律朝上。
 
 ## 一份谱面，四种声音
 
@@ -134,12 +134,12 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图把萨克斯族的机制讲完了**：
+这张图把萨克斯族的机制讲完了：
 
-- 四支共用**同一个记谱音域**（B♭3–F♯6）→ 所以**指法通用**；
-- 但实音位置一支比一支低 → 换乐器等于**换了一个音高，而不是换了一件乐器**；
+- 四支共用同一个记谱音域（B♭3–F♯6）→ 所以指法通用；
+- 但实音位置一支比一支低 → 换乐器等于换了一个音高，而不是换了一件乐器；
 - 这正是萨克斯族与[[instrument:clarinet|单簧管族]]的根本区别：
-  后者三支的**记谱各不相同**，所以每换一支都要重新建立视谱习惯。
+  后者三支的记谱各不相同，所以每换一支都要重新建立视谱习惯。
 
 ## 音域
 
@@ -147,20 +147,20 @@ updated: 2026-09-26
 {"range":"D♭2–A♭4","written":"B♭3–F♯6","caption":"上低音萨克斯的记谱音域与实音音域","caption_en":"The baritone saxophone: notated range above, sounding range below","note":"⚠️ 上低音萨克斯是降 E 调移调乐器 —— 记谱比实音高大十三度（一个八度 + 大六度）。谱面写 B♭3–F♯6，实际出声 D♭2–A♭4。低音可加键下探至 A2。"}
 ```
 
-- **实音 D♭2–A♭4**，与[[instrument:bass-clarinet|低音单簧管]]的音区大体相当
+- 实音 D♭2–A♭4，与[[instrument:bass-clarinet|低音单簧管]]的音区大体相当
   （但管形不同，低音质感不同）。
-- **常用区 D♭2–F3** —— 它的高音区虽然能吹，但音色会明显变紧。
-- **它是萨克斯声部的底**：大乐队里它常与低音提琴（拨奏）一起构成节奏组的低频。
+- 常用区 D♭2–F3 —— 它的高音区虽然能吹，但音色会明显变紧。
+- 它是萨克斯声部的底：大乐队里它常与低音提琴（拨奏）一起构成节奏组的低频。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **低、厚、带"咆哮"**。它的低音区是萨克斯族里最粗的一块，
+1. 低、厚、带"咆哮"。它的低音区是萨克斯族里最粗的一块，
    天生适合做"有攻击性的低音"。
-2. **不容易吹得很轻**。管粗气量大，做到真正的弱奏比族内其他支更难。
-3. **音准相对稳定**（在低音区）。管长让音高不那么敏感 —— 与高音萨克斯正好相反。
-4. **它的 riff 就是它的名片**。流行与放克里那种"一声低音萨克斯冲出来"的效果，
+2. 不容易吹得很轻。管粗气量大，做到真正的弱奏比族内其他支更难。
+3. 音准相对稳定（在低音区）。管长让音高不那么敏感 —— 与高音萨克斯正好相反。
+4. 它的 riff 就是它的名片。流行与放克里那种"一声低音萨克斯冲出来"的效果，
    几乎只能用这一支做。
 
 ```audiolab
@@ -169,13 +169,13 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-技法与[[instrument:tenor-saxophone|次中音萨克斯]]同源，差别在**物理负担**：
+技法与[[instrument:tenor-saxophone|次中音萨克斯]]同源，差别在物理负担：
 
-- **需要极大的气量**。管最粗最长，维持低音需要持续而充沛的气流。
-- **体量最重**。多数演奏者使用落地支架或加宽背带；独奏时兼顾演奏与支撑是本支的难点。
-- **咆哮（growl）最有效果**。管径粗，喉咙的振动传播充分 —— 放克与灵魂乐里的低音萨克斯 riff
+- 需要极大的气量。管最粗最长，维持低音需要持续而充沛的气流。
+- 体量最重。多数演奏者使用落地支架或加宽背带；独奏时兼顾演奏与支撑是本支的难点。
+- 咆哮（growl）最有效果。管径粗，喉咙的振动传播充分 —— 放克与灵魂乐里的低音萨克斯 riff
   常带这种粗糙感。
-- **超吹（altissimo）相对少用**。它的价值在低音，而上到高音区会失去它的辨识度。
+- 超吹（altissimo）相对少用。它的价值在低音，而上到高音区会失去它的辨识度。
 
 ## 家族与近亲
 
@@ -187,9 +187,9 @@ updated: 2026-09-26
 | **上低音** | E♭ | 记谱比实音高**大十三度** | **2** | D♭2–A♭4 | 声部的地基 |
 | [[instrument:bass-clarinet\|低音单簧管]] | B♭ | 记谱比实音高**大九度** | 1 | D♭2–F5 | 低音——**圆柱管** |
 
-**从上往下看这张表**：调性 B♭/E♭ 交替、记谱偏移依次增大（大二度 → 大六度 → 大九度 → 大十三度，
+从上往下看这张表：调性 B♭/E♭ 交替、记谱偏移依次增大（大二度 → 大六度 → 大九度 → 大十三度，
 每一步增加一个纯四度、再一个大二度）、折返次数增加、实音依次下降。
-**四条规律同步推进 —— 这就是一个"按比例放大同一设计"的族。**
+四条规律同步推进 —— 这就是一个"按比例放大同一设计"的族。
 
 ## 历史演变
 
@@ -203,26 +203,27 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"它只是更大的次中音。"** 结构相似，但**调性不同**（E♭ vs B♭）、折返两次、
+- "它只是更大的次中音。" 结构相似，但调性不同（E♭ vs B♭）、折返两次、
   记谱偏移更大（大十三度 vs 大九度）—— 它需要单独练习。
-- **"低音萨克斯就是上低音萨克斯。"** **低音萨克斯（bass saxophone）** 更低、更罕见，
-  是另一个尺寸；管乐团与爵士里的常规低音是**上低音萨克斯**。
-- **"它记谱高十三度，说明是高音乐器。"** 记谱方向与音区无关 ——
-  它的**实音很低**，谱面高只是为了让演奏者读谱方便。
-- **"萨克斯族各支的谱子不一样。"** **完全相同**（都是 B♭3–F♯6）——
+- "低音萨克斯就是上低音萨克斯。" 低音萨克斯（bass saxophone） 更低、更罕见，
+  是另一个尺寸；管乐团与爵士里的常规低音是上低音萨克斯。
+- "它记谱高十三度，说明是高音乐器。" 记谱方向与音区无关 ——
+  它的实音很低，谱面高只是为了让演奏者读谱方便。
+- "萨克斯族各支的谱子不一样。" 完全相同（都是 B♭3–F♯6）——
   这是全族指法通用的原理，本条的第二张图就是它的说明。
-- **"它和低音单簧管可以互相替代。"** 音区相近，但**管形不同**（圆锥 vs 圆柱）：
+- "它和低音单簧管可以互相替代。" 音区相近，但管形不同（圆锥 vs 圆柱）：
   上低音萨克斯的低音更"粗而有棱角"，低音单簧管更"柔而绵密"。
 
 ## 下一步
 
 萨克斯族四支到这里就全了。这一族最值得带走的一条认识是：
-**"调性"与"记谱"是两件事，而"管形"决定音响** ——
+"调性"与"记谱"是两件事，而"管形"决定音响 ——
 四条并排看，比任何单支的介绍都清楚。
 
-木管这条线还剩最后一组：**哨嘴驱动的三件** ——
+木管这条线还剩最后一组：哨嘴驱动的三件 ——
 [[instrument:recorder|竖笛]] · [[instrument:ocarina|陶笛]] · [[instrument:pan-flute|排箫]]。
 它们都不用簧片，也都没有键系（或极少），是木管里最古老的一片。
+
 :::
 
 ::: en
@@ -240,10 +241,10 @@ riff.
 | **Family** | Western · Woodwinds (saxophone family, baritone branch) |
 | **Bayin** | Not applicable — a Chinese system; the baritone saxophone is outside it |
 
-> ⚠️ **One conceptual point**: here the family's **key pattern** can be stated once for all —
-> **B♭ (soprano, tenor) alternates with E♭ (alto, baritone)**, giving the ladder
+> ⚠️ One conceptual point: here the family's key pattern can be stated once for all —
+> B♭ (soprano, tenor) alternates with E♭ (alto, baritone), giving the ladder
 > "soprano B♭ → alto E♭ → tenor B♭ → baritone E♭".
-> Yet **every page is B♭3–F♯6, identical**. So each step down changes **the sound, not the page**: a major
+> Yet every page is B♭3–F♯6, identical. So each step down changes the sound, not the page: a major
 > second → a major sixth → a major ninth → a major thirteenth.
 > **The key describes the sounding pitch; the notation is a separate convention — never infer one from the
 > other.**
@@ -291,11 +292,11 @@ riff.
 
 Three points:
 
-1. **Folded twice** — the only member of the family that needs it. The same trick as the
+1. Folded twice — the only member of the family that needs it. The same trick as the
    [[instrument:bass-clarinet|bass clarinet]] (one fold) and the [[instrument:bassoon|bassoon]] (a U-fold):
-   **fold to trade length for pitch.**
-2. **Bulk and weight.** Far heavier than a tenor, it is usually carried on a floor stand or a wide strap.
-3. **The bell points up.** Low frequencies radiate into the floor and get absorbed, so low saxes aim upward.
+   fold to trade length for pitch.
+2. Bulk and weight. Far heavier than a tenor, it is usually carried on a floor stand or a wide strap.
+3. The bell points up. Low frequencies radiate into the floor and get absorbed, so low saxes aim upward.
 
 ## One page, four sounds
 
@@ -327,13 +328,13 @@ Three points:
 </svg>
 ```
 
-**This diagram completes the family's mechanism**:
+This diagram completes the family's mechanism:
 
-- All four share **one written range** (B♭3–F♯6) → hence **shared fingerings**;
+- All four share one written range (B♭3–F♯6) → hence shared fingerings;
 - but their sounding positions step down one after another → switching instruments means **changing pitch,
   not learning a new instrument**;
 - and that is the fundamental difference from the [[instrument:clarinet|clarinet family]], whose three
-  members are each **written differently**, so every switch requires a new reading habit.
+  members are each written differently, so every switch requires a new reading habit.
 
 ## Range
 
@@ -341,22 +342,22 @@ Three points:
 {"range":"D♭2–A♭4","written":"B♭3–F♯6","caption":"上低音萨克斯的记谱音域与实音音域","caption_en":"The baritone saxophone: notated range above, sounding range below","note":"⚠️ 上低音萨克斯是降 E 调移调乐器 —— 记谱比实音高大十三度（一个八度 + 大六度）。谱面写 B♭3–F♯6，实际出声 D♭2–A♭4。低音可加键下探至 A2。"}
 ```
 
-- **Sounding D♭2–A♭4**, roughly the [[instrument:bass-clarinet|bass clarinet]]'s territory (but a
+- Sounding D♭2–A♭4, roughly the [[instrument:bass-clarinet|bass clarinet]]'s territory (but a
   different bore, so a different low-end colour).
-- **The working register is D♭2–F3**; it can play higher, but the colour tightens noticeably.
-- **It is the section's floor**: in a big band it often joins the plucked double bass in forming the low
+- The working register is D♭2–F3; it can play higher, but the colour tightens noticeably.
+- It is the section's floor: in a big band it often joins the plucked double bass in forming the low
   end of the rhythm group.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Low, coarse, growling.** The thickest low register in the family, born for aggressive bass writing.
-2. **Hard to play really softly.** A wide tube needs a lot of air, so a genuine pianissimo is harder than on
+1. Low, coarse, growling. The thickest low register in the family, born for aggressive bass writing.
+2. Hard to play really softly. A wide tube needs a lot of air, so a genuine pianissimo is harder than on
    any other member.
-3. **Comparatively stable pitch** down low — a long tube is less air-sensitive, the exact opposite of the
+3. Comparatively stable pitch down low — a long tube is less air-sensitive, the exact opposite of the
    soprano.
-4. **Its riff is its calling card.** The pop and funk effect of "a baritone sax bursting out" is almost
+4. Its riff is its calling card. The pop and funk effect of "a baritone sax bursting out" is almost
    exclusive to this instrument.
 
 ```audiolab
@@ -367,12 +368,12 @@ Four cues:
 
 The technique comes from the [[instrument:tenor-saxophone|tenor]]; the differences are physical:
 
-- **A very large air requirement** — the widest, longest tube needs a full, steady stream.
-- **The heaviest member.** Most players use a floor stand or a wide strap; managing support and playing at
+- A very large air requirement — the widest, longest tube needs a full, steady stream.
+- The heaviest member. Most players use a floor stand or a wide strap; managing support and playing at
   once is its particular difficulty.
-- **Growl is most effective here**, since a wide tube carries the throat's vibration well — the rough edge
+- Growl is most effective here, since a wide tube carries the throat's vibration well — the rough edge
   of funk and soul baritone riffs.
-- **Altissimo is used less**: its value is low, and going high loses its identity.
+- Altissimo is used less: its value is low, and going high loses its identity.
 
 ## The family
 
@@ -384,9 +385,9 @@ The technique comes from the [[instrument:tenor-saxophone|tenor]]; the differenc
 | **Baritone** | E♭ | a **major thirteenth** above | **2** | D♭2–A♭4 | the section's floor |
 | [[instrument:bass-clarinet\|Bass clarinet]] | B♭ | a **major ninth** above | 1 | D♭2–F5 | low — **cylindrical bore** |
 
-**Read the table downwards**: the keys alternate B♭/E♭, the shift grows (a major second → a major sixth →
+Read the table downwards: the keys alternate B♭/E♭, the shift grows (a major second → a major sixth →
 a major ninth → a major thirteenth), the folds increase, and the sounding range descends.
-**Four rules advancing together — the signature of one design scaled up.**
+Four rules advancing together — the signature of one design scaled up.
 
 ## History
 
@@ -400,25 +401,25 @@ a major ninth → a major thirteenth), the folds increase, and the sounding rang
 
 ## Common misconceptions
 
-- **"It is just a bigger tenor."** Similar structure, but a **different key** (E♭ versus B♭), folded twice,
+- "It is just a bigger tenor." Similar structure, but a different key (E♭ versus B♭), folded twice,
   and a larger shift (a major thirteenth versus a major ninth) — it needs its own practice.
-- **"A bass saxophone and a baritone saxophone are the same."** The **bass saxophone** is lower and much
-  rarer, a separate size; the standard low voice in bands and jazz is the **baritone**.
-- **"Written a thirteenth high means it is a high instrument."** Notation has nothing to do with register:
-  its **sound is low**, and the page is high only for the reader's convenience.
-- **"The saxophones each have their own music."** **Identical** (all B♭3–F♯6) — that is the principle behind
+- "A bass saxophone and a baritone saxophone are the same." The bass saxophone is lower and much
+  rarer, a separate size; the standard low voice in bands and jazz is the baritone.
+- "Written a thirteenth high means it is a high instrument." Notation has nothing to do with register:
+  its sound is low, and the page is high only for the reader's convenience.
+- "The saxophones each have their own music." Identical (all B♭3–F♯6) — that is the principle behind
   shared fingerings, and the second diagram on this page is its explanation.
-- **"It can substitute for a bass clarinet."** Similar register, **different bore** (conical versus
+- "It can substitute for a bass clarinet." Similar register, different bore (conical versus
   cylindrical): the baritone's low end is coarser and more angular, the bass clarinet's suppler and
   close-grained.
 
 ## Next
 
 That completes the four saxophones. The one thing worth carrying away from the family is this:
-**"key" and "notation" are two separate things, and "bore" decides the sound** — read all four together and
+"key" and "notation" are two separate things, and "bore" decides the sound — read all four together and
 it is clearer than any single entry.
 
-One group remains on the woodwind line: the three **duct-blown** instruments —
+One group remains on the woodwind line: the three duct-blown instruments —
 [[instrument:recorder|recorder]] · [[instrument:ocarina|ocarina]] · [[instrument:pan-flute|pan flute]].
 None uses a reed, and none has a key system (or barely one): the oldest corner of the woodwinds.
 :::

@@ -46,12 +46,12 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 键盘（气鸣支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，管风琴不在其中 |
 
-> ⚠️ **一个概念上的要点**：**管风琴把"键盘"这个界面的性质讲得最清楚。**
-> 在钢琴上，按键 = **击打**（一次动作对应一次发声）；
-> 在管风琴上，按键 = **开阀**（按住多久，声音就持续多久）。
-> 所以管风琴的键盘不是"打击装置"，而更像一组**开关** ——
-> 这也意味着它**没有力度控制**（音管的响度由风压与音栓决定，不由触键决定）。
-> **同一个界面，两种完全不同的操作语义。**
+> ⚠️ **一个概念上的要点**：管风琴把"键盘"这个界面的性质讲得最清楚。
+> 在钢琴上，按键 = 击打（一次动作对应一次发声）；
+> 在管风琴上，按键 = 开阀（按住多久，声音就持续多久）。
+> 所以管风琴的键盘不是"打击装置"，而更像一组开关 ——
+> 这也意味着它没有力度控制（音管的响度由风压与音栓决定，不由触键决定）。
+> 同一个界面，两种完全不同的操作语义。
 
 ## 结构：键盘开阀，气流发声
 
@@ -108,11 +108,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **键盘是开关，不是击打装置**。按住多久，音就持续多久 ——
-   所以管风琴是唯一能**无限延长一个音**的键盘乐器。
-2. **音管按音高与音色分组**。同一音高可以有多种管（长笛管、弦管、簧管…），
-   由**音栓**选择 —— 这是它音色丰富的原因。
-3. **它其实是一组乐器**。一台大管风琴可能有几千根音管、几十个音栓，
+1. 键盘是开关，不是击打装置。按住多久，音就持续多久 ——
+   所以管风琴是唯一能无限延长一个音的键盘乐器。
+2. 音管按音高与音色分组。同一音高可以有多种管（长笛管、弦管、簧管…），
+   由音栓选择 —— 这是它音色丰富的原因。
+3. 它其实是一组乐器。一台大管风琴可能有几千根音管、几十个音栓，
    由一套键盘统一控制。
 
 ## 音管的两大类
@@ -144,8 +144,8 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图解释了管风琴为什么音色那么丰富**：
-它把木管组的两种发声原理（边棱音与簧片）**都做成了音管** ——
+这张图解释了管风琴为什么音色那么丰富：
+它把木管组的两种发声原理（边棱音与簧片）都做成了音管 ——
 所以它既能模仿长笛，也能模仿小号与双簧管。
 
 ## 音域
@@ -154,21 +154,21 @@ updated: 2026-09-26
 {"range":"C2–C7","common":"C2–C6","caption":"管风琴的音域（以常见形制为例）","caption_en":"Organ range (a typical instrument)","note":"管风琴属气鸣乐器 —— 键盘控制气阀，气流进入音管使空气柱振动。音域随乐器差别极大，常见约 C2–C7；大型管风琴可超出此范围，也有仅一两个八度的小型乐器。"}
 ```
 
-- **约 C2–C7**（视乐器），大型乐器可超出。
-- **它没有统一的音域标准** —— 每台管风琴都是为所在建筑定制建造的。
+- 约 C2–C7（视乐器），大型乐器可超出。
+- 它没有统一的音域标准 —— 每台管风琴都是为所在建筑定制建造的。
   这与[[instrument:piano|钢琴]]（88 键统一）形成极端对照。
-- **它的低音可以极低**（大管可达 32 英尺，对应极低的音）。
+- 它的低音可以极低（大管可达 32 英尺，对应极低的音）。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **音可以无限持续**，且**持续期间没有任何衰减**。
+1. 音可以无限持续，且持续期间没有任何衰减。
    这是它与钢琴、击弦古钢琴最根本的听感差别 ——
    钢琴的音一出来就在衰减，管风琴的音则"立在原地"。
-2. **音色随音栓变化极大**。同一台乐器可以像长笛、像小号、像弦乐组。
-3. **没有力度层次**。触键不改变音量；音量靠音栓与"渐强箱"（swell box）。
-4. **低频有压倒性的分量**。大型管风琴的低声足以震动整个建筑。
+2. 音色随音栓变化极大。同一台乐器可以像长笛、像小号、像弦乐组。
+3. 没有力度层次。触键不改变音量；音量靠音栓与"渐强箱"（swell box）。
+4. 低频有压倒性的分量。大型管风琴的低声足以震动整个建筑。
 
 ```audiolab
 {"type":"instrument","gm":"Church Organ","synth":"blown","phrase":["C3","E3","G3","C4","E4","G4"],"label":"管风琴的常用区：C3 到 G4","label_en":"The organ's working register — C3 up to G4","hint":"注意音一旦发出就不再衰减 —— 这是管风琴独有的持续感","hint_en":"Hear that the sound never decays once it starts — an organ's unique sustain."}
@@ -176,11 +176,11 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **触键不改变力度**。音量靠**音栓**与（部分乐器的）**渐强箱**（用踏板控制百叶窗的开合）。
-- **连奏是它的核心**。因为音能持续，管风琴的乐句通常靠**手指的重叠**做成无缝隙的连奏。
-- **踏板键盘（pedalboard）**：用脚演奏的低音键盘，是管风琴的标配 ——
+- 触键不改变力度。音量靠音栓与（部分乐器的）渐强箱（用踏板控制百叶窗的开合）。
+- 连奏是它的核心。因为音能持续，管风琴的乐句通常靠手指的重叠做成无缝隙的连奏。
+- 踏板键盘（pedalboard）：用脚演奏的低音键盘，是管风琴的标配 ——
   这让一个演奏者可以同时演奏三个甚至四个声部。
-- **声部独立**。每个音都由独立的音管发声，所以**每个声部都能独立保持与呼吸** ——
+- 声部独立。每个音都由独立的音管发声，所以每个声部都能独立保持与呼吸 ——
   管风琴因此成为最接近"无伴奏合唱"的键盘乐器。
 
 ## 家族与近亲
@@ -193,8 +193,8 @@ updated: 2026-09-26
 | [[instrument:harmonium\|簧风琴]] | **自由簧** | 气流（脚踏风箱） | 持续 | 部分可 |
 | [[instrument:portative-organ\|便携管风琴]] | 空气柱 | 开阀 | 无限 | 不可 |
 
-**管风琴与它的"小型亲族"**（簧风琴 · 便携管风琴 · 手风琴）
-构成了一个"**气流 + 键盘**"的家族 —— 它们的差别在**发声体**（音管 vs 自由簧）与**送气方式**。
+管风琴与它的"小型亲族"（簧风琴 · 便携管风琴 · 手风琴）
+构成了一个"气流 + 键盘"的家族 —— 它们的差别在发声体（音管 vs 自由簧）与送气方式。
 
 ## 历史演变
 
@@ -208,29 +208,30 @@ updated: 2026-09-26
 | 20 世纪 | 管风琴复兴运动（回到巴洛克形制）与现代大型管风琴并存 |
 | 20 世纪后期至今 | 教堂、音乐厅与音乐学院的固定乐器；也有当代作品 |
 
-**它是键盘乐器里历史最久的一件**（比钢琴早约两千年），
-也是唯一一件**与建筑绑定**的乐器 —— 大多数管风琴在建造时就是为那座建筑设计的。
-**乐器与空间的关系，在它身上最紧密。**
+它是键盘乐器里历史最久的一件（比钢琴早约两千年），
+也是唯一一件与建筑绑定的乐器 —— 大多数管风琴在建造时就是为那座建筑设计的。
+乐器与空间的关系，在它身上最紧密。
 
 ## 常见误解
 
-- **"管风琴是键盘乐器，所以和钢琴一类。"** 它是**气鸣**（空气柱振动），
-  钢琴是**弦鸣**（弦振动）—— 分属两个大类。
-- **"它能像钢琴那样控制力度。"** **不能**。触键不改变音量；
+- "管风琴是键盘乐器，所以和钢琴一类。" 它是气鸣（空气柱振动），
+  钢琴是弦鸣（弦振动）—— 分属两个大类。
+- "它能像钢琴那样控制力度。" 不能。触键不改变音量；
   音量靠音栓与渐强箱。这与大键琴的处境类似，但原因不同（一个是拨弦固定，一个是气流固定）。
-- **"管风琴很笨重，所以不好用。"** 它确实不可移动，但这正是它的优势：
+- "管风琴很笨重，所以不好用。" 它确实不可移动，但这正是它的优势：
   它可以按建筑声学定制，得到别处得不到的规模与低频。
-- **"它只是教堂乐器。"** 它也是音乐厅与音乐学院的固定乐器，
+- "它只是教堂乐器。" 它也是音乐厅与音乐学院的固定乐器，
   且有大量非宗教的独奏与协奏曲目。
-- **"它的音色都是"管风琴味"。"** 一台大管风琴的音色范围极广 ——
+- "它的音色都是"管风琴味"。" 一台大管风琴的音色范围极广 ——
   它可以接近长笛、弦乐、小号、双簧管等等。
 
 ## 下一步
 
-键盘组还剩 3 条，全部属于"**自由簧**"一类：
+键盘组还剩 3 条，全部属于"自由簧"一类：
 [[instrument:harmonium|簧风琴]] · [[instrument:accordion|手风琴]] · [[instrument:harmonica|口琴]]。
-它们与管风琴同属气鸣，但**发声体从"空气柱"换成了"簧片"** ——
+它们与管风琴同属气鸣，但发声体从"空气柱"换成了"簧片" ——
 这一换，带来了一整套不同的乐器（也与木管的簧片形成区分）。
+
 :::
 
 ::: en
@@ -249,10 +250,10 @@ note is an independent voice.**
 
 > ⚠️ **One conceptual point**: **the organ explains the "keyboard" interface most clearly.**
 > On a piano, a key = **a strike** (one action, one sound);
-> on an organ, a key = **a valve** (hold it and the sound lasts as long as you hold).
-> So an organ keyboard is not a percussion device but a set of **switches** — which also means it **has no
+> on an organ, a key = a valve (hold it and the sound lasts as long as you hold).
+> So an organ keyboard is not a percussion device but a set of switches — which also means it **has no
 > dynamic control** (loudness comes from wind pressure and stops, not from touch).
-> **One interface, two completely different operating semantics.**
+> One interface, two completely different operating semantics.
 
 ## Structure: keys open valves, air sounds
 
@@ -309,11 +310,11 @@ note is an independent voice.**
 
 Three points:
 
-1. **Keys are switches, not hammers.** Hold the key and the note lasts — the only keyboard instrument that can
-   **sustain a note indefinitely**.
-2. **Pipes are grouped by pitch and colour.** One pitch may have several kinds of pipe (flute, string, reed) —
-   selected by **stops**, the source of its huge colour range.
-3. **It is really a group of instruments.** A large organ may hold thousands of pipes and dozens of stops,
+1. Keys are switches, not hammers. Hold the key and the note lasts — the only keyboard instrument that can
+   sustain a note indefinitely.
+2. Pipes are grouped by pitch and colour. One pitch may have several kinds of pipe (flute, string, reed) —
+   selected by stops, the source of its huge colour range.
+3. It is really a group of instruments. A large organ may hold thousands of pipes and dozens of stops,
    controlled from one keyboard.
 
 ## Two great classes of pipe
@@ -345,7 +346,7 @@ Three points:
 </svg>
 ```
 
-**This diagram explains why an organ's colours are so wide**: it turns **both** woodwind sound-producing
+This diagram explains why an organ's colours are so wide: it turns both woodwind sound-producing
 principles (edge-tone and reed) into pipes — so it can imitate a flute, a trumpet or an oboe.
 
 ## Range
@@ -354,22 +355,22 @@ principles (edge-tone and reed) into pipes — so it can imitate a flute, a trum
 {"range":"C2–C7","common":"C2–C6","caption":"管风琴的音域（以常见形制为例）","caption_en":"Organ range (a typical instrument)","note":"管风琴属气鸣乐器 —— 键盘控制气阀，气流进入音管使空气柱振动。音域随乐器差别极大，常见约 C2–C7；大型管风琴可超出此范围，也有仅一两个八度的小型乐器。"}
 ```
 
-- **About C2–C7** depending on the instrument; large organs exceed it.
-- **There is no standard range** — every organ is built to fit its building, the exact opposite of the
+- About C2–C7 depending on the instrument; large organs exceed it.
+- There is no standard range — every organ is built to fit its building, the exact opposite of the
   [[instrument:piano|piano]]'s uniform 88 keys.
-- **Its bass can go extremely low** (32-foot pipes reach the bottom of the audible range).
+- Its bass can go extremely low (32-foot pipes reach the bottom of the audible range).
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **A note can sustain indefinitely with no decay.** The most fundamental difference from a piano or
+1. A note can sustain indefinitely with no decay. The most fundamental difference from a piano or
    clavichord: a piano's note decays the moment it starts, an organ's "stands still".
-2. **Colour varies enormously with the stops.** One instrument can sound like flutes, trumpets or a string
+2. Colour varies enormously with the stops. One instrument can sound like flutes, trumpets or a string
    section.
-3. **No dynamic layering.** Touch does not change volume; that comes from stops and (on some instruments) a
+3. No dynamic layering. Touch does not change volume; that comes from stops and (on some instruments) a
    swell box.
-4. **Overwhelming low-frequency weight.** A large organ's bass can shake a building.
+4. Overwhelming low-frequency weight. A large organ's bass can shake a building.
 
 ```audiolab
 {"type":"instrument","gm":"Church Organ","synth":"blown","phrase":["C3","E3","G3","C4","E4","G4"],"label":"管风琴的常用区：C3 到 G4","label_en":"The organ's working register — C3 up to G4","hint":"注意音一旦发出就不再衰减 —— 这是管风琴独有的持续感","hint_en":"Hear that the sound never decays once it starts — an organ's unique sustain."}
@@ -377,13 +378,13 @@ Four cues:
 
 ## Playing techniques
 
-- **Touch does not change dynamics.** Volume comes from **stops** and (where fitted) a **swell box**
+- Touch does not change dynamics. Volume comes from stops and (where fitted) a swell box
   (pedal-controlled shutters).
-- **Legato is central.** Because notes sustain, organ phrasing is usually built by **overlapping fingers** to
+- Legato is central. Because notes sustain, organ phrasing is usually built by overlapping fingers to
   make a seamless line.
-- **The pedalboard**: a keyboard played with the feet, standard on organs — letting one player perform three or
+- The pedalboard: a keyboard played with the feet, standard on organs — letting one player perform three or
   even four parts at once.
-- **Independent voices**: every note comes from its own pipes, so **each voice can sustain and breathe on its
+- Independent voices: every note comes from its own pipes, so **each voice can sustain and breathe on its
   own** — making the organ the keyboard instrument closest to unaccompanied choral singing.
 
 ## The family
@@ -396,8 +397,8 @@ Four cues:
 | [[instrument:harmonium\|Harmonium]] | **free reeds** | air (foot bellows) | sustained | partly |
 | [[instrument:portative-organ\|Portative organ]] | air columns | valve | unlimited | no |
 
-**The organ and its smaller relatives** (harmonium, portative organ, accordion) form a "**air + keyboard**"
-family — distinguished by **the vibrating body** (pipes versus free reeds) and **how the air is supplied**.
+The organ and its smaller relatives (harmonium, portative organ, accordion) form a "air + keyboard"
+family — distinguished by the vibrating body (pipes versus free reeds) and how the air is supplied.
 
 ## History
 
@@ -411,30 +412,28 @@ family — distinguished by **the vibrating body** (pipes versus free reeds) and
 | 20th c. | the organ reform movement (back to Baroque models) coexists with modern large instruments |
 | Late 20th c. onward | a fixed instrument of churches, halls and conservatories; also contemporary works |
 
-**It is the oldest keyboard instrument** (some two thousand years older than the piano), and the only one
-**bound to a building** — most organs are designed for the space they stand in.
-**Nowhere else is the relationship between instrument and architecture so close.**
+It is the oldest keyboard instrument (some two thousand years older than the piano), and the only one
+bound to a building — most organs are designed for the space they stand in.
+Nowhere else is the relationship between instrument and architecture so close.
 
 ## Common misconceptions
 
-- **"The organ is a keyboard instrument, so it is like a piano."** It is an **aerophone** (air columns vibrate);
-  the piano is a **chordophone** (strings) — two different classes.
-- **"It can control dynamics like a piano."** It **cannot**. Touch does not change volume; that comes from stops
+- "The organ is a keyboard instrument, so it is like a piano." It is an aerophone (air columns vibrate);
+  the piano is a chordophone (strings) — two different classes.
+- "It can control dynamics like a piano." It cannot. Touch does not change volume; that comes from stops
   and the swell box. A situation comparable to the harpsichord's, though the cause differs (plucking is fixed;
   so is wind).
-- **"Being immovable makes it impractical."** That immobility is its advantage: it can be built to a building's
+- "Being immovable makes it impractical." That immobility is its advantage: it can be built to a building's
   acoustics, achieving scale and low frequency nothing else can.
-- **"It is only a church instrument."** It is also a fixture of concert halls and conservatories, with a large
+- "It is only a church instrument." It is also a fixture of concert halls and conservatories, with a large
   non-religious solo and concerto repertoire.
-- **"It has only one organ sound."** A large organ's range is enormous — close to flutes, strings, trumpets,
+- "It has only one organ sound." A large organ's range is enormous — close to flutes, strings, trumpets,
   oboes and more.
 
 ## Next
 
-Three keyboard entries remain, all in the **free-reed** family: the [[instrument:harmonium|harmonium]], the
+Three keyboard entries remain, all in the free-reed family: the [[instrument:harmonium|harmonium]], the
 [[instrument:accordion|accordion]] and the [[instrument:harmonica|harmonica]]. Like the organ they are
-aerophones — but **the vibrating body changes from an air column to a reed**, and that one change produces a
+aerophones — but the vibrating body changes from an air column to a reed, and that one change produces a
 whole different set of instruments (also distinguishing them from woodwind reeds).
 :::
-
-

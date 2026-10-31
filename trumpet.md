@@ -40,7 +40,7 @@ updated: 2026-09-26
 铜管靠**嘴唇本身的振动**。演奏者的嘴唇就是簧片。
 
 这带来一个木管没有的现象：**一根管子只能吹出泛音列上的那些音。**
-想要中间的音，就得**改变管长** —— 这正是活塞存在的理由。
+想要中间的音，就得改变管长 —— 这正是活塞存在的理由。
 
 | 分类 | 归属 |
 |---|---|
@@ -49,14 +49,14 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 铜管（小号族） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，小号不在其中 |
 
-> ⚠️ **一个概念上的要点**：**铜管与木管的分界在"什么在振动"，不在"什么材料"。**
+> ⚠️ 一个概念上的要点：铜管与木管的分界在"什么在振动"，不在"什么材料"。
 > 长笛是金属的，但属木管；[[instrument:serpent|蛇形号]]是木头的，却属铜管（靠嘴唇吹）。
-> 判据只有一条：**振源是空气柱（木管）还是嘴唇（铜管）。**
-> 小号是铜管的**典型**：它的音色、它的灵活性、它的难度，全都从"嘴唇当簧片"这一条推出来。
+> 判据只有一条：振源是空气柱（木管）还是嘴唇（铜管）。
+> 小号是铜管的典型：它的音色、它的灵活性、它的难度，全都从"嘴唇当簧片"这一条推出来。
 
 ## 铜管的三个层次
 
-和木管一样，铜管的差异也可以用几个正交的维度说清。**三个层次**：
+和木管一样，铜管的差异也可以用几个正交的维度说清。三个层次：
 
 | 层次 | 决定什么 | 取值 |
 |---|---|---|
@@ -64,7 +64,7 @@ updated: 2026-09-26
 | **管形的圆锥度** | 音色偏亮还是偏柔 | 圆柱为主（亮）/ 圆锥为主（柔） |
 | **号嘴的深度** | 音色的厚薄与高音难度 | 浅（亮、高音易）/ 深（柔、高音难） |
 
-小号在这三项上的取值是：**活塞 · 圆柱为主 · 浅号嘴** —— 三项都指"亮而灵活"。
+小号在这三项上的取值是：活塞 · 圆柱为主 · 浅号嘴 —— 三项都指"亮而灵活"。
 而[[instrument:french-horn|圆号]]的三项几乎全都相反，所以两者音色差得极远。
 
 ## 结构：活塞、直管与喇叭口
@@ -105,11 +105,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **号嘴是杯形的**（cup mouthpiece）。嘴唇贴在杯口内，靠气压与张力振动 ——
+1. 号嘴是杯形的（cup mouthpiece）。嘴唇贴在杯口内，靠气压与张力振动 ——
    与木管"让气流切过某个边缘"完全不是一回事。
-2. **管身以圆柱为主**。这是小号与[[instrument:french-horn|圆号]]、[[instrument:flugelhorn|富鲁格号]]音色分野的关键
+2. 管身以圆柱为主。这是小号与[[instrument:french-horn|圆号]]、[[instrument:flugelhorn|富鲁格号]]音色分野的关键
    （后两者的圆锥比例更大）。
-3. **三个活塞 = 七种管长**。每个活塞接入一段额外短管；
+3. 三个活塞 = 七种管长。每个活塞接入一段额外短管；
    组合起来可把管长加长 0、1、2、3、4、5、6 个半音的量。
 
 ## 泛音列 × 活塞
@@ -159,14 +159,14 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这条机制是理解全部铜管的钥匙**：
+这条机制是理解全部铜管的钥匙：
 
-- **音高来自泛音列**，所以铜管的指法逻辑与木管完全不同 —— 木管是"开孔改变有效管长"，
+- 音高来自泛音列，所以铜管的指法逻辑与木管完全不同 —— 木管是"开孔改变有效管长"，
   铜管是"加长管身 + 选泛音"。
-- **泛音越高越密**，所以铜管的高音区可以用活塞吹出很密的半音，
-  低音区却必须靠**唇部与气息**"拉"出相邻的音 —— 这是低音区难的根本原因。
-- **七种管长是标准配置**（三活塞）。这七条泛音列合起来，
-  在常用音区里刚好覆盖十二个半音；更低的音（第七泛音之下）就需要**第四活塞**或加长管。
+- 泛音越高越密，所以铜管的高音区可以用活塞吹出很密的半音，
+  低音区却必须靠唇部与气息"拉"出相邻的音 —— 这是低音区难的根本原因。
+- 七种管长是标准配置（三活塞）。这七条泛音列合起来，
+  在常用音区里刚好覆盖十二个半音；更低的音（第七泛音之下）就需要第四活塞或加长管。
 
 ## 音域
 
@@ -174,21 +174,21 @@ updated: 2026-09-26
 {"range":"E3–B♭5","written":"F♯3–C6","caption":"小号的记谱音域与实音音域","caption_en":"The trumpet: notated range above, sounding range below","note":"⚠️ 降 B 调小号是移调乐器 —— 记谱比实音高大二度。谱面写 F♯3–C6，实际出声 E3–B♭5。高音区可再上探，但需要极强的唇部控制。"}
 ```
 
-- **实音 E3–B♭5**，约两个半八度 —— 与[[instrument:flute|长笛]]相当。
-- **低音区（E3 附近）难**：泛音稀，活塞帮不上多少忙。
-- **常用区 C4–C6**，是它的"说话区"。
-- **高音区（C6 以上）** 是铜管演奏技术的试金石：难度全在唇部肌肉的张力控制。
+- 实音 E3–B♭5，约两个半八度 —— 与[[instrument:flute|长笛]]相当。
+- 低音区（E3 附近）难：泛音稀，活塞帮不上多少忙。
+- 常用区 C4–C6，是它的"说话区"。
+- 高音区（C6 以上） 是铜管演奏技术的试金石：难度全在唇部肌肉的张力控制。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **亮、集中、带金属感**。圆柱管身 + 浅号嘴共同造成的，不是"因为是铜做的"。
-2. **起音清晰**。嘴唇从静止到振动只要一瞬间，所以小号的**发音极确定** ——
+1. 亮、集中、带金属感。圆柱管身 + 浅号嘴共同造成的，不是"因为是铜做的"。
+2. 起音清晰。嘴唇从静止到振动只要一瞬间，所以小号的发音极确定 ——
    这是它同时适合号角式宣告与快速爵士句的原因。
-3. **能"炸"也能"柔"**。加弱音器、改变唇部张力、用不同的号嘴，
+3. 能"炸"也能"柔"。加弱音器、改变唇部张力、用不同的号嘴，
    可以在很大范围里改变音色。
-4. **强奏时带"边缘感"**。高音量下频谱会明显变宽 —— 这是它在管弦乐里常用于高潮与宣告的原因。
+4. 强奏时带"边缘感"。高音量下频谱会明显变宽 —— 这是它在管弦乐里常用于高潮与宣告的原因。
 
 ```audiolab
 {"type":"instrument","gm":"Trumpet","synth":"brass","phrase":["E3","B3","E4","G4","B♭4","E5"],"label":"小号的常用区：E3 到 E5","label_en":"The trumpet's working register — E3 up to E5","hint":"注意起音的确定感与音色的集中 —— 振源是嘴唇，不是气流切边","hint_en":"Hear the decisive attack and focused tone — the source is vibrating lips, not a cut jet."}
@@ -196,13 +196,13 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **弱音器（mute）是铜管特有的手段**。Straight / Cup / Harmon 等不同弱音器能大幅改变音色，
-  而**木管没有对应的通用做法**。这是小号在爵士里音色变化极多的原因。
-- **吐音（tonguing）**：舌头在号嘴处阻断气流，得到清晰的音头。铜管的吐音比木管更"硬"。
-- **滑音（glissando）**：靠唇部张力快速滑动 —— 但**不如[[instrument:trombone|长号]]那样连续**，
+- 弱音器（mute）是铜管特有的手段。Straight / Cup / Harmon 等不同弱音器能大幅改变音色，
+  而木管没有对应的通用做法。这是小号在爵士里音色变化极多的原因。
+- 吐音（tonguing）：舌头在号嘴处阻断气流，得到清晰的音头。铜管的吐音比木管更"硬"。
+- 滑音（glissando）：靠唇部张力快速滑动 —— 但不如[[instrument:trombone|长号]]那样连续，
   因为活塞只能离散地改变管长。
-- **双吐与三吐（double / triple tonguing）**：快速重复音的技术，铜管的硬吐音使它特别有效。
-- **花舌（flutter）**：与小号结合产生"咆哮"效果，爵士里常用。
+- 双吐与三吐（double / triple tonguing）：快速重复音的技术，铜管的硬吐音使它特别有效。
+- 花舌（flutter）：与小号结合产生"咆哮"效果，爵士里常用。
 
 ## 家族与近亲
 
@@ -215,8 +215,8 @@ updated: 2026-09-26
 | [[instrument:trombone\|长号]] | 圆柱为主 | 较浅 | 亮而庄重 | 中（但可滑音） |
 | [[instrument:tuba\|大号]] | 圆锥为主 | 很深 | 厚、暗 | 低 |
 
-**小号族的"三兄弟"**（小号 / 短号 / 富鲁格号）是同一套管长、同一套指法，
-**只靠圆锥度与号嘴深度**分出三个音色档位。
+小号族的"三兄弟"（小号 / 短号 / 富鲁格号）是同一套管长、同一套指法，
+只靠圆锥度与号嘴深度分出三个音色档位。
 三者相差极小，音色却明显可辨 —— 这是"圆锥度决定音色"最干净的例证。
 
 ## 历史演变
@@ -233,18 +233,18 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"铜管因为是用铜做的。"** 材料不是判据。
+- "铜管因为是用铜做的。" 材料不是判据。
   长笛是金属的却属木管，[[instrument:serpent|蛇形号]]是木头的却属铜管。
-  **判据是"什么在振动"：嘴唇（铜管）还是空气柱（木管）。**
-- **"活塞是改变音高的开关，按哪个键就出哪个音。"** 活塞做的是**加长管子**，
-  而**具体出哪个音取决于泛音列** —— 同一个指法可以吹出好几个不同的音。
-- **"小号只有一个调。"** 除降 B 调外还有 C 调、D 调、降 E 调等多种；
+  判据是"什么在振动"：嘴唇（铜管）还是空气柱（木管）。
+- "活塞是改变音高的开关，按哪个键就出哪个音。" 活塞做的是加长管子，
+  而具体出哪个音取决于泛音列 —— 同一个指法可以吹出好几个不同的音。
+- "小号只有一个调。" 除降 B 调外还有 C 调、D 调、降 E 调等多种；
   巴洛克小号（[[instrument:natural-trumpet|自然小号]]）则完全没有活塞。
-- **"短号就是小号。"** 同一族、同一套指法，但**圆锥度更大、号嘴更深** →
+- "短号就是小号。" 同一族、同一套指法，但圆锥度更大、号嘴更深 →
   音色明显更柔。这是"管形决定音色"的典型例证。
-- **"铜管族的 cornet 就是短号。"** ⚠️ **历史上的 cornetto（科尔内管）是另一件乐器**：
-  文艺复兴的木制（或骨制）管，靠**指孔**取音，不是活塞铜管。
-  曲目单里看到 "cornet" 要先判断是哪一个 —— **名字相同不等于乐器相同**。
+- "铜管族的 cornet 就是短号。" ⚠️ 历史上的 cornetto（科尔内管）是另一件乐器：
+  文艺复兴的木制（或骨制）管，靠指孔取音，不是活塞铜管。
+  曲目单里看到 "cornet" 要先判断是哪一个 —— 名字相同不等于乐器相同。
 
 ## 下一步
 
@@ -253,7 +253,8 @@ updated: 2026-09-26
 三件一起看，"圆锥度决定音色"这条规律最为清楚。
 
 想换一个层次看铜管，就去看 [[instrument:trombone|长号]]：
-它不用活塞，而是用**滑管连续改变管长** —— 铜管三层次里"管长改变方式"的另一极。
+它不用活塞，而是用滑管连续改变管长 —— 铜管三层次里"管长改变方式"的另一极。
+
 :::
 
 ::: en
@@ -261,8 +262,8 @@ The trumpet is the brass group's most agile instrument, and the best doorway to 
 brass?". Its difference from the woodwinds is not material but **drive**: woodwinds are driven by **air**
 (a cut jet or a reed), brass by **the lips themselves vibrating**. The player's lips **are** the reed.
 
-That produces something no woodwind has: **a single tube can only sound the notes of one harmonic series.**
-To get the notes in between, the **tube length must change** — which is exactly why valves exist.
+That produces something no woodwind has: a single tube can only sound the notes of one harmonic series.
+To get the notes in between, the tube length must change — which is exactly why valves exist.
 
 | Classification | Value |
 |---|---|
@@ -271,16 +272,16 @@ To get the notes in between, the **tube length must change** — which is exactl
 | **Family** | Western · Brass (trumpet family) |
 | **Bayin** | Not applicable — a Chinese system; the trumpet is outside it |
 
-> ⚠️ **One conceptual point**: **the brass/woodwind line is drawn by what vibrates, not by material.**
+> ⚠️ One conceptual point: the brass/woodwind line is drawn by what vibrates, not by material.
 > A flute is metal but a woodwind; a [[instrument:serpent|serpent]] is wood but brass (blown with the lips).
-> The only test: **is the source an air column (woodwind) or the lips (brass)?**
+> The only test: is the source an air column (woodwind) or the lips (brass)?
 > The trumpet is the archetype — its colour, its agility and its difficulty all follow from "the lips as
 > reed".
 
 ## The three layers of brass
 
 As with woodwinds, the differences inside the brass can be laid out in a few orthogonal dimensions.
-**Three layers**:
+Three layers:
 
 | Layer | Decides | Values |
 |---|---|---|
@@ -288,7 +289,7 @@ As with woodwinds, the differences inside the brass can be laid out in a few ort
 | **Conical vs cylindrical bore** | bright or soft | mostly cylindrical (bright) / mostly conical (soft) |
 | **Mouthpiece depth** | thickness of tone, difficulty of the top | shallow (bright, easy top) / deep (soft, hard top) |
 
-The trumpet reads **valves · mostly cylindrical · shallow cup** — all three pointing at "bright and agile".
+The trumpet reads valves · mostly cylindrical · shallow cup — all three pointing at "bright and agile".
 The [[instrument:french-horn|horn]] reads almost the opposite on all three, which is why the two sound
 worlds apart.
 
@@ -330,11 +331,11 @@ worlds apart.
 
 Three points:
 
-1. **A cup mouthpiece.** The lips rest inside the cup and vibrate through pressure and tension — nothing
+1. A cup mouthpiece. The lips rest inside the cup and vibrate through pressure and tension — nothing
    like "letting a jet cross an edge".
-2. **A mainly cylindrical bore.** The key to the split between the trumpet and the
+2. A mainly cylindrical bore. The key to the split between the trumpet and the
    [[instrument:french-horn|horn]] and [[instrument:flugelhorn|flugelhorn]], both far more conical.
-3. **Three valves = seven lengths.** Each valve adds a length of tube; in combination they add 0, 1, 2, 3, 4,
+3. Three valves = seven lengths. Each valve adds a length of tube; in combination they add 0, 1, 2, 3, 4,
    5 or 6 semitones' worth.
 
 ## Harmonic series × valves
@@ -384,14 +385,14 @@ Three points:
 </svg>
 ```
 
-**This mechanism is the key to all brass**:
+This mechanism is the key to all brass:
 
-- **Pitch comes from the harmonic series**, so brass fingering logic is nothing like a woodwind's: woodwinds
-  open holes to change the **effective** length, brass **adds tube and picks a partial**.
-- **Partials crowd together higher up**, so the upper register can produce dense semitones with valves, while
-  the low register must be "pulled" into place by **lips and air** — the root of its difficulty.
-- **Seven lengths** is the standard (three valves). Together those series cover all twelve semitones across
-  the usual range; lower notes (below about the seventh partial) need a **fourth valve** or extra tubing.
+- Pitch comes from the harmonic series, so brass fingering logic is nothing like a woodwind's: woodwinds
+  open holes to change the effective length, brass adds tube and picks a partial.
+- Partials crowd together higher up, so the upper register can produce dense semitones with valves, while
+  the low register must be "pulled" into place by lips and air — the root of its difficulty.
+- Seven lengths is the standard (three valves). Together those series cover all twelve semitones across
+  the usual range; lower notes (below about the seventh partial) need a fourth valve or extra tubing.
 
 ## Range
 
@@ -399,21 +400,21 @@ Three points:
 {"range":"E3–B♭5","written":"F♯3–C6","caption":"小号的记谱音域与实音音域","caption_en":"The trumpet: notated range above, sounding range below","note":"⚠️ 降 B 调小号是移调乐器 —— 记谱比实音高大二度。谱面写 F♯3–C6，实际出声 E3–B♭5。高音区可再上探，但需要极强的唇部控制。"}
 ```
 
-- **Sounding E3–B♭5**, about two and a half octaves — comparable to the [[instrument:flute|flute]].
-- **The low register (around E3) is hard**: partials are sparse and valves barely help.
-- **The working register is C4–C6**, where it "speaks".
-- **Above C6** is the brass player's proving ground, all of it controlled by lip tension.
+- Sounding E3–B♭5, about two and a half octaves — comparable to the [[instrument:flute|flute]].
+- The low register (around E3) is hard: partials are sparse and valves barely help.
+- The working register is C4–C6, where it "speaks".
+- Above C6 is the brass player's proving ground, all of it controlled by lip tension.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Bright, focused, metallic.** Caused by the cylindrical bore plus the shallow cup — not by being made of
+1. Bright, focused, metallic. Caused by the cylindrical bore plus the shallow cup — not by being made of
    brass.
-2. **A decisive attack.** The lips go from still to vibrating in an instant, so the note starts with
+2. A decisive attack. The lips go from still to vibrating in an instant, so the note starts with
    certainty — the reason it suits both fanfare and fast jazz lines.
-3. **It can blare or soften.** Mutes, lip tension and different mouthpieces change the colour enormously.
-4. **An "edge" at high volume**, where the spectrum broadens — why orchestras use it for climaxes and
+3. It can blare or soften. Mutes, lip tension and different mouthpieces change the colour enormously.
+4. An "edge" at high volume, where the spectrum broadens — why orchestras use it for climaxes and
    proclamations.
 
 ```audiolab
@@ -422,14 +423,14 @@ Four cues:
 
 ## Playing techniques
 
-- **Mutes are a brass specialty.** Straight, cup and harmon mutes transform the colour, and **no woodwind has
+- Mutes are a brass specialty. Straight, cup and harmon mutes transform the colour, and **no woodwind has
   a comparable general device** — part of why the trumpet changes character so much in jazz.
-- **Tonguing**: the tongue interrupts the air at the mouthpiece for a crisp attack — harder than a
+- Tonguing: the tongue interrupts the air at the mouthpiece for a crisp attack — harder than a
   woodwind's.
-- **Glissando** by sliding the lip tension is possible, but **never as continuous as the
+- Glissando by sliding the lip tension is possible, but **never as continuous as the
   [[instrument:trombone|trombone]]'s**, since valves change length in discrete steps.
-- **Double and triple tonguing** are especially effective because of that hard attack.
-- **Flutter tonguing** produces a growl, much used in jazz.
+- Double and triple tonguing are especially effective because of that hard attack.
+- Flutter tonguing produces a growl, much used in jazz.
 
 ## The family
 
@@ -442,8 +443,8 @@ Four cues:
 | [[instrument:trombone\|Trombone]] | mostly cylindrical | fairly shallow | bright and solemn | medium (but can glide) |
 | [[instrument:tuba\|Tuba]] | mostly conical | very deep | thick, dark | low |
 
-**The trumpet's "three brothers"** (trumpet / cornet / flugelhorn) share one length and one set of fingerings
-and **differ only in conicality and cup depth**. The differences are tiny on paper and obvious to the ear —
+The trumpet's "three brothers" (trumpet / cornet / flugelhorn) share one length and one set of fingerings
+and differ only in conicality and cup depth. The differences are tiny on paper and obvious to the ear —
 the cleanest demonstration anywhere of "the bore decides the colour".
 
 ## History
@@ -460,18 +461,18 @@ the cleanest demonstration anywhere of "the bore decides the colour".
 
 ## Common misconceptions
 
-- **"Brass instruments are brass because they are made of brass."** Material is not the test: a flute is
+- "Brass instruments are brass because they are made of brass." Material is not the test: a flute is
   metal yet a woodwind, and a [[instrument:serpent|serpent]] is wood yet brass.
-  **The test is what vibrates: lips (brass) or an air column (woodwind).**
-- **"Valves are switches; press a key and you get that note."** A valve **adds tube**, and **which note comes
+  The test is what vibrates: lips (brass) or an air column (woodwind).
+- "Valves are switches; press a key and you get that note." A valve adds tube, and **which note comes
   out depends on the harmonic series** — one fingering gives several different notes.
-- **"There is only one trumpet."** Besides B♭ there are C, D and E♭ trumpets, and the Baroque
+- "There is only one trumpet." Besides B♭ there are C, D and E♭ trumpets, and the Baroque
   [[instrument:natural-trumpet|natural trumpet]] has no valves at all.
-- **"A cornet is a trumpet."** Same family, same fingerings, but **more conical with a deeper cup** — audibly
+- "A cornet is a trumpet." Same family, same fingerings, but more conical with a deeper cup — audibly
   softer. A textbook case of bore deciding colour.
-- **"The family's 'cornet' means the valved cornet."** ⚠️ **The historical cornetto is a different
-  instrument**: a Renaissance wooden (or bone) pipe with **finger holes**, not a valved brass.
-  Seeing "cornet" on a programme, check which one — **the same name is not the same instrument.**
+- "The family's 'cornet' means the valved cornet." ⚠️ **The historical cornetto is a different
+  instrument: a Renaissance wooden (or bone) pipe with finger holes**, not a valved brass.
+  Seeing "cornet" on a programme, check which one — the same name is not the same instrument.
 
 ## Next
 

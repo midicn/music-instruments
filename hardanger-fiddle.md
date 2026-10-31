@@ -35,23 +35,23 @@ updated: 2026-10-28
 
 - **主弦**四根，按曲定音，常比小提琴整体更高；左手按弦，右手运弓。
 - **共鸣弦**四到五根，穿过琴桥下方、沿指板下走到弦轴，遇到同音就响。
-- **琴桥**更平，方便双弦与持续音；**琴身**略浅，常嵌骨片、贝壳。
-- **scordatura（变格定弦）** 是常态：换定弦，指法、空弦与共鸣响应都变；哈尔沃森谱上的 e–a–a′–cis″ 即一例。
+- 琴桥更平，方便双弦与持续音；琴身略浅，常嵌骨片、贝壳。
+- scordatura（变格定弦） 是常态：换定弦，指法、空弦与共鸣响应都变；哈尔沃森谱上的 e–a–a′–cis″ 即一例。
 
 ## 声音与历史
 
-舞曲（slått）靠**细碎装饰**——颤音、倚音、滑音、双弦持续音——给旋律加重量；springar 的三拍也不均分。
+舞曲（slått）靠细碎装饰——颤音、倚音、滑音、双弦持续音——给旋律加重量；springar 的三拍也不均分。
 
-乐器得名于挪威西部的**哈当厄**。现存最早一把标 1651 年，传统上归于 Ole Jonsen Jaastad；更早的起源无定论，民间把它和山妖、魔鬼相连，这类说法是**传说**。19 世纪民族浪漫运动把它推上舞台：**Ole Bull** 带它进音乐厅，**Halvorsen** 1895 年编配《挪威歌曲与舞曲》，**Grieg** 据 Knut Dahle 的曲调写《Slåtter》Op. 72。20 世纪音乐节与学院把它固定成“国家乐器”。
+乐器得名于挪威西部的哈当厄。现存最早一把标 1651 年，传统上归于 Ole Jonsen Jaastad；更早的起源无定论，民间把它和山妖、魔鬼相连，这类说法是传说。19 世纪民族浪漫运动把它推上舞台：Ole Bull 带它进音乐厅，Halvorsen 1895 年编配《挪威歌曲与舞曲》，Grieg 据 Knut Dahle 的曲调写《Slåtter》Op. 72。20 世纪音乐节与学院把它固定成“国家乐器”。
 
 ## 与提琴、尼古赫帕对照
 
-- **violin**：同样四弦与运弓，但没有共鸣弦，琴桥更拱，定弦基本固定。
-- **nyckelharpa**：瑞典键控提琴，也有共鸣弦；它用木键与切线定音，哈丁费德尔仍用手指按弦。
+- violin：同样四弦与运弓，但没有共鸣弦，琴桥更拱，定弦基本固定。
+- nyckelharpa：瑞典键控提琴，也有共鸣弦；它用木键与切线定音，哈丁费德尔仍用手指按弦。
 
 ## 常见误解
 
-- **“它只是加了几根弦的小提琴。”** 共鸣弦只是一层；变格定弦、平琴桥与舞曲装饰共同把它变成另一件乐器。
+- “它只是加了几根弦的小提琴。” 共鸣弦只是一层；变格定弦、平琴桥与舞曲装饰共同把它变成另一件乐器。
 
 ## HS 分类
 
@@ -92,9 +92,9 @@ updated: 2026-10-28
 
 ## 带走三件事
 
-1. **四加四**：四根主弦唱旋律，四到五根在背后回响。
-2. **定弦会变**：scordatura 是曲目的一部分，不是调音失误。
-3. **它是舞曲乐器**：装饰音与不对称重音，都是为舞步加重量。
+1. 四加四：四根主弦唱旋律，四到五根在背后回响。
+2. 定弦会变：scordatura 是曲目的一部分，不是调音失误。
+3. 它是舞曲乐器：装饰音与不对称重音，都是为舞步加重量。
 
 :::
 
@@ -108,23 +108,23 @@ A hardanger fiddle (hardingfele) looks like a violin, but **four or five more st
 
 - **Playing strings**: four, tuned for the piece, often higher than a violin's.
 - **Sympathetic strings**: four or five, under the fingerboard and through the bridge; they ring at their pitches.
-- **Bridge** flatter, for double stops and drones; **body** shallower, often inlaid with bone or shell.
-- **Scordatura** is normal: another tuning changes fingering, open strings and sympathetic response. Halvorsen's e–a–a′–c♯″ is one case.
+- Bridge flatter, for double stops and drones; body shallower, often inlaid with bone or shell.
+- Scordatura is normal: another tuning changes fingering, open strings and sympathetic response. Halvorsen's e–a–a′–c♯″ is one case.
 
 ## Sound and history
 
-Dance tunes (slått) live in **ornaments** — trills, grace notes, slides, drones — that give the melody weight; a springar's beats are unequal.
+Dance tunes (slått) live in ornaments — trills, grace notes, slides, drones — that give the melody weight; a springar's beats are unequal.
 
-Named after **Hardanger** in western Norway. The earliest surviving example is dated 1651 and attributed to Ole Jonsen Jaastad; earlier origins are uncertain, and troll or devil stories are **legend**. The nineteenth-century national movement took it to the stage: **Ole Bull** brought it to recital halls, **Halvorsen** arranged Norske Viser og Dandse in 1895, and **Grieg** based Slåtter Op. 72 on Knut Dahle's tunes. In the twentieth century festivals and conservatories fixed its image as Norway's national instrument.
+Named after Hardanger in western Norway. The earliest surviving example is dated 1651 and attributed to Ole Jonsen Jaastad; earlier origins are uncertain, and troll or devil stories are legend. The nineteenth-century national movement took it to the stage: Ole Bull brought it to recital halls, Halvorsen arranged Norske Viser og Dandse in 1895, and Grieg based Slåtter Op. 72 on Knut Dahle's tunes. In the twentieth century festivals and conservatories fixed its image as Norway's national instrument.
 
 ## Against the violin and the nyckelharpa
 
-- **Violin**: same strings and bow, no sympathetic set, a more arched bridge, a fixed tuning.
-- **Nyckelharpa**: also has sympathetic strings, but keys and tangents set the length; the hardanger is stopped by fingers.
+- Violin: same strings and bow, no sympathetic set, a more arched bridge, a fixed tuning.
+- Nyckelharpa: also has sympathetic strings, but keys and tangents set the length; the hardanger is stopped by fingers.
 
 ## Common misconceptions
 
-- **"It is just a violin with extra strings."** The sympathetic set is one layer; scordatura, a flat bridge and dance ornaments make it another instrument.
+- "It is just a violin with extra strings." The sympathetic set is one layer; scordatura, a flat bridge and dance ornaments make it another instrument.
 
 ## HS class
 
@@ -165,8 +165,7 @@ Named after **Hardanger** in western Norway. The earliest surviving example is d
 
 ## Three things to take away
 
-1. **Four plus four**: four playing strings carry the tune, four or five answer behind them.
-2. **The tuning moves**: scordatura is part of the piece, not a tuning mistake.
-3. **It is a dance instrument**: ornaments and unequal accents give the steps weight.
-
+1. Four plus four: four playing strings carry the tune, four or five answer behind them.
+2. The tuning moves: scordatura is part of the piece, not a tuning mistake.
+3. It is a dance instrument: ornaments and unequal accents give the steps weight.
 :::

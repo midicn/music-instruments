@@ -31,31 +31,31 @@ updated: 2026-10-28
 
 ## 主线：音阶摆在琴面上
 
-多数乐器把音阶藏在指法里；筝把它**摆出来**——十三个柱的位置就是音阶。基本调弦是**平调子（hirajōshi）**，五声音阶；换曲目改云井、阴旋，柱跟着挪。所以筝不是「定好音」，而是**每次都能重新定音阶的乐器**。
+多数乐器把音阶藏在指法里；筝把它**摆出来**——十三个柱的位置就是音阶。基本调弦是**平调子（hirajōshi）**，五声音阶；换曲目改云井、阴旋，柱跟着挪。所以筝不是「定好音」，而是每次都能重新定音阶的乐器。
 
 ## 形制与声音：十三弦、桐木、柱与义甲
 
-- **琴身**：桐木挖空，近两米；十三弦，丝或尼龙弦。
-- **柱（ji）**：每弦一个，可左右移动；移动即改有效弦长与音高。
-- **右手**：三指戴**义甲（tsume）**，硬甲给出颗粒感。
-- **左手**：在柱左侧按下升音（**oshide**），拨后再压是**後押し**。
-- **记谱**：弦号加指法符号。
+- 琴身：桐木挖空，近两米；十三弦，丝或尼龙弦。
+- 柱（ji）：每弦一个，可左右移动；移动即改有效弦长与音高。
+- 右手：三指戴义甲（tsume），硬甲给出颗粒感。
+- 左手：在柱左侧按下升音（oshide），拨后再压是後押し。
+- 记谱：弦号加指法符号。
 
-十三弦的实音约 **D4–G6**，常用区 **D4–E6**。
+十三弦的实音约 D4–G6，常用区 D4–E6。
 
 ## 制度与近亲：两派、宫城道雄、三张筝
 
-近代分**生田流**与**山田流**：生田流近地歌与器乐；山田流重歌物与说唱。两派都行**家元制度**。**宫城道雄**在 1921 年做**十七弦低音筝**，《春の海》让筝与尺八成为经典二重奏。
+近代分生田流与山田流：生田流近地歌与器乐；山田流重歌物与说唱。两派都行家元制度。宫城道雄在 1921 年做十七弦低音筝，《春の海》让筝与尺八成为经典二重奏。
 
-与三张筝对照：**古琴**无柱、靠左手按弦、音量小，是文人独奏；**伽倻琴**有柱，但裸指弹、靠摇声（nonghyeon）；**中国古筝**弦更多、用金属弦与义甲，更响、滑音更大。日本筝有柱所以音阶可换，戴义甲所以音头硬，弦少所以每根弦都要兼差。
+与三张筝对照：古琴无柱、靠左手按弦、音量小，是文人独奏；伽倻琴有柱，但裸指弹、靠摇声（nonghyeon）；中国古筝弦更多、用金属弦与义甲，更响、滑音更大。日本筝有柱所以音阶可换，戴义甲所以音头硬，弦少所以每根弦都要兼差。
 
-筝经朝鲜半岛传入，是通行说法；**八桥检校**被尊为近代筝曲之祖，平调子与《六段の调》的归属是传统说法。
+筝经朝鲜半岛传入，是通行说法；八桥检校被尊为近代筝曲之祖，平调子与《六段の调》的归属是传统说法。
 
 ## 带走三件事
 
-1. **柱就是音阶**：移动柱，换的不是音准，是调式。
-2. **右手拨、左手押**：音高在拨响之后还能改。
-3. **十三弦不是限制**：弦少，每根弦就要承担更多角色。
+1. 柱就是音阶：移动柱，换的不是音准，是调式。
+2. 右手拨、左手押：音高在拨响之后还能改。
+3. 十三弦不是限制：弦少，每根弦就要承担更多角色。
 
 ### HS 分类
 
@@ -97,31 +97,31 @@ The koto turns **a scale** into hardware you can take apart: thirteen strings, a
 
 ## The main line: the scale sits on the soundboard
 
-Most instruments hide the scale in keys; the koto **puts it on show** — thirteen bridges are the scale. The basic tuning is **hirajōshi**, a pentatonic scale; other pieces call for kumoi or insen, and the bridges move. It is **retuned into a new scale each time**.
+Most instruments hide the scale in keys; the koto **puts it on show** — thirteen bridges are the scale. The basic tuning is **hirajōshi**, a pentatonic scale; other pieces call for kumoi or insen, and the bridges move. It is retuned into a new scale each time.
 
 ## Form and sound: thirteen strings, paulownia, bridges and picks
 
-- **Body**: hollowed paulownia, close to two metres; thirteen strings.
-- **Ji**: one movable bridge per string; sliding it changes the speaking length.
-- **Right hand**: picks (**tsume**); the edge gives the attack.
-- **Left hand**: pressing left of a bridge raises pitch (**oshide**).
-- **Notation**: string numbers and fingering signs.
+- Body: hollowed paulownia, close to two metres; thirteen strings.
+- Ji: one movable bridge per string; sliding it changes the speaking length.
+- Right hand: picks (tsume); the edge gives the attack.
+- Left hand: pressing left of a bridge raises pitch (oshide).
+- Notation: string numbers and fingering signs.
 
-Range **D4–G6**, common **D4–E6**; the 17-string bass is lower.
+Range D4–G6, common D4–E6; the 17-string bass is lower.
 
 ## Institution and relatives: two schools, Miyagi, three zithers
 
-Koto music divides into **Ikuta-ryū** (seventeenth century, closer to jiuta) and **Yamada-ryū** (early nineteenth century, song and narrative); both use an **iemoto** system. **Miyagi Michio** built the **17-string bass koto** in 1921, and "Haru no Umi" (1929) made koto and shakuhachi a classic duo.
+Koto music divides into Ikuta-ryū (seventeenth century, closer to jiuta) and Yamada-ryū (early nineteenth century, song and narrative); both use an iemoto system. Miyagi Michio built the 17-string bass koto in 1921, and "Haru no Umi" (1929) made koto and shakuhachi a classic duo.
 
-Against three zithers: the **guqin** has no bridges, pitch is made by the left hand, and it is a quiet literati solo instrument; the **gayageum** has movable bridges but bare fingers and **nonghyeon**; the **Chinese zheng** has more strings, metal strings and picks, and is louder with wider slides. The koto has bridges (changeable scale), picks (hard attack) and few strings (each does more than one job).
+Against three zithers: the guqin has no bridges, pitch is made by the left hand, and it is a quiet literati solo instrument; the gayageum has movable bridges but bare fingers and nonghyeon; the Chinese zheng has more strings, metal strings and picks, and is louder with wider slides. The koto has bridges (changeable scale), picks (hard attack) and few strings (each does more than one job).
 
-Its arrival from China via Korea is the common account; **Yatsuhashi Kengyō** is honoured as founder, and the hirajōshi and "Rokudan" attributions are traditional.
+Its arrival from China via Korea is the common account; Yatsuhashi Kengyō is honoured as founder, and the hirajōshi and "Rokudan" attributions are traditional.
 
 ## Three things to take away
 
-1. **The bridges are the scale**: moving them changes a mode, not just intonation.
-2. **Pluck, then press**: pitch can still change after the note sounds.
-3. **Thirteen strings is not a limit**: fewer strings make each one work harder.
+1. The bridges are the scale: moving them changes a mode, not just intonation.
+2. Pluck, then press: pitch can still change after the note sounds.
+3. Thirteen strings is not a limit: fewer strings make each one work harder.
 
 ### HS classification
 
@@ -154,5 +154,4 @@ Its arrival from China via Korea is the common account; **Yatsuhashi Kengyō** i
 ```audiolab
 {"type":"instrument","gm":"Koto","synth":"plucked","phrase":["D4","E4","G4","A4","B4","D5","E5","D5","B4","A4","G4","D4"],"label":"平调子的骨架：D–E–G–A–B","label_en":"The hirajōshi skeleton: D–E–G–A–B","hint":"GM 表里有 Koto，这里用采样走平调子。真实日本筝少了三样：移柱换整套音阶、拨后押弦升音、义甲硬边的清脆音头。","hint_en":"The GM table has a Koto patch, used for a hirajōshi scale. It cannot give you a whole scale changed by moving bridges, left-hand pressure after the pluck, or the hard attack of the tsume."}
 ```
-
 :::

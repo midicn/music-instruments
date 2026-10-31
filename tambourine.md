@@ -33,27 +33,18 @@ updated: 2026-09-26
 ---
 
 ::: zh
-铃鼓是打击乐里唯一一件**同时横跨两大类**的乐器：
-它的**框架鼓**是**膜鸣**（鼓皮是振源），
-装在框架侧壁的那**一圈小钹片**是**体鸣**（金属片自身振动）。
 
-所以它有两种完全不同的声音来源 —— 而这两种声音在音乐里各有用处。
+一只手把铃鼓举到肩高，手腕一抖，一圈铜片沙沙响成一片。手翻过来，指节落在鼓皮上，出来一个短促的嗒。
 
-| 分类 | 归属 |
+| 项 | 内容 |
 |---|---|
-| **HS 分类** | **膜鸣**（框架鼓为主体）· **同时含体鸣组件**（钹片）· **无固定音高** |
-| **次级类型** | 单面框鼓 · 框架侧壁嵌一圈钹片 · 摇奏或击奏 |
-| **所属族** | 西洋 · 打击（**横跨膜鸣与体鸣**） |
-| **八音** | 不适用 —— 周代八音是中国乐器的体系，铃鼓不在其中 |
+| HS 分类 | 膜鸣（主体为框鼓）· 同时含体鸣钹片 · 无固定音高 |
+| 八音： | 不适用 —— 周代八音里没有这一类框鼓 |
+| 构造 | 木框或塑料框，单面蒙皮，侧壁开槽嵌一圈小铜片 |
 
-> ⚠️ **一个概念上的要点**：**分类是按"主要振源"定的，但乐器可以同时具备多种振源。**
-> 铃鼓在 HS 分类里归**膜鸣**（主体是框架鼓），但它身上**确实装着一套体鸣的钹片**。
-> 这与[[instrument:timpani|定音鼓]]那页画的两大类图并不矛盾 ——
-> 恰恰说明**分类是给乐器的主属性贴标签，而不是否认它的其他属性**。
-> 演奏时，你可以选择"只让钹片响"（摇）或"让鼓面响"（击），
-> **这等于在两类之间自由切换。**
+## 一个框，两种振源
 
-## 结构：框架 + 鼓皮 + 一圈钹片
+框上蒙一张皮，框壁开槽嵌进一圈小铜片。摇的时候铜片互相碰撞，是金属自己在响；敲的时候皮在振动，是膜在响。分类按主要振源，把它记在**膜鸣**名下，可它身上确实带着一整套体鸣零件。演奏时你可以只让一种响，也可以叠在一起。
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="铃鼓的结构：圆形木质框架、单面鼓皮，框架侧壁嵌着一圈小金属钹片">
@@ -84,14 +75,9 @@ updated: 2026-09-26
 </svg>
 ```
 
-三处要点：
+## 拇指滚
 
-1. **一层鼓皮 + 一圈钹片**。这就是它的全部构造，也是它横跨两类的物理原因。
-2. **摇与击是两种用法**。摇动让钹片响（体鸣），击鼓面让膜响（膜鸣）——
-   演奏者可以只用一种，也可以叠在一起。
-3. **框架的材质与制作影响很大**。木框与塑料框音色不同，钹片的数量与厚度也各厂不同。
-
-## 两个声音来源
+拇指按在鼓面上快速摩擦，铜片被连续带动，听起来像一直不停，其实没有一下是打出来的。这是它最难、也最能代表它自己的技术。均匀摇动同样难：手腕一抖，节奏就散。录音里它常被放在段落接缝上，一声沙响，把两段缝起来。
 
 ```svg
 <svg viewBox="0 0 640 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="铃鼓的两个振源对比：钹片的体鸣产生沙沙声，鼓面的膜鸣产生嗒声">
@@ -118,119 +104,35 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这就是铃鼓的全部技巧基础**：
+## 高而细的颗粒
 
-| 动作 | 振源 | 声音 |
-|---|---|---|
-| **摇动** | 钹片（体鸣） | 沙沙，持续 |
-| **击鼓面** | 鼓皮（膜鸣） | 嗒，一次 |
-| **击框架** | 钹片 + 木框 | 短促、干脆 |
-| **摇 + 击** | 两者同时 | 沙里带嗒 |
+它的高频比[[instrument:cymbals|吊镲]]更小更密，像很多极小的镲同时响。轻摇是一层背景，重摇能把整段推到顶。鼓面、框架、框沿各是一种点，用来切分和收句。铜片的数量与厚薄各厂不同，木框和塑料框也不一样，两件铃鼓能差出很远。
 
-## 音域
+## 从游行到录音棚
 
-铃鼓属于**无固定音高**乐器，本站不为其生成音域图。它的表现手段在**动作类型与力度**：
-
-| 动作 | 用途 |
-|---|---|
-| **轻摇** | 背景的持续节奏 |
-| **重摇** | 高潮气氛的推进 |
-| **击鼓面** | 切分重音 |
-| **拇指滚（thumb roll）** | 一串连续的"沙" —— 铃鼓最标志性的技法 |
-| **框架击** | 干脆的短点 |
-
-**拇指滚是它的招牌**：用拇指在鼓面上快速摩擦，让钹片连续不断地响 ——
-听起来像持续的沙沙声，实际上没有一次是"打"出来的。
-
-## 音色与听辨
-
-四条线索：
-
-1. **高频为主，颗粒细密**。钹片的声音比[[instrument:cymbals|吊镲]]更小更密 ——
-   像是很多极小的镲一起响。
-2. **"沙"与"嗒"可以叠加**。这是它区别于其他打击乐的地方：
-   两种完全不同性质的音可以在一个动作里同时出现。
-3. **控制难度在于"稳"**。持续摇动要保持均匀，否则节奏会抖。
-4. **力度层次宽**。从背景的轻沙到能穿透乐队的高潮推进。
+框鼓在中东、地中海、印度都有；带铜片的形制在中东与欧洲成形，18 到 19 世纪随土耳其军乐进管弦乐，20 世纪进爵士、拉丁、摇滚与流行。录音里它不靠音量取胜，靠的是那层颗粒，所以话筒常常贴得很近。
 
 ```audiolab
 {"type":"instrument","drum":54,"synth":"perc","phrase":[54,54,54,54,54,54],"label":"铃鼓的摇奏与击奏","label_en":"Tambourine — shaken and struck","hint":"注意两种声音：钹片的持续「沙」与鼓面的「嗒」","hint_en":"Two sounds to hear: the continuous shiver of the jingles and the tap of the head."}
 ```
 
-## 演奏技法
+在整场演出里它可能只摇不敲。那层沙沙一直在，你留意到它，往往是因为它忽然停了。
 
-- **摇（shake）**：手腕或手臂转动，让钹片连续碰撞 —— 基础功，要求均匀。
-- **拇指滚（thumb roll）**：拇指在鼓面上摩擦带动钹片 —— 得到连续的"沙"。
-- **击（strike）**：用另一只手的指节或膝盖击鼓面 —— 重音与切分。
-- **框架击**：直接击木框，得到更干脆、更"木"的音。
-- **膝上/手上**：铃鼓可以拿在手里或架在支架上，两种方式技法不同。
-
-## 家族与近亲
-
-| 乐器 | 膜鸣 / 体鸣 | 特征 | 用途 |
-|---|---|---|---|
-| **铃鼓** | **两者都有** | 框鼓 + 一圈钹片 | 节奏与气氛 |
-| [[instrument:cymbals\|铙钹]] | 体鸣 | 大片金属 | 强调、高潮 |
-| [[instrument:triangle\|三角铁]] | 体鸣 | 钢棒 | 穿透性重点 |
-| [[instrument:snare-drum\|小鼓]] | 膜鸣 | 响弦 | 节奏骨架 |
-| [[instrument:latin-percussion\|拉丁打击组]] | 膜鸣为主 | 康加、邦戈等 | 拉丁节奏层 |
-
-**铃鼓是这份表里唯一"两类都有"的一件** —— 这也让它在配器上特别灵活：
-需要"沙"就用摇，需要"点"就用击。
-
-## 历史演变
-
-| 时期 | 状态 |
-|---|---|
-| 古代 | 框鼓在世界多地出现（中东、地中海、印度）；带钹片的形制在中东与欧洲逐步成型 |
-| 中世纪—文艺复兴 | 在欧洲民间舞蹈与宗教场景使用 |
-| 18—19 世纪 | 随土耳其军乐进入管弦乐；成为管弦乐与管乐团的标准打击乐器 |
-| 20 世纪 | 在爵士、拉丁、摇滚与流行里广泛使用；成为歌曲伴奏的常备乐器 |
-| 20 世纪后期至今 | 与[[instrument:latin-percussion|拉丁打击组]]一起构成流行音乐的节奏层 |
-
-## 常见误解
-
-- **"铃鼓是小孩子玩的。"** 它是管弦乐、管乐团与流行音乐的标准打击乐器，
-  拇指滚与均匀摇奏都是需要长期练习的技术。
-- **"它属于体鸣。"** HS 分类里它归**膜鸣**（主体是框架鼓），
-  但它**同时带有一套体鸣的钹片** —— 这才是它最特别的地方。
-- **"它只能摇。"** 击鼓面、击框架、拇指滚都是独立的技术，各得到不同的音色。
-- **"它和中国的鼓一样。"** 中国的**手鼓**（如维吾尔手鼓）与铃鼓在形制上有相近之处，
-  但各自有独立的传统与技法 —— **相似不等于同源**。
-- **"铃鼓有音高。"** 无固定音高。
-
-## 下一步
-
-体鸣里还有一件与它、与[[instrument:triangle|三角铁]]都不同的乐器：
-[[instrument:gong|锣]] —— 同样是金属整体振动，但能量更低、余音更长。
-
-再往后就进入"有音高的体鸣"一族：从 [[instrument:xylophone|木琴]] 开始的木质琴条，
-到 [[instrument:glockenspiel|钟琴]] 一类的金属琴条。
 :::
 
 ::: en
-The tambourine is the one percussion instrument that **straddles both great classes**: its **frame drum** is
-a **membranophone** (the head is the source), while the **ring of small jingles** set into the frame is an
-**idiophone** (the metal plates vibrate themselves).
 
-So it has two entirely different sound sources — and each does its own work in music.
+A hand lifts the tambourine to shoulder height and flicks the wrist; a ring of brass discs shivers into one sound. The hand turns over, knuckles land on the head, and out comes a single dry tap.
 
-| Classification | Value |
+| Item | Value |
 |---|---|
-| **HS class** | **Membranophone** (the frame drum is the main body) · **with idiophone components** (jingles) · **unpitched** |
-| **Sub-type** | Single-headed frame drum · a ring of jingles in the rim · shaken or struck |
-| **Family** | Western · Percussion (**straddling membrane and idiophone**) |
-| **Bayin** | Not applicable — a Chinese system; the tambourine is outside it |
+| HS class | Membranophone (the frame drum is the body) · with idiophone jingles · no definite pitch |
+| Bayin | Not applicable — the Zhou eight categories have no such frame drum |
+| Build | Wood or plastic frame, one head, a slot in the rim holding a ring of small discs |
 
-> ⚠️ **One conceptual point**: **classification labels an instrument by its **primary** source — but an
-> instrument can have more than one.** The tambourine is classified as a **membranophone** (the frame drum is
-> the body), yet it **really does carry a set of idiophone jingles**.
-> This does not contradict the two-class diagram on the [[instrument:timpani|timpani]] page — it shows that
-> **classification tags a main property without denying the others.**
-> In playing you may choose to sound **only the jingles** (shake) or **only the head** (strike) —
-> effectively switching between the two classes.
+## One frame, two sources
 
-## Structure: a frame, a head and a ring of jingles
+A skin is stretched over the frame, and a ring of small discs sits in a slot cut into the rim. Shake it and the discs collide — metal sounding on its own. Strike the head and the skin vibrates — a membrane sounding. Classification follows the main source, so the instrument is filed as a **membranophone**, though it really does carry a full set of idiophone parts. You can sound one or both.
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Tambourine structure: a round wooden frame with a single head and a ring of small jingles set into the rim">
@@ -261,16 +163,9 @@ So it has two entirely different sound sources — and each does its own work in
 </svg>
 ```
 
-Three points:
+## The thumb roll
 
-1. **One head plus a ring of jingles** — the whole construction, and the physical reason it straddles two
-   classes.
-2. **Shake and strike are two techniques**: shaking sounds the jingles (idiophone), striking sounds the head
-   (membranophone), and both can be combined.
-3. **Frame material and workmanship matter a lot**: wood and plastic differ, and jingle count and weight vary
-   between makers.
-
-## Two sound sources
+The thumb is pressed to the head and rubbed quickly; the discs are dragged along and seem to sound without pause, though not one stroke is actually struck. It is the hardest thing the instrument does and the most recognisable. An even shake is just as hard: let the wrist wobble and the rhythm scatters.
 
 ```svg
 <svg viewBox="0 0 640 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The tambourine's two sources compared: jingles (idiophone) shiver, the head (membranophone) taps">
@@ -297,94 +192,17 @@ Three points:
 </svg>
 ```
 
-**This is the basis of every tambourine technique**:
+## A high, fine grain
 
-| Motion | Source | Sound |
-|---|---|---|
-| **Shake** | jingles (idiophone) | a sustained shiver |
-| **Strike the head** | head (membranophone) | a single tap |
-| **Strike the frame** | jingles + wood | short and crisp |
-| **Shake + strike** | both | a tap inside a shiver |
+Its highs are smaller and denser than a [[instrument:cymbals|suspended cymbal]]'s — many tiny cymbals at once. A light shake lays down a background; a hard one lifts a whole section. Head, rim and frame each give a different point, for syncopation and for closing a phrase.
 
-## Range
+## From the parade to the studio
 
-The tambourine is **unpitched**, so no range chart is generated. Its means are **motion type and dynamics**:
-
-| Motion | Use |
-|---|---|
-| **Light shake** | a sustained background rhythm |
-| **Heavy shake** | driving a climax |
-| **Strike the head** | syncopated accents |
-| **Thumb roll** | a continuous shiver — its most identifiable technique |
-| **Frame strike** | a crisp short point |
-
-**The thumb roll is its signature**: rubbing the thumb across the head sets the jingles going continuously —
-it sounds like an unbroken shiver, and not one stroke is actually "hit".
-
-## Timbre, and how to hear it
-
-Four cues:
-
-1. **High and finely grained.** Smaller and denser than a [[instrument:cymbals|suspended cymbal]] — like many
-   tiny cymbals at once.
-2. **"Shiver" and "tap" can overlap**, which sets it apart from other percussion: two entirely different
-   sound types in a single motion.
-3. **The difficulty is steadiness** — a continuous shake must not wobble.
-4. **A wide dynamic range**, from a light background shiver to a climax that cuts through a band.
+Frame drums turn up across the Middle East, the Mediterranean and India; the jingled version took shape in the Middle East and Europe, entered the orchestra with Turkish military music in the eighteenth and nineteenth centuries, then jazz, Latin, rock and pop in the twentieth. On record it wins no volume contest — it wins on grain, which is why the microphone usually sits very close.
 
 ```audiolab
 {"type":"instrument","drum":54,"synth":"perc","phrase":[54,54,54,54,54,54],"label":"铃鼓的摇奏与击奏","label_en":"Tambourine — shaken and struck","hint":"注意两种声音：钹片的持续「沙」与鼓面的「嗒」","hint_en":"Two sounds to hear: the continuous shiver of the jingles and the tap of the head."}
 ```
 
-## Playing techniques
-
-- **Shake**: rotating the wrist or arm sets the jingles colliding continuously — the foundation, and it must
-  be even.
-- **Thumb roll**: rubbing the thumb on the head drives the jingles for a continuous shiver.
-- **Strike**: knuckles or knee on the head for accents and syncopation.
-- **Frame strike**: hitting the wooden rim directly for a drier, woodier sound.
-- **Held or mounted**: hand-held and stand-mounted techniques differ.
-
-## The family
-
-| Instrument | Class | Feature | Use |
-|---|---|---|---|
-| **Tambourine** | **both** | frame drum + jingles | rhythm and atmosphere |
-| [[instrument:cymbals\|Cymbals]] | idiophone | large metal sheets | accents, climaxes |
-| [[instrument:triangle\|Triangle]] | idiophone | steel rod | penetrating emphasis |
-| [[instrument:snare-drum\|Snare drum]] | membranophone | snares | rhythmic skeleton |
-| [[instrument:latin-percussion\|Latin percussion]] | mostly membranophone | congas, bongos… | Latin rhythm layers |
-
-**The tambourine is the only one in this table with both classes** — which is exactly what makes it so
-flexible in a score: shake for a shiver, strike for a point.
-
-## History
-
-| Period | State |
-|---|---|
-| Antiquity | frame drums appear across the Middle East, the Mediterranean and India; the jingled form develops in the Middle East and Europe |
-| Medieval–Renaissance | used in European folk dance and religious settings |
-| 18th–19th c. | enters the orchestra with Turkish military music and becomes standard percussion |
-| 20th c. | widely used in jazz, Latin, rock and pop; a regular in song accompaniment |
-| Late 20th c. onward | with [[instrument:latin-percussion|Latin percussion]] it forms the rhythm layer of popular music |
-
-## Common misconceptions
-
-- **"A tambourine is a child's toy."** It is standard percussion in orchestra, band and pop, and both the
-  thumb roll and an even shake take years to master.
-- **"It is an idiophone."** In Hornbostel–Sachs it is a **membranophone** (the frame drum is the body), but it
-  **also carries idiophone jingles** — its most particular feature.
-- **"You can only shake it."** Striking the head, striking the frame and the thumb roll are separate
-  techniques with separate sounds.
-- **"It is the same as a Chinese hand drum."** Uyghur and other Chinese hand drums are similar in form but
-  have their own traditions and techniques — **resemblance is not common origin**.
-- **"It has pitch."** Unpitched.
-
-## Next
-
-Among the idiophones one more differs from both the tambourine and the [[instrument:triangle|triangle]]: the
-[[instrument:gong|gong]] — also a metal body vibrating as a whole, but with lower energy and a longer tail.
-
-After that come the **pitched** idiophones, from the wooden bars of the [[instrument:xylophone|xylophone]] to
-the metal bars of the [[instrument:glockenspiel|glockenspiel]] family.
+In a whole set it may only ever be shaken, never struck. The shiver is there the entire time, and you notice it when it stops.
 :::

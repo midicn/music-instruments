@@ -45,10 +45,10 @@ updated: 2026-09-26
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，单簧管不在其中 |
 
 > ⚠️ **一个概念上的要点**：单簧管与[[instrument:oboe|双簧管]]的差别，最要紧的不是"一片簧还是两片簧"，
-> 而是**管形**：单簧管是**圆柱管**，只能激起**奇次泛音**（1、3、5…）→ 超吹时音高跳**十二度**；
-> 双簧管一族是**圆锥管**，全部泛音都在 → 超吹跳**八度**。
-> 于是单簧管必须用**十二度键**，而双簧管只需要**八度键**。
-> **从键的名字就能读出管形** —— 这是木管声学里最实用的一条判据。
+> 而是管形：单簧管是圆柱管，只能激起奇次泛音（1、3、5…）→ 超吹时音高跳十二度；
+> 双簧管一族是圆锥管，全部泛音都在 → 超吹跳八度。
+> 于是单簧管必须用十二度键，而双簧管只需要八度键。
+> 从键的名字就能读出管形 —— 这是木管声学里最实用的一条判据。
 
 ## 结构：吹嘴、圆柱管与十二度键
 
@@ -93,10 +93,10 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **它有独立的吹嘴**。这与双簧管族相反：单簧片绑在**一个硬质吹嘴**上，吹嘴插在管顶。
-   好处是**换簧片只要几秒钟**、簧片是工业成品 —— 门槛因此低得多。
-2. **圆柱管**。管身除喇叭口外几乎是等径的圆筒。这一条决定了它的全部声学特征。
-3. **十二度键**。把音提高一个**十二度**，而不是八度 —— 名字直接指向"超吹跳十二度"这个事实。
+1. 它有独立的吹嘴。这与双簧管族相反：单簧片绑在一个硬质吹嘴上，吹嘴插在管顶。
+   好处是换簧片只要几秒钟、簧片是工业成品 —— 门槛因此低得多。
+2. 圆柱管。管身除喇叭口外几乎是等径的圆筒。这一条决定了它的全部声学特征。
+3. 十二度键。把音提高一个十二度，而不是八度 —— 名字直接指向"超吹跳十二度"这个事实。
 
 ## 三个音区，三种性格
 
@@ -125,9 +125,9 @@ updated: 2026-09-26
 </svg>
 ```
 
-**为什么会有三个音区？** 因为圆柱管**只容得下奇次泛音**。
-低音区用基频，中音区用第 3 次泛音，高音区用第 5 次泛音 —— 中间**跳过了第 2、4 次**，
-所以每一次"换音区"都是一次**音色跳变**，而不是平滑过渡。
+为什么会有三个音区？ 因为圆柱管只容得下奇次泛音。
+低音区用基频，中音区用第 3 次泛音，高音区用第 5 次泛音 —— 中间跳过了第 2、4 次，
+所以每一次"换音区"都是一次音色跳变，而不是平滑过渡。
 
 | 音区 | 记谱范围 | 泛音 | 音色 |
 |---|---|---|---|
@@ -135,7 +135,7 @@ updated: 2026-09-26
 | **中音区**（clarino） | B4–C6 | 第 3 次泛音 | 亮、直、最像"单簧管" |
 | **高音区**（altissimo） | C♯6 以上 | 第 5 次泛音起 | 紧、尖、需要特殊指法 |
 
-**对照**：[[instrument:flute|长笛]]与[[instrument:oboe|双簧管]]（圆锥管）的音区过渡是**渐变**的，
+对照：[[instrument:flute|长笛]]与[[instrument:oboe|双簧管]]（圆锥管）的音区过渡是渐变的，
 所以它们不会有这种"三截"的感觉。这就是圆柱管最独特的地方。
 
 ## 音域
@@ -144,18 +144,18 @@ updated: 2026-09-26
 {"range":"D3–B♭6","written":"E3–C7","caption":"单簧管的记谱音域与实音音域","caption_en":"The clarinet: notated range above, sounding range below","note":"⚠️ 降 B 调单簧管是移调乐器 —— 记谱比实音高大二度。谱面写 E3–C7，实际出声 D3–B♭6。高音区（altissimo）的实际上限视演奏者指法而定。"}
 ```
 
-- **实音 D3–B♭6**，超过三个半八度 —— 是木管组里音域最宽的一类（与巴松相当）。
-- **常用区实音 D3–F5**，其中中音区最顺手。
-- **低音区（D3–B♭3）** 是它的"第二性格"：厚、暗，是抒情乐句的常用处。
+- 实音 D3–B♭6，超过三个半八度 —— 是木管组里音域最宽的一类（与巴松相当）。
+- 常用区实音 D3–F5，其中中音区最顺手。
+- 低音区（D3–B♭3） 是它的"第二性格"：厚、暗，是抒情乐句的常用处。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **中音区最"正统"**：明亮、通畅、音量大 —— 绝大多数旋律都在这里。
-2. **低音区完全不同**：暗、厚、稍带嗡鸣，像是另一件乐器。
-3. **高音区需要"挤"**：音色变紧，音准也更难，作曲家会谨慎使用。
-4. **音量动态极大**。它可以做到从耳语到极强，是木管组里动态范围最大的一件 ——
+1. 中音区最"正统"：明亮、通畅、音量大 —— 绝大多数旋律都在这里。
+2. 低音区完全不同：暗、厚、稍带嗡鸣，像是另一件乐器。
+3. 高音区需要"挤"：音色变紧，音准也更难，作曲家会谨慎使用。
+4. 音量动态极大。它可以做到从耳语到极强，是木管组里动态范围最大的一件 ——
    这也是它在管乐团里承担主力旋律的原因。
 
 ```audiolab
@@ -164,12 +164,12 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **换音区（the break）是最大的一道坎**。跨过 B♭4 附近的连接处时，
+- 换音区（the break）是最大的一道坎。跨过 B♭4 附近的连接处时，
   需要手指、气压、口型同时调整 —— 这是所有单簧管学习者的必修课。
-- **滑音（glissando / smear）**。单簧管是少数能做出**真正的滑音**的木管之一，
+- 滑音（glissando / smear）。单簧管是少数能做出真正的滑音的木管之一，
   爵士里那种"由低滑上来"的起音就来自这里。
-- **超吹（overblowing）**。靠十二度键与口型把中音区推到高音区。
-- **颤音（vibrato）**在古典演奏里用得少，在爵士与东欧民间演奏里用得多。
+- 超吹（overblowing）。靠十二度键与口型把中音区推到高音区。
+- 颤音（vibrato）在古典演奏里用得少，在爵士与东欧民间演奏里用得多。
 
 ## 家族与近亲
 
@@ -181,8 +181,8 @@ updated: 2026-09-26
 | [[instrument:bassoon\|巴松]] | C | 同音 | **圆锥** | 木管组的低音 |
 | [[instrument:alto-saxophone\|中音萨克斯]] | E♭ | 记谱比实音**高大六度** | **圆锥** | 单簧驱动 + 圆锥管 |
 
-**这张表是所有木管里最值得记住的一张**：它同时包含**圆柱族**（单簧管三件）与**圆锥族**
-（巴松、萨克斯），而**驱动方式**又分单簧与双簧 —— 两个维度交叉，就得到全部木管的分类骨架。
+这张表是所有木管里最值得记住的一张：它同时包含圆柱族（单簧管三件）与圆锥族
+（巴松、萨克斯），而驱动方式又分单簧与双簧 —— 两个维度交叉，就得到全部木管的分类骨架。
 
 ## 历史演变
 
@@ -194,32 +194,33 @@ updated: 2026-09-26
 | 19 世纪末—20 世纪 | 定型为现代单簧管；成为管弦乐、管乐团与爵士乐的核心乐器 |
 | 20 世纪 | 爵士乐把它推到独奏主角的地位；同时成为当代音乐中最活跃的木管之一 |
 
-**它的成功有一个很实际的原因**：不需要自己削哨片、音量大、音域宽、动态范围大。
-这四点让它同时成为**最容易入门**的木管（初学者的首选）与**最全能**的木管。
+它的成功有一个很实际的原因：不需要自己削哨片、音量大、音域宽、动态范围大。
+这四点让它同时成为最容易入门的木管（初学者的首选）与最全能的木管。
 
 ## 常见误解
 
-- **"单簧管和双簧管只是簧片数量不同。"** 更关键的是**管形**：
+- "单簧管和双簧管只是簧片数量不同。" 更关键的是管形：
   圆柱管（单簧管）只有奇次泛音、超吹得十二度；圆锥管（双簧管）超吹得八度。
   两者连音区的行为都不一样。
-- **"它叫黑管，说明是黑的所以低。"** "黑管"只是外观俗称（多为黑檀或黑色树脂），
-  与音高无关；它的音域其实**比双簧管还高**一些。
-- **"单簧管就是竖笛。"** [[instrument:recorder|竖笛]]是**哨嘴边棱音**乐器，没有簧片，
+- "它叫黑管，说明是黑的所以低。" "黑管"只是外观俗称（多为黑檀或黑色树脂），
+  与音高无关；它的音域其实比双簧管还高一些。
+- "单簧管就是竖笛。" [[instrument:recorder|竖笛]]是哨嘴边棱音乐器，没有簧片，
   也没有单簧管那样的按键系统 —— 两者完全两族。
-- **"低音单簧管只是音量大的单簧管。"** 它是**降 B 调、记谱高大九度**的另一件乐器，
+- "低音单簧管只是音量大的单簧管。" 它是降 B 调、记谱高大九度的另一件乐器，
   体量与用法都不同（见该条）。
-- **"三个音区是演奏习惯造成的。"** 是**管形**造成的：圆柱管跳过了偶次泛音，
+- "三个音区是演奏习惯造成的。" 是管形造成的：圆柱管跳过了偶次泛音，
   所以音区之间必然有音色的跳变。
 
 ## 下一步
 
-单簧管族往下看有两支：**更高**的 [[instrument:e-flat-clarinet|高音单簧管]]，
-和**更低**的 [[instrument:bass-clarinet|低音单簧管]] —— 三支共用同一套指法逻辑，
+单簧管族往下看有两支：更高的 [[instrument:e-flat-clarinet|高音单簧管]]，
+和更低的 [[instrument:bass-clarinet|低音单簧管]] —— 三支共用同一套指法逻辑，
 差别主要落在音区与体量上。
 
 想去看"圆柱 / 圆锥"这条判据的另一端，就去 [[instrument:bassoon|巴松]]：
 同样是圆锥管 + 双簧，管长到必须折成 U 形；再看 [[instrument:alto-saxophone|萨克斯]]，
-它是**单簧的驱动 + 圆锥的管形** —— 两个维度的交叉点。
+它是单簧的驱动 + 圆锥的管形 —— 两个维度的交叉点。
+
 :::
 
 ::: en
@@ -235,10 +236,10 @@ one of the few **cylindrical** woodwinds.
 | **Bayin** | Not applicable — a Chinese system; the clarinet is outside it |
 
 > ⚠️ **One conceptual point**: what really separates the clarinet from the [[instrument:oboe|oboe]] is not
-> "one reed or two" but the **bore**. The clarinet's is **cylindrical**, so it sustains only **odd
-> harmonics** (1, 3, 5…) and overblows a **twelfth**; the oboe family's is **conical**, so it sustains all
-> harmonics and overblows an **octave**. Hence a clarinet needs a **twelfth key** where an oboe needs only
-> an **octave key**. **The key's name tells you the bore** — the most useful single test in woodwind
+> "one reed or two" but the **bore**. The clarinet's is cylindrical, so it sustains only **odd
+> harmonics (1, 3, 5…) and overblows a twelfth; the oboe family's is conical**, so it sustains all
+> harmonics and overblows an octave. Hence a clarinet needs a twelfth key where an oboe needs only
+> an octave key. The key's name tells you the bore — the most useful single test in woodwind
 > acoustics.
 
 ## Structure: mouthpiece, cylinder and twelfth key
@@ -284,12 +285,12 @@ one of the few **cylindrical** woodwinds.
 
 Three points:
 
-1. **A separate mouthpiece**, unlike the oboe family: the single reed is bound to a **rigid mouthpiece**
+1. A separate mouthpiece, unlike the oboe family: the single reed is bound to a rigid mouthpiece
    that fits into the top of the tube. Changing a reed takes seconds and reeds are factory products — a
    much lower barrier.
-2. **A cylindrical bore.** Apart from the bell the body is a near-uniform tube. This decides all its
+2. A cylindrical bore. Apart from the bell the body is a near-uniform tube. This decides all its
    acoustics.
-3. **A twelfth key**, raising the note by a **twelfth** rather than an octave — the name states the fact.
+3. A twelfth key, raising the note by a twelfth rather than an octave — the name states the fact.
 
 ## Three registers, three characters
 
@@ -318,9 +319,9 @@ Three points:
 </svg>
 ```
 
-**Why three registers?** Because a cylindrical tube **only admits odd harmonics**. The low register uses
-the fundamental, the middle the 3rd harmonic, the top the 5th — **skipping the 2nd and 4th**. So each
-register change is a **jump in colour**, not a smooth transition.
+Why three registers? Because a cylindrical tube only admits odd harmonics. The low register uses
+the fundamental, the middle the 3rd harmonic, the top the 5th — skipping the 2nd and 4th. So each
+register change is a jump in colour, not a smooth transition.
 
 | Register | Written range | Harmonic | Timbre |
 |---|---|---|---|
@@ -328,8 +329,8 @@ register change is a **jump in colour**, not a smooth transition.
 | **Clarino** | B4–C6 | 3rd harmonic | bright, direct, most "clarinet" |
 | **Altissimo** | above C♯6 | 5th and up | tense, thin, special fingerings |
 
-**Compare**: the [[instrument:flute|flute]] and [[instrument:oboe|oboe]] (conical) change register
-**gradually**, so they never sound "in three pieces". That is the cylinder's signature.
+Compare: the [[instrument:flute|flute]] and [[instrument:oboe|oboe]] (conical) change register
+gradually, so they never sound "in three pieces". That is the cylinder's signature.
 
 ## Range
 
@@ -337,20 +338,20 @@ register change is a **jump in colour**, not a smooth transition.
 {"range":"D3–B♭6","written":"E3–C7","caption":"单簧管的记谱音域与实音音域","caption_en":"The clarinet: notated range above, sounding range below","note":"⚠️ 降 B 调单簧管是移调乐器 —— 记谱比实音高大二度。谱面写 E3–C7，实际出声 D3–B♭6。高音区（altissimo）的实际上限视演奏者指法而定。"}
 ```
 
-- **Sounding D3–B♭6**, over three and a half octaves — among the widest in the woodwind group (with the
+- Sounding D3–B♭6, over three and a half octaves — among the widest in the woodwind group (with the
   bassoon).
-- **The working register is D3–F5**, with the clarino the most comfortable.
-- **The low register (D3–B♭3)** is its second personality: thick and dark, and a favourite for lyrical
+- The working register is D3–F5, with the clarino the most comfortable.
+- The low register (D3–B♭3) is its second personality: thick and dark, and a favourite for lyrical
   phrases.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **The clarino is the canonical voice**: bright, free and loud — where nearly all melodies sit.
-2. **The chalumeau is a different instrument**: dark, thick, faintly buzzing.
-3. **The altissimo has to be squeezed**: thinner in colour and harder to place, used with care.
-4. **Its dynamic range is the widest of any woodwind** — from a whisper to a fortissimo, which is why wind
+1. The clarino is the canonical voice: bright, free and loud — where nearly all melodies sit.
+2. The chalumeau is a different instrument: dark, thick, faintly buzzing.
+3. The altissimo has to be squeezed: thinner in colour and harder to place, used with care.
+4. Its dynamic range is the widest of any woodwind — from a whisper to a fortissimo, which is why wind
    bands give it the leading line.
 
 ```audiolab
@@ -359,12 +360,12 @@ Four cues:
 
 ## Playing techniques
 
-- **The break** is the great obstacle: crossing it near B♭4 needs fingers, air and embouchure to change
+- The break is the great obstacle: crossing it near B♭4 needs fingers, air and embouchure to change
   together — every clarinettist's rite of passage.
-- **Glissando / smear.** The clarinet is one of the few winds that can produce a **true glide**; the
+- Glissando / smear. The clarinet is one of the few winds that can produce a true glide; the
   scooping attack of jazz comes from here.
-- **Overblowing** with the twelfth key and the embouchure to reach the altissimo.
-- **Vibrato** is rare in classical playing and common in jazz and Eastern European folk.
+- Overblowing with the twelfth key and the embouchure to reach the altissimo.
+- Vibrato is rare in classical playing and common in jazz and Eastern European folk.
 
 ## The family
 
@@ -376,8 +377,8 @@ Four cues:
 | [[instrument:bassoon\|Bassoon]] | C | at pitch | **conical** | the woodwind bass |
 | [[instrument:alto-saxophone\|Alto sax]] | E♭ | written a **major sixth above** sounding | **conical** | single reed + conical bore |
 
-**This is the most important table of any woodwind page**: it contains both the **cylindrical family**
-(the three clarinets) and the **conical family** (bassoon, sax), crossed with **single versus double reed**
+This is the most important table of any woodwind page: it contains both the cylindrical family
+(the three clarinets) and the conical family (bassoon, sax), crossed with single versus double reed
 — two dimensions that together produce the whole skeleton of woodwind classification.
 
 ## History
@@ -390,31 +391,31 @@ Four cues:
 | Late 19th–20th c. | fixed as the modern clarinet; becomes central to orchestra, band and jazz |
 | 20th c. | jazz makes it a solo protagonist; contemporary music exploits it heavily |
 
-**Its success has a practical cause**: no reed scraping, a big sound, a wide range and a huge dynamic
-range. Those four make it both the **easiest woodwind to start** and the **most versatile** one.
+Its success has a practical cause: no reed scraping, a big sound, a wide range and a huge dynamic
+range. Those four make it both the easiest woodwind to start and the most versatile one.
 
 ## Common misconceptions
 
-- **"Oboe and clarinet differ only in reed count."** The decisive difference is the **bore**: a cylinder has
+- "Oboe and clarinet differ only in reed count." The decisive difference is the bore: a cylinder has
   only odd harmonics and overblows a twelfth; a cone has all of them and overblows an octave. Even the
   register behaviour differs.
-- **"The nickname \u201cblack tube\u201d means it is black and low."** The nickname is about its looks
-  (ebony or black resin) and says nothing about pitch; the clarinet actually sounds **higher** than the oboe.
-- **"A clarinet is a recorder."** The [[instrument:recorder|recorder]] is a **duct flute** with no reed and
+- "The nickname \u201cblack tube\u201d means it is black and low." The nickname is about its looks
+  (ebony or black resin) and says nothing about pitch; the clarinet actually sounds higher than the oboe.
+- "A clarinet is a recorder." The [[instrument:recorder|recorder]] is a duct flute with no reed and
   no key system — a different family entirely.
-- **"A bass clarinet is just a louder clarinet."** It is a separate instrument **in B♭, written a major
+- "A bass clarinet is just a louder clarinet." It is a separate instrument **in B♭, written a major
   ninth higher**, with a different size and use (see its own entry).
-- **"The three registers come from playing habit."** They come from the **bore**: a cylinder skips the even
+- "The three registers come from playing habit." They come from the bore: a cylinder skips the even
   harmonics, so register changes must jump in colour.
 
 ## Next
 
-Two directions within the family: **higher**, the [[instrument:e-flat-clarinet|E♭ clarinet]], and **lower**,
+Two directions within the family: higher, the [[instrument:e-flat-clarinet|E♭ clarinet]], and lower,
 the [[instrument:bass-clarinet|bass clarinet]] — all three sharing one fingering logic and differing mainly
 in register and size.
 
 For the other end of the "cylinder versus cone" test, go to the [[instrument:bassoon|bassoon]]: also conical
 with a double reed, its tube so long it must be folded in a U. Then the
-[[instrument:alto-saxophone|saxophone]] — **single-reed drive with a conical bore**, the point where the two
+[[instrument:alto-saxophone|saxophone]] — single-reed drive with a conical bore, the point where the two
 dimensions cross.
 :::

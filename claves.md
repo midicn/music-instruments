@@ -33,29 +33,17 @@ updated: 2026-09-26
 ---
 
 ::: zh
-敲击棒是**两件实心硬木短棒**，看上去是打击乐里最简单的东西。
-但它在拉丁音乐里的地位很特殊：**它是那个"时间标尺"的实物形态。**
+## 两根棒，一把尺
 
-拉丁音乐里 **clave** 这个词有两层含义（详见[[instrument:latin-percussion|拉丁打击组]]）：
-**一件乐器**（就是它）与**一个两小节的节奏型**（全乐队共同遵守的框架）。
-本条讲的是**乐器那一半** —— 节奏型那一半在拉丁打击组页。
+拉丁乐队里，所有乐器都跟着一个两小节的循环走，那个循环叫 clave。敲击棒就是它的实物：两根实心硬木棒，长约 20 厘米，互击一下，声音干、短、没有余音。正因为短，它不盖住任何声部，全乐队才敢拿它当尺子。黑檀、红木，越硬越脆；成对出售时，两根的松紧与音高要匹配。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **体鸣**（Idiophone）· **无固定音高** |
-| **次级类型** | 两根实心硬木短棒 · 互击发声 · **无内腔** |
-| **所属族** | 世界乐器 / 西洋 · 打击（体鸣 · 小响器） |
-| **八音** | 不适用 —— 周代八音是中国乐器的体系，敲击棒不在其中 |
+| HS 分类 | 体鸣 · 无固定音高 |
+| 次级类型 | 两根实心硬木短棒，互击，无内腔 |
+| 八音 | 不适用，周代八音是中国乐器的体系 |
 
-> ⚠️ **一个概念上的要点**：**"实心"与"有腔"是两件相近乐器的分水岭。**
-> - **敲击棒**：**实心**木棒 → 材料本身迅速阻尼振动 → 音色**干、短、无余音**。
-> - [[instrument:castanets|响板]]：**挖成凹腔**的木壳 → 振动更自由 → 音色**清脆、有余音**。
->
-> 两者的材料几乎一样（硬木），演奏动作也一样（对击），**差别只在"里面有没有空腔"**。
-> 这也是为什么敲击棒适合做"时间标尺"：**它的音短到不会互相干扰** ——
-> 在密集的拉丁节奏里，这一点至关重要。
-
-## 结构：两根实心棒
+## 实心与有腔
 
 ```svg
 <svg viewBox="0 0 640 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="敲击棒的结构：两根实心硬木短棒与互击的方式，并与凹腔的响板作剖面形状对照">
@@ -89,118 +77,34 @@ updated: 2026-09-26
 </svg>
 ```
 
-三处要点：
+它和[[instrument:castanets|响板]]的材料几乎一样，动作也一样，分水岭是里面有没有空腔。响板挖空，振动自由，有余音；敲击棒实心，材料自己把振动迅速吃掉，一击即止。传统握法是一手托住一根，掌心形成小共鸣腔，另一手击它，比两根都悬空更响。
 
-1. **实心、无腔** → 声音"一击即止"。这是它能当**时间标尺**的物理原因：
-   在密集的拉丁节奏层里，短促的音不会互相掩盖。
-2. **握法有讲究**。传统握法是**一只手托住一根**（手掌形成一个小共鸣腔），另一只手击它 ——
-   这样声音更响亮。这与"两根都悬空"的效果不同。
-3. **击点在棒的中段**。击端部或击中部音色不同 —— 但差别不大，
-   这与鼓类"击点决定一切"形成对比。
+## 没有音域，只有节奏
 
-## 音域
-
-敲击棒属于**无固定音高**乐器，本站不为其生成音域图。它的表现手段主要是**节奏本身**：
-
-| 项 | 说明 |
-|---|---|
-| **音高** | 无。两根棒音高一致（成对出售，音色匹配） |
-| **力度** | 从极轻的"嗒"到清脆的强击 |
-| **音色** | 击点与握法带来细微差别，但不是主要表现手段 |
-| **主要表现** | **节奏型**（哪一边、什么密度、什么重音） |
-
-**注意最后一行**：敲击棒是本站唯一一件"**主要表现手段是节奏而不是音色**"的乐器。
-它把"音色乐器"变成了"结构乐器"。
-
-## 音色与听辨
-
-四条线索：
-
-1. **干、短、清脆**。没有余音 —— 这是它与[[instrument:castanets|响板]]最大的听感差别。
-2. **穿透力强而不掩盖其他乐器**。短促的高频点能在密集编配里被听见。
-3. **两根棒的声音几乎一样**（成对匹配），所以它不做"音高对比"。
-4. **音量不大，但定位清楚**。它靠"点"而不是"量"起作用。
+无固定音高，两根成对匹配，音高一致，没有音域可画。力度从极轻的"嗒"到清脆的强击；击点在中段，换到端部差别不大。它能变的东西只有节奏：哪一边、什么密度、什么重音。两根棒音高一致，也不能像响板那样靠位置分出两个音。这是它最特殊的地方，靠结构起作用，不靠音色。
 
 ```audiolab
 {"type":"instrument","drum":75,"synth":"perc","phrase":[75,75,75,75,75],"label":"敲击棒的干短一击","label_en":"Claves — a dry, short click","hint":"注意完全没有余音 —— 这正是它能当时间标尺的原因","hint_en":"Hear the complete absence of a tail — exactly why it can serve as a timekeeper."}
 ```
 
-## 演奏技法
+## 一个词的两半
 
-- **托住一根、击一根**：传统握法，手掌形成共鸣腔，声音更响。
-- **"保持 clave"**：演奏的内容是那个两小节节奏型（或其变体）——
-  **它的职责不是"打拍子"，而是"标出音乐处在循环的哪个位置"**。
-- **与其它乐器的关系**：其他乐器相对它定位，所以它必须**极其稳定**。
-- **音量克制**：它不需要大声，只需要清楚。
+16 到 19 世纪，非洲的木棒节奏随人口进入加勒比，与欧洲音乐混在一起。19 世纪末 20 世纪初，clave 作为节奏型在古巴确立，敲击棒成了它的载体；20 世纪中期它随拉丁爵士进入美国。它的职责不是打拍子，而是标出音乐在循环里的位置，所以必须极其稳定：音量不必大，清楚就够，错一拍，整块织体就散。20 世纪后期它进入爵士、流行与影视配乐，多数录音里只占一轨，摆在混音正中。
 
-## 家族与近亲
-
-| 乐器 | 形状 | 有无腔体 | 音色 |
-|---|---|---|---|
-| **敲击棒** | **实心圆柱** | **无** | 干、短、无余音 |
-| [[instrument:castanets\|响板]] | **凹腔贝壳形** | **有** | 清脆、有余音 |
-| [[instrument:woodblock\|木鱼（西洋用法）]] | **挖空长方体** | **有** | 干、短、带音高感 |
-| [[instrument:tambourine\|铃鼓]] | 框鼓 + 钹片 | 有 | 沙沙 + 嗒 |
-
-**"有无腔体"是这四件的分水岭**：
-敲击棒无腔（最干）、响板与木鱼有腔（有余音或音高感）、铃鼓另有钹片（高频层）。
-
-## 历史演变
-
-| 时期 | 状态 |
-|---|---|
-| 16—19 世纪 | 非洲的木棒节奏传统随人口迁移进入加勒比地区，逐步与欧洲音乐融合 |
-| 19 世纪末—20 世纪初 | **clave 作为节奏型**在古巴音乐里确立；敲击棒成为它的实物载体 |
-| 20 世纪中期 | 随拉丁爵士传入美国；成为拉丁节奏组的标准成员 |
-| 20 世纪后期至今 | 拉丁、爵士、流行、影视配乐的常用小响器 |
-
-**它最特别的地方是"乐器与结构同名"** ——
-一件乐器变成了一个音乐概念的名字（详见[[instrument:latin-percussion|拉丁打击组]]）。
-这在乐器史上很少见，也说明**它在拉丁音乐里确实处在"中心"位置**。
-
-## 常见误解
-
-- **"敲击棒就是两根木头，没有技术含量。"** 它的技术含量在**节奏的稳定性**：
-  它是全乐队的时间参照，错一拍整块就散。
-- **"它和响板是同一种乐器。"** 材料相近、动作相近，
-  但**一个实心一个凹腔** → 音色完全不同（干 vs 有余音）。
-- **"它有音高。"** 无固定音高；两根棒成对匹配，音高一致。
-- **"它只是打拍子。"** 它的职责是**标出两小节循环的位置**，不是数拍子 ——
-  这与"节拍器"是两件事。
-- **"随便拿两根木棒就行。"** 材料、硬度、尺寸都影响音色与耐用性；
-  成对匹配也是制作要点。
-
-## 下一步
-
-打击批只剩 6 条：鞭响器 · 乐砧 · 风铃 · 砂槌 · 雨棍 · 木鱼。
-其中 [[instrument:woodblock|木鱼（西洋用法）]] 与它、与[[instrument:castanets|响板]]构成
-"硬木小响器"的第三极（挖空长方体）。
 :::
 
 ::: en
-The claves are **two solid hardwood sticks** — seemingly percussion's simplest object. Yet their place in Latin
-music is special: **they are the physical form of the timekeeper.**
+## Two sticks as a ruler
 
-In Latin music the word **clave** carries two meanings (see [[instrument:latin-percussion|Latin percussion]]):
-**an instrument** (this one) and **a two-bar rhythmic pattern** (the framework the whole band shares). This
-entry covers **the instrument half**; the pattern half belongs to the Latin percussion page.
+In a Latin band everything is placed against a two-bar cycle, and that cycle is called clave. The sticks are its physical form: two solid pieces of hardwood, about 20 cm long, struck together for a sound that is dry, short and without a tail. Because it is short it hides nothing, which is why a whole band can use it as a ruler. Ebony or rosewood, the harder the wood the drier the click, and the pair is matched for pitch and weight before it leaves the bench.
 
 | Classification | Value |
 |---|---|
-| **HS class** | **Idiophone** · **unpitched** |
-| **Sub-type** | Two solid hardwood sticks · struck together · **no cavity** |
-| **Family** | World / Western · Percussion (idiophone, small clappers) |
-| **Bayin** | Not applicable — a Chinese system; the claves are outside it |
+| HS class | Idiophone · no definite pitch |
+| Sub-type | two solid hardwood sticks, struck together, no cavity |
+| Bayin | not applicable — a Chinese system |
 
-> ⚠️ **One conceptual point**: **"solid" versus "cavity" is the watershed between two similar instruments.**
-> - **Claves**: **solid** sticks → the material damps the vibration quickly → **dry, short, no tail**.
-> - [[instrument:castanets|Castanets]]: **hollowed** shells → freer vibration → **crisp, with a ring**.
->
-> Almost the same material (hardwood), the same gesture (striking together) — **the only difference is whether
-> there is a cavity inside.** That is also why claves make a good timekeeper: **their notes are so short they
-> cannot interfere with each other**, which matters enormously in dense Latin rhythms.
-
-## Structure: two solid sticks
+## Solid against hollow
 
 ```svg
 <svg viewBox="0 0 640 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Claves structure: two solid hardwood sticks and how they are struck, compared with the hollow shape of castanets">
@@ -234,92 +138,17 @@ entry covers **the instrument half**; the pattern half belongs to the Latin perc
 </svg>
 ```
 
-Three points:
+The material is nearly the same as castanets and so is the gesture; the watershed is whether there is a cavity inside. Castanets are hollowed, so they vibrate freely and ring. Claves are solid, the wood damps the vibration at once, and the sound stops. The traditional grip cups one stick in the palm, making a small cavity, while the other strikes it — louder than leaving both free.
 
-1. **Solid, no cavity** → the sound stops at once. That is the physical reason it can be a **timekeeper**: in
-   dense Latin layers, short notes do not mask one another.
-2. **The grip matters**: traditionally **one stick is cupped in the hand** (making a small cavity) while the
-   other strikes it — louder than leaving both free.
-3. **The striking point is mid-stick.** End or middle differ slightly — unlike drums, where the striking spot
-   changes everything.
+## No range, only rhythm
 
-## Range
-
-The claves are **unpitched**, so no range chart is generated. Their means lie mainly in **the rhythm itself**:
-
-| Item | Note |
-|---|---|
-| **Pitch** | none. The two sticks match in pitch (sold as a pair) |
-| **Dynamics** | from a light tick to a crisp strong stroke |
-| **Colour** | striking point and grip give small differences, not a main means |
-| **Main expression** | **the pattern** (which side, what density, what accents) |
-
-**Note the last row**: the claves are the only instrument on this site whose **main means of expression is
-rhythm rather than colour**. It turns a "colour instrument" into a "structural instrument".
-
-## Timbre, and how to hear it
-
-Four cues:
-
-1. **Dry, short, crisp** — with no tail, the biggest audible difference from
-   [[instrument:castanets|castanets]].
-2. **Penetrating without masking**: a short high point is heard through dense scoring.
-3. **The two sticks sound nearly identical** (matched as a pair), so no pitch contrast is possible.
-4. **Modest volume, clear location** — it works by the point, not the amount.
+Unpitched, the pair matched in pitch, so there is no range to draw. Dynamics run from a light tick to a crisp stroke; the striking point sits mid-stick, and moving to the end changes little. The only variable is rhythm: which side, what density, what accent. That is what makes it unusual. It works through structure rather than colour, and two matched sticks cannot give the two-note split that castanets get from striking in different places.
 
 ```audiolab
 {"type":"instrument","drum":75,"synth":"perc","phrase":[75,75,75,75,75],"label":"敲击棒的干短一击","label_en":"Claves — a dry, short click","hint":"注意完全没有余音 —— 这正是它能当时间标尺的原因","hint_en":"Hear the complete absence of a tail — exactly why it can serve as a timekeeper."}
 ```
 
-## Playing techniques
+## Two halves of one word
 
-- **Cup one, strike with the other**: the traditional grip, the hand forming a small cavity for more volume.
-- **"Keeping the clave"**: what is played is that two-bar pattern (or a variant) — **its duty is not to mark
-  time but to show where the music sits in the cycle.**
-- **Relation to other instruments**: everything else locates itself against it, so it must be **extremely
-  steady**.
-- **Restrained volume**: it does not need to be loud, only clear.
-
-## The family
-
-| Instrument | Shape | Cavity | Colour |
-|---|---|---|---|
-| **Claves** | **solid cylinder** | **no** | dry, short, no tail |
-| [[instrument:castanets\|Castanets]] | **hollowed shell** | **yes** | crisp, with a ring |
-| [[instrument:woodblock\|Woodblock]] | **hollowed block** | **yes** | dry, short, some pitch |
-| [[instrument:tambourine\|Tambourine]] | frame drum + jingles | yes | shiver plus tap |
-
-**"Cavity or not" is the watershed among these four**: claves have none (driest), castanets and the woodblock
-have one (a ring or a sense of pitch), and the tambourine adds jingles (a high-frequency layer).
-
-## History
-
-| Period | State |
-|---|---|
-| 16th–19th c. | African stick-rhythm traditions arrive in the Caribbean with migration and blend with European music |
-| Late 19th–early 20th c. | the **clave as a pattern** is established in Cuban music, with the claves as its physical carrier |
-| Mid-20th c. | reaches the USA with Latin jazz; becomes standard in Latin rhythm sections |
-| Late 20th c. onward | a common small clapper in Latin, jazz, pop and film music |
-
-**Its most particular feature is that instrument and structure share a name** — an instrument became the name
-of a musical concept (see [[instrument:latin-percussion|Latin percussion]]). Rare in instrument history, and
-evidence that **it genuinely sits at the centre of Latin music.**
-
-## Common misconceptions
-
-- **"Claves are two bits of wood with no skill involved."** The skill is **rhythmic steadiness**: it is the
-  band's time reference, and one misplaced stroke collapses the texture.
-- **"They are the same as castanets."** Similar material and gesture, but **one solid and one hollow** →
-  completely different colours (dry versus ringing).
-- **"They have pitch."** Unpitched; the pair is matched so both sound alike.
-- **"They just mark time."** Their duty is to **show the position in the two-bar cycle**, not to count beats —
-  a different thing from a metronome.
-- **"Any two sticks will do."** Material, hardness and size all affect colour and durability, and matching the
-  pair is part of the craft.
-
-## Next
-
-Six percussion entries remain: whip · anvil · wind chimes · maracas · rainstick · woodblock. The
-[[instrument:woodblock|woodblock]] forms the third pole of "small hardwood percussion" alongside these and the
-[[instrument:castanets|castanets]].
+African stick-rhythm traditions reached the Caribbean between the sixteenth and nineteenth centuries and mixed with European music. The clave as a pattern was established in Cuban music around 1900, with the sticks as its carrier, and Latin jazz took it to the United States in the mid twentieth century. Its duty is not to count beats but to show where the music sits in the cycle, so it must be extremely steady. It does not need to be loud, only clear, and one misplaced stroke collapses the texture. Since the late twentieth century it has also worked in jazz, pop and film scores, usually as a single track in the middle of the mix.
 :::

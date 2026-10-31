@@ -33,27 +33,17 @@ updated: 2026-09-26
 ---
 
 ::: zh
-响板是打击乐里"最容易被轻视、也最难打准"的一件：
-**它就是两片硬木**。但这两片木不是平的 —— 它们**挖成了贝壳形凹腔**，
-而这个凹腔正是它音色的关键。
+## 两片木头，一只空腔
 
-**凹腔与实心，是它和[[instrument:claves|敲击棒]]最本质的差别。**
+两片硬木在掌心里打出一串"哒"，西班牙舞者的脚步就踩在这串声音上。响板看着简单，难的是它没有支架、没有鼓槌：乐器整个握在手里，手同时是支架、控制器和止音器。它和[[instrument:claves|敲击棒]]的材料几乎一样，差别全在木壳挖没挖空。黑檀、红木，木料越硬越脆，声音越干净；成对出售，两片要匹配。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **体鸣**（Idiophone）· **无固定音高** |
-| **次级类型** | 硬木贝壳形凹腔 · 两片一对 · 用手掌与手指控制开合 |
-| **所属族** | 西洋 / 世界 · 打击（体鸣 · 小响器） |
-| **八音** | 不适用 —— 周代八音是中国乐器的体系，响板不在其中 |
+| HS 分类 | 体鸣 · 无固定音高 |
+| 次级类型 | 硬木贝壳形凹腔，两片一对，绳穿连 |
+| 八音 | 不适用，周代八音是中国乐器的体系 |
 
-> ⚠️ **一个概念上的要点**：**"两块硬木对击"却可以是两种不同的乐器 —— 形状决定音色。**
-> - **响板**：**挖成凹腔**的贝壳形木壳 → 凹腔让振动更自由 → 声音**清脆、有穿透力、余音略长**。
-> - **[[instrument:claves|敲击棒]]**：**实心的**圆柱木棒 → 振动被材料本身阻尼 → 声音**干、短、干脆**。
->
-> 两者都是"两根硬木互击"，材料也近似，**但一个挖空、一个实心** ——
-> 音色因此完全不同。这是"**形状决定音色**"在最小尺度上的例证。
-
-## 结构：凹腔木壳与持握方式
+## 凹腔就是它的音箱
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="响板的结构：两片贝壳形凹腔木壳、穿连的绳与在手掌中的持握方式">
@@ -83,120 +73,34 @@ updated: 2026-09-26
 </svg>
 ```
 
-三处要点：
+木壳挖空后振动更自由，声音比实心木更响、余音更长，还带一点穿透。两片之间的缝隙由绳的张力决定：太紧发闷，太松发散。这个缝隙不是固定的，手掌一开一合就在调它。
 
-1. **凹腔是它的"音箱"**。木壳挖空后振动更自由 → 音色清脆而有余音。
-2. **两片之间留缝**（靠绳连接的张力）。缝隙大小影响音色：太紧则闷、太松则散。
-3. **掌中持握**。手掌与拇指控制两片的开合 —— 所以**手型直接影响声音**，
-   这也是它技法难的原因（手在"演奏"的同时还要"控制乐器"）。
+## 滚奏是门槛
 
-## 音域
-
-响板属于**无固定音高**乐器，本站不为其生成音域图。它的表现手段在**手型与击法**：
-
-| 击法 | 音色 |
-|---|---|
-| **单击**（指腹与掌根） | 清晰的单点 |
-| **双击** | 快速的两下 |
-| **滚奏（carretilla）** | 连续的五击滚奏 —— 西班牙响板的核心技法 |
-| **拇指击** | 较闷、较低 |
-| **手指击** | 较亮、较高 |
-
-**"滚奏（carretilla）"是它的技术门槛**：
-五根手指依次击打（或拇指与手指交替），得到一串均匀的"哒哒哒哒哒" ——
-西班牙舞曲里那种密集的节奏就靠它。
-
-## 音色与听辨
-
-四条线索：
-
-1. **清脆、有木质感、带一点穿透**。凹腔让它比实心木的[[instrument:claves|敲击棒]]更响。
-2. **高频为主**。它的能量集中在中高频，所以能在乐队里被听见，但不刺耳。
-3. **余音短但可辨**。击后有一点点回声，比敲击棒长。
-4. **手型影响极大**。这是它与其他打击乐（鼓、锣）最不同的地方 ——
-   **演奏者的手同时是支架、是控制器、也是衰减器**。
+无固定音高，所以没有音域。它靠手型与击法变化：单击清楚，双击是两下快速的连击，拇指击偏闷偏低，手指击偏亮偏高。真正难的是 carretilla，五根手指依次落下，得到一串均匀的滚奏，西班牙舞曲里那种密集的节奏全靠它。演奏者还得同时跳舞，手在动，身体也在动。它是少数必须站着演奏、还要一边移动身体的打击乐器。
 
 ```audiolab
 {"type":"instrument","drum":75,"synth":"perc","phrase":[75,75,75,75,75,75],"label":"响板的连续击奏：西班牙响板的典型节奏","label_en":"A castanet roll — the sound of Spanish dance music","hint":"注意清脆的木质感 —— 通用音色表里没有响板，这里借敲击棒音色近似","hint_en":"Hear the crisp wooden click. General MIDI has no castanets, so a claves sample stands in."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）的打击通道里**没有响板**。
-> 上面播放的是**敲击棒（Claves）**的音色 —— 同为硬木互击，
-> 但**响板因凹腔而更响、余音更长**。
+## 从地中海到歌剧院
 
-## 演奏技法
+地中海的 krotala 是它的远祖，中世纪的欧洲用木制拍板伴舞，18 到 19 世纪西班牙定下了成对持握的形制与滚奏技法。19 世纪它随西班牙题材进入管弦乐，《卡门》里就有。弗拉门戈、西班牙古典与流行编曲今天都还在用它；在管弦乐舞台上，它多半只代表一个词：西班牙。它进管弦乐靠的是舞曲，不是交响写法，谱面上常只写"响板"，具体节奏留给演奏者。
 
-- **单手一对**是西班牙传统：一手持一对，另一手也可以持一对（共四片）。
-- **滚奏（carretilla）**：五击滚奏，靠手指依次落下。
-- **配合舞步**：西班牙舞蹈里响板与脚步、身体动作同时进行 ——
-  所以它要求**演奏者一边动一边精确控制手型**，难度远超"坐着打"。
-- **管弦乐用法**：多用于西班牙或异国情调的段落，演员或打击乐手站着演奏。
-
-## 家族与近亲
-
-| 乐器 | 材料 | 形状 | 音色 |
-|---|---|---|---|
-| **响板** | 硬木 | **凹腔贝壳形** | 清脆、余音略长 |
-| [[instrument:claves\|敲击棒]] | 硬木 | **实心圆柱** | 干、短、干脆 |
-| [[instrument:woodblock\|木鱼（西洋用法）]] | 硬木 | **挖空长方体** | 干、短、音高感更强 |
-| [[instrument:cymbals\|铙钹]] | 合金 | 圆片 | 宽带噪声 |
-
-**前四行的材料几乎一样**（都是硬木），差别全在**形状**——
-这是本站"形状决定音色"最紧凑的一组对照。
-
-## 历史演变
-
-| 时期 | 状态 |
-|---|---|
-| 古代 | 地中海的**krotala**（陶制或木制拍板）是响板的远祖；类似乐器在世界多地出现 |
-| 中世纪—文艺复兴 | 欧洲出现木制拍板，用于舞蹈伴奏 |
-| 18—19 世纪 | 西班牙形成**成对持握**的形制与滚奏技法；成为弗拉门戈与西班牙古典音乐的核心 |
-| 19 世纪 | 进入管弦乐，多用于西班牙或"异国"场景（如《卡门》） |
-| 20 世纪至今 | 西班牙传统与现代管弦乐都在用；也出现在流行音乐里 |
-
-## 常见误解
-
-- **"响板就是两块木头，很简单。"** 它的**滚奏技法**需要长期训练；
-  单手一对、还要配合身体动作，实际门槛很高。
-- **"它和敲击棒是同一种乐器。"** 材料相近但**形状不同**（凹腔 vs 实心）→
-  音色、余音、用途都不同。
-- **"它有音高。"** 无固定音高。击不同位置有音色变化，但不构成音阶。
-- **"它只用在西班牙音乐里。"** 管弦乐（西班牙题材）、部分流行音乐里也有使用。
-- **"随便捏住打就行。"** 手型（缝隙大小、持握位置）直接决定音色 ——
-  它是"手即乐器一部分"的典型例子。
-
-## 下一步
-
-同为硬木小响器的还有 [[instrument:claves|敲击棒]]（实心圆柱）与
-[[instrument:woodblock|木鱼（西洋用法）]]（挖空长方体）——
-三件放在一起，"形状决定音色"这条规律最清楚。
 :::
 
 ::: en
-The castanets are percussion's most underrated — and hardest to play in time — instrument: **they are just two
-pieces of hardwood.** But the two pieces are not flat: they are **hollowed into shell-shaped cavities**, and
-those cavities are the key to the sound.
+## Two pieces of wood, one cavity
 
-**Cavity versus solid is the essential difference from the [[instrument:claves|claves]].**
+Two pieces of hardwood click in a palm and a dancer's feet land on that click. Castanets look easy, two bits of wood, but there is no stand and no stick: the instrument sits in the hand, and the hand is at once support, control and damper. The material is almost the same as the claves; the difference is whether the shell was hollowed. Ebony or rosewood: the harder the wood, the cleaner the click, and a pair is sold matched.
 
 | Classification | Value |
 |---|---|
-| **HS class** | **Idiophone** · **unpitched** |
-| **Sub-type** | Hardwood shell-shaped cavities · two in a pair · opened and closed by palm and fingers |
-| **Family** | Western / world · Percussion (idiophone, small rattles and clappers) |
-| **Bayin** | Not applicable — a Chinese system; castanets are outside it |
+| HS class | Idiophone · no definite pitch |
+| Sub-type | hardwood shells with a cavity, a pair joined by cord |
+| Bayin | not applicable — a Chinese system |
 
-> ⚠️ **One conceptual point**: **the same gesture — two pieces of hardwood struck together — can be two
-> different instruments, because shape decides colour.**
-> - **Castanets**: **hollowed shell-shaped** wooden shells → the cavity lets them vibrate more freely →
->   **crisp, penetrating, a little ring**.
-> - **[[instrument:claves|Claves]]**: **solid cylindrical** sticks → damped by the material itself →
->   **dry, short, blunt**.
->
-> Both are "two hardwoods struck", with similar material, **but one hollow and one solid** — completely
-> different colours. Proof that **shape decides colour** at the smallest scale.
-
-## Structure: hollowed shells and how they are held
+## The cavity is the soundbox
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Castanet structure: two shell-shaped hollowed wooden pieces, the joining cord, and the way they sit in the palm">
@@ -226,93 +130,17 @@ those cavities are the key to the sound.
 </svg>
 ```
 
-Three points:
+Hollowing the shell frees the vibration, so it is louder than solid wood, rings longer and carries a little further. The gap between the two shells is set by cord tension: too tight and it is dull, too loose and it scatters. The gap is not fixed — the palm opens and closes it while playing.
 
-1. **The cavity is its soundbox.** Hollowing the shell lets it vibrate more freely → a crisp tone with a
-   little ring.
-2. **A gap between the two**, set by the cord's tension. Too tight is dull, too loose is slack.
-3. **Held in the palm**, with palm and thumb opening and closing the pair — so **hand shape directly shapes
-   the sound**, which is what makes the technique hard: the hand plays while also controlling the instrument.
+## The roll is the threshold
 
-## Range
-
-The castanets are **unpitched**, so no range chart is generated. Their means lie in **hand shape and strokes**:
-
-| Stroke | Colour |
-|---|---|
-| **Single stroke** (finger pad and palm heel) | a clear single point |
-| **Double stroke** | two quick clicks |
-| **Carretilla (roll)** | a continuous five-finger roll — the heart of Spanish technique |
-| **Thumb stroke** | duller, lower |
-| **Finger stroke** | brighter, higher |
-
-**The carretilla is the technical threshold**: five fingers falling in turn (or thumb alternating with
-fingers) give an even string of clicks — the dense rhythms of Spanish dance depend on it.
-
-## Timbre, and how to hear it
-
-Four cues:
-
-1. **Crisp, woody, slightly penetrating** — the cavity makes it louder than solid
-   [[instrument:claves|claves]].
-2. **Mostly high frequency**, so it is heard in a band without being harsh.
-3. **A short but audible tail**, a little longer than claves.
-4. **Hand shape matters enormously** — unlike drums or gongs, **the player's hand is at once the stand, the
-   control and the damper**.
+Unpitched, so no range. What changes is hand shape and stroke: a single stroke is clear, a double is two quick clicks, the thumb is duller and lower, the fingers brighter and higher. The hard part is the carretilla, five fingers falling in turn for an even roll, which is what the dense rhythms of Spanish dance are built on. The player dances at the same time, so the hand moves while the body does; few percussion instruments demand that.
 
 ```audiolab
 {"type":"instrument","drum":75,"synth":"perc","phrase":[75,75,75,75,75,75],"label":"响板的连续击奏：西班牙响板的典型节奏","label_en":"A castanet roll — the sound of Spanish dance music","hint":"注意清脆的木质感 —— 通用音色表里没有响板，这里借敲击棒音色近似","hint_en":"Hear the crisp wooden click. General MIDI has no castanets, so a claves sample stands in."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI percussion channel has **no castanets**. A **claves** sample plays
-> above — also hardwood on hardwood, but **castanets are louder and ring longer because of the cavity.**
+## From the Mediterranean to the opera house
 
-## Playing techniques
-
-- **A pair per hand** is the Spanish tradition; both hands may hold pairs (four shells).
-- **Carretilla**: the five-stroke roll by fingers in sequence.
-- **Danced while played**: in Spanish dance the castanets coordinate with footwork and body movement, so the
-  player must **move and control hand shape at once** — far harder than playing seated.
-- **In the orchestra** they appear mostly in Spanish or exotic passages, played standing by a percussionist or
-  a dancer.
-
-## The family
-
-| Instrument | Material | Shape | Colour |
-|---|---|---|---|
-| **Castanets** | hardwood | **hollowed shell** | crisp, with a short ring |
-| [[instrument:claves\|Claves]] | hardwood | **solid cylinder** | dry, short, blunt |
-| [[instrument:woodblock\|Woodblock]] | hardwood | **hollowed block** | dry, short, more pitched |
-| [[instrument:cymbals\|Cymbals]] | alloy | round sheet | broadband noise |
-
-**The first three share almost the same material** (hardwood); everything depends on **shape** — the tightest
-"shape decides colour" set on this site.
-
-## History
-
-| Period | State |
-|---|---|
-| Antiquity | the Mediterranean **krotala** (clay or wooden clappers) is a distant ancestor; similar instruments appear worldwide |
-| Medieval–Renaissance | wooden clappers appear in Europe for dance accompaniment |
-| 18th–19th c. | Spain develops the **paired hold** and the roll technique; they become central to flamenco and Spanish classical music |
-| 19th c. | enters the orchestra, mostly for Spanish or "exotic" scenes (as in **Carmen**) |
-| 20th c. onward | used in both Spanish tradition and the modern orchestra, and in popular music |
-
-## Common misconceptions
-
-- **"Castanets are just two bits of wood — simple."** The **roll** takes years, and holding a pair per hand
-  while dancing is genuinely demanding.
-- **"They are the same instrument as claves."** Similar material but **different shape** (hollowed versus
-  solid) → different colour, ring and use.
-- **"They have pitch."** Unpitched. Different striking spots change colour but do not form a scale.
-- **"They are only used in Spanish music."** Orchestral music on Spanish subjects and some popular music use
-  them too.
-- **"Any grip will do."** Hand shape (gap size, position) directly decides the sound — a classic case of
-  **the hand being part of the instrument**.
-
-## Next
-
-Two more small hardwood percussion pieces follow: the [[instrument:claves|claves]] (solid cylinders) and the
-[[instrument:woodblock|woodblock]] (a hollowed block) — read together, "shape decides colour" is at its
-clearest.
+The krotala of the Mediterranean is a distant ancestor; medieval Europe used wooden clappers for dance; Spain settled the paired hold and the roll in the eighteenth and nineteenth centuries. The orchestra took them up for Spanish subjects, Carmen among them. Flamenco, Spanish classical music and pop arranging still use them, and on an orchestral stage they mostly spell one word: Spain. They entered the orchestra through dance rather than symphonic writing, and a score often says only castanets, leaving the rhythm to the player.
 :::

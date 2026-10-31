@@ -47,13 +47,13 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 键盘（自由簧支系）· 同时是**世界乐器** |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，手风琴不在其中 |
 
-> ⚠️ **一个概念上的要点**：**"力度从哪来"，在这三件自由簧乐器上是三个不同的答案。**
-> - [[instrument:organ|管风琴]]：气流由**机械鼓风** → 力度**不可控**（靠音栓与渐强箱）。
-> - [[instrument:harmonium|簧风琴]]：气流由**脚踏** → 力度**有限可控**。
-> - **手风琴**：气流由**左臂推拉** → 力度**完全可控**，而且能做出极细的渐强渐弱。
+> ⚠️ 一个概念上的要点："力度从哪来"，在这三件自由簧乐器上是三个不同的答案。
+> - [[instrument:organ|管风琴]]：气流由机械鼓风 → 力度不可控（靠音栓与渐强箱）。
+> - [[instrument:harmonium|簧风琴]]：气流由脚踏 → 力度有限可控。
+> - 手风琴：气流由左臂推拉 → 力度完全可控，而且能做出极细的渐强渐弱。
 >
-> 所以"能不能控制力度"这个问题的答案，**不在于乐器属于哪一类，而在于"谁在供气、供气的方式能不能被实时调节"**。
-> 这一条把手风琴与整个键盘组区分开来：**它是键盘乐器里动态控制最自由的一件。**
+> 所以"能不能控制力度"这个问题的答案，不在于乐器属于哪一类，而在于"谁在供气、供气的方式能不能被实时调节"。
+> 这一条把手风琴与整个键盘组区分开来：它是键盘乐器里动态控制最自由的一件。
 
 ## 结构：风箱、两套键与簧
 
@@ -108,11 +108,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **左臂同时是"供气"和"和声"的手**。左手既按键（低音与和弦），
-   也通过手臂的推拉控制风箱 —— **这是它技术上最难协调的地方**。
-2. **两套键，两种体系**。右侧旋律键有**钢琴键式**（piano accordion）与**按钮式**（button accordion）两种传统；
+1. 左臂同时是"供气"和"和声"的手。左手既按键（低音与和弦），
+   也通过手臂的推拉控制风箱 —— 这是它技术上最难协调的地方。
+2. 两套键，两种体系。右侧旋律键有钢琴键式（piano accordion）与按钮式（button accordion）两种传统；
    左侧是预设好的低音与和弦键。
-3. **推与拉的音色可以不同**。许多手风琴在推与拉时切换到不同的簧组，
+3. 推与拉的音色可以不同。许多手风琴在推与拉时切换到不同的簧组，
    所以同一个键在推和拉时音色略有差别 —— 这是它的一个特色（也被作曲家利用）。
 
 ## 力度控制：它是键盘乐器里最自由的一件
@@ -142,8 +142,8 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这也是手风琴在民间音乐里极受欢迎的原因**：
-它**一个人就能同时给出旋律、和声与动态**，而且**携带方便**（自由簧的功劳）——
+这也是手风琴在民间音乐里极受欢迎的原因：
+它一个人就能同时给出旋律、和声与动态，而且携带方便（自由簧的功劳）——
 这正好满足舞蹈伴奏与街头演出的全部需求。
 
 ## 音域
@@ -152,20 +152,20 @@ updated: 2026-09-26
 {"range":"F3–A6","common":"F3–C6","caption":"手风琴的音域（以钢琴键式常见形制为例）","caption_en":"Accordion range (a common piano-keyboard instrument)","note":"手风琴属气鸣乐器（自由簧）。常见音域约 F3–A6，视形制与键数而定；常用区 F3–C6。左侧低音与和弦键另有一组更低的音，但音域按右侧旋律键标注。"}
 ```
 
-- **约 F3–A6**（视形制），常用区 F3–C6。
-- **左侧低音键另有更低的音**，但音域通常按**右侧旋律键**标注。
-- **它的音域取决于键数**：从两三个八度的小型琴到四个八度的大型琴都有。
+- 约 F3–A6（视形制），常用区 F3–C6。
+- 左侧低音键另有更低的音，但音域通常按右侧旋律键标注。
+- 它的音域取决于键数：从两三个八度的小型琴到四个八度的大型琴都有。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **明亮、带"簧"的甜味**。它的音色比[[instrument:harmonium|簧风琴]]更亮、更外放，
+1. 明亮、带"簧"的甜味。它的音色比[[instrument:harmonium|簧风琴]]更亮、更外放，
    因为簧组调校与共鸣箱都不同。
-2. **力度层次极宽**。这是它与管风琴、簧风琴最明显的差别 ——
+2. 力度层次极宽。这是它与管风琴、簧风琴最明显的差别 ——
    它能做真正的渐强渐弱。
-3. **音头由风箱控制**。改变推拉的速度与起始方式，就能做出不同的音头 —— 从"软起"到"硬起"。
-4. **推与拉的音色可以不同**（视乐器与音栓设置）。
+3. 音头由风箱控制。改变推拉的速度与起始方式，就能做出不同的音头 —— 从"软起"到"硬起"。
+4. 推与拉的音色可以不同（视乐器与音栓设置）。
    演奏者会刻意安排乐句的推拉方向以利用这一点。
 
 ```audiolab
@@ -174,12 +174,12 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **风箱控制是核心技术**。推拉的速度、力度与方向变化构成它的整个动态语言。
-- **左手同时供气与弹和声**（这是协调难点）。
-- **两种键式**：钢琴键式（右手像弹钢琴）与按钮式（更适合快速与远距离跳进，在东欧与俄罗斯常见）。
-- **换向（bellows change）**：推与拉的切换可以在乐句中进行，
+- 风箱控制是核心技术。推拉的速度、力度与方向变化构成它的整个动态语言。
+- 左手同时供气与弹和声（这是协调难点）。
+- 两种键式：钢琴键式（右手像弹钢琴）与按钮式（更适合快速与远距离跳进，在东欧与俄罗斯常见）。
+- 换向（bellows change）：推与拉的切换可以在乐句中进行，
   熟练的演奏者让它几乎听不出来；也可以刻意利用它做音色变化。
-- **抖风箱（bellows shake）**：快速推拉制造颤音与节奏效果 —— 现代与民间演奏都常用。
+- 抖风箱（bellows shake）：快速推拉制造颤音与节奏效果 —— 现代与民间演奏都常用。
 
 ## 家族与近亲
 
@@ -190,8 +190,8 @@ updated: 2026-09-26
 | **手风琴** | 自由簧 | **左臂手动** | **完全可控** | **便携** |
 | [[instrument:harmonica\|口琴]] | 自由簧 | **嘴吹吸** | 可控 | **可放进口袋** |
 
-**从这张表往下看，"便携性"逐步提升，"音域与音量"逐步下降** ——
-这是一条清晰的工程取舍链：**自由簧让乐器变小，供气方式决定它的表现力与便携度的平衡。**
+从这张表往下看，"便携性"逐步提升，"音域与音量"逐步下降 ——
+这是一条清晰的工程取舍链：自由簧让乐器变小，供气方式决定它的表现力与便携度的平衡。
 
 ## 历史演变
 
@@ -203,29 +203,30 @@ updated: 2026-09-26
 | 20 世纪 | 在俄罗斯、东欧、法国、南美与中国都发展出独特传统；也有古典作品为它而写 |
 | 20 世纪后期至今 | 民间、流行、影视配乐的常用乐器；按键式体系分化为多种地方标准 |
 
-**它有一条很有意思的传播史**：
-它的原理源头之一是**中国的笙**（18 世纪传入欧洲），
-而它后来又在**探戈、卡津音乐、俄罗斯民谣与中国民间音乐**里各自开花 ——
-**一件乐器的"血统"与它的"国籍"常常是两回事。**
+它有一条很有意思的传播史：
+它的原理源头之一是中国的笙（18 世纪传入欧洲），
+而它后来又在探戈、卡津音乐、俄罗斯民谣与中国民间音乐里各自开花 ——
+一件乐器的"血统"与它的"国籍"常常是两回事。
 
 ## 常见误解
 
-- **"手风琴是儿童乐器。"** 它有完整的古典与民间曲目，
+- "手风琴是儿童乐器。" 它有完整的古典与民间曲目，
   在探戈、卡津音乐与东欧民谣里是核心乐器，技术难度极高。
-- **"它只能伴奏。"** 它的右手是完整的旋律键盘，左手是和声，
+- "它只能伴奏。" 它的右手是完整的旋律键盘，左手是和声，
   一个人可以独立演奏完整的作品。
-- **"它和簧风琴是一回事。"** 同为自由簧，但**供气方式不同**（手动 vs 脚踏），
-  因此**力度控制能力差别很大**。
-- **"它的音色就是"手风琴味"。"** 音栓与簧组配置不同，
+- "它和簧风琴是一回事。" 同为自由簧，但供气方式不同（手动 vs 脚踏），
+  因此力度控制能力差别很大。
+- "它的音色就是"手风琴味"。" 音栓与簧组配置不同，
   音色可以从"单簧的干净"到"多簧的浓厚"，差别相当大。
-- **"它只能演奏民间音乐。"** 20 世纪以来有大量古典与当代作品为它写作，
+- "它只能演奏民间音乐。" 20 世纪以来有大量古典与当代作品为它写作，
   也有专门的国际比赛与独奏传统。
 
 ## 下一步
 
 自由簧一族只剩 [[instrument:harmonica|口琴]] ——
-它把"便携"推到极致：**供气方式从"手臂"变成了"呼吸"**。
+它把"便携"推到极致：供气方式从"手臂"变成了"呼吸"。
 三件放在一起，就构成"同一原理、三种送气方式、三种表现力"的完整对照。
+
 :::
 
 ::: en
@@ -245,14 +246,14 @@ control is **finer than an organ's and more flexible than a harmonium's.**
 
 > ⚠️ **One conceptual point**: **"where does the dynamics come from?" has three different answers among these
 > aerophones.**
-> - [[instrument:organ|Organ]]: air from a **mechanical blower** → dynamics **not controllable** (stops and a
+> - [[instrument:organ|Organ]]: air from a mechanical blower → dynamics not controllable (stops and a
 >   swell box instead).
-> - [[instrument:harmonium|Harmonium]]: air from the **foot** → **limited** dynamic control.
-> - **Accordion**: air from **the left arm** → dynamics **fully controllable**, down to very fine crescendos.
+> - [[instrument:harmonium|Harmonium]]: air from the foot → limited dynamic control.
+> - Accordion: air from the left arm → dynamics fully controllable, down to very fine crescendos.
 >
 > So "can it control dynamics" is decided not by the instrument's class but by **who supplies the air and
 > whether that supply can be adjusted in real time** — which is what sets the accordion apart from the rest of
-> the keyboard group: **it has the freest dynamic control of any keyboard instrument.**
+> the keyboard group: it has the freest dynamic control of any keyboard instrument.
 
 ## Structure: bellows, two sets of keys, reeds
 
@@ -307,11 +308,11 @@ control is **finer than an organ's and more flexible than a harmonium's.**
 
 Three points:
 
-1. **The left arm supplies air **and** plays harmony.** It works the bellows while also pressing bass and chord
-   keys — **the hardest coordination in the instrument**.
-2. **Two key sets, two traditions.** The melody side is either a **piano keyboard** or **buttons** (two distinct
+1. The left arm supplies air and plays harmony. It works the bellows while also pressing bass and chord
+   keys — the hardest coordination in the instrument.
+2. Two key sets, two traditions. The melody side is either a piano keyboard or buttons (two distinct
    traditions); the left side holds preset bass and chord keys.
-3. **Push and pull can differ in colour.** Many instruments switch reed sets between directions, so the same key
+3. Push and pull can differ in colour. Many instruments switch reed sets between directions, so the same key
    sounds slightly different pushed and pulled — a feature composers exploit.
 
 ## Dynamic control: the freest in the keyboard group
@@ -341,8 +342,8 @@ Three points:
 </svg>
 ```
 
-**That is also why the accordion is so popular in folk music**: **one person can supply melody, harmony and
-dynamics**, and it is **portable** (thanks to the free reed) — exactly what dance accompaniment and street
+That is also why the accordion is so popular in folk music: **one person can supply melody, harmony and
+dynamics, and it is portable** (thanks to the free reed) — exactly what dance accompaniment and street
 performance require.
 
 ## Range
@@ -351,20 +352,20 @@ performance require.
 {"range":"F3–A6","common":"F3–C6","caption":"手风琴的音域（以钢琴键式常见形制为例）","caption_en":"Accordion range (a common piano-keyboard instrument)","note":"手风琴属气鸣乐器（自由簧）。常见音域约 F3–A6，视形制与键数而定；常用区 F3–C6。左侧低音与和弦键另有一组更低的音，但音域按右侧旋律键标注。"}
 ```
 
-- **About F3–A6** depending on the instrument; working register F3–C6.
-- **The left-hand bass keys reach lower**, but the range is normally given for the right-hand melody keys.
-- **Range follows key count**: from small instruments of two or three octaves to large ones of four.
+- About F3–A6 depending on the instrument; working register F3–C6.
+- The left-hand bass keys reach lower, but the range is normally given for the right-hand melody keys.
+- Range follows key count: from small instruments of two or three octaves to large ones of four.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Bright, with a reedy sweetness** — more outgoing and brighter than a [[instrument:harmonium|harmonium]],
+1. Bright, with a reedy sweetness — more outgoing and brighter than a [[instrument:harmonium|harmonium]],
    since reed voicing and resonator design differ.
-2. **A very wide dynamic range** — the clearest difference from an organ or harmonium: it makes real crescendos.
-3. **The attack comes from the bellows.** Changing how fast you start moving them gives anything from a soft to
+2. A very wide dynamic range — the clearest difference from an organ or harmonium: it makes real crescendos.
+3. The attack comes from the bellows. Changing how fast you start moving them gives anything from a soft to
    a hard onset.
-4. **Push and pull can differ in colour** (depending on instrument and stop settings); players deliberately
+4. Push and pull can differ in colour (depending on instrument and stop settings); players deliberately
    choose phrase directions to exploit it.
 
 ```audiolab
@@ -373,13 +374,13 @@ Four cues:
 
 ## Playing techniques
 
-- **Bellows control is the core technique**: the speed, force and direction of the push and pull make up its
+- Bellows control is the core technique: the speed, force and direction of the push and pull make up its
   entire dynamic language.
-- **Air and harmony** — the coordination challenge.
-- **Two keyboard systems**: piano-key (right hand plays as on a piano) and button (better for fast and wide
+- Air and harmony — the coordination challenge.
+- Two keyboard systems: piano-key (right hand plays as on a piano) and button (better for fast and wide
   leaps; common in Eastern Europe and Russia).
-- **Bellows changes** can happen mid-phrase; a skilled player hides them, or deliberately uses them for colour.
-- **Bellows shake**: rapid push-pull produces tremolo and rhythmic effects, used in both folk and modern
+- Bellows changes can happen mid-phrase; a skilled player hides them, or deliberately uses them for colour.
+- Bellows shake: rapid push-pull produces tremolo and rhythmic effects, used in both folk and modern
   playing.
 
 ## The family
@@ -391,7 +392,7 @@ Four cues:
 | **Accordion** | free reeds | **left arm** | **full** | **portable** |
 | [[instrument:harmonica\|Harmonica]] | free reeds | **breath** | controllable | **pocket-sized** |
 
-**Reading down this table, portability rises while range and volume fall** — a clear engineering trade-off
+Reading down this table, portability rises while range and volume fall — a clear engineering trade-off
 chain: **the free reed makes instruments small, and the way air is supplied balances expression against
 portability.**
 
@@ -405,27 +406,27 @@ portability.**
 | 20th c. | develops unique traditions in Russia, Eastern Europe, France, South America and China; classical works are also written for it |
 | Late 20th c. onward | a common instrument in folk, pop and film music; keyboard systems diverge into several local standards |
 
-**It has an interesting transmission history**: one of its ancestral principles is the **Chinese sheng** (which
+It has an interesting transmission history: one of its ancestral principles is the Chinese sheng (which
 reached Europe in the 18th century), and the accordion later blossomed separately in **tango, Cajun music,
-Russian folk and Chinese folk music** — **an instrument's ancestry and its "nationality" are often two
+Russian folk and Chinese folk music — an instrument's ancestry and its "nationality" are often two
 different things.**
 
 ## Common misconceptions
 
-- **"The accordion is a children's instrument."** It has a full classical and folk repertoire, is central to
+- "The accordion is a children's instrument." It has a full classical and folk repertoire, is central to
   tango, Cajun and Eastern European music, and demands considerable technique.
-- **"It can only accompany."** The right hand is a complete melody keyboard and the left supplies harmony — one
+- "It can only accompany." The right hand is a complete melody keyboard and the left supplies harmony — one
   player can perform a whole work.
-- **"It is the same as a harmonium."** Both use free reeds, but **the air supply differs** (hand versus foot), so
-  **dynamic control differs greatly**.
-- **"It has one accordion sound."** Stop and reed configurations vary widely, from a clean single reed to a thick
+- "It is the same as a harmonium." Both use free reeds, but the air supply differs (hand versus foot), so
+  dynamic control differs greatly.
+- "It has one accordion sound." Stop and reed configurations vary widely, from a clean single reed to a thick
   multi-reed chorus.
-- **"It only plays folk music."** Since the 20th century much classical and contemporary music has been written
+- "It only plays folk music." Since the 20th century much classical and contemporary music has been written
   for it, with international competitions and a solo tradition.
 
 ## Next
 
 One free-reed entry remains: the [[instrument:harmonica|harmonica]] — which takes portability to its limit,
-changing the air supply from **an arm to breath**. The three together form a complete comparison of "**one
+changing the air supply from an arm to breath. The three together form a complete comparison of "**one
 principle, three ways of supplying air, three expressive ranges**".
 :::

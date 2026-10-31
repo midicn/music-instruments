@@ -40,20 +40,20 @@ updated: 2026-09-26
 游行要走、舞会要转、给独唱伴奏时要站在歌手旁边 ——
 而管风琴是当时**少数能无限延长一个音**的乐器。
 
-> ⚠️ **管风琴的三样东西，全都建立在"管子"上**
-> 音域靠**管子长度**，音量靠**管子数量与风压**，音色靠**管子的设计**。
-> 而管子是**有体积、有重量**的。
+> ⚠️ 管风琴的三样东西，全都建立在"管子"上
+> 音域靠管子长度，音量靠管子数量与风压，音色靠管子的设计。
+> 而管子是有体积、有重量的。
 >
 > 所以"便携"这件事只能从这三项里扣：
 >
 > | 扣掉什么 | 后果 |
 > |---|---|
-> | 长管子（低音管） | **音域窄** —— 只剩中高音区 |
-> | 多排管子 + 高风压 | **音量小**，而且只能一组音色 |
-> | 机械鼓风 | **必须空出一只手来打气** |
+> | 长管子（低音管） | 音域窄 —— 只剩中高音区 |
+> | 多排管子 + 高风压 | 音量小，而且只能一组音色 |
+> | 机械鼓风 | 必须空出一只手来打气 |
 >
-> 最后一项的连锁后果最狠：**一只手在打气，就只剩一只手按键**
-> —— 于是它**弹不了复调**，只能一条线。
+> 最后一项的连锁后果最狠：一只手在打气，就只剩一只手按键
+> —— 于是它弹不了复调，只能一条线。
 > 这正是它和大管风琴最本质的差别。
 
 | 分类 | 归属 |
@@ -117,11 +117,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **音管明显短**。低音要长管，长管又长又重 —— **便携的第一步就是砍掉低音**。
+1. 音管明显短。低音要长管，长管又长又重 —— 便携的第一步就是砍掉低音。
    所以它的音域从中音区才开始。
-2. **键盘比大管风琴小得多**，而且**没有脚踏键盘** ——
+2. 键盘比大管风琴小得多，而且没有脚踏键盘 ——
    大管风琴的低音与独立声部很大程度上靠脚，这一项整块消失。
-3. **风箱由演奏者自己操作**。这是它和大管风琴最根本的分工差别：
+3. 风箱由演奏者自己操作。这是它和大管风琴最根本的分工差别：
    **大管风琴的"呼吸"由机械负责，演奏者全部精力都在音乐上；
    便携版的呼吸是演奏者身体的一部分。**
 
@@ -160,11 +160,11 @@ updated: 2026-09-26
 </svg>
 ```
 
-**注意右边这一列**：大管风琴多出来的三样东西（长音管 · 多排音管 · 机械鼓风）**全部是重量**。
-便携版把这"三份重量"一起砍掉，换到的就是**能抱在怀里走**。
+注意右边这一列：大管风琴多出来的三样东西（长音管 · 多排音管 · 机械鼓风）全部是重量。
+便携版把这"三份重量"一起砍掉，换到的就是能抱在怀里走。
 
-**而砍掉的每一项都对应一项能力的丧失**：
-**低音 · 音量 · 复调**。这不是"做得差"，是**同一件事的记账方式**。
+而砍掉的每一项都对应一项能力的丧失：
+低音 · 音量 · 复调。这不是"做得差"，是同一件事的记账方式。
 
 ## 音域
 
@@ -172,20 +172,20 @@ updated: 2026-09-26
 {"range":"C3–C6","common":"C4–C5","caption":"便携管风琴的音域（常见形制）","caption_en":"Portative organ range (a common instrument)","note":"便携管风琴属气鸣乐器（音管 + 键盘 + 手操作风箱）。约 C3–C6，多数形制只有两到三个八度 —— 低音管太长太重，便携的第一步就是砍掉低音。常用区 C4–C5，正适合陪一条人声旋律。记谱即实音。"}
 ```
 
-- **约 C3–C6**，多数形制只有**两到三个八度**。
-- **低音是最先被牺牲的**：低音管又长又重，和"抱得动"直接冲突。
-- **常用区 C4–C5** —— 这一带正好是**人声的旋律音区**，
+- 约 C3–C6，多数形制只有两到三个八度。
+- 低音是最先被牺牲的：低音管又长又重，和"抱得动"直接冲突。
+- 常用区 C4–C5 —— 这一带正好是人声的旋律音区，
   所以它陪唱时几乎是"贴着歌声走"。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **薄、小、靠前**。管短 + 风量小 → 没有大管风琴那种"体量"。
-2. **音一旦发出就不衰减** —— 这是管风琴族的共同点，也是它最不可替代的长处。
-3. **气息是"活的"**。手一慢，气压就掉，音会**轻微下沉或发抖** ——
+1. 薄、小、靠前。管短 + 风量小 → 没有大管风琴那种"体量"。
+2. 音一旦发出就不衰减 —— 这是管风琴族的共同点，也是它最不可替代的长处。
+3. 气息是"活的"。手一慢，气压就掉，音会轻微下沉或发抖 ——
    这不被看作缺陷，反而是这件乐器最有人味的特征。
-4. **只有一种音色**。没有音栓可换，所以它不能像大管风琴那样"一件乐器当一支乐队用"。
+4. 只有一种音色。没有音栓可换，所以它不能像大管风琴那样"一件乐器当一支乐队用"。
 
 ```audiolab
 {"type":"instrument","gm":"Church Organ","synth":"blown","phrase":["C4","E4","G4","C5","E5","C6"],"label":"便携管风琴的常用区：C4 到 C6","label_en":"The portative organ's working register — C4 up to C6","hint":"注意音不衰减的持续感 —— 通用音色表里只有大管风琴的采样，它比真实的便携管风琴厚重得多","hint_en":"Notice the sustain that never decays. General MIDI only offers a large church organ, far heavier than a real portative."}
@@ -193,13 +193,13 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **左手一直在动**。打气的节奏就是这件乐器的"呼吸"——
+- 左手一直在动。打气的节奏就是这件乐器的"呼吸"——
   长音要保持气压，短句可以借一口气的余压。
-- **右手只弹一条线**。没有第二只手、也没有脚，
-  所以**复调在这里不是难，而是不可能**。
-- **常站着或走着演奏**。抱在身前或挎在肩上，可以边走边奏。
-- **音准要顾**。管子短、风压不稳，音高比大管风琴更容易飘。
-- **它是伴奏乐器**。陪舞、陪唱、给音高；独奏文献很少。
+- 右手只弹一条线。没有第二只手、也没有脚，
+  所以复调在这里不是难，而是不可能。
+- 常站着或走着演奏。抱在身前或挎在肩上，可以边走边奏。
+- 音准要顾。管子短、风压不稳，音高比大管风琴更容易飘。
+- 它是伴奏乐器。陪舞、陪唱、给音高；独奏文献很少。
 
 ## 家族与近亲
 
@@ -211,7 +211,7 @@ updated: 2026-09-26
 | 台面管风琴（positive） | 演奏者或助手（脚踏 / 手压） | 放在桌上 · 不移动 | 较宽 |
 | [[instrument:organ\|大管风琴]] | **机械（风箱 / 电动）** | 固定建筑 | 最宽 |
 
-**再提醒一次三个容易混的名字** —— 它们的区别**不在外观，在发声体**：
+再提醒一次三个容易混的名字 —— 它们的区别不在外观，在发声体：
 
 | 名字 | 发声体 | 鼓风 / 驱动 | 关键区别 |
 |---|---|---|---|
@@ -220,9 +220,9 @@ updated: 2026-09-26
 | 手摇管风琴（街头） | 音管内的空气柱 | 摇柄驱动气泵 + **打孔纸卷决定音高** | **自动演奏，不需要演奏技巧** |
 | [[instrument:harmonium\|簧风琴]] | **自由簧** | 脚踏风箱 | 气鸣，但发声体是簧不是管 |
 
-**"手摇风琴"这个中文名对应两个完全不同的东西**：
-一个是**弦鸣**（hurdy-gurdy），一个是**气鸣且自动**（街头管风琴）。
-**判断标准只有一条：什么在振动。**
+"手摇风琴"这个中文名对应两个完全不同的东西：
+一个是弦鸣（hurdy-gurdy），一个是气鸣且自动（街头管风琴）。
+判断标准只有一条：什么在振动。
 
 ## 历史演变
 
@@ -235,34 +235,35 @@ updated: 2026-09-26
 | 18—19 世纪 | 基本退出使用；被**簧风琴**与后来的**手风琴**在"便携键盘"这个位置接替 |
 | 20 世纪 | **古乐运动**复原；今天有专门制作者按图像资料重建 |
 
-**它被接替的方式很典型**：**自由簧**发明之后，
-同样的"随身键盘"需求可以用**更轻、更响、更便宜**的方式满足 ——
+它被接替的方式很典型：自由簧发明之后，
+同样的"随身键盘"需求可以用更轻、更响、更便宜的方式满足 ——
 [[instrument:harmonium|簧风琴]]与[[instrument:accordion|手风琴]]接过了它的位置。
-**不是它的原理被否定，而是它的实现方式被更轻的实现方式取代了。**
+不是它的原理被否定，而是它的实现方式被更轻的实现方式取代了。
 
 ## 常见误解
 
-- **"便携管风琴就是小一号的管风琴。"** 它的差别不只是大小：
-  **没有脚踏、没有音栓、一只手必须打气** —— 这三条改变了它能演奏的音乐。
-- **"它能弹复调，只是音色单薄一些。"** **弹不了**。一只手在打气，
+- "便携管风琴就是小一号的管风琴。" 它的差别不只是大小：
+  没有脚踏、没有音栓、一只手必须打气 —— 这三条改变了它能演奏的音乐。
+- "它能弹复调，只是音色单薄一些。" 弹不了。一只手在打气，
   另一只手只能弹一条线。
-- **"它和大管风琴一样，音量可以随意控制。"** 音量由**手的打气**决定，
+- "它和大管风琴一样，音量可以随意控制。" 音量由手的打气决定，
   而且是"整体"的量，不能在一句话里自由地做强弱。
-- **"手摇风琴和它是一回事。"** 完全不同的发声体：一个是**空气柱**，
-  一个是**弦**（hurdy-gurdy）；还有一种是**自动演奏**的街头乐器。
-- **"它只是玩具。"** 它在三四百年里是**真实的实用乐器** ——
+- "手摇风琴和它是一回事。" 完全不同的发声体：一个是空气柱，
+  一个是弦（hurdy-gurdy）；还有一种是自动演奏的街头乐器。
+- "它只是玩具。" 它在三四百年里是真实的实用乐器 ——
   游行、舞会、独唱伴奏都靠它。
-- **"手打气是缺点。"** 在大管风琴里它是缺点，在这里它是这件乐器的**性格**：
+- "手打气是缺点。" 在大管风琴里它是缺点，在这里它是这件乐器的性格：
   气息随人而动，正是它听起来"活"的原因。
 
 ## 下一步
 
-"能带走"这条线到这里讲了一半：**减重量，代价是低音、音量与复调。**
+"能带走"这条线到这里讲了一半：减重量，代价是低音、音量与复调。
 下一件乐器把同一个问题推得更远 ——
-[[instrument:hurdy-gurdy|手摇风琴]]**连打气都不需要了**：
+[[instrument:hurdy-gurdy|手摇风琴]]连打气都不需要了：
 摇柄一转，声音就持续不断地流出来。
-它用完全不同的物理（**擦弦**而不是**吹管**）拿到了同一个结果：
-**一个人、两只手，做出持续的音。**
+它用完全不同的物理（擦弦而不是吹管）拿到了同一个结果：
+一个人、两只手，做出持续的音。
+
 :::
 
 ::: en
@@ -273,20 +274,20 @@ Its reason to exist is plain: **the Middle Ages and Renaissance needed sustained
 Processions walk, dances turn, and singers need accompaniment standing up — and the organ was one of the few
 instruments of the time that could **hold a note indefinitely**.
 
-> ⚠️ **An organ's three qualities all rest on its pipes**
-> Range comes from **pipe length**, volume from **pipe count and wind pressure**, timbre from **pipe design**. And
-> pipes have **volume and weight**.
+> ⚠️ An organ's three qualities all rest on its pipes
+> Range comes from pipe length, volume from pipe count and wind pressure, timbre from pipe design. And
+> pipes have volume and weight.
 >
 > So "portable" can only be paid for out of those three:
 >
 > | What gets cut | Consequence |
 > |---|---|
-> | long pipes (the bass) | **narrow range** — only the upper middle survives |
-> | many ranks + high pressure | **little volume**, and only one colour |
-> | mechanical blowing | **one hand must be given up to pump** |
+> | long pipes (the bass) | narrow range — only the upper middle survives |
+> | many ranks + high pressure | little volume, and only one colour |
+> | mechanical blowing | one hand must be given up to pump |
 >
-> The last one has the harshest knock-on effect: **one hand pumping leaves only one hand to play** — so it
-> **cannot play polyphony**, only a single line. That is the most fundamental difference from a large organ.
+> The last one has the harshest knock-on effect: one hand pumping leaves only one hand to play — so it
+> cannot play polyphony, only a single line. That is the most fundamental difference from a large organ.
 
 | Classification | Value |
 |---|---|
@@ -349,11 +350,11 @@ instruments of the time that could **hold a note indefinitely**.
 
 Three points:
 
-1. **The pipes are visibly short.** A bass needs a long pipe, and long pipes are long and heavy — **cutting the bass
+1. The pipes are visibly short. A bass needs a long pipe, and long pipes are long and heavy — **cutting the bass
    is step one of going portable**. So its range begins in the middle register.
-2. **The keyboard is far smaller** and there is **no pedalboard** — the large organ gets much of its bass and its
+2. The keyboard is far smaller and there is no pedalboard — the large organ gets much of its bass and its
    independent voices from the pedals, and that whole resource is gone.
-3. **The player works the bellows.** This is the deepest division of labour between the two:
+3. The player works the bellows. This is the deepest division of labour between the two:
    **on a large organ the breathing is the machine's job and the player's whole attention is on the music; on a
    portative, the breathing is part of the player's body.**
 
@@ -392,11 +393,11 @@ Three points:
 </svg>
 ```
 
-**Note the right column**: everything the large organ has extra — long pipes, many ranks, mechanical blowing — **is
-weight**. The portative cuts all three and buys **carrying it in your arms**.
+Note the right column: everything the large organ has extra — long pipes, many ranks, mechanical blowing — **is
+weight. The portative cuts all three and buys carrying it in your arms**.
 
-**And each item cut corresponds to a lost ability**: **bass, volume, polyphony.** This is not "worse made"; it is
-**the same thing, accounted differently**.
+And each item cut corresponds to a lost ability: bass, volume, polyphony. This is not "worse made"; it is
+the same thing, accounted differently.
 
 ## Range
 
@@ -404,20 +405,20 @@ weight**. The portative cuts all three and buys **carrying it in your arms**.
 {"range":"C3–C6","common":"C4–C5","caption":"便携管风琴的音域（常见形制）","caption_en":"Portative organ range (a common instrument)","note":"便携管风琴属气鸣乐器（音管 + 键盘 + 手操作风箱）。约 C3–C6，多数形制只有两到三个八度 —— 低音管太长太重，便携的第一步就是砍掉低音。常用区 C4–C5，正适合陪一条人声旋律。记谱即实音。"}
 ```
 
-- **About C3–C6**, and most instruments have only **two to three octaves**.
-- **The bass is sacrificed first**: a bass pipe is long and heavy, in direct conflict with being carried.
-- **Working register C4–C5** — precisely where **the human voice's melody sits**, which is why it clings to a
+- About C3–C6, and most instruments have only two to three octaves.
+- The bass is sacrificed first: a bass pipe is long and heavy, in direct conflict with being carried.
+- Working register C4–C5 — precisely where the human voice's melody sits, which is why it clings to a
   sung line when accompanying.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Thin, small, forward.** Short pipes plus little wind means none of a large organ's **bulk**.
-2. **A note never decays once sounded** — shared with the whole organ family, and its irreplaceable strength.
-3. **The breathing is alive.** Slow the hand and the pressure drops; the note **sags or trembles slightly**. That
+1. Thin, small, forward. Short pipes plus little wind means none of a large organ's bulk.
+2. A note never decays once sounded — shared with the whole organ family, and its irreplaceable strength.
+3. The breathing is alive. Slow the hand and the pressure drops; the note sags or trembles slightly. That
    is not treated as a defect but as the instrument's most human trait.
-4. **One colour only.** No stops to change, so it cannot be "a whole band in one instrument" as a large organ can.
+4. One colour only. No stops to change, so it cannot be "a whole band in one instrument" as a large organ can.
 
 ```audiolab
 {"type":"instrument","gm":"Church Organ","synth":"blown","phrase":["C4","E4","G4","C5","E5","C6"],"label":"便携管风琴的常用区：C4 到 C6","label_en":"The portative organ's working register — C4 up to C6","hint":"注意音不衰减的持续感 —— 通用音色表里只有大管风琴的采样，它比真实的便携管风琴厚重得多","hint_en":"Notice the sustain that never decays. General MIDI only offers a large church organ, far heavier than a real portative."}
@@ -425,17 +426,17 @@ Four cues:
 
 ## Playing techniques
 
-- **The left hand never stops.** The pumping rhythm is the instrument's breathing — long notes need steady
+- The left hand never stops. The pumping rhythm is the instrument's breathing — long notes need steady
   pressure, short phrases can borrow the leftover air.
-- **The right hand plays one line only.** No second hand and no feet, so **polyphony here is not difficult but
+- The right hand plays one line only. No second hand and no feet, so **polyphony here is not difficult but
   impossible**.
-- **Usually played standing or walking**, held in the arms or on a strap.
-- **Intonation needs watching.** Short pipes and unsteady pressure make the pitch drift more than a large organ's.
-- **It is an accompanying instrument** — for dancing, for singing, for giving a pitch. Solo repertoire is scarce.
+- Usually played standing or walking, held in the arms or on a strap.
+- Intonation needs watching. Short pipes and unsteady pressure make the pitch drift more than a large organ's.
+- It is an accompanying instrument — for dancing, for singing, for giving a pitch. Solo repertoire is scarce.
 
 ## The family
 
-The organ family divides into three by **how it is blown**:
+The organ family divides into three by how it is blown:
 
 | Form | Blown by | Position | Range |
 |---|---|---|---|
@@ -443,7 +444,7 @@ The organ family divides into three by **how it is blown**:
 | Positive organ | player or assistant (foot/hand) | on a table · fixed | wider |
 | [[instrument:organ\|Large organ]] | **machine (bellows / electric)** | part of a building | widest |
 
-**And once more, three easily confused names** — what separates them is **what vibrates**, not what they look
+And once more, three easily confused names — what separates them is what vibrates, not what they look
 like:
 
 | Name | Vibrating body | Driven by | Key difference |
@@ -453,8 +454,8 @@ like:
 | Barrel organ (street) | air column in pipes | crank-driven pump + **a pinned barrel or paper roll sets the notes** | **automatic; no playing skill required** |
 | [[instrument:harmonium\|Harmonium]] | **free reeds** | foot bellows | an aerophone, but a reed vibrates rather than a pipe's air |
 
-**The Chinese name 手摇风琴 covers two entirely different things**: one is a **chordophone** (hurdy-gurdy), the
-other an **automatic aerophone** (barrel organ). **There is only one test: what vibrates.**
+The Chinese name 手摇风琴 covers two entirely different things: one is a chordophone (hurdy-gurdy), the
+other an automatic aerophone (barrel organ). There is only one test: what vibrates.
 
 ## History
 
@@ -467,30 +468,30 @@ other an **automatic aerophone** (barrel organ). **There is only one test: what 
 | 18th–19th c. | effectively out of use; succeeded in the "portable keyboard" slot by the **harmonium** and later the **accordion** |
 | 20th c. | **revived by the early-music movement**, with makers rebuilding it from pictorial sources |
 
-**Its replacement is a textbook case**: once the **free reed** existed, the same "keyboard you can carry" need
-could be met **more lightly, more loudly and more cheaply** — the [[instrument:harmonium|harmonium]] and
+Its replacement is a textbook case: once the free reed existed, the same "keyboard you can carry" need
+could be met more lightly, more loudly and more cheaply — the [[instrument:harmonium|harmonium]] and
 [[instrument:accordion|accordion]] took its place. **Its principle was not rejected; its implementation was
 replaced by a lighter one.**
 
 ## Common misconceptions
 
-- **"A portative organ is just a small organ."** The differences are not only size: **no pedals, no stops, and one
+- "A portative organ is just a small organ." The differences are not only size: **no pedals, no stops, and one
   hand permanently on the bellows** — and those three change what music it can play.
-- **"It can play polyphony, it just sounds thinner."** **It cannot.** One hand pumps, the other plays one line.
-- **"Its volume is as controllable as a large organ's."** Volume follows the **hand on the bellows**, and it is a
+- "It can play polyphony, it just sounds thinner." It cannot. One hand pumps, the other plays one line.
+- "Its volume is as controllable as a large organ's." Volume follows the hand on the bellows, and it is a
   single overall amount, not something you can freely shape within a phrase.
-- **"A barrel organ and a portative are the same."** Completely different vibrating bodies: one is an **air
-  column**, one is **strings** (hurdy-gurdy), and a third is **automatic** (street organ).
-- **"It is just a toy."** For three or four centuries it was **a real working instrument** — processions, dances
+- "A barrel organ and a portative are the same." Completely different vibrating bodies: one is an **air
+  column, one is strings (hurdy-gurdy), and a third is automatic** (street organ).
+- "It is just a toy." For three or four centuries it was a real working instrument — processions, dances
   and solo song all relied on it.
-- **"Hand-pumping is a drawback."** On a large organ it would be; here it is the instrument's **character**: the
+- "Hand-pumping is a drawback." On a large organ it would be; here it is the instrument's character: the
   air moves with a person, which is exactly why it sounds alive.
 
 ## Next
 
-The "carry it with you" thread is half told: **cut the weight, and pay with bass, volume and polyphony.**
+The "carry it with you" thread is half told: cut the weight, and pay with bass, volume and polyphony.
 The next instrument pushes the same question further — the [[instrument:hurdy-gurdy|hurdy-gurdy]] **does not even
 need someone to pump**: turn the crank and the sound flows out continuously. It reaches the same result through
-entirely different physics — **a rubbed string rather than a blown pipe**: **one person, two hands, a sound that
+entirely different physics — a rubbed string rather than a blown pipe: **one person, two hands, a sound that
 never stops.**
 :::

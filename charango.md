@@ -35,19 +35,19 @@ updated: 2026-10-28
 
 ## 形制：犰狳壳是共鸣箱
 
-传统琴背是一只**犰狳背甲**：拱形、轻硬，就是碗形共鸣箱。木制背板今天更常见。琴颈 12–14 品；指甲或拨片，轮指与扫弦。双弦微失谐，产生拍频，声音更厚。
+传统琴背是一只犰狳背甲：拱形、轻硬，就是碗形共鸣箱。木制背板今天更常见。琴颈 12–14 品；指甲或拨片，轮指与扫弦。双弦微失谐，产生拍频，声音更厚。
 
 ## 声音与对照
 
-高音区穿透强，既扫和弦又奏旋律，是瓦伊诺（huayno）与库埃卡（cueca）的节奏—旋律接口。音域 **E4–G6**，常用 G4–E6；回绕使这个数字只是外包络。
+高音区穿透强，既扫和弦又奏旋律，是瓦伊诺（huayno）与库埃卡（cueca）的节奏—旋律接口。音域 E4–G6，常用 G4–E6；回绕使这个数字只是外包络。
 
-它共享鲁特琴的碗形背板、曼陀林的双弦与轮指、尤克里里的回绕；但鲁特琴是木条拼板，曼陀林四组八弦且定弦一路上行，尤克里里是四根单弦。**它是重组，不是复制。**
+它共享鲁特琴的碗形背板、曼陀林的双弦与轮指、尤克里里的回绕；但鲁特琴是木条拼板，曼陀林四组八弦且定弦一路上行，尤克里里是四根单弦。它是重组，不是复制。
 
 ## 常见误解
 
-- **「查朗戈是印加古乐器。」** 它成形于西班牙弦乐器进入之后，约 18 世纪。
-- **「五组弦就是五根弦。」** 五组是五对，共十根；第三组常为 E5 与 E4 的八度对弦。
-- **「定弦当然从低到高。」** 它回绕：第 4 组 A4 低于第 3 组 E5。
+- 「查朗戈是印加古乐器。」 它成形于西班牙弦乐器进入之后，约 18 世纪。
+- 「五组弦就是五根弦。」 五组是五对，共十根；第三组常为 E5 与 E4 的八度对弦。
+- 「定弦当然从低到高。」 它回绕：第 4 组 A4 低于第 3 组 E5。
 
 ## HS 分类与听辨
 
@@ -93,9 +93,9 @@ updated: 2026-10-28
 
 ## 带走三件事
 
-1. **五组双弦、十根弦**：第三组常为八度对弦，声音厚而亮。
-2. **回绕定弦**：A4 低于 E5，和弦挤在窄音区，这是它最容易被听出的结构特征。
-3. **殖民交换的产物**：西班牙的琴身、安第斯的甲壳与定弦趣味，合成了一件新乐器。
+1. 五组双弦、十根弦：第三组常为八度对弦，声音厚而亮。
+2. 回绕定弦：A4 低于 E5，和弦挤在窄音区，这是它最容易被听出的结构特征。
+3. 殖民交换的产物：西班牙的琴身、安第斯的甲壳与定弦趣味，合成了一件新乐器。
 
 :::
 
@@ -113,15 +113,15 @@ A traditional back is one **armadillo carapace**: arched, light and hard, a bowl
 
 ## Sound and relatives
 
-High and penetrating, it strums harmony and rhythm while tremolo carries melody — the link between the two in huayno and cueca. Its range is commonly **E4–G6**, working G4–E6; because of the fold, that number is only an outer envelope.
+High and penetrating, it strums harmony and rhythm while tremolo carries melody — the link between the two in huayno and cueca. Its range is commonly E4–G6, working G4–E6; because of the fold, that number is only an outer envelope.
 
-It shares the lute's bowl back, the mandolin's double courses and tremolo, and the ukulele's re-entrant tuning; but the lute is staved, the mandolin has four courses tuned straight up, and the ukulele has four single strings. **It is a recombination, not a copy.**
+It shares the lute's bowl back, the mandolin's double courses and tremolo, and the ukulele's re-entrant tuning; but the lute is staved, the mandolin has four courses tuned straight up, and the ukulele has four single strings. It is a recombination, not a copy.
 
 ## Common misconceptions
 
-- **"It is an Inca instrument."** It formed after Spanish strings arrived, around the eighteenth century.
-- **"Five courses means five strings."** Five pairs, ten strings; the third course is often an octave pair E5 and E4.
-- **"A tuning must rise from low to high."** This one folds: the fourth-course A4 is lower than the third-course E5.
+- "It is an Inca instrument." It formed after Spanish strings arrived, around the eighteenth century.
+- "Five courses means five strings." Five pairs, ten strings; the third course is often an octave pair E5 and E4.
+- "A tuning must rise from low to high." This one folds: the fourth-course A4 is lower than the third-course E5.
 
 ## HS classification and listening
 
@@ -167,8 +167,7 @@ It shares the lute's bowl back, the mandolin's double courses and tremolo, and t
 
 ## Three things to take away
 
-1. **Five double courses, ten strings**: the third course is often an octave pair, which thickens and brightens the tone.
-2. **Re-entrant tuning**: A4 sits below E5 and the chord tones are packed tightly; this is its most audible structural trait.
-3. **A product of colonial exchange**: a Spanish body, an Andean shell and a local tuning habit became a new instrument.
-
+1. Five double courses, ten strings: the third course is often an octave pair, which thickens and brightens the tone.
+2. Re-entrant tuning: A4 sits below E5 and the chord tones are packed tightly; this is its most audible structural trait.
+3. A product of colonial exchange: a Spanish body, an Andean shell and a local tuning habit became a new instrument.
 :::

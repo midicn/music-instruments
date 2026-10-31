@@ -36,7 +36,7 @@ updated: 2026-09-26
 陶笛在所有木管里是个"异类"：**它的音高不是由管子长度决定的。**
 它是**闭腔乐器**（vessel flute）—— 一个封闭的腔体，音高由**腔体容积**与**开孔总面积**共同决定。
 
-这一条解释了它最显眼的特点：**形状可以做得千奇百怪**。因为约束它的不是"必须有多长"，
+这一条解释了它最显眼的特点：形状可以做得千奇百怪。因为约束它的不是"必须有多长"，
 而是"必须有多大容积"。
 
 | 分类 | 归属 |
@@ -46,10 +46,10 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 木管（哨嘴族 · 闭腔支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系；中国的同类乐器是埙（属土），见中国乐器部分 |
 
-> ⚠️ **一个概念上的要点**：管乐器（如[[instrument:flute|长笛]]）的音高由**有效管长**决定 ——
+> ⚠️ 一个概念上的要点：管乐器（如[[instrument:flute|长笛]]）的音高由有效管长决定 ——
 > 所以它必须是"一个长条"。
-> **闭腔乐器**（陶笛）的音高由**容积 + 开孔面积**决定 —— 所以它可以是圆的、椭圆的、动物的、星形的。
-> **判断一件气鸣乐器属于哪一类，看的是"什么在决定音高"，而不是它长什么样。**
+> 闭腔乐器（陶笛）的音高由容积 + 开孔面积决定 —— 所以它可以是圆的、椭圆的、动物的、星形的。
+> 判断一件气鸣乐器属于哪一类，看的是"什么在决定音高"，而不是它长什么样。
 > 这条判据在木管里只有两三个例外，陶笛是最典型的一个。
 
 ## 结构：一个腔，几个孔
@@ -94,11 +94,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **驱动方式与[[instrument:recorder|竖笛]]相同**（哨嘴风道 + 边棱音），
-   但**共鸣的方式不同**：一个用管，一个用腔。
-2. **音高与"开孔总面积"有关**，所以孔的大小和数量都很关键 ——
-   这也是陶笛的孔常做成**方形**（方便精确控制面积）的原因之一。
-3. **没有"管长"这个约束**，所以外形完全自由 —— 动物造型、星星造型都能做成乐器。
+1. 驱动方式与[[instrument:recorder|竖笛]]相同（哨嘴风道 + 边棱音），
+   但共鸣的方式不同：一个用管，一个用腔。
+2. 音高与"开孔总面积"有关，所以孔的大小和数量都很关键 ——
+   这也是陶笛的孔常做成方形（方便精确控制面积）的原因之一。
+3. 没有"管长"这个约束，所以外形完全自由 —— 动物造型、星星造型都能做成乐器。
 
 ## 管 vs 腔：为什么形状能自由
 
@@ -126,9 +126,9 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这条差别还带来一个音域上的后果**：闭腔乐器的音域通常**比同体积的管乐器窄** ——
+这条差别还带来一个音域上的后果：闭腔乐器的音域通常比同体积的管乐器窄 ——
 因为管内可以靠开孔不断改变有效长度，而腔体一旦定了容积，能变化的余量就有限。
-陶笛的典型音域因此只有**一个半八度左右**。
+陶笛的典型音域因此只有一个半八度左右。
 
 ## 音域
 
@@ -136,20 +136,20 @@ updated: 2026-09-26
 {"range":"A4–F6","common":"C5–C6","caption":"十二孔陶笛（中音 C 调）的音域","caption_en":"Twelve-hole C ocarina range","note":"陶笛是闭腔乐器，音域随型号差异很大；这里以常见的十二孔中音 C 调陶笛为例，约 A4–F6（一个半八度）。记谱即实音，不移调。"}
 ```
 
-- **约 A4–F6**，一个半八度 —— **比同体积的管乐器窄**，这是闭腔的代价。
-- **常用区 C5–C6**：中音区最稳，也是旋律主要活动的地方。
-- **不同型号差异极大**：从很小的哨子形陶笛（几个音）到较大的低音陶笛（一个八度多），
+- 约 A4–F6，一个半八度 —— 比同体积的管乐器窄，这是闭腔的代价。
+- 常用区 C5–C6：中音区最稳，也是旋律主要活动的地方。
+- 不同型号差异极大：从很小的哨子形陶笛（几个音）到较大的低音陶笛（一个八度多），
   尺寸与音域不成简单比例。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **圆润、清亮、带一点"哨音"**。它比[[instrument:recorder|竖笛]]更"圆"，
+1. 圆润、清亮、带一点"哨音"。它比[[instrument:recorder|竖笛]]更"圆"，
    泛音更少，接近一个近乎纯音的音色。
-2. **音域窄，所以很"统一"**。整件乐器里没有一个音区是特别暗或特别亮的。
-3. **音量小、投射弱**。它适合独奏、录音与小场合，很难在大编制里担当声部。
-4. **高音靠小孔与气息**。上方几个音需要精确的气流控制，音量也会明显变小。
+2. 音域窄，所以很"统一"。整件乐器里没有一个音区是特别暗或特别亮的。
+3. 音量小、投射弱。它适合独奏、录音与小场合，很难在大编制里担当声部。
+4. 高音靠小孔与气息。上方几个音需要精确的气流控制，音量也会明显变小。
 
 ```audiolab
 {"type":"instrument","gm":"Ocarina","synth":"blown","phrase":["C5","E5","G5","C6","E6","F6"],"label":"陶笛的常用区：C5 到 F6","label_en":"The ocarina's working register — C5 up to F6","hint":"注意音色的圆润与近乎纯音的干净 —— 闭腔乐器泛音少，所以听起来「没有棱角」","hint_en":"Hear how round and nearly pure it is — a closed vessel has few harmonics, so the sound has no edges."}
@@ -157,10 +157,10 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **指法密集**。因为音孔少、音域窄，跨音域常常要靠**交叉指法**与气息配合。
-- **半孔与滑音**。用手指在孔上滑入滑出可以得到滑音 —— 陶笛上很常用。
-- **俯吹（bending）**：靠改变吹气角度压低音高，可以得到约一个半音的滑动。
-- **持握方式多样**。十二孔陶笛常用双手十指按孔，所以它的持握姿势与竖笛差别很大。
+- 指法密集。因为音孔少、音域窄，跨音域常常要靠交叉指法与气息配合。
+- 半孔与滑音。用手指在孔上滑入滑出可以得到滑音 —— 陶笛上很常用。
+- 俯吹（bending）：靠改变吹气角度压低音高，可以得到约一个半音的滑动。
+- 持握方式多样。十二孔陶笛常用双手十指按孔，所以它的持握姿势与竖笛差别很大。
 
 ## 家族与近亲
 
@@ -171,9 +171,9 @@ updated: 2026-09-26
 | [[instrument:pan-flute\|排箫]] | 嘴唇 | 多根**闭管** | 每根管的长度 | 视管数 |
 | [[instrument:flute\|长笛]] | 嘴唇 | 管 | 有效管长 | 超过三个八度 |
 
-**注意陶笛与[[instrument:pan-flute|排箫]]都是"闭"的，但闭的方式不同**：
-陶笛闭的是**腔**（音高看容积），排箫闭的是**管**（音高看管长，且只能产生奇次泛音）。
-**"闭"这个字在这两件乐器上指的不是同一件事。**
+注意陶笛与[[instrument:pan-flute|排箫]]都是"闭"的，但闭的方式不同：
+陶笛闭的是腔（音高看容积），排箫闭的是管（音高看管长，且只能产生奇次泛音）。
+"闭"这个字在这两件乐器上指的不是同一件事。
 
 ## 历史演变
 
@@ -186,24 +186,25 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"陶笛和竖笛是一样的，只是材质不同。"** 材质不是关键 ——
-  **共鸣方式不同**：竖笛是**管**（音高看管长），陶笛是**闭腔**（音高看容积）。
-- **"陶笛是玩具。"** 它是**完整的闭腔气鸣乐器**，有明确的分类地位与成体系的指法；
+- "陶笛和竖笛是一样的，只是材质不同。" 材质不是关键 ——
+  共鸣方式不同：竖笛是管（音高看管长），陶笛是闭腔（音高看容积）。
+- "陶笛是玩具。" 它是完整的闭腔气鸣乐器，有明确的分类地位与成体系的指法；
   作为普及乐器只是它的一种使用场景。
-- **"形状做成动物会影响音准。"** 只要**容积**与**开孔面积**不受影响，外形怎么变都不影响音准 ——
+- "形状做成动物会影响音准。" 只要容积与开孔面积不受影响，外形怎么变都不影响音准 ——
   这正是闭腔乐器的特点。
-- **"它的音域和长笛差不多。"** 陶笛典型音域只有约**一个半八度**，
+- "它的音域和长笛差不多。" 陶笛典型音域只有约一个半八度，
   闭腔限制了它可变化的空间。
-- **"中国的埙就是陶笛。"** 两者**都是闭腔陶制吹奏乐器**，属同类思路，
-  但形制、指法与历史传统各自独立 —— **相似不等于同源**（见中国乐器部分）。
+- "中国的埙就是陶笛。" 两者都是闭腔陶制吹奏乐器，属同类思路，
+  但形制、指法与历史传统各自独立 —— 相似不等于同源（见中国乐器部分）。
 
 ## 下一步
 
 木管这条线的最后一条是 [[instrument:pan-flute|排箫]] ——
-它也是"闭"的，但闭的是**管**而不是腔；而且它是**世界性的乐器**，
+它也是"闭"的，但闭的是管而不是腔；而且它是世界性的乐器，
 从古希腊到安第斯山脉都有它的身影。
 
 这三件（[[instrument:recorder|竖笛]] · 陶笛 · 排箫）讲完，木管组就正式收口了。
+
 :::
 
 ::: en
@@ -211,7 +212,7 @@ The ocarina is the odd one out among woodwinds: **its pitch is not set by the le
 **closed-vessel flute** — an enclosed cavity, with pitch determined by the **volume of the cavity** and the
 **total area of the open holes**.
 
-That single fact explains its most obvious trait: **its shape can be anything.** What constrains it is not
+That single fact explains its most obvious trait: its shape can be anything. What constrains it is not
 "how long must it be" but "how large must the volume be".
 
 | Classification | Value |
@@ -221,10 +222,10 @@ That single fact explains its most obvious trait: **its shape can be anything.**
 | **Family** | Western · Woodwinds (duct family, vessel branch) |
 | **Bayin** | Not applicable — a Chinese system; the Chinese relative is the **xun** (an earth instrument), covered with Chinese instruments |
 
-> ⚠️ **One conceptual point**: a tube instrument such as the [[instrument:flute|flute]] has its pitch set by
-> **effective tube length**, so it must be a long shape. A **vessel** instrument has its pitch set by
-> **volume plus hole area**, so it can be round, oval, animal-shaped or star-shaped.
-> **To place an aerophone, ask what determines the pitch — not what it looks like.**
+> ⚠️ One conceptual point: a tube instrument such as the [[instrument:flute|flute]] has its pitch set by
+> effective tube length, so it must be a long shape. A vessel instrument has its pitch set by
+> volume plus hole area, so it can be round, oval, animal-shaped or star-shaped.
+> To place an aerophone, ask what determines the pitch — not what it looks like.
 > There are only a few exceptions in the woodwind group, and the ocarina is the classic one.
 
 ## Structure: one cavity, a few holes
@@ -269,11 +270,11 @@ That single fact explains its most obvious trait: **its shape can be anything.**
 
 Three points:
 
-1. **The drive matches the [[instrument:recorder|recorder]]** (duct plus edge), but the **resonance differs**:
+1. The drive matches the [[instrument:recorder|recorder]] (duct plus edge), but the resonance differs:
    one uses a tube, the other a vessel.
-2. **Pitch relates to the total open hole area**, so the size and number of holes matter — part of why
-   ocarina holes are often **square**, to control area precisely.
-3. **There is no "tube length" constraint**, so the body shape is entirely free — animals and stars included.
+2. Pitch relates to the total open hole area, so the size and number of holes matter — part of why
+   ocarina holes are often square, to control area precisely.
+3. There is no "tube length" constraint, so the body shape is entirely free — animals and stars included.
 
 ## Tube versus vessel: why the shape is free
 
@@ -301,9 +302,9 @@ Three points:
 </svg>
 ```
 
-**One further consequence for range**: a vessel instrument is usually **narrower in range than a tube of
+One further consequence for range: a vessel instrument is usually **narrower in range than a tube of
 similar bulk** — a tube keeps changing its effective length as holes open, while a cavity of fixed volume
-offers only limited variation. A typical ocarina therefore spans about **an octave and a half**.
+offers only limited variation. A typical ocarina therefore spans about an octave and a half.
 
 ## Range
 
@@ -311,21 +312,21 @@ offers only limited variation. A typical ocarina therefore spans about **an octa
 {"range":"A4–F6","common":"C5–C6","caption":"十二孔陶笛（中音 C 调）的音域","caption_en":"Twelve-hole C ocarina range","note":"陶笛是闭腔乐器，音域随型号差异很大；这里以常见的十二孔中音 C 调陶笛为例，约 A4–F6（一个半八度）。记谱即实音，不移调。"}
 ```
 
-- **About A4–F6**, an octave and a half — **narrower than a tube of similar bulk**, the vessel's price.
-- **The working register is C5–C6**, the steadiest part and where melodies mostly live.
-- **Different sizes vary widely**: from tiny whistle-shaped instruments with a few notes to large bass
+- About A4–F6, an octave and a half — narrower than a tube of similar bulk, the vessel's price.
+- The working register is C5–C6, the steadiest part and where melodies mostly live.
+- Different sizes vary widely: from tiny whistle-shaped instruments with a few notes to large bass
   ocarinas with a little over an octave; size and range are not simply proportional.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Round, clear, faintly whistling.** Rounder than a [[instrument:recorder|recorder]] and with fewer
+1. Round, clear, faintly whistling. Rounder than a [[instrument:recorder|recorder]] and with fewer
    harmonics — close to a near-pure tone.
-2. **One uniform colour.** A narrow range means no register is notably dark or bright.
-3. **Quiet and weakly projecting.** Good for solo, recording and small rooms; hard to give it a part in a
+2. One uniform colour. A narrow range means no register is notably dark or bright.
+3. Quiet and weakly projecting. Good for solo, recording and small rooms; hard to give it a part in a
    large ensemble.
-4. **The top comes from small holes and fine air control**, and it turns noticeably softer up there.
+4. The top comes from small holes and fine air control, and it turns noticeably softer up there.
 
 ```audiolab
 {"type":"instrument","gm":"Ocarina","synth":"blown","phrase":["C5","E5","G5","C6","E6","F6"],"label":"陶笛的常用区：C5 到 F6","label_en":"The ocarina's working register — C5 up to F6","hint":"注意音色的圆润与近乎纯音的干净 —— 闭腔乐器泛音少，所以听起来「没有棱角」","hint_en":"Hear how round and nearly pure it is — a closed vessel has few harmonics, so the sound has no edges."}
@@ -333,11 +334,11 @@ Four cues:
 
 ## Playing techniques
 
-- **Dense fingering.** With few holes and a narrow range, crossing registers often needs **cross
+- Dense fingering. With few holes and a narrow range, crossing registers often needs **cross
   fingerings** plus air control.
-- **Half-holes and slides.** Sliding a finger on and off a hole gives a glissando, much used on ocarinas.
-- **Bending**: changing the blowing angle lowers the pitch by roughly a semitone.
-- **Varied holds.** A twelve-hole ocarina is held with all ten fingers, quite unlike a recorder.
+- Half-holes and slides. Sliding a finger on and off a hole gives a glissando, much used on ocarinas.
+- Bending: changing the blowing angle lowers the pitch by roughly a semitone.
+- Varied holds. A twelve-hole ocarina is held with all ten fingers, quite unlike a recorder.
 
 ## The family
 
@@ -349,8 +350,8 @@ Four cues:
 | [[instrument:flute\|Flute]] | lips | tube | effective length | over three octaves |
 
 **Note that the ocarina and the [[instrument:pan-flute|pan flute]] are both "closed", but differently**:
-the ocarina closes a **cavity** (pitch by volume), the pan flute closes **tubes** (pitch by length, and only
-odd harmonics). **"Closed" does not mean the same thing for the two.**
+the ocarina closes a cavity (pitch by volume), the pan flute closes tubes (pitch by length, and only
+odd harmonics). "Closed" does not mean the same thing for the two.
 
 ## History
 
@@ -363,22 +364,22 @@ odd harmonics). **"Closed" does not mean the same thing for the two.**
 
 ## Common misconceptions
 
-- **"An ocarina is a recorder made of clay."** Material is not the point — the **resonance differs**: a
-  recorder is a **tube** (pitch by length), an ocarina a **closed vessel** (pitch by volume).
-- **"An ocarina is a toy."** It is a **complete closed-vessel aerophone** with a real classification and a
+- "An ocarina is a recorder made of clay." Material is not the point — the resonance differs: a
+  recorder is a tube (pitch by length), an ocarina a closed vessel (pitch by volume).
+- "An ocarina is a toy." It is a complete closed-vessel aerophone with a real classification and a
   systematic fingering; being popular is only one of its uses.
-- **"An animal shape would ruin the tuning."** As long as **volume and hole area** are unaffected, the
+- "An animal shape would ruin the tuning." As long as volume and hole area are unaffected, the
   outline can be anything — that is precisely the vessel's property.
-- **"Its range is about the same as a flute's."** A typical ocarina spans about **an octave and a half**;
+- "Its range is about the same as a flute's." A typical ocarina spans about an octave and a half;
   the vessel limits how much can vary.
-- **"The Chinese xun is an ocarina."** Both are **closed ceramic wind instruments** and share the same idea,
-  but their forms, fingerings and traditions are independent — **resemblance is not common origin** (see
+- "The Chinese xun is an ocarina." Both are closed ceramic wind instruments and share the same idea,
+  but their forms, fingerings and traditions are independent — resemblance is not common origin (see
   Chinese instruments).
 
 ## Next
 
 The last entry on this line is the [[instrument:pan-flute|pan flute]] — also "closed", but as a set of
-**tubes** rather than a cavity, and a genuinely **worldwide** instrument, from ancient Greece to the Andes.
+tubes rather than a cavity, and a genuinely worldwide instrument, from ancient Greece to the Andes.
 
 With the [[instrument:recorder|recorder]], the ocarina and the pan flute, the woodwind group closes.
 :::

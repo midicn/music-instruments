@@ -29,7 +29,7 @@ instances:
   - musicnet-000068 | 同一首四重奏的快板乐章，可与上一条对照内声部在快速织体里的"黏合"作用
 sources:
   - 琴体尺寸取通行制琴数据：琴体长 410 毫米（常见 40–42 厘米），上琴腰宽 195、腰宽 130、下琴腰宽 240 毫米
-  - 定弦 C–G–D–A（比小提琴低纯五度）与音域范围属通行乐器学常识，各版乐器词典表述一致，本文为原创表述
+  - 定弦 C–G–D–A（比小提琴低纯五度）与音域范围属通行乐器学常识，各版乐器词典表述一致
   - 「低五度需要约 21 英寸（≈534 毫米）琴体」这一比例推算依弦长—频率关系（弦长加长 1.5 倍降纯五度）与乐器学通行说法
   - 谱号用法（中音谱号为主，高把位转高音谱号）依通行记谱规范
 updated: 2026-09-25
@@ -125,7 +125,7 @@ updated: 2026-09-25
 
 弦的频率与弦长成反比：**弦长加长到 1.5 倍，音就低一个纯五度**。
 要让中提琴在声学上与「小提琴放大版」等效，琴体长应该是 356 × 1.5 ≈ **534 毫米**
-（约 21 英寸）。而实际上，它停在 **410 毫米** —— 差了近四分之一：
+（约 21 英寸）。而实际上，它停在 410 毫米 —— 差了近四分之一：
 
 ```svg
 <svg viewBox="0 0 640 356" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="按同一比例尺推算的理想中提琴尺寸 534 毫米，与市场上实际尺寸 410 毫米的对比，两者顶端对齐">
@@ -150,17 +150,17 @@ updated: 2026-09-25
 </svg>
 ```
 
-为什么不做大？**因为要夹在肩与手之间演奏**。410 毫米已经接近成年人能把琴端稳、
+为什么不做大？因为要夹在肩与手之间演奏。410 毫米已经接近成年人能把琴端稳、
 左手还能在低把位自由伸展的极限；再大 12 厘米，小提琴那套持琴方式就废了。
 
-于是中提琴走了一条妥协路线：**弦加粗、张力调高**，让短的弦也能发出低的音。代价有两条，
+于是中提琴走了一条妥协路线：弦加粗、张力调高，让短的弦也能发出低的音。代价有两条，
 都是它音色的来源：
 
-1. **C 弦天生偏弱** —— 它是一根"为了低音而被逼粗"的弦，共鸣箱对它不够大，
+1. C 弦天生偏弱 —— 它是一根"为了低音而被逼粗"的弦，共鸣箱对它不够大，
    所以中提琴的最低音不像大提琴那样有底气，而是发闷、发暗。
-2. **反应偏慢** —— 弦更粗意味着起振更慢。快速乐句里，中提琴不像小提琴那样"一点就响"。
+2. 反应偏慢 —— 弦更粗意味着起振更慢。快速乐句里，中提琴不像小提琴那样"一点就响"。
 
-换句话说：那种被形容为「鼻音」「木讷」「像蒙了一层纱」的音色，**不是音色，是尺寸**。
+说到底：那种被形容为「鼻音」「木讷」「像蒙了一层纱」的音色，不是音色，是尺寸。
 
 ## 音域
 
@@ -168,11 +168,11 @@ updated: 2026-09-25
 {"range":"C3–E6","common":"C3–C5","caption":"中提琴的音域与常用音区","caption_en":"The viola’s range and its working register","note":"中提琴是实音乐器，记谱音与实际音高相同。最低的 C3 就是 C 弦空弦，比小提琴最低的 G3 低纯五度。"}
 ```
 
-四个八度不到一点，但**它的"本钱"集中在中音区**。看音域图会发现：
+四个八度不到一点，但它的"本钱"集中在中音区。看音域图会发现：
 C3 到 C5 这一段（两个八度）是中提琴在乐队里干活的区域，再往上就进入了与
 小提琴重叠、音色又不如小提琴明亮的地方 —— 所以写得好的人不会把它往上推。
 
-谱号上有一件事值得记住：中提琴主要用**中音谱号**（alto clef）—— 五线谱的第三线是中央 C。
+谱号上有一件事值得记住：中提琴主要用中音谱号（alto clef）—— 五线谱的第三线是中央 C。
 这不是复古癖好，而是因为它的音域正好跨在低音谱号与高音谱号之间，
 用中音谱号可以避免大量加线。往上到高把位时，会临时改用[[concept:clef|高音谱号]]。
 
@@ -185,38 +185,38 @@ C3 到 C5 这一段（两个八度）是中提琴在乐队里干活的区域，�
 
 ## 音色与听辨
 
-认出中提琴，靠的是**在一个熟悉的地方听到陌生的东西**：它的音高、弓法、
+认出中提琴，靠的是在一个熟悉的地方听到陌生的东西：它的音高、弓法、
 演奏方式和[[instrument:violin|小提琴]]一模一样，但音色像被压低了一层。
 
 三条听辨线索：
 
-1. **同一段旋律，用小提琴的音区听会亮，用中提琴听会暗**。差别不在音高，
-   在**每根弦的相对分量**：中提琴的高频分音更少。
-2. **中音区的"黏合剂"**：在弦乐四重奏或管弦乐里，当内声部听起来"浑然一体、
+1. 同一段旋律，用小提琴的音区听会亮，用中提琴听会暗。差别不在音高，
+   在每根弦的相对分量：中提琴的高频分音更少。
+2. 中音区的"黏合剂"：在弦乐四重奏或管弦乐里，当内声部听起来"浑然一体、
    说不出是谁在拉"时，多半就是中提琴在起作用。这是它的本职。
-3. **C 弦的与众不同**：低音区不是浑厚，而是**略带沙哑的闷**。
+3. C 弦的与众不同：低音区不是浑厚，而是略带沙哑的闷。
    这种音色在别的弦乐器上很难找到替代品。
 
-下面这个试听件给的是四根空弦。**空弦是听音色最干净的材料** —— 没有按指、
+下面这个试听件给的是四根空弦。空弦是听音色最干净的材料 —— 没有按指、
 没有换把，只有弦与琴体本身的声音。先用合成近似（零下载）听，再点真实音色对照。
 
 ```audiolab
 {"type":"instrument","gm":"Viola","synth":"bowed","phrase":["C3","G3","D4","A4"],"label":"四根空弦：从 C 弦到 A 弦","label_en":"Four open strings — C up to A","hint":"注意最低那根 C 弦的闷与涩；它和 G 弦的音色差别比小提琴的 G/E 差别更大","hint_en":"Listen for the dull, slightly gritty low C — the gap between it and the G string is wider than on a violin."}
 ```
 
-> 本页「在库中听例子」里的曲子是**乐谱与演奏的骨架**（转写或雕版 MIDI），
+> 「在库中听例子」里的曲子是乐谱与演奏的骨架（转写或雕版 MIDI），
 > 音色由上面的试听件负责。两者听的是同一段音乐的两个不同层面。
 
 ## 演奏技法
 
-中提琴的技法与小提琴**完全同源**（同一套弓法、同一套左手技术），
-所以这里只说三件在中提琴上需要**改写**的事：
+中提琴的技法与小提琴完全同源（同一套弓法、同一套左手技术），
+所以这里只说三件在中提琴上需要改写的事：
 
-- **把位下移**：同一段音乐要落在它自己的音区里，指法与弓段分配都得重新算。
+- 把位下移：同一段音乐要落在它自己的音区里，指法与弓段分配都得重新算。
   小提琴用空弦的地方，中提琴常常要按指 —— 音色因此不那么"空"。
-- **C 弦上的高把位**：C 弦很粗、很长，高把位按指需要更大的力，
+- C 弦上的高把位：C 弦很粗、很长，高把位按指需要更大的力，
   所以中提琴手会尽量避开在 C 弦上爬高。
-- **重奏里的动态克制**：中提琴的音量在强奏时不如小提琴，在弱奏时又容易糊。
+- 重奏里的动态克制：中提琴的音量在强奏时不如小提琴，在弱奏时又容易糊。
   好的中提琴手做的事，是把内声部弹得"清楚但不抢"。
 
 技法本身（连弓、跳弓、泛音、双音、拨弦、弱音器）与小提琴一致，
@@ -234,37 +234,37 @@ C3 到 C5 这一段（两个八度）是中提琴在乐队里干活的区域，�
 | [[instrument:cello\|大提琴]] | 760 毫米 | C2 G2 D3 A3 | C2–C6 | 低音线条兼歌唱性独奏 |
 | [[instrument:double-bass\|低音提琴]] | 1,100 毫米 | E1 A1 D2 G2 | E1–G4 | 和声的地基（四度定弦） |
 
-四件里只有中提琴有「**尺寸困境**」—— 因为只有它被夹在「声学上该多大」
+四件里只有中提琴有「尺寸困境」—— 因为只有它被夹在「声学上该多大」
 与「人能撑住多大」之间。大提琴 760 毫米已经接近理想尺寸，所以它没有这个毛病；
 低音提琴则走向了另一个极端（见 [[instrument:double-bass|低音提琴]] 一节）。
 
 ## 历史演变
 
-中提琴的来历和和小提琴同时：16 世纪意大利的**维奥尔**（viol）家族被逐渐替换，
+中提琴的来历和和小提琴同时：16 世纪意大利的维奥尔（viol）家族被逐渐替换，
 弓弦乐器按音高分成了三种尺寸 —— 高音、中音、低音。中音的那件就是中提琴。
 
-它此后两百年的处境，可以用一句话概括：**工作是持续的，名字是稀薄的**。
+它此后两百年的处境，可以用一句话概括：工作是持续的，名字是稀薄的。
 它几乎是每一部弦乐四重奏、交响曲、室内乐的内声部，但 19 世纪以前，
 把它当独奏主角写的作品很少。作曲家把这个位置给大提琴（它有底气）、
 给小提琴（它有光芒），中提琴通常是那个"把空隙填上"的角色。
 
-20 世纪情况变了：**Hindemith、Bartók、Walton、Shostakovich** 这一代作曲家
+20 世纪情况变了：Hindemith、Bartók、Walton、Shostakovich 这一代作曲家
 重新发现了它 —— 先是 Hindemith 本人就是中提琴手，后来一批作品把这个音色
 从内声部推到了舞台中央。今天中提琴独奏曲目的主体是 20 世纪之后的。
 
 ## 常见误解
 
-- **"中提琴就是把小提琴放大一点的同一件乐器。"** → **一半对**。形状与工艺确实是放大的
-  （几何相似），但「放大」的幅度被人的身体限制住了 —— 它是一个**没放大到位的**设计。
+- "中提琴就是把小提琴放大一点的同一件乐器。" → 一半对。形状与工艺确实是放大的
+  （几何相似），但「放大」的幅度被人的身体限制住了 —— 它是一个没放大到位的设计。
   中提琴音色的所有问题都来自这 124 毫米的缺口。
-- **"中提琴的音域在小提琴和大提琴之间，所以只是过渡。"** → 三件的音域**大面积重叠**。
-  它们的区别不是音高，是**在这个重叠区里各有什么音色**。中提琴的独立价值在音色与角色，
+- "中提琴的音域在小提琴和大提琴之间，所以只是过渡。" → 三件的音域大面积重叠。
+  它们的区别不是音高，是在这个重叠区里各有什么音色。中提琴的独立价值在音色与角色，
   不在于补哪个空档。
-- **"中提琴总是拉伴奏，没有独奏曲。"** → 19 世纪以前确实少，但 20 世纪有一批
+- "中提琴总是拉伴奏，没有独奏曲。" → 19 世纪以前确实少，但 20 世纪有一批
   重要作品。把它当作"没有曲目的乐器"是过时的印象。
-- **"低音谱号、高音谱号，中提琴都能读很厉害。"** → 中提琴手读的主要是**中音谱号**，
+- "低音谱号、高音谱号，中提琴都能读很厉害。" → 中提琴手读的主要是中音谱号，
   不是"能读很多谱号"。用中音谱号的目的很实际：不用一堆加线。
-- **"中提琴的弦就是小提琴的弦换个调。"** → 弦的具体规格不同（更长、更粗）。
+- "中提琴的弦就是小提琴的弦换个调。" → 弦的具体规格不同（更长、更粗）。
   同一根弦装到不同的乐器上，音色与寿命都会变。
 
 ## 下一步
@@ -272,6 +272,7 @@ C3 到 C5 这一段（两个八度）是中提琴在乐队里干活的区域，�
 想继续往下走：先听 [[instrument:cello|大提琴]] —— 同为「低五度」的邻居，
 但它没有中提琴的尺寸困境，两件对照能把「尺寸 → 音色」这条因果听得很清楚；
 再回到 [[concept:timbre|音色]] 一节，把"同样的音、不同的弦"这件事接到概念上。
+
 :::
 
 ::: en
@@ -401,10 +402,10 @@ low positions; another 12 cm and the violin-style hold collapses.
 So the viola takes the compromise route: **thicker strings, raised tension**, letting short
 strings produce low notes. Two consequences follow, and both are the source of its tone:
 
-1. **The C string is inherently weak.** It is a string made artificially thick in order to be low,
+1. The C string is inherently weak. It is a string made artificially thick in order to be low,
    and the box beneath it is too small. The viola's lowest notes therefore sound dull and
    hollow rather than solid — quite unlike a cello's depth.
-2. **It responds slowly.** Thicker strings take longer to speak, so in fast passagework the viola
+2. It responds slowly. Thicker strings take longer to speak, so in fast passagework the viola
    does not "answer" the way a violin does.
 
 Put differently: what listeners call the viola's "nasal" or "veiled" tone **is not a tone colour.
@@ -416,11 +417,11 @@ It is a dimension.**
 {"range":"C3–E6","common":"C3–C5","caption":"中提琴的音域与常用音区","caption_en":"The viola’s range and its working register","note":"中提琴是实音乐器，记谱音与实际音高相同。最低的 C3 就是 C 弦空弦，比小提琴最低的 G3 低纯五度。"}
 ```
 
-A little under four octaves — but **its capital sits in the middle**. The chart shows it: C3 to C5
+A little under four octaves — but its capital sits in the middle. The chart shows it: C3 to C5
 is where a viola does its work. Above that it overlaps the violin without the violin's brightness,
 so good writing does not push it up there.
 
-One clef fact worth keeping: the viola is read mainly in **alto clef**, where the middle line of
+One clef fact worth keeping: the viola is read mainly in alto clef, where the middle line of
 the staff is middle C. That is not nostalgia — the viola's range straddles bass and treble clefs,
 and alto clef avoids piles of ledger lines. Higher passages switch to
 [[concept:clef|treble clef]].
@@ -434,16 +435,16 @@ and alto clef avoids piles of ledger lines. Higher passages switch to
 
 ## Timbre, and how to hear it
 
-You recognise a viola by **hearing something unfamiliar in a familiar place**: same pitch range,
+You recognise a viola by hearing something unfamiliar in a familiar place: same pitch range,
 same bowing, same technique as a [[instrument:violin|violin]], but the colour sits a layer lower.
 
 Three cues:
 
-1. **Bright on a violin, dark on a viola.** The difference is not pitch but **the balance of
+1. Bright on a violin, dark on a viola. The difference is not pitch but **the balance of
    overtones**: a viola simply puts less energy into the high harmonics.
-2. **The middle's glue.** When the inner parts of a quartet or orchestra sound seamless — when you
+2. The middle's glue. When the inner parts of a quartet or orchestra sound seamless — when you
    cannot say who is playing — it is usually the viola. That is the job.
-3. **That C string.** Down low it is not rich, it is **dull and slightly gritty** — a colour hard
+3. That C string. Down low it is not rich, it is dull and slightly gritty — a colour hard
    to substitute from any other bowed instrument.
 
 The player below gives the four open strings. **Open strings are the cleanest material for
@@ -454,21 +455,21 @@ first (nothing to download), then the real sampled one.
 {"type":"instrument","gm":"Viola","synth":"bowed","phrase":["C3","G3","D4","A4"],"label":"四根空弦：从 C 弦到 A 弦","label_en":"Four open strings — C up to A","hint":"注意最低那根 C 弦的闷与涩；它和 G 弦的音色差别比小提琴的 G/E 差别更大","hint_en":"Listen for the dull, slightly gritty low C — the gap between it and the G string is wider than on a violin."}
 ```
 
-> The tracks under “Listen in the library” are the **skeleton of the music** — transcription or
+> The tracks under “Listen in the library” are the skeleton of the music — transcription or
 > engraving MIDI — while timbre is handled by the player above. Two layers of the same music.
 
 ## Playing techniques
 
-The viola's technique is **entirely the violin's** — the same bowing, the same left hand. So here
-are only the three things that have to be **re-planned** on this instrument:
+The viola's technique is entirely the violin's — the same bowing, the same left hand. So here
+are only the three things that have to be re-planned on this instrument:
 
-- **Shift everything down.** Music has to be relocated into the viola's own register, and both
+- Shift everything down. Music has to be relocated into the viola's own register, and both
   fingering and bow distribution recalculated. Where a violin uses an open string, the viola often
   has to stop the note — so it sounds less "hollow".
-- **High positions on the C string.** That string is thick and long; stopping it high up demands
+- High positions on the C string. That string is thick and long; stopping it high up demands
   real force, so violists avoid climbing on it.
-- **Restraint in ensembles.** The viola cannot match a violin at fortissimo, and at pianissimo it
-  blurs. A good violist makes the inner part **clear without competing**.
+- Restraint in ensembles. The viola cannot match a violin at fortissimo, and at pianissimo it
+  blurs. A good violist makes the inner part clear without competing.
 
 The techniques themselves (legato, spiccato, harmonics, double stops, pizzicato, mute) are the
 violin's — see [[concept:articulation|articulation]] and the [[instrument:violin|violin]] entry.
@@ -485,45 +486,45 @@ and their bodies are geometrically similar:
 | [[instrument:cello\|Cello]] | 760 mm | C2 G2 D3 A3 | C2–C6 | bass line and singing solos |
 | [[instrument:double-bass\|Double bass]] | 1,100 mm | E1 A1 D2 G2 | E1–G4 | the floor of the harmony (fourths) |
 
-Only the viola has the **size problem** — because only the viola is squeezed between "how large it
+Only the viola has the size problem — because only the viola is squeezed between "how large it
 should be" and "how large a person can hold". A cello at 760 mm is already close to ideal and has
 no such trouble; the double bass goes to the opposite extreme (see [[instrument:double-bass|double bass]]).
 
 ## History
 
-The viola is as old as the violin. Through the 16th century the **viol** family gave way to bowed
+The viola is as old as the violin. Through the 16th century the viol family gave way to bowed
 instruments built at three sizes — high, middle, low — and the middle one is the viola.
 
-Its next two centuries can be summed up in one sentence: **constant work, thin reputation.**
+Its next two centuries can be summed up in one sentence: constant work, thin reputation.
 It played an inner part in practically every string quartet, symphony and chamber work, yet before
 the 19th century few composers made it the protagonist. That seat went to the cello (it has depth)
 or the violin (it has brilliance); the viola was the one that filled the gaps.
 
-The 20th century changed it. **Hindemith, Bartók, Walton and Shostakovich** rediscovered the
+The 20th century changed it. Hindemith, Bartók, Walton and Shostakovich rediscovered the
 instrument — Hindemith was himself a violist — and a body of work moved that colour from the middle
 of the texture to centre stage. Today's viola solo repertoire is largely a 20th-century and later
 story.
 
 ## Common misconceptions
 
-- **"A viola is just a scaled-up violin."** Half true. The shape and craft really are scaled
+- "A viola is just a scaled-up violin." Half true. The shape and craft really are scaled
   (geometrically similar) — but the scaling stopped early, because the player's body set the limit.
-  The viola is a design that **did not get to its intended size**, and every tonal quirk comes from
+  The viola is a design that did not get to its intended size, and every tonal quirk comes from
   those missing 124 mm.
-- **"It fills the gap between violin and cello."** The ranges **overlap heavily**. What separates
-  them is not pitch but **what colour each has in the shared register**. The viola's value is its
+- "It fills the gap between violin and cello." The ranges overlap heavily. What separates
+  them is not pitch but what colour each has in the shared register. The viola's value is its
   role and its colour, not a sonic gap-filling.
-- **"Violas only play accompaniment; there is no solo repertoire."** True before the 19th century,
+- "Violas only play accompaniment; there is no solo repertoire." True before the 19th century,
   false since. Calling it an instrument without repertoire is an outdated impression.
-- **"Violists can read anything, bass clef and treble clef alike."** Violists read mainly **alto
+- "Violists can read anything, bass clef and treble clef alike." Violists read mainly **alto
   clef** — not "all clefs". The point of alto clef is practical: fewer ledger lines.
-- **"Its strings are violin strings tuned down."** The gauges are different — longer and thicker.
+- "Its strings are violin strings tuned down." The gauges are different — longer and thicker.
   The same string on a different instrument changes both tone and lifespan.
 
 ## Next
 
 A good next step: listen to the [[instrument:cello|cello]] — the other "a fifth lower" neighbour,
 but one that escaped the size problem. Comparing the two makes the causal chain from
-**size to tone** audible. Then read [[concept:timbre|timbre]] to tie "same note, different string"
+size to tone audible. Then read [[concept:timbre|timbre]] to tie "same note, different string"
 back to the concept.
 :::

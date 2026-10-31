@@ -46,10 +46,10 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 铜管（长号族 · 低音支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，低音长号不在其中 |
 
-> ⚠️ **一个概念上的要点**：**阀门在长号上的作用与在[[instrument:trumpet|小号]]上不同。**
-> 小号用阀门**代替**滑管（全部音靠阀门组合）；长号用阀门**补充**滑管（只在滑管够不到的地方用）。
-> 所以低音长号是**两种技术并存**的一件乐器：
-> **主要靠把位，阀门只负责把低音区"补到底"。**
+> ⚠️ 一个概念上的要点：阀门在长号上的作用与在[[instrument:trumpet|小号]]上不同。
+> 小号用阀门代替滑管（全部音靠阀门组合）；长号用阀门补充滑管（只在滑管够不到的地方用）。
+> 所以低音长号是两种技术并存的一件乐器：
+> 主要靠把位，阀门只负责把低音区"补到底"。
 
 ## 结构：更粗的管 + 阀门
 
@@ -83,10 +83,10 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **管径与喇叭口都更大**。这让它在低音区的**厚度与音量**明显超过次中音长号 ——
+1. 管径与喇叭口都更大。这让它在低音区的厚度与音量明显超过次中音长号 ——
    而不只是"低几个音"。
-2. **阀门接在滑管之后**。踩下阀门会接入一段额外的管，把整个音高降低一个纯四度（F 附属管）。
-3. **两种技术共存**。把位仍是主体，阀门只在低音区使用 ——
+2. 阀门接在滑管之后。踩下阀门会接入一段额外的管，把整个音高降低一个纯四度（F 附属管）。
+3. 两种技术共存。把位仍是主体，阀门只在低音区使用 ——
    这与小号"全靠阀门"的逻辑不同。
 
 ## 阀门怎么扩展低音区
@@ -111,7 +111,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-**它与次中音长号的差别可以归纳成两条**：
+它与次中音长号的差别可以归纳成两条：
 
 | | 次中音长号 | 低音长号 |
 |---|---|---|
@@ -127,33 +127,33 @@ updated: 2026-09-26
 {"range":"B♭1–B♭4","common":"B♭1–F3","caption":"低音长号的音域","caption_en":"Bass trombone range","note":"低音长号在管弦乐里按 C 调实音记谱。音域约 B♭1–B♭4 —— 下方那段（B♭1 到 E2）需要阀门才能到达。它是长号声部的低音骨干。"}
 ```
 
-- **实音 B♭1–B♭4**，约三个八度；其中**下方的纯四度靠阀门**。
-- **常用区 B♭1–F3**：它的工作重心全在低音区。
-- **高音区（B♭4 以上）** 能吹，但音色会变薄 —— 那一段留给次中音长号。
+- 实音 B♭1–B♭4，约三个八度；其中下方的纯四度靠阀门。
+- 常用区 B♭1–F3：它的工作重心全在低音区。
+- 高音区（B♭4 以上） 能吹，但音色会变薄 —— 那一段留给次中音长号。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **比次中音长号更厚、更暗、更"沉"**。管径与喇叭口的差别直接反映在这里。
-2. **低音区极有分量**。管弦乐里它常与[[instrument:tuba|大号]]一起构成低音的"双层底"。
-3. **仍然保留长号的语言**。滑音、替用把位、弱音器 —— 这些它都有，只是低音区更慢、更重。
-4. **音量可观**。它是铜管组里少数能在极低音区保持大音量的乐器之一。
+1. 比次中音长号更厚、更暗、更"沉"。管径与喇叭口的差别直接反映在这里。
+2. 低音区极有分量。管弦乐里它常与[[instrument:tuba|大号]]一起构成低音的"双层底"。
+3. 仍然保留长号的语言。滑音、替用把位、弱音器 —— 这些它都有，只是低音区更慢、更重。
+4. 音量可观。它是铜管组里少数能在极低音区保持大音量的乐器之一。
 
 ```audiolab
 {"type":"instrument","gm":"Trombone","synth":"brass","phrase":["B♭1","B♭2","F2","B♭2","F3"],"label":"低音长号的低音区：B♭1 到 F3","label_en":"The bass trombone's low register — B♭1 up to F3","hint":"注意比次中音长号更厚更沉的音色 —— 通用音色表里没有低音长号，这里借长号音色近似","hint_en":"Hear the extra weight and depth. General MIDI has no bass trombone, so a tenor sample stands in."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）里**没有低音长号**。
-> 上面播放的是**次中音长号**音色 —— 音区接近，但**管径带来的厚度听不到。**
+> ⚠️ 关于试听：通用音色表（General MIDI）里没有低音长号。
+> 上面播放的是次中音长号音色 —— 音区接近，但管径带来的厚度听不到。
 
 ## 演奏技法
 
-- **阀门与把位的配合**是核心技艺：同一个音常有"把位方案"与"阀门方案"两种选择，
+- 阀门与把位的配合是核心技艺：同一个音常有"把位方案"与"阀门方案"两种选择，
   演奏者要按乐句与音准需要取舍。
-- **耗气量极大**。更粗的管径与更低的音区需要充沛的气流。
-- **替用把位仍然重要**，尤其在快速乐句里减少滑管的移动距离。
-- **弱音器**可用，但在极低音区效果有限。
+- 耗气量极大。更粗的管径与更低的音区需要充沛的气流。
+- 替用把位仍然重要，尤其在快速乐句里减少滑管的移动距离。
+- 弱音器可用，但在极低音区效果有限。
 
 ## 家族与近亲
 
@@ -165,8 +165,8 @@ updated: 2026-09-26
 | [[instrument:tuba\|大号]] | 四至六 | D1–F4 | 低音基础 |
 | [[instrument:euphonium\|上低音号]] | 三至四 | A1–B♭4 | 管乐团中低音 |
 
-**低音长号与[[instrument:euphonium|上低音号]]、[[instrument:tuba|大号]]共享同一段音区**，
-但三者分工清楚：**低音长号给低音线条"棱角"，上低音号给它"柔和"，大号给它"地基"。**
+低音长号与[[instrument:euphonium|上低音号]]、[[instrument:tuba|大号]]共享同一段音区，
+但三者分工清楚：低音长号给低音线条"棱角"，上低音号给它"柔和"，大号给它"地基"。
 
 ## 历史演变
 
@@ -179,12 +179,12 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"低音长号就是更大的次中音长号。"** 管径与喇叭口都不同，还有阀门 ——
-  它是**独立的乐器**，需要专门练习。
-- **"阀门是用来吹快速乐句的。"** 它的主要作用是**扩展低音区**（补齐滑管够不到的音）。
-- **"有了阀门就不需要把位了。"** 恰恰相反：**把位仍是主体**，阀门只在低音区补位。
-- **"它只是低音声部的填充。"** 它有独奏文献，也在爵士大乐队里承担实际的低音线条。
-- **"通用音色表里有它。"** General MIDI 里**没有**低音长号，只能借次中音近似（本页试听件即如此）。
+- "低音长号就是更大的次中音长号。" 管径与喇叭口都不同，还有阀门 ——
+  它是独立的乐器，需要专门练习。
+- "阀门是用来吹快速乐句的。" 它的主要作用是扩展低音区（补齐滑管够不到的音）。
+- "有了阀门就不需要把位了。" 恰恰相反：把位仍是主体，阀门只在低音区补位。
+- "它只是低音声部的填充。" 它有独奏文献，也在爵士大乐队里承担实际的低音线条。
+- "通用音色表里有它。" General MIDI 里没有低音长号，只能借次中音近似（试听件即如此）。
 
 ## 下一步
 
@@ -193,7 +193,8 @@ updated: 2026-09-26
 [[instrument:wagner-tuba|瓦格纳大号]]。
 
 前两件是"音区介于长号与大号之间"与"为行进而改造的大号"，
-最后一件则是**号嘴与管身可以分别选配**的实证 —— 值得单独看。
+最后一件则是号嘴与管身可以分别选配的实证 —— 值得单独看。
+
 :::
 
 ::: en
@@ -212,9 +213,9 @@ low enough**, and the slide cannot reach further — so a valve supplies the las
 
 > ⚠️ **One conceptual point**: **a valve does a different job on a trombone than on a
 > [[instrument:trumpet|trumpet]].** A trumpet's valves **replace** the slide (all notes come from valve
-> combinations); a trombone's valve **supplements** it (used only where the slide cannot reach).
-> So the bass trombone is an instrument where **two technologies coexist**:
-> **positions do the main work, and the valve only extends the bottom.**
+> combinations); a trombone's valve supplements it (used only where the slide cannot reach).
+> So the bass trombone is an instrument where two technologies coexist:
+> positions do the main work, and the valve only extends the bottom.
 
 ## Structure: a wider tube plus a valve
 
@@ -248,11 +249,11 @@ low enough**, and the slide cannot reach further — so a valve supplies the las
 
 Three points:
 
-1. **A wider bore and a larger bell**, giving clearly more **weight and volume** in the low register than a
+1. A wider bore and a larger bell, giving clearly more weight and volume in the low register than a
    tenor — not merely "a few notes lower".
-2. **The valve sits after the slide.** Engaging it routes air through extra tubing, lowering everything by a
+2. The valve sits after the slide. Engaging it routes air through extra tubing, lowering everything by a
    perfect fourth (the F attachment).
-3. **Two technologies coexist**: positions remain the main system, and the valve is used only down low —
+3. Two technologies coexist: positions remain the main system, and the valve is used only down low —
    unlike a trumpet, where valves do everything.
 
 ## How a valve extends the low register
@@ -277,7 +278,7 @@ Three points:
 </svg>
 ```
 
-**The differences from a tenor trombone reduce to two**:
+The differences from a tenor trombone reduce to two:
 
 | | Tenor trombone | Bass trombone |
 |---|---|---|
@@ -293,35 +294,35 @@ Three points:
 {"range":"B♭1–B♭4","common":"B♭1–F3","caption":"低音长号的音域","caption_en":"Bass trombone range","note":"低音长号在管弦乐里按 C 调实音记谱。音域约 B♭1–B♭4 —— 下方那段（B♭1 到 E2）需要阀门才能到达。它是长号声部的低音骨干。"}
 ```
 
-- **Sounding B♭1–B♭4**, about three octaves; the **lower fourth needs the valve**.
-- **The working register is B♭1–F3**: its weight is entirely low.
-- **Above B♭4** it plays, but thinner — that region belongs to the tenor.
+- Sounding B♭1–B♭4, about three octaves; the lower fourth needs the valve.
+- The working register is B♭1–F3: its weight is entirely low.
+- Above B♭4 it plays, but thinner — that region belongs to the tenor.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Thicker, darker, heavier** than a tenor trombone — the bore and bell difference showing directly.
-2. **Enormous low-register weight**; orchestras often pair it with a [[instrument:tuba|tuba]] for a double
+1. Thicker, darker, heavier than a tenor trombone — the bore and bell difference showing directly.
+2. Enormous low-register weight; orchestras often pair it with a [[instrument:tuba|tuba]] for a double
    bottom.
-3. **Still speaks the trombone's language** — glissando, alternate positions, mutes — only slower and heavier
+3. Still speaks the trombone's language — glissando, alternate positions, mutes — only slower and heavier
    down low.
-4. **Considerable volume**, one of the few brass that stays loud in the deepest register.
+4. Considerable volume, one of the few brass that stays loud in the deepest register.
 
 ```audiolab
 {"type":"instrument","gm":"Trombone","synth":"brass","phrase":["B♭1","B♭2","F2","B♭2","F3"],"label":"低音长号的低音区：B♭1 到 F3","label_en":"The bass trombone's low register — B♭1 up to F3","hint":"注意比次中音长号更厚更沉的音色 —— 通用音色表里没有低音长号，这里借长号音色近似","hint_en":"Hear the extra weight and depth. General MIDI has no bass trombone, so a tenor sample stands in."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI set has **no bass trombone**. A **tenor trombone** sample plays
-> above — the register is close, but **the extra weight of the wider bore is absent.**
+> ⚠️ On the audio: the General MIDI set has no bass trombone. A tenor trombone sample plays
+> above — the register is close, but the extra weight of the wider bore is absent.
 
 ## Playing techniques
 
-- **Coordinating valve and slide** is the core skill: many notes have both a position solution and a valve
+- Coordinating valve and slide is the core skill: many notes have both a position solution and a valve
   solution, chosen for phrasing and intonation.
-- **A very large air requirement** for a wider bore and a lower register.
-- **Alternate positions still matter**, especially to shorten slide travel in fast passages.
-- **Mutes** work, but with limited effect very low down.
+- A very large air requirement for a wider bore and a lower register.
+- Alternate positions still matter, especially to shorten slide travel in fast passages.
+- Mutes work, but with limited effect very low down.
 
 ## The family
 
@@ -348,14 +349,14 @@ foundation.**
 
 ## Common misconceptions
 
-- **"A bass trombone is a bigger tenor."** Bore, bell and valves all differ — it is a **separate instrument**
+- "A bass trombone is a bigger tenor." Bore, bell and valves all differ — it is a separate instrument
   needing its own practice.
-- **"The valve is for fast passages."** Its main job is **extending the low register** (notes the slide cannot
+- "The valve is for fast passages." Its main job is extending the low register (notes the slide cannot
   reach).
-- **"With a valve you no longer need positions."** The opposite: **positions do the main work**, and the valve
+- "With a valve you no longer need positions." The opposite: positions do the main work, and the valve
   only extends the bottom.
-- **"It merely fills in the bass."** It has a solo repertoire and carries real bass lines in jazz big bands.
-- **"General MIDI has one."** It does not; a tenor sample is the only stand-in (as on this page).
+- "It merely fills in the bass." It has a solo repertoire and carries real bass lines in jazz big bands.
+- "General MIDI has one." It does not; a tenor sample is the only stand-in (as on this page).
 
 ## Next
 
@@ -363,5 +364,5 @@ The trombone family is complete. Three brass remain: the [[instrument:euphonium|
 [[instrument:sousaphone|sousaphone]], and the [[instrument:wagner-tuba|Wagner tuba]].
 
 The first two are "a register between trombone and tuba" and "a tuba rebuilt for marching". The last is the
-proof that **mouthpiece and body can be chosen separately** — worth its own entry.
+proof that mouthpiece and body can be chosen separately — worth its own entry.
 :::

@@ -33,27 +33,19 @@ updated: 2026-09-26
 ---
 
 ::: zh
-爵士鼓组是打击乐里唯一一件"**不是一件乐器**"的乐器：
-**它是多件独立乐器被组合到一个人能同时操作的范围内**，
-而这个"组合"本身、以及"一个人用四肢同时演奏"这件事，才是它真正的定义。
 
-所以理解鼓组的关键不是"它由哪些件组成"，而是**"哪只手脚负责哪一件"**。
+## 一个人能同时够到什么
+
+鼓手坐下，右脚踩在底鼓踏板上，左脚压着踩镲，两手各一根鼓棒。这个坐姿就是鼓组的定义：把几件打击乐器收进四肢同时够得着的一圈范围里。
+
+底鼓、军鼓、嗵鼓、踩镲、吊镲，没有一件是专为鼓组造的。它们在军乐队和剧场乐队里各自干了十几年，直到有人把它们摆到一起，交给一个演奏者。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **膜鸣 + 体鸣的组合** —— 底鼓/军鼓/嗵鼓属膜鸣，镲片属体鸣 |
-| **次级类型** | 多件打击乐器由支架组合 · **一个人四肢同时演奏** · 无固定音高 |
-| **所属族** | 西洋 · 打击（组合乐器） |
-| **八音** | 不适用 —— 周代八音是中国乐器的体系，鼓组不在其中 |
-
-> ⚠️ **一个概念上的要点**：**"一件乐器"可以指"一个振源"，也可以指"一个人能同时操作的一组"。**
-> - [[instrument:sousaphone|苏萨号]]与[[instrument:wagner-tuba|瓦格纳大号]]是**部件组合**（一个振源，多个部件）。
-> - **爵士鼓组**是**乐器组合**（多个振源，由一个人操作）。
->
-> 两者都说明"乐器的边界"并不总是由物理决定，**有时是由演奏方式决定的**。
-> 鼓组之所以被当成一个整体，唯一的理由是：**它由一个人演奏。**
-
-## 构成：一套鼓由哪些件组成
+| HS 分类 | 膜鸣与体鸣的组合：底鼓、军鼓、嗵鼓属膜鸣，镲片属体鸣 |
+| 次级类型 | 多件乐器由支架组合 · 一人四肢同时演奏 · 无固定音高 |
+| 所属族 | 西洋 · 打击（组合乐器） |
+| 八音 | 不适用 —— 周代八音是中国乐器的体系，鼓组不在其中 |
 
 ```svg
 <svg viewBox="0 0 640 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="爵士鼓组的构成：底鼓在下方，军鼓在左前，嗵鼓在上方，踩镲在左侧，吊镲与叮叮镲在右上方">
@@ -87,7 +79,9 @@ updated: 2026-09-26
 </svg>
 ```
 
-## 四肢分工：它真正的"乐器学"
+图上的位置像一张家具平面图，因为它确实是按身体排的。军鼓在左前，左手才够得到反拍；踩镲在左侧，左脚要开合；嗵鼓挂在上方偏右，抬手就能落棒。左撇子鼓手会把整张图镜像一遍。
+
+## 四条肢体，四个声部
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="鼓组的四肢分工：右脚控制底鼓，左脚控制踩镲，右手负责主节奏，左手负责军鼓与变化">
@@ -121,117 +115,46 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图给出了鼓组的存在理由**：
-它的每一件单独看都不稀奇（军鼓、底鼓、镲片都是常规乐器），
-**但"一个人能同时控制四个层次"这件事，只在组合中成立。**
+右手在镲片上走一条稳定的线，左手在二、四拍打军鼓，右脚用底鼓点落点，左脚控制踩镲的开合。四个动作各有各的力度，互不干扰。击打本身不难，难的是同时。
 
-## 音域
+初学者几乎都卡在同一个阶段：手对了脚乱，脚对了手乱。这不是协调性差，是四条肢体还没有**各自独立的时间感**。把速度降到极慢，慢到每个动作都清楚，再逐步合并。
 
-爵士鼓组属于**无固定音高**乐器（其中确有几件：镲片与鼓都有相对的音高感，但都不构成音域），
-本站不为其生成音域图。它的"音高"表现在**每件鼓的调音**上：
+爵士和摇滚的差别也在这里。爵士把反拍交给军鼓，底鼓只做点缀；摇滚与放克让底鼓密集参与，甚至用双踩把密度翻倍。分工原则没变，变的是哪一层最活跃。
 
-| 件 | 调音倾向 | 结果 |
-|---|---|---|
-| **底鼓** | 松、低 | 低频的"落点" |
-| **军鼓** | 紧、脆 | 高频的"咬" |
-| **嗵鼓** | 按顺序排列（高→低） | 可做音高型的"过门跑动" |
-| **镲片** | 尺寸决定相对高低 | 由"炸"到"叮"的层次 |
+## 没有音高，只有调音
 
-**嗵鼓的排列是鼓组里唯一的"音高设计"** ——
-三个或四个嗵鼓按音高排列，让鼓手能做出"滑下来"的过门效果。
+鼓组**无固定音高**。镲片有尺寸带来的相对高低，嗵鼓也按顺序排开，但都不构成一条音域。
 
-## 音色与听辨
+真正被设计过的音高只有嗵鼓：三只或四只从高到低排开，鼓手才能在过门里做出一路滑下去的跑动。其余各件的音高来自调音 —— 底鼓松而低，军鼓紧而脆，镲片由尺寸定层次。
 
-四条线索：
+同一面军鼓，爵士里调得高而亮，摇滚里调得低而厚。调音决定这件乐器适合哪种音乐，不只是口味问题。
 
-1. **它是一个"频谱分布完整"的组合**。底鼓管最低、军鼓管中高、镲片管最高 ——
-   合起来覆盖整个频谱，所以鼓组能独自撑起一整首歌的节奏。
-2. **层次分明**。四件的声音不重叠（这也是选它们组合的原因）。
-3. **同一件在不同风格里调音不同**。爵士的军鼓调得高而亮，摇滚调得低而厚。
-4. **鼓组的声音一半在录音**。麦克风、压缩与混音对它的最终听感影响极大 ——
-   这在乐器里是相当特殊的一点。
+## 录音棚里的另一半
+
+一套鼓在房间里听起来和在唱片里听起来，差别比多数乐器都大。麦克风摆位、压缩比例、房间反射，决定了最终那一击的重量。鼓手打的是一套乐器，听到的是录音师做出来的声音。
+
+这也是它跟着录音技术演化的原因。双踩、触发器、电子打击板，都先为舞台和录音棚出现，再变成演奏技法的一部分。
 
 ```audiolab
 {"type":"instrument","drum":35,"synth":"perc","phrase":[35,42,38,42,35,42,38,49],"label":"一个基本的鼓组节奏型：底鼓与踩镲加军鼓","label_en":"A basic kit pattern — kick and hi-hat with the snare","hint":"注意四个层次如何同时进行：底鼓、踩镲、军鼓、以及它们之间的空隙","hint_en":"Hear four layers at once: kick, hi-hat, snare — and the space between them."}
 ```
 
-## 演奏技法
-
-- **四肢独立**（见上图），这是全部技法的基础。
-- **握棒法**：传统式与对称式两种，影响手腕的发力与镲片的表现。
-- **鼓刷**：抒情段常用，得到"沙沙"的柔和质感。
-- **双踩踏板**：摇滚与金属里底鼓密度加倍的技术。
-- **闷音**：用胶布、枕头或专用器材减少余音 —— 录音棚里的常规做法。
-
-## 家族与近亲
-
-| 乐器 / 组合 | 类型 | 由几人演奏 | 特征 |
-|---|---|---|---|
-| **爵士鼓组** | **多件组合** | **1 人（四肢）** | 覆盖全频谱的节奏组 |
-| [[instrument:latin-percussion\|拉丁打击组]] | 多件组合 | 通常 2–4 人 | 每件一件乐器，分工合作 |
-| [[instrument:snare-drum\|小鼓]] | 单件 | 1 人（两手） | 行进与军乐核心 |
-| [[instrument:timpani\|定音鼓]] | 一组（有音高） | 1 人（两手） | 管弦乐低频音高 |
-
-**鼓组与[[instrument:latin-percussion|拉丁打击组]]的对照很有意思**：
-两者都是"多件组合"，但一个由**一个人**用四肢操作，一个由**多个人**各持一件 ——
-**组合方式不同，音乐形态也就不同**。
-
-## 历史演变
-
-| 时期 | 状态 |
-|---|---|
-| 19 世纪末（美国） | 新奥尔良的行进乐队与剧场乐队把大鼓、小鼓、镲片放在一起，由一人兼顾 —— 鼓组的雏形 |
-| 1900—1920 年代 | **脚踏底鼓**发明 → 双手被解放出来 → 现代鼓组成型 |
-| 1920—1930 年代 | 随爵士乐普及；**踩镲**成为节奏组的核心 |
-| 1950—1960 年代 | 摇滚把它推到舞台中央；件数与尺寸按风格分化为不同配置 |
-| 1970 年代后 | 双踩、电子鼓、触发器等技术出现；录音工艺成为它声音的组成部分 |
-| 20 世纪后期至今 | 爵士、摇滚、流行、放克、金属的通用节奏组 |
-
-**"脚踏底鼓"这一个发明（1910 年代前后）是鼓组成型的转折点** ——
-它把原本需要一个人单独演奏的底鼓交给脚，于是双手可以做更多事。
-**技术上的一个小改动，改变了整个乐器的可能性。**
-
-## 常见误解
-
-- **"鼓组是一件乐器。"** 它是**多件打击乐器的组合** ——
-  之所以被视为一个整体，唯一理由是**由一个人演奏**。
-- **"鼓手只要节奏准就行。"** 鼓组的难点是**四肢独立**，以及四个层次各自的力度控制。
-- **"鼓组只是伴奏。"** 在爵士里鼓手是独奏者之一；现代作品也有大量鼓组独奏。
-- **"鼓组不需要调音。"** 每件鼓都要调音（两面鼓皮的张力关系），
-  且调音直接决定它适合哪种风格。
-- **"鼓的音色靠乐器本身。"** 鼓的声音一半来自**录音与混音** ——
-  这在乐器里相当特殊，也说明它是与录音技术一起演化的乐器。
-
-## 下一步
-
-打击批还剩 10 条：响板 · 敲击棒 · 鞭响器 · 乐砧 · 风铃 · 砂槌 · 雨棍 · 木鱼 ·
-[[instrument:latin-percussion|拉丁打击组]] · [[instrument:handpan|手碟]]。
-其中拉丁打击组是"多件组合"的另一种解法，手碟则是 2000 年才出现的新体鸣乐器。
 :::
 
 ::: en
-The drum kit is the only "instrument" in percussion that **is not one instrument**: it is **several separate
-instruments arranged within one person's reach**, and that assembly — plus the fact that **one person plays
-them with four limbs** — is its actual definition.
 
-So the key to understanding a kit is not which pieces it contains, but **which limb is responsible for
-which**.
+## How far four limbs reach
+
+A drummer sits down: right foot on the kick pedal, left foot closing the hi-hat, a stick in each hand. The posture defines the instrument — a few drums gathered inside the reach of four limbs.
+
+None of the pieces was made for the kit. Each worked for decades in marching and theatre bands before anyone stood them together for one player.
 
 | Classification | Value |
 |---|---|
-| **HS class** | **A combination of membranophones and idiophones** — kick/snare/toms are membranophones, cymbals idiophones |
-| **Sub-type** | Several percussion instruments on stands · **played by one person with four limbs** · unpitched |
-| **Family** | Western · Percussion (composite instrument) |
-| **Bayin** | Not applicable — a Chinese system; the drum kit is outside it |
-
-> ⚠️ **One conceptual point**: **"one instrument" can mean "one source", or "a set one person can operate".**
-> The [[instrument:sousaphone|sousaphone]] and the [[instrument:wagner-tuba|Wagner tuba]] are **assemblies of
-> parts** (one source, many parts). The **drum kit** is an **assembly of instruments** (many sources, one
-> player).
-> Both show that an instrument's boundary is not always physical — **sometimes it is set by how it is played.**
-> The only reason a kit counts as one thing is that **one person plays it.**
-
-## Composition: what a kit contains
+| HS class | Membranophones plus idiophones: drums are membranophones, cymbals idiophones |
+| Sub-type | Several instruments on stands · one player, four limbs · no definite pitch |
+| Family | Western · Percussion (composite) |
+| Bayin | Not applicable — a Chinese system |
 
 ```svg
 <svg viewBox="0 0 640 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Drum kit layout: kick below, snare at front left, toms above, hi-hat at left and cymbals at upper right">
@@ -265,7 +188,9 @@ which**.
 </svg>
 ```
 
-## Four limbs: its real "organology"
+The layout reads like a floor plan, drawn around a seated body. Snare front left, where the left hand reaches the backbeat; hi-hat left, for the left foot; toms high and slightly right, inside a raised arm. A left-handed player mirrors it.
+
+## Four limbs, four voices
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Limb assignment on the drum kit: right foot kick, left foot hi-hat, left hand snare, right hand the lead pattern">
@@ -299,92 +224,28 @@ which**.
 </svg>
 ```
 
-**This diagram gives the kit its reason to exist**: each piece alone is unremarkable (snare, kick, cymbals are
-all ordinary instruments), **but "one person controlling four layers at once" exists only in the assembly.**
+Right hand steady on a cymbal, left hand on the snare at two and four, right foot marking the kick, left foot working the hi-hat. Four motions, four dynamic curves, none disturbing the others.
 
-## Range
+Beginners stall in the same place: hands right, feet wrong, then the reverse. That is not poor coordination but four limbs without **independent timing**. Slow down until each motion is conscious, then join them.
 
-The kit is **unpitched** (cymbals and drums carry a relative sense of height, but no range), so no range chart
-is generated. Its "pitch" shows up in **how each drum is tuned**:
+Jazz and rock divide here too, and not by loudness. Jazz leaves the backbeat to the snare and lets the kick punctuate; rock and funk bring the kick in densely, sometimes with two pedals.
 
-| Piece | Tuning | Result |
-|---|---|---|
-| **Kick** | loose and low | a low-frequency placement |
-| **Snare** | tight and crisp | a high-frequency bite |
-| **Toms** | ordered high to low | allow pitch-like fill runs |
-| **Cymbals** | size sets relative height | a spread from crash to ping |
+## No pitch, only tuning
 
-**The toms are the kit's only "pitch design"** — three or four tuned in order let the player make a
-descending fill.
+The kit has **no definite pitch**. Cymbals differ by size, toms stand in order, but neither makes a range.
 
-## Timbre, and how to hear it
+The one designed pitch sits in the toms: three or four tuned high to low, which is how a fill slides downward. Everything else comes from tuning — a loose low kick, a tight crisp snare, cymbals graded by diameter.
 
-Four cues:
+The same snare is high and bright in jazz, low and thick in rock. Tuning decides which music suits it.
 
-1. **A complete spectrum in one set.** Kick lowest, snare middle-high, cymbals highest — together they cover
-   the whole spectrum, which is why a kit can carry a song's rhythm alone.
-2. **Clear separation**: the four do not overlap in frequency, which is why they were chosen together.
-3. **The same piece is tuned differently by style.** A jazz snare is high and bright; a rock snare low and
-   thick.
-4. **Half its sound is the recording.** Microphones, compression and mixing shape it enormously — unusual
-   among instruments, and a sign that the kit evolved alongside recording technology.
+## The other half is in the studio
+
+A kit in a room and a kit on a record differ more than most instruments do. Microphone placement, compression and the room decide the weight of one hit. The drummer plays an instrument; you hear the engineer's version.
+
+That is why the kit evolved alongside recording: double pedals, triggers and pads began as stage and studio solutions, then became technique.
 
 ```audiolab
 {"type":"instrument","drum":35,"synth":"perc","phrase":[35,42,38,42,35,42,38,49],"label":"一个基本的鼓组节奏型：底鼓与踩镲加军鼓","label_en":"A basic kit pattern — kick and hi-hat with the snare","hint":"注意四个层次如何同时进行：底鼓、踩镲、军鼓、以及它们之间的空隙","hint_en":"Hear four layers at once: kick, hi-hat, snare — and the space between them."}
 ```
 
-## Playing techniques
-
-- **Limb independence** (see the diagram) is the foundation of everything.
-- **Grip**: traditional and matched grips differ in wrist mechanics and cymbal control.
-- **Brushes** for a soft rustle, standard in lyrical jazz.
-- **Double pedals** double the kick's density in rock and metal.
-- **Damping** with tape, pillows or purpose-made devices — standard in the studio.
-
-## The family
-
-| Instrument / group | Type | Players | Feature |
-|---|---|---|---|
-| **Drum kit** | **assembly of instruments** | **1 (four limbs)** | a rhythm section covering the whole spectrum |
-| [[instrument:latin-percussion\|Latin percussion]] | assembly | usually 2–4 | one instrument each, dividing the labour |
-| [[instrument:snare-drum\|Snare drum]] | single | 1 (two hands) | marching and military core |
-| [[instrument:timpani\|Timpani]] | a set (**pitched**) | 1 (two hands) | low pitch in the orchestra |
-
-**The kit versus [[instrument:latin-percussion|Latin percussion]] is an instructive pair**: both are
-assemblies, but one is operated by **one person with four limbs** and the other by **several people each
-holding one instrument** — **different assemblies, different musical forms.**
-
-## History
-
-| Period | State |
-|---|---|
-| Late 19th c. (USA) | marching and theatre bands in New Orleans put bass drum, snare and cymbals together for one player — the kit's embryo |
-| 1900s–1920s | the **foot pedal for the bass drum** frees both hands → the modern kit forms |
-| 1920s–30s | spreads with jazz; the **hi-hat** becomes the rhythm section's core |
-| 1950s–60s | rock puts it centre stage; sizes and piece counts diverge by style |
-| After the 1970s | double pedals, electronic drums and triggers appear; recording craft becomes part of its sound |
-| Late 20th c. onward | the universal rhythm section of jazz, rock, pop, funk and metal |
-
-**The foot pedal (around the 1910s) is the turning point**: handing the bass drum to a foot freed both hands,
-and **a small technical change transformed the instrument's possibilities.**
-
-## Common misconceptions
-
-- **"A drum kit is one instrument."** It is an **assembly of percussion instruments** — counted as one only
-  because **one person plays it**.
-- **"A drummer only needs to keep time."** The difficulty is **limb independence** and shaping four layers'
-  dynamics independently.
-- **"A kit is only accompaniment."** In jazz the drummer is one of the soloists, and modern works include
-  extended kit solos.
-- **"A kit needs no tuning."** Every drum is tuned (the tension relationship between its two heads), and
-  tuning decides which styles it suits.
-- **"Its sound comes from the instrument."** Half of it comes from **recording and mixing** — unusual among
-  instruments, and evidence it evolved together with recording technology.
-
-## Next
-
-Ten percussion entries remain: castanets · claves · whip · anvil · wind chimes · maracas · rainstick ·
-woodblock · [[instrument:latin-percussion|Latin percussion]] · [[instrument:handpan|handpan]]. Latin
-percussion is another answer to "assembling several", and the handpan an idiophone that only appeared around
-2000.
 :::

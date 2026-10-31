@@ -35,21 +35,21 @@ updated: 2026-10-28
 
 ## 形制与声音：竹根、五孔、meri 与 kari
 
-一尺八寸 **54.5 厘米**、基音为 D，换管即整体移调。真竹根连根节挖通，外扩成喇叭口；正面四孔、背面一拇指孔，无笛塞与导管。顶端斜切的 **utaguchi** 是发声锐边。
+一尺八寸 54.5 厘米、基音为 D，换管即整体移调。真竹根连根节挖通，外扩成喇叭口；正面四孔、背面一拇指孔，无笛塞与导管。顶端斜切的 utaguchi 是发声锐边。
 
-同一指法，低头压唇把音往下压是 **meri**，抬头放松往上浮是 **kari**；一个孔位是一条音高带。压得越低越暗、气声越多，村息（muraiki）是表情。range 取 **C4–G6**，常用 **D4–G5**。
+同一指法，低头压唇把音往下压是 meri，抬头放松往上浮是 kari；一个孔位是一条音高带。压得越低越暗、气声越多，村息（muraiki）是表情。range 取 C4–G6，常用 D4–G5。
 
 ## 制度与近亲：虚无僧、两派、三支笛
 
-「禅」的标签来自**普化宗**与**虚无僧（komusō）**：他们吹**本曲（honkyoku）** 作修行，称**吹禅（suizen）**，以「一音成佛」为理想。江户幕府给过通行特权；**1871 年明治政府废除普化宗**，转入流派与演奏家。普化宗把起源追到唐代普化禅师，是传说；「虚无僧是幕府密探」是传说。两派是**琴古流**（十八世纪）与**都山流**（1896）；**武满彻《November Steps》（1967）** 把它带进管弦乐与跨界。
+「禅」的标签来自普化宗与虚无僧（komusō）：他们吹本曲（honkyoku） 作修行，称吹禅（suizen），以「一音成佛」为理想。江户幕府给过通行特权；1871 年明治政府废除普化宗，转入流派与演奏家。普化宗把起源追到唐代普化禅师，是传说；「虚无僧是幕府密探」是传说。两派是琴古流（十八世纪）与都山流（1896）；武满彻《November Steps》（1967） 把它带进管弦乐与跨界。
 
 奈伊笛同样是无导管端吹边棱笛，但为芦苇管、六孔加一拇指孔；西洋长笛横吹、有按键；箫是端吹竹笛，无竹根喇叭口。
 
 ## 带走三件事
 
-1. **没有吹嘴**：嘴唇、下巴与头部角度就是乐器。
-2. **meri / kari**：音高是动作，不是按键。
-3. **一音成佛**：把一个音吹完整，比吹满一串音更难。
+1. 没有吹嘴：嘴唇、下巴与头部角度就是乐器。
+2. meri / kari：音高是动作，不是按键。
+3. 一音成佛：把一个音吹完整，比吹满一串音更难。
 
 ### HS 分类
 
@@ -95,25 +95,25 @@ The shakuhachi makes the **breath** the instrument: no mouthpiece, no keys, five
 
 ## The main line: a note has to be made to stand
 
-A flute note is a **point**; a shakuhachi note is a **process** — breath first, a noisy attack, a swelling body, an ending pressed down or left open. It is not for tunes but **for making one note stand up**; a melody is a row of standings. "**Ichion jōbutsu**" (Buddhahood in one sound) is an ethic: one complete note is harder than many.
+A flute note is a **point**; a shakuhachi note is a **process** — breath first, a noisy attack, a swelling body, an ending pressed down or left open. It is not for tunes but **for making one note stand up**; a melody is a row of standings. "Ichion jōbutsu" (Buddhahood in one sound) is an ethic: one complete note is harder than many.
 
 ## Form and sound: bamboo root, five holes, meri and kari
 
-The 1.8-shaku tube is **54.5 cm** and sounds D; another length transposes it. Madake is hollowed with its root, flaring into a bell; four front holes and one rear thumb hole, no duct. The bevelled **utaguchi** is the sounding edge.
+The 1.8-shaku tube is 54.5 cm and sounds D; another length transposes it. Madake is hollowed with its root, flaring into a bell; four front holes and one rear thumb hole, no duct. The bevelled utaguchi is the sounding edge.
 
-Lowering the head pulls pitch down (**meri**); raising it lifts pitch (**kari**). A hole is a band, not a point; deeper meri is darker and breathier. The range fence gives **C4–G6**, common **D4–G5**.
+Lowering the head pulls pitch down (meri); raising it lifts pitch (kari). A hole is a band, not a point; deeper meri is darker and breathier. The range fence gives C4–G6, common D4–G5.
 
 ## Institution and relatives: komusō, two schools, three flutes
 
-The "Zen" label comes from the **Fuke-shū** and its **komusō**, who played **honkyoku** as practice, called it **suizen**, and held "one sound, Buddhahood" as an ideal. The Edo shogunate granted them passage privileges; in **1871 the Meiji government abolished the sect**. Tracing it to the Tang monk Puhua is traditional; the spy image is legend, not fact. Modern schools are **Kinko-ryū** (eighteenth century) and **Tozan-ryū** (1896); **Takemitsu's November Steps (1967)** brought the instrument into the orchestra.
+The "Zen" label comes from the Fuke-shū and its komusō, who played honkyoku as practice, called it suizen, and held "one sound, Buddhahood" as an ideal. The Edo shogunate granted them passage privileges; in 1871 the Meiji government abolished the sect. Tracing it to the Tang monk Puhua is traditional; the spy image is legend, not fact. Modern schools are Kinko-ryū (eighteenth century) and Tozan-ryū (1896); Takemitsu's November Steps (1967) brought the instrument into the orchestra.
 
-The **ney** is also an end-blown edge flute without a duct, but a reed tube with six holes plus a thumb hole. The Western flute is transverse and keyed; the **xiao** is an end-blown bamboo flute without the root bell. 
+The ney is also an end-blown edge flute without a duct, but a reed tube with six holes plus a thumb hole. The Western flute is transverse and keyed; the xiao is an end-blown bamboo flute without the root bell. 
 
 ## Three things to take away
 
-1. **No mouthpiece**: lips, chin and head angle are the instrument.
-2. **Meri and kari**: pitch is a movement, not a key.
-3. **One sound, Buddhahood**: one complete note is harder than a full phrase.
+1. No mouthpiece: lips, chin and head angle are the instrument.
+2. Meri and kari: pitch is a movement, not a key.
+3. One sound, Buddhahood: one complete note is harder than a full phrase.
 
 ### HS classification
 
@@ -150,5 +150,4 @@ The **ney** is also an end-blown edge flute without a duct, but a reed tube with
 ```audiolab
 {"type":"instrument","gm":"Shakuhachi","synth":"blown","phrase":["D4","F4","G4","A4","C5","D5","C5","A4","G4","D4"],"label":"五个孔能走多远：D4 到 D5 再回来","label_en":"How far five holes go: D4 up to D5 and back","hint":"GM 表里有 Shakuhachi，这里用采样走五声音阶。真实尺八少了 meri / kari 的连续压音、吹气噪声与句尾的「間」。","hint_en":"The GM table has a Shakuhachi patch, used for a pentatonic line. What it cannot give you: continuous meri and kari bends, breath noise that changes with register, and the ma after the phrase."}
 ```
-
 :::

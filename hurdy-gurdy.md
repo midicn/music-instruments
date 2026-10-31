@@ -37,24 +37,24 @@ updated: 2026-09-26
 手摇风琴用**完全不同的物理**，拿到了和[[instrument:portative-organ|便携管风琴]]**同一个结果**：
 **一个人、两只手，做出持续不断的音。**
 
-上一条线的关键词是"**吹**"，这一条是"**擦**"：
+上一条线的关键词是"**吹**"，这一条是"擦"：
 
-> ⚠️ **一个是把空气一直送进管子，一个是把弦一直擦响**
-> [[instrument:portative-organ|便携管风琴]]靠**一只手不停打气**维持音管发声；
-> 手摇风琴靠**一只手不停转摇柄**，让涂了松香的木轮一直摩擦琴弦。
+> ⚠️ 一个是把空气一直送进管子，一个是把弦一直擦响
+> [[instrument:portative-organ|便携管风琴]]靠一只手不停打气维持音管发声；
+> 手摇风琴靠一只手不停转摇柄，让涂了松香的木轮一直摩擦琴弦。
 >
-> 两者都是"**用身体的一个连续动作，维持一个不间断的声音**"。
-> 差别在于**这个动作把能量送给了什么**：一个是空气柱，一个是弦。
+> 两者都是"用身体的一个连续动作，维持一个不间断的声音"。
+> 差别在于这个动作把能量送给了什么：一个是空气柱，一个是弦。
 
-**而它比管风琴多做了一件事**：**同一个摇柄，同时驱动两组弦** ——
+而它比管风琴多做了一件事：同一个摇柄，同时驱动两组弦 ——
 
 | 弦组 | 怎么发声 | 结果 |
 |---|---|---|
 | **持续低音弦**（drone） | 直接贴着轮子 | **永远在响**的一条低声层 |
 | **旋律弦** | 被键盘的**推键**顶住 | 上方一条可以走动的旋律 |
 
-**所以它是极少数"一件乐器自带伴奏"的乐器** ——
-而且这个"伴奏"**不是演奏出来的，是机器般自动产生的**。
+所以它是极少数"一件乐器自带伴奏"的乐器 ——
+而且这个"伴奏"不是演奏出来的，是机器般自动产生的。
 
 | 分类 | 归属 |
 |---|---|
@@ -108,14 +108,14 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **轮子替代了弓**。它和弓做的是同一件事 —— **摩擦琴弦** ——
-   只是弓靠人的手臂来回，**轮子靠旋转**。
-   于是"换弓"这件事消失了：**摩擦从不中断**。
-2. **推键代替了手指按弦**。键盘上的每个键推出一小块木片（推键）顶住弦，
+1. 轮子替代了弓。它和弓做的是同一件事 —— 摩擦琴弦 ——
+   只是弓靠人的手臂来回，轮子靠旋转。
+   于是"换弓"这件事消失了：摩擦从不中断。
+2. 推键代替了手指按弦。键盘上的每个键推出一小块木片（推键）顶住弦，
    弦被顶住的点就是新的"有效弦长" → 音高改变。
-   **它不像指板那样需要手指压弦，所以音准稳定、也不怕手指累。**
-3. **两组弦由同一只轮子驱动**。这是它最关键的设计：
-   **低音不是"弹"出来的，而是"永远在那里"的。**
+   它不像指板那样需要手指压弦，所以音准稳定、也不怕手指累。
+3. 两组弦由同一只轮子驱动。这是它最关键的设计：
+   低音不是"弹"出来的，而是"永远在那里"的。
 
 ## 为什么它停不下来
 
@@ -145,7 +145,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图是整组"持续音"主线的收口**：
+这张图是整组"持续音"主线的收口：
 
 | 驱动力 | 时间形态 | 能停吗 |
 |---|---|---|
@@ -154,11 +154,11 @@ updated: 2026-09-26
 | **轮子**擦 | **一条不断的线** | **不能**（除非停轮，而停轮要重新起转） |
 | **人打气**（[[instrument:portative-organ\|便携管风琴]]） | 一条线，但会随手动起伏 | 能，但很难"干净地停" |
 
-**注意最后一行**：管风琴和手摇风琴都落在"几乎不能停"这一侧，
-但原因完全不同 —— 一个是因为**手一直在打气**，一个是因为**轮子一直在转**。
+注意最后一行：管风琴和手摇风琴都落在"几乎不能停"这一侧，
+但原因完全不同 —— 一个是因为手一直在打气，一个是因为轮子一直在转。
 
-**"不能停"是它最大的限制，也是它最独特的表现力**：
-它的音乐天生**连成一片**，句子靠**和声与重音**分，而不是靠**呼吸**。
+"不能停"是它最大的限制，也是它最独特的表现力：
+它的音乐天生连成一片，句子靠和声与重音分，而不是靠呼吸。
 
 ## 音域
 
@@ -166,21 +166,21 @@ updated: 2026-09-26
 {"range":"G3–G5","common":"G3–D5","caption":"手摇风琴的音域（常见形制）","caption_en":"Hurdy-gurdy range (a common instrument)","note":"手摇风琴属弦鸣乐器（轮擦）。约 G3–G5，视形制而不同；它通常只有两个八度左右，因为键盘的推键要装在有限的长度里。常用区 G3–D5 正好覆盖民间舞曲与歌声的音区。记谱即实音。"}
 ```
 
-- **约 G3–G5**，通常只有**两个八度上下**。
-- 限制来自**推键的机械结构**：键要装在琴体上的一小段长度里，
+- 约 G3–G5，通常只有两个八度上下。
+- 限制来自推键的机械结构：键要装在琴体上的一小段长度里，
   做得太长太重就按不动了。
-- **常用区 G3–D5** —— 这正是**民间舞曲与歌声**的音区，
+- 常用区 G3–D5 —— 这正是民间舞曲与歌声的音区，
   也说明了它的根扎在哪里。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **带"鼻音"的擦弦音**。轮子与弦的摩擦本身就带一点粗糙的质感。
-2. **持续的嗡嗡底噪**。这是它最容易被认出来的特征 ——
-   低音弦一直在响，所以**整段音乐都坐在一层不变的和声上**。
-3. **音与音之间"粘"在一起**。旋律线条是连续的，音符之间很少有真正的空隙。
-4. **有一层机械噪声**。轮子转动、推键动作都会出声；
+1. 带"鼻音"的擦弦音。轮子与弦的摩擦本身就带一点粗糙的质感。
+2. 持续的嗡嗡底噪。这是它最容易被认出来的特征 ——
+   低音弦一直在响，所以整段音乐都坐在一层不变的和声上。
+3. 音与音之间"粘"在一起。旋律线条是连续的，音符之间很少有真正的空隙。
+4. 有一层机械噪声。轮子转动、推键动作都会出声；
    现代录音常常刻意保留它，因为它就是这件乐器的性格。
 
 ```audiolab
@@ -189,21 +189,21 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **右手只管转摇柄**。转得快慢决定整体速度，也轻微影响音量 ——
-  **这是它唯一的速度控制，而它同时也是音量控制**。
-- **左手按键盘**。按下去的是推键，不需要用力压弦，
+- 右手只管转摇柄。转得快慢决定整体速度，也轻微影响音量 ——
+  这是它唯一的速度控制，而它同时也是音量控制。
+- 左手按键盘。按下去的是推键，不需要用力压弦，
   所以它能做出比指板乐器更稳定、也更"均匀"的音准。
-- **不能做真正的断音**。要"断"，只能**停轮**，
-   而停轮之后再起转需要一个过程 —— 所以它的休止总是**带一点拖尾**。
-- **没有力度**。强弱只能靠转轮的惯性做整体起伏，
+- 不能做真正的断音。要"断"，只能停轮，
+   而停轮之后再起转需要一个过程 —— 所以它的休止总是带一点拖尾。
+- 没有力度。强弱只能靠转轮的惯性做整体起伏，
    不能在乐句内部自由地做强弱对比。
-- **常与歌声、风笛、小提琴同台**。民间编制里它常常替代风笛担任那个"持续低音"的角色。
-- **要上松香、要调轮压**。轮子压弦的松紧会改变音色与音量，
+- 常与歌声、风笛、小提琴同台。民间编制里它常常替代风笛担任那个"持续低音"的角色。
+- 要上松香、要调轮压。轮子压弦的松紧会改变音色与音量，
    这是演奏者日常要顾的机械维护。
 
 ## 家族与近亲
 
-**三件"用机械代替手"的弦乐器**，很容易混：
+三件"用机械代替手"的弦乐器，很容易混：
 
 | 乐器 | 驱动力 | 有轮子吗 | 有弓吗 | 有键盘吗 | 发声体 |
 |---|---|---|---|---|---|
@@ -211,12 +211,12 @@ updated: 2026-09-26
 | 键控提琴（nyckelharpa） | **弓** | 无 | **有** | 有（按键） | **弦** |
 | [[instrument:portative-organ\|便携管风琴]] | **手打气** | 无 | 无 | 有 | **空气柱** |
 
-- **键控提琴**有弓、有按键，但**没有轮子** ——
-  它的"机械"只用在**取音**上，发声仍然靠人的手臂。
-- **手摇风琴**把**发声**这件事也机械化了：**轮子替代了手臂**。
-- **便携管风琴**把**发声**机械化，但发声体完全不是弦。
+- 键控提琴有弓、有按键，但没有轮子 ——
+  它的"机械"只用在取音上，发声仍然靠人的手臂。
+- 手摇风琴把发声这件事也机械化了：轮子替代了手臂。
+- 便携管风琴把发声机械化，但发声体完全不是弦。
 
-**一句话区分**：**看"两手各在做什么"，
+一句话区分：**看"两手各在做什么"，
 再问"什么在振动"。** 这两问足以分清这一族里所有容易混的名字。
 
 ## 历史演变
@@ -230,60 +230,61 @@ updated: 2026-09-26
 | 19 世纪 | 在法国中部（贝里 · 波旁内一带）的民间音乐里扎下根，成为当地舞曲的常驻乐器 |
 | 20 世纪 | 一度濒危；**民谣复兴运动**使它重新流行，今天在世界各地的民谣与古乐场景中都有人演奏 |
 
-**它的历史有一个很有意思的特点**：**同一件乐器在宫廷与民间同时活着。**
+它的历史有一个很有意思的特点：同一件乐器在宫廷与民间同时活着。
 正是民间那一支让它在 19 世纪没有死掉 ——
-**当一个乐器被"高级化"之后，往往是"土"的那一支保住了它的命。**
+当一个乐器被"高级化"之后，往往是"土"的那一支保住了它的命。
 
 ## 常见误解
 
-- **"手摇风琴是管风琴的一种。"** **不是**。
-  它的发声体是**弦**（弦鸣），管风琴是**空气柱**（气鸣）——
+- "手摇风琴是管风琴的一种。" 不是。
+  它的发声体是弦（弦鸣），管风琴是空气柱（气鸣）——
   中文名字里的"风琴"两个字纯属历史叫法，跟风没关系。
-- **"它就是街头那种摇着走的管风琴。"** 那是**另一个东西**：
-  摇柄驱动气泵、音高由**打孔纸卷**决定，属于**自动演奏**的机械乐器。
+- "它就是街头那种摇着走的管风琴。" 那是另一个东西：
+  摇柄驱动气泵、音高由打孔纸卷决定，属于自动演奏的机械乐器。
   两者只是中文名字撞车。
-- **"它有键盘，所以能弹复调。"** 键盘只为**旋律弦**取音，
-  它一次只能出现**一条旋律线**；同时进行的只有那条**永不改变的低音**。
-- **"它能做断音与强弱。"** **两样都不能**。轮子不停，弦就不停；
+- "它有键盘，所以能弹复调。" 键盘只为旋律弦取音，
+  它一次只能出现一条旋律线；同时进行的只有那条永不改变的低音。
+- "它能做断音与强弱。" 两样都不能。轮子不停，弦就不停；
   强弱只能靠转轮的惯性做整体起伏。
-- **"它只是民间的简单乐器。"** 它在宫廷里也有精致形制，
-  并且是**极少数把"伴奏"内建进乐器本身**的设计 ——
+- "它只是民间的简单乐器。" 它在宫廷里也有精致形制，
+  并且是极少数把"伴奏"内建进乐器本身的设计 ——
   在这一点上，它比绝大多数乐器更"自动化"。
-- **"它很难保持音准。"** 恰恰相反：**推键顶弦**比手指压弦更稳定，
+- "它很难保持音准。" 恰恰相反：推键顶弦比手指压弦更稳定，
   这也是它在民间能当"持续低音参照物"的原因之一。
 
 ## 下一步
 
-"持续音"这条线到这里走完了两种实现：**打气**与**转轮**。
-接下来换一条完全不同的线索 —— **信号**：
+"持续音"这条线到这里走完了两种实现：打气与转轮。
+接下来换一条完全不同的线索 —— 信号：
 [[instrument:hunting-horn|猎号]]与[[instrument:bugle|号角]]都不用簧、不用指孔，
-**只用一段管子里的泛音列**。
-它们要回答的是：**一件乐器能不能只会几个音，却仍然有用？**
+只用一段管子里的泛音列。
+它们要回答的是：一件乐器能不能只会几个音，却仍然有用？
+
 :::
 
 ::: en
 The hurdy-gurdy reaches the **same result** as the [[instrument:portative-organ|portative organ]] through
 **completely different physics**: **one player, two hands, a sound that never stops.**
 
-The previous thread's keyword was "**blow**", this one's is "**rub**":
+The previous thread's keyword was "**blow**", this one's is "rub":
 
-> ⚠️ **One keeps feeding air into pipes; the other keeps rubbing a string**
-> The [[instrument:portative-organ|portative organ]] sustains its pipes with **one hand pumping**; the
-> hurdy-gurdy sustains its strings with **one hand turning a crank**, dragging a rosined wooden wheel across
+> ⚠️ One keeps feeding air into pipes; the other keeps rubbing a string
+> The [[instrument:portative-organ|portative organ]] sustains its pipes with one hand pumping; the
+> hurdy-gurdy sustains its strings with one hand turning a crank, dragging a rosined wooden wheel across
 > them.
 >
-> Both are "**one continuous bodily action keeping one uninterrupted sound alive**". They differ in **what the
+> Both are "one continuous bodily action keeping one uninterrupted sound alive". They differ in **what the
 > action feeds**: an air column, or a string.
 
-**And it does one thing the organ cannot**: **the same crank drives two groups of strings** —
+And it does one thing the organ cannot: the same crank drives two groups of strings —
 
 | String group | How it sounds | Result |
 |---|---|---|
 | **Drone strings** | pressed straight against the wheel | a low layer that **never stops** |
 | **Melody string(s)** | stopped by the keyboard's **tangents** | a moving melodic line above |
 
-**So it is one of the very few instruments that carries its own accompaniment** — and that "accompaniment"
-**is not played; it is produced automatically, like a machine.**
+So it is one of the very few instruments that carries its own accompaniment — and that "accompaniment"
+is not played; it is produced automatically, like a machine.
 
 | Classification | Value |
 |---|---|
@@ -337,13 +338,13 @@ The previous thread's keyword was "**blow**", this one's is "**rub**":
 
 Three points:
 
-1. **The wheel replaces the bow.** It does exactly the same job — **rubbing a string** — but where the bow uses
-   an arm going back and forth, **the wheel uses rotation**. So "the bow change" disappears: **the friction never
+1. The wheel replaces the bow. It does exactly the same job — rubbing a string — but where the bow uses
+   an arm going back and forth, the wheel uses rotation. So "the bow change" disappears: **the friction never
    stops.**
-2. **Tangents replace fingers.** Each key pushes a small wooden blade against the string; where it presses becomes
-   the new **speaking length**, hence a new pitch. **No finger pressure is needed, so intonation is steady and
+2. Tangents replace fingers. Each key pushes a small wooden blade against the string; where it presses becomes
+   the new speaking length, hence a new pitch. **No finger pressure is needed, so intonation is steady and
    fingers do not tire.**
-3. **Both string groups are driven by one wheel.** This is the key design point: **the bass is not played, it is
+3. Both string groups are driven by one wheel. This is the key design point: **the bass is not played, it is
    simply always there.**
 
 ## Why it cannot stop
@@ -374,7 +375,7 @@ Three points:
 </svg>
 ```
 
-**This figure closes the "sustain" thread of this group**:
+This figure closes the "sustain" thread of this group:
 
 | Drive | Time-form | Can it stop? |
 |---|---|---|
@@ -383,11 +384,11 @@ Three points:
 | **wheel** rubbing | **one unbroken line** | **no** (unless the wheel stops, and restarting takes time) |
 | **a person pumping** ([[instrument:portative-organ\|portative organ]]) | a line that rises and falls with the hand | yes, but never cleanly |
 
-**Note the last row**: the organ and the hurdy-gurdy both sit on the "cannot easily stop" side, for entirely
-different reasons — one because **a hand keeps pumping**, the other because **a wheel keeps turning**.
+Note the last row: the organ and the hurdy-gurdy both sit on the "cannot easily stop" side, for entirely
+different reasons — one because a hand keeps pumping, the other because a wheel keeps turning.
 
-**"Cannot stop" is its greatest limitation and its most distinctive power**: its music is **inevitably
-continuous**, and phrases are marked by **harmony and accent** rather than by **breath**.
+"Cannot stop" is its greatest limitation and its most distinctive power: its music is **inevitably
+continuous, and phrases are marked by harmony and accent rather than by breath**.
 
 ## Range
 
@@ -395,21 +396,21 @@ continuous**, and phrases are marked by **harmony and accent** rather than by **
 {"range":"G3–G5","common":"G3–D5","caption":"手摇风琴的音域（常见形制）","caption_en":"Hurdy-gurdy range (a common instrument)","note":"手摇风琴属弦鸣乐器（轮擦）。约 G3–G5，视形制而不同；它通常只有两个八度左右，因为键盘的推键要装在有限的长度里。常用区 G3–D5 正好覆盖民间舞曲与歌声的音区。记谱即实音。"}
 ```
 
-- **About G3–G5**, usually only some **two octaves**.
-- The limit is **mechanical**: the keys and tangents must fit along a short stretch of the body, and making it
+- About G3–G5, usually only some two octaves.
+- The limit is mechanical: the keys and tangents must fit along a short stretch of the body, and making it
   longer and heavier makes it unplayable.
-- **Working register G3–D5** — exactly where **folk dances and voices** live, which says where its roots are.
+- Working register G3–D5 — exactly where folk dances and voices live, which says where its roots are.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **A nasal rubbed tone.** The friction of wheel on string carries a slight roughness of its own.
-2. **A permanent buzzing floor.** This is what gives it away: the drone strings never stop, so **the whole piece
+1. A nasal rubbed tone. The friction of wheel on string carries a slight roughness of its own.
+2. A permanent buzzing floor. This is what gives it away: the drone strings never stop, so **the whole piece
    sits on one unchanging harmony.**
-3. **Notes stick together.** The melodic line is continuous, with almost no real gaps between notes.
-4. **An audible mechanical layer.** The wheel turning and the tangents moving all make noise, and modern
-   recordings often keep it deliberately — it **is** the instrument's character.
+3. Notes stick together. The melodic line is continuous, with almost no real gaps between notes.
+4. An audible mechanical layer. The wheel turning and the tangents moving all make noise, and modern
+   recordings often keep it deliberately — it is the instrument's character.
 
 ```audiolab
 {"type":"instrument","gm":"Fiddle","synth":"bowed","phrase":["G3","D4","G4","B4","D5"],"label":"手摇风琴的常用区：G3 到 D5","label_en":"The hurdy-gurdy's working register — G3 up to D5","hint":"请把这一串音想象成「一条永不换弓、永不停止的擦弦」—— 通用音色表里没有手摇风琴，这里借民间提琴的擦弦音色近似","hint_en":"Hear it as one bow stroke that never changes and never stops. General MIDI has no hurdy-gurdy, so a folk fiddle's bowed tone stands in."}
@@ -417,22 +418,22 @@ Four cues:
 
 ## Playing techniques
 
-- **The right hand only turns the crank.** Its speed sets the overall tempo and slightly affects the volume —
-  **it is the only tempo control, and it doubles as the volume control**.
-- **The left hand works the keyboard.** Pressing a key moves a tangent, needing no finger pressure against the
+- The right hand only turns the crank. Its speed sets the overall tempo and slightly affects the volume —
+  it is the only tempo control, and it doubles as the volume control.
+- The left hand works the keyboard. Pressing a key moves a tangent, needing no finger pressure against the
   string, so intonation is steadier and more even than on a fingerboard.
-- **No true staccato.** The only way to stop is to **stop the wheel**, and getting it turning again takes a
+- No true staccato. The only way to stop is to stop the wheel, and getting it turning again takes a
   moment — so rests always come with a slight tail.
-- **No dynamics.** Volume can only rise and fall overall, through the crank's momentum; it cannot be shaped freely
+- No dynamics. Volume can only rise and fall overall, through the crank's momentum; it cannot be shaped freely
   within a phrase.
-- **It often shares a stage with voices, bagpipes and fiddles**, usually taking the "drone" chair a bagpipe would
+- It often shares a stage with voices, bagpipes and fiddles, usually taking the "drone" chair a bagpipe would
   otherwise occupy.
-- **Rosin and wheel pressure need attention.** How hard the wheel bears on the strings changes tone and volume —
+- Rosin and wheel pressure need attention. How hard the wheel bears on the strings changes tone and volume —
   daily mechanical maintenance for the player.
 
 ## The family
 
-**Three "machine instead of hand" string instruments**, easily confused:
+Three "machine instead of hand" string instruments, easily confused:
 
 | Instrument | Driving force | Wheel? | Bow? | Keyboard? | Vibrating body |
 |---|---|---|---|---|---|
@@ -440,12 +441,12 @@ Four cues:
 | Nyckelharpa | **bow** | no | **yes** | yes (keys) | **strings** |
 | [[instrument:portative-organ\|Portative organ]] | **a hand pumping** | no | no | yes | **air column** |
 
-- The **nyckelharpa** has a bow and keys but **no wheel** — its machinery only handles **stopping the string**;
+- The nyckelharpa has a bow and keys but no wheel — its machinery only handles stopping the string;
   the sound still comes from an arm.
-- The **hurdy-gurdy** mechanises **the sounding itself**: **the wheel replaces the arm.**
-- The **portative organ** mechanises the sounding too, but the vibrating body is not a string at all.
+- The hurdy-gurdy mechanises the sounding itself: the wheel replaces the arm.
+- The portative organ mechanises the sounding too, but the vibrating body is not a string at all.
 
-**One sentence to tell them apart**: **look at what each hand is doing, then ask what vibrates.** Those two
+One sentence to tell them apart: look at what each hand is doing, then ask what vibrates. Those two
 questions separate every confusing name in this family.
 
 ## History
@@ -459,31 +460,31 @@ questions separate every confusing name in this family.
 | 19th c. | takes root in the folk music of central France (Berry, Bourbonnais), becoming a fixture of local dance music |
 | 20th c. | nearly lost; the **folk revival** brings it back, and it is now played in folk and early-music scenes worldwide |
 
-**Its history has an interesting shape**: **the same instrument lived at court and among country people at once.**
+Its history has an interesting shape: the same instrument lived at court and among country people at once.
 It was the folk branch that kept it alive through the 19th century — **once an instrument gets "refined", it is
 often the supposedly crude branch that saves it.**
 
 ## Common misconceptions
 
-- **"A hurdy-gurdy is a kind of organ."** **No.** Its vibrating body is a **string** (chordophone); an organ's is
-  an **air column** (aerophone). The Chinese name containing "wind organ" is pure historical accident — there is
+- "A hurdy-gurdy is a kind of organ." No. Its vibrating body is a string (chordophone); an organ's is
+  an air column (aerophone). The Chinese name containing "wind organ" is pure historical accident — there is
   no wind involved.
-- **"It is the thing street musicians crank."** That is **another instrument**: a crank drives an air pump and a
-  **pinned barrel or paper roll** decides the notes — an **automatic** mechanical instrument. The two only
+- "It is the thing street musicians crank." That is another instrument: a crank drives an air pump and a
+  pinned barrel or paper roll decides the notes — an automatic mechanical instrument. The two only
   collide in Chinese naming.
-- **"It has a keyboard, so it plays polyphony."** The keyboard stops only the **melody** strings, so only **one
-  melodic line** can sound; what runs alongside is the **unchanging drone**.
-- **"It can play staccato and dynamics."** **Neither.** While the wheel turns the string sounds; volume can only
+- "It has a keyboard, so it plays polyphony." The keyboard stops only the melody strings, so only **one
+  melodic line can sound; what runs alongside is the unchanging drone**.
+- "It can play staccato and dynamics." Neither. While the wheel turns the string sounds; volume can only
   move overall with the crank's momentum.
-- **"It is a simple folk instrument."** Refined court versions existed, and it is one of the very few designs to
-  **build the accompaniment into the instrument** — in that respect it is **more** automated than most.
-- **"It struggles to stay in tune."** The opposite: **a tangent against a string** is steadier than finger
+- "It is a simple folk instrument." Refined court versions existed, and it is one of the very few designs to
+  build the accompaniment into the instrument — in that respect it is more automated than most.
+- "It struggles to stay in tune." The opposite: a tangent against a string is steadier than finger
   pressure, which is partly why it can serve as a folk ensemble's reference drone.
 
 ## Next
 
-The "sustain" thread is now told through two mechanisms: **pumping** and **turning a wheel**.
-Next comes a completely different thread — **signal**: the [[instrument:hunting-horn|hunting horn]] and the
+The "sustain" thread is now told through two mechanisms: pumping and turning a wheel.
+Next comes a completely different thread — signal: the [[instrument:hunting-horn|hunting horn]] and the
 [[instrument:bugle|bugle]] use no reed and no finger holes, **only the harmonic series inside a length of
-tube**. Their question is: **can an instrument know only a few notes and still be useful?**
+tube. Their question is: can an instrument know only a few notes and still be useful?**
 :::

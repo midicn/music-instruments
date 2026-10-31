@@ -33,31 +33,20 @@ updated: 2026-09-26
 ---
 
 ::: zh
-钢琴是键盘乐器里最"全能"的一件，也是**全站唯一一件音域覆盖键盘全部 88 键的乐器**。
-它能把整个乐队的总谱浓缩到一双手上 —— 这件事只有它和[[instrument:organ|管风琴]]做得到。
-
-它身上还有一个必须讲清的分类问题：
-**它由键盘演奏，却属弦鸣乐器** —— 因为**振动的是弦**，键盘只是操作界面。
+按下琴键，木槌飞出去，击弦，落回。手指按得多快，槌就飞得多快——钢琴与大键琴的全部差别，从这一下开始。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）—— **振动的是弦** |
-| **次级类型** | 键盘经击弦机驱动包毡木槌击弦 · 每音一至三根弦 · 音板放大 · 制音器止音 |
-| **所属族** | 西洋 · 键盘（击弦支系） |
-| **八音** | 不适用 —— 周代八音是中国乐器的体系，钢琴不在其中 |
+| HS 分类 | 弦鸣 —— 振动的是弦，键盘只是操作界面 |
+| 键与弦 | 每音一至三根弦 · 击弦机驱动包毡木槌 · 音板放大 · 制音器止音 |
+| 所属族 | 西洋 · 键盘（击弦支系） |
+| 八音 | 不适用 —— 八音是周代中国的体系，钢琴不在其中 |
 
-> ⚠️ **一个概念上的要点**：**"键盘"回答的是"怎么操作"，"弦鸣/气鸣/体鸣"回答的是"什么在振动"。**
-> 键盘组里四件乐器正好把这条讲透：
-> - **钢琴**：键盘 → 击弦 → **弦鸣**
-> - [[instrument:harpsichord|大键琴]]：键盘 → 拨弦 → **弦鸣**
-> - [[instrument:organ|管风琴]]：键盘 → 气流 → **气鸣**
-> - [[instrument:celesta|钢片琴]]：键盘 → 击钢片 → **体鸣**
->
-> 四种键盘，三个大类。**所以"键盘乐器"是一个操作界面上的归类，不是声学上的归类。**
+## 三个机制
 
-## 三个机制：力度、余音、音量
+力度来自击弦：槌与弦的接触只有一瞬，可槌的速度跟着手指走。余音由制音器管：离键即止，右踏板把全部制音器抬起，声音才叠得起来。音量靠音板：弦的振动传到一大片云杉上，才够填满厅堂。
 
-钢琴之所以能取代[[instrument:harpsichord|大键琴]]，靠的是**三个机制**同时成立。
+右踏板不只是把声音变大，它改的是和声叠加的方式。三者缺一，就不是这件乐器。只有力度没有音量，是击弦古钢琴；只有音量没有力度，是大键琴；有余音却没有踏板，踩住一片和声这件事根本不存在。
 
 ```svg
 <svg viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="钢琴的三个核心机制：击弦机带来力度控制、制音器与踏板控制余音、音板放大音量">
@@ -91,9 +80,11 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图给出了钢琴存在的技术理由**（详见下节的对照表）。
+## 键盘只是界面
 
-## 键盘组三种触发方式的对照
+同样一排黑白键，底下可以是四种东西：钢琴击弦，大键琴拨弦，管风琴送气，钢片琴敲钢片。前两个是弦鸣，第三个是气鸣，第四个是体鸣。
+
+所以「键盘乐器」说的是怎么操作，不是什么东西在响。分类要问的是后者。
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="钢琴、大键琴与击弦古钢琴三种触发方式的对照：击弦可控制力度、拨弦不能、击弦但音量极小">
@@ -129,120 +120,45 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这条"机械结构决定可控范围"是键盘组的核心线索**：
-乐器能做什么，先由它的机构决定，然后才轮到作曲家的想象。
+## 八十八键是一把尺
 
-## 音域
+A0 到 C8，八十八个键，七个多八度。常用区到 C7 为止，最上面那个八度多留给独奏和炫技。
+
+它的宽度成了键盘组的标尺：看大键琴、击弦古钢琴、管风琴的音域，都可以直接摆在它上面，看它们占哪一段。
 
 ```range
-{"range":"A0–C8","common":"A0–C7","caption":"钢琴的音域（88 键）","caption_en":"Piano range (88 keys)","note":"钢琴属弦鸣乐器 —— 键盘只是操作界面，振源是弦。标准 88 键，音域 A0–C8，是本站键盘条目的参照尺度：其他键盘乐器的音域都可以在这上面标出位置。"}
+{"range":"A0–C8","common":"A0–C7","caption":"钢琴的音域（88 键）","caption_en":"Piano range (88 keys)","note":"钢琴属弦鸣乐器 —— 键盘只是操作界面，振源是弦。标准 88 键，音域 A0–C8，是这里键盘条目的参照尺度：其他键盘乐器的音域都可以在这上面标出位置。"}
 ```
 
-- **A0–C8（88 键）**，覆盖本站音域图的**全部键盘范围** ——
-  所以它是键盘组里唯一不需要"超钢琴延伸区"的乐器。
-- **常用区 A0–C7**：最高一个八度主要在独奏与炫技段落使用。
-- **它的音域宽度是键盘组的标尺**。看[[instrument:harpsichord|大键琴]]、
-  [[instrument:clavichord|击弦古钢琴]]、[[instrument:organ|管风琴]]时，
-  都可以在 88 键上直接看到它们占哪一段。
+## 力度是它的语言
 
-## 音色与听辨
+一台琴能从几乎听不见做到极强，这是它在十九世纪成为通用乐器的理由。1700 年前后，意大利人 Cristofori 做出第一台靠触键控制力度的键盘击弦乐器；到十九世纪，金属框架、交叉弦列、毡槌陆续成熟，音量与音域一起撑开，八十八键在后期定为标准。
 
-四条线索：
+它也有做不到的事：击弦之后声音只会衰减，不能像管风琴或弦乐那样把音撑住。写钢琴曲的人，写的就是这种会消失的声音。
 
-1. **音头清晰、余音长而可控**。木槌的击弦给一个明确的音头，随后的余音由制音器与踏板管理。
-2. **力度层次是它的语言**。同一件乐器可以从几乎听不见做到极强 ——
-   这是它在 19 世纪成为"通用乐器"的核心理由。
-3. **低音厚、高音亮，中间最"歌"**。不同音区的音色差异很大，作曲家常利用这一点。
-4. **它是一件"和声乐器"**。十指能同时按下十个音，所以它天然适合承担和声骨架。
+立式与三角的弦向不同，击弦机也不同，手感与声音都有差别。
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["A0","A2","A4","C6","C8"],"label":"钢琴的音域：从最低 A0 到最高 C8","label_en":"The piano's range — from A0 up to C8","hint":"注意低音的厚与高音的亮 —— 这个跨度是它成为「通用乐器」的原因","hint_en":"Hear the depth at the bottom and the brightness at the top — this span is why it became the universal instrument."}
 ```
 
-## 演奏技法
-
-- **触键**：力度、时值、连断都由按键控制。
-- **三个踏板**（现代钢琴）：**右踏板（延音）**把制音器整体抬起 → 余音叠加；
-  **左踏板（弱音）**改变弦数或缩短击弦距离；**中踏板**视乐器而定（选择性延音）。
-- **连奏与断奏**：击弦机允许极细腻的连断控制，这是钢琴语言的基础。
-- **特殊的"预备"效果**：先按下琴键不发声（让制音器抬起），再击弦 —— 可以得到更长的余音。
-
-## 家族与近亲
-
-| 乐器 | 触发方式 | 振源 | 力度可控 | 音量 | 音域 |
-|---|---|---|---|---|---|
-| **钢琴** | 击弦 | 弦 | **可** | **大** | **A0–C8** |
-| [[instrument:harpsichord\|大键琴]] | **拨弦** | 弦 | **不可** | 中 | F1–F6 |
-| [[instrument:clavichord\|击弦古钢琴]] | 击弦（铜片） | 弦 | 可（可做颤音） | **极小** | C2–C6 |
-| [[instrument:organ\|管风琴]] | 气流 | **空气柱** | 不可（靠音栓） | 极大 | C2–C7 |
-| [[instrument:celesta\|钢片琴]] | 击片 | **钢片** | 可 | 小 | C3–C8 |
-
-**这张表把"键盘"这个界面下的四条技术路线并排摆开了** ——
-它们共用一只手，却分属三个 HS 大类、四种可控范围。
-
-## 历史演变
-
-| 时期 | 状态 |
-|---|---|
-| 1700 年前后 | 意大利的 **Cristofori** 做出第一台能靠触键控制力度的键盘击弦乐器 —— 钢琴的起点 |
-| 18 世纪 | 与**大键琴**长期并存；击弦机的改良（维也纳式与英国式两种）逐步推进 |
-| 19 世纪 | 金属框架、交叉弦列、毡槌等技术成熟 → 音量与音域大幅扩展；**成为家庭与音乐厅的通用乐器** |
-| 19 世纪后期 | 88 键（A0–C8）成为标准；三角与立式两种形制定型 |
-| 20 世纪 | 成为作曲、教学与表演的中心乐器；录音与流行音乐也以它为基础 |
-| 20 世纪后期至今 | 与电子键盘并存；在古典、爵士、流行、影视里全面通用 |
-
-**它的胜利有一个很实际的原因**：**能控制力度**。
-与大键琴相比，它多出来的那一点"可控性"，
-让音乐第一次能在键盘上做出渐强渐弱 —— 而这正是 18 世纪末音乐语言的核心需求。
-
-## 常见误解
-
-- **"钢琴是键盘乐器，所以属键盘类。"** HS 分类里它属**弦鸣** —— 振动的是弦。
-  "键盘"是操作界面，不是分类（同组的管风琴属气鸣、钢片琴属体鸣）。
-- **"钢琴和大键琴差不多。"** 触发方式不同（击弦 vs 拨弦）→ **大键琴不能控制力度**，
-  这是两者最根本的差别。
-- **"踏板只是把声音变大。"** 延音踏板改变的是**和声的叠加方式**，是配器与演奏语言的一部分。
-- **"立式钢琴是"小一号的三角"。"** 弦的排列方向不同（竖 vs 横），
-  击弦机结构也不同 → 手感与声音都有差别。
-- **"钢琴音域很宽所以能演奏任何音乐。"** 它音域宽，但**不能延长音**（击弦后余音自然衰减）——
-  这一点与管风琴、弦乐完全不同，也是"钢琴化写作"之所以特别的原因。
-
-## 下一步
-
-键盘组的下一站是它的"前任"：[[instrument:harpsichord|大键琴]] ——
-同样用键盘、同样用弦，但**拨弦**带来了完全不同的音乐语言。
-再往后是 [[instrument:clavichord|击弦古钢琴]]（力度可控但极小）与
-[[instrument:organ|管风琴]]（键盘下的气鸣）。
 :::
 
 ::: en
-The piano is the most "complete" of the keyboard instruments, and **the only instrument on this site whose
-range spans the entire 88-key compass.** It can compress a full orchestral score into two hands — something
-only it and the [[instrument:organ|organ]] can do.
+Press a key and a hammer flies out, strikes, falls back. The faster the finger, the faster the hammer — and the whole difference between a piano and a harpsichord begins there.
 
-It also poses a classification question that has to be stated clearly: **it is played from a keyboard, yet it
-belongs to the chordophones** — because **the strings vibrate**; the keyboard is only the interface.
-
-| Classification | Value |
+| Class | Assignment |
 |---|---|
-| **HS class** | **Chordophone** — **the strings vibrate** |
-| **Sub-type** | Keyboard drives a felt hammer action against strings · one to three strings per note · soundboard amplifies · dampers stop the sound |
-| **Family** | Western · Keyboard (struck branch) |
-| **Bayin** | Not applicable — a Chinese system; the piano is outside it |
+| **HS class** | Chordophone — the strings vibrate; the keyboard is only the interface |
+| Key and string | one to three strings per note · a felt hammer driven by an action · soundboard · dampers |
+| Family | Western · keyboard (struck branch) |
+| Bayin | not applicable — a Chinese system of the Zhou; the piano is outside it |
 
-> ⚠️ **One conceptual point**: **"keyboard" answers "how it is operated"; "chordophone / aerophone /
-> idiophone" answers "what vibrates".**
-> The keyboard group's four instruments make this plain:
-> - **Piano**: keyboard → struck strings → **chordophone**
-> - [[instrument:harpsichord|Harpsichord]]: keyboard → plucked strings → **chordophone**
-> - [[instrument:organ|Organ]]: keyboard → air → **aerophone**
-> - [[instrument:celesta|Celesta]]: keyboard → struck steel plates → **idiophone**
->
-> Four keyboards, three great classes. **"Keyboard instrument" is a grouping by interface, not by acoustics.**
+## Three mechanisms
 
-## Three mechanisms: dynamics, ring, volume
+Dynamics come from the strike: the hammer touches the string for an instant, but its speed follows the finger. The tail is the dampers' business: release the key and the sound stops, until the right pedal lifts them all and notes pile up. Volume comes from the soundboard, which spreads the string's vibration over a sheet of spruce wide enough for a hall.
 
-The piano replaced the [[instrument:harpsichord|harpsichord]] because **three mechanisms** came together.
+Take one away and it is another instrument. Dynamics without volume is a clavichord; volume without dynamics is a harpsichord; with no pedal to hold the harmony, the whole gesture of a sustained chord would not exist.
 
 ```svg
 <svg viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The piano's three core mechanisms: hammer action gives dynamic control, dampers and pedal manage the ring, the soundboard amplifies">
@@ -276,9 +192,11 @@ The piano replaced the [[instrument:harpsichord|harpsichord]] because **three me
 </svg>
 ```
 
-**This diagram gives the piano its technical reason to exist** (see the comparison below).
+## The keyboard is only the interface
 
-## Three keyboard trigger types compared
+One row of keys can sit on four different things: a piano strikes strings, a harpsichord plucks them, an organ drives air, a celesta strikes steel plates. The first two are chordophones, the third an aerophone, the fourth an idiophone.
+
+So keyboard instrument describes how it is operated, not what vibrates. Classification asks the second question.
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Piano, harpsichord and clavichord compared by trigger: struck strings allow dynamics, plucked strings do not, struck copper tangents allow dynamics but are very quiet">
@@ -314,93 +232,23 @@ The piano replaced the [[instrument:harpsichord|harpsichord]] because **three me
 </svg>
 ```
 
-**"Mechanism decides the range of control" is the keyboard group's key thread**: what an instrument can do is
-settled by its mechanism first, and only then by a composer's imagination.
+## Eighty-eight keys are a ruler
 
-## Range
+A0 to C8, eighty-eight keys, more than seven octaves. The working range stops at C7; the top octave is mostly for solo and display.
+
+Its width became the keyboard group's measure: set a harpsichord, a clavichord or an organ against it and you see at once which stretch they occupy.
 
 ```range
-{"range":"A0–C8","common":"A0–C7","caption":"钢琴的音域（88 键）","caption_en":"Piano range (88 keys)","note":"钢琴属弦鸣乐器 —— 键盘只是操作界面，振源是弦。标准 88 键，音域 A0–C8，是本站键盘条目的参照尺度：其他键盘乐器的音域都可以在这上面标出位置。"}
+{"range":"A0–C8","common":"A0–C7","caption":"钢琴的音域（88 键）","caption_en":"Piano range (88 keys)","note":"钢琴属弦鸣乐器 —— 键盘只是操作界面，振源是弦。标准 88 键，音域 A0–C8，是这里键盘条目的参照尺度：其他键盘乐器的音域都可以在这上面标出位置。"}
 ```
 
-- **A0–C8 (88 keys)**, covering the site's **entire keyboard range** — the only keyboard instrument here that
-  never needs a "beyond the piano" extension.
-- **The working range is A0–C7**; the top octave belongs mostly to solo and virtuoso writing.
-- **Its span is the keyboard group's ruler.** Reading the [[instrument:harpsichord|harpsichord]],
-  [[instrument:clavichord|clavichord]] or [[instrument:organ|organ]] entries, you can see directly where they
-  sit on these 88 keys.
+## Dynamics are its language
 
-## Timbre, and how to hear it
+One instrument from almost inaudible to very loud — the reason it became the universal instrument of the nineteenth century. Around 1700 Cristofori built the first keyboard instrument whose touch controlled dynamics; by the 1800s iron frames, overstringing and felt hammers had widened volume and compass together, and eighty-eight keys settled as the standard.
 
-Four cues:
-
-1. **A clear attack and a long, controllable tail** — the hammer gives the attack, the dampers and pedal manage
-   what follows.
-2. **Dynamic layering is its language**: from almost inaudible to very loud on one instrument — the core reason
-   it became the 19th century's universal instrument.
-3. **Thick low, bright high, most "vocal" in the middle** — composers exploit the differing registers.
-4. **It is a harmonic instrument**: ten fingers can press ten notes, so it naturally carries harmony.
+It also cannot do one thing: a struck note only decays. It will not hold like an organ or a bowed string. Music written for it is music about a sound that leaves.
 
 ```audiolab
 {"type":"instrument","gm":"Acoustic Grand Piano","synth":"struck","phrase":["A0","A2","A4","C6","C8"],"label":"钢琴的音域：从最低 A0 到最高 C8","label_en":"The piano's range — from A0 up to C8","hint":"注意低音的厚与高音的亮 —— 这个跨度是它成为「通用乐器」的原因","hint_en":"Hear the depth at the bottom and the brightness at the top — this span is why it became the universal instrument."}
 ```
-
-## Playing techniques
-
-- **Touch** controls dynamics, duration and legato.
-- **Three pedals** (modern pianos): **right (sustain)** lifts all dampers so notes accumulate; **left (soft)**
-  changes the number of strings or shortens the hammer's travel; **middle** varies by instrument (selective
-  sustain).
-- **Legato and staccato**: the action allows very fine control of connection — the basis of piano language.
-- **The "prepared" effect**: pressing keys silently first (lifting dampers), then striking, yields a longer
-  ring.
-
-## The family
-
-| Instrument | Trigger | Source | Dynamics | Volume | Range |
-|---|---|---|---|---|---|
-| **Piano** | struck | strings | **yes** | **large** | **A0–C8** |
-| [[instrument:harpsichord\|Harpsichord]] | **plucked** | strings | **no** | medium | F1–F6 |
-| [[instrument:clavichord\|Clavichord]] | struck (tangent) | strings | yes (with vibrato) | **tiny** | C2–C6 |
-| [[instrument:organ\|Organ]] | air | **air columns** | no (stops instead) | huge | C2–C7 |
-| [[instrument:celesta\|Celesta]] | struck plates | **steel plates** | yes | small | C3–C8 |
-
-**This table lays out the four technical routes behind the word "keyboard"** — one hand, three HS classes,
-four ranges of control.
-
-## History
-
-| Period | State |
-|---|---|
-| Around 1700 | **Cristofori** in Italy builds the first keyboard instrument whose touch controls dynamics — the piano begins |
-| 18th c. | coexists with the **harpsichord** for decades; actions improve (Viennese and English types) |
-| 19th c. | iron frames, overstringing and felt hammers mature → far more volume and range; **it becomes the household and concert-hall universal instrument** |
-| Later 19th c. | 88 keys (A0–C8) become standard; grand and upright forms settle |
-| 20th c. | central to composition, teaching and performance; recording and popular music are built around it |
-| Late 20th c. onward | coexists with electronic keyboards; universal in classical, jazz, pop and film |
-
-**Its victory has a very practical cause: it can control dynamics.** That extra bit of controllability over the
-harpsichord let music make crescendos and diminuendos at a keyboard for the first time — exactly what the
-language of the late 18th century required.
-
-## Common misconceptions
-
-- **"The piano is a keyboard instrument, so it is classed as a keyboard instrument."** In Hornbostel–Sachs it
-  is a **chordophone** — the strings vibrate. "Keyboard" is an interface (the organ in the same group is an
-  aerophone, the celesta an idiophone).
-- **"The piano and the harpsichord are much the same."** Different triggers (struck versus plucked) → **a
-  harpsichord cannot control dynamics**, the fundamental difference.
-- **"The pedal just makes it louder."** The sustain pedal changes **how harmonies stack** — part of the
-  language of writing and playing.
-- **"An upright is a small grand."** The strings run in different directions (vertical versus horizontal) and
-  the action differs → different feel and sound.
-- **"A wide range means it can play anything."** The range is wide, but **it cannot sustain** (a struck note
-  decays) — unlike the organ or strings, and the reason "piano writing" is so distinctive.
-
-## Next
-
-The keyboard group's next stop is the piano's predecessor: the [[instrument:harpsichord|harpsichord]] — the
-same keyboard and the same strings, but **plucked**, which produces an entirely different musical language.
-Beyond it come the [[instrument:clavichord|clavichord]] (dynamic but tiny) and the
-[[instrument:organ|organ]] (aerophone under a keyboard).
 :::

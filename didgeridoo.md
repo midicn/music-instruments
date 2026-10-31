@@ -41,11 +41,11 @@ updated: 2026-10-28
 
 ## 仪式与当代
 
-在约尔努等社群的仪式与歌环里，它与拍板、歌唱一起出现；**一些社群传统上由男性演奏，规定因地区与家族而异，不能推广为全澳通则**。当代它进入工作坊、疗愈与旅游；争议在于谁有权在什么场合吹、谁获利、是否署名与补偿。
+在约尔努等社群的仪式与歌环里，它与拍板、歌唱一起出现；一些社群传统上由男性演奏，规定因地区与家族而异，不能推广为全澳通则。当代它进入工作坊、疗愈与旅游；争议在于谁有权在什么场合吹、谁获利、是否署名与补偿。
 
 ## 常见误解
 
-- **「它是笛子。」** 它是唇振管，Hornbostel–Sachs 归入自然小号，不是边棱音笛。
+- 「它是笛子。」 它是唇振管，Hornbostel–Sachs 归入自然小号，不是边棱音笛。
 
 ## HS 分类与听辨
 
@@ -89,9 +89,9 @@ updated: 2026-10-28
 
 ## 带走三件事
 
-1. **白蚁先做，人后修**：内壁由白蚁蛀成，每支管的声音都不同。
-2. **嘴唇与声道，不是指孔**：持续基音加上泛音与音色变化，才是它的「旋律」。
-3. **循环换气让声音不断**：但它的归属很具体；演奏前先问语境与许可。
+1. 白蚁先做，人后修：内壁由白蚁蛀成，每支管的声音都不同。
+2. 嘴唇与声道，不是指孔：持续基音加上泛音与音色变化，才是它的「旋律」。
+3. 循环换气让声音不断：但它的归属很具体；演奏前先问语境与许可。
 
 :::
 
@@ -115,7 +115,7 @@ In Yolŋu and other communities it appears in ceremony and song cycles with clap
 
 ## Common misconceptions
 
-- **"It is a flute."** It is a lip-reed tube, classified with natural trumpets, not an edge-blown flute.
+- "It is a flute." It is a lip-reed tube, classified with natural trumpets, not an edge-blown flute.
 
 ## HS classification and listening
 
@@ -160,8 +160,7 @@ In Yolŋu and other communities it appears in ceremony and song cycles with clap
 
 ## Three things to take away
 
-1. **Termites first, people second**: the bore is made by termites, and every tube has its own voice.
-2. **Lips and vocal tract, not finger holes**: a drone plus overtones and colour is the instrument's "melody".
-3. **Circular breathing keeps it continuous**: but ownership is specific; ask about context and permission before playing.
-
+1. Termites first, people second: the bore is made by termites, and every tube has its own voice.
+2. Lips and vocal tract, not finger holes: a drone plus overtones and colour is the instrument's "melody".
+3. Circular breathing keeps it continuous: but ownership is specific; ask about context and permission before playing.
 :::

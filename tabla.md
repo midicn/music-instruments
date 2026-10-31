@@ -30,9 +30,9 @@ updated: 2026-10-28
 
 ## 主线：一对鼓，一只定音，一只说话
 
-塔布拉鼓不是一只鼓，是**一对**：右手的 **dayan**（也叫 dahina）是一只小木鼓，左手的 **bayan**（也叫 duggi）是一只大铜鼓。两只鼓的分工不是音量大小，而是**两种职能**——dayan 被精确调到演奏的 **Sa**（主音），负责音高清晰的击点；bayan 音低、皮松，脚跟压在鼓面上就能把音往下抹，负责低音与滑音。
+塔布拉鼓不是一只鼓，是**一对**：右手的 **dayan**（也叫 dahina）是一只小木鼓，左手的 **bayan**（也叫 duggi）是一只大铜鼓。两只鼓的分工不是音量大小，而是**两种职能**——dayan 被精确调到演奏的 Sa（主音），负责音高清晰的击点；bayan 音低、皮松，脚跟压在鼓面上就能把音往下抹，负责低音与滑音。
 
-所以它同时是一件**有音高的乐器**和一件**会说话的鼓**。印度音乐里，鼓手不是「打拍子的人」，而是用一套**音节语言**（bols）把节奏说出来、再用手复述出来的人。
+所以它同时是一件有音高的乐器和一件会说话的鼓。印度音乐里，鼓手不是「打拍子的人」，而是用一套音节语言（bols）把节奏说出来、再用手复述出来的人。
 
 ## 形制：两只鼓，两种材料
 
@@ -43,47 +43,47 @@ updated: 2026-10-28
 | 调音 | 木栓（gatta）与锤子逐点调，定到 Sa | 粗调为主，靠脚跟压皮改变音高 |
 | 职能 | 音高清晰的 na / tin / ta | 低音 ge / 滑音 |
 
-**黑色的 syahi 是这件乐器的核心**：铁氧化物、锰与米糊一类的混合物，干后成一层带重量的硬膜。它压住鼓面中央，抑制混沌的振动，让鼓发出**有明确音高的「叮」**；同时把振动推向边缘，形成塔布拉鼓特有的透亮泛音。没有 syahi，这就是一只普通的手鼓。
+黑色的 syahi 是这件乐器的核心：铁氧化物、锰与米糊一类的混合物，干后成一层带重量的硬膜。它压住鼓面中央，抑制混沌的振动，让鼓发出有明确音高的「叮」；同时把振动推向边缘，形成塔布拉鼓特有的透亮泛音。没有 syahi，这就是一只普通的手鼓。
 
 ## 鼓语：bols 是把节奏说出来的音节
 
-塔布拉鼓的节奏有**名字**，而且先被**说**出来，再被**打**出来：
+塔布拉鼓的节奏有名字，而且先被说出来，再被打出来：
 
-- **na** —— 食指击 dayan 边缘，干脆、闭合
-- **tin** —— 击 dayan 中央，开放、余音长
-- **ge** —— 击 bayan 中央，低沉、开放
-- **ke** —— 击 bayan 边缘，闷而短
-- **dha** —— 两手同时：ge + na
-- **dhin** —— 两手同时：ge + tin
-- **tirakita** —— 一串快速音节的连击
+- na —— 食指击 dayan 边缘，干脆、闭合
+- tin —— 击 dayan 中央，开放、余音长
+- ge —— 击 bayan 中央，低沉、开放
+- ke —— 击 bayan 边缘，闷而短
+- dha —— 两手同时：ge + na
+- dhin —— 两手同时：ge + tin
+- tirakita —— 一串快速音节的连击
 
-这套音节叫 **bols**，念它的行为叫 **padhant**。鼓手在打之前先把它念出来——**口传的记谱法**：音节能被记住、被讨论、被考试，也能在即兴里被重新排列。它和科拉琴靠家族传谱、古琴靠减字谱是三种不同的「把音乐存起来」的方式。
+这套音节叫 bols，念它的行为叫 padhant。鼓手在打之前先把它念出来——口传的记谱法：音节能被记住、被讨论、被考试，也能在即兴里被重新排列。它和科拉琴靠家族传谱、古琴靠减字谱是三种不同的「把音乐存起来」的方式。
 
 ## 定音：鼓跟着旋律走
 
-dayan 定到 **Sa**——不是固定的 C 或 A，而是**这一场演出选择的主音**。同一套鼓，今天给西塔尔琴定到 C，明天给声乐定到 D，鼓皮就要重新调。bayan 通常定低一个八度或五度，实际音高还会被脚跟压得上下滑动。
+dayan 定到 Sa——不是固定的 C 或 A，而是这一场演出选择的主音。同一套鼓，今天给西塔尔琴定到 C，明天给声乐定到 D，鼓皮就要重新调。bayan 通常定低一个八度或五度，实际音高还会被脚跟压得上下滑动。
 
-这就是为什么塔布拉鼓能进入 **raga**：它不提供平均律的背景，而是跟随旋律的中心音。独奏时，鼓手面对一段循环旋律 **lehara** 即兴；伴奏时，鼓手维持一个周期型 **theka**，用 **tali**（重拍）与 **khali**（空拍）标出循环的骨架。
+这就是为什么塔布拉鼓能进入 raga：它不提供平均律的背景，而是跟随旋律的中心音。独奏时，鼓手面对一段循环旋律 lehara 即兴；伴奏时，鼓手维持一个周期型 theka，用 tali（重拍）与 khali（空拍）标出循环的骨架。
 
 ## 六大学派
 
-塔布拉鼓的演奏传统按家族与师承分成六派：**Delhi · Ajrada · Lucknow · Farrukhabad · Banaras · Punjab**。差别不在「谁更快」，而在**音节的选用、重音的位置、鼓皮上击点的偏好**——同一段 theka，两派可以打出两种性格。
+塔布拉鼓的演奏传统按家族与师承分成六派：Delhi · Ajrada · Lucknow · Farrukhabad · Banaras · Punjab。差别不在「谁更快」，而在音节的选用、重音的位置、鼓皮上击点的偏好——同一段 theka，两派可以打出两种性格。
 
-20 世纪，**Alla Rakha** 与 **Zakir Hussain** 父子把它带向世界舞台；Zakir Hussain 与西方爵士、世界音乐的合奏，让 bols 的「说」与鼓的「打」同时被听见。
+20 世纪，Alla Rakha 与 Zakir Hussain 父子把它带向世界舞台；Zakir Hussain 与西方爵士、世界音乐的合奏，让 bols 的「说」与鼓的「打」同时被听见。
 
 ## 近亲与误认
 
-- **pakhawaj**：更古老的桶形鼓，用于 dhrupad；塔布拉鼓常被说成它的「拆分」。
-- **mridangam**：南印度的双面桶形鼓，语言与曲目另一套。
-- **djembe / talking-drum**：西非手鼓与对话鼓；「会说话」在塔布拉鼓这里指**音节语言**，在对话鼓那里指**真正的信号传递**——两种「说话」，不要混。
+- pakhawaj：更古老的桶形鼓，用于 dhrupad；塔布拉鼓常被说成它的「拆分」。
+- mridangam：南印度的双面桶形鼓，语言与曲目另一套。
+- djembe / talking-drum：西非手鼓与对话鼓；「会说话」在塔布拉鼓这里指音节语言，在对话鼓那里指真正的信号传递——两种「说话」，不要混。
 
-**阿米尔·胡斯劳发明塔布拉鼓**是流传最广的传说，但缺乏同时代证据；较可靠的说法是它在 **18 世纪**成形。传说可以讲，但要标明它是传说。
+阿米尔·胡斯劳发明塔布拉鼓是流传最广的传说，但缺乏同时代证据；较可靠的说法是它在 18 世纪成形。传说可以讲，但要标明它是传说。
 
 ## 带走三件事
 
-1. **一对鼓，两种职能**：dayan 定音，bayan 造低音与滑音。
-2. **syahi 决定音高**：黑膜不是装饰，是塔布拉鼓从「鼓」变成「有音高的乐器」的那一层。
-3. **bols 是口传的记谱法**：先会说，才会打。
+1. 一对鼓，两种职能：dayan 定音，bayan 造低音与滑音。
+2. syahi 决定音高：黑膜不是装饰，是塔布拉鼓从「鼓」变成「有音高的乐器」的那一层。
+3. bols 是口传的记谱法：先会说，才会打。
 
 ### HS 分类
 
@@ -171,9 +171,9 @@ dayan 定到 **Sa**——不是固定的 C 或 A，而是**这一场演出选择
 
 ## The main line: a pair, one tuned, one talking
 
-The tabla is not one drum but **a pair**: the right-hand **dayan** (also dahina) is a small wooden drum, the left-hand **bayan** (also duggi) a large metal one. The division is not about volume but about **two jobs** — the dayan is tuned precisely to the **Sa** (tonic) of the performance and gives clear pitched strokes; the bayan is low and slack, and the heel of the hand pressed into its skin bends the pitch downwards.
+The tabla is not one drum but **a pair**: the right-hand **dayan** (also dahina) is a small wooden drum, the left-hand **bayan** (also duggi) a large metal one. The division is not about volume but about **two jobs** — the dayan is tuned precisely to the Sa (tonic) of the performance and gives clear pitched strokes; the bayan is low and slack, and the heel of the hand pressed into its skin bends the pitch downwards.
 
-So it is at once a **pitched instrument** and a **talking drum**. In Indian music the player is not "the one who keeps time" but someone who speaks a **syllable language** (bols) and then reproduces it with the hands.
+So it is at once a pitched instrument and a talking drum. In Indian music the player is not "the one who keeps time" but someone who speaks a syllable language (bols) and then reproduces it with the hands.
 
 ## Form: two drums, two materials
 
@@ -184,47 +184,47 @@ So it is at once a **pitched instrument** and a **talking drum**. In Indian musi
 | Tuning | wooden pegs (gatta) and a hammer, tuned to Sa | coarse tuning; the heel bends the pitch |
 | Job | clearly pitched na / tin / ta | low ge / glides |
 
-The **black syahi** is the heart of the instrument: a dried paste of iron oxide, manganese and rice starch that loads the centre of the head. It damps the chaotic middle, leaves a **clear pitch**, and pushes vibration to the rim for the bright overtones. Without syahi this is just another hand drum.
+The black syahi is the heart of the instrument: a dried paste of iron oxide, manganese and rice starch that loads the centre of the head. It damps the chaotic middle, leaves a clear pitch, and pushes vibration to the rim for the bright overtones. Without syahi this is just another hand drum.
 
 ## Bols: rhythm that can be spoken
 
-The strokes have **names**, and the names are spoken before they are played:
+The strokes have names, and the names are spoken before they are played:
 
-- **na** — index finger on the dayan rim, dry and closed
-- **tin** — dayan centre, open and ringing
-- **ge** — bayan centre, low and open
-- **ke** — bayan rim, muted and short
-- **dha** — both hands: ge + na
-- **dhin** — both hands: ge + tin
-- **tirakita** — a run of rapid syllables
+- na — index finger on the dayan rim, dry and closed
+- tin — dayan centre, open and ringing
+- ge — bayan centre, low and open
+- ke — bayan rim, muted and short
+- dha — both hands: ge + na
+- dhin — both hands: ge + tin
+- tirakita — a run of rapid syllables
 
-These syllables are **bols**; reciting them is **padhant**. The player says the rhythm before playing it — an **oral notation** that can be memorised, discussed, examined, and rearranged in improvisation. It is a third way of storing music, alongside the kora's family lineage and the guqin's tablature.
+These syllables are bols; reciting them is padhant. The player says the rhythm before playing it — an oral notation that can be memorised, discussed, examined, and rearranged in improvisation. It is a third way of storing music, alongside the kora's family lineage and the guqin's tablature.
 
 ## Tuning: the drum follows the melody
 
-The dayan is tuned to **Sa** — not a fixed C or A, but the tonic chosen for that performance. The same pair may be set to C for a sitar today and to D for a singer tomorrow, and the skins are retuned accordingly. The bayan usually sits an octave or a fifth lower, and the heel bends it further in use.
+The dayan is tuned to Sa — not a fixed C or A, but the tonic chosen for that performance. The same pair may be set to C for a sitar today and to D for a singer tomorrow, and the skins are retuned accordingly. The bayan usually sits an octave or a fifth lower, and the heel bends it further in use.
 
-That is how the tabla enters a **raga**: it does not impose equal temperament but follows the melody's centre. In solo the player improvises against a repeating melody (**lehara**); in accompaniment the player keeps a cycle (**theka**), marking its frame with **tali** (claps) and **khali** (empty beats).
+That is how the tabla enters a raga: it does not impose equal temperament but follows the melody's centre. In solo the player improvises against a repeating melody (lehara); in accompaniment the player keeps a cycle (theka), marking its frame with tali (claps) and khali (empty beats).
 
 ## Six schools
 
-The tradition divides into six **gharanas**: **Delhi, Ajrada, Lucknow, Farrukhabad, Banaras, Punjab**. The difference is not who is faster but which syllables are chosen, where the accents fall, and which part of the skin is preferred — the same theka can have two characters.
+The tradition divides into six gharanas: Delhi, Ajrada, Lucknow, Farrukhabad, Banaras, Punjab. The difference is not who is faster but which syllables are chosen, where the accents fall, and which part of the skin is preferred — the same theka can have two characters.
 
-In the twentieth century **Alla Rakha** and **Zakir Hussain** carried the instrument to the world stage; Hussain's collaborations with jazz and world music let the spoken and the played side be heard at once.
+In the twentieth century Alla Rakha and Zakir Hussain carried the instrument to the world stage; Hussain's collaborations with jazz and world music let the spoken and the played side be heard at once.
 
 ## Relatives and misreadings
 
-- **pakhawaj**: the older barrel drum of dhrupad; the tabla is often described as its split descendant.
-- **mridangam**: the South Indian double-headed barrel drum, with another language and repertoire.
-- **djembe / talking-drum**: West African hand and signalling drums. "Talking" for the tabla means a **syllable language**; for the talking drum it means **actual message transmission** — two different senses.
+- pakhawaj: the older barrel drum of dhrupad; the tabla is often described as its split descendant.
+- mridangam: the South Indian double-headed barrel drum, with another language and repertoire.
+- djembe / talking-drum: West African hand and signalling drums. "Talking" for the tabla means a syllable language; for the talking drum it means actual message transmission — two different senses.
 
-The story that **Amir Khusrau invented the tabla** is the most repeated legend but lacks contemporary evidence; the safer account places its formation in the **eighteenth century**. Tell the legend, but label it.
+The story that Amir Khusrau invented the tabla is the most repeated legend but lacks contemporary evidence; the safer account places its formation in the eighteenth century. Tell the legend, but label it.
 
 ## Three things to take away
 
-1. **A pair with two jobs**: the dayan tunes, the bayan makes the low end and the glide.
-2. **Syahi makes the pitch**: the black patch is not decoration but the layer that turns a drum into a pitched instrument.
-3. **Bols are oral notation**: you have to be able to say it before you can play it.
+1. A pair with two jobs: the dayan tunes, the bayan makes the low end and the glide.
+2. Syahi makes the pitch: the black patch is not decoration but the layer that turns a drum into a pitched instrument.
+3. Bols are oral notation: you have to be able to say it before you can play it.
 
 ### HS classification
 
@@ -300,5 +300,4 @@ The story that **Amir Khusrau invented the tabla** is the most repeated legend b
 ```audiolab
 {"type":"instrument","gm":"Melodic Tom","synth":"perc","phrase":["C3","G3","C4","G3","C3","G3"],"label":"两只鼓在说话：低—高—低","label_en":"Two drums talking: low, high, low","hint":"通用音色表里没有塔布拉鼓，这里借 Melodic Tom 近似：低音代表 bayan 的 ge，高音代表 dayan 的 na / tin，交替听两只鼓的分工。真实的塔布拉鼓还有三样这条试听件给不了：一、dayan 定到 Sa 的准确音高（Melodic Tom 是平均律）；二、bayan 脚跟压皮造成的连续下滑；三、bols 的音节——鼓手先念后打，念出来的节奏和打出来的是同一句话。","hint_en":"The General MIDI table has no tabla, so a Melodic Tom stands in: the low note is the bayan's ge, the high notes are the dayan's na and tin, and the alternation shows the division of labour. Three things the sample cannot give you: the dayan tuned precisely to Sa (the tom is equal-tempered), the continuous downward glide of the bayan under the heel, and the bols themselves — the player says the rhythm first, and what is spoken and what is played are the same sentence."}
 ```
-
 :::

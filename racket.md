@@ -39,20 +39,20 @@ updated: 2026-09-26
 但它多解决了一个纯粹是**空间**的难题 ——
 
 > ⚠️ **外形尺寸与音区本应是绑死的**
-> 一件管乐器的音有多低，取决于**管内空气柱有多长**。
+> 一件管乐器的音有多低，取决于管内空气柱有多长。
 > 想发低音，就得有长管；而人的胳膊只有那么长。
 >
-> 于是低音管乐器自古都在和同一个问题搏斗：**管子放哪里？**
-> - 大管（[[instrument:bassoon|巴松]]）的答案是：**对折一次**，变成 U 形。
-> - [[instrument:contrabassoon|低音巴松]]的答案是：**多折几次**。
-> - **拉凯特管的答案是：折到极限 —— 在一根只有二十几厘米的柱子里反复折返。**
+> 于是低音管乐器自古都在和同一个问题搏斗：管子放哪里？
+> - 大管（[[instrument:bassoon|巴松]]）的答案是：对折一次，变成 U 形。
+> - [[instrument:contrabassoon|低音巴松]]的答案是：多折几次。
+> - 拉凯特管的答案是：折到极限 —— 在一根只有二十几厘米的柱子里反复折返。
 >
-> 所以它被叫做"**柱状巴松**"；德文里更形象，叫 **Wurstfagott** ——
-> 字面意思就是"**香肠巴松**"。
+> 所以它被叫做"柱状巴松"；德文里更形象，叫 Wurstfagott ——
+> 字面意思就是"香肠巴松"。
 
-**它存在的理由非常具体**：在巴松成熟之前，室内合奏需要一条低音线，
+它存在的理由非常具体：在巴松成熟之前，室内合奏需要一条低音线，
 而演奏者不可能抱着两米半的管子坐着弹。
-**折叠，就是把"物理长度"和"外形尺寸"这两件事拆开的唯一办法。**
+折叠，就是把"物理长度"和"外形尺寸"这两件事拆开的唯一办法。
 
 | 分类 | 归属 |
 |---|---|
@@ -105,12 +105,12 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **风帽**。与[[instrument:crumhorn|克鲁姆管]]完全相同 ——
-   所以它的音量小、做不出力度、音色带鼻音。**这一族的气质是风帽给的。**
-2. **内部折返的管腔**。图上只画了 3 个来回（真实乐器常有 6–8 段）；
-   **每一段都藏在这根短柱里**，这就是它能发低音的全部秘密。
-3. **斜钻的指孔**。孔开在外壁上，要用一条**斜向通道**穿到里面某一段管腔 ——
-   这是它最"不讲情面"的地方：**指法极其别扭**，
+1. 风帽。与[[instrument:crumhorn|克鲁姆管]]完全相同 ——
+   所以它的音量小、做不出力度、音色带鼻音。这一族的气质是风帽给的。
+2. 内部折返的管腔。图上只画了 3 个来回（真实乐器常有 6–8 段）；
+   每一段都藏在这根短柱里，这就是它能发低音的全部秘密。
+3. 斜钻的指孔。孔开在外壁上，要用一条斜向通道穿到里面某一段管腔 ——
+   这是它最"不讲情面"的地方：指法极其别扭，
    而且换一件乐器（尺寸不同）指孔位置就变，演奏者很难通用。
 
 ## 为什么必须折：外形尺寸 ≠ 音区
@@ -137,12 +137,12 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图是整组的落点**：直管 → 折一次 → 折到极限，
-**管长一点没变，外形差出八倍。**
+这张图是整组的落点：直管 → 折一次 → 折到极限，
+管长一点没变，外形差出八倍。
 
 由此得到一条可以带走的规律：
-**「乐器有多大」和「乐器有多低」是两个可以分开设计的东西。**
-想分开它们，你只需要一个动作 —— **折**。
+「乐器有多大」和「乐器有多低」是两个可以分开设计的东西。
+想分开它们，你只需要一个动作 —— 折。
 
 ## 音域
 
@@ -150,23 +150,23 @@ updated: 2026-09-26
 {"range":"C2–G3","common":"C2–C3","caption":"拉凯特管的音域（低音形制）","caption_en":"Racket range (bass size)","note":"拉凯特管属气鸣乐器（双簧 + 圆锥管 + 风帽 + 折叠管身）。低音形制约 C2–G3，不同制作者差别较大；风帽限制超吹，单件只负责一段音区，其余音区由成套的其他尺寸承担。有更低的低音形制可到 F1 附近。记谱即实音。"}
 ```
 
-- **约 C2–G3**（低音形制），**常用区只有 C2–C3** ——
-  **它是一件"专职低音"的乐器**，不是一件能独奏全音域的乐器。
-- **风帽限制超吹** → 单件能用的音区较窄 → 低音声部靠**成套尺寸**接力。
-- **一个反直觉的结果**：因为管长可以折进柱子里，
-  **低音形制的外形并不比高音形制大多少** ——
+- 约 C2–G3（低音形制），常用区只有 C2–C3 ——
+  它是一件"专职低音"的乐器，不是一件能独奏全音域的乐器。
+- 风帽限制超吹 → 单件能用的音区较窄 → 低音声部靠成套尺寸接力。
+- 一个反直觉的结果：因为管长可以折进柱子里，
+  低音形制的外形并不比高音形制大多少 ——
   音区越低，柱子里折的来回越多，外形却几乎不变。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **"嗡嗡"的低频鼻音**。比克鲁姆管更厚、更像一大群蜜蜂 ——
+1. "嗡嗡"的低频鼻音。比克鲁姆管更厚、更像一大群蜜蜂 ——
    风帽 + 长管腔一起给的。
-2. **音量不大，但低音穿透力强**。低频在合奏里不容易被盖住。
-3. **完全没有力度变化**。旋律线的起伏只能靠**音高与节奏**表现。
-4. **起音不干脆**。低音区的长管腔需要一点时间"起振"，
-   所以它适合**持续音与慢速线条**，不适合快速吐音。
+2. 音量不大，但低音穿透力强。低频在合奏里不容易被盖住。
+3. 完全没有力度变化。旋律线的起伏只能靠音高与节奏表现。
+4. 起音不干脆。低音区的长管腔需要一点时间"起振"，
+   所以它适合持续音与慢速线条，不适合快速吐音。
 
 ```audiolab
 {"type":"instrument","gm":"Bassoon","synth":"reed","phrase":["C2","F2","G2","C3","F3","G3"],"label":"拉凯特管的常用区：C2 到 G3","label_en":"The racket's working register — C2 up to G3","hint":"注意低频的厚度与那种「被包住」的鼻音，以及整条线条几乎没有强弱 —— 通用音色表里没有拉凯特管，这里借巴松音色近似","hint_en":"Hear the low thickness and the covered nasality, and how the line barely changes in volume. General MIDI has no racket, so a bassoon sample stands in."}
@@ -174,13 +174,13 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **指法别扭是它的主要难点**。孔分在柱身的两侧、还要斜钻到不同管腔，
-  两只手要抱着柱子按 —— **换尺寸就得重新适应**。
-- **常竖着抱在怀里，或搁在膝上**。它的形状让"抱"这个动作变得很自然。
-- **只做低音线**。合奏里它几乎总是持续音或缓慢的低声部，
+- 指法别扭是它的主要难点。孔分在柱身的两侧、还要斜钻到不同管腔，
+  两只手要抱着柱子按 —— 换尺寸就得重新适应。
+- 常竖着抱在怀里，或搁在膝上。它的形状让"抱"这个动作变得很自然。
+- 只做低音线。合奏里它几乎总是持续音或缓慢的低声部，
   这正好避开它"起音慢、不能做力度"两个短处。
-- **要甩冷凝水**。与所有风帽乐器一样，帽腔与长管腔都会积水。
-- **音准靠制作精度**。唇不碰簧 → 没有事后微调的余地。
+- 要甩冷凝水。与所有风帽乐器一样，帽腔与长管腔都会积水。
+- 音准靠制作精度。唇不碰簧 → 没有事后微调的余地。
 
 ## 家族与近亲
 
@@ -192,11 +192,11 @@ updated: 2026-09-26
 | [[instrument:bassoon\|巴松]] | 折一次（U 形）+ 键系 | 中 | 低音 | 可控 |
 | [[instrument:contrabassoon\|低音巴松]] | 多次折叠 + 键系 | 中 | 极低 | 可控 |
 
-**这张表读出来是一条技术史**：
-**"折"这个动作被继承下来了，但"风帽"被丢掉了。**
+这张表读出来是一条技术史：
+"折"这个动作被继承下来了，但"风帽"被丢掉了。
 巴松与低音巴松保留折叠、丢掉风帽、加上键系 ——
 于是既有了低音，又找回了力度与灵活。
-**拉凯特管是这条路的起点，但它自己停在了半途。**
+拉凯特管是这条路的起点，但它自己停在了半途。
 
 ## 历史演变
 
@@ -208,34 +208,35 @@ updated: 2026-09-26
 | 18—19 世纪 | 退出使用；只在文献与图版中留存 |
 | 20 世纪 | **古乐运动**中复原；当代制作者按图版重新做出各种尺寸 |
 
-**它被淘汰的原因非常清楚**：**它把"折叠"这件对的事，和"风帽"这件过时的事捆在了一起。**
-巴松拿走了前者，丢掉了后者。**一次技术扩散里，往往只有一半被继承。**
+它被淘汰的原因非常清楚：它把"折叠"这件对的事，和"风帽"这件过时的事捆在了一起。
+巴松拿走了前者，丢掉了后者。一次技术扩散里，往往只有一半被继承。
 
 ## 常见误解
 
-- **"它这么小，音一定很高。"** 完全相反 —— 它是**低音**乐器；
-  小的是外形，不是管子。**这正是它存在的全部意义。**
-- **"它是克鲁姆管的小型版。"** 反了：它是克鲁姆管的**低音**版，
+- "它这么小，音一定很高。" 完全相反 —— 它是低音乐器；
+  小的是外形，不是管子。这正是它存在的全部意义。
+- "它是克鲁姆管的小型版。" 反了：它是克鲁姆管的低音版，
   而且额外解决了一个纯粹的空间问题。
-- **"折叠会改变音色或音高。"** 折的是**路线**，不是长度 ——
+- "折叠会改变音色或音高。" 折的是路线，不是长度 ——
   管长没变，音高就不变（折弯处会略微影响音色，但主要作用是省地方）。
-- **"它只是玩具或古董。"** 它是文艺复兴低音声部的主力之一，
-  并且是"折叠管身"这条技术路线**最早的极端实现**。
-- **"巴松和它没关系。"** 巴松继承的正是它和它的同代乐器开创的折叠思路。
-- **"它和大管是一回事。"** 差别是两条：**有没有风帽**、**有没有键系** ——
+- "它只是玩具或古董。" 它是文艺复兴低音声部的主力之一，
+  并且是"折叠管身"这条技术路线最早的极端实现。
+- "巴松和它没关系。" 巴松继承的正是它和它的同代乐器开创的折叠思路。
+- "它和大管是一回事。" 差别是两条：有没有风帽、有没有键系 ——
   这两条决定了表现力，也就决定了谁被留下。
 
 ## 下一步
 
 早期乐器组的双簧一线到此闭合：
-**肖姆管（不折 · 有力度）→ 克鲁姆管（折一次 · 无力度）→ 拉凯特管（折成柱 · 无力度 · 低音）**，
+肖姆管（不折 · 有力度）→ 克鲁姆管（折一次 · 无力度）→ 拉凯特管（折成柱 · 无力度 · 低音），
 三条对照合起来给出整组的两条主线：
-**① 谁驱动簧决定力度能不能控制；② 管子怎么摆决定外形尺寸与音区的关系。**
+① 谁驱动簧决定力度能不能控制；② 管子怎么摆决定外形尺寸与音区的关系。
 
-接下来换一条完全不同的线索 —— **弦**：
+接下来换一条完全不同的线索 —— 弦：
 [[instrument:theorbo|西奥伯琴]]要为通奏低音做一件"脖子特别长的[[instrument:lute|鲁特琴]]"，
 而[[instrument:portative-organ|便携管风琴]]要把一整台管风琴背在身上走。
-两件都问同一个问题：**为了让一件乐器"能带走"，你会牺牲什么？**
+两件都问同一个问题：为了让一件乐器"能带走"，你会牺牲什么？
+
 :::
 
 ::: en
@@ -247,14 +248,14 @@ wind cap**, the same covered, undynamic character — but it solves one addition
 > How low a wind instrument sounds depends on **how long its air column is**.
 > Low notes need a long bore; and a player's arms are only so long.
 >
-> So bass wind instruments have always wrestled with one question: **where does the tube go?**
-> - The [[instrument:bassoon|bassoon]]'s answer: **fold it once**, into a U.
-> - The [[instrument:contrabassoon|contrabassoon]]'s: **fold it several times**.
+> So bass wind instruments have always wrestled with one question: where does the tube go?
+> - The [[instrument:bassoon|bassoon]]'s answer: fold it once, into a U.
+> - The [[instrument:contrabassoon|contrabassoon]]'s: fold it several times.
 > - **The racket's answer: fold it to the limit — back and forth inside a column barely 25 cm tall.**
 >
-> Hence "column bassoon"; German is more vivid still — **Wurstfagott**, literally a "**sausage bassoon**".
+> Hence "column bassoon"; German is more vivid still — Wurstfagott, literally a "sausage bassoon".
 
-**Its reason to exist is concrete**: before the bassoon matured, indoor ensembles needed a bass line, and no
+Its reason to exist is concrete: before the bassoon matured, indoor ensembles needed a bass line, and no
 player could sit and play a two-and-a-half-metre tube. **Folding is the only way to prise apart "physical
 length" and "physical size".**
 
@@ -309,12 +310,12 @@ length" and "physical size".**
 
 Three points:
 
-1. **The wind cap**, identical to the [[instrument:crumhorn|crumhorn]]'s — which is why it is quiet, undynamic and
-   nasal. **The cap gives this family its temperament.**
-2. **The folded bore.** Only three turns are drawn (real instruments often have six to eight); **every one of
+1. The wind cap, identical to the [[instrument:crumhorn|crumhorn]]'s — which is why it is quiet, undynamic and
+   nasal. The cap gives this family its temperament.
+2. The folded bore. Only three turns are drawn (real instruments often have six to eight); **every one of
    them hides inside this short column.** That is the whole secret of its low pitch.
-3. **Angled finger holes.** The hole sits on the outer wall and an **angled channel** must reach a particular
-   internal bore. This is its unkindest feature: **the fingering is exceptionally awkward**, and changing to
+3. Angled finger holes. The hole sits on the outer wall and an angled channel must reach a particular
+   internal bore. This is its unkindest feature: the fingering is exceptionally awkward, and changing to
    another size moves every hole, so players cannot easily transfer.
 
 ## Why it must fold: size is not register
@@ -341,11 +342,11 @@ Three points:
 </svg>
 ```
 
-**This figure is where the whole group lands**: straight → one fold → folded to the limit, with **the bore
+This figure is where the whole group lands: straight → one fold → folded to the limit, with **the bore
 length unchanged and the physical size differing eightfold.**
 
 The takeaway rule: **"how big an instrument is" and "how low it sounds" are two separately designable
-things.** To separate them you need one action — **folding**.
+things. To separate them you need one action — folding**.
 
 ## Range
 
@@ -353,11 +354,11 @@ things.** To separate them you need one action — **folding**.
 {"range":"C2–G3","common":"C2–C3","caption":"拉凯特管的音域（低音形制）","caption_en":"Racket range (bass size)","note":"拉凯特管属气鸣乐器（双簧 + 圆锥管 + 风帽 + 折叠管身）。低音形制约 C2–G3，不同制作者差别较大；风帽限制超吹，单件只负责一段音区，其余音区由成套的其他尺寸承担。有更低的低音形制可到 F1 附近。记谱即实音。"}
 ```
 
-- **About C2–G3** on the bass size, with a **working register of just C2–C3** — it is **a specialist bass
+- About C2–G3 on the bass size, with a working register of just C2–C3 — it is **a specialist bass
   instrument**, not one that covers a whole range by itself.
-- **The wind cap blocks overblowing**, so each instrument covers a narrow band and the bass part is passed along
-  **by consort sizes**.
-- **One counter-intuitive result**: because the bore can be folded into a column, **the bass sizes are hardly
+- The wind cap blocks overblowing, so each instrument covers a narrow band and the bass part is passed along
+  by consort sizes.
+- One counter-intuitive result: because the bore can be folded into a column, **the bass sizes are hardly
   bigger than the top ones** — the lower the register, the more turns inside the column, with almost no change
   in outward size.
 
@@ -365,10 +366,10 @@ things.** To separate them you need one action — **folding**.
 
 Four cues:
 
-1. **A low buzzing nasality**, thicker than the crumhorn's and closer to a swarm of bees — cap plus long cavity.
-2. **Not loud, but its low notes carry.** Low frequencies are hard to cover up in an ensemble.
-3. **No dynamics at all.** A line must be shaped by **pitch and rhythm** alone.
-4. **A slow attack.** A long low cavity takes a moment to speak, so it suits **held notes and slow lines**, not
+1. A low buzzing nasality, thicker than the crumhorn's and closer to a swarm of bees — cap plus long cavity.
+2. Not loud, but its low notes carry. Low frequencies are hard to cover up in an ensemble.
+3. No dynamics at all. A line must be shaped by pitch and rhythm alone.
+4. A slow attack. A long low cavity takes a moment to speak, so it suits held notes and slow lines, not
    rapid tonguing.
 
 ```audiolab
@@ -377,13 +378,13 @@ Four cues:
 
 ## Playing techniques
 
-- **Awkward fingering is the main difficulty.** Holes sit on both sides of the column and angle in to different
-  bores, so both hands hug the body — and **a change of size means learning the holes again**.
-- **Usually held upright against the chest, or rested on the knee.** Its shape makes cradling it natural.
-- **It plays bass lines.** In an ensemble it is almost always a held or slow low part, which neatly avoids its
+- Awkward fingering is the main difficulty. Holes sit on both sides of the column and angle in to different
+  bores, so both hands hug the body — and a change of size means learning the holes again.
+- Usually held upright against the chest, or rested on the knee. Its shape makes cradling it natural.
+- It plays bass lines. In an ensemble it is almost always a held or slow low part, which neatly avoids its
   two weaknesses: a slow attack and no dynamics.
-- **It must be shaken out.** As with every wind-cap instrument, condensation collects in the cap and the bore.
-- **Intonation rests on the maker.** With no lips on the reed there is no chance to adjust afterwards.
+- It must be shaken out. As with every wind-cap instrument, condensation collects in the cap and the bore.
+- Intonation rests on the maker. With no lips on the reed there is no chance to adjust afterwards.
 
 ## The family
 
@@ -395,9 +396,9 @@ Four cues:
 | [[instrument:bassoon\|Bassoon]] | once (U) + keys | medium | bass | controllable |
 | [[instrument:contrabassoon\|Contrabassoon]] | several folds + keys | medium | very low | controllable |
 
-**Read as a history of technology**, the table says: **"folding" was inherited, "the wind cap" was thrown away.**
+Read as a history of technology, the table says: "folding" was inherited, "the wind cap" was thrown away.
 The bassoon and contrabassoon keep the fold, drop the cap and add a key system — gaining both a low register
-and control. **The racket is where that road begins, and it stopped halfway along it.**
+and control. The racket is where that road begins, and it stopped halfway along it.
 
 ## History
 
@@ -409,33 +410,33 @@ and control. **The racket is where that road begins, and it stopped halfway alon
 | 18th–19th c. | falls out of use, surviving in documents and plates |
 | 20th c. | **revived by the early-music movement**; modern makers build the various sizes from the surviving plates |
 
-**The reason it was superseded is plain**: **it bundled the right idea, folding, together with the obsolete
-one, the wind cap.** The bassoon took the first and discarded the second. **In the spread of a technology, often
+The reason it was superseded is plain: **it bundled the right idea, folding, together with the obsolete
+one, the wind cap. The bassoon took the first and discarded the second. In the spread of a technology, often
 only half is inherited.**
 
 ## Common misconceptions
 
-- **"It is small, so it must be high."** Precisely the opposite: it is a **bass** instrument. The small thing is
+- "It is small, so it must be high." Precisely the opposite: it is a bass instrument. The small thing is
   its body, not its bore — which is the entire point of its existence.
-- **"It is a small crumhorn."** Backwards: it is the crumhorn's **bass** version, and it solves an extra problem
+- "It is a small crumhorn." Backwards: it is the crumhorn's bass version, and it solves an extra problem
   that is purely about space.
-- **"Folding changes pitch or timbre."** Folding changes the **route**, not the length — the bore is unchanged,
+- "Folding changes pitch or timbre." Folding changes the route, not the length — the bore is unchanged,
   so the pitch is too (the bends colour the tone slightly, but their main job is saving room).
-- **"It is just a curiosity or an antique."** It was a mainstay of the Renaissance bass part and the earliest
+- "It is just a curiosity or an antique." It was a mainstay of the Renaissance bass part and the earliest
   extreme realisation of the folded-bore idea.
-- **"The bassoon has nothing to do with it."** The bassoon inherited exactly the folding idea that it and its
+- "The bassoon has nothing to do with it." The bassoon inherited exactly the folding idea that it and its
   contemporaries pioneered.
-- **"It is the same thing as a bassoon."** Two differences decide it: **a wind cap** and **a key system** —
+- "It is the same thing as a bassoon." Two differences decide it: a wind cap and a key system —
   and those two decide expressiveness, hence which one survived.
 
 ## Next
 
 The double-reed line of this early group closes here:
 **shawm (unfolded · dynamics) → crumhorn (one fold · no dynamics) → racket (folded to a column · no dynamics ·
-bass)**, and the three together give the group's two threads: **① who drives the reed decides whether dynamics
+bass), and the three together give the group's two threads: ① who drives the reed decides whether dynamics
 are possible; ② how the bore is laid out decides how size relates to register.**
 
-Now a wholly different thread — **strings**: the [[instrument:theorbo|theorbo]] is a [[instrument:lute|lute]]
+Now a wholly different thread — strings: the [[instrument:theorbo|theorbo]] is a [[instrument:lute|lute]]
 with an absurdly long neck for the continuo bass, and the [[instrument:portative-organ|portative organ]] has to
 carry a whole organ on one's back. Both ask the same question: **to make an instrument portable, what will you
 give up?**

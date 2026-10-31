@@ -35,11 +35,11 @@ updated: 2026-10-28
 
 ## 形制：钉与绳
 
-nagado 的皮缘用一排铆钉（**byou**）固定，音高在制鼓时大体定下；shime 的绳收紧就升音，所以能跟笛、三味线对齐。**铆钉把声音固定，绳索让声音可调**。鼓只击一面，另一面不被击打，胴体作为共鸣腔把声音送出去。
+nagado 的皮缘用一排铆钉（byou）固定，音高在制鼓时大体定下；shime 的绳收紧就升音，所以能跟笛、三味线对齐。铆钉把声音固定，绳索让声音可调。鼓只击一面，另一面不被击打，胴体作为共鸣腔把声音送出去。
 
 ## 场合：神社、能乐、歌舞伎、组太鼓
 
-神社祭礼的鼓给神听；能乐囃子以笛、小鼓、大鼓为骨，太鼓只加入部分曲目；歌舞伎下座用 shime-daiko 与 ōdaiko 制造入场、战斗与天气。祭礼行列里鼓挂在肩上，边走边打：坐、站、走。20 世纪中叶，**Daihachi Oguchi** 把鼓编成合奏，组太鼓（**kumi-daiko**）成形；鬼太鼓座与鼓童把它带向世界，鼓手变成舞者。天岩户前天钿女命踏桶而舞是**神话**，不是制鼓史；它只说明鼓最早用来请神。
+神社祭礼的鼓给神听；能乐囃子以笛、小鼓、大鼓为骨，太鼓只加入部分曲目；歌舞伎下座用 shime-daiko 与 ōdaiko 制造入场、战斗与天气。祭礼行列里鼓挂在肩上，边走边打：坐、站、走。20 世纪中叶，Daihachi Oguchi 把鼓编成合奏，组太鼓（kumi-daiko）成形；鬼太鼓座与鼓童把它带向世界，鼓手变成舞者。天岩户前天钿女命踏桶而舞是神话，不是制鼓史；它只说明鼓最早用来请神。
 
 ## 对照：大鼓与金贝鼓
 
@@ -47,9 +47,9 @@ nagado 的皮缘用一排铆钉（**byou**）固定，音高在制鼓时大体�
 
 ## 带走三件事
 
-1. **一类，不是一件**：nagado、hira、shime、katsugi 各有制度。
-2. **钉定音，绳调音**：两种固定方式决定两种演奏生活。
-3. **从祭礼到组太鼓**：听众从神变成观众，鼓点仍靠同一套身体动作。
+1. 一类，不是一件：nagado、hira、shime、katsugi 各有制度。
+2. 钉定音，绳调音：两种固定方式决定两种演奏生活。
+3. 从祭礼到组太鼓：听众从神变成观众，鼓点仍靠同一套身体动作。
 
 ### HS 分类
 
@@ -100,11 +100,11 @@ The long-bodied **nagado-daiko** has its skins held by tacks; the shallow **hira
 
 ## Form: tacks and rope
 
-On a nagado, the edge of each skin is nailed with a row of tacks (**byou**), and the pitch is largely set at the workshop. On a shime, tightening the ropes raises the pitch, so it can agree with flute and shamisen. **Tacks fix the sound, rope makes it adjustable.** Only one head is struck; the body acts as a resonator.
+On a nagado, the edge of each skin is nailed with a row of tacks (byou), and the pitch is largely set at the workshop. On a shime, tightening the ropes raises the pitch, so it can agree with flute and shamisen. Tacks fix the sound, rope makes it adjustable. Only one head is struck; the body acts as a resonator.
 
 ## Occasions: shrine, Noh, Kabuki, kumi-daiko
 
-The shrine drum is played to be heard by the kami. The Noh hayashi is built on flute, small and large shoulder drums, with a taiko joining only some plays; Kabuki's geza uses shime-daiko and ōdaiko for entrances, battles and weather. In a festival procession the drum hangs from the shoulder and is struck while walking. In the 1950s **Daihachi Oguchi** arranged the drums into an ensemble, and **kumi-daiko** took shape; Ondekoza and Kodo carried it to world stages, turning drummers into dancers. In the Kojiki, Ame-no-Uzume dances on an overturned tub before Amaterasu's cave — that is **myth**, not drum history; it says only that the drum's first job was to call the kami.
+The shrine drum is played to be heard by the kami. The Noh hayashi is built on flute, small and large shoulder drums, with a taiko joining only some plays; Kabuki's geza uses shime-daiko and ōdaiko for entrances, battles and weather. In a festival procession the drum hangs from the shoulder and is struck while walking. In the 1950s Daihachi Oguchi arranged the drums into an ensemble, and kumi-daiko took shape; Ondekoza and Kodo carried it to world stages, turning drummers into dancers. In the Kojiki, Ame-no-Uzume dances on an overturned tub before Amaterasu's cave — that is myth, not drum history; it says only that the drum's first job was to call the kami.
 
 ## Against the bass drum and the djembe
 
@@ -112,9 +112,9 @@ The Western bass drum is double-headed and aims at a mass of low frequency; a ta
 
 ## Three things to take away
 
-1. **A class, not an instrument**: nagado, hira, shime and katsugi each have their own institution.
-2. **Tacks fix, ropes tune**: two mountings produce two kinds of musical life.
-3. **From festival to kumi-daiko**: the listener changes from kami to audience, but the strokes remain the same body work.
+1. A class, not an instrument: nagado, hira, shime and katsugi each have their own institution.
+2. Tacks fix, ropes tune: two mountings produce two kinds of musical life.
+3. From festival to kumi-daiko: the listener changes from kami to audience, but the strokes remain the same body work.
 
 ### HS classification
 
@@ -152,5 +152,4 @@ The Western bass drum is double-headed and aims at a mass of low frequency; a ta
 ```audiolab
 {"type":"instrument","gm":"Taiko Drum","synth":"perc","phrase":["D2","D2","A2","D3","A2","D2"],"label":"太鼓：低—高—回低","label_en":"Taiko: low, high, back to low","hint":"通用音色表里有 Taiko Drum，但它只是一只鼓的采样，不是一整类太鼓。低音代表长胴鼓的胴鸣，高音代表缔太鼓收紧的鼓面；真实的皮钉张力、桴落点的差别、多鼓合奏时的低频耦合，这条试听件给不了。","hint_en":"The General MIDI table does have a Taiko Drum, but it is a sample of one drum, not a whole class. The low note stands for the body sound of a long drum, the high note for a tightened shime-daiko; the real tack tension, the difference between centre and rim, and the low-frequency coupling of several drums are beyond this sample."}
 ```
-
 :::

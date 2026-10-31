@@ -37,7 +37,7 @@ updated: 2026-09-26
 **木琴要"点"，马林巴要"线"。**
 
 差别来自两个物理量：**共鸣管更长**、**木条更软更厚**。
-于是它得到了木条一族里最**暖、最厚、余音最长**的音色 —— 也因此能当**独奏乐器**。
+于是它得到了木条一族里最**暖、最厚、余音最长**的音色 —— 也因此能当独奏乐器。
 
 | 分类 | 归属 |
 |---|---|
@@ -46,11 +46,11 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 打击（体鸣·木条族） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，马林巴不在其中 |
 
-> ⚠️ **一个概念上的要点**：**"共鸣管"是木条一族的共同结构，但它的长度决定了乐器的性格。**
-> [[instrument:xylophone|木琴]]的共鸣管短 → 声音"接住就放"，余音短 → 适合**点状**的乐句；
-> 马林巴的共鸣管长（低音区可超过一米）→ 声音被"留住"并延迟辐射 → 余音长 → 适合**线状**的乐句。
+> ⚠️ 一个概念上的要点："共鸣管"是木条一族的共同结构，但它的长度决定了乐器的性格。
+> [[instrument:xylophone|木琴]]的共鸣管短 → 声音"接住就放"，余音短 → 适合点状的乐句；
+> 马林巴的共鸣管长（低音区可超过一米）→ 声音被"留住"并延迟辐射 → 余音长 → 适合线状的乐句。
 > 这与[[instrument:snare-drum|小鼓]]/[[instrument:timpani|定音鼓]]那条"腔体决定音高"的规律同源 ——
-> **在打击乐里，结构尺寸直接决定"能做什么音乐"。**
+> 在打击乐里，结构尺寸直接决定"能做什么音乐"。
 
 ## 结构：长共鸣管是它的性格来源
 
@@ -96,10 +96,10 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **低音区的共鸣管极长**（可超过一米）。管越长，低频共鸣越充分 →
+1. 低音区的共鸣管极长（可超过一米）。管越长，低频共鸣越充分 →
    声音被"留住"得更久 → 余音长。
-2. **琴条更软更厚**（比木琴）。软材料的高频少、基频强 → 音色更暖。
-3. **用软头槌**。这是与木琴的另一个关键差别：软头 + 长共鸣 = 温暖绵长的声音。
+2. 琴条更软更厚（比木琴）。软材料的高频少、基频强 → 音色更暖。
+3. 用软头槌。这是与木琴的另一个关键差别：软头 + 长共鸣 = 温暖绵长的声音。
 
 ## 四槌：它为什么能当独奏乐器
 
@@ -143,18 +143,18 @@ updated: 2026-09-26
 {"range":"C2–C7","common":"C3–C6","caption":"马林巴的音域（以五组琴为例）","caption_en":"Marimba range (a five-octave instrument)","note":"马林巴属体鸣的有音高乐器。常见音域 C2–C7（视琴的组数，从 4 组到 5 组半不等）——比木琴低一个八度左右。记谱即实音。"}
 ```
 
-- **C2–C7**（以五组琴为例），约五个八度 —— 是木条一族里音域最宽的。
-- **常用区 C3–C6**：这一段它最暖、最结实。
-- **低音区（C2–C3）** 是它的"重量"，也是长共鸣管最能发挥作用的地方。
+- C2–C7（以五组琴为例），约五个八度 —— 是木条一族里音域最宽的。
+- 常用区 C3–C6：这一段它最暖、最结实。
+- 低音区（C2–C3） 是它的"重量"，也是长共鸣管最能发挥作用的地方。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **暖、厚、圆**。它没有木琴那种"骨感"，声音里有一层绵长的共鸣。
-2. **余音长**。这是它必须主动止音的原因，也是它能"唱"的原因。
-3. **能做渐强渐弱**。长余音 + 槌头选择，让它可以做出相当细腻的力度线条。
-4. **低频有实际的分量**。低音区的马林巴能给整块音响加底 ——
+1. 暖、厚、圆。它没有木琴那种"骨感"，声音里有一层绵长的共鸣。
+2. 余音长。这是它必须主动止音的原因，也是它能"唱"的原因。
+3. 能做渐强渐弱。长余音 + 槌头选择，让它可以做出相当细腻的力度线条。
+4. 低频有实际的分量。低音区的马林巴能给整块音响加底 ——
    这一点让它在室内乐与爵士里都能承担"和声乐器"的角色。
 
 ```audiolab
@@ -163,10 +163,10 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **四槌技术**为独奏基础（见上图）；两支槌多用于合奏与节奏型。
-- **止音**是关键技术：余音长，所以要用槌或手主动停止不需要的音。
-- **换槌**：软硬不同的槌头在同一首曲子里切换，用于改变音色层次。
-- **多槌滚奏**：用四支槌交替，得到更密更厚的持续音。
+- 四槌技术为独奏基础（见上图）；两支槌多用于合奏与节奏型。
+- 止音是关键技术：余音长，所以要用槌或手主动停止不需要的音。
+- 换槌：软硬不同的槌头在同一首曲子里切换，用于改变音色层次。
+- 多槌滚奏：用四支槌交替，得到更密更厚的持续音。
 
 ## 家族与近亲
 
@@ -178,8 +178,8 @@ updated: 2026-09-26
 | [[instrument:glockenspiel\|钟琴]] | 钢 | — | G5–C8 | 极亮 |
 | [[instrument:celesta\|钢片琴]] | 钢片（键盘） | 共鸣箱 | C3–C8 | 玻璃般 |
 
-**注意马林巴与木琴的"音域错位"**：马林巴更低更宽（C2–C7），木琴更高更窄（F4–C8）——
-这不是偶然，而是**低音需要长共鸣管**这一物理约束的结果。
+注意马林巴与木琴的"音域错位"：马林巴更低更宽（C2–C7），木琴更高更窄（F4–C8）——
+这不是偶然，而是低音需要长共鸣管这一物理约束的结果。
 
 ## 历史演变
 
@@ -191,25 +191,26 @@ updated: 2026-09-26
 | 20 世纪中期 | **四槌技术**普及，马林巴成为独奏乐器；极简主义作曲家（如赖希）为多台马林巴写作 |
 | 20 世纪后期至今 | 独奏、室内乐、爵士、影视音乐的常用乐器 |
 
-**它是一条"跨洲际的乐器谱系"**：非洲的木条琴 → 中南美的改良 → 美国与日本的现代化。
+它是一条"跨洲际的乐器谱系"：非洲的木条琴 → 中南美的改良 → 美国与日本的现代化。
 今天看到的五组马林巴，是这条谱系最后一站的产物。
 
 ## 常见误解
 
-- **"马林巴就是木琴。"** 同族同构，但**材料与共鸣管长度不同** →
+- "马林巴就是木琴。" 同族同构，但材料与共鸣管长度不同 →
   音色与用法都不同。马林巴更低、更暖、能奏复调。
-- **"打击乐器不能演奏旋律与和声。"** 马林巴用四槌能同时奏出旋律与和声，
+- "打击乐器不能演奏旋律与和声。" 马林巴用四槌能同时奏出旋律与和声，
   有完整的独奏文献。
-- **"余音长是缺点。"** 它是马林巴"能唱"的来源；演奏者用止音技术控制它。
-- **"它只是管弦乐里的装饰音色。"** 它在爵士与室内乐里是常规的**和声乐器**，
+- "余音长是缺点。" 它是马林巴"能唱"的来源；演奏者用止音技术控制它。
+- "它只是管弦乐里的装饰音色。" 它在爵士与室内乐里是常规的和声乐器，
   在当代音乐里是重要的独奏乐器。
-- **"所有马林巴音域都一样。"** 从四组到五组半不等，音域差别很大。
+- "所有马林巴音域都一样。" 从四组到五组半不等，音域差别很大。
 
 ## 下一步
 
-木条一族的下一件从**木质转向金属**：[[instrument:vibraphone|颤音琴]] ——
+木条一族的下一件从木质转向金属：[[instrument:vibraphone|颤音琴]] ——
 它把共鸣管里的"空气"变成了可以被控制的变量（旋转阀），因此得到了"颤音"。
 再往后是 [[instrument:glockenspiel|钟琴]] 与 [[instrument:tubular-bells|管钟]]。
+
 :::
 
 ::: en
@@ -227,10 +228,10 @@ instrument**.
 | **Family** | Western · Percussion (idiophone, wooden-bar family) |
 | **Bayin** | Not applicable — a Chinese system; the marimba is outside it |
 
-> ⚠️ **One conceptual point**: **the resonator is shared across the family, but its **length** decides the
+> ⚠️ One conceptual point: the resonator is shared across the family, but its length** decides the
 > instrument's character.** The [[instrument:xylophone|xylophone]]'s resonators are short → the sound is
-> caught and released at once → short tail → suited to **points**. The marimba's are long (over a metre in
-> the bass) → the sound is held and radiated later → long tail → suited to **lines**.
+> caught and released at once → short tail → suited to points. The marimba's are long (over a metre in
+> the bass) → the sound is held and radiated later → long tail → suited to lines.
 > This follows the same logic as "the cavity decides the pitch" on the
 > [[instrument:snare-drum|snare]]/[[instrument:timpani|timpani]] pages — **in percussion, physical dimensions
 > directly decide what music is possible.**
@@ -279,11 +280,11 @@ instrument**.
 
 Three points:
 
-1. **Extremely long bass resonators** (over a metre). Longer tubes resonate lower frequencies more fully →
+1. Extremely long bass resonators (over a metre). Longer tubes resonate lower frequencies more fully →
    the sound is held longer → a long tail.
-2. **Softer, thicker bars** than a xylophone's. A softer material has fewer high frequencies and a stronger
+2. Softer, thicker bars than a xylophone's. A softer material has fewer high frequencies and a stronger
    fundamental → a warmer tone.
-3. **Soft mallets.** Another key difference from the xylophone: soft heads plus long resonators give the warm,
+3. Soft mallets. Another key difference from the xylophone: soft heads plus long resonators give the warm,
    sustained sound.
 
 ## Four mallets: why it can be a solo instrument
@@ -328,19 +329,19 @@ Three points:
 {"range":"C2–C7","common":"C3–C6","caption":"马林巴的音域（以五组琴为例）","caption_en":"Marimba range (a five-octave instrument)","note":"马林巴属体鸣的有音高乐器。常见音域 C2–C7（视琴的组数，从 4 组到 5 组半不等）——比木琴低一个八度左右。记谱即实音。"}
 ```
 
-- **C2–C7** (for a five-octave instrument), about five octaves — the widest in the wooden-bar family.
-- **The working register is C3–C6**, where it is warmest and fullest.
-- **The bass (C2–C3)** is its weight, and where the long resonators do most of their work.
+- C2–C7 (for a five-octave instrument), about five octaves — the widest in the wooden-bar family.
+- The working register is C3–C6, where it is warmest and fullest.
+- The bass (C2–C3) is its weight, and where the long resonators do most of their work.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Warm, thick, round.** No bone-dry edge as on a xylophone — there is a sustained resonance around the
+1. Warm, thick, round. No bone-dry edge as on a xylophone — there is a sustained resonance around the
    note.
-2. **A long tail**, the reason it must be damped actively, and the reason it can "sing".
-3. **It can crescendo and diminuendo.** A long tail plus mallet choice allows quite fine dynamic shaping.
-4. **Real weight in the bass**, letting it act as a **harmonic instrument** in chamber music and jazz.
+2. A long tail, the reason it must be damped actively, and the reason it can "sing".
+3. It can crescendo and diminuendo. A long tail plus mallet choice allows quite fine dynamic shaping.
+4. Real weight in the bass, letting it act as a harmonic instrument in chamber music and jazz.
 
 ```audiolab
 {"type":"instrument","gm":"Marimba","synth":"struck","phrase":["C3","E3","G3","C4","E4","G4"],"label":"马林巴的常用区：C3 到 G4","label_en":"The marimba's working register — C3 up to G4","hint":"注意比木琴暖厚得多、余音也长得多 —— 同样的结构，共鸣管长度不同","hint_en":"Hear how much warmer and longer than a xylophone — same structure, different resonator length."}
@@ -348,11 +349,11 @@ Four cues:
 
 ## Playing techniques
 
-- **Four mallets** are the basis of solo playing (see the diagram); two are common in ensembles and for
+- Four mallets are the basis of solo playing (see the diagram); two are common in ensembles and for
   rhythmic figures.
-- **Damping** is essential: a long tail must be stopped deliberately with mallets or hands.
-- **Mallet changes** between soft and hard heads within a piece, for colour.
-- **Multi-mallet rolls** with four mallets give a denser, thicker sustain.
+- Damping is essential: a long tail must be stopped deliberately with mallets or hands.
+- Mallet changes between soft and hard heads within a piece, for colour.
+- Multi-mallet rolls with four mallets give a denser, thicker sustain.
 
 ## The family
 
@@ -364,7 +365,7 @@ Four cues:
 | [[instrument:glockenspiel\|Glockenspiel]] | steel | — | G5–C8 | very bright |
 | [[instrument:celesta\|Celesta]] | steel plates (keyboard) | soundbox | C3–C8 | glassy |
 
-**Note the register offset between marimba and xylophone**: the marimba is lower and wider (C2–C7), the
+Note the register offset between marimba and xylophone: the marimba is lower and wider (C2–C7), the
 xylophone higher and narrower (F4–C8) — not by accident, but as a consequence of **low notes needing long
 resonators**.
 
@@ -378,19 +379,19 @@ resonators**.
 | Mid-20th c. | **four-mallet technique** spreads and the marimba becomes a solo instrument; minimalist composers (Reich among them) write for multiple marimbas |
 | Late 20th c. onward | a standard instrument in solo, chamber, jazz and film music |
 
-**It is a cross-continental lineage**: African bar instruments → the Central American improvement → American
+It is a cross-continental lineage: African bar instruments → the Central American improvement → American
 and Japanese modernisation. Today's five-octave marimba is the last stage of that line.
 
 ## Common misconceptions
 
-- **"A marimba is a xylophone."** Same family and mechanics, but **different material and resonator length** →
+- "A marimba is a xylophone." Same family and mechanics, but different material and resonator length →
   different sound and different use. The marimba is lower, warmer and polyphonic.
-- **"Percussion cannot play melody and harmony."** With four mallets the marimba does both, and it has a full
+- "Percussion cannot play melody and harmony." With four mallets the marimba does both, and it has a full
   solo repertoire.
-- **"A long tail is a defect."** It is what lets the marimba sing; players control it by damping.
-- **"It is an orchestral garnish."** It is a regular **harmonic instrument** in jazz and chamber music and an
+- "A long tail is a defect." It is what lets the marimba sing; players control it by damping.
+- "It is an orchestral garnish." It is a regular harmonic instrument in jazz and chamber music and an
   important solo instrument in contemporary music.
-- **"All marimbas have the same range."** From four to five and a half octaves, the range varies widely.
+- "All marimbas have the same range." From four to five and a half octaves, the range varies widely.
 
 ## Next
 

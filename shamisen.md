@@ -36,24 +36,24 @@ updated: 2026-10-28
 
 ## 形制与声音：三弦、皮膜、长颈、拨子
 
-- **三根弦**：传统用丝，今多用尼龙；无品的长颈（sao）常做成可拆的三到四段。
-- **方形琴身（dō）**：前后蒙皮，猫皮用于细杆、犬皮用于粗杆，今多用合成皮；皮就是面板，也是音色的一半。
-- **拨子（bachi）**：木、象牙或玳瑁；津轻用特别大而厚的拨子。
-- **sawari**：第一弦蹭琴颈顶端的嗡声，位置可调；被保留为音色。
+- 三根弦：传统用丝，今多用尼龙；无品的长颈（sao）常做成可拆的三到四段。
+- 方形琴身（dō）：前后蒙皮，猫皮用于细杆、犬皮用于粗杆，今多用合成皮；皮就是面板，也是音色的一半。
+- 拨子（bachi）：木、象牙或玳瑁；津轻用特别大而厚的拨子。
+- sawari：第一弦蹭琴颈顶端的嗡声，位置可调；被保留为音色。
 
-三弦的实音约 **B2–E5**，常用区 **B2–D5**，实际音高随定弦整体移动。
+三弦的实音约 B2–E5，常用区 B2–D5，实际音高随定弦整体移动。
 
 ## 制度与近亲：三种岗位、两张琴
 
-三味线有三个岗位。**义太夫**（文乐）：太夫说唱，粗杆用重拨子跟人声抢拍；**长呗**（歌舞伎）：为舞蹈钉拍，音量要穿过舞台；**民谣**：自弹自唱；津轻在二十世纪成独奏传统，**高桥竹山**与**木田林松荣**是关键人物。
+三味线有三个岗位。义太夫（文乐）：太夫说唱，粗杆用重拨子跟人声抢拍；长呗（歌舞伎）：为舞蹈钉拍，音量要穿过舞台；民谣：自弹自唱；津轻在二十世纪成独奏传统，高桥竹山与木田林松荣是关键人物。
 
-与**三弦**对照：三弦是中国的原型，蟒皮、无品；三味线经琉球三线传入（通行说法），皮改为猫皮或犬皮，琴身更小，改用大拨子。与**班卓琴**对照：两者都用皮膜拨弦，音头都亮；班卓有金属环、共鸣器与蓝草滚奏，三味线有拨子与 sawari。**三线**（sanshin）是三味线的近亲，不是同一乐器。
+与三弦对照：三弦是中国的原型，蟒皮、无品；三味线经琉球三线传入（通行说法），皮改为猫皮或犬皮，琴身更小，改用大拨子。与班卓琴对照：两者都用皮膜拨弦，音头都亮；班卓有金属环、共鸣器与蓝草滚奏，三味线有拨子与 sawari。三线（sanshin）是三味线的近亲，不是同一乐器。
 
 ## 带走三件事
 
-1. **拨子先撞皮**：那一下噪音就是重拍，不是伴奏里的杂质。
-2. **sawari 是设计**：嗡声可以调，被保留下来成为音色。
-3. **三种岗位**：义太夫叙事、长呗舞蹈、民谣自弹自唱，同一件琴三种时间感。
+1. 拨子先撞皮：那一下噪音就是重拍，不是伴奏里的杂质。
+2. sawari 是设计：嗡声可以调，被保留下来成为音色。
+3. 三种岗位：义太夫叙事、长呗舞蹈、民谣自弹自唱，同一件琴三种时间感。
 
 ### HS 分类
 
@@ -105,22 +105,22 @@ Most plucked instruments want a clean attack; the shamisen keeps the **impact**.
 
 ## Form and sound: three strings, skin, long neck, plectrum
 
-- **Three strings**: silk or nylon; the fretless neck (**sao**) is sectional.
-- **Square body (dō)**: cat, dog or synthetic skin front and back.
-- **Plectrum (bachi)**: wood, ivory or tortoiseshell; Tsugaru uses a large, heavy one.
-- **Sawari**: an adjustable buzz at the neck; kept as tone.
+- Three strings: silk or nylon; the fretless neck (sao) is sectional.
+- Square body (dō): cat, dog or synthetic skin front and back.
+- Plectrum (bachi): wood, ivory or tortoiseshell; Tsugaru uses a large, heavy one.
+- Sawari: an adjustable buzz at the neck; kept as tone.
 
-Range **B2–E5**, common **B2–D5**; pitch moves with the tuning.
+Range B2–E5, common B2–D5; pitch moves with the tuning.
 
 ## Institution and relatives: three jobs, two cousins
 
-Three jobs: **gidayū** (bunraku) pits a narrator against a thick-necked shamisen; **nagauta** (kabuki) nails the beat for dance; **min'yō** accompanies itself, and Tsugaru became a solo tradition under Takahashi Chikuzan and Kida Rinshōei. Against the **sanxian** (snakeskin, fretless, Chinese) the shamisen came via the Ryukyu sanshin; against the **banjo** both share a skin head and bright attack, but the banjo adds a metal ring and rolls, the shamisen bachi and sawari. The Okinawan **sanshin** is a cousin, not the same instrument.
+Three jobs: gidayū (bunraku) pits a narrator against a thick-necked shamisen; nagauta (kabuki) nails the beat for dance; min'yō accompanies itself, and Tsugaru became a solo tradition under Takahashi Chikuzan and Kida Rinshōei. Against the sanxian (snakeskin, fretless, Chinese) the shamisen came via the Ryukyu sanshin; against the banjo both share a skin head and bright attack, but the banjo adds a metal ring and rolls, the shamisen bachi and sawari. The Okinawan sanshin is a cousin, not the same instrument.
 
 ## Three things to take away
 
-1. **Plectrum first, skin first**: that noise is the downbeat.
-2. **Sawari is designed**: the buzz is adjustable and kept as tone.
-3. **Three jobs**: gidayū narrates, nagauta drives dance, min'yō accompanies itself.
+1. Plectrum first, skin first: that noise is the downbeat.
+2. Sawari is designed: the buzz is adjustable and kept as tone.
+3. Three jobs: gidayū narrates, nagauta drives dance, min'yō accompanies itself.
 
 ### HS classification
 
@@ -159,5 +159,4 @@ Three jobs: **gidayū** (bunraku) pits a narrator against a thick-necked shamise
 ```audiolab
 {"type":"instrument","gm":"Shamisen","synth":"plucked","phrase":["B2","E3","B3","E4","B3","A3","E3","B2"],"label":"本调子：四度上去，五度回来","label_en":"Honchoshi: up a fourth, back by a fifth","hint":"GM 表里有 Shamisen，这里用采样走本调子。真实三味线少了三样：拨子撞皮的噪音、sawari 的嗡声、为穿过舞台保留的硬音头。","hint_en":"The GM table has a Shamisen patch, used for a honchoshi figure. It cannot give you the plectrum noise on skin, the sawari buzz, or the hard attack kept to cut through a stage."}
 ```
-
 :::

@@ -20,7 +20,7 @@ instances:
   - norbeck-003472 | 《Sikuri de Italaque》—— 伊塔拉凯的 sikuri 名曲，听同一旋律怎样由 ira 与 arca 接力；曲库无该乐器录音（C1 · OPEN）
   - pdmx-000128 | 《El Cóndor Pasa》—— 安第斯旋律最广为人知的一首，可对照 siku 合奏里的长线条；曲库无该乐器录音（C1 · CC0）
 sources:
-  - 双排管、ira 与 arca 的分工、传统两人各持一排，参 Wikipedia "Siku (instrument)" 与 Grove "Siku"；本文原创
+  - 双排管、ira 与 arca 的分工、传统两人各持一排，参 Wikipedia "Siku (instrument)" 与 Grove "Siku"；原创
   - 安第斯排箫的材质、尺寸与 sikuri 合奏语境，参 Grove 与安第斯音乐研究通行叙述；印加之前的排箫实物与传说分开处理
   - 曲库无该乐器录音，实例取 C1 的玻利维亚 sikuri 曲调与安第斯旋律作参照，逐条在 why 说明
 updated: 2026-10-28
@@ -30,33 +30,33 @@ updated: 2026-10-28
 
 ## 主线：两排才是一条音阶
 
-安第斯排箫（siku，西班牙语 zampoña）把管子分成**两排**，每排都不是完整音阶；旋律必须**在两排之间交替**。传统上两人各持一排，音符像接力一样传递。siku 的第一件事不是音色，而是**分工**。通用形制见 [[instrument:pan-flute|排箫]]；本页只讲双排与合奏。
+安第斯排箫（siku，西班牙语 zampoña）把管子分成**两排**，每排都不是完整音阶；旋律必须**在两排之间交替**。传统上两人各持一排，音符像接力一样传递。siku 的第一件事不是音色，而是**分工**。通用形制见 [[instrument:pan-flute|排箫]]；这一条只讲双排与合奏。
 
 ## 形制：ira 与 arca
 
 - **两排**：常为 ira 六管、arca 七管，管长交错，合起来才是完整音阶。
-- **材质**：竹、芦苇或甘蔗秆，绑成筏状。
-- **尺寸**：多种尺寸，合奏叠成多八度。
-- **持法**：双手持一排；吹哪根就移动乐器。
-- **合奏**：sikuri 常与鼓一起，成对演奏者叠成一片。
+- 材质：竹、芦苇或甘蔗秆，绑成筏状。
+- 尺寸：多种尺寸，合奏叠成多八度。
+- 持法：双手持一排；吹哪根就移动乐器。
+- 合奏：sikuri 常与鼓一起，成对演奏者叠成一片。
 
 ## 声音：音符之间的缝
 
-siku 的音色是闭管的暗、空、带气声；安第斯合奏最特别的是**音符之间的缝**。ira 吹一个音，arca 接下一个，两人在对方的气息上“交接”。siku 常配**循环呼吸**：长线条需要气息不断，而交替已把呼吸切成两半。
+siku 的音色是闭管的暗、空、带气声；安第斯合奏最特别的是音符之间的缝。ira 吹一个音，arca 接下一个，两人在对方的气息上“交接”。siku 常配循环呼吸：长线条需要气息不断，而交替已把呼吸切成两半。
 
 ## 克丘亚、艾马拉与高地
 
-siku 流传在秘鲁、玻利维亚、智利北部、厄瓜多尔与阿根廷北部的安第斯高地，克丘亚与艾马拉社群各有称法与形制。它常出现在**农业节令、狂欢节与社区节庆**里，音乐是集体的事。起源故事常把排箫归给牧人、山风或神灵——这些是**传说**；前哥伦布排箫实物比印加更早。传统上两人各持一排，但分工合奏仍是核心。
+siku 流传在秘鲁、玻利维亚、智利北部、厄瓜多尔与阿根廷北部的安第斯高地，克丘亚与艾马拉社群各有称法与形制。它常出现在农业节令、狂欢节与社区节庆里，音乐是集体的事。起源故事常把排箫归给牧人、山风或神灵——这些是传说；前哥伦布排箫实物比印加更早。传统上两人各持一排，但分工合奏仍是核心。
 
 ## 与 nai、中国排箫对照
 
-- **罗马尼亚 nai**：单排、管多、可奏半音，常作独奏；siku 是双排、按五声/七声分工，合奏优先。
-- **中国排箫（paixiao）**：单排、一管一音、一人持握；siku 把“一管一音”分成两排、两人。
-- **pan-flute 页**：讲通用形制与闭管声学；本页讲 ira/arca 与 sikuri。
+- 罗马尼亚 nai：单排、管多、可奏半音，常作独奏；siku 是双排、按五声/七声分工，合奏优先。
+- 中国排箫（paixiao）：单排、一管一音、一人持握；siku 把“一管一音”分成两排、两人。
+- pan-flute 页：讲通用形制与闭管声学；这一条讲 ira/arca 与 sikuri。
 
 ## 常见误解
 
-- **“siku 就是普通排箫。”** 普通排箫一人持一排；siku 把音阶拆成两排，传统上两人各持一排。
+- “siku 就是普通排箫。” 普通排箫一人持一排；siku 把音阶拆成两排，传统上两人各持一排。
 
 ## HS 分类
 
@@ -106,9 +106,9 @@ siku 流传在秘鲁、玻利维亚、智利北部、厄瓜多尔与阿根廷北
 
 ## 带走三件事
 
-1. **双排不是装饰**：两排各自不完整，合起来才是音阶。
-2. **两个人一件乐器**：ira 与 arca 的交替，把旋律变成接力。
-3. **合奏优先**：sikuri 的音响是集体厚度，不是独奏炫技。
+1. 双排不是装饰：两排各自不完整，合起来才是音阶。
+2. 两个人一件乐器：ira 与 arca 的交替，把旋律变成接力。
+3. 合奏优先：sikuri 的音响是集体厚度，不是独奏炫技。
 
 :::
 
@@ -121,27 +121,27 @@ The siku (zampoña) splits its pipes into **two rows**. Neither is a full scale;
 ## Form: ira and arca
 
 - **Two rows**: often six ira and seven arca pipes; lengths interlock into one scale.
-- **Material**: bamboo, reed or cane bound into a raft.
-- **Holding**: one row in both hands; the player moves the instrument, not fingers.
-- **Ensemble**: sikuri, often with drums.
+- Material: bamboo, reed or cane bound into a raft.
+- Holding: one row in both hands; the player moves the instrument, not fingers.
+- Ensemble: sikuri, often with drums.
 
 ## Sound: the seam between notes
 
-The siku has the dark, hollow, airy sound of closed tubes; the Andean point is **the seam between notes**. Ira sounds a note, arca takes the next, and the two hand over on each other's breath. Hence **circular breathing**: long lines need unbroken air, and alternation cuts breath in two.
+The siku has the dark, hollow, airy sound of closed tubes; the Andean point is the seam between notes. Ira sounds a note, arca takes the next, and the two hand over on each other's breath. Hence circular breathing: long lines need unbroken air, and alternation cuts breath in two.
 
 ## Quechua, Aymara and the highlands
 
-The siku is played in the highlands of Peru, Bolivia, northern Chile, Ecuador and Argentina, among Quechua and Aymara communities. Origin stories attribute them to shepherds or spirits — **legend**; archaeological panpipes predate the Inca. Two players take one row each, but **divided ensemble** remains the core.
+The siku is played in the highlands of Peru, Bolivia, northern Chile, Ecuador and Argentina, among Quechua and Aymara communities. Origin stories attribute them to shepherds or spirits — legend; archaeological panpipes predate the Inca. Two players take one row each, but divided ensemble remains the core.
 
 ## Against the nai and the Chinese paixiao
 
-- **Romanian nai**: one row, many pipes, often solo; the siku is two rows, divided by role, ensemble first.
-- **Chinese paixiao**: one row, one note per pipe, one player; the siku splits the idea into two rows and two people.
-- **pan-flute page**: generic form and acoustics; this page covers ira/arca and sikuri.
+- Romanian nai: one row, many pipes, often solo; the siku is two rows, divided by role, ensemble first.
+- Chinese paixiao: one row, one note per pipe, one player; the siku splits the idea into two rows and two people.
+- pan-flute page: generic form and acoustics; this page covers ira/arca and sikuri.
 
 ## Common misconceptions
 
-- **"The siku is just a pan flute."** A generic pan flute is one row for one player; the siku splits the scale into two, traditionally one each.
+- "The siku is just a pan flute." A generic pan flute is one row for one player; the siku splits the scale into two, traditionally one each.
 
 ## HS class
 
@@ -191,8 +191,7 @@ The siku is played in the highlands of Peru, Bolivia, northern Chile, Ecuador an
 
 ## Three things to take away
 
-1. **Two rows are not decoration**: neither row is a scale; together they make one.
-2. **Two people, one instrument**: ira and arca turn the melody into a relay.
-3. **Ensemble first**: sikuri is collective thickness, not solo display.
-
+1. Two rows are not decoration: neither row is a scale; together they make one.
+2. Two people, one instrument: ira and arca turn the melody into a relay.
+3. Ensemble first: sikuri is collective thickness, not solo display.
 :::

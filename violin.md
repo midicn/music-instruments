@@ -31,7 +31,7 @@ instances:
   - thesession-000001 | 爱尔兰单声部舞曲 —— 提琴在传统音乐里的用法，全曲只有一条旋律线、没有伴奏
 sources:
   - 琴体比例取通行制琴数据：琴体长 356 毫米、上琴腰宽 168 毫米、腰宽 112 毫米、下琴腰宽 208 毫米
-  - 定弦 G–D–A–E（纯五度）与常用音域属通行乐器学常识，各版乐器词典表述一致，本文为原创表述
+  - 定弦 G–D–A–E（纯五度）与常用音域属通行乐器学常识，各版乐器词典表述一致
   - 四个空弦的音高（G3 D4 A4 E5）依通行乐谱，属公有领域
   - 巴洛克琴与现代琴在琴颈角度、低音梁、指板长度、琴弦材质上的差异，依通行制琴史叙述
   - 「**琴体越大 → 声音越低**（弦长与共鸣体同步增大）」依弦鸣乐器原理 —— 这也是小提琴族四件成为一组的原因
@@ -131,11 +131,11 @@ updated: 2026-09-25
 
 ## 发声原理
 
-弓毛上涂松香，擦过弦时产生**粘滞—滑动**交替：弓毛把弦拽走一小段，弦的弹力又把它拽回来，
-如此每秒几百次 —— 这就是**摩擦激励**，与拨弦的「敲一下自由振动」完全不同。
-它的好处是**能量持续输入**，所以弦可以连响几十秒而不衰减。
+弓毛上涂松香，擦过弦时产生粘滞—滑动交替：弓毛把弦拽走一小段，弦的弹力又把它拽回来，
+如此每秒几百次 —— 这就是摩擦激励，与拨弦的「敲一下自由振动」完全不同。
+它的好处是能量持续输入，所以弦可以连响几十秒而不衰减。
 
-弦的振动经**琴桥**压到**面板**上。面板是云杉做的：比重小、顺纹刚度高，
+弦的振动经琴桥压到面板上。面板是云杉做的：比重小、顺纹刚度高，
 既容易被推动，又能把能量铺开成大面积振动 —— 这是"用一块木板放大几根弦"的核心。
 两条路径分成两半：
 
@@ -197,13 +197,13 @@ updated: 2026-09-25
 | **高音侧** | 经**音柱**传给背板 | 背板（枫木）被带动一起振动，高音更亮、更有"芯" |
 
 箱体里的空气也不算闲人：它有一个自己的共振频率（现代小提琴约在 290 Hz 附近），
-正好补上低音区那一段天生偏弱的响度。所以一把琴的声音是**弦—面板—音柱—背板—空气**
+正好补上低音区那一段天生偏弱的响度。所以一把琴的声音是弦—面板—音柱—背板—空气
 五者配合的结果，不是"木头好就行"。
 
-定弦是 **G3–D4–A4–E5**，四组**纯五度**。这个选择不是随手定的：纯五度的频率比最简单，
+定弦是 G3–D4–A4–E5，四组纯五度。这个选择不是随手定的：纯五度的频率比最简单，
 在 [[concept:harmonic-series|泛音列]] 里出现得最早，所以相邻两弦的高次分音会互相重合 ——
 一把琴上每根弦的"空弦音"都能被另一根弦的泛音找到，按音位置因此成体系。
-这也是为什么小提琴手可以只凭手感与耳朵找准音：他靠的不是格子，而是**弦与弦之间的音程关系**。
+这也是为什么小提琴手可以只凭手感与耳朵找准音：他靠的不是格子，而是弦与弦之间的音程关系。
 
 ## 音域
 
@@ -211,7 +211,7 @@ updated: 2026-09-25
 {"range":"G3–E7","common":"G3–E6","caption":"小提琴的实音音域与常用音区","caption_en":"The violin’s sounding range and its working register","note":"小提琴是实音乐器：记谱音与实际音高相同，不移调。四个空弦音 G3、D4、A4、E5 都落在图内。"}
 ```
 
-四个八度的跨度，但**四根弦各有自己的性格**，这是小提琴写作最常用的一个杠杆：
+四个八度的跨度，但四根弦各有自己的性格，这是小提琴写作最常用的一个杠杆：
 
 | 弦 | 空弦音 | 音色 | 常用场合 |
 |---|---|---|---|
@@ -220,41 +220,41 @@ updated: 2026-09-25
 | A 弦 | A4 | 明亮、有穿透力 | 主旋律的常用区 |
 | E 弦 | E5 | 最锋利、最亮 | 高潮、华彩、极高音区 |
 
-所以同一段旋律写在 A 弦上还是 E 弦上，听感差别很大 —— 演奏者会为了**换弦时机**反复试奏。
+所以同一段旋律写在 A 弦上还是 E 弦上，听感差别很大 —— 演奏者会为了换弦时机反复试奏。
 
 ## 音色与听辨
 
 认出小提琴，抓两个特征就够了：
 
-1. **起音有一瞬间的"毛刺"**：弓毛擦弦的最初一刹那有摩擦噪声，之后才进入平稳的持续音。
+1. 起音有一瞬间的"毛刺"：弓毛擦弦的最初一刹那有摩擦噪声，之后才进入平稳的持续音。
    这段"毛刺"是弓弦乐器的指纹 —— 没有它，就是电子合成的假弦乐。
-2. **音量可以一直不变**：长音不会自己衰减。听到一个长时间保持力度不变的音，
+2. 音量可以一直不变：长音不会自己衰减。听到一个长时间保持力度不变的音，
    基本可以排除弹拨（吉他一类）与击弦（钢琴一类）。
 
-听的时候请用下面的试听件（那才是"琴的音色"），音色模型先用**合成近似**（零下载），
-想听真实采样音色再点**真实音色**（首次需要下载音色库，之后会缓存）。
+听的时候请用下面的试听件（那才是"琴的音色"），音色模型先用合成近似（零下载），
+想听真实采样音色再点真实音色（首次需要下载音色库，之后会缓存）。
 
 ```audiolab
 {"type":"instrument","gm":"Violin","synth":"bowed","phrase":["G3","D4","A4","E5"],"label":"四根空弦：小提琴的四个音区","label_en":"Four open strings — the violin’s four registers","hint":"空弦音 G3–D4–A4–E5 就是纯五度；先听合成近似，再听 GM 采样对照","hint_en":"G3–D4–A4–E5 are the four open strings — each a fifth apart. Try the synth first, then the GM samples."}
 ```
 
-> 本页「在库中听例子」里的曲子是**乐谱与演奏的骨架**（转写或雕版 MIDI），
-> 音色由本页的试听件负责。两者听同一段音乐的两个不同层面，不要混为一谈。
+> 「在库中听例子」里的曲子是乐谱与演奏的骨架（转写或雕版 MIDI），
+> 音色由这一条的试听件负责。两者听同一段音乐的两个不同层面，不要混为一谈。
 
 ## 演奏技法
 
 右手（弓）决定发音，左手决定音高与色彩。常见的几组：
 
-- **连弓 legato / 分弓 détaché**：一弓几个音，还是一弓一个音 —— 最基础的句法工具。
-- **跳弓 spiccato / 顿弓 staccato**：让弓毛离弦再落回，得到短促、有弹性的音。
-- **泛音**：手指虚按弦的 1/2、1/3 等分点，只留下该处的分音 —— 音色透明得像另一件乐器。
+- 连弓 legato / 分弓 détaché：一弓几个音，还是一弓一个音 —— 最基础的句法工具。
+- 跳弓 spiccato / 顿弓 staccato：让弓毛离弦再落回，得到短促、有弹性的音。
+- 泛音：手指虚按弦的 1/2、1/3 等分点，只留下该处的分音 —— 音色透明得像另一件乐器。
   这是 [[concept:harmonic-series|泛音列]] 被直接演奏出来的现场。
-- **双音与和弦**：同时拉两根弦（如三度、六度、八度），四根弦也能拉三音和弦
+- 双音与和弦：同时拉两根弦（如三度、六度、八度），四根弦也能拉三音和弦
   （只是低音会稍作分解）。
-- **揉弦 vibrato**：左手在指板上小幅摆动，让音高以每秒 5–7 次微动 ——
+- 揉弦 vibrato：左手在指板上小幅摆动，让音高以每秒 5–7 次微动 ——
   这是"有表情的持续音"和"平直的长音"之间的分界线。
-- **弱音器 con sordino**：夹在琴桥上，压低高频，声音变远、变哑。
-- **拨弦 pizzicato**：放下弓，用手指拨弦 —— 同一个箱子，音色立刻变成弹拨。
+- 弱音器 con sordino：夹在琴桥上，压低高频，声音变远、变哑。
+- 拨弦 pizzicato：放下弓，用手指拨弦 —— 同一个箱子，音色立刻变成弹拨。
 
 ## 家族与近亲
 
@@ -271,13 +271,13 @@ updated: 2026-09-25
 除了管弦乐里的这四件，同"弦鸣 · 摩擦/拨奏"这一支上还有
 [[instrument:viol|维奥尔琴]]（六弦、有品，巴洛克早期的主角）、
 [[instrument:lute|鲁特琴]]与 [[instrument:harp|竖琴]]（拨弦，不走弓）。
-另外一个常见混淆：**民间提琴（fiddle）不是另一种乐器** —— 它通常就是小提琴，
+另外一个常见混淆：民间提琴（fiddle）不是另一种乐器 —— 它通常就是小提琴，
 只是定弦、持琴方式与曲目传统不同。
 
 ## 历史演变
 
 现代小提琴的定型发生在 16–18 世纪的意大利：克雷莫纳的 Amati、Stradivari、
-Guarneri 三代把琴体比例推到今天的标准。此后最大的变化不在琴体，而在**配件**：
+Guarneri 三代把琴体比例推到今天的标准。此后最大的变化不在琴体，而在配件：
 
 | 部件 | 巴洛克时期 | 现代 |
 |---|---|---|
@@ -287,24 +287,24 @@ Guarneri 三代把琴体比例推到今天的标准。此后最大的变化不�
 | 琴桥与指板 | 矮、短 | 高、长 |
 | 腮托与肩垫 | 无 | 19 世纪起逐步加装 |
 
-这一整套改动的方向只有一个：**更响**。为了填满越来越大的音乐厅，
+这一整套改动的方向只有一个：更响。为了填满越来越大的音乐厅，
 琴弦张力提高了，面板就必须撑得更牢，于是低音梁加粗；琴颈后仰、指板加长，
 才承得住更高的张力与更高的把位。代价是巴洛克琴那种柔和的"羊肠味"变淡了 ——
 所以在"历史演奏"实践里，人们会特意把琴恢复成巴洛克配置。
 
 ## 常见误解
 
-- **"小提琴的音域和钢琴一样高。"** → 差得远。钢琴最高到 C8，小提琴的极限音大约到 E7，
-  还低一个大三度；但小提琴**在 G3–E6 这一段更常用、更响亮**，钢琴在那一段反而要靠更多音堆起来。
-- **"没有品，所以音拉不准。"** → 没有品正是为了两件事：音高能连续变化（才能揉弦、
+- "小提琴的音域和钢琴一样高。" → 差得远。钢琴最高到 C8，小提琴的极限音大约到 E7，
+  还低一个大三度；但小提琴在 G3–E6 这一段更常用、更响亮，钢琴在那一段反而要靠更多音堆起来。
+- "没有品，所以音拉不准。" → 没有品正是为了两件事：音高能连续变化（才能揉弦、
   才能做出微调），以及四根弦的音程关系自成体系。音准靠训练，不靠格子。
-- **"弓毛是头发，绷得越紧越好。"** → 恰恰相反。弓毛张力过大会让弓杆失去弹性，
+- "弓毛是头发，绷得越紧越好。" → 恰恰相反。弓毛张力过大会让弓杆失去弹性，
   跳弓与控制都做不出来，长期还会拉伤弓毛与弓杆。正常演奏时弓毛几乎贴住弓杆。
-- **"贵琴的声音一定更好。"** → 声音是一个系统（琴 + 弓 + 松香 + 演奏者 + 房间）。
+- "贵琴的声音一定更好。" → 声音是一个系统（琴 + 弓 + 松香 + 演奏者 + 房间）。
   多次盲测中，演奏者与听众都不能稳定分辨老琴与现代高价琴，甚至会把现代琴评为更好。
-- **"四根弦一样粗。"** → 从 G 到 E 逐弦变细：粗弦振动慢、出低音。
+- "四根弦一样粗。" → 从 G 到 E 逐弦变细：粗弦振动慢、出低音。
   这也是为什么低音弦要更长（琴颈短了不行），以及为什么低音提琴的定弦改成了四度。
-- **"琴越大声音越低，所以低音提琴就是放大版的小提琴。"** → 低音提琴不只是放大的小提琴，
+- "琴越大声音越低，所以低音提琴就是放大版的小提琴。" → 低音提琴不只是放大的小提琴，
   它的定弦是四度（E–A–D–G）、琴颈角度与琴弓握法都不同，弓法体系也是独立的一套。
 
 ## 下一步
@@ -313,6 +313,7 @@ Guarneri 三代把琴体比例推到今天的标准。此后最大的变化不�
 只低五度，但角色的差别比音高的差别大得多），再看
 [[concept:articulation|运音法]]（同一把琴上，弓怎么走就换了一种语言），
 最后去 [[concept:timbre|音色]] 一节，把这些听感接到概念上。
+
 :::
 
 ::: en
@@ -413,10 +414,10 @@ top plate and back plate, under the treble-string side). Their job is the next s
 
 Rosin is sticky. Drawn across the string, the bow alternately grips it and lets it slip:
 the string is pulled aside, then snaps back, hundreds of times a second. This is
-**friction excitation**, and it differs from plucking in one decisive way — energy keeps being
+friction excitation, and it differs from plucking in one decisive way — energy keeps being
 fed in, so a note can last for tens of seconds without decaying.
 
-The string's vibration reaches the **top plate** through the **bridge**. That plate is spruce:
+The string's vibration reaches the top plate through the bridge. That plate is spruce:
 low density, high stiffness along the grain — easy to set moving, and good at spreading the
 motion over a large area. THIS is how a few strings fill a room with sound. The energy then
 splits two ways:
@@ -481,10 +482,10 @@ splits two ways:
 
 The air inside the box is not idle either: it has its own resonance (around 290 Hz in a modern
 violin), which fills in exactly the register the low strings are weak in. A violin's voice is
-therefore the joint product of **string, top plate, soundpost, back plate and air** — not
+therefore the joint product of string, top plate, soundpost, back plate and air — not
 simply "good wood".
 
-The strings are tuned **G3–D4–A4–E5** — four **perfect fifths**. That is not arbitrary:
+The strings are tuned G3–D4–A4–E5 — four perfect fifths. That is not arbitrary:
 a perfect fifth has one of the simplest frequency ratios, and appears at the very front of the
 [[concept:harmonic-series|harmonic series]]. Overtones of adjacent strings therefore coincide,
 so every open string can be found among another string's overtones. On this instrument,
@@ -497,7 +498,7 @@ between the strings**, not from a grid.
 {"range":"G3–E7","common":"G3–E6","caption":"小提琴的实音音域与常用音区","caption_en":"The violin’s sounding range and its working register","note":"小提琴是实音乐器：记谱音与实际音高相同，不移调。四个空弦音 G3、D4、A4、E5 都落在图内。"}
 ```
 
-Four octaves of span — but **each string has its own character**, and that is the lever
+Four octaves of span — but each string has its own character, and that is the lever
 composers use most often:
 
 | String | Open note | Colour | Typical use |
@@ -508,26 +509,26 @@ composers use most often:
 | E | E5 | sharpest, brightest | climaxes, cadenzas, extreme high notes |
 
 The same melody on the A string and on the E string sounds markedly different, which is why
-players rehearse **when to change string** as carefully as the notes themselves.
+players rehearse when to change string as carefully as the notes themselves.
 
 ## Timbre, and how to hear it
 
 Two features are enough to identify a violin:
 
-1. **A brief scrape at the start.** The first instant of bow contact adds friction noise before
+1. A brief scrape at the start. The first instant of bow contact adds friction noise before
    the steady tone settles in. That scrape is the fingerprint of a bowed instrument — chest
    string patches without it are synthesised, not bowed.
-2. **Volume that simply keeps going.** A long note does not decay. A sustained tone with
+2. Volume that simply keeps going. A long note does not decay. A sustained tone with
    constant loudness rules out plucked instruments (guitars) and struck ones (pianos).
 
-Use the player below for the timbre itself. Start with the **synth approximation** — it needs no
-download — then switch to **real timbre** if you want the sampled GM instrument.
+Use the player below for the timbre itself. Start with the synth approximation — it needs no
+download — then switch to real timbre if you want the sampled GM instrument.
 
 ```audiolab
 {"type":"instrument","gm":"Violin","synth":"bowed","phrase":["G3","D4","A4","E5"],"label":"四根空弦：小提琴的四个音区","label_en":"Four open strings — the violin’s four registers","hint":"空弦音 G3–D4–A4–E5 就是纯五度；先听合成近似，再听 GM 采样对照","hint_en":"G3–D4–A4–E5 are the four open strings — each a fifth apart. Try the synth first, then the GM samples."}
 ```
 
-> The tracks under “Listen in the library” are the **skeleton of the music** — transcription or
+> The tracks under “Listen in the library” are the skeleton of the music — transcription or
 > engraving MIDI — while timbre is handled by the player above. They are two layers of the same
 > music, not two versions of the same thing.
 
@@ -535,16 +536,16 @@ download — then switch to **real timbre** if you want the sampled GM instrumen
 
 The bow shapes the sound; the left hand shapes pitch and colour:
 
-- **Legato / détaché**: several notes per bow, or one note per bow — the basic unit of phrasing.
-- **Spiccato / staccato**: let the bow leave the string and drop back for short, springy notes.
-- **Harmonics**: touch the string lightly at the 1/2, 1/3 division and only that partial speaks.
+- Legato / détaché: several notes per bow, or one note per bow — the basic unit of phrasing.
+- Spiccato / staccato: let the bow leave the string and drop back for short, springy notes.
+- Harmonics: touch the string lightly at the 1/2, 1/3 division and only that partial speaks.
   The [[concept:harmonic-series|harmonic series]] performed live, in front of you.
-- **Double stops and chords**: two strings at once (thirds, sixths, octaves); three-note chords
+- Double stops and chords: two strings at once (thirds, sixths, octaves); three-note chords
   work too, with the lowest note slightly broken.
-- **Vibrato**: the left hand rocks on the fingerboard, bending the pitch five to seven times a
+- Vibrato: the left hand rocks on the fingerboard, bending the pitch five to seven times a
   second. This is the line between an expressive sustained note and a flat one.
-- **Mute (con sordino)**: clamped on the bridge, it cuts the highs — the sound recedes and dulls.
-- **Pizzicato**: put the bow down and pluck. Same box, immediately a plucked voice.
+- Mute (con sordino): clamped on the bridge, it cuts the highs — the sound recedes and dulls.
+- Pizzicato: put the bow down and pluck. Same box, immediately a plucked voice.
 
 ## The family
 
@@ -562,14 +563,14 @@ for a player, switching instrument within the family is far easier than switchin
 Beyond the orchestral four, the same bowed or plucked chordophone branch includes the
 [[instrument:viol|viol]] (six strings, fretted, the earlier Baroque favourite),
 the [[instrument:lute|lute]] and the [[instrument:harp|harp]] (plucked, no bow).
-One frequent mix-up: a **fiddle is not a different instrument** — it is normally a violin,
+One frequent mix-up: a fiddle is not a different instrument — it is normally a violin,
 differing only in tuning, hold and repertoire.
 
 ## History
 
 The modern violin took shape in 16th–18th-century Italy: three generations in Cremona — Amati,
 Stradivari, Guarneri — pushed the body proportions to what they still are. The largest changes
-since then were not to the body but to the **fittings**:
+since then were not to the body but to the fittings:
 
 | Part | Baroque | Modern |
 |---|---|---|
@@ -579,7 +580,7 @@ since then were not to the body but to the **fittings**:
 | Bridge and fingerboard | low, short | high, long |
 | Chinrest and shoulder rest | none | added from the 19th century |
 
-Every one of those changes pushed in a single direction: **louder**. To fill ever larger halls,
+Every one of those changes pushed in a single direction: louder. To fill ever larger halls,
 string tension rose; the top plate then needed more support, so the bass bar grew; the neck was
 angled back and the fingerboard lengthened so the instrument could carry that tension and those
 higher positions. The cost was a softening of the gut-strung Baroque tone — which is exactly why
@@ -587,22 +588,22 @@ the historical-performance movement puts instruments back to Baroque specificati
 
 ## Common misconceptions
 
-- **"The violin reaches as high as the piano."** No. The piano goes to C8; the violin's extreme
+- "The violin reaches as high as the piano." No. The piano goes to C8; the violin's extreme
   lies around E7, a major third lower. But the violin is far more **usable and audible across
   G3–E6**, where the piano needs a pile of notes to compete.
-- **"No frets means it plays out of tune."** Frets are absent precisely so pitch can move
+- "No frets means it plays out of tune." Frets are absent precisely so pitch can move
   continuously (vibrato, fine adjustment) and so the four strings form their own system of
   intervals. Intonation is trained, not gridded.
-- **"The hair should be as tight as possible."** The opposite: over-tight hair kills the stick's
+- "The hair should be as tight as possible." The opposite: over-tight hair kills the stick's
   spring, so spiccato and control disappear, and the hair and stick suffer. In playing, the hair
   lies almost against the stick.
-- **"A more expensive instrument sounds better."** Sound is a system — instrument, bow, rosin,
+- "A more expensive instrument sounds better." Sound is a system — instrument, bow, rosin,
   player, room. In repeated blind tests neither players nor listeners could reliably pick out the
   old Italian instruments, and modern ones were sometimes preferred.
-- **"All four strings are the same thickness."** They get thinner from G to E: a thick string
+- "All four strings are the same thickness." They get thinner from G to E: a thick string
   vibrates slowly. Which is also why the bass strings need length, and why the double bass moved
   to fourths.
-- **"A bigger instrument is just an enlarged violin."** The double bass is tuned in fourths
+- "A bigger instrument is just an enlarged violin." The double bass is tuned in fourths
   (E–A–D–G), with a different neck angle and bow grip; its bowing technique is a system of its own.
 
 ## Next

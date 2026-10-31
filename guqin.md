@@ -43,15 +43,15 @@ updated: 2026-09-26
 > ⚠️ **第一件：两套分类体系在这里相遇。**
 > 前面八十多条用的是 Hornbostel–Sachs 五分法，判据是「**什么在振动**」。
 > 而中国有另一套更早的体系 —— **八音**（金 · 石 · 土 · 革 · 丝 · 木 · 匏 · 竹），
-> 判据是「**用什么材料做**」。
+> 判据是「用什么材料做」。
 >
-> 古琴给八音的答案是**一个字：丝**。
+> 古琴给八音的答案是一个字：丝。
 >
 > 但这里立刻出现一个很有现代意义的问题：
-> **八音是两千多年前用当时的材料做的分类；而今天大多数古琴已经改用钢丝尼龙弦了。**
-> 材料换了，归属就成了**沿用的名义**。
-> **这不是八音的缺陷，而是所有"按材料分类"的体系共同的命运** ——
-> 分类描述的是**它诞生时的世界**。
+> 八音是两千多年前用当时的材料做的分类；而今天大多数古琴已经改用钢丝尼龙弦了。
+> 材料换了，归属就成了沿用的名义。
+> 这不是八音的缺陷，而是所有"按材料分类"的体系共同的命运 ——
+> 分类描述的是它诞生时的世界。
 
 | 分类 | 归属 |
 |---|---|
@@ -103,13 +103,13 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **无品**。这是与[[instrument:pipa|琵琶]]最本质的差别：
-   有品 → 音高是一级一级的**台阶**；无品 → 音高是**连续的线**。
-   所以古琴的左手按音可以**上下滑动**（走音 · 吟猱），
+1. 无品。这是与[[instrument:pipa|琵琶]]最本质的差别：
+   有品 → 音高是一级一级的台阶；无品 → 音高是连续的线。
+   所以古琴的左手按音可以上下滑动（走音 · 吟猱），
    这是它最有辨识度的语言之一。
-2. **十三徽**。它不是装饰，而是**弦的等分点** —— 下一张图专门讲这个。
-3. **七弦、横置、低音量**。它从一开始就不是为演奏厅设计的乐器：
-   音量小、弦长而松，所以**琴曲的节拍通常偏慢**。
+2. 十三徽。它不是装饰，而是弦的等分点 —— 下一张图专门讲这个。
+3. 七弦、横置、低音量。它从一开始就不是为演奏厅设计的乐器：
+   音量小、弦长而松，所以琴曲的节拍通常偏慢。
 
 ## 一根弦，三种发声方式
 
@@ -151,15 +151,15 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图说清了古琴最重要的技术特点**：
+这张图说清了古琴最重要的技术特点：
 
-1. **徽位是物理，不是装饰**。轻触等分点 → 那一段弦不振动 → 剩下的部分发出**泛音**。
-   **十三徽之所以在那里，是因为弦的泛音节点就在那里。**
+1. 徽位是物理，不是装饰。轻触等分点 → 那一段弦不振动 → 剩下的部分发出泛音。
+   十三徽之所以在那里，是因为弦的泛音节点就在那里。
    （这与[[concept:harmonic-series|泛音列]]是同一件事，只是古琴把它做成了看得见的标记。）
-2. **三种音色**：**散音**（空弦，浑厚）· **按音**（左手按弦，圆润可变）· **泛音**（轻触，清亮）。
-   传统把它们比作**天 · 人 · 地**：**泛音象天，按音如人，散音同大地。**
-3. **同一个音高，三种做法**。同一个音可以在不同弦、不同徽位、用三种方法奏出 ——
-   **这在乐器里极罕见**：别的乐器是"一个音一种音色"，古琴是"**一个音三种性格**"。
+2. 三种音色：散音（空弦，浑厚）· 按音（左手按弦，圆润可变）· 泛音（轻触，清亮）。
+   传统把它们比作天 · 人 · 地：泛音象天，按音如人，散音同大地。
+3. 同一个音高，三种做法。同一个音可以在不同弦、不同徽位、用三种方法奏出 ——
+   这在乐器里极罕见：别的乐器是"一个音一种音色"，古琴是"一个音三种性格"。
 
 ## 音域
 
@@ -167,22 +167,22 @@ updated: 2026-09-26
 {"range":"C2–D6","common":"C3–D5","caption":"古琴的音域（正调）","caption_en":"The guqin's range (standard tuning)","note":"古琴属弦鸣乐器（拨弦，无品）。正调定弦一至七弦为 C2 · D2 · F2 · G2 · A2 · C3 · D3；全部音域约 C2–D6，共四个八度加一个大二度。传统按徽位把音区分三准：下准（七徽以下，低音）· 中准（四徽至七徽，中音，即图中常用区）· 上准（一徽至四徽，高音）。换调弦音域略有差异。记谱即实音。"}
 ```
 
-- **约 C2–D6**，**四个八度加一个大二度** —— 对一件七弦无品的乐器来说非常宽。
-- **低音靠散音与下准**。七条空弦给出七个音（C2 起），
-   所以它的低音区是**一条弦一个音**，与[[instrument:harp|竖琴]]"弦逐级加长"同一个思路。
-- **常用区 C3–D5**，即传统所谓**中准**（四徽至七徽）——
+- 约 C2–D6，四个八度加一个大二度 —— 对一件七弦无品的乐器来说非常宽。
+- 低音靠散音与下准。七条空弦给出七个音（C2 起），
+   所以它的低音区是一条弦一个音，与[[instrument:harp|竖琴]]"弦逐级加长"同一个思路。
+- 常用区 C3–D5，即传统所谓中准（四徽至七徽）——
    琴曲的旋律主要在这里活动。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **音量小**。这是它的定位决定的：**它是弹给自己与朋友听的乐器**，不是演奏厅乐器。
-2. **余音长、走音活**。无品让按音可以滑动，滑音之间带着细微的音高变化 ——
+1. 音量小。这是它的定位决定的：它是弹给自己与朋友听的乐器，不是演奏厅乐器。
+2. 余音长、走音活。无品让按音可以滑动，滑音之间带着细微的音高变化 ——
    这是它最不容易被模仿的地方。
-3. **泛音清亮而"空"**。一段整段用泛音弹的琴曲并不罕见（如《梅花三弄》）。
-4. **三籁可辨**。浑厚（散）· 圆润（按）· 清亮（泛）——
-   **听古琴的第一件事，就是分辨这三种声音。**
+3. 泛音清亮而"空"。一段整段用泛音弹的琴曲并不罕见（如《梅花三弄》）。
+4. 三籁可辨。浑厚（散）· 圆润（按）· 清亮（泛）——
+   听古琴的第一件事，就是分辨这三种声音。
 
 ```audiolab
 {"type":"instrument","gm":"Koto","synth":"plucked","phrase":["C2","D2","F2","G2","A2","C3","D3"],"label":"七弦散音（正调）：C2 到 D3","label_en":"Seven open strings in standard tuning — C2 up to D3","hint":"这就是七条弦的空弦音本身 —— 通用音色表里没有古琴，这里借同为拨弦齐特琴的筝（Koto）近似","hint_en":"These are the seven open strings themselves. General MIDI has no guqin, so a Koto — also a plucked zither — stands in."}
@@ -190,16 +190,16 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **右手拨弦**。用真甲或指肉，向内向下拨 —— 音色靠指法角度改变。
-- **左手在按与不按之间**。按弦得按音（并可滑动），
-  轻触徽位得泛音 —— **左手是这件乐器一半的表现力所在**。
-- **节拍通常偏慢**。弦长而松，在一条弦上做快速音程跑动不易 ——
+- 右手拨弦。用真甲或指肉，向内向下拨 —— 音色靠指法角度改变。
+- 左手在按与不按之间。按弦得按音（并可滑动），
+  轻触徽位得泛音 —— 左手是这件乐器一半的表现力所在。
+- 节拍通常偏慢。弦长而松，在一条弦上做快速音程跑动不易 ——
   所以琴曲多以舒缓的线条与走音取胜。
-- **记谱只记动作**。中唐以来的**减字谱**记录的是**弦序 · 徽位 · 指法**，
-  **不记节奏** —— 所以同一首琴曲在不同流派手里差别很大。
+- 记谱只记动作。中唐以来的减字谱记录的是弦序 · 徽位 · 指法，
+  不记节奏 —— 所以同一首琴曲在不同流派手里差别很大。
   （这一点与上一批的[[instrument:mechanical-instruments|自动演奏乐器]]刚好相反：
   后者把"动作"记得精确无比但丢掉了意图；减字谱只给动作、把意图留给师承。）
-- **打谱**。因为减字谱不记节奏，现代琴家要把古谱"翻译"成可演奏的样子 —— 这项工作叫**打谱**。
+- 打谱。因为减字谱不记节奏，现代琴家要把古谱"翻译"成可演奏的样子 —— 这项工作叫打谱。
 
 ## 家族与近亲
 
@@ -212,8 +212,8 @@ updated: 2026-09-26
 | [[instrument:bianzhong\|编钟]] | — | — | 敲击不同大小的钟 | 金 |
 | [[instrument:harp\|竖琴]] | 多 | 无 | 弦逐级加长 | （不适用） |
 
-**这张表是"八音"这一批的入口**：
-**「八音」问的是"用什么材料做"，"HS 分类"问的是"什么在振动"** ——
+这张表是"八音"这一批的入口：
+「八音」问的是"用什么材料做"，"HS 分类"问的是"什么在振动" ——
 同一批器物，两张完全不同的地图。
 
 ## 历史演变
@@ -231,24 +231,25 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"古琴就是古筝。"** 完全不同的两件乐器：**弦数、有无柱、演奏方式、音色**都不同。
-  最简判据：**古琴无柱（无品），筝每弦一柱**。
-- **"古琴音量太小，是做得不好。"** 它是**有意为私密场合**设计的：
-  文人抚琴常在书斋与山林，**不需要响**。
-- **"十三徽是装饰。"** 它是**弦的等分点**，正是泛音节点 —— **去掉徽位，泛音就无从下手**。
-- **"减字谱是落后的记谱法。"** 它记的是**动作**，节奏留给传承 ——
-  这是一个**有意的选择**，代价是同一首曲在不同流派手里很不一样（也正是古琴流派存在的原因）。
-- **"八音说古琴是丝，所以只能用丝弦。"** **八音按材料分类，描述的是它诞生时的材料**。
-  今天多用钢丝尼龙弦 —— **归属成了沿用的名义**，这不影响八音作为一个体系的历史价值。
-- **"古琴只能独奏。"** 有**琴歌**（自弹自唱）传统，也常与箫合奏；独奏只是最常见的形式。
+- "古琴就是古筝。" 完全不同的两件乐器：弦数、有无柱、演奏方式、音色都不同。
+  最简判据：古琴无柱（无品），筝每弦一柱。
+- "古琴音量太小，是做得不好。" 它是有意为私密场合设计的：
+  文人抚琴常在书斋与山林，不需要响。
+- "十三徽是装饰。" 它是弦的等分点，正是泛音节点 —— 去掉徽位，泛音就无从下手。
+- "减字谱是落后的记谱法。" 它记的是动作，节奏留给传承 ——
+  这是一个有意的选择，代价是同一首曲在不同流派手里很不一样（也正是古琴流派存在的原因）。
+- "八音说古琴是丝，所以只能用丝弦。" 八音按材料分类，描述的是它诞生时的材料。
+  今天多用钢丝尼龙弦 —— 归属成了沿用的名义，这不影响八音作为一个体系的历史价值。
+- "古琴只能独奏。" 有琴歌（自弹自唱）传统，也常与箫合奏；独奏只是最常见的形式。
 
 ## 下一步
 
-八音这一批从**丝**开始，接下来按材料一组一组走：
+八音这一批从丝开始，接下来按材料一组一组走：
 [[instrument:pipa|琵琶]]（丝）· [[instrument:erhu|二胡]]（丝）· [[instrument:dizi|笛子]]（竹）——
-最后到[[instrument:bianzhong|编钟]]（**金**）。
+最后到[[instrument:bianzhong|编钟]]（金）。
 它要回答的是本批最核心的问题：
-**把同一批乐器用"材料"分和用"什么在振动"分，会得到两张多么不同的地图？**
+把同一批乐器用"材料"分和用"什么在振动"分，会得到两张多么不同的地图？
+
 :::
 
 ::: en
@@ -257,15 +258,15 @@ classification. It puts two very different things on one instrument:
 
 > ⚠️ **First: two systems of classification meet here.**
 > The previous eighty-odd entries used the Hornbostel–Sachs scheme, whose test is "**what vibrates**". China had
-> an earlier system — the **bayin** (metal, stone, earth, hide, silk, wood, gourd, bamboo) — whose test is
-> "**what material it is made of**".
+> an earlier system — the bayin (metal, stone, earth, hide, silk, wood, gourd, bamboo) — whose test is
+> "what material it is made of".
 >
-> The guqin's answer in the bayin is **one word: silk**.
+> The guqin's answer in the bayin is one word: silk.
 >
 > And that immediately raises a thoroughly modern question: **the bayin sorted instruments by the materials
 > available more than two thousand years ago — and most guqins today use steel-nylon strings.** The material
-> changed; the classification becomes an **inherited name**.
-> **This is not a flaw in the bayin, but the common fate of every material-based system**: it describes **the
+> changed; the classification becomes an inherited name.
+> **This is not a flaw in the bayin, but the common fate of every material-based system: it describes the
 > world as it was when it was invented**.
 
 | Classification | Value |
@@ -318,13 +319,13 @@ classification. It puts two very different things on one instrument:
 
 Three points:
 
-1. **Fretless.** This is the essential difference from the [[instrument:pipa|pipa]]: frets make pitch a set of
-   **steps**; no frets make it a **continuous line**. So the guqin's left hand can **slide** up and down the
+1. Fretless. This is the essential difference from the [[instrument:pipa|pipa]]: frets make pitch a set of
+   steps; no frets make it a continuous line. So the guqin's left hand can slide up and down the
    string — one of its most recognisable idioms.
-2. **Thirteen studs.** Not decoration but **division points of the string** — the next figure is entirely about
+2. Thirteen studs. Not decoration but division points of the string — the next figure is entirely about
    this.
-3. **Seven strings, played flat, quiet.** It was never designed for a concert hall: small sound and long, slack
-   strings mean **guqin music tends to move slowly**.
+3. Seven strings, played flat, quiet. It was never designed for a concert hall: small sound and long, slack
+   strings mean guqin music tends to move slowly.
 
 ## One string, three ways to sound
 
@@ -366,16 +367,16 @@ Three points:
 </svg>
 ```
 
-**This figure explains the guqin's most important technical trait**:
+This figure explains the guqin's most important technical trait:
 
-1. **The studs are physics, not decoration.** Touch a division point and that stretch of string stops
-   vibrating, leaving a **harmonic**. **The thirteen studs are where they are because that is where the nodes
+1. The studs are physics, not decoration. Touch a division point and that stretch of string stops
+   vibrating, leaving a harmonic. **The thirteen studs are where they are because that is where the nodes
    are.** (The same fact as the [[concept:harmonic-series|harmonic series]] — the guqin just marks it visibly.)
-2. **Three colours**: **open** (whole string, full and deep) · **stopped** (left hand pressing, rounded and
-   flexible) · **harmonic** (light touch, bright). Traditionally likened to **heaven, humanity and earth**:
+2. Three colours: open (whole string, full and deep) · stopped (left hand pressing, rounded and
+   flexible) · harmonic (light touch, bright). Traditionally likened to heaven, humanity and earth:
    **harmonics are heaven, stopped notes are the human voice, open strings are the earth.**
-3. **One pitch, three characters.** The same note can be produced on different strings, at different studs, in
-   three ways — **very rare among instruments**: elsewhere it is one note, one colour; on the guqin it is **one
+3. One pitch, three characters. The same note can be produced on different strings, at different studs, in
+   three ways — very rare among instruments: elsewhere it is one note, one colour; on the guqin it is **one
    note with three personalities**.
 
 ## Range
@@ -384,24 +385,24 @@ Three points:
 {"range":"C2–D6","common":"C3–D5","caption":"古琴的音域（正调）","caption_en":"The guqin's range (standard tuning)","note":"古琴属弦鸣乐器（拨弦，无品）。正调定弦一至七弦为 C2 · D2 · F2 · G2 · A2 · C3 · D3；全部音域约 C2–D6，共四个八度加一个大二度。传统按徽位把音区分三准：下准（七徽以下，低音）· 中准（四徽至七徽，中音，即图中常用区）· 上准（一徽至四徽，高音）。换调弦音域略有差异。记谱即实音。"}
 ```
 
-- **About C2–D6**, **four octaves plus a major second** — very wide for a seven-string fretless instrument.
-- **The bass comes from open strings and the lower division.** Seven open strings give seven notes from C2 up,
-  so its bottom register is **one string per note**, the same logic as the [[instrument:harp|harp]]'s strings
+- About C2–D6, four octaves plus a major second — very wide for a seven-string fretless instrument.
+- The bass comes from open strings and the lower division. Seven open strings give seven notes from C2 up,
+  so its bottom register is one string per note, the same logic as the [[instrument:harp|harp]]'s strings
   lengthening step by step.
-- **Working register C3–D5**, traditionally the **middle division** (studs four to seven), where the melodies
+- Working register C3–D5, traditionally the middle division (studs four to seven), where the melodies
   live.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Quiet.** By design: **it is an instrument for oneself and a few friends**, not for a hall.
-2. **Long decay and living slides.** With no frets the left hand slides, carrying tiny pitch inflections — the
+1. Quiet. By design: it is an instrument for oneself and a few friends, not for a hall.
+2. Long decay and living slides. With no frets the left hand slides, carrying tiny pitch inflections — the
    hardest thing to imitate.
-3. **Bright, hollow harmonics.** Whole sections played entirely in harmonics are not unusual (as in *Three
+3. Bright, hollow harmonics. Whole sections played entirely in harmonics are not unusual (as in *Three
    Variations on the Plum Blossom*).
-4. **Three colours to tell apart.** Deep (open) · rounded (stopped) · bright (harmonic) —
-   **distinguishing these three is the first thing to learn about the guqin.**
+4. Three colours to tell apart. Deep (open) · rounded (stopped) · bright (harmonic) —
+   distinguishing these three is the first thing to learn about the guqin.
 
 ```audiolab
 {"type":"instrument","gm":"Koto","synth":"plucked","phrase":["C2","D2","F2","G2","A2","C3","D3"],"label":"七弦散音（正调）：C2 到 D3","label_en":"Seven open strings in standard tuning — C2 up to D3","hint":"这就是七条弦的空弦音本身 —— 通用音色表里没有古琴，这里借同为拨弦齐特琴的筝（Koto）近似","hint_en":"These are the seven open strings themselves. General MIDI has no guqin, so a Koto — also a plucked zither — stands in."}
@@ -409,18 +410,18 @@ Four cues:
 
 ## Playing techniques
 
-- **The right hand plucks**, with nail or flesh and at varying angles, which is where much of the colour comes
+- The right hand plucks, with nail or flesh and at varying angles, which is where much of the colour comes
   from.
-- **The left hand lives between pressing and not pressing.** Press and you get a stopped note (which can slide);
-  touch a stud lightly and you get a harmonic — **half the instrument's expression is in that left hand**.
-- **The music tends to be slow.** Long, slack strings make fast intervallic runs on one string impractical, so
+- The left hand lives between pressing and not pressing. Press and you get a stopped note (which can slide);
+  touch a stud lightly and you get a harmonic — half the instrument's expression is in that left hand.
+- The music tends to be slow. Long, slack strings make fast intervallic runs on one string impractical, so
   guqin music favours unhurried lines and slides.
-- **Notation records actions only.** Since the mid-Tang **tablature (jianzipu)** records **string, stud and
-  finger** but **not rhythm** — which is why the same piece differs greatly between schools.
+- Notation records actions only. Since the mid-Tang tablature (jianzipu) records **string, stud and
+  finger but not rhythm** — which is why the same piece differs greatly between schools.
   (Note the contrast with the [[instrument:mechanical-instruments|mechanical instruments]] of the previous batch:
   those recorded actions with perfect precision and lost the intention; jianzipu gives only actions and leaves
   the intention to a teacher.)
-- **Da pu.** Because the notation omits rhythm, present-day players must re-create a playable text from old
+- Da pu. Because the notation omits rhythm, present-day players must re-create a playable text from old
   scores — a discipline with its own name.
 
 ## The family
@@ -434,7 +435,7 @@ Four cues:
 | [[instrument:bianzhong\|Bianzhong]] | — | — | striking bells of different sizes | metal |
 | [[instrument:harp\|Harp]] | many | none | strings lengthened step by step | (n/a) |
 
-**This table is the doorway into the whole bayin batch**: **the bayin asks "what is it made of", Hornbostel–Sachs
+This table is the doorway into the whole bayin batch: **the bayin asks "what is it made of", Hornbostel–Sachs
 asks "what vibrates"** — the same objects, two entirely different maps.
 
 ## History
@@ -452,25 +453,25 @@ asks "what vibrates"** — the same objects, two entirely different maps.
 
 ## Common misconceptions
 
-- **"The guqin is the guzheng."** Two entirely different instruments: **string count, bridges, playing method
-  and sound** all differ. The shortest test: **the guqin has no bridges; the guzheng has one per string.**
-- **"It is so quiet because it is badly made."** It is **deliberately built for private settings**: literati
-  played in a study or among hills and streams, and **had no need to be loud**.
-- **"The thirteen studs are decoration."** They are the **string's division points**, exactly the harmonic
-  nodes — **without them there is no way to place a harmonic**.
-- **"Jianzipu is a backward notation."** It records **actions** and leaves rhythm to transmission — a
-  **deliberate choice**, whose price is that one piece differs between schools (and which is precisely why
+- "The guqin is the guzheng." Two entirely different instruments: **string count, bridges, playing method
+  and sound all differ. The shortest test: the guqin has no bridges; the guzheng has one per string.**
+- "It is so quiet because it is badly made." It is deliberately built for private settings: literati
+  played in a study or among hills and streams, and had no need to be loud.
+- "The thirteen studs are decoration." They are the string's division points, exactly the harmonic
+  nodes — without them there is no way to place a harmonic.
+- "Jianzipu is a backward notation." It records actions and leaves rhythm to transmission — a
+  deliberate choice, whose price is that one piece differs between schools (and which is precisely why
   schools exist).
-- **"The bayin says silk, so only silk strings will do."** **The bayin sorts by material and describes the
+- "The bayin says silk, so only silk strings will do." **The bayin sorts by material and describes the
   material of its own time.** Steel-nylon strings are now normal — the name is inherited, and that does not
   diminish the historical value of the system.
-- **"The guqin is solo only."** There is a **qinge** tradition of singing while playing, and it often plays with
+- "The guqin is solo only." There is a qinge tradition of singing while playing, and it often plays with
   the xiao; solo is merely the most common setting.
 
 ## Next
 
-This bayin batch starts with **silk** and proceeds material by material: [[instrument:pipa|pipa]] (silk) ·
+This bayin batch starts with silk and proceeds material by material: [[instrument:pipa|pipa]] (silk) ·
 [[instrument:erhu|erhu]] (silk) · [[instrument:dizi|dizi]] (bamboo) — and finally
-[[instrument:bianzhong|bianzhong]] (**metal**). It answers the batch's central question: **if you sort the same
+[[instrument:bianzhong|bianzhong]] (metal). It answers the batch's central question: **if you sort the same
 instruments by material and by what vibrates, how different do the two maps turn out?**
 :::

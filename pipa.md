@@ -44,15 +44,15 @@ updated: 2026-09-26
 > ⚠️ **三套逻辑，一件乐器**
 > | 名字 / 体系 | 依据是什么 | 琵琶的答案 |
 > |---|---|---|
-> | **「琵琶」这个名字** | **演奏动作** | 「琵」＝推手向前弹，「琶」＝引手向后挑 —— 依《释名》，这两个字本就是**两种弹法** |
-> | **八音** | **制作材料** | **丝**（弦） |
-> | **HS 分类** | **什么在振动** | **弦鸣** |
+> | **「琵琶」这个名字** | **演奏动作** | 「琵」＝推手向前弹，「琶」＝引手向后挑 —— 依《释名》，这两个字本就是两种弹法 |
+> | 八音 | 制作材料 | 丝（弦） |
+> | HS 分类 | 什么在振动 | 弦鸣 |
 >
-> 也就是说：**动作 · 材料 · 振动体** —— 三套逻辑同时落在一件乐器上。
-> **而汉唐时期的「琵琶」其实是一类抱弹乐器的通称**（直项与曲项 · 四弦与五弦都叫琵琶），
+> 也就是说：动作 · 材料 · 振动体 —— 三套逻辑同时落在一件乐器上。
+> 而汉唐时期的「琵琶」其实是一类抱弹乐器的通称（直项与曲项 · 四弦与五弦都叫琵琶），
 > 后来才专指今天这一件。
 >
-> **名字描述动作、分类描述材料、科学分类描述物理** ——
+> 名字描述动作、分类描述材料、科学分类描述物理 ——
 > 这也解释了为什么同一批器物会画出完全不同的地图。
 
 | 分类 | 归属 |
@@ -107,12 +107,12 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **相与品是一道理性设计**。**相**在琴颈上（块大）、**品**在面板上（条细）——
-   它们把弦"切"成一段一段固定的长度 → 音高变成**一级一级的台阶**。
+1. 相与品是一道理性设计。相在琴颈上（块大）、品在面板上（条细）——
+   它们把弦"切"成一段一段固定的长度 → 音高变成一级一级的台阶。
    这与[[instrument:guqin|古琴]]、[[instrument:erhu|二胡]]的"连续音高"正好相反。
-2. **四根弦，四种音色**。传统上分得很细：一弦清脆 · 二弦柔和 · 三弦醇厚 · 四弦雄壮 ——
+2. 四根弦，四种音色。传统上分得很细：一弦清脆 · 二弦柔和 · 三弦醇厚 · 四弦雄壮 ——
    所以同一段旋律换一条弦弹，味道就变。
-3. **它与[[instrument:lute|鲁特琴]]是"远房亲戚"**。两者都由古代**短颈抱弹乐器**的一支演化而来，
+3. 它与[[instrument:lute|鲁特琴]]是"远房亲戚"。两者都由古代短颈抱弹乐器的一支演化而来，
    连"曲项（向后折的琴头）"这个特征都是同一族的技术。
 
 ## 品的密度，就是转调的自由度
@@ -156,18 +156,18 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图是整页的技术核心**，它把"转调"这件事变成了可以数出来的东西：
+这张图是整页的技术核心，它把"转调"这件事变成了可以数出来的东西：
 
-- **传统四相十二品**在**第七品与第十一品**产生两个"**中立音**"
-  （偏高一点的 4 与偏高一点的 7 —— 它们**不在十二平均律上**）。
-  结果是：**传统琵琶只能演奏 D 调乐曲，不能自由转调。**
-- **刘天华在六、七品之间增加一个品**，打破了中立音的位置关系，
-  使品相排列**完全符合十二平均律**；后来又增至**六相二十四品**，音域扩到**近四个八度**。
-- **规律可以带走的**：**品位的数量，直接决定一件乐器能走多远** ——
-  从"只能弹一个调"到"自由转调"，中间隔着的只是**多加几根木条**。
+- 传统四相十二品在第七品与第十一品产生两个"中立音"
+  （偏高一点的 4 与偏高一点的 7 —— 它们不在十二平均律上）。
+  结果是：传统琵琶只能演奏 D 调乐曲，不能自由转调。
+- 刘天华在六、七品之间增加一个品，打破了中立音的位置关系，
+  使品相排列完全符合十二平均律；后来又增至六相二十四品，音域扩到近四个八度。
+- 规律可以带走的：品位的数量，直接决定一件乐器能走多远 ——
+  从"只能弹一个调"到"自由转调"，中间隔着的只是多加几根木条。
 
-*（这条线与[[instrument:erhu|二胡]]是同一件事的两半：**刘天华同时改了这两件乐器** ——
-二胡给定了音高与把位，琵琶给补了半音品位。**共同目标只有一个：让民乐能合奏、能转调。**）*
+*（这条线与[[instrument:erhu|二胡]]是同一件事的两半：刘天华同时改了这两件乐器 ——
+二胡给定了音高与把位，琵琶给补了半音品位。共同目标只有一个：让民乐能合奏、能转调。）*
 
 ## 音域
 
@@ -175,24 +175,24 @@ updated: 2026-09-26
 {"range":"A2–E6","caption":"琵琶的音域（六相二十四品 · 常用定弦）","caption_en":"Pipa range (six 相, twenty-four frets, standard tuning)","note":"琵琶属弦鸣乐器（拨弦，有品）。常用定弦由缠弦到子弦为 A2 · D3 · E3 · A3；六相二十四品的音域约 A2–E6，近四个八度。更宽形制（六相二十八品、三十品）可达 G6 上下。传统四相十二品因第七、第十一品的中立音而只能演奏 D 调；刘天华补入半音品位后，排列符合十二平均律，才可自由转调。记谱即实音。"}
 ```
 
-- **约 A2–E6**，**近四个八度** —— 音域的宽度来自**品的数量**，不是弦的数量。
-  **四根弦就能覆盖四个八度，靠的是"每根弦上按到多高"。**
-- **定弦 A2 · D3 · E3 · A3**（由粗到细）：**低音区是跳跃的**（A2 到 D3 是四度，D3 到 E3 只有二度），
-   所以它的低音不是均匀铺开的，而是**一组几个点**（与[[instrument:hunting-horn|猎号]]的"音是点"有一点像，
-   但这里的原因是**定弦的间隔**，不是物理限制）。
-- **低音在第四弦上，旋律常在一、二弦上** —— 这正是"四弦四种音色"的用处。
+- 约 A2–E6，近四个八度 —— 音域的宽度来自品的数量，不是弦的数量。
+  四根弦就能覆盖四个八度，靠的是"每根弦上按到多高"。
+- 定弦 A2 · D3 · E3 · A3（由粗到细）：低音区是跳跃的（A2 到 D3 是四度，D3 到 E3 只有二度），
+   所以它的低音不是均匀铺开的，而是一组几个点（与[[instrument:hunting-horn|猎号]]的"音是点"有一点像，
+   但这里的原因是定弦的间隔，不是物理限制）。
+- 低音在第四弦上，旋律常在一、二弦上 —— 这正是"四弦四种音色"的用处。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **颗粒感极强**。每个音都是一颗清楚的"珠子" ——
-   琵琶的音**起振快、衰减也快**，所以它擅长"点"。
-2. **也能做成"线"**。靠**轮指**（五指轮转弹同一弦）把一颗颗点连成一条线 ——
-   **这是琵琶最标志性的技法，也是它最不像弹拨乐器的时刻。**
-3. **四根弦四种音色**。一弦清脆 · 二弦柔和 · 三弦醇厚 · 四弦雄壮。
-4. **文武两副面孔**。传统曲目分**文套**（细腻文静，如《夕阳箫鼓》）与
-   **武套**（威武雄壮，如《十面埋伏》）—— 一件乐器承担两种完全相反的表达。
+1. 颗粒感极强。每个音都是一颗清楚的"珠子" ——
+   琵琶的音起振快、衰减也快，所以它擅长"点"。
+2. 也能做成"线"。靠轮指（五指轮转弹同一弦）把一颗颗点连成一条线 ——
+   这是琵琶最标志性的技法，也是它最不像弹拨乐器的时刻。
+3. 四根弦四种音色。一弦清脆 · 二弦柔和 · 三弦醇厚 · 四弦雄壮。
+4. 文武两副面孔。传统曲目分文套（细腻文静，如《夕阳箫鼓》）与
+   武套（威武雄壮，如《十面埋伏》）—— 一件乐器承担两种完全相反的表达。
 
 ```audiolab
 {"type":"instrument","gm":"Shamisen","synth":"plucked","phrase":["A2","D3","E3","A3"],"label":"四根空弦：A2 · D3 · E3 · A3","label_en":"The four open strings — A2, D3, E3, A3","hint":"注意低音两根弦的跳跃感 —— 通用音色表里没有琵琶，这里借同样抱弹拨弦的三味线近似","hint_en":"Notice the leap between the two lowest strings. General MIDI has no pipa, so a shamisen — another plucked lute — stands in."}
@@ -200,15 +200,15 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **右手是主角**。琵琶的右手技法极其丰富：
-  弹 · 挑 · 勾 · 抹 · 剔 · 滚 · **轮** · 摇 · 摭 · 分 · 扫 · 拂 ——
+- 右手是主角。琵琶的右手技法极其丰富：
+  弹 · 挑 · 勾 · 抹 · 剔 · 滚 · 轮 · 摇 · 摭 · 分 · 扫 · 拂 ——
   一件弹拨乐器却有这么细的右手分工，是它的特点。
-- **轮指**。五指依次弹同一根弦，把"点"变成"线"——
+- 轮指。五指依次弹同一根弦，把"点"变成"线"——
   这是丝弦柔软之后才可能出现的技法（见下）。
-- **左手**：吟 · 揉 · 推 · 挽 · 绰 · 注 · 绞弦 · 泛音。
-  有品 **不等于**不能滑 —— 左手可以**推弦改变张力**做出滑音。
-- **戴义甲**。现代琵琶用假甲（义甲）弹奏，以获得明亮坚脆的音色。
-- **竖抱**。琴竖放于两腿之间，左手自由在琴身上移动 —— 这是明清以后才定下的姿势。
+- 左手：吟 · 揉 · 推 · 挽 · 绰 · 注 · 绞弦 · 泛音。
+  有品 不等于不能滑 —— 左手可以推弦改变张力做出滑音。
+- 戴义甲。现代琵琶用假甲（义甲）弹奏，以获得明亮坚脆的音色。
+- 竖抱。琴竖放于两腿之间，左手自由在琴身上移动 —— 这是明清以后才定下的姿势。
 
 ## 家族与近亲
 
@@ -221,10 +221,10 @@ updated: 2026-09-26
 | [[instrument:dizi\|笛子]] | — | 指孔 | 开闭指孔（气鸣） | 竹 |
 | [[instrument:bianzhong\|编钟]] | — | — | 敲击不同大小的钟 | 金 |
 
-**一个可以直接对比的判断轴**：
-**"有品还是没有品"决定了音高是"台阶"还是"线"** ——
+一个可以直接对比的判断轴：
+"有品还是没有品"决定了音高是"台阶"还是"线" ——
 这一条把这一族里的乐器一分为二，比"什么材料做的"更能说明它们的演奏差别。
-**这正是两套分类体系的分工**：**八音管"是什么做的"，HS 管"怎么发声"，而演奏者关心的是"音高怎么按出来"。**
+这正是两套分类体系的分工：八音管"是什么做的"，HS 管"怎么发声"，而演奏者关心的是"音高怎么按出来"。
 
 ## 历史演变
 
@@ -239,33 +239,34 @@ updated: 2026-09-26
 | 1920—1930 年代 | **刘天华**主张品相按十二平均律排列：在六、七品间加一品去除中立音 → 后又增至**六相二十四品**，音域扩至近四个八度；**琵琶从此可自由转调** |
 | 20 世纪中叶至今 | 弦由丝改为**尼龙缠钢丝**；形制继续扩展（二十五 · 二十六 · 三十品）；新曲目大量涌现 |
 
-**它的技术史有一条清晰的因果链**：
-**材料（丝弦）→ 技法（指弹）→ 语言（轮指 → 点能变线）→ 最后回到材料（钢丝弦，音更亮）**。
-**换一种弦，等于换一套技法；换一套技法，等于换一种语言。**
+它的技术史有一条清晰的因果链：
+材料（丝弦）→ 技法（指弹）→ 语言（轮指 → 点能变线）→ 最后回到材料（钢丝弦，音更亮）。
+换一种弦，等于换一套技法；换一套技法，等于换一种语言。
 
 ## 常见误解
 
-- **"琵琶一直是今天这个样子。"** 它的前身是一**类**乐器；
+- "琵琶一直是今天这个样子。" 它的前身是一类乐器；
    横抱改竖抱、拨子改指弹，都是后来几百年里发生的事。
-- **"有品就不能滑音。"** 能 —— 靠左手**推弦改变张力**（推 · 挽），
+- "有品就不能滑音。" 能 —— 靠左手推弦改变张力（推 · 挽），
    这是琵琶左手的重要技法之一。
-- **"弦越多音域越宽。"** 琵琶只有四根弦却覆盖近四个八度 ——
-   **音域宽阔靠的是品，不是弦。**
-- **"转调是与生俱来的能力。"** 在刘天华之前，**传统琵琶只能弹 D 调** ——
+- "弦越多音域越宽。" 琵琶只有四根弦却覆盖近四个八度 ——
+   音域宽阔靠的是品，不是弦。
+- "转调是与生俱来的能力。" 在刘天华之前，传统琵琶只能弹 D 调 ——
    因为第七、第十一品的中立音位置把其他调挡在了外面。
-- **"轮指只是快速重复。"** 它的意义是**把点变成线** ——
+- "轮指只是快速重复。" 它的意义是把点变成线 ——
    让一件"颗粒性"乐器获得长线条的能力。
-- **"八音说它是丝，所以钢丝弦不对。"** 与[[instrument:guqin|古琴]]、[[instrument:erhu|二胡]]同一个道理：
-   **八音描述的是它诞生时的材料。**
+- "八音说它是丝，所以钢丝弦不对。" 与[[instrument:guqin|古琴]]、[[instrument:erhu|二胡]]同一个道理：
+   八音描述的是它诞生时的材料。
 
 ## 下一步
 
-丝这一类到此告一段落：**古琴（无品 · 拨）· 二胡（无品 · 擦）· 琵琶（有品 · 拨）**——
+丝这一类到此告一段落：古琴（无品 · 拨）· 二胡（无品 · 擦）· 琵琶（有品 · 拨）——
 三件乐器把"音高怎么按出来"的三种方式走完了。
 
-接下来跨出丝，进入**竹**：[[instrument:dizi|笛子]]把这套讨论整个换掉 ——
-**那里没有弦、没有品、也没有按弦，只有一根竹管里的空气柱，和几个用手指开的孔。**
-**同一件事（改变振动体的有效长度）在弦上和在空气上，做法完全不同。**
+接下来跨出丝，进入竹：[[instrument:dizi|笛子]]把这套讨论整个换掉 ——
+那里没有弦、没有品、也没有按弦，只有一根竹管里的空气柱，和几个用手指开的孔。
+同一件事（改变振动体的有效长度）在弦上和在空气上，做法完全不同。
+
 :::
 
 ::: en
@@ -275,12 +276,12 @@ batch:
 > ⚠️ **Three logics, one instrument**
 > | Name / system | Its basis | The pipa's answer |
 > |---|---|---|
-> | **the name "pipa"** | **a playing action** | "pi" is a forward pluck, "pa" a backward one — per the **Shiming**, the two characters began as **two strokes** |
-> | **the bayin** | **what it is made of** | **silk (丝)** |
-> | **HS classification** | **what vibrates** | **chordophone** |
+> | **the name "pipa"** | **a playing action** | "pi" is a forward pluck, "pa" a backward one — per the **Shiming**, the two characters began as two strokes |
+> | the bayin | what it is made of | silk (丝) |
+> | HS classification | what vibrates | chordophone |
 >
-> So **action, material and vibrating body** all land on the same instrument. And in the Han–Tang period
-> **"pipa" was a generic term for a whole family of held plucked instruments** (straight or bent-necked, four or
+> So action, material and vibrating body all land on the same instrument. And in the Han–Tang period
+> "pipa" was a generic term for a whole family of held plucked instruments (straight or bent-necked, four or
 > five strings); only later did it settle on this one.
 >
 > **A name describes an action, a material system describes materials, a scientific taxonomy describes physics** —
@@ -338,13 +339,13 @@ batch:
 
 Three points:
 
-1. **The 相 and frets are one deliberate design.** The **相** sit on the neck (large blocks) and the **frets** on the
-   soundboard (thin bars); together they cut the strings into fixed lengths, so pitch becomes a set of **steps** —
+1. The 相 and frets are one deliberate design. The 相 sit on the neck (large blocks) and the frets on the
+   soundboard (thin bars); together they cut the strings into fixed lengths, so pitch becomes a set of steps —
    the exact opposite of the continuous pitch of the [[instrument:guqin|guqin]] and [[instrument:erhu|erhu]].
-2. **Four strings, four colours.** Traditionally finely distinguished: the first bright, the second mellow, the
+2. Four strings, four colours. Traditionally finely distinguished: the first bright, the second mellow, the
    third full, the fourth deep — so the same melody changes character on a different string.
-3. **It is a distant relative of the [[instrument:lute|lute]].** Both descend from one branch of ancient
-   **short-necked, held plucked instruments**, and even the **bent-back pegbox** is a shared piece of technology.
+3. It is a distant relative of the [[instrument:lute|lute]]. Both descend from one branch of ancient
+   short-necked, held plucked instruments, and even the bent-back pegbox is a shared piece of technology.
 
 ## Fret density is the freedom to change key
 
@@ -387,18 +388,18 @@ Three points:
 </svg>
 ```
 
-**This figure is the technical core of the page**, turning "key change" into something countable:
+This figure is the technical core of the page, turning "key change" into something countable:
 
-- The **traditional twelve-fret layout** produces two **"neutral tones"** at the **seventh and eleventh frets**
-  (a slightly raised 4 and a slightly raised 7 — **not on the equal-tempered scale**). The result: **a traditional
+- The traditional twelve-fret layout produces two "neutral tones" at the seventh and eleventh frets
+  (a slightly raised 4 and a slightly raised 7 — not on the equal-tempered scale). The result: **a traditional
   pipa could only play in D, and could not freely change key.**
-- **Liu Tianhua added one fret between the sixth and seventh**, breaking the neutral positions and bringing the
-  layout **fully onto equal temperament**; it was later extended to **six 相 and twenty-four frets**, taking the
-  range to **nearly four octaves**.
-- **The rule to take away**: **the number of frets directly sets how far an instrument can travel** — between "one
-  key only" and "any key" lie nothing but **a few extra slats of wood**.
+- Liu Tianhua added one fret between the sixth and seventh, breaking the neutral positions and bringing the
+  layout fully onto equal temperament; it was later extended to six 相 and twenty-four frets, taking the
+  range to nearly four octaves.
+- The rule to take away: the number of frets directly sets how far an instrument can travel — between "one
+  key only" and "any key" lie nothing but a few extra slats of wood.
 
-*(This is the other half of the [[instrument:erhu|erhu]] story: **Liu Tianhua reformed both instruments** — fixing
+*(This is the other half of the [[instrument:erhu|erhu]] story: Liu Tianhua reformed both instruments — fixing
 the erhu's tuning and positions, and filling in the pipa's semitone frets. **One goal: let Chinese music play
 together and change key.**)*
 
@@ -408,25 +409,25 @@ together and change key.**)*
 {"range":"A2–E6","caption":"琵琶的音域（六相二十四品 · 常用定弦）","caption_en":"Pipa range (six 相, twenty-four frets, standard tuning)","note":"琵琶属弦鸣乐器（拨弦，有品）。常用定弦由缠弦到子弦为 A2 · D3 · E3 · A3；六相二十四品的音域约 A2–E6，近四个八度。更宽形制（六相二十八品、三十品）可达 G6 上下。传统四相十二品因第七、第十一品的中立音而只能演奏 D 调；刘天华补入半音品位后，排列符合十二平均律，才可自由转调。记谱即实音。"}
 ```
 
-- **About A2–E6**, **nearly four octaves** — and that width comes from the **frets**, not the string count.
-  **Four strings cover four octaves because each string can be stopped very high.**
-- **Tuning A2 · D3 · E3 · A3** (thickest to thinnest): **the bass is leapy** (A2 to D3 is a fourth, D3 to E3 only a
-  tone), so its low register is **a set of points rather than an even spread** — a little like the
-  [[instrument:hunting-horn|hunting horn]]'s, though here the cause is **string tuning**, not physics.
-- **The bass lives on the fourth string, melodies usually on the first and second** — which is what "four strings,
+- About A2–E6, nearly four octaves — and that width comes from the frets, not the string count.
+  Four strings cover four octaves because each string can be stopped very high.
+- Tuning A2 · D3 · E3 · A3 (thickest to thinnest): the bass is leapy (A2 to D3 is a fourth, D3 to E3 only a
+  tone), so its low register is a set of points rather than an even spread — a little like the
+  [[instrument:hunting-horn|hunting horn]]'s, though here the cause is string tuning, not physics.
+- The bass lives on the fourth string, melodies usually on the first and second — which is what "four strings,
   four colours" is for.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Extremely grainy.** Every note is a distinct bead: the pipa's notes **start fast and decay fast**, so it
-   excels at **points**.
-2. **But it can also make lines.** **Lunzhi** — the five fingers rolling in turn on one string — joins the beads
+1. Extremely grainy. Every note is a distinct bead: the pipa's notes start fast and decay fast, so it
+   excels at points.
+2. But it can also make lines. Lunzhi — the five fingers rolling in turn on one string — joins the beads
    into a line. **This is its signature technique and the moment it stops sounding like a plucked instrument.**
-3. **Four strings, four colours**: first bright, second mellow, third full, fourth deep.
-4. **Two faces, civil and martial.** Its repertoire divides into **civil suites** (delicate, as in *Flute and Drum at
-   Sunset*) and **martial suites** (fierce, as in **Ambush from All Sides**).
+3. Four strings, four colours: first bright, second mellow, third full, fourth deep.
+4. Two faces, civil and martial. Its repertoire divides into civil suites (delicate, as in *Flute and Drum at
+   Sunset*) and martial suites (fierce, as in Ambush from All Sides).
 
 ```audiolab
 {"type":"instrument","gm":"Shamisen","synth":"plucked","phrase":["A2","D3","E3","A3"],"label":"四根空弦：A2 · D3 · E3 · A3","label_en":"The four open strings — A2, D3, E3, A3","hint":"注意低音两根弦的跳跃感 —— 通用音色表里没有琵琶，这里借同样抱弹拨弦的三味线近似","hint_en":"Notice the leap between the two lowest strings. General MIDI has no pipa, so a shamisen — another plucked lute — stands in."}
@@ -434,14 +435,14 @@ Four cues:
 
 ## Playing techniques
 
-- **The right hand is the protagonist.** Pipa right-hand technique is unusually rich: pi, tiao, gou, mo, ti, gun,
-  **lun**, yao, zhi, fen, sao, fu — such a fine division of labour on one plucked instrument is its hallmark.
-- **Lunzhi** turns points into lines with five fingers rolling on one string — a technique that only became
+- The right hand is the protagonist. Pipa right-hand technique is unusually rich: pi, tiao, gou, mo, ti, gun,
+  lun, yao, zhi, fen, sao, fu — such a fine division of labour on one plucked instrument is its hallmark.
+- Lunzhi turns points into lines with five fingers rolling on one string — a technique that only became
   possible once softer silk strings arrived (see below).
-- **The left hand** adds vibrato, pushes, pulls, slides, crossing strings and harmonics. **Frets do not forbid
-  slides** — the left hand can **push a string sideways** to change its tension.
-- **Finger picks.** Modern players wear picks to get a bright, crisp, hard-edged tone.
-- **Held upright**, resting between the knees, which frees the left hand to travel over the body — a posture
+- The left hand adds vibrato, pushes, pulls, slides, crossing strings and harmonics. **Frets do not forbid
+  slides — the left hand can push a string sideways** to change its tension.
+- Finger picks. Modern players wear picks to get a bright, crisp, hard-edged tone.
+- Held upright, resting between the knees, which frees the left hand to travel over the body — a posture
   settled only after the Ming.
 
 ## The family
@@ -455,8 +456,8 @@ Four cues:
 | [[instrument:dizi\|Dizi]] | — | holes | opening and closing holes (aerophone) | bamboo |
 | [[instrument:bianzhong\|Bianzhong]] | — | — | striking bells of different sizes | metal |
 
-**A comparison axis you can use directly**: **whether it has frets decides whether pitch is a set of **steps** or a
-**line** ** — and that divides this family more tellingly than "what material it is made of". **Which is precisely the
+A comparison axis you can use directly: whether it has frets decides whether pitch is a set of steps** or a
+line ** — and that divides this family more tellingly than "what material it is made of". **Which is precisely the
 division of labour between the two systems: the bayin handles "what it is made of", HS handles "how it sounds" —
 while a player cares most about "how you get the pitch".**
 
@@ -473,31 +474,31 @@ while a player cares most about "how you get the pitch".**
 | 1920s–30s | **Liu Tianhua** argues for laying out the frets in equal temperament: one added fret between the sixth and seventh removes the neutral tones → later standardised at **six 相 and twenty-four frets**, range extended to nearly four octaves; **the pipa can now change key freely** |
 | mid-20th c. to today | strings change from silk to **nylon-wound steel**; the layout extends further (25, 26, 30 frets); many new works |
 
-**Its technical history has a clear causal chain**: **material (silk strings) → technique (finger plucking) →
+Its technical history has a clear causal chain: **material (silk strings) → technique (finger plucking) →
 language (lunzhi: points become lines) → and back to material (steel strings, brighter tone)**.
 **Change the string and you change the technique; change the technique and you change the language.**
 
 ## Common misconceptions
 
-- **"The pipa has always looked like this."** Its ancestor was a **family** of instruments; horizontal to upright,
+- "The pipa has always looked like this." Its ancestor was a family of instruments; horizontal to upright,
   plectrum to fingers — all of that happened over several centuries.
-- **"Frets rule out slides."** They do not — the left hand can **bend the string to change its tension**, a
+- "Frets rule out slides." They do not — the left hand can bend the string to change its tension, a
   fundamental technique.
-- **"More strings means a wider range."** The pipa has only four strings yet spans nearly four octaves — **width
+- "More strings means a wider range." The pipa has only four strings yet spans nearly four octaves — **width
   comes from the frets, not the strings.**
-- **"Changing key is a given."** Before Liu Tianhua a **traditional pipa could play in D only**, because the
+- "Changing key is a given." Before Liu Tianhua a traditional pipa could play in D only, because the
   neutral tones at frets seven and eleven shut the other keys out.
-- **"Lunzhi is just fast repetition."** Its point is **turning points into a line** — giving a grainy instrument
+- "Lunzhi is just fast repetition." Its point is turning points into a line — giving a grainy instrument
   the ability to sustain.
-- **"The bayin says silk, so steel strings are wrong."** As with the [[instrument:guqin|guqin]] and
-  [[instrument:erhu|erhu]]: **the bayin describes the material of its own time.**
+- "The bayin says silk, so steel strings are wrong." As with the [[instrument:guqin|guqin]] and
+  [[instrument:erhu|erhu]]: the bayin describes the material of its own time.
 
 ## Next
 
-The silk category closes here: **guqin (fretless, plucked) · erhu (fretless, bowed) · pipa (fretted, plucked)** —
-three instruments that between them exhaust the ways of **getting a pitch out of a string**.
+The silk category closes here: guqin (fretless, plucked) · erhu (fretless, bowed) · pipa (fretted, plucked) —
+three instruments that between them exhaust the ways of getting a pitch out of a string.
 
-Next we step out of silk into **bamboo**: the [[instrument:dizi|dizi]] changes the whole discussion —
+Next we step out of silk into bamboo: the [[instrument:dizi|dizi]] changes the whole discussion —
 **no strings, no frets, no stopping, only the air column inside a bamboo tube and a few holes opened by fingers.**
 **The same job — changing the speaking length of the vibrator — is done completely differently in air than in
 string.**

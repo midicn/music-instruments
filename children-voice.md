@@ -21,103 +21,49 @@ instances:
   - chinafolk-005502 | 《十岁娃娃把牛放》 —— ⭐⭐「十岁」：童声的窗口期——变声前的几年是天然高音期，十岁娃娃的嗓子是全库离 treble 最近的声音（C3 · 仅限学习研究）
   - chinafolk-000775 | 《莫学少年浪荡游》 —— ⭐⭐「少年」：变声期之后——声带一年多里长了 63%，劝「少年」的话其实是劝一条新嗓子：换了个人，得重新学做人（C3 · 仅限学习研究）
 sources:
-  - ⭐⭐ **主线：声音的窗口期（本页最该记住的一条）** —— 童声是**每个人必经、又必然失去**的唯一声部：变声期男子声带增长 63%（女子约 34%），「During puberty, the male vocal chords increase by 63%, while the female vocal chords increase only by about half that rate at 34%. Prepubescent male vocal chords grow from an average of 17.35mm to 28.92mm by the time they reach adulthood」；「During this change, serous fluid accumulates in the tissue. This excessive swelling is called oedema, responsible for the permanent thickening that lowers the pitch further」；⭐⭐ **全站唯一一件「会自己变质的乐器」——而人类为这个必然失去的声音，造出了音乐史上最黑暗的制度（阉伶）与最温柔的传统（童声合唱团）——一端是手术刀，一端是唱诗班**
+  - ⭐⭐ **主线：声音的窗口期（本页最该记住的一条）** —— 童声是**每个人必经、又必然失去**的唯一声部：变声期男子声带增长 63%（女子约 34%），「During puberty, the male vocal chords increase by 63%, while the female vocal chords increase only by about half that rate at 34%. Prepubescent male vocal chords grow from an average of 17.35mm to 28.92mm by the time they reach adulthood」；「During this change, serous fluid accumulates in the tissue. This excessive swelling is called oedema, responsible for the permanent thickening that lowers the pitch further」；⭐⭐ **各站唯一一件「会自己变质的乐器」——而人类为这个必然失去的声音，造出了音乐史上最黑暗的制度（阉伶）与最温柔的传统（童声合唱团）——一端是手术刀，一端是唱诗班**
   - ⭐⭐ **阉伶：为一个声音造的制度** —— 「the practice began in the 16th century, mainly for church music when women were banned from singing in sacred places」；「the result was the power of a man with the range of a boy」；「the removal of the testes prevents the sexual dimorphism of the larynx at the time when a boy would go through puberty」；⭐⭐ **1909 年 Tandler & Gross 对一名 28 岁阉伶的尸检：「the larynx was extremely small and the thyroid notch hardly even visible……vocal chords approximately the size of a coloratura soprano! They were a mere 14mm in length」——童尺寸的声带 + 成人的肺**；⭐ **手术黑暗面**：「castration, often carried out between the ages of 8 and 10, was performed under grim conditions——opium, ice or milk baths, barber surgeons, before anaesthetic and infection control——many didn't survive」；⭐⭐ **最刺的一句**：「sometimes the abusers did not understand that castrating a child did not make him a good singer, it just stopped his voice from breaking」——**制度以为自己在制造才华，其实只是在阻止失去**
   - ⭐⭐ **Moreschi：唯一有录音的阉伶** —— 「Alessandro Moreschi (1858–1922), the 『last castrato』, produced in 1902 the only solo castrato recording in existence」；「probably 『altered』 around 1865, in keeping with the old practice of castrating vocally-talented boys well before puberty」；「when 15, appointed First Soprano in the choir of the Papal Basilica of San Giovanni Laterano……thereafter First Soprano of the Sistine Chapel for the next 30 years」；「recorded in the Sistine Chapel by the Gaisberg brothers, April 1902——17 discs in all」；「the next Pope took a dim view of Castrato singers and forbade Moreschi from making any more solo recordings when the recording machine was again brought to the Vatican in 1904」；「when 55, described as of small or medium stature, beardless, with a speaking voice having a metallic quality, like a very high-speaking tenor」；⭐⭐ **史上唯一有独唱录音的阉伶——「一种已灭绝的人类声音」的最后影像（且是 poor recording + past his prime——「a pale impression of what these singers were capable of」）**
   - ⭐⭐ **制度的两条时间线** —— 「Pope Benedict XIV attempted to ban the practice as early as 1748, but it was so entrenched, and so popular with audiences, that he eventually relented, fearing it would cause church attendance to drop」；「castration of young males was banned by law in 1870 (Italy)——so no young castrato was being accepted into the choir」；⭐⭐ **一条「禁了但没禁成」的制度，和一条「禁成了但太晚了」的法律——中间夹着 Moreschi 的一代人（1870 年法律生效时，唱诗班里的阉伶成了最后的活化石）**
   - ⭐⭐ **童声的两种命运** —— 教堂传统（treble 声部 · 女声被禁后的替代 · 「belief in innocence and purity attached to the voice」）vs 民歌传统（牧童 · 劳动 · 一领众和里的童声部）；⭐⭐ **现代童声合唱团（维也纳童声合唱团 · King's College Cambridge 的圣诞颂歌 · 巴黎木十字）把 treble 做成了五百年的机构——制度换了一种温柔的形式：不再切割身体，只租借窗口期的几年**；⭐ **Farinelli 传说**：「reportedly sang Philip V of Spain back to health——a voice as sweet as a flute……like a lark intoxicated with its own flight」——**传说与录音的差距，就是这个制度被文明化后的距离**
-  - ⭐⭐ **变声期之后：voice-types 条的流动性最剧烈时刻** —— 声部在一年多里重新洗牌（「a singer's Fach can evolve」的童年版本）；⭐⭐ **破音（cracking）不是失误，是生长超过控制的生理时差——全站所有乐器里，只有人声会「自己换一件」；而 countertenor（voice-types 条）是这次换件的现代出口：不再切身体，只练假声**
+  - ⭐⭐ **变声期之后：voice-types 条的流动性最剧烈时刻** —— 声部在一年多里重新洗牌（「a singer's Fach can evolve」的童年版本）；⭐⭐ **破音（cracking）不是失误，是生长超过控制的生理时差——各站所有乐器里，只有人声会「自己换一件」；而 countertenor（voice-types 条）是这次换件的现代出口：不再切身体，只练假声**
 updated: 2026-10-21
 ---
 
 ::: zh
+男孩的声带在变声期从 17.35 毫米长到 28.92 毫米，长了 63%。女孩大约是一半：34%。这就是童声的窗口期——每个人必经、又必然失去的声部。
 
-## ⭐⭐ 主线：声音的窗口期
-
-> 「**During puberty, the male vocal chords increase by 63%,
-> while the female vocal chords increase only by about half that rate at 34%.
-> Prepubescent male vocal chords grow from an average of 17.35mm
-> to 28.92mm by the time they reach adulthood**」.
-
-⭐⭐ **童声是每个人必经、又必然失去的唯一声部**——全站唯一一件
-「会自己变质的乐器」。⭐⭐ **而人类为这个必然失去的声音，
-造出了音乐史上最黑暗的制度（阉伶）与最温柔的传统（童声合唱团）——
-一端是手术刀，一端是唱诗班。**
-
-| HS 分类 | 归属 |
+| 分类 | 归属 |
 |---|---|
-| **HS 分类** | **人体（气鸣 · 簧振 + 滤波）**——**童声是同一件乐器的「早期固件」：硬件未长成，先跑起了高音** |
-| **出身** | ⭐⭐ **两端的出身**：16 世纪教堂（禁女性歌唱 → treble 需求）与 500 年童声唱诗班传统（维也纳童声合唱团 · King's College） |
-| **八音注** | 八音之外——**民歌里的童声在牛背上（牧童），教堂里的童声在祭坛前（treble）：同一声部的两种命运** |
+| HS 分类 | 人体（气鸣 · 簧振 + 滤波）；同一件乐器的早期固件 |
+| 出身 | 16 世纪教堂（禁女性歌唱，于是需要 treble）与五百年的童声唱诗班 |
+| 八音 | 不适用 |
 
-## ⭐⭐ 一条生长曲线，三种命运
+## 一条生长曲线，三种命运
 
 | 声带 | 起点 → 终点 | 变化 |
 |---|---|---|
-| 男声 | 17.35mm → 28.92mm | **+63%** |
-| 女声 | 同起点 | **+34%** |
-| **阉伶** | 停在 14mm（尸检测值） | **0%** |
+| 男声 | 17.35 → 28.92 毫米 | +63% |
+| 女声 | 同起点 | +34% |
+| 阉伶 | 停在 14 毫米（尸检测值） | 0% |
 
-⭐⭐ **1909 年 Tandler & Gross 的尸检**：「the larynx was extremely small and
-the thyroid notch hardly even visible……vocal chords approximately the size of
-a coloratura soprano! They were a mere 14mm in length」——⭐⭐ **童尺寸的
-声带 + 成人的肺：「the power of a man with the range of a boy」。**
+1909 年 Tandler 与 Gross 解剖一名 28 岁的阉伶：喉头极小，甲状软骨切迹几乎看不见，声带只有 14 毫米，相当于一个花腔女高音的尺寸。童尺寸的声带配上成年人的肺，这就是那种声音的全部秘密。
 
-⭐⭐ **破音（cracking）不是失误**——「serous fluid accumulates……
-this excessive swelling is called oedema」：**生长超过控制的生理时差。**
-变声期之后，声部重新洗牌——voice-types 条的「Fach 会流动」的童年版。
+变声期的破音不是失误。组织里积下浆液，肿起来，声带因此永久增厚、音高下移；控制跟不上生长，就有了那一年多的沙哑。之后，声部重新洗牌。
 
-## ⭐⭐ 阉伶：为一个声音造的制度
+## 为一个声音造的制度
 
-⭐⭐ **起因**：「the practice began in the 16th century, mainly for church
-music when women were banned from singing in sacred places」。
-⭐ **手术**：「often carried out between the ages of 8 and 10……opium,
-ice or milk baths, barber surgeons——before anaesthetic and infection
-control——many didn't survive」。
+16 世纪，教堂禁止女性在圣所歌唱，高音声部需要另一种嗓子。手术多在 8 到 10 岁之间进行，没有麻醉，没有感染控制，很多孩子活不下来。这套制度最刺人的一句自白是：阉割一个孩子并不能让他唱得好，它只是让他的声音不变。
 
-⭐⭐ **制度最刺的一句自白**：「sometimes the abusers did not understand
-that castrating a child did not make him a good singer, it just stopped
-his voice from breaking」——⭐⭐ **制度以为自己在制造才华，
-其实只是在阻止失去。**
+1748 年，本笃十四世试图禁止，怕信徒不来，最后退让；1870 年意大利法律禁了，但已经太晚。一条禁了没禁成的制度，一条禁成了却太晚的法律。
 
-⭐⭐ **两条时间线夹住一代人**：「Pope Benedict XIV attempted to ban the
-practice as early as 1748, but……he eventually relented, fearing it would
-cause church attendance to drop」；「banned by law in 1870 (Italy)」——
-**一条「禁了但没禁成」的制度，和一条「禁成了但太晚了」的法律。**
+## 唯一留下来的录音
 
-## ⭐⭐ Moreschi：一种已灭绝声音的最后影像
+Alessandro Moreschi（1858–1922），最后一个阉伶。约 1865 年手术，15 岁任圣乔瓦尼教堂第一女高音，此后在西斯廷礼拜堂唱了三十年。1902 年 4 月，Gaisberg 兄弟在那里录下 17 张唱片，这是世上唯一的阉伶独唱录音；1904 年新教宗禁止他再录。
 
-> 「**Alessandro Moreschi (1858–1922), the 『last castrato』,
-> produced in 1902 the only solo castrato recording in existence**」；
-> 「**recorded in the Sistine Chapel by the Gaisberg brothers, April 1902——
-> 17 discs in all**」；「**the next Pope……forbade Moreschi from making any
-> more solo recordings when the recording machine was again brought to
-> the Vatican in 1904**」.
+55 岁时他被形容为矮小或中等身材，无须，说话声音带金属感，像一个说话很高的男高音。录音留下的只是一个苍白的印象。法里内利的传说说他的声音像长笛，能把西班牙国王唱回健康；传说与录音之间的距离，就是这套制度被文明化的距离。
 
-⭐⭐ **15 岁任圣乔瓦尼教堂第一女高音，此后西斯廷礼拜堂第一女高音 30 年；
-55 岁时「small or medium stature, beardless, with a speaking voice having a
-metallic quality, like a very high-speaking tenor」**——⭐⭐ **史上唯一有
-独唱录音的阉伶：一种已灭绝的人类声音的最后影像——且只是
-「a pale impression of what these singers were capable of」。**
-
-⭐ **Farinelli 传说**：「reportedly sang Philip V of Spain back to health——
-a voice as sweet as a flute……like a lark intoxicated with its own flight」——
-**传说与录音的差距，就是这个制度被文明化后的距离。**
-
-## ⭐ 童声的两种命运
-
-| 传统 | 童声在哪 | 制度形式 |
-|---|---|---|
-| 教堂 | 祭坛前的 treble | **切割身体**（阉伶时代） |
-| 民歌 | 牛背上的牧童 | 自然使用（一领众和） |
-| 现代合唱团 | 音乐厅的 treble | **只租借窗口期的几年** |
-
-⭐⭐ **维也纳童声合唱团 · King's College Cambridge 圣诞颂歌 · 巴黎木十字——
-treble 做成了五百年的机构：制度换了一种温柔的形式，
-不再切割身体，只租借孩子嗓子没变的几年。**
-
-⭐⭐ **而 countertenor（voice-types 条）是这次换件的现代出口：
-不再切身体，只练假声——同一个声部，三种时代的答案。**
+童声今天有两条路：教堂与音乐厅的 treble，只租借窗口期的几年；民歌里的牧童，自然使用。countertenor 是第三条——不切身体，只练假声。
 
 ```svg
 <svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The window: three fates on one growth curve — male vocal folds +63 percent to 28.92mm, female +34 percent, the castrato frozen at 14mm; plus the castrato timeline 16th century to Moreschi's 1902 recording">
@@ -183,99 +129,39 @@ treble 做成了五百年的机构：制度换了一种温柔的形式，
 :::
 
 ::: en
+A boy's vocal folds grow from 17.35 mm to 28.92 mm at puberty, an increase of 63 per cent; a girl's by about half that. That is the window: the one voice part everyone passes through and everyone loses.
 
-## ⭐⭐ The main line: the window
-
-> 「**During puberty, the male vocal chords increase by 63%, while the female
-> vocal chords increase only by about half that rate at 34%. Prepubescent male
-> vocal chords grow from an average of 17.35mm to 28.92mm by the time they
-> reach adulthood**」.
-
-⭐⭐ **The child's voice is the one voice part everyone passes through and
-everyone loses** — the only instrument on this site that 「spoils on its own」.
-⭐⭐ **And for this necessarily lost sound, humanity built both the darkest
-institution in musical history (the castrati) and the gentlest tradition (the
-boys' choirs) — one end a scalpel, the other a choir stall.**
-
-| HS class | Assignment |
+| Classification | Value |
 |---|---|
-| **HS class** | **the body (aerophone · reed vibration + filtering)** — **the child's voice is the same instrument's 「early firmware」: hardware not yet grown, already running high notes** |
-| **Origin** | ⭐⭐ **two origins**: the 16th-century church (women banned from sacred song → the treble need) and the 500-year boys'-choir tradition (Vienna Boys' Choir · King's College) |
-| **Bayin note** | Outside the bayin — **in folk song the child's voice sits on an ox's back (herd-boy); in church it sits before the altar (treble): one voice part, two fates** |
+| HS class | the body (aerophone, reed vibration plus filtering); the same instrument's early firmware |
+| Origin | the 16th-century church, where women were barred from singing, and five centuries of boys' choirs |
+| Bayin | not applicable |
 
-## ⭐⭐ One growth curve, three fates
+## One growth curve, three fates
 
-| Folds | Start → end | Change |
+| Folds | Start to end | Change |
 |---|---|---|
-| Male | 17.35mm → 28.92mm | **+63%** |
-| Female | same start | **+34%** |
-| **Castrato** | frozen at 14mm (autopsy value) | **0%** |
+| Male | 17.35 to 28.92 mm | +63% |
+| Female | same start | +34% |
+| Castrato | frozen at 14 mm | 0% |
 
-⭐⭐ **The 1909 Tandler & Gross autopsy**: 「the larynx was extremely small and
-the thyroid notch hardly even visible……vocal chords approximately the size of a
-coloratura soprano! They were a mere 14mm in length」 — ⭐⭐ **child-size folds
-plus an adult man's lungs: 「the power of a man with the range of a boy」.**
+In 1909 Tandler and Gross dissected a castrato of 28: the larynx extremely small, the thyroid notch barely visible, the folds a mere 14 mm, the size of a coloratura soprano's. Child-size folds with a man's lungs — that is the whole secret of the sound.
 
-⭐⭐ **The crack is not a mistake** — 「serous fluid accumulates……this excessive
-swelling is called oedema」: **a physiological lag of control behind growth.**
-After the break, the voice part is reshuffled — the childhood version of the
-voice-types entry's 「Fach can evolve」.
+The crack is not a mistake. Fluid accumulates, the tissue swells, and the folds thicken permanently, lowering the pitch; control lags behind growth. Afterward the voice part is reshuffled.
 
-## ⭐⭐ The castrato: an institution built for one sound
+## An institution built for one sound
 
-⭐⭐ **The cause**: 「the practice began in the 16th century, mainly for church
-music when women were banned from singing in sacred places」.
-⭐ **The surgery**: 「often carried out between the ages of 8 and 10……opium,
-ice or milk baths, barber surgeons — before anaesthetic and infection
-control — many didn't survive」.
+In the 16th century the church barred women from singing in sacred places, and the high part needed another kind of throat. The operation usually fell between eight and ten, without anaesthetic or infection control, and many children did not survive. The institution's most piercing line is this: castrating a child did not make him a good singer, it only stopped his voice from breaking.
 
-⭐⭐ **The system's most piercing self-confession**: 「sometimes the abusers did
-not understand that castrating a child did not make him a good singer, it just
-stopped his voice from breaking」 — ⭐⭐ **the institution thought it was
-manufacturing talent; it was only preventing loss.**
+Benedict XIV tried to ban it in 1748 and retreated, fearing empty pews; Italy banned it by law in 1870, too late.
 
-⭐⭐ **Two timelines holding a generation**: 「Pope Benedict XIV attempted to ban
-the practice as early as 1748, but……he eventually relented, fearing it would
-cause church attendance to drop」; 「banned by law in 1870 (Italy)」 —
-**a ban that failed, and a law that succeeded too late.**
+## The one recording left
 
-## ⭐⭐ Moreschi: the last image of an extinct voice
+Alessandro Moreschi (1858–1922), the last castrato, was altered around 1865, became first soprano at San Giovanni in Laterano at fifteen, and sang in the Sistine Chapel for thirty years. In April 1902 the Gaisberg brothers recorded 17 discs there, the only solo castrato recording; in 1904 a new pope forbade more.
 
-> 「**Alessandro Moreschi (1858–1922), the 『last castrato』, produced in 1902
-> the only solo castrato recording in existence**」;
-> 「**recorded in the Sistine Chapel by the Gaisberg brothers, April 1902 —
-> 17 discs in all**」; 「**the next Pope……forbade Moreschi from making any
-> more solo recordings when the recording machine was again brought to the
-> Vatican in 1904**」.
+At fifty-five he was described as small or medium in stature, beardless, with a metallic speaking voice like a very high tenor. What they preserve is a pale impression. The Farinelli legend has a voice sweet as a flute that sang Philip V of Spain back to health; the distance between legend and recording is the distance this institution travelled to be civilised.
 
-⭐⭐ **First soprano of San Giovanni in Laterano at fifteen, then First Soprano
-of the Sistine Chapel for thirty years; at fifty-five 「of small or medium
-stature, beardless, with a speaking voice having a metallic quality, like a
-very high-speaking tenor」** — ⭐⭐ **the only castrato with a solo recording:
-the last image of an extinct human voice — and only 「a pale impression of what
-these singers were capable of」.**
-
-⭐ **The Farinelli legend**: 「reportedly sang Philip V of Spain back to health —
-a voice as sweet as a flute……like a lark intoxicated with its own flight」 —
-**the distance between legend and recording is the distance this institution
-travelled to be civilised.**
-
-## ⭐ Two fates of the child's voice
-
-| Tradition | Where the child's voice sits | Institutional form |
-|---|---|---|
-| Church | the treble before the altar | **cutting the body** (the castrato age) |
-| Folk song | the herd-boy on the ox's back | natural use (call-and-response) |
-| Modern choirs | the treble in the concert hall | **only renting the window years** |
-
-⭐⭐ **Vienna Boys' Choir · King's College Cambridge's Christmas carols · Les
-Petits Chanteurs à la Croix de Bois — the treble became a 500-year
-institution: the system took a gentler form, no longer cutting bodies, only
-renting the years before a child's voice changes.**
-
-⭐⭐ **And the countertenor (voice-types entry) is the modern outlet for this
-swap: no longer cutting the body, only training falsetto — one voice part,
-three eras' answers.**
+Two paths remain: the treble of church and concert hall, renting the window years, and the herd-boy of folk song. The countertenor is a third — no cutting, only falsetto.
 
 ```svg
 <svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The window: three fates on one growth curve — male vocal folds +63 percent to 28.92mm, female +34 percent, the castrato frozen at 14mm; plus the castrato timeline 16th century to Moreschi's 1902 recording">
@@ -330,5 +216,4 @@ three eras' answers.**
 ```audiolab
 {"type":"instrument","gm":"Voice Oohs","phrase":["C4","E4","G4","C5","E5","G5","C6"],"label":"童声的窗口：高音区人声（借女声嘟近似童声）","label_en":"The window — a high voice (voice oohs stand in for the treble)","hint":"童声的本质是「窗口期」——这条高音区人声取其「童声/女声的高音质感」，但童声最标志的三个特征在这里听不出来：一是「未经训练」——童声的音色是硬件未长成的自然产物，不是技巧的产物；二是窗口期的短暂——变声期男声带 +63%（17.35 → 28.92mm），这条声音只有几年寿命；三是它的两种命运——教堂 treble（制度：从阉伶到童声合唱团）与民歌牧童（自然使用），同一声部在两种文明里的位置天差地别。","hint_en":"The children's voice's essence is 「the window」 — this high voice takes the treble/soprano texture, but its three signatures are absent: it is untrained — the timbre is a natural product of immature hardware, not technique; the window is brief — at puberty male folds grow +63% (17.35 → 28.92mm), so this sound has only a few years of life; and its two fates — the church treble (institutional: from castrati to boys' choirs) and the folk herd-boy (natural use) — the same voice part in wildly different civilizational positions."}
 ```
-
 :::

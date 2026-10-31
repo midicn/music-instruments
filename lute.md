@@ -27,7 +27,7 @@ instances:
   - giantmidi-006047 | Jane Pickering 的鲁特琴曲集 —— 17 世纪手抄本曲集，收录当时流通的舞曲与歌曲改编
 sources:
   - 琴体尺寸取通行制琴数据：文艺复兴鲁特琴琴体长 480 毫米、最大宽 330 毫米，弦长 600 毫米
-  - 「文艺复兴鲁特琴常见为 6 组复弦、G 调定弦 G2 C3 F3 A3 D4 G4；第 3 组弦随调性在升 F 与还原 F 之间变化」依通行乐器学与早期音乐演奏惯例，本文为原创表述
+  - 「文艺复兴鲁特琴常见为 6 组复弦、G 调定弦 G2 C3 F3 A3 D4 G4；第 3 组弦随调性在升 F 与还原 F 之间变化」依通行乐器学与早期音乐演奏惯例
   - 弦数随时代递增（15 世纪 4 组 → 16 世纪 6 组 → 17 世纪 7–10 组 → 18 世纪巴洛克鲁特琴 13 组）依通行乐器史叙述
   - 折角背板由多段窄板逐条拼接、与整块拱形背板的结构差异依通行制琴工艺叙述
 updated: 2026-09-25
@@ -120,10 +120,10 @@ updated: 2026-09-25
 
 1. **梨形、无腰的琴体**。与小提琴族的"上下腰"完全不同 ——
    它更接近"水滴"：顶端窄、中下部最宽、底部圆收。
-2. **折角背板**。背板不是一整块，而是**多段窄板逐条拼成**（像船壳），
+2. **折角背板**。背板不是一整块，而是多段窄板逐条拼成（像船壳），
    剖面因此是多边形。见下一节。
-3. **音窗而不是圆音孔**。音孔上嵌一块雕花木片（rose），既是装饰也略微调节空气流量。
-4. **琴桥是粘死的**。不能像吉他那样移动或调高 ——
+3. 音窗而不是圆音孔。音孔上嵌一块雕花木片（rose），既是装饰也略微调节空气流量。
+4. 琴桥是粘死的。不能像吉他那样移动或调高 ——
    音准与手感全靠制琴时定死，所以老鲁特琴的演奏者非常在意温湿度。
 
 ## 折角背板：为什么拼起来比一整块更好
@@ -161,9 +161,9 @@ updated: 2026-09-25
 </svg>
 ```
 
-木头的强度是**顺着纹理方向**的。一整块背板要弯成弧，就得让木头横着受力，
-于是必须留厚一点；而折角做法是把**窄板一条条顺着木纹拼**，
-每条都只承受顺纹的力 —— **同样的强度，板可以薄很多**。
+木头的强度是顺着纹理方向的。一整块背板要弯成弧，就得让木头横着受力，
+于是必须留厚一点；而折角做法是把窄板一条条顺着木纹拼，
+每条都只承受顺纹的力 —— 同样的强度，板可以薄很多。
 
 结果是连锁的：
 
@@ -180,31 +180,31 @@ updated: 2026-09-25
 {"range":"G2–E5","common":"G2–G4","caption":"六组弦鲁特琴（G 调）的实音音域","caption_en":"Sounding range of a six-course lute in G","note":"鲁特琴的定弦随时代与调性变化 —— 尤其第 3 组弦（升 F 与还原 F 并存），所以不同文献给出的音域会有出入。这里给的是文艺复兴 6 组弦 G 调鲁特琴的常见范围。"}
 ```
 
-**这里必须说清楚一件事**：鲁特琴的音域与定弦**没有唯一答案**。
+这里必须说清楚一件事：鲁特琴的音域与定弦没有唯一答案。
 它的历史跨度是三百年，弦数从 4 组涨到 13 组，定弦随调性调整。
 把"鲁特琴的音域"当成一个定值讲是不准确的。
 
-可以确定的是**文艺复兴 6 组弦 G 调**这个最典型的配置：
+可以确定的是文艺复兴 6 组弦 G 调这个最典型的配置：
 
 | 组 | 6 | 5 | 4 | 3 | 2 | 1 |
 |---|---|---|---|---|---|---|
 | 音名 | G2 | C3 | F3 | A3（或降 B3） | D4 | G4 |
 
-其中**第 3 组的 F3 在需要时会临时调成升 F** —— 为了演奏需要升 F 的调性。
+其中第 3 组的 F3 在需要时会临时调成升 F —— 为了演奏需要升 F 的调性。
 这在今天的乐器上几乎见不到（谁会为了一首曲子重新调一根弦？），
-但在鲁特琴时代这是常规操作：**乐器跟着调性走，而不是调性迁就乐器**。
+但在鲁特琴时代这是常规操作：乐器跟着调性走，而不是调性迁就乐器。
 
 ## 音色与听辨
 
 四条线索，前三条是鲁特琴的特征，第四条是它最常见的误认：
 
-1. **音量小、衰减快、音头干净**。羊肠弦 + 薄板 + 轻结构，
+1. 音量小、衰减快、音头干净。羊肠弦 + 薄板 + 轻结构，
    结果是"轻而清楚"而不是"大而厚"。
-2. **指腹拨弦**。鲁特琴用指腹（不是指甲，也不是拨片），
+2. 指腹拨弦。鲁特琴用指腹（不是指甲，也不是拨片），
    所以音头没有拨片的"啪"，也没有指甲的"啵"，更像"点"了一下。
-3. **复弦的波纹**。同音双弦的拍音给每个音一层细微颤动 ——
+3. 复弦的波纹。同音双弦的拍音给每个音一层细微颤动 ——
    与[[instrument:mandolin|曼陀林]]同源，但因为音区更低、衰减更快，听起来更"干"。
-4. **它经常被误认为"古典吉他"。** 两者音色接近，
+4. 它经常被误认为"古典吉他"。 两者音色接近，
    区别在于：鲁特琴高音更细、低音更薄、整体动态更"文静"。
    如果一段录音里低音只有轮廓没有分量，很可能是鲁特琴而不是吉他。
 
@@ -212,23 +212,23 @@ updated: 2026-09-25
 {"type":"instrument","gm":"Guitar Harmonics","synth":"plucked","phrase":["G2","C3","F3","D4","G4"],"label":"六组空弦（G 调）","label_en":"Six open courses, lute in G","hint":"低音只有轮廓、没有分量 —— 这是薄板加低张力的结果，不是录音问题","hint_en":"The bass has shape but no weight — the consequence of a thin plate and low tension, not a recording fault."}
 ```
 
-> 通用 MIDI 的音色表里**没有鲁特琴**，所以这里借用最接近的拨弦音色；
+> 通用 MIDI 的音色表里没有鲁特琴，所以这里借用最接近的拨弦音色；
 > 真实的鲁特琴音色请按"小音量、快衰减、指腹音头"去想象。
-> 本页「在库中听例子」里的曲子是**乐谱的骨架**（转写或雕版 MIDI），音色由试听件负责。
+> 「在库中听例子」里的曲子是乐谱的骨架（转写或雕版 MIDI），音色由试听件负责。
 
 ## 演奏技法
 
 鲁特琴的技法与后来的吉他有明显不同，主要集中在右手：
 
-- **指腹 + 拇指在外侧**。拇指（p）负责低音组，食指与中指（i、m）负责高音。
+- 指腹 + 拇指在外侧。拇指（p）负责低音组，食指与中指（i、m）负责高音。
   无名指在早期很少用。这与现代吉他的四指分工不同。
-- **弹拨方向朝手心**。有些传统要求"向掌内拨"而不是"向外挑"，
+- 弹拨方向朝手心。有些传统要求"向掌内拨"而不是"向外挑"，
   音色更柔、音量更小。
-- **低音组用拇指单独走**。鲁特琴音乐的典型织体是"一条低音线 + 一条高音线 + 中间填充"，
+- 低音组用拇指单独走。鲁特琴音乐的典型织体是"一条低音线 + 一条高音线 + 中间填充"，
   拇指的独立性因此是基本功。
-- **不做大幅度的强弱**。轻结构承受不了强奏，所以鲁特琴音乐依赖
-  **声部与和声的变化**而不是力度对比。
-- **定弦随调性调整**。这是它独有的"演奏前准备"：某些曲目要重调第 3 组弦。
+- 不做大幅度的强弱。轻结构承受不了强奏，所以鲁特琴音乐依赖
+  声部与和声的变化而不是力度对比。
+- 定弦随调性调整。这是它独有的"演奏前准备"：某些曲目要重调第 3 组弦。
 
 左手方面：有品、弦距小、张力低，所以左手很轻 —— 这也是鲁特琴技巧在 20 世纪
 被"古乐运动"重新研究的原因之一。
@@ -242,48 +242,48 @@ updated: 2026-09-25
 | [[instrument:classical-guitar\|古典吉他]] | 有腰 | 拱形（整块） | 6 根单弦（尼龙） | 指甲 | 19 世纪至今 |
 | [[instrument:mandolin\|曼陀林]] | 梨形／碗形 | 折角（那波里式） | 4 组复弦（钢） | 拨片 | 18 世纪至今 |
 
-这张表把一条线串起来了：**复弦、折角背板、指腹拨弦**是早期拨弦乐器的共同特征；
-**单弦、拱形背板、拨片／指甲**是后来的方向。
+这张表把一条线串起来了：复弦、折角背板、指腹拨弦是早期拨弦乐器的共同特征；
+单弦、拱形背板、拨片／指甲是后来的方向。
 吉他与曼陀林各自保留了一半 —— 曼陀林留了复弦，吉他留了指腹之外的那一半。
 
 ## 历史演变
 
-鲁特琴从**阿拉伯世界的乌德琴**（ud）传入欧洲，时间大致在**中世纪晚期**（经由西班牙与西西里）。
-它一开始不是独奏乐器，而是**伴奏与合奏**用的。
+鲁特琴从阿拉伯世界的乌德琴（ud）传入欧洲，时间大致在中世纪晚期（经由西班牙与西西里）。
+它一开始不是独奏乐器，而是伴奏与合奏用的。
 
-16 世纪是它的第一个黄金期：**6 组弦、G 调定弦**稳定下来，
-欧洲各国出现了大量**手抄本曲集**（tablature，用字母或数字记谱），
-其中就有本页实例里的 Jane Pickering 鲁特琴曲集那一类。这时它已是**独奏乐器**。
+16 世纪是它的第一个黄金期：6 组弦、G 调定弦稳定下来，
+欧洲各国出现了大量手抄本曲集（tablature，用字母或数字记谱），
+其中就有文中的实例里的 Jane Pickering 鲁特琴曲集那一类。这时它已是独奏乐器。
 
 17 世纪弦数继续增加：7 组、8 组、10 组 —— 多出来的弦放在低音侧，
-用来演奏通奏低音。**调性也随之改变**（法国式、德国式鲁特琴的定弦不同）。
+用来演奏通奏低音。调性也随之改变（法国式、德国式鲁特琴的定弦不同）。
 
-18 世纪它到了最后一个高峰，也是终点：**巴洛克鲁特琴**有 **13 组弦**，
-为它写作的有 Falckenhagen、Weiss 等人（本页实例里的 Falckenhagen 就在这一列）。
-但这个时期的鲁特琴已经**非常难弹、非常难做、非常贵**，
+18 世纪它到了最后一个高峰，也是终点：巴洛克鲁特琴有 13 组弦，
+为它写作的有 Falckenhagen、Weiss 等人（文中的实例里的 Falckenhagen 就在这一列）。
+但这个时期的鲁特琴已经非常难弹、非常难做、非常贵，
 而键盘乐器的音量与和声能力都超过了它。
 
-与此同时发生的是：**吉他（五组、后来六根单弦）在欧洲普及**，
+与此同时发生的是：吉他（五组、后来六根单弦）在欧洲普及，
 复弦传统被单弦取代。到 18 世纪末，鲁特琴基本退出了舞台 ——
-**它不是被更好的鲁特琴取代的，而是被更简单的吉他取代的。**
+它不是被更好的鲁特琴取代的，而是被更简单的吉他取代的。
 
 20 世纪它随"古乐运动"复活：制琴师按博物馆藏品复原，
-演奏者重新研究指法与定弦。今天的鲁特琴是一个**小而专业的领域**，
+演奏者重新研究指法与定弦。今天的鲁特琴是一个小而专业的领域，
 但它留下的曲库（尤其文艺复兴的独奏曲）是拨弦乐器里最早成体系的一批。
 
 ## 常见误解
 
-- **"鲁特琴的音域是 X。"** → 没有唯一的 X。弦数从 4 组到 13 组、
+- "鲁特琴的音域是 X。" → 没有唯一的 X。弦数从 4 组到 13 组、
   定弦随调性变化，音域也跟着变。说音域必须带上"哪个时代、几组弦、什么调"。
-- **"它和古典吉他差不多，只是老一点。"** → 三处结构差异：**复弦 vs 单弦**、
-  **折角 vs 拱形背板**、**指腹 vs 指甲**。这三点决定了它音量更小、音色更透、动态更文静。
-- **"折角背板是为了好看。"** → 是为了**做得更薄更轻**：窄板顺着木纹拼接，
+- "它和古典吉他差不多，只是老一点。" → 三处结构差异：复弦 vs 单弦、
+  折角 vs 拱形背板、指腹 vs 指甲。这三点决定了它音量更小、音色更透、动态更文静。
+- "折角背板是为了好看。" → 是为了做得更薄更轻：窄板顺着木纹拼接，
   每块只承受顺纹的力。这是结构效率问题，不是装饰。
-- **"定弦是固定的。"** → 文艺复兴鲁特琴的第 3 组弦在升 F 与还原 F 之间切换，
-  巴洛克鲁特琴的定弦又不同。**乐器跟着调性走**是那个时代的常规。
-- **"它被更好的乐器淘汰了。"** → 它是被**更简单、更响、更便宜**的吉他取代的。
+- "定弦是固定的。" → 文艺复兴鲁特琴的第 3 组弦在升 F 与还原 F 之间切换，
+  巴洛克鲁特琴的定弦又不同。乐器跟着调性走是那个时代的常规。
+- "它被更好的乐器淘汰了。" → 它是被更简单、更响、更便宜的吉他取代的。
   淘汰的原因常常是成本与易用性，不是艺术水平。
-- **"鲁特琴音乐是民间音乐。"** → 恰恰相反。它留下的曲集多数是**宫廷与城市上层**的独奏曲，
+- "鲁特琴音乐是民间音乐。" → 恰恰相反。它留下的曲集多数是宫廷与城市上层的独奏曲，
   民间舞曲只是其中一部分体裁。
 
 ## 下一步
@@ -294,6 +294,7 @@ updated: 2026-09-25
 
 至此西洋弦乐（I1）的核心四件 + 弹拨支系已完成 5 条。剩下的弦乐条目
 （竖琴、维奥尔琴、班卓琴、桑图尔、钦巴龙）在下一批继续。
+
 :::
 
 ::: en
@@ -377,11 +378,11 @@ Four features, one by one:
 
 1. **A pear-shaped body with no waist.** Nothing like the violin family's upper and lower bouts — this
    is closer to a teardrop: narrow at the top, widest in the lower middle, rounded at the bottom.
-2. **A ribbed back.** The back is not one plate but **narrow staves joined edge to edge**, like a boat
+2. **A ribbed back.** The back is not one plate but narrow staves joined edge to edge, like a boat
    hull, so the cross-section is a polygon. Next section.
-3. **A rose rather than a round soundhole.** A carved wooden rosette sits in the opening — decoration,
+3. A rose rather than a round soundhole. A carved wooden rosette sits in the opening — decoration,
    and a slight control on airflow.
-4. **A glued bridge.** It cannot be moved or raised as a guitar's can — intonation and action are fixed
+4. A glued bridge. It cannot be moved or raised as a guitar's can — intonation and action are fixed
    at construction, which is why lute players are so careful about temperature and humidity.
 
 ## The ribbed back: why joined staves beat one plate
@@ -416,9 +417,9 @@ Four features, one by one:
 </svg>
 ```
 
-Wood is strong **along the grain**. To bend a single wide plate into an arch you must load it across
+Wood is strong along the grain. To bend a single wide plate into an arch you must load it across
 the grain, so it has to stay thick. The ribbed method joins **narrow staves that each run along the
-grain** — every piece only carries load in the direction it is strong — so **the same strength comes
+grain — every piece only carries load in the direction it is strong — so the same strength comes
 with far less thickness**.
 
 The consequences chain together:
@@ -436,17 +437,17 @@ bowl-back [[instrument:mandolin|mandolins]].
 {"range":"G2–E5","common":"G2–G4","caption":"六组弦鲁特琴（G 调）的实音音域","caption_en":"Sounding range of a six-course lute in G","note":"鲁特琴的定弦随时代与调性变化 —— 尤其第 3 组弦（升 F 与还原 F 并存），所以不同文献给出的音域会有出入。这里给的是文艺复兴 6 组弦 G 调鲁特琴的常见范围。"}
 ```
 
-**One thing must be said clearly**: the lute's range and tuning have **no single answer**. The
+One thing must be said clearly: the lute's range and tuning have no single answer. The
 instrument spans three centuries, its courses grow from 4 to 13, and its tuning changes with the key.
 Treating "the lute's range" as one fixed figure would be inaccurate.
 
-What is well established is the most typical configuration — **Renaissance, six courses, in G**:
+What is well established is the most typical configuration — Renaissance, six courses, in G:
 
 | Course | 6 | 5 | 4 | 3 | 2 | 1 |
 |---|---|---|---|---|---|---|
 | Note | G2 | C3 | F3 | A3 (or B♭3) | D4 | G4 |
 
-The **third course's F3 is retuned to F♯** when the music requires it. You almost never see this on a
+The third course's F3 is retuned to F♯ when the music requires it. You almost never see this on a
 modern instrument — who retunes a string for one piece? — but in the lute's era it was routine:
 **the instrument followed the key, rather than the key accommodating the instrument.**
 
@@ -454,13 +455,13 @@ modern instrument — who retunes a string for one piece? — but in the lute's 
 
 Four cues; the first three are the lute's own, the fourth is its most common misidentification:
 
-1. **Small volume, fast decay, clean attack.** Gut strings, a thin plate and a light build produce
+1. Small volume, fast decay, clean attack. Gut strings, a thin plate and a light build produce
    "light and clear" rather than "big and thick".
-2. **Fingertips, not nails or pick.** So there is neither a pick's clack nor a nail's click — more like
+2. Fingertips, not nails or pick. So there is neither a pick's clack nor a nail's click — more like
    a touch.
-3. **The ripple of doubled courses.** Beating between unison pairs leaves a faint tremble, the same
+3. The ripple of doubled courses. Beating between unison pairs leaves a faint tremble, the same
    origin as the [[instrument:mandolin|mandolin]]'s, but lower and shorter — drier.
-4. **It is often mistaken for a classical guitar.** The colours are close. The differences: a lute is
+4. It is often mistaken for a classical guitar. The colours are close. The differences: a lute is
    finer on top, thinner at the bottom and quieter overall. If a recording has a bass with outline but
    no weight, it is probably a lute, not a guitar.
 
@@ -468,24 +469,24 @@ Four cues; the first three are the lute's own, the fourth is its most common mis
 {"type":"instrument","gm":"Guitar Harmonics","synth":"plucked","phrase":["G2","C3","F3","D4","G4"],"label":"六组空弦（G 调）","label_en":"Six open courses, lute in G","hint":"低音只有轮廓、没有分量 —— 这是薄板加低张力的结果，不是录音问题","hint_en":"The bass has shape but no weight — the consequence of a thin plate and low tension, not a recording fault."}
 ```
 
-> The General MIDI palette has **no lute**, so this borrows the closest plucked timbre; imagine the real
+> The General MIDI palette has no lute, so this borrows the closest plucked timbre; imagine the real
 > thing as small, fast-decaying, with a fingertip attack. The tracks under “Listen in the library” are
-> the **skeleton of the music** (transcription or engraving MIDI); timbre is handled by the player above.
+> the skeleton of the music (transcription or engraving MIDI); timbre is handled by the player above.
 
 ## Playing techniques
 
 The technique differs noticeably from the later guitar, mostly in the right hand:
 
-- **Fingertips, thumb on the outside.** The thumb (p) takes the bass courses; the index and middle
+- Fingertips, thumb on the outside. The thumb (p) takes the bass courses; the index and middle
   fingers (i, m) take the treble. The ring finger was rarely used in the early period — unlike the
   modern guitar's four-finger division.
-- **Stroking towards the palm.** Some traditions require plucking inward rather than outward — softer,
+- Stroking towards the palm. Some traditions require plucking inward rather than outward — softer,
   quieter.
-- **The thumb walks the bass alone.** Lute textures typically combine a bass line, a treble line and
+- The thumb walks the bass alone. Lute textures typically combine a bass line, a treble line and
   filling in between, so an independent thumb is basic technique.
-- **Little dynamic contrast.** A light structure cannot take forceful playing, so lute music relies on
-  **changes of texture and harmony** rather than loud and soft.
-- **Retuning before playing.** Unique to this instrument: some pieces require the third course retuned.
+- Little dynamic contrast. A light structure cannot take forceful playing, so lute music relies on
+  changes of texture and harmony rather than loud and soft.
+- Retuning before playing. Unique to this instrument: some pieces require the third course retuned.
 
 On the left hand: frets, close spacing and low tension make the touch very light — which is one reason
 the 20th-century early-music movement studied lute technique so closely.
@@ -499,29 +500,29 @@ the 20th-century early-music movement studied lute technique so closely.
 | [[instrument:classical-guitar\|Classical guitar]] | waisted | arched (single plate) | 6 single (nylon) | nails | 19th c.–now |
 | [[instrument:mandolin\|Mandolin]] | pear/bowl | ribbed (Neapolitan) | 4 doubled courses (steel) | pick | 18th c.–now |
 
-The table traces one line: **doubled courses, a ribbed back and fingertip plucking** are shared traits
-of the early plucked instruments; **single strings, an arched back and a pick-or-nail attack** are the
+The table traces one line: doubled courses, a ribbed back and fingertip plucking are shared traits
+of the early plucked instruments; single strings, an arched back and a pick-or-nail attack are the
 later direction. The guitar and the mandolin each kept half — the mandolin kept courses, the guitar
 kept everything except the courses.
 
 ## History
 
-The lute came into Europe from the Arab **oud**, roughly in the **late Middle Ages**, via Spain and
+The lute came into Europe from the Arab oud, roughly in the late Middle Ages, via Spain and
 Sicily. It was not originally a solo instrument but an accompaniment and ensemble one.
 
-The 16th century was its first golden age: **six courses tuned in G** settled down, and across Europe
-**manuscript collections** appeared (in tablature), including the Jane Pickering lute book used as an
-example on this page. By then it was a **solo** instrument.
+The 16th century was its first golden age: six courses tuned in G settled down, and across Europe
+manuscript collections appeared (in tablature), including the Jane Pickering lute book used as an
+example on this page. By then it was a solo instrument.
 
 In the 17th century the course count kept rising — 7, 8, 10 — with the extra strings on the bass side
-to play continuo. **Tuning changed too**: French and German lutes were tuned differently.
+to play continuo. Tuning changed too: French and German lutes were tuned differently.
 
-The 18th century brought both its last peak and its end: the **Baroque lute** with **13 courses**, with
+The 18th century brought both its last peak and its end: the Baroque lute with 13 courses, with
 music written for it by Falckenhagen, Weiss and others (Falckenhagen is in the listening list here).
-But by then it was **very hard to play, very hard to make and very expensive**, and keyboard
+But by then it was very hard to play, very hard to make and very expensive, and keyboard
 instruments surpassed it in both volume and harmonic reach.
 
-Meanwhile the **guitar** (five courses, then six single strings) spread across Europe, and single
+Meanwhile the guitar (five courses, then six single strings) spread across Europe, and single
 strings replaced courses. By the end of the 18th century the lute had left the stage — **not displaced
 by a better lute, but by a simpler guitar.**
 
@@ -532,19 +533,19 @@ body of plucked-instrument music there is.
 
 ## Common misconceptions
 
-- **"The lute's range is X."** There is no single X. Courses run from 4 to 13 and tuning follows the
+- "The lute's range is X." There is no single X. Courses run from 4 to 13 and tuning follows the
   key, so the range moves with them. Any figure needs "which century, how many courses, what key".
-- **"It is roughly a classical guitar, only older."** Three structural differences: **courses versus
-  single strings**, **a ribbed versus an arched back**, **fingertips versus nails**. Together they make
+- "It is roughly a classical guitar, only older." Three structural differences: **courses versus
+  single strings, a ribbed versus an arched back, fingertips versus nails**. Together they make
   it quieter, clearer and more restrained.
-- **"The ribbed back is decorative."** It is there to make the back **thinner and lighter**: narrow
+- "The ribbed back is decorative." It is there to make the back thinner and lighter: narrow
   staves running with the grain each carry load only along the grain. Structural efficiency, not
   ornament.
-- **"The tuning is fixed."** A Renaissance lute's third course switches between F♯ and F, and Baroque
-  lute tunings differ again. **The instrument following the key** was normal practice then.
-- **"It was superseded by something better."** It was superseded by something **simpler, louder and
+- "The tuning is fixed." A Renaissance lute's third course switches between F♯ and F, and Baroque
+  lute tunings differ again. The instrument following the key was normal practice then.
+- "It was superseded by something better." It was superseded by something **simpler, louder and
   cheaper**. Instruments usually lose out on cost and convenience, not artistic merit.
-- **"Lute music is folk music."** Quite the opposite. Most surviving collections are **courtly and
+- "Lute music is folk music." Quite the opposite. Most surviving collections are **courtly and
   urban solo music**; folk dance is only one of its genres.
 
 ## Next

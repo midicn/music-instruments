@@ -47,10 +47,10 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 木管（哨嘴族）· 也是早期乐器 |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，竖笛不在其中 |
 
-> ⚠️ **一个概念上的要点**：**"边棱音"不是一种乐器，而是一类激振方式。**
+> ⚠️ 一个概念上的要点："边棱音"不是一种乐器，而是一类激振方式。
 > [[instrument:flute|长笛]]和竖笛都靠"气流切过棱边"发声，但气流的形成方式不同：
-> 长笛由**嘴唇**塑造（可塑性强、难度高），竖笛由**哨嘴的固定通道**塑造（稳定、易响）。
-> 所以两者音色的可控范围差别很大 —— **同一个声学原理，两种人机接口。**
+> 长笛由嘴唇塑造（可塑性强、难度高），竖笛由哨嘴的固定通道塑造（稳定、易响）。
+> 所以两者音色的可控范围差别很大 —— 同一个声学原理，两种人机接口。
 
 ## 结构：哨嘴是一条固定风道
 
@@ -92,11 +92,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **哨嘴 = 一条做在管头里的固定风道**。气流从吹口进入、经风道、撞上棱边，
-   一分为二 —— 与长笛的物理过程相同，但**不需要演奏者控制方向**。
-2. **基本没有键**。指孔直接用手按/半按，高音靠**半孔**与**叉指（forked fingering）**得到。
+1. 哨嘴 = 一条做在管头里的固定风道。气流从吹口进入、经风道、撞上棱边，
+   一分为二 —— 与长笛的物理过程相同，但不需要演奏者控制方向。
+2. 基本没有键。指孔直接用手按/半按，高音靠半孔与叉指（forked fingering）得到。
    所以竖笛的指法比现代木管"老派"得多。
-3. **它是成套的家族乐器**。同一形制做成不同大小（见下节），而不是像萨克斯那样"一族几支各有分工"。
+3. 它是成套的家族乐器。同一形制做成不同大小（见下节），而不是像萨克斯那样"一族几支各有分工"。
 
 ## 哨嘴与嘴唇：两种边棱音
 
@@ -126,9 +126,9 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这条取舍关系值得记住**：把气流交给固定风道，就换来极低的入门门槛，
-代价是放弃对音色的深度控制。**这正是竖笛既是"儿童乐器"又是"古乐重器"的原因** ——
-它的价值不在表情的广度，而在音色的**透明与均匀**。
+这条取舍关系值得记住：把气流交给固定风道，就换来极低的入门门槛，
+代价是放弃对音色的深度控制。这正是竖笛既是"儿童乐器"又是"古乐重器"的原因 ——
+它的价值不在表情的广度，而在音色的透明与均匀。
 
 ## 音域
 
@@ -136,7 +136,7 @@ updated: 2026-09-26
 {"range":"F4–G6","common":"F4–D6","caption":"中音竖笛的音域","caption_en":"Alto recorder range","note":"竖笛是成套的家族乐器，这里以巴洛克独奏文献最常用的中音竖笛（F 调）为例。记谱即实音，不移调。上方两个音（E6、G6）需要半孔与叉指。"}
 ```
 
-**它是为什么"成套"的**：同一形制按比例做成不同大小，就得到一整个家族 ——
+它是为什么"成套"的：同一形制按比例做成不同大小，就得到一整个家族 ——
 指法逻辑一致，音高不同，可以合奏。
 
 | 型号 | 调 | 实音音域 | 常用处 |
@@ -148,18 +148,18 @@ updated: 2026-09-26
 | 次中音（tenor） | C | 约 C4–D6 | 合奏的内声部 |
 | 低音（bass） | F | 约 F3–G5 | 合奏的低音 |
 
-**注意"同一份指法"这件事**：竖笛族的指法**跨型号通用**（因为都是同一套孔位比例），
-所以演奏者可以像萨克斯族那样换型号 —— 但它们的**记谱都是实音**，不含移调。
+注意"同一份指法"这件事：竖笛族的指法跨型号通用（因为都是同一套孔位比例），
+所以演奏者可以像萨克斯族那样换型号 —— 但它们的记谱都是实音，不含移调。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **清亮、直朴、泛音少**。它的音色里没有簧片的"芯"，也没有长笛那种丰富的气声层次 ——
-   是一种**接近纯音的干净**。
-2. **音量大而均匀**。它可以在整个音域里保持相近的音量，这让它在合奏里很好用。
-3. **高音区偏尖**。上到高音区时音色会变薄、变紧，需要半孔与叉指。
-4. **可调范围小**。它做不出大幅度的音量与音色变化 —— 这是固定风道带来的天花板。
+1. 清亮、直朴、泛音少。它的音色里没有簧片的"芯"，也没有长笛那种丰富的气声层次 ——
+   是一种接近纯音的干净。
+2. 音量大而均匀。它可以在整个音域里保持相近的音量，这让它在合奏里很好用。
+3. 高音区偏尖。上到高音区时音色会变薄、变紧，需要半孔与叉指。
+4. 可调范围小。它做不出大幅度的音量与音色变化 —— 这是固定风道带来的天花板。
 
 ```audiolab
 {"type":"instrument","gm":"Recorder","synth":"blown","phrase":["F4","A4","C5","F5","A5","C6"],"label":"中音竖笛的常用区：F4 到 C6","label_en":"The alto recorder's working register — F4 up to C6","hint":"注意音色的透明与均匀 —— 这是哨嘴驱动的特点，也是它最被低估的地方","hint_en":"Hear the transparency and evenness — the mark of duct drive, and its most underrated quality."}
@@ -167,11 +167,11 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **半孔（half-hole）**：按住某个孔的一半来得到半音 —— 竖笛没有键系，半音主要靠它。
-- **叉指（forked fingering）**：中间漏一个孔，得到高音区的一些音 —— 音色会略闷，
+- 半孔（half-hole）：按住某个孔的一半来得到半音 —— 竖笛没有键系，半音主要靠它。
+- 叉指（forked fingering）：中间漏一个孔，得到高音区的一些音 —— 音色会略闷，
   这是竖笛演奏者必须学会弥补的地方。
-- **音头靠舌头**（吐音，tonguing）。因为没有键系、气流固定，**吐音是它最主要的发音控制手段**。
-- **装饰音**：巴洛克竖笛音乐的装饰音极多，演奏者要按当时的惯例即兴加花 ——
+- 音头靠舌头（吐音，tonguing）。因为没有键系、气流固定，吐音是它最主要的发音控制手段。
+- 装饰音：巴洛克竖笛音乐的装饰音极多，演奏者要按当时的惯例即兴加花 ——
   这在现代演奏里仍然保留。
 
 ## 家族与近亲
@@ -183,8 +183,8 @@ updated: 2026-09-26
 | [[instrument:ocarina\|陶笛]] | 哨嘴风道 | **闭腔** | 无键 | 音高由开孔面积决定 |
 | [[instrument:pan-flute\|排箫]] | 嘴唇 | 多根**闭管** | 无键 | 每管一音 —— 世界性的乐器 |
 
-**三件"哨嘴 / 无簧"乐器放在一起看**，会发现它们都在做同一件事：
-**用最简单的方式得到一个稳定的音**。它们的代价也一样：**可塑性低**。
+三件"哨嘴 / 无簧"乐器放在一起看，会发现它们都在做同一件事：
+用最简单的方式得到一个稳定的音。它们的代价也一样：可塑性低。
 
 ## 历史演变
 
@@ -199,16 +199,16 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"竖笛是玩具，不是正经乐器。"** 它在**巴洛克时期是标准独奏乐器**，
+- "竖笛是玩具，不是正经乐器。" 它在巴洛克时期是标准独奏乐器，
   有大量专为它写的奏鸣曲与协奏曲。20 世纪把它当儿童入门乐器，只是它历史的一段。
-- **"竖笛与长笛是同一种乐器。"** 同属边棱音，但**激振方式不同**：
+- "竖笛与长笛是同一种乐器。" 同属边棱音，但激振方式不同：
   哨嘴固定风道 vs 嘴唇直接控制 —— 这决定了它们音色可塑性上的巨大差别。
-- **"竖笛是移调乐器，和萨克斯一样。"** **记谱即实音**，不移调。
+- "竖笛是移调乐器，和萨克斯一样。" 记谱即实音，不移调。
   换型号会换音高，但谱面永远写实音。
-- **"竖笛只有一个型号。"** 它是**成套的家族**（从小超高音到低音），
+- "竖笛只有一个型号。" 它是成套的家族（从小超高音到低音），
   指法逻辑跨型号通用，是文艺复兴与巴洛克合奏音乐的常用编制。
-- **"吹得越用力越好。"** 竖笛的响应太灵敏，用力过猛会直接"跳"到高泛音 ——
-  控制音量靠气流的**稳**，不是靠气流的**多**。
+- "吹得越用力越好。" 竖笛的响应太灵敏，用力过猛会直接"跳"到高泛音 ——
+  控制音量靠气流的稳，不是靠气流的多。
 
 ## 下一步
 
@@ -219,6 +219,7 @@ updated: 2026-09-26
 这三件放在一起，就把"无簧木管"这条最古老的支线讲完了。之后木管组正式收口 ——
 想看木管与铜管的交界，就要进入铜管组；想看它与弦乐的关系，
 [[instrument:flute|长笛]]那一页里有最直接的对照。
+
 :::
 
 ::: en
@@ -236,11 +237,11 @@ That single difference decides everything about it: **very easy to sound, limite
 | **Family** | Western · Woodwinds (duct family) · also an early instrument |
 | **Bayin** | Not applicable — a Chinese system; the recorder is outside it |
 
-> ⚠️ **One conceptual point**: **"edge-tone" is not an instrument but a way of driving one.**
+> ⚠️ One conceptual point: "edge-tone" is not an instrument but a way of driving one.
 > The [[instrument:flute|flute]] and the recorder both sound by having a jet cut against an edge, but the
-> jet is formed differently: on a flute by the **lips** (highly controllable, hard to learn), on a recorder
-> by a **fixed duct** (stable, easy to sound). So the two differ enormously in how far their colour can be
-> shaped — **one acoustic principle, two interfaces.**
+> jet is formed differently: on a flute by the lips (highly controllable, hard to learn), on a recorder
+> by a fixed duct (stable, easy to sound). So the two differ enormously in how far their colour can be
+> shaped — one acoustic principle, two interfaces.
 
 ## Structure: the duct is a fixed channel
 
@@ -282,11 +283,11 @@ That single difference decides everything about it: **very easy to sound, limite
 
 Three points:
 
-1. **The duct is a channel built into the head.** Air enters the mouthpiece, travels the duct, strikes the
-   edge and splits — physically the same as a flute, but **the player does not steer it**.
-2. **Essentially keyless.** Holes are covered directly, half-covered, or forked to reach the top register,
+1. The duct is a channel built into the head. Air enters the mouthpiece, travels the duct, strikes the
+   edge and splits — physically the same as a flute, but the player does not steer it.
+2. Essentially keyless. Holes are covered directly, half-covered, or forked to reach the top register,
    so the fingering is far more "period" than a modern woodwind's.
-3. **It is a consort family**, not a set of specialists: one design in many sizes (next section).
+3. It is a consort family, not a set of specialists: one design in many sizes (next section).
 
 ## Duct and lips: two kinds of edge-tone
 
@@ -316,9 +317,9 @@ Three points:
 </svg>
 ```
 
-**This trade-off is worth remembering**: hand the jet to a fixed duct and you buy an extremely low entry
+This trade-off is worth remembering: hand the jet to a fixed duct and you buy an extremely low entry
 barrier at the cost of deep colour control. **That is exactly why the recorder is both a school instrument
-and a serious early-music instrument** — its value is not breadth of expression but the **transparency and
+and a serious early-music instrument — its value is not breadth of expression but the transparency and
 evenness** of its tone.
 
 ## Range
@@ -327,7 +328,7 @@ evenness** of its tone.
 {"range":"F4–G6","common":"F4–D6","caption":"中音竖笛的音域","caption_en":"Alto recorder range","note":"竖笛是成套的家族乐器，这里以巴洛克独奏文献最常用的中音竖笛（F 调）为例。记谱即实音，不移调。上方两个音（E6、G6）需要半孔与叉指。"}
 ```
 
-**Why it comes "in sets"**: the same design scaled to different sizes gives a whole consort — consistent
+Why it comes "in sets": the same design scaled to different sizes gives a whole consort — consistent
 fingering logic, different pitches, able to play together.
 
 | Size | Key | Sounding range | Usual role |
@@ -339,19 +340,19 @@ fingering logic, different pitches, able to play together.
 | Tenor | C | about C4–D6 | inner parts of a consort |
 | Bass | F | about F3–G5 | the consort's low voice |
 
-**Note the shared fingering**: the logic transfers across sizes (the holes are proportional), so a player
-can switch like a saxophonist — except that **every recorder is written at sounding pitch**, with no
+Note the shared fingering: the logic transfers across sizes (the holes are proportional), so a player
+can switch like a saxophonist — except that every recorder is written at sounding pitch, with no
 transposition at all.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Clear, plain, few harmonics.** No reed core and none of the flute's layered breath — a tone close to a
+1. Clear, plain, few harmonics. No reed core and none of the flute's layered breath — a tone close to a
    pure sound.
-2. **Loud and even.** It holds a similar volume across its range, which makes it very usable in a consort.
-3. **Thin and tight at the top**, where half-holes and forked fingerings are needed.
-4. **A narrow expressive range** — the ceiling imposed by a fixed duct.
+2. Loud and even. It holds a similar volume across its range, which makes it very usable in a consort.
+3. Thin and tight at the top, where half-holes and forked fingerings are needed.
+4. A narrow expressive range — the ceiling imposed by a fixed duct.
 
 ```audiolab
 {"type":"instrument","gm":"Recorder","synth":"blown","phrase":["F4","A4","C5","F5","A5","C6"],"label":"中音竖笛的常用区：F4 到 C6","label_en":"The alto recorder's working register — F4 up to C6","hint":"注意音色的透明与均匀 —— 这是哨嘴驱动的特点，也是它最被低估的地方","hint_en":"Hear the transparency and evenness — the mark of duct drive, and its most underrated quality."}
@@ -359,11 +360,11 @@ Four cues:
 
 ## Playing techniques
 
-- **Half-hole**: covering half of a hole to get a semitone — with no keys, this is the main way.
-- **Forked fingering**: leaving a middle hole open for some top notes — the tone turns duller, and closing
+- Half-hole: covering half of a hole to get a semitone — with no keys, this is the main way.
+- Forked fingering: leaving a middle hole open for some top notes — the tone turns duller, and closing
   that gap is part of the player's craft.
-- **Tonguing is the main articulation**, since there is no keywork and the air path is fixed.
-- **Ornamentation**: Baroque recorder music is thick with ornaments, and players were expected to add them
+- Tonguing is the main articulation, since there is no keywork and the air path is fixed.
+- Ornamentation: Baroque recorder music is thick with ornaments, and players were expected to add them
   from convention — a practice still kept in performance.
 
 ## The family
@@ -375,8 +376,8 @@ Four cues:
 | [[instrument:ocarina\|Ocarina]] | duct head | **closed vessel** | none | pitch set by hole area |
 | [[instrument:pan-flute\|Pan flute]] | lips | several **closed tubes** | none | one note per tube; found worldwide |
 
-**Set the three reedless duct-blown instruments together** and they are all doing the same thing:
-**obtaining a stable note the simplest way possible.** They all pay the same price: **low flexibility.**
+Set the three reedless duct-blown instruments together and they are all doing the same thing:
+obtaining a stable note the simplest way possible. They all pay the same price: low flexibility.
 
 ## History
 
@@ -391,16 +392,16 @@ Four cues:
 
 ## Common misconceptions
 
-- **"A recorder is a toy, not a real instrument."** In the **Baroque it was a standard solo instrument**
+- "A recorder is a toy, not a real instrument." In the Baroque it was a standard solo instrument
   with a large dedicated repertoire. Its 20th-century role as a school instrument is one chapter only.
-- **"A recorder and a flute are the same instrument."** Both are edge-tone, but **the drive differs**:
+- "A recorder and a flute are the same instrument." Both are edge-tone, but the drive differs:
   a duct against the lips — which decides how differently their colours can be shaped.
-- **"It transposes, like a saxophone."** **It is written at sounding pitch.** Changing size changes the
+- "It transposes, like a saxophone." It is written at sounding pitch. Changing size changes the
   pitch, but the page always shows the real sound.
-- **"There is only one recorder."** It is a **family of sizes** (garklein to bass) with shared fingering
+- "There is only one recorder." It is a family of sizes (garklein to bass) with shared fingering
   logic, and a standard consort in Renaissance and Baroque ensemble music.
-- **"Blow harder and it is better."** A recorder is so responsive that excess air jumps to a higher partial —
-  volume comes from **steadiness**, not from more air.
+- "Blow harder and it is better." A recorder is so responsive that excess air jumps to a higher partial —
+  volume comes from steadiness, not from more air.
 
 ## Next
 

@@ -37,7 +37,7 @@ updated: 2026-09-26
 但它真正的独特之处不在体积，而在于一个别的管乐器都没有的事实：
 **它靠呼吸驱动，而且"吹"与"吸"都能发声。**
 
-所以它一件乐器上同时有**两组音**：**吹音**与**吸音**。
+所以它一件乐器上同时有**两组音**：**吹音**与吸音。
 
 | 分类 | 归属 |
 |---|---|
@@ -46,13 +46,13 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 键盘（自由簧支系）· 同时是**世界乐器** |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，口琴不在其中 |
 
-> ⚠️ **一个概念上的要点**：**"吹"与"吸"都发声，这在管乐器里极为少见。**
-> 长笛、竖笛、小号、萨克斯……几乎所有管乐器**只在一个气流方向上发声**。
-> 口琴打破了这一条，因为它的簧片是**双向的**：
-> **吹时一片簧开，吸时另一片簧开** —— 于是同一个孔可以给出两个音。
+> ⚠️ 一个概念上的要点："吹"与"吸"都发声，这在管乐器里极为少见。
+> 长笛、竖笛、小号、萨克斯……几乎所有管乐器只在一个气流方向上发声。
+> 口琴打破了这一条，因为它的簧片是双向的：
+> 吹时一片簧开，吸时另一片簧开 —— 于是同一个孔可以给出两个音。
 > 这个结构带来了两个后果：
-> **① 音阶排列不是顺序的**（吹音与吸音交错，构成一个和弦式的排列）；
-> **② 可以用"弯音"在中间取值**（见下节）。
+> ① 音阶排列不是顺序的（吹音与吸音交错，构成一个和弦式的排列）；
+> ② 可以用"弯音"在中间取值（见下节）。
 
 ## 结构：气道板上的自由簧
 
@@ -113,10 +113,10 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **每个孔有两片簧**：一片在吹气时开、一片在吸气时开。
-2. **所以一孔两个音**，而这直接决定了它的**音阶排列方式**（见下节）。
-3. **呼吸就是它的"弓"**。力度、时值、连断都由呼吸控制 ——
-   这也是它最"身体化"的一点：**演奏者用自己的呼吸作为动力**。
+1. 每个孔有两片簧：一片在吹气时开、一片在吸气时开。
+2. 所以一孔两个音，而这直接决定了它的音阶排列方式（见下节）。
+3. 呼吸就是它的"弓"。力度、时值、连断都由呼吸控制 ——
+   这也是它最"身体化"的一点：演奏者用自己的呼吸作为动力。
 
 ## 吹吸音阶：为什么它不是顺序排列
 
@@ -163,9 +163,9 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图解释了为什么口琴"上手容易、精进很难"**：
-- **连续吹或连续吸**能得到和弦 → 所以初学者很容易吹出"好听的声音"；
-- 但要**吹出完整的旋律**，必须精确地交替吹吸 → 技术难度在这里。
+这张图解释了为什么口琴"上手容易、精进很难"：
+- 连续吹或连续吸能得到和弦 → 所以初学者很容易吹出"好听的声音"；
+- 但要吹出完整的旋律，必须精确地交替吹吸 → 技术难度在这里。
 
 ## 弯音：口琴最独特的技术
 
@@ -197,9 +197,9 @@ updated: 2026-09-26
 </svg>
 ```
 
-**弯音的意义**：口琴的排列里**本来缺半音**；
+弯音的意义：口琴的排列里本来缺半音；
 演奏者用口腔与气流把音高"拉低"，从而补出那些音。
-**这是"演奏技术弥补乐器结构限制"的一个典型例子** ——
+这是"演奏技术弥补乐器结构限制"的一个典型例子 ——
 也说明口琴的表现力很大一部分不在乐器上，而在演奏者身上。
 
 ## 音域
@@ -208,20 +208,20 @@ updated: 2026-09-26
 {"range":"C4–C7","common":"C4–C5","caption":"十孔口琴的音域","caption_en":"Ten-hole harmonica range","note":"口琴属气鸣乐器（自由簧）。十孔口琴的音域约 C4–C7（视形制）；常用区 C4–C5。吹音与吸音交错构成排列，另有多种其他形制（半音阶口琴 · 低音口琴等）。"}
 ```
 
-- **约 C4–C7**（十孔），常用区 C4–C5。
-- **排列是"吹吸交错"的**，所以看谱时要确认该音是吹还是吸。
-- **另有多种形制**：半音阶口琴（有按键，可奏全部半音）、低音口琴、复音口琴等 ——
+- 约 C4–C7（十孔），常用区 C4–C5。
+- 排列是"吹吸交错"的，所以看谱时要确认该音是吹还是吸。
+- 另有多种形制：半音阶口琴（有按键，可奏全部半音）、低音口琴、复音口琴等 ——
   它们各有不同的排列与用途。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **明亮、带簧片的"甜"**，但比[[instrument:accordion|手风琴]]更窄更集中 ——
+1. 明亮、带簧片的"甜"，但比[[instrument:accordion|手风琴]]更窄更集中 ——
    它没有共鸣箱。
-2. **力度由呼吸控制**，所以能做细腻的强弱与音头。
-3. **弯音是它的签名**。那种"下滑"与"哭腔"几乎只属于口琴。
-4. **手（双手罩住口琴）也能改变音色**。手掌的开合会改变共鸣与音量 ——
+2. 力度由呼吸控制，所以能做细腻的强弱与音头。
+3. 弯音是它的签名。那种"下滑"与"哭腔"几乎只属于口琴。
+4. 手（双手罩住口琴）也能改变音色。手掌的开合会改变共鸣与音量 ——
    这是电声时代之前就有的"哇音"效果。
 
 ```audiolab
@@ -230,12 +230,12 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **呼吸是全部基础**。力度、时值、连断、音头都由呼吸控制。
-- **吹与吸要精确交替**（旋律在两组音之间穿梭）。
-- **弯音（bending）**：改变口腔与气流使音高下降 —— 蓝调语言的核心。
-- **超吹（overblow）**：更高级的技术，用来得到排列里更高的音。
-- **手罩（hand cupping）**：双手合拢在口琴外，开合手掌改变音色。
-- **舌堵（tongue blocking）**：用舌头挡住部分孔，得到单音或和弦 —— 与"唇堵"并列的两种基本方法。
+- 呼吸是全部基础。力度、时值、连断、音头都由呼吸控制。
+- 吹与吸要精确交替（旋律在两组音之间穿梭）。
+- 弯音（bending）：改变口腔与气流使音高下降 —— 蓝调语言的核心。
+- 超吹（overblow）：更高级的技术，用来得到排列里更高的音。
+- 手罩（hand cupping）：双手合拢在口琴外，开合手掌改变音色。
+- 舌堵（tongue blocking）：用舌头挡住部分孔，得到单音或和弦 —— 与"唇堵"并列的两种基本方法。
 
 ## 家族与近亲
 
@@ -246,10 +246,10 @@ updated: 2026-09-26
 | [[instrument:accordion\|手风琴]] | 自由簧 | 左臂手动 | 便携 | F3–A6 |
 | **口琴** | 自由簧 | **呼吸** | **口袋** | **C4–C7** |
 
-**同一原理（自由簧）的四种送气方式**：
-**机械 · 脚 · 手臂 · 呼吸** ——
+同一原理（自由簧）的四种送气方式：
+机械 · 脚 · 手臂 · 呼吸 ——
 送气方式越"贴身"，乐器越小、越便携，但音域与音量也越有限。
-**这是一条清晰的工程取舍链。**
+这是一条清晰的工程取舍链。
 
 ## 历史演变
 
@@ -261,30 +261,31 @@ updated: 2026-09-26
 | 20 世纪 | 成为**蓝调 · 民谣 · 乡村 · 摇滚**的常用乐器；也用于古典与当代作品 |
 | 20 世纪后期至今 | 世界范围内的普及乐器；也有半音阶口琴等专业形制与专门的演奏家 |
 
-**它有一条与其他自由簧乐器相同的传播路径**：
-**在欧洲诞生，在美国南部的蓝调里获得灵魂。**
+它有一条与其他自由簧乐器相同的传播路径：
+在欧洲诞生，在美国南部的蓝调里获得灵魂。
 这与[[instrument:harmonium|簧风琴]]"在印度生根"、[[instrument:accordion|手风琴]]"在探戈与卡津音乐里成形"，是同一种现象。
 
 ## 常见误解
 
-- **"口琴是玩具。"** 它有完整的技术体系（弯音 · 超吹 · 舌堵 · 手罩），
+- "口琴是玩具。" 它有完整的技术体系（弯音 · 超吹 · 舌堵 · 手罩），
   在蓝调里有极深的表现传统，也有半音阶口琴等专业形制。
-- **"它就是吹气发声。"** **吹与吸都发声**，一孔两个音 ——
+- "它就是吹气发声。" 吹与吸都发声，一孔两个音 ——
   这是它与所有其他管乐器的根本区别。
-- **"它的音阶是顺序排列的。"** 不是：吹音与吸音**交错**，
+- "它的音阶是顺序排列的。" 不是：吹音与吸音交错，
   连续吹或连续吸得到的是和弦。
-- **"它只能演奏简单的旋律。"** 靠弯音与超吹可以覆盖完整的半音；
+- "它只能演奏简单的旋律。" 靠弯音与超吹可以覆盖完整的半音；
   半音阶口琴进一步解决了这个问题。
-- **"它与手风琴无关。"** 两者同属**自由簧**一族，
+- "它与手风琴无关。" 两者同属自由簧一族，
   差别只在送气方式（呼吸 vs 手臂）。
 
 ## 下一步
 
-**键盘组到这里全部完成**（钢琴 · 大键琴 · 击弦古钢琴 · 管风琴 · 簧风琴 · 手风琴 · 口琴）。
+键盘组到这里全部完成（钢琴 · 大键琴 · 击弦古钢琴 · 管风琴 · 簧风琴 · 手风琴 · 口琴）。
 
-接下来进入**早期乐器**一组：[[instrument:shawm|肖姆管]] · [[instrument:crumhorn|克鲁姆管]] ·
-[[instrument:racket|拉凯特管]] —— 三件都是"**双簧 + 管身变化**"的产物，
+接下来进入早期乐器一组：[[instrument:shawm|肖姆管]] · [[instrument:crumhorn|克鲁姆管]] ·
+[[instrument:racket|拉凯特管]] —— 三件都是"双簧 + 管身变化"的产物，
 正好可以看到同一个原理在不同形制上的三种解法。
+
 :::
 
 ::: en
@@ -301,12 +302,12 @@ So one instrument carries **two sets of notes**: **blow notes** and **draw notes
 | **Family** | Western · Keyboard (free-reed branch) · also a **world instrument** |
 | **Bayin** | Not applicable — a Chinese system; the harmonica is outside it |
 
-> ⚠️ **One conceptual point**: **sounding on both blow and draw is extremely rare among wind instruments.**
-> Flute, recorder, trumpet, saxophone — almost every wind instrument sounds in **one airflow direction only.**
-> The harmonica breaks that rule because its reeds are **two-directional**: **blowing opens one reed, drawing
+> ⚠️ One conceptual point: sounding on both blow and draw is extremely rare among wind instruments.
+> Flute, recorder, trumpet, saxophone — almost every wind instrument sounds in one airflow direction only.
+> The harmonica breaks that rule because its reeds are two-directional: **blowing opens one reed, drawing
 > opens another** — so one hole yields two notes. Two consequences follow:
-> **① the scale is not in order** (blow and draw notes interleave, forming a chord-like layout);
-> **② bends are possible** (see below).
+> ① the scale is not in order (blow and draw notes interleave, forming a chord-like layout);
+> ② bends are possible (see below).
 
 ## Structure: free reeds on a reed plate
 
@@ -367,10 +368,10 @@ So one instrument carries **two sets of notes**: **blow notes** and **draw notes
 
 Three points:
 
-1. **Two reeds per hole**: one opens on blowing, one on drawing.
-2. **Hence two notes per hole**, which directly determines its **layout** (next section).
-3. **Breath is its bow.** Dynamics, duration and articulation all come from breathing — the most "bodily"
-   aspect: **the player's own breath is the power source.**
+1. Two reeds per hole: one opens on blowing, one on drawing.
+2. Hence two notes per hole, which directly determines its layout (next section).
+3. Breath is its bow. Dynamics, duration and articulation all come from breathing — the most "bodily"
+   aspect: the player's own breath is the power source.
 
 ## Blow and draw: why it is not in order
 
@@ -417,8 +418,8 @@ Three points:
 </svg>
 ```
 
-**This diagram explains why the harmonica is "easy to start, hard to master"**: blowing or drawing
-continuously gives chords, so beginners quickly make pleasant sounds; but playing a **full melody** requires
+This diagram explains why the harmonica is "easy to start, hard to master": blowing or drawing
+continuously gives chords, so beginners quickly make pleasant sounds; but playing a full melody requires
 precise alternation of blow and draw — where the difficulty lies.
 
 ## Bending: the harmonica's most distinctive technique
@@ -451,8 +452,8 @@ precise alternation of blow and draw — where the difficulty lies.
 </svg>
 ```
 
-**What bending means**: the layout **lacks semitones**; the player pulls the pitch down with mouth shape and
-air, supplying the missing notes. **A textbook case of technique compensating for structure** — and evidence
+What bending means: the layout lacks semitones; the player pulls the pitch down with mouth shape and
+air, supplying the missing notes. A textbook case of technique compensating for structure — and evidence
 that much of the harmonica's expression lives in the player, not the instrument.
 
 ## Range
@@ -461,20 +462,20 @@ that much of the harmonica's expression lives in the player, not the instrument.
 {"range":"C4–C7","common":"C4–C5","caption":"十孔口琴的音域","caption_en":"Ten-hole harmonica range","note":"口琴属气鸣乐器（自由簧）。十孔口琴的音域约 C4–C7（视形制）；常用区 C4–C5。吹音与吸音交错构成排列，另有多种其他形制（半音阶口琴 · 低音口琴等）。"}
 ```
 
-- **About C4–C7** (ten holes); working register C4–C5.
-- **The layout interleaves blow and draw**, so reading music means checking whether a note is blown or drawn.
-- **Other forms exist**: chromatic harmonica (with a slide for all semitones), bass harmonica, tremolo
+- About C4–C7 (ten holes); working register C4–C5.
+- The layout interleaves blow and draw, so reading music means checking whether a note is blown or drawn.
+- Other forms exist: chromatic harmonica (with a slide for all semitones), bass harmonica, tremolo
   harmonica — each with its own layout and use.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Bright, with a reedy sweetness**, but narrower and more focused than an
+1. Bright, with a reedy sweetness, but narrower and more focused than an
    [[instrument:accordion|accordion]] — it has no soundbox.
-2. **Dynamics come from breathing**, allowing fine shaping and attack.
-3. **The bend is its signature**: that slide and wail belong almost exclusively to the harmonica.
-4. **The hands change the colour too.** Cupping and opening the hands alters resonance and volume — a "wah"
+2. Dynamics come from breathing, allowing fine shaping and attack.
+3. The bend is its signature: that slide and wail belong almost exclusively to the harmonica.
+4. The hands change the colour too. Cupping and opening the hands alters resonance and volume — a "wah"
    effect that predates electronics.
 
 ```audiolab
@@ -483,12 +484,12 @@ Four cues:
 
 ## Playing techniques
 
-- **Breathing is the whole foundation**: dynamics, duration, legato and attack all follow the breath.
-- **Precise alternation of blow and draw** (the melody moves between two note sets).
-- **Bending**: reshaping the mouth and air stream to lower the pitch — the core of blues language.
-- **Overblowing**: a more advanced technique for notes above the basic layout.
-- **Hand cupping**: closing and opening the hands around the instrument to change colour.
-- **Tongue blocking**: using the tongue to block holes for single notes or chords — one of the two basic
+- Breathing is the whole foundation: dynamics, duration, legato and attack all follow the breath.
+- Precise alternation of blow and draw (the melody moves between two note sets).
+- Bending: reshaping the mouth and air stream to lower the pitch — the core of blues language.
+- Overblowing: a more advanced technique for notes above the basic layout.
+- Hand cupping: closing and opening the hands around the instrument to change colour.
+- Tongue blocking: using the tongue to block holes for single notes or chords — one of the two basic
   methods alongside lip pursing.
 
 ## The family
@@ -500,9 +501,9 @@ Four cues:
 | [[instrument:accordion\|Accordion]] | free reeds | left arm | portable | F3–A6 |
 | **Harmonica** | free reeds | **breath** | **pocket-sized** | **C4–C7** |
 
-**One principle (free reed), four ways of supplying air**: **machine · foot · arm · breath** — the more
+One principle (free reed), four ways of supplying air: machine · foot · arm · breath — the more
 "personal" the air supply, the smaller and more portable the instrument, and the narrower its range and volume.
-**A clear engineering trade-off chain.**
+A clear engineering trade-off chain.
 
 ## History
 
@@ -514,29 +515,29 @@ Four cues:
 | 20th c. | a standard instrument in **blues, folk, country and rock**; also used in classical and contemporary works |
 | Late 20th c. onward | a popular instrument worldwide, with professional forms such as the chromatic harmonica and dedicated virtuosos |
 
-**Its path matches the other free-reed instruments**: **born in Europe, given its soul by blues in the American
+Its path matches the other free-reed instruments: **born in Europe, given its soul by blues in the American
 South** — the same phenomenon as the [[instrument:harmonium|harmonium]] taking root in India and the
 [[instrument:accordion|accordion]] maturing in tango and Cajun music.
 
 ## Common misconceptions
 
-- **"A harmonica is a toy."** It has a full technique system (bending, overblowing, tongue blocking, hand
+- "A harmonica is a toy." It has a full technique system (bending, overblowing, tongue blocking, hand
   cupping), a deep blues tradition, and professional forms such as the chromatic harmonica.
-- **"It just sounds by blowing."** **Blowing and drawing both sound**, two notes per hole — the fundamental
+- "It just sounds by blowing." Blowing and drawing both sound, two notes per hole — the fundamental
   difference from every other wind instrument.
-- **"Its scale is laid out in order."** It is not: blow and draw notes **interleave**, so continuous blowing or
+- "Its scale is laid out in order." It is not: blow and draw notes interleave, so continuous blowing or
   drawing gives a chord.
-- **"It can play only simple tunes."** Bending and overblowing cover the full chromatic range; the chromatic
+- "It can play only simple tunes." Bending and overblowing cover the full chromatic range; the chromatic
   harmonica solves it by design.
-- **"It is unrelated to the accordion."** Both are **free-reed** instruments, differing only in how the air is
+- "It is unrelated to the accordion." Both are free-reed instruments, differing only in how the air is
   supplied (breath versus arm).
 
 ## Next
 
-**That completes the keyboard group** (piano · harpsichord · clavichord · organ · harmonium · accordion ·
+That completes the keyboard group (piano · harpsichord · clavichord · organ · harmonium · accordion ·
 harmonica).
 
-Next comes the **early instruments** group: the [[instrument:shawm|shawm]], the
+Next comes the early instruments group: the [[instrument:shawm|shawm]], the
 [[instrument:crumhorn|crumhorn]] and the [[instrument:racket|racket]] — all three are products of
-"**double reed plus a modified body**", showing three solutions of one principle.
+"double reed plus a modified body", showing three solutions of one principle.
 :::

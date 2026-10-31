@@ -36,105 +36,38 @@ updated: 2026-10-21
 ---
 
 ::: zh
+一只框鼓，蒙一张皮，看上去并不稀奇。达夫鼓的不同在框里面：一圈金属小环挂在框的内壁上，不是用来敲的，是用来摇的。
 
-**达夫鼓（daf）看上去是一只寻常的框鼓：圆木框，蒙一张皮。**
-**但它框里还挂着一圈金属小环 —— 而那圈环不是用来敲的，是用来摇的。**
+膜给的是点——低音、开放的一击、指尖的脆响；环给的是面——持续的沙响、织体、重音、段落之间的过渡。一件鼓听起来像几件打击乐同时在响，秘密就在这里。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **膜鸣**（Membranophone · 211.311 单皮无柄框鼓 · 直接击）· 因框内那一圈金属环，**兼属击鸣**（Idiophone）· **无固定音高** |
-| **范围** | 世界乐器（**伊朗 · 阿拉伯 · 中亚 · 南亚**）· 手持框鼓 · 苏菲仪式与民间舞蹈 |
-| **同族** | ⭐⭐ **与潘德罗 pandeiro、铃鼓 tambourine 同属「框鼓 + 一圈金属环」这一族** |
-| **HS 以外的归属** | 打击乐（世界乐器子类 · 伊朗古典与苏菲仪式 · 印度民歌与电影配乐） |
+| HS 分类 | 膜鸣（211.311 单皮无柄框鼓 · 直接击）· 因框内金属环兼属击鸣 · 无固定音高 |
+| 范围 | 伊朗 · 阿拉伯 · 中亚 · 南亚；手持框鼓，苏菲仪式与民间舞蹈 |
+| 同族 | 与潘德罗、铃鼓同属「框鼓 + 一圈金属环」 |
+| 八音 | 不适用 |
 
-## ⭐⭐ 主线：一件乐器，两套发声原理
+## 环在框里，被摇响
 
-> 「the membrane produces bass tones, open strokes, and sharp finger attacks, while the ring chains supply sustained motion, texture, accents, and transitions」
-> —— Encyclopaedia Iranica 论 daf
+近亲的分野就在这一处：边缘装小金属片的鼓，小片是被膜的振动带响的；达夫鼓的环挂在框的内表面，是自己被摇响的。前者是膜的副产品，后者是第二件乐器。
 
-达夫鼓最要紧的一条事实是：**它的声音有两层，而且两层不是一回事。**
+## 泡软的木圈
 
-**第一层是膜** —— 敲出来的：低频的鼓声（bass tones）、开放的一击（open strokes）、指尖的脆响（sharp finger attacks）。
-**第二层是环** —— 摇出来的：持续的律动（sustained motion）、织体（texture）、重音（accents），以及段落之间的过渡（transitions）。
+圆形木框多用胡桃木、榉木、桑木，直径约 45–50 厘米，大号可到 70 厘米，框深 5–7 厘米。框木先泡水软化，再绕着热的金属圆柱弯成，两端胶合——一只鼓的圆，是水与火一起做出来的。框内开三到四个长方形孔，挂金属环，波斯语叫 zang，可以排满一圈，也可以只排半圈。蒙皮用鱼皮或山羊皮，框边系带供握持；帕米尔一带直接在框上开孔，用拇指扣住。
 
-⭐⭐ **Encyclopaedia Iranica 指出，这些环挂在框的内表面上** —— 这正是它与「在边缘装小金属片」的近亲分野所在：那些小片是**被膜的震动带响**的，而达夫鼓的环是**自己被摇响**的。
+尺寸决定名字。daf 是 48–70 厘米的伊朗与库尔德大鼓，用于苏菲仪式与古典音乐；dayereh 25–45 厘米，民间与舞蹈；阿塞拜疆的 gaval 36–39 厘米；乌兹别克的 doira 40–51 厘米，环可多到上百枚；印度的 dafli 更小。维吾尔语叫 dap，名字不同，东西几乎一样。
 
-| | ⭐ **膜（蒙在框上的一面皮）** | ⭐ **环（挂在框内表面的金属小环）** |
-|---|---|---|
-| **怎么响** | 右手敲击 | 左手摇动鼓身 |
-| **出的是什么** | 低音 · 开放音 · 指尖的脆响 | 持续的沙响 · 织体 · 重音 · 过渡 |
-| **时间上的角色** | **点** —— 一次一击 | **面** —— 把点与点之间填满 |
-| **分类上** | 膜鸣（211.311） | 击鸣（Idiophone） |
+## 右手四个击法，左手三个动作
 
-⭐⭐ **一件鼓听起来像好几件打击乐在同时演奏，秘密就在这里：它有一个不需要被敲就能发声的部分。**
+左手竖持：拇指勾在框内，其余手指托住鼓面背面。右手用指尖、手掌、掌根敲，有名的击法有 tom、bak、tek、trel，几种组合起来就是节奏型 usul。
 
-⭐⭐ **可带走的规律**：把「不靠敲击也能发声」的零件挂进乐器里，这件乐器就多出一层时间维度 —— ⭐⭐ **环的余响比鼓点长，所以它能把节奏之间的空隙填满。**
+左手管的是另一件事。转开，环离开鼓面，只剩鼓点；闷住，环被压住，颗粒收掉，成一段弱奏；猛摇，环在框壁上乱撞，出来一片连续的沙响——他们叫它雨声。
 
-## ⭐⭐ 形制：泡软的木圈，蒙一张鱼皮或羊皮
+## 一项写进教法的许可
 
-⭐ **框**：圆形木框（胡桃木、榉木、桑木等），**直径约 45–50 厘米（大号 daf 可到 48–70 厘米）· 框深 5–7 厘米**。⭐⭐ **框木先泡水软化，再绕着热金属圆柱弯成，两端胶合** —— 整只鼓的圆，是水与火一起做出来的。
+框鼓是世界上有记载的最古老乐器之一，美索不达米亚公元前三千年的图像里已经有它。7 到 9 世纪的波斯与阿拉伯文献把它记为宫廷与苏菲仪式的乐器，15 世纪它只用于苏菲仪式。在保守的逊尼派社群，daf 是唯一获准使用的乐器——女性在庆典时可用，男性在战斗时可用。
 
-⭐ **蒙皮**：**鱼皮或山羊皮**。
-
-⭐⭐ **框内三到四个长方形开孔**，孔上挂**金属片或金属环**（jingles，波斯语 **zang**）—— 排列有两种：⭐⭐ **沿框内一圈环绕排列，或只排半圈**。
-
-⭐ **握持**：框边常系一条皮带或布带供演奏者握持；⭐ **帕米尔地区有些直接在框上开孔，用拇指扣住**。
-
-## ⭐⭐ 左手三动作、右手四击法 —— 雨声是这样来的
-
-⭐⭐ **左手竖持整只鼓：拇指勾在框内，其余手指托着鼓面背面。**
-
-⭐ **右手**用**指尖、手掌与掌根**敲击，⭐⭐ 有名的击法有四种：**tom、bak、tek、trel**，⭐⭐ **若干击法组合成节奏型 usul**。
-
-⭐⭐ **左手管的是另一件事 —— 它能让鼓「摇」出声音来。**
-
-| ⭐ **左手的动作** | **环的状态** | **听到的** |
-|---|---|---|
-| **转开** | 环离开鼓面 | 金属环静下来，只剩鼓点 |
-| **闷住** | 环被压住贴住鼓面 | 一段弱奏，颗粒感收掉 |
-| **猛摇** | 环在框内壁上乱撞 | ⭐⭐ **一片连续的沙响 —— 「雨声」** |
-
-## ⭐⭐ 五个名字，五种尺寸
-
-| 名称 | 直径 | 地区 | 场合与特点 |
-|---|---|---|---|
-| **daf** | 48–70 厘米 | 伊朗 · 库尔德 | 苏菲仪式与古典音乐，本页主角 |
-| **dayereh**（dariyeh · deyreh · darah · das-dayereh） | 25–45 厘米 | 伊朗 | 民间与舞蹈 |
-| **gaval**（ghaval） | 36–39 厘米 | 阿塞拜疆 | 喉唱与 ashiq 传统 |
-| **doira** | 40–51 厘米 | 乌兹别克 · 塔吉克 | 舞蹈与独奏，**环多达 20–100 余枚** |
-| **dafli** | 较小 | 印度 | 民间 |
-
-⭐ **维吾尔族称它「手鼓 / dap」（维吾尔语 dap）** —— 名字不同，东西几乎一样。
-
-## ⭐⭐ 教法里的唯一许可，苏菲圆舞里的节拍
-
-⭐⭐ **在保守的逊尼派社群中，daf 是唯一获准使用的乐器** —— **女性在庆典时可用，男性在战斗时可用**。⭐⭐ **一件乐器的合法性被写进了教法**，这在全站是罕见的。
-
-⭐ **历史**：框鼓是世界上最古老的有记载乐器之一，⭐⭐ **美索不达米亚公元前三千年的图像里已有**；⭐ **7–9 世纪的波斯与阿拉伯文献已把它记为宫廷与苏菲仪式乐器**；⭐⭐ 「**in the 15th century, the daf was only used in Sufi ceremonies**」；⭐ **17 世纪奥斯曼重新把它带到欧洲**；⭐ **阿拉伯人把 daf 带到西班牙，中世纪欧洲的西班牙人改编并推广了它**。
-
-⭐⭐ **苏菲旋转派（قادري Qaderi 与 Naqshbandi 纳格什班迪）的 zikr 念诵与 sema 圆舞中，鼓的节奏型支撑着仪式结构。**
-
-⭐ **物证**：伊朗国家博物馆藏的**洛雷斯坦青铜杯**上刻着**双奈伊笛（chang 竖琴）与 daf** 的行列。
-
-## ⭐⭐ 从波斯到印度：一条被改写的传播路线
-
-⭐ **印度**：随波斯影响在 medieval 时代传入，⭐⭐ **成为民间乐器**；⭐⭐ **20 世纪上半叶南印度用它在抗议运动中担任主奏**（dafli packs a big protest punch）；⭐ **1950 年代起在宝莱坞大量使用**。
-
-⭐ **伊朗现代**：⭐⭐ **1980 年代起进入伊朗古典音乐的独奏与合奏** —— **Bijan Kamkar、Behnam Samani、Khaledi 家族** 把它带进国际巡演。
-
-⭐ **大都会博物馆**藏 19 世纪末的**阿塞拜疆 daf**（Crosby Brown 收藏，1889 年赠；木 · 皮 · 金属 · 骨 · 皮革）。
-
-## ⭐⭐ 谱系与去向
-
-| 节点 | 内容 |
-|---|---|
-| 公元前 3000 年 | 美索不达米亚的图像里已有框鼓 |
-| 7–9 世纪 | 波斯与阿拉伯文献记为宫廷与苏菲仪式乐器 |
-| 15 世纪 | 只用于苏菲仪式 |
-| 17 世纪 | 奥斯曼把它重新带到欧洲；此前阿拉伯人已带它到西班牙 |
-| 20 世纪上半叶 | 印度：民间乐器，抗议运动中的主奏 |
-| 1950 年代起 | 宝莱坞大量使用 |
-| 1980 年代起 | 伊朗古典音乐的独奏与合奏，走向国际巡演 |
+它随 zikr 念诵与 sema 圆舞支撑仪式结构，也随商路走远：阿拉伯人把它带到西班牙，17 世纪奥斯曼把它带回欧洲。往东，它进入印度，先成民间乐器，20 世纪上半叶在南印度的抗议运动里当主奏，1950 年代起大量进了宝莱坞。1980 年代，Bijan Kamkar 与 Khaledi 家族把它带进伊朗古典音乐的独奏与合奏。伊朗国家博物馆的洛雷斯坦青铜杯上，刻着它与竖琴的行列。
 
 ```svg
 <svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="达夫鼓俯视图：圆形木框、绷紧的鼓面、框内表面一圈金属小环，以及右手击打与左手持握">
@@ -206,104 +139,38 @@ updated: 2026-10-21
 
 ::: en
 
-**The daf looks like an ordinary frame drum: a round wooden hoop, a skin stretched across it.**
-**But there is a ring of metal jingles inside that hoop — and that ring is never struck. It is shaken.**
+A frame drum with a skin looks ordinary until you look inside the hoop: a ring of jingles hangs on the inner wall, and it is never struck.
+
+The membrane gives points — bass, open strokes, finger attacks. The rings give surface — rustle, texture, accents, transitions. That is why one drum sounds like several.
 
 | Item | Classification |
 |---|---|
-| **HS class** | **Membranophone** (211.311 · single-skin frame drum without handle · struck directly) · because of the ring of jingles inside the frame, **also an idiophone** · **no definite pitch** |
-| **Scope** | World instrument (**Iran · the Arab world · Central Asia · South Asia**) · hand-held frame drum · Sufi ritual and folk dance |
-| **Kin** | ⭐⭐ **the daf, the pandeiro and the tambourine share one family: a frame drum with a ring of metal inside it** |
-| **Outside HS** | Percussion (the world-instrument section · Persian classical and Sufi ritual · Indian folk song and film scoring) |
+| HS class | Membranophone (211.311); also an idiophone; no definite pitch |
+| Scope | Iran · the Arab world · Central Asia · South Asia; Sufi ritual and dance |
+| Kin | pandeiro, tambourine |
+| Bayin | not applicable |
 
-## ⭐⭐ The main line: one drum, two principles of sound production
+## The rings hang inside, and are shaken
 
-> 「the membrane produces bass tones, open strokes, and sharp finger attacks, while the ring chains supply sustained motion, texture, accents, and transitions」
-> —— Encyclopaedia Iranica on the daf
+On a tambourine the jingles are set ringing by the skin; the daf's rings hang inside and are shaken in their own right — a second instrument, not a by-product.
 
-The single most important fact about the daf is this: **its sound has two layers, and the two are not the same kind of sound.**
+## A hoop softened in water
 
-**The first layer is the membrane** — struck: bass tones, open strokes, sharp finger attacks.
-**The second layer is the rings** — shaken: sustained motion, texture, accents, and the transitions between phrases.
+Walnut, beech and mulberry are common; the hoop is 45–50 cm across (large dafs reach 70) and 5–7 cm deep. The wood is soaked, bent around a hot metal cylinder and glued end to end — water and fire make the circle. Three or four slots in the inner wall carry the rings (zang), all the way round or halfway; the head is fish or goatskin.
 
-⭐⭐ **Encyclopaedia Iranica notes that the rings hang on the inner surface of the frame** — which is exactly what separates the daf from its near relatives with small metal plates on the rim: those plates are **set ringing by the membrane's vibration**, while the daf's rings are **shaken into sound in their own right**.
+Size decides the name: the daf proper is 48–70 cm, the dayereh 25–45, the Azerbaijani gaval 36–39, the Uzbek doira 40–51 with up to a hundred rings. Uyghurs call it dap.
 
-| | ⭐ **Membrane (the skin across the hoop)** | ⭐ **Rings (metal jingles on the inner wall)** |
-|---|---|---|
-| **How it sounds** | struck by the right hand | shaken by the left hand |
-| **What it gives** | bass tones · open strokes · sharp finger attacks | a continuous rustle · texture · accents · transitions |
-| **Its role in time** | **points** — one attack each | **surfaces** — filling the gaps between the points |
-| **In classification** | membranophone (211.311) | idiophone |
+## Four strokes of the right hand, three moves of the left
 
-⭐⭐ **The secret of why one drum sounds like several percussion instruments playing at once is here: part of it makes sound without ever being struck.**
+The left hand holds the drum upright, thumb in the hoop, fingers behind the head. The right hand strikes with fingertips, palm and heel: tom, bak, tek, trel, combined into cycles called usul.
 
-⭐⭐ **The rule to take away**: bolt onto an instrument a part that can sound without being hit, and that instrument gains a second dimension in time — ⭐⭐ **the rings ring on longer than the strokes, so they fill the gaps between the beats.**
+Turned away, the rings fall silent and only the strokes remain; muffled, the sound thins; shaken hard, they rattle against the frame in one continuous rustle — rain.
 
-## ⭐⭐ Form: a hoop softened in water, a skin of fish or goat
+## One instrument the law allows
 
-⭐ **The hoop**: a round wooden frame (walnut, beech, mulberry and the like), **about 45–50 cm across (a large daf reaches 48–70 cm) and 5–7 cm deep**. ⭐⭐ **The wood is soaked until it is pliable, then bent around a hot metal cylinder and glued end to end** — the circle of this drum is made by water and fire together.
+The frame drum appears in Mesopotamian images from three thousand years before Christ. Persian and Arabic sources of the 7th to 9th centuries list it at court and in Sufi ritual; by the 15th century it was used only in Sufi ceremonies. In conservative Sunni communities it is the one instrument permitted — for women at celebrations, men in battle.
 
-⭐ **The head**: **fish skin or goatskin**.
-
-⭐⭐ **Three or four rectangular slots in the inner wall** of the hoop carry **metal plates or metal rings** (jingles, Persian **zang**) — and there are two ways to hang them: ⭐⭐ **all the way round the inner wall, or only half of it**.
-
-⭐ **The grip**: a strap or cloth band is usually tied to the rim for the player to hold; ⭐ **in parts of the Pamir the hoop itself is pierced and held by the thumb**.
-
-## ⭐⭐ Three moves of the left hand, four strokes of the right — where the rain comes from
-
-⭐⭐ **The left hand holds the drum upright: the thumb hooked into the hoop, the other fingers behind the head.**
-
-⭐ **The right hand** strikes with **fingertips, palm and heel of the hand**, and ⭐⭐ the strokes have names: **tom, bak, tek and trel**; ⭐⭐ **several strokes combine into a rhythmic cycle (usul)**.
-
-⭐⭐ **The left hand is doing something else entirely — it can make the drum sound by shaking it.**
-
-| ⭐ **The left hand** | **The rings** | **What you hear** |
-|---|---|---|
-| **turned away** | lifted clear of the head | the metal goes quiet, only the strokes remain |
-| **muffled** | pressed flat against the head | a soft passage, the grain of the jingles gone |
-| **shaken hard** | rattling inside the frame wall | ⭐⭐ **a continuous rustle — 「rain」** |
-
-## ⭐⭐ Five names, five sizes
-
-| Name | Diameter | Where | Occasion and character |
-|---|---|---|---|
-| **daf** | 48–70 cm | Iran · Kurdistan | Sufi ritual and classical music, the subject of this page |
-| **dayereh** (dariyeh · deyreh · darah · das-dayereh) | 25–45 cm | Iran | folk and dance |
-| **gaval** (ghaval) | 36–39 cm | Azerbaijan | throat singing and the ashiq tradition |
-| **doira** | 40–51 cm | Uzbekistan · Tajikistan | dance and solo playing, **with 20 to more than 100 rings** |
-| **dafli** | smaller | India | folk |
-
-⭐ **The Uyghurs call it 「hand drum / dap」** (Uyghur **dap**) — different name, very nearly the same instrument.
-
-## ⭐⭐ The one instrument the law allows, the beat that carries the rite
-
-⭐⭐ **In conservative Sunni communities the daf is the only instrument permitted** — **available to women at celebrations and to men in battle**. ⭐⭐ **A single instrument's legality written into religious law is rare.**
-
-⭐ **History**: the frame drum is among the oldest recorded instruments in the world, ⭐⭐ **and appears in Mesopotamian images from three thousand years before Christ**; ⭐ **7th- to 9th-century Persian and Arabic literature already lists it as a court and Sufi ceremonial instrument**; ⭐⭐ 「**in the 15th century, the daf was only used in Sufi ceremonies**」; ⭐ **the Ottomans brought it back to Europe in the 17th century**; ⭐ **the Arabs carried the daf to Spain, where medieval Spaniards adapted it and spread it further**.
-
-⭐⭐ **In the zikr chanting and sema whirling of the Sufi orders — Qaderi and Naqshbandi — the drum's rhythmic cycles carry the structure of the ceremony.**
-
-⭐ **The object evidence**: a **Luristan bronze cup** in the Iran National Museum is engraved with a **double pipe (the chang harp) and a daf**.
-
-## ⭐⭐ From Persia to India: a route that got rewritten
-
-⭐ **India**: it arrived with Persian influence in the medieval period, ⭐⭐ **and became a folk instrument**; ⭐⭐ **in the first half of the 20th century South India used it to lead protest movements** (dafli packs a big protest punch); ⭐ **from the 1950s it is used heavily in Bollywood**.
-
-⭐ **Iran today**: ⭐⭐ **from the 1980s it entered Persian classical solo and ensemble music** — **Bijan Kamkar, Behnam Samani and the Khaledi family** took it onto international tours.
-
-⭐ **The Metropolitan Museum** holds a **late-19th-century Azerbaijani daf** (the Crosby Brown collection, gifted in 1889; wood · skin · metal · bone · leather).
-
-## ⭐⭐ Lineage and destinations
-
-| Node | Content |
-|---|---|
-| 3000 BCE | frame drums already appear in Mesopotamian images |
-| 7th–9th century | Persian and Arabic literature list it as a court and Sufi ceremonial instrument |
-| 15th century | used only in Sufi ceremonies |
-| 17th century | the Ottomans carry it back to Europe; the Arabs had already brought it to Spain |
-| first half of the 20th century | India: a folk instrument, the lead drum of protest movements |
-| from the 1950s | heavy use in Bollywood |
-| from the 1980s | Persian classical solo and ensemble, onto international tours |
+It carries zikr chanting and sema whirling, and it travelled: the Arabs took it to Spain, the Ottomans back to Europe. Eastward it entered India, became a folk instrument, led southern protest movements, and reached Bollywood in the 1950s. In the 1980s Bijan Kamkar and the Khaledi family brought it into Persian classical music.
 
 ```svg
 <svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Top view of a daf: a round wooden hoop, a stretched head, a ring of metal jingles on the inner wall, the right hand striking and the left hand gripping">
@@ -370,5 +237,4 @@ The single most important fact about the daf is this: **its sound has two layers
 ```audiolab
 {"type":"instrument","drum":54,"synth":"perc","phrase":[47,54,54,47,54,47],"label":"一件鼓，两种响 —— 皮被敲、环被摇","label_en":"One drum, two sounds — the skin is struck, the rings are shaken","hint":"达夫鼓的听辨点是它有两层：鼓皮被敲出来的是闷与脆，框内那圈金属环摇出来的是一片沙响。试听件里 47 号键（Low-Mid Tom）借来近似鼓面，54 号键（铃鼓）借来近似框内的金属环。借近似音色：真实达夫鼓的框内金属环会产生持续的金属沙响 —— 摇得再猛，这里也只是几粒清脆的碎响，真鼓的雨声是连成一片的。","hint_en":"What to listen for in the daf: it has two layers — a muffled or crisp stroke from the skin, and a rustle from the ring of metal inside the frame. Key 47 (Low-Mid Tom) stands in for the head and key 54 (tambourine) for the jingles. A borrowed approximation: the metal rings inside a real daf's frame produce a continuous metallic rustle — shaken as hard as you like, this sample gives a few crisp shakes, while a real daf's rain is one unbroken rush."}
 ```
-
 :::

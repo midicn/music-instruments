@@ -50,11 +50,11 @@ updated: 2026-09-26
 > ⚠️ **一个概念上的要点**：**"能不能在按键之后继续改变声音"，是一种很少有人讨论的乐器属性。**
 > - [[instrument:piano|钢琴]]：击弦的槌**立刻离开** → 按键后无法再改变这个音。
 > - [[instrument:harpsichord|大键琴]]：拨子**立刻离开** → 同样无法。
-> - **击弦古钢琴**：铜片**一直抵住弦** → 按键后继续加压，**可以让音高微动** → 得到颤音。
+> - 击弦古钢琴：铜片一直抵住弦 → 按键后继续加压，可以让音高微动 → 得到颤音。
 >
-> 这个效果叫 **Bebung**（德语"颤动"），是键盘乐器里极罕见的"**后触**"（after-touch）。
-> 它说明：**"发声之后还有没有控制权"，是一件乐器的结构性差异** ——
-> 而这与"能不能控制力度"是**两个不同的问题**。
+> 这个效果叫 Bebung（德语"颤动"），是键盘乐器里极罕见的"后触"（after-touch）。
+> 它说明："发声之后还有没有控制权"，是一件乐器的结构性差异 ——
+> 而这与"能不能控制力度"是两个不同的问题。
 
 ## 结构：铜片从下方击弦并持续抵住
 
@@ -99,12 +99,12 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **铜片（tangent）是"支点"兼"击弦器"**。它击弦后不离开，而是一直抵住 ——
-   于是弦的**有效长度**由铜片位置决定，音高也因此由铜片位置设定。
-2. **所以按键后的压力能改变音高** → 得到 Bebung（颤音）。
+1. 铜片（tangent）是"支点"兼"击弦器"。它击弦后不离开，而是一直抵住 ——
+   于是弦的有效长度由铜片位置决定，音高也因此由铜片位置设定。
+2. 所以按键后的压力能改变音高 → 得到 Bebung（颤音）。
    这是钢琴与[[instrument:harpsichord|大键琴]]都做不到的。
-3. **力量小、音量极小**。铜片能给出的能量有限，声音几乎传不出房间 ——
-   它是一件**只能给自己听**的乐器。
+3. 力量小、音量极小。铜片能给出的能量有限，声音几乎传不出房间 ——
+   它是一件只能给自己听的乐器。
 
 ## Bebung：键盘乐器里罕见的"后触"
 
@@ -143,20 +143,20 @@ updated: 2026-09-26
 {"range":"C2–C6","common":"C2–C5","caption":"击弦古钢琴的音域","caption_en":"Clavichord range","note":"击弦古钢琴属弦鸣乐器（键盘击弦）。常见音域约 C2–C6（不同形制差别较大）；常用区 C2–C5。它是三种早期键盘里音域较窄、音量最小的一件。"}
 ```
 
-- **约 C2–C6**（视形制），比[[instrument:harpsichord|大键琴]]窄，比[[instrument:piano|钢琴]]窄得多。
-- **常用区 C2–C5**：它的音乐几乎全在这里，因为高音区更细弱。
-- **音域窄不是问题**：它的曲目主要是**教学与私人演奏**用的 ——
+- 约 C2–C6（视形制），比[[instrument:harpsichord|大键琴]]窄，比[[instrument:piano|钢琴]]窄得多。
+- 常用区 C2–C5：它的音乐几乎全在这里，因为高音区更细弱。
+- 音域窄不是问题：它的曲目主要是教学与私人演奏用的 ——
   巴赫的儿子们（C. P. E. 巴赫、W. F. 巴赫）为它写了大量作品。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **极轻、极近、极私密**。它的音量小到人声可以盖过它 ——
+1. 极轻、极近、极私密。它的音量小到人声可以盖过它 ——
    所以它从来不是音乐厅乐器。
-2. **音色柔软、有"金属的细"**。铜片击弦的音头比钢琴柔，比大键琴"软"。
-3. **余音极短**。铜片持续抵住弦，振动被阻尼 → 声音一击即收。
-4. **能做 Bebung**。这是它唯一一个别的键盘乐器做不到的效果。
+2. 音色柔软、有"金属的细"。铜片击弦的音头比钢琴柔，比大键琴"软"。
+3. 余音极短。铜片持续抵住弦，振动被阻尼 → 声音一击即收。
+4. 能做 Bebung。这是它唯一一个别的键盘乐器做不到的效果。
 
 ```audiolab
 {"type":"instrument","gm":"Harpsichord","synth":"struck","phrase":["C3","E3","G3","B3","D4"],"label":"击弦古钢琴的常用区：C3 到 D4","label_en":"The clavichord's working register — C3 up to D4","hint":"注意音量极小而柔和、余音极短 —— 它是一件给自己听的乐器","hint_en":"Hear how quiet, soft and short-lived it is — an instrument for the player alone."}
@@ -164,11 +164,11 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **触键直接控制力度**（这一点与[[instrument:piano|钢琴]]同侧，与[[instrument:harpsichord|大键琴]]相反）。
-- **Bebung（后触颤音）**：按键后继续加压使音高微动。
-- **音量限制决定了它的使用场合**：私人演奏、教学、小型室内乐 —— 不需要"传出去"。
-- **它的触键技术极细**。因为音量太小，任何不均匀都会被听出来 ——
-  所以它被认为是**训练手指控制力**的好乐器。
+- 触键直接控制力度（这一点与[[instrument:piano|钢琴]]同侧，与[[instrument:harpsichord|大键琴]]相反）。
+- Bebung（后触颤音）：按键后继续加压使音高微动。
+- 音量限制决定了它的使用场合：私人演奏、教学、小型室内乐 —— 不需要"传出去"。
+- 它的触键技术极细。因为音量太小，任何不均匀都会被听出来 ——
+  所以它被认为是训练手指控制力的好乐器。
 
 ## 家族与近亲
 
@@ -179,8 +179,8 @@ updated: 2026-09-26
 | **击弦古钢琴** | 击弦（铜片） | **可** | **可（Bebung）** | **极小** | C2–C6 |
 | [[instrument:organ\|管风琴]] | 气流 | 不可 | 不可（但可持续） | 极大 | C2–C7 |
 
-**四种键盘乐器，"可控性"的组合各不相同**：
-钢琴与击弦古钢琴可控力度；击弦古钢琴还能做后触；管风琴的音**可以一直持续**；
+四种键盘乐器，"可控性"的组合各不相同：
+钢琴与击弦古钢琴可控力度；击弦古钢琴还能做后触；管风琴的音可以一直持续；
 大键琴则两头都不可控，但余音短、音型清楚。
 
 ## 历史演变
@@ -194,28 +194,29 @@ updated: 2026-09-26
 | 19 世纪 | 退为小众与复古乐器 |
 | 20 世纪 | 古乐运动复兴；今天仍有制作者与演奏者 |
 
-**它与大键琴的退场原因不同**：
-大键琴输在"**不能控制力度**"，击弦古钢琴的力度控制其实很好 ——
-它输在"**音量太小**"。**同一场乐器更替，有两套不同的解释。**
+它与大键琴的退场原因不同：
+大键琴输在"不能控制力度"，击弦古钢琴的力度控制其实很好 ——
+它输在"音量太小"。同一场乐器更替，有两套不同的解释。
 
 ## 常见误解
 
-- **"击弦古钢琴就是"小钢琴"。"** 结构不同（铜片 vs 毡槌），
-  而且它有一项钢琴没有的能力：**后触颤音**。
-- **"它的音量小是因为弦少。"** 音量小是**铜片能给出的能量有限**决定的；
+- "击弦古钢琴就是"小钢琴"。" 结构不同（铜片 vs 毡槌），
+  而且它有一项钢琴没有的能力：后触颤音。
+- "它的音量小是因为弦少。" 音量小是铜片能给出的能量有限决定的；
   弦的数量与钢琴类似（同音多弦）。
-- **"它没有表现力。"** 它的力度层次很细，还能做 Bebung ——
-  它的限制是**音量**，不是**表现力**。
-- **"它和大键琴一样不能控制力度。"** 相反，它**能**控制力度；
+- "它没有表现力。" 它的力度层次很细，还能做 Bebung ——
+  它的限制是音量，不是表现力。
+- "它和大键琴一样不能控制力度。" 相反，它能控制力度；
   不能控制力度的是大键琴。
-- **"它只能在博物馆里听。"** 20 世纪以来有仿古乐器与现代制作，
+- "它只能在博物馆里听。" 20 世纪以来有仿古乐器与现代制作，
   当代也有人在演奏与录音。
 
 ## 下一步
 
 键盘组还剩 4 条：[[instrument:organ|管风琴]] · [[instrument:harmonium|簧风琴]] ·
 [[instrument:accordion|手风琴]] · [[instrument:harmonica|口琴]]。
-后三件同属"**自由簧**"一类 —— 它们会与管风琴形成"**同是气鸣，但发声体不同**"的对照。
+后三件同属"自由簧"一类 —— 它们会与管风琴形成"同是气鸣，但发声体不同"的对照。
+
 :::
 
 ::: en
@@ -237,11 +238,11 @@ Among the three early keyboards it occupies a peculiar position: **it removes th
 > property rarely discussed.**
 > - [[instrument:piano|Piano]]: the hammer **leaves at once** → nothing can change afterwards.
 > - [[instrument:harpsichord|Harpsichord]]: the plectrum **releases at once** → likewise.
-> - **Clavichord**: the tangent **stays pressed** → extra pressure after the key is down **moves the pitch** →
+> - Clavichord: the tangent stays pressed → extra pressure after the key is down moves the pitch →
 >   vibrato.
 >
-> The effect is called **Bebung** (German, "trembling") and is a rare **after-touch** in keyboard playing. It
-> shows that **"is there control after the sound has started" is a structural difference** — and a **different
+> The effect is called Bebung (German, "trembling") and is a rare after-touch in keyboard playing. It
+> shows that "is there control after the sound has started" is a structural difference — and a **different
 > question** from "can it control dynamics".
 
 ## Structure: a tangent strikes from below and stays
@@ -287,12 +288,12 @@ Among the three early keyboards it occupies a peculiar position: **it removes th
 
 Three points:
 
-1. **The tangent is both striker and stop.** It stays in contact, so the string's **speaking length** — and
+1. The tangent is both striker and stop. It stays in contact, so the string's speaking length — and
    hence the pitch — is set by the tangent's position.
-2. **Pressure after the strike therefore changes pitch** → Bebung. Neither a piano nor a
+2. Pressure after the strike therefore changes pitch → Bebung. Neither a piano nor a
    [[instrument:harpsichord|harpsichord]] can do this.
-3. **Little energy, tiny volume.** A tangent cannot deliver much, so the sound barely leaves the room — an
-   instrument **you play for yourself**.
+3. Little energy, tiny volume. A tangent cannot deliver much, so the sound barely leaves the room — an
+   instrument you play for yourself.
 
 ## Bebung: a rare "after-touch"
 
@@ -331,22 +332,22 @@ Three points:
 {"range":"C2–C6","common":"C2–C5","caption":"击弦古钢琴的音域","caption_en":"Clavichord range","note":"击弦古钢琴属弦鸣乐器（键盘击弦）。常见音域约 C2–C6（不同形制差别较大）；常用区 C2–C5。它是三种早期键盘里音域较窄、音量最小的一件。"}
 ```
 
-- **About C2–C6** depending on the instrument — narrower than a [[instrument:harpsichord|harpsichord]] and far
+- About C2–C6 depending on the instrument — narrower than a [[instrument:harpsichord|harpsichord]] and far
   narrower than a [[instrument:piano|piano]].
-- **The working register is C2–C5**; almost all its music sits there, since the top is thinner still.
-- **A narrow range is not a problem**: its repertoire is mainly for **teaching and private playing** — Bach's
+- The working register is C2–C5; almost all its music sits there, since the top is thinner still.
+- A narrow range is not a problem: its repertoire is mainly for teaching and private playing — Bach's
   sons (C. P. E. and W. F. Bach) wrote extensively for it.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Very soft, very close, very private.** It is quiet enough that a voice can cover it — never a concert-hall
+1. Very soft, very close, very private. It is quiet enough that a voice can cover it — never a concert-hall
    instrument.
-2. **A soft tone with a fine metallic edge**: the tangent's attack is gentler than a piano's and less brittle
+2. A soft tone with a fine metallic edge: the tangent's attack is gentler than a piano's and less brittle
    than a harpsichord's.
-3. **A very short tail**: the tangent keeps damping the string, so the note stops almost at once.
-4. **Bebung**, the one effect no other keyboard here can produce.
+3. A very short tail: the tangent keeps damping the string, so the note stops almost at once.
+4. Bebung, the one effect no other keyboard here can produce.
 
 ```audiolab
 {"type":"instrument","gm":"Harpsichord","synth":"struck","phrase":["C3","E3","G3","B3","D4"],"label":"击弦古钢琴的常用区：C3 到 D4","label_en":"The clavichord's working register — C3 up to D4","hint":"注意音量极小而柔和、余音极短 —— 它是一件给自己听的乐器","hint_en":"Hear how quiet, soft and short-lived it is — an instrument for the player alone."}
@@ -354,12 +355,12 @@ Four cues:
 
 ## Playing techniques
 
-- **Touch directly controls dynamics** — the same side as the [[instrument:piano|piano]], the opposite of the
+- Touch directly controls dynamics — the same side as the [[instrument:piano|piano]], the opposite of the
   [[instrument:harpsichord|harpsichord]].
-- **Bebung**: continued pressure after the key is down moves the pitch.
-- **Volume limits its setting**: private playing, teaching, small chamber music — nothing that must carry.
-- **Its touch technique is extremely fine.** Precisely because it is so quiet, any unevenness is audible —
-  which is why it is regarded as a good instrument for **training finger control**.
+- Bebung: continued pressure after the key is down moves the pitch.
+- Volume limits its setting: private playing, teaching, small chamber music — nothing that must carry.
+- Its touch technique is extremely fine. Precisely because it is so quiet, any unevenness is audible —
+  which is why it is regarded as a good instrument for training finger control.
 
 ## The family
 
@@ -370,8 +371,8 @@ Four cues:
 | **Clavichord** | struck (tangent) | **yes** | **yes (Bebung)** | **tiny** | C2–C6 |
 | [[instrument:organ\|Organ]] | air | no | no (but sustains) | huge | C2–C7 |
 
-**Four keyboards, four different combinations of controllability**: the piano and the clavichord control
-dynamics; the clavichord also has after-touch; the organ's sound **can be sustained indefinitely**; the
+Four keyboards, four different combinations of controllability: the piano and the clavichord control
+dynamics; the clavichord also has after-touch; the organ's sound can be sustained indefinitely; the
 harpsichord controls neither, but its short tail keeps figuration clear.
 
 ## History
@@ -385,25 +386,25 @@ harpsichord controls neither, but its short tail keeps figuration clear.
 | 19th c. | retreats to a niche and to revival interest |
 | 20th c. | revived by the early-music movement; makers and players remain active today |
 
-**Its departure has a different cause from the harpsichord's**: the harpsichord lost because it **could not
-control dynamics**; the clavichord controls them well and lost because it is **too quiet**. **One round of
+Its departure has a different cause from the harpsichord's: the harpsichord lost because it **could not
+control dynamics; the clavichord controls them well and lost because it is too quiet. One round of
 instrument replacement, two different explanations.**
 
 ## Common misconceptions
 
-- **"A clavichord is a small piano."** The mechanism differs (tangent versus felt hammer), and it has an ability
-  the piano lacks: **after-touch vibrato**.
-- **"It is quiet because it has few strings."** The quietness follows from **how little energy a tangent can
+- "A clavichord is a small piano." The mechanism differs (tangent versus felt hammer), and it has an ability
+  the piano lacks: after-touch vibrato.
+- "It is quiet because it has few strings." The quietness follows from **how little energy a tangent can
   deliver**; the string count is similar to a piano's.
-- **"It has no expression."** Its dynamic layering is fine and it adds Bebung — its limitation is **volume**, not
-  **expression**.
-- **"Like a harpsichord, it cannot control dynamics."** The opposite: it **can**; the harpsichord cannot.
-- **"You can only hear it in museums."** Since the 20th century there are copies and modern instruments, and
+- "It has no expression." Its dynamic layering is fine and it adds Bebung — its limitation is volume, not
+  expression.
+- "Like a harpsichord, it cannot control dynamics." The opposite: it can; the harpsichord cannot.
+- "You can only hear it in museums." Since the 20th century there are copies and modern instruments, and
   performers record on it today.
 
 ## Next
 
 Four keyboard entries remain: the [[instrument:organ|organ]], the [[instrument:harmonium|harmonium]], the
 [[instrument:accordion|accordion]] and the [[instrument:harmonica|harmonica]]. The last three belong to the
-**free-reed** family — and they form a contrast with the organ as **aerophones whose vibrating body differs**.
+free-reed family — and they form a contrast with the organ as aerophones whose vibrating body differs.
 :::

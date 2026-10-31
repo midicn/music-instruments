@@ -47,9 +47,9 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 铜管（大号族 · 中低音支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，上低音号不在其中 |
 
-> ⚠️ **一个概念上的要点**：**同一件乐器可以有两套记谱惯例，取决于它在什么编制里。**
-> 英式铜管乐队按**降 B 调移调**记谱；美式管乐团与独奏曲多用 **C 调实音**记谱。
-> 这与[[instrument:tuba|大号]]的情况完全一样 —— 说明**记谱惯例是"编制约定"，不是"乐器属性"。**
+> ⚠️ **一个概念上的要点**：同一件乐器可以有两套记谱惯例，取决于它在什么编制里。
+> 英式铜管乐队按降 B 调移调记谱；美式管乐团与独奏曲多用 C 调实音记谱。
+> 这与[[instrument:tuba|大号]]的情况完全一样 —— 说明记谱惯例是"编制约定"，不是"乐器属性"。
 
 ## 结构：圆锥管 + 深杯号嘴
 
@@ -82,7 +82,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-要点：**它是大号族的"高八度版"**，管长约为大号的一半。
+要点：它是大号族的"高八度版"，管长约为大号的一半。
 与大号同样的圆锥管 + 深杯号嘴，只是小一号 —— 所以音色同样温厚，但更灵活、更接近人声。
 
 ## 它在铜管族里的位置
@@ -118,27 +118,27 @@ updated: 2026-09-26
 {"range":"A1–B♭4","common":"A1–F3","caption":"上低音号的音域","caption_en":"Euphonium range","note":"上低音号是大号族的高八度支系。管弦乐与独奏曲多用 C 调实音记谱；英式铜管乐队按降 B 调移调记谱 —— 同一件乐器两套惯例。音域约 A1–B♭4。"}
 ```
 
-- **实音 A1–B♭4**，约三个八度多一点 —— 是铜管组里音域较宽的一件。
-- **常用区 A1–F3**，但它的**中音区（F3–B♭4）** 也很常用，因为那里最像人声。
-- **高音区** 在独奏文献里常被用到（多首协奏曲以它为独奏乐器）。
+- 实音 A1–B♭4，约三个八度多一点 —— 是铜管组里音域较宽的一件。
+- 常用区 A1–F3，但它的中音区（F3–B♭4） 也很常用，因为那里最像人声。
+- 高音区 在独奏文献里常被用到（多首协奏曲以它为独奏乐器）。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **温厚、圆、接近人声**。它是铜管组里"最像男中音"的一件 ——
+1. 温厚、圆、接近人声。它是铜管组里"最像男中音"的一件 ——
    弱奏时几乎可以当作歌唱性的旋律乐器。
-2. **不容易"炸"**。圆锥管 + 深杯号嘴让它在高音量下仍保持圆润。
-3. **音头柔软**。与小号相反，它的起音是"包"上去的。
-4. **穿透力中等**。在管乐团的中低音区它足够清晰，但在大型管弦乐里会被盖住 ——
+2. 不容易"炸"。圆锥管 + 深杯号嘴让它在高音量下仍保持圆润。
+3. 音头柔软。与小号相反，它的起音是"包"上去的。
+4. 穿透力中等。在管乐团的中低音区它足够清晰，但在大型管弦乐里会被盖住 ——
    所以管弦乐很少用它是因编制而非能力。
 
 ```audiolab
 {"type":"instrument","gm":"Tuba","synth":"brass","phrase":["A1","A2","D3","A3","B♭3"],"label":"上低音号的常用区：A1 到 B♭3","label_en":"The euphonium's working register — A1 up to B♭3","hint":"注意比大号更灵活、更接近人声的音色 —— 通用音色表里没有独立的上低音号，这里借大号音色近似","hint_en":"Hear how much more flexible and voice-like it is than a tuba. General MIDI has no euphonium, so a tuba sample stands in."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）里**没有独立的上低音号**（只有 Tuba）。
-> 上面播放的是**大号**音色，音区上移到它的常用范围 —— 只能提示音区，不能替代真实音色。
+> ⚠️ 关于试听：通用音色表（General MIDI）里没有独立的上低音号（只有 Tuba）。
+> 上面播放的是大号音色，音区上移到它的常用范围 —— 只能提示音区，不能替代真实音色。
 
 ## 家族与近亲
 
@@ -149,15 +149,15 @@ updated: 2026-09-26
 | [[instrument:bass-trombone\|低音长号]] | 约 2.7 米 | 圆柱为主 | B♭1–B♭4 | 厚而有棱角 |
 | [[instrument:tuba\|大号]] | 约 5.5 米 | 圆锥 | D1–F4 | 厚、暗 |
 
-**上低音号与长号的管长几乎相同、音区几乎重叠**，唯一的大差别是**管形** ——
+上低音号与长号的管长几乎相同、音区几乎重叠，唯一的大差别是管形 ——
 这是"管形决定音色"在铜管里最干净的对照之一。
 
 ## 演奏技法
 
-- **指法与持握**：与[[instrument:tuba|大号]]同源，但更轻便，演奏者常把它抱在身前。
-- **连奏（legato）是它的强项**。圆润的音色让长线条特别"唱得出来"。
-- **颤音（vibrato）**在独奏中常用 —— 这是它区别于长号的地方（长号的音色不太适合快速颤音）。
-- **弱音器**可用，效果温和。
+- 指法与持握：与[[instrument:tuba|大号]]同源，但更轻便，演奏者常把它抱在身前。
+- 连奏（legato）是它的强项。圆润的音色让长线条特别"唱得出来"。
+- 颤音（vibrato）在独奏中常用 —— 这是它区别于长号的地方（长号的音色不太适合快速颤音）。
+- 弱音器可用，效果温和。
 
 ## 历史演变
 
@@ -170,18 +170,19 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"上低音号就是小一点的大号。"** 结构上是，但它的**音区高一个八度、灵活性高得多**，
+- "上低音号就是小一点的大号。" 结构上是，但它的音区高一个八度、灵活性高得多，
   在编制里的角色也不同（唱旋律 vs 铺底）。
-- **"它与低音长号是一回事。"** 音区几乎重叠，但**管形不同**（圆锥 vs 圆柱）→
+- "它与低音长号是一回事。" 音区几乎重叠，但管形不同（圆锥 vs 圆柱）→
   音色完全不同：一个温厚，一个棱角清楚。
-- **"它只是管乐团的乐器。"** 它有独立的独奏文献，也在铜管五重奏与各种重奏里出现。
-- **"记谱只有一种。"** **两套惯例并存**：英式铜管乐队按降 B 调移调，美式按 C 调实音。
-- **"通用音色表里有它。"** General MIDI 里**没有独立的上低音号**，只能借大号近似（本页试听件即如此）。
+- "它只是管乐团的乐器。" 它有独立的独奏文献，也在铜管五重奏与各种重奏里出现。
+- "记谱只有一种。" 两套惯例并存：英式铜管乐队按降 B 调移调，美式按 C 调实音。
+- "通用音色表里有它。" General MIDI 里没有独立的上低音号，只能借大号近似（试听件即如此）。
 
 ## 下一步
 
 铜管组还剩两件：[[instrument:sousaphone|苏萨号]]（为行进而改造的大号）
 与 [[instrument:wagner-tuba|瓦格纳大号]]（号嘴与管身分别选配的实证）。
+
 :::
 
 ::: en
@@ -199,10 +200,10 @@ different characters: **the bass trombone gives a line an edge; the euphonium gi
 | **Family** | Western · Brass (tuba family, tenor-bass branch) |
 | **Bayin** | Not applicable — a Chinese system; the euphonium is outside it |
 
-> ⚠️ **One conceptual point**: **one instrument can carry two notation conventions, depending on the
-> ensemble.** British brass bands write it as a **B♭ transposing** instrument; American wind bands and most
-> solo music use **C at sounding pitch**. Exactly as with the [[instrument:tuba|tuba]] — showing that
-> **notation convention is an ensemble agreement, not a property of the instrument.**
+> ⚠️ One conceptual point: **one instrument can carry two notation conventions, depending on the
+> ensemble. British brass bands write it as a B♭ transposing** instrument; American wind bands and most
+> solo music use C at sounding pitch. Exactly as with the [[instrument:tuba|tuba]] — showing that
+> notation convention is an ensemble agreement, not a property of the instrument.
 
 ## Structure: a conical tube and a deep cup
 
@@ -235,7 +236,7 @@ different characters: **the bass trombone gives a line an edge; the euphonium gi
 </svg>
 ```
 
-The point: **it is the tuba family's octave-higher member**, about half the tube length.
+The point: it is the tuba family's octave-higher member, about half the tube length.
 Same conical bore and deep cup, one size down — the tone is equally warm but more agile and more voice-like.
 
 ## Where it sits in the brass
@@ -271,27 +272,27 @@ Same conical bore and deep cup, one size down — the tone is equally warm but m
 {"range":"A1–B♭4","common":"A1–F3","caption":"上低音号的音域","caption_en":"Euphonium range","note":"上低音号是大号族的高八度支系。管弦乐与独奏曲多用 C 调实音记谱；英式铜管乐队按降 B 调移调记谱 —— 同一件乐器两套惯例。音域约 A1–B♭4。"}
 ```
 
-- **Sounding A1–B♭4**, a little over three octaves — one of the wider brass ranges.
-- **The working register is A1–F3**, but its **middle (F3–B♭4)** is used just as much, being the most
+- Sounding A1–B♭4, a little over three octaves — one of the wider brass ranges.
+- The working register is A1–F3, but its middle (F3–B♭4) is used just as much, being the most
   voice-like.
-- **The top register** is common in the solo repertoire (several concertos are written for it).
+- The top register is common in the solo repertoire (several concertos are written for it).
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Warm, round, close to a human voice** — the most "baritone" member of the brass; played softly it can
+1. Warm, round, close to a human voice — the most "baritone" member of the brass; played softly it can
    pass for a singing instrument.
-2. **It does not turn harsh** at high volume (conical bore, deep cup).
-3. **A soft attack**: unlike a trumpet, its onset is wrapped rather than nailed.
-4. **Moderate projection.** Clear enough in a band's middle, easily covered in a large orchestra — which is
+2. It does not turn harsh at high volume (conical bore, deep cup).
+3. A soft attack: unlike a trumpet, its onset is wrapped rather than nailed.
+4. Moderate projection. Clear enough in a band's middle, easily covered in a large orchestra — which is
    why orchestras rarely use it, a matter of scoring rather than capability.
 
 ```audiolab
 {"type":"instrument","gm":"Tuba","synth":"brass","phrase":["A1","A2","D3","A3","B♭3"],"label":"上低音号的常用区：A1 到 B♭3","label_en":"The euphonium's working register — A1 up to B♭3","hint":"注意比大号更灵活、更接近人声的音色 —— 通用音色表里没有独立的上低音号，这里借大号音色近似","hint_en":"Hear how much more flexible and voice-like it is than a tuba. General MIDI has no euphonium, so a tuba sample stands in."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI set has **no separate euphonium** (only Tuba). A **tuba** sample
+> ⚠️ On the audio: the General MIDI set has no separate euphonium (only Tuba). A tuba sample
 > moved up into its register is playing above — a hint of range, not the real colour.
 
 ## The family
@@ -303,16 +304,16 @@ Four cues:
 | [[instrument:bass-trombone\|Bass trombone]] | about 2.7 m | mainly cylindrical | B♭1–B♭4 | heavy, edged |
 | [[instrument:tuba\|Tuba]] | about 5.5 m | conical | D1–F4 | thick, dark |
 
-**The euphonium and the trombone have almost the same tube length and register**, and the one great
-difference is **the bore** — one of the cleanest illustrations in brass that the bore decides the colour.
+The euphonium and the trombone have almost the same tube length and register, and the one great
+difference is the bore — one of the cleanest illustrations in brass that the bore decides the colour.
 
 ## Playing techniques
 
-- **Fingering and hold** come from the [[instrument:tuba|tuba]], but it is lighter and usually carried in
+- Fingering and hold come from the [[instrument:tuba|tuba]], but it is lighter and usually carried in
   front.
-- **Legato is its strength** — a round tone makes long phrases sing.
-- **Vibrato** is common in solo playing, unlike the trombone, whose timbre suits it less.
-- **Mutes** work gently.
+- Legato is its strength — a round tone makes long phrases sing.
+- Vibrato is common in solo playing, unlike the trombone, whose timbre suits it less.
+- Mutes work gently.
 
 ## History
 
@@ -325,15 +326,15 @@ difference is **the bore** — one of the cleanest illustrations in brass that t
 
 ## Common misconceptions
 
-- **"A euphonium is a small tuba."** Structurally yes, but an **octave higher and far more agile**, with a
+- "A euphonium is a small tuba." Structurally yes, but an octave higher and far more agile, with a
   different role (melody versus foundation).
-- **"It is the same as a bass trombone."** The registers almost overlap, but the **bores differ** (conical
+- "It is the same as a bass trombone." The registers almost overlap, but the bores differ (conical
   versus cylindrical) → completely different tones: one warm, one edged.
-- **"It is only a band instrument."** It has its own solo repertoire and appears in brass quintets and many
+- "It is only a band instrument." It has its own solo repertoire and appears in brass quintets and many
   ensembles.
-- **"There is one way to write for it."** **Two conventions coexist**: B♭ transposing in British brass bands,
+- "There is one way to write for it." Two conventions coexist: B♭ transposing in British brass bands,
   C at pitch in American practice.
-- **"General MIDI has one."** There is **no separate euphonium**; a tuba sample is the only stand-in (as on
+- "General MIDI has one." There is no separate euphonium; a tuba sample is the only stand-in (as on
   this page).
 
 ## Next

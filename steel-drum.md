@@ -42,8 +42,8 @@ updated: 2026-10-28
 ## 常见误解
 
 - **「钢鼓是鼓。」** 它没有膜，靠钢面自身振动；steel drum 的 drum 只是桶形。
-- **「它只能打节奏。」** 它有半音阶，能奏旋律与和声；钢鼓乐队可以改编管弦乐。
-- **「音区按音阶排。」** 高音钢盘按五度圈铺开，不是从左到右的 do-re-mi。
+- 「它只能打节奏。」 它有半音阶，能奏旋律与和声；钢鼓乐队可以改编管弦乐。
+- 「音区按音阶排。」 高音钢盘按五度圈铺开，不是从左到右的 do-re-mi。
 
 ## HS 分类与听辨
 
@@ -89,9 +89,9 @@ updated: 2026-10-28
 
 ## 带走三件事
 
-1. **凹面分音区**：一只油桶就是一张音板，多个音区仍连在同一张钢面上。
-2. **体鸣，不是膜鸣**：声音来自钢面自身振动，橡胶头木槌只是激发。
-3. **回收材料成为民族乐器**：20 世纪的发明，1992 年成为国家乐器。
+1. 凹面分音区：一只油桶就是一张音板，多个音区仍连在同一张钢面上。
+2. 体鸣，不是膜鸣：声音来自钢面自身振动，橡胶头木槌只是激发。
+3. 回收材料成为民族乐器：20 世纪的发明，1992 年成为国家乐器。
 
 :::
 
@@ -112,8 +112,8 @@ Zones are not laid out by scale. The tenor pan follows the **circle of fifths**,
 ## Common misconceptions
 
 - **"It is a drum."** It has no membrane; the steel vibrates. The drum in steel drum refers to the barrel.
-- **"It can only play rhythm."** It is chromatic and plays melody and harmony; steel orchestras arrange orchestral music.
-- **"The notes are laid out like a scale."** The tenor pan follows the circle of fifths, not left-to-right do-re-mi.
+- "It can only play rhythm." It is chromatic and plays melody and harmony; steel orchestras arrange orchestral music.
+- "The notes are laid out like a scale." The tenor pan follows the circle of fifths, not left-to-right do-re-mi.
 
 ## HS classification and listening
 
@@ -159,8 +159,7 @@ Zones are not laid out by scale. The tenor pan follows the **circle of fifths**,
 
 ## Three things to take away
 
-1. **One concave face, many note zones**: the oil drum itself becomes the soundboard, and the zones stay connected.
-2. **Idiophone, not membranophone**: the steel vibrates; the rubber-tipped sticks only excite it.
-3. **Recycled material becomes a national instrument**: a twentieth-century invention, declared the national instrument in 1992.
-
+1. One concave face, many note zones: the oil drum itself becomes the soundboard, and the zones stay connected.
+2. Idiophone, not membranophone: the steel vibrates; the rubber-tipped sticks only excite it.
+3. Recycled material becomes a national instrument: a twentieth-century invention, declared the national instrument in 1992.
 :::

@@ -76,7 +76,7 @@ updated: 2026-10-28
 
 ## 十四世纪图像，二十世纪复兴
 
-14 世纪图像证据有两处：哥特兰 Källunge 教堂门浮雕（定为 1350 年）与锡耶纳 1408 年壁画；Moraharpa 标 1526 年。18 世纪是民间庆典核心，20 世纪初仅十余人会奏。1926 年 Bohlin 做出三排键半音阶型号；1950 年代 Sahlström 改进推广，成为现代标准。2023 年 UNESCO 列入良好保护实践。**它先被图像记住，再被复兴接住。**
+14 世纪图像证据有两处：哥特兰 Källunge 教堂门浮雕（定为 1350 年）与锡耶纳 1408 年壁画；Moraharpa 标 1526 年。18 世纪是民间庆典核心，20 世纪初仅十余人会奏。1926 年 Bohlin 做出三排键半音阶型号；1950 年代 Sahlström 改进推广，成为现代标准。2023 年 UNESCO 列入良好保护实践。它先被图像记住，再被复兴接住。
 
 ## 与哈丁费德尔、手摇琴对照
 
@@ -98,15 +98,16 @@ updated: 2026-10-28
 
 ## 常见误解
 
-- **"尼古赫帕是手摇琴的一种。"** 它用弓，手摇琴用轮；共同点只是用键止弦。
-- **"它是小提琴加键。"** 弦数、定弦、共鸣弦与持琴方式都不同；它横放腰间，不夹肩。
-- **"共鸣弦是装饰。"** 它们从琴桥下穿过，按音高被动共鸣，决定这件乐器最容易被认出的底色。
+- "尼古赫帕是手摇琴的一种。" 它用弓，手摇琴用轮；共同点只是用键止弦。
+- "它是小提琴加键。" 弦数、定弦、共鸣弦与持琴方式都不同；它横放腰间，不夹肩。
+- "共鸣弦是装饰。" 它们从琴桥下穿过，按音高被动共鸣，决定这件乐器最容易被认出的底色。
 
 ## 带走三件事
 
-1. **键止弦、弓发声**：机械只接管音高，不接管发音。
-2. **共鸣弦是音色的一半**：12 根弦在琴桥下共鸣。
-3. **14 世纪有图像，20 世纪才复兴**：传统断过又接上。
+1. 键止弦、弓发声：机械只接管音高，不接管发音。
+2. 共鸣弦是音色的一半：12 根弦在琴桥下共鸣。
+3. 14 世纪有图像，20 世纪才复兴：传统断过又接上。
+
 :::
 
 ::: en
@@ -159,7 +160,7 @@ Three rows cover three octaves; C3 is the drone and C6 the highest key.
 
 ## Fourteenth-century images, twentieth-century revival
 
-The Källunge relief (1350) and a 1408 Siena fresco are the earliest images; the Moraharpa is dated 1526. After eighteenth-century prominence and near-extinction by 1900, August Bohlin built a three-row chromatic model in 1926 and Eric Sahlström made it standard in the 1950s; UNESCO listed the network in 2023. **It was first remembered in images, then caught by a revival.**
+The Källunge relief (1350) and a 1408 Siena fresco are the earliest images; the Moraharpa is dated 1526. After eighteenth-century prominence and near-extinction by 1900, August Bohlin built a three-row chromatic model in 1926 and Eric Sahlström made it standard in the 1950s; UNESCO listed the network in 2023. It was first remembered in images, then caught by a revival.
 
 ## Compared with the hardanger fiddle and the hurdy-gurdy
 
@@ -181,13 +182,13 @@ The hardanger fiddle also has sympathetic strings but is stopped by fingers; the
 
 ## Common misconceptions
 
-- **"The nyckelharpa is a kind of hurdy-gurdy."** It uses a bow, the hurdy-gurdy a wheel; the only shared idea is stopping strings with keys.
-- **"It is a violin with keys."** String count, tuning, sympathetic strings and playing position all differ; it lies across the waist, not under the chin.
-- **"The sympathetic strings are decoration."** They pass under the bridge and resonate passively, shaping the instrument's most recognisable colour.
+- "The nyckelharpa is a kind of hurdy-gurdy." It uses a bow, the hurdy-gurdy a wheel; the only shared idea is stopping strings with keys.
+- "It is a violin with keys." String count, tuning, sympathetic strings and playing position all differ; it lies across the waist, not under the chin.
+- "The sympathetic strings are decoration." They pass under the bridge and resonate passively, shaping the instrument's most recognisable colour.
 
 ## Three things to take away
 
-1. **Keys stop, the bow sounds**: the mechanism takes over pitch, not excitation.
-2. **Sympathetic strings are half the timbre**: twelve strings answer under the bridge.
-3. **Fourteenth-century images, twentieth-century revival**: the tradition broke and was reconnected.
+1. Keys stop, the bow sounds: the mechanism takes over pitch, not excitation.
+2. Sympathetic strings are half the timbre: twelve strings answer under the bridge.
+3. Fourteenth-century images, twentieth-century revival: the tradition broke and was reconnected.
 :::

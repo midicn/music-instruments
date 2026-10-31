@@ -43,26 +43,16 @@ updated: 2026-09-26
 ::: zh
 **编磬是八音八类里的最后一类：石。**
 
-它和[[instrument:bianzhong|编钟]]是一对 —— 古人把这两件的合奏叫**「金石之声」**，
-《孟子》讲的**「金声玉振」**后来也就成了这个组合的名字：
-**钟声起、磬声收。**
+它和[[instrument:bianzhong|编钟]]是一对，两件合奏叫**「金石之声」**，《孟子》里的**「金声玉振」**后来也成了这个组合的名字：钟声起、磬声收。
 
-> ⚠️ **它逼出的问题是本批最硬的一个：一块石头，音高该怎么做出来？**
-> 金属可以**熔**，木头可以**削**，皮可以**绷紧或放松** ——
-> 而石头**既不能熔、也不能加**。想改音高，只剩一条路：**磨掉一点。**
+> ⚠️ 一块石头，音高怎么做出来？
+> 金属能熔，木头能削，皮能绷紧或放松。
+> 石头既不能熔，也不能加。改音高只剩磨掉一点。
 >
-> 于是出现了一个别的乐器都没有的性质：
-> **磬的调音是"只减不增"的 —— 只能磨掉材料，磨过头就回不去了。**
-> （⚠️ 但**音高仍可双向调**：磨两面降音、磨端面升音 —— 见下节《考工记》。）
+> 于是它有了一个别处没有的性质：调音"只减不增"，磨过头就回不去。
+> 音高仍可双向调：磨两面降音，磨端面升音。见下节《考工记》。
 >
-> | | 编钟 | **编磬** |
-> |---|---|---|
-> | 材料 | 青铜 | **石（石灰石 · 大理石 · 玉石）** |
-> | 怎么定音高 | **铸** | **磨** |
-> | 出错之后 | **可以重熔再铸** | **只能减少材料，不能回头** |
-> | 定型单位 | 一次成型，**可复制** | 逐件磋磨，**不可复制** |
->
-> **同一个目标（把音高事先写进材料里），两条完全不同的工艺路径。**
+> 编钟铸成，错了能重熔；编磬磨成，材料只减不增。
 
 | 分类 | 归属 |
 |---|---|
@@ -104,15 +94,17 @@ updated: 2026-09-26
 </svg>
 ```
 
-三处要点：
+三处要点。
 
-1. **一块弯板**。磬的形状叫**倨句形**：一段钝角折弯的石片，
-   上端钻一个**倨孔**穿绳悬挂。商代的磬多是**上弧下直的不等边三角形**，
-   西周以后才定型为倨句形 —— **它是"形状"的产物，不是"长度"的产物。**
-2. **大小与厚薄决定音高**。磬是**板振动**：**磬板越大越薄 → 音越低；越小越厚 → 音越高**
-   （板振动的频率正比于厚度）。所以一套磬就是**按尺寸递减排下来的一组石片**（与编钟按大小排列同构）。
-3. **它比钟"清楚"**。编钟音量更大、余音更长，而磬**余韵短、击发敏捷** ——
-   所以**钟磬同奏时磬不会被钟声盖住**，反而把节奏点得清清楚楚。
+1. 一块弯板。
+   倨句形是一段钝角折弯的石片，上端钻倨孔穿绳悬挂。
+   商代的磬多是上弧下直的不等边三角形，西周才定型。
+   它是形状的产物，不是长度的产物。
+2. 大小与厚薄决定音高。
+   磬是板振动：越大越薄，音越低；越小越厚，音越高，频率正比于厚度。
+   一套磬就是按尺寸递减排好的石片，与编钟同构。
+3. 它比钟"清楚"。
+   编钟更响、余音更长；磬余韵短，同奏时不被盖住，反而把节奏点清楚。
 
 ## 铸与磨：两条路，一种目标
 
@@ -144,22 +136,20 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图是本页的核心**：它把"材料决定工艺"这件事讲成了一条可以直接比较的对照。
+- 铸：熔液浇进模范，一次成型。
+  音高不对可重熔再铸，也能复制；铸成的编钟还要磨内壁微调。
+- 磨：石片打制后磋磨定音。
+  石头不能熔也不能加，材料只能减，也不能复制。
+  石材是石灰石、大理石或玉石。
+  减在哪里，决定音往哪走。《考工记·磬氏》：「已上则磨其旁，已下则磨其端」。
+  音太高，磨正面变薄，降音；音太低，磨端面变厚，升音。
+  唐贾公彦总结成八个字：「凡乐器，厚则声清，薄则声浊。」
+  ⚠️ 材料只减不增，音高仍可双向微调。
 
-- **铸**：熔液浇进模范 → **一次成型**；音高不对可以**重熔再铸**，而且**可以复制**。
-  （编钟铸成后调音也要磨内壁 —— 但那是在**已经成型**的基础上微调。）
-- **磨**：石片打制后**磋磨定音**；石头既不能熔也不能加，**材料只能减**。
-  但**减在哪里，决定音往哪走** —— 《考工记·磬氏》记的正是这条：
-  **「已上则磨其旁，已下则磨其端」** ——
-  **音太高，就磨两个正面**（相对变薄 → 降音）；**音太低，就磨端面**（相对变厚 → 升音）。
-  唐代贾公彦把它总结成八个字：**「凡乐器，厚则声清，薄则声浊。」**
-  ⚠️ **材料只减不增（磨过头就回不去），但音高仍可双向微调** —— 这是古代工匠对板振动的定量掌握。
-
-**而这条"不可逆"还留下了一个考古证据**：
-**曾侯乙编磬出土时，32 枚中完好的只有 9 枚**（其余多已压碎粉化）；
-**而同墓出土的 65 件编钟，出土时仍挂在架上、音律仍相当准确。**
-两件乐器同出、同埋两千四百年 —— **石比青铜脆**，于是"按材料分类"的八音，
-在时间面前自己给出了一个结果：**材料最终决定了谁能穿过来。**
+这条不可逆留下了考古证据。
+曾侯乙编磬出土时，32 枚完好者只有 9 枚，其余多已压碎粉化。
+同墓 65 件编钟仍挂在架上，音律相当准确。
+同出、同埋两千四百年，石比青铜脆。
 
 ## 音域
 
@@ -167,22 +157,20 @@ updated: 2026-09-26
 {"range":"C3–C6","caption":"编磬的音域（以曾侯乙编磬为例 · 示意）","caption_en":"Bianqing range — the Zeng Hou Yi set as the example (indicative)","note":"编磬属体鸣乐器（石片磨制，敲击，有固定音高）。每套编磬的音高由磬块的大小与厚薄决定：曾侯乙编磬共 32 块，分上下两层四组，经复原研究音域跨三个八度、十二半音齐备、可以旋宫转调。此处按「跨三个八度」取 C3–C6 示意 —— 各套编磬块数与音高不同，本图不代表所有编磬。记谱即实音。"}
 ```
 
-- **音域跨三个八度**、**十二半音齐备**、**可以旋宫转调** —— 与编钟同级的能力。
-- **但磬块数决定一切**：曾侯乙编磬 **32 块**，编钟 **65 件** ——
-   石头要一块一块磨，所以**做得比钟少**（见下一段）。
-- **常用区 C3–C6 是示意**：磬的真实音高标准随每一套的磬块尺寸而定。
+- 跨三个八度，十二半音齐备，可旋宫转调，与编钟同级。
+- 磬块数决定一切：曾侯乙编磬 32 块，编钟 65 件。石头要一块块磨，所以少。
+- C3–C6 是示意，真实音高随每套磬的尺寸而定。
 
 ## 音色与听辨
 
-四条线索：
-
-1. **清脆而"空"**。石头受击的声音比青铜**更薄、更空灵** ——
-   古书里说它"清越""铿锵"，而钟是"洪亮"。
-2. **余韵短，击发敏捷**。它不像钟那样拖一条长尾，
-   **声音来得快、去得也快** —— 所以它点节奏比钟清楚。
-3. **不会钟声被掩住**。钟更响、余音更长，但磬**穿透力强**，
-   两者合奏时各占一层：**钟铺厚度，磬点轮廓。**
-4. **它按"块"来听**。一套磬就是一组由大到小的石片，**音越高磬块越小。**
+1. 清脆而"空"。
+   石头受击比青铜更薄、更空灵，古书说它"清越""铿锵"，说钟是"洪亮"。
+2. 余韵短，击发敏捷。
+   它不拖长尾，声音来得快去得也快，点节奏更清楚。
+3. 不会被钟声掩住。
+   钟更响，磬穿透力强；合奏各占一层，钟铺厚度，磬点轮廓。
+4. 它按"块"来听。
+   一套磬就是由大到小的石片，音越高块越小。
 
 ```audiolab
 {"type":"instrument","gm":"Glockenspiel","synth":"metal","phrase":["C4","D4","E4","G4","A4","C5"],"label":"编磬的常用区：C4 到 C5","label_en":"The bianqing's working register — C4 up to C5","hint":"注意那种薄而空、余韵很短的石头感 —— 通用音色表里没有编磬，这里借钟琴（金属条受击）近似","hint_en":"Notice the thin, hollow, short-ringing stone sound. General MIDI has no bianqing, so a glockenspiel stands in."}
@@ -190,13 +178,11 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **跪坐而击**。曾侯乙编磬的演奏记载是**一人双手执磬槌、跽（跪坐）而击** ——
-   与编钟需要多人协作不同，**磬的体量小得多。**
-- **敲"鼓部"**。磬的较长一臂叫**鼓**，是主要的敲击部位；较短的一臂叫**股**。
-- **多种击法**。单击 · 双击 · 轮击 · 刮奏 · 摇奏 ——
-   虽然是一件"有固定音高"的乐器，**它的手法却不只是"敲一下"。**
-- **常与钟合奏**。单一套磬可以独奏旋律，但**金石同鸣**才是它在礼乐里的正式位置。
-- **音高不能当场改**。与编钟一样：**它只能演奏"已经磨好的那些音"。**
+- 跪坐而击：曾侯乙编磬是一人双手执槌，跽而击。编钟要多人协作，磬小得多。
+- 敲"鼓部"：较长一臂叫鼓，是主要敲击部位；较短一臂叫股。
+- 多种击法：单击、双击、轮击、刮奏、摇奏。音高固定，手法却不只是"敲一下"。
+- 常与钟合奏：一套磬能独奏旋律，金石同鸣才是它的正式位置。
+- 音高不能当场改：与编钟一样，只能演奏磨好的音。
 
 ## 家族与近亲
 
@@ -209,9 +195,8 @@ updated: 2026-09-26
 | [[instrument:sheng\|笙]] | 自由簧 | 簧片 | 能（装配时） | 匏 |
 | [[instrument:xun\|埙]] | 腔内空气 | 开孔 | 能（当场改） | 土 |
 
-**"金"与"石"是八音里唯一的"硬材料"两类** ——
-它们的共同点是：**音高必须在演奏之前，用工艺手段做进材料里。**
-而它们的区别同样清楚：**一个能重来，一个不能。**
+"金"与"石"是八音里唯一的"硬材料"两类。
+区别也清楚：一个能重来，一个不能。
 
 ## 历史演变
 
@@ -226,28 +211,21 @@ updated: 2026-09-26
 | 20 世纪 | 曾侯乙编磬出土时**完好仅 9 枚**；1980 年湖北省博物馆与武汉物理研究所合作制成复制品 |
 | 今天 | 原件与复制品用于研究与展演；编磬也是现代民族管弦乐队的常规乐器 |
 
-**它和[[instrument:bianzhong|编钟]]的命运形成了本批最鲜明的一次对照**：
-**同一个墓、同一个年代、同一套礼乐制度 —— 一组完好如初，一组只剩九块。**
-**"八音"按材料分类；而材料，最终决定谁能在两千年后还在响。**
+它和[[instrument:bianzhong|编钟]]的命运，是一次鲜明的对照。
+同一个墓，同一个年代，一组完好如初，一组只剩九块。
+"八音"按材料分类，材料最终决定谁能在两千年后还在响。
 
 ## 常见误解
 
-- **"磬和钟差不多，都是敲的。"** 材料不同（**石 vs 青铜**）、工艺不同（**磨 vs 铸**）、
-   后果也不同（**不可逆 vs 可重熔**），音色也各占一层（**磬薄而清，钟厚而洪**）。
-- **"石头做乐器，音准一定很差。"** 曾侯乙编磬**音域跨三个八度、十二半音齐备、可以旋宫转调** ——
-   与编钟同级。**难做不等于做不准。**
-- **"磬的音高可以在演奏中调整。"** **完全不能** ——
-   它是**事先磨定**的，与编钟一样属于"把音高交出去"的乐器。
-- **"磬只是钟的陪衬。"** 它能**独奏旋律**；而钟磬合奏时，
-   磬负责的恰恰是钟做不好的那件事：**把轮廓点清楚。**
-- **"编磬和特磬是一回事。"** **特磬**是单件大磬（用于祭祀），
-   **编磬**是成组的（用于宫廷音乐）—— 这是按使用场所与编列方式分的两类。
-- **"八音里的石只是材料分类。"** 它确实只说材料 ——
-   但**在这里材料决定了三件事**：工艺（只能磨）、音色（薄而空）、以及**能不能穿过时间**。
+- "磬和钟差不多，都是敲的。" 材料不同（石与青铜），工艺不同（磨与铸），后果也不同（不可逆与可重熔）。
+- "石头做乐器，音准一定很差。" 曾侯乙编磬跨三个八度，十二半音齐备，可以旋宫转调。难做不等于做不准。
+- "磬的音高可以在演奏中调整。" 不能。它事先磨定，与编钟一样属于"交出音高"的乐器。
+- "磬只是钟的陪衬。" 它能独奏旋律。合奏时专管钟做不好的事：把轮廓点清楚。
+- "编磬和特磬是一回事。" 特磬是单件大磬，用于祭祀；编磬成组，用于宫廷音乐。
 
 ## 下一步
 
-**八音八类到此全部走完。**
+八音八类走完。
 
 | 八音 | 已在正文里覆盖的乐器 |
 |---|---|
@@ -260,10 +238,10 @@ updated: 2026-09-26
 | **匏** | [[instrument:sheng\|笙]] |
 | **竹** | [[instrument:dizi\|笛子]] |
 
-接下来的铺量按**演奏方式**继续展开：**吹管 → 弹拨 → 拉弦 → 打击**，
-把每一类里更专门的成员补齐（箫 · 唢呐 · 筝 · 阮 · 板胡 · 云锣 …）。
-而这一批已经立好的八条主线，会继续用在每一件新乐器上 ——
-**其中最新的一条，是编磬刚刚给出的：同一个目标，材料会决定你能走哪条路，以及能不能回头。**
+接下来按演奏方式铺量：吹管、弹拨、拉弦、打击。
+每一类里更专门的成员陆续补齐：箫、唢呐、筝、阮、板胡、云锣。
+最新的一条主线来自编磬：同一个目标，材料决定你能走哪条路，以及能不能回头。
+
 :::
 
 ::: en
@@ -274,20 +252,20 @@ It is the partner of the [[instrument:bianzhong|bianzhong]] — the ancients cal
 name this pairing: **the bell begins, the chime closes.**
 
 > ⚠️ **It forces the hardest question in this batch: how do you make a pitch in a piece of stone?**
-> Metal can be **melted**, wood **carved**, skin **tightened or loosened** — but stone **can neither be melted nor
-> added to**. The only way to change its pitch is to **grind some away.**
+> Metal can be melted, wood carved, skin tightened or loosened — but stone **can neither be melted nor
+> added to. The only way to change its pitch is to grind some away.**
 >
 > Hence a property no other instrument here has: **a bianqing's tuning only ever subtracts — material can be ground
 > away and never added back.**
-> (⚠️ The **pitch**, though, can still move both ways: grind the faces to lower it, the ends to raise it — see the
-> **Kao Gong Ji** section below.)
+> (⚠️ The pitch, though, can still move both ways: grind the faces to lower it, the ends to raise it — see the
+> Kao Gong Ji section below.)
 >
-> | | Bianzhong | **Bianqing** |
+> | | Bianzhong | Bianqing |
 > |---|---|---|
-> | Material | bronze | **stone (limestone · marble · jade)** |
-> | How pitch is set | **casting** | **grinding** |
-> | After a mistake | **can be melted and recast** | **material can only be removed — no return** |
-> | Unit of making | formed at once, **reproducible** | ground piece by piece, **not reproducible** |
+> | Material | bronze | stone (limestone · marble · jade) |
+> | How pitch is set | casting | grinding |
+> | After a mistake | can be melted and recast | material can only be removed — no return |
+> | Unit of making | formed at once, reproducible | ground piece by piece, not reproducible |
 >
 > **One goal — writing the pitch into the material in advance — reached by two entirely different crafts.**
 
@@ -333,14 +311,14 @@ name this pairing: **the bell begins, the chime closes.**
 
 Three points:
 
-1. **A bent plate.** The shape is called **juju**: a slab folded at an obtuse angle with a **suspension hole** at
-   the top. Shang-period chimes were mostly **right-triangles with a curved top**; the bent form settled from the
-   Western Zhou onward — **it is a product of shape, not of length.**
-2. **Size and thickness set the pitch.** A chime is a **vibrating plate**: **a bigger, thinner slab sounds lower; a
-   smaller, thicker one sounds higher** (plate frequency is proportional to thickness). A set is therefore **a graded
+1. A bent plate. The shape is called juju: a slab folded at an obtuse angle with a suspension hole at
+   the top. Shang-period chimes were mostly right-triangles with a curved top; the bent form settled from the
+   Western Zhou onward — it is a product of shape, not of length.
+2. Size and thickness set the pitch. A chime is a vibrating plate: **a bigger, thinner slab sounds lower; a
+   smaller, thicker one sounds higher (plate frequency is proportional to thickness). A set is therefore a graded
    row of slabs** — structurally the same idea as bells hung in order of size.
-3. **It is clearer than a bell.** The bell is louder with a longer ring, while a chime **decays quickly and speaks
-   promptly** — so when the two play together **the chime is not buried**, and instead articulates the rhythm.
+3. It is clearer than a bell. The bell is louder with a longer ring, while a chime **decays quickly and speaks
+   promptly — so when the two play together the chime is not buried**, and instead articulates the rhythm.
 
 ## Cast or ground: two roads, one goal
 
@@ -372,23 +350,23 @@ Three points:
 </svg>
 ```
 
-**This figure is the heart of the page**, turning "material decides craft" into a direct comparison.
+This figure is the heart of the page, turning "material decides craft" into a direct comparison.
 
-- **Casting**: the melt is poured into a mould, **formed at once**; a wrong pitch can be fixed by **melting and
+- Casting: the melt is poured into a mould, formed at once; a wrong pitch can be fixed by **melting and
   recasting**, and copies can be made. (A finished bell is still fine-tuned by grinding its inner wall — but that
-  is adjustment **after** the form exists.)
-- **Grinding**: the slab is shaped and then **ground into tune**; stone can neither be melted nor added, so
-  **material can only be removed.** But **where you remove it decides which way the pitch goes** — exactly what the
-  **Kao Gong Ji** records: **"if too high, grind the faces; if too low, grind the ends."** Grinding the two faces makes
-  the slab **relatively thinner → lower**; grinding the ends makes it **relatively thicker → higher**. Jia Gongyan
-  (Tang dynasty) summed it up as **"thick, and the note is clear; thin, and the note is muddy."**
-  ⚠️ **Material only ever decreases — but pitch can still be tuned in both directions.** That is quantitative
+  is adjustment after the form exists.)
+- Grinding: the slab is shaped and then ground into tune; stone can neither be melted nor added, so
+  material can only be removed. But where you remove it decides which way the pitch goes — exactly what the
+  Kao Gong Ji records: "if too high, grind the faces; if too low, grind the ends." Grinding the two faces makes
+  the slab relatively thinner → lower; grinding the ends makes it relatively thicker → higher. Jia Gongyan
+  (Tang dynasty) summed it up as "thick, and the note is clear; thin, and the note is muddy."
+  ⚠️ Material only ever decreases — but pitch can still be tuned in both directions. That is quantitative
   command of plate vibration, two thousand years early.
 
-**And that irreversibility left archaeological evidence**: **of the 32 slabs of the Zeng Hou Yi bianqing, only 9
-survived intact** (the rest were crushed and crumbled), while **the 65 bells from the same tomb were still hanging
-on their frame, still remarkably in tune.** Two instruments buried together for 2,400 years — **stone is more
-brittle than bronze**, so the bayin's material-based scheme produced its own verdict: **material decides who gets
+And that irreversibility left archaeological evidence: **of the 32 slabs of the Zeng Hou Yi bianqing, only 9
+survived intact (the rest were crushed and crumbled), while the 65 bells from the same tomb were still hanging
+on their frame, still remarkably in tune. Two instruments buried together for 2,400 years — stone is more
+brittle than bronze, so the bayin's material-based scheme produced its own verdict: material decides who gets
 to come through.**
 
 ## Range
@@ -397,22 +375,22 @@ to come through.**
 {"range":"C3–C6","caption":"编磬的音域（以曾侯乙编磬为例 · 示意）","caption_en":"Bianqing range — the Zeng Hou Yi set as the example (indicative)","note":"编磬属体鸣乐器（石片磨制，敲击，有固定音高）。每套编磬的音高由磬块的大小与厚薄决定：曾侯乙编磬共 32 块，分上下两层四组，经复原研究音域跨三个八度、十二半音齐备、可以旋宫转调。此处按「跨三个八度」取 C3–C6 示意 —— 各套编磬块数与音高不同，本图不代表所有编磬。记谱即实音。"}
 ```
 
-- **Three octaves, all twelve semitones, and key changes** — the same class of capability as the bells.
-- **But the number of slabs sets everything**: the Zeng Hou Yi bianqing has **32 slabs**, the bianzhong **65
-  bells** — stone must be ground one piece at a time, so **fewer of them were made**.
-- **C3–C6 is indicative only**: a real set's pitches follow the dimensions of its own slabs.
+- Three octaves, all twelve semitones, and key changes — the same class of capability as the bells.
+- But the number of slabs sets everything: the Zeng Hou Yi bianqing has 32 slabs, the bianzhong **65
+  bells — stone must be ground one piece at a time, so fewer of them were made**.
+- C3–C6 is indicative only: a real set's pitches follow the dimensions of its own slabs.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Bright and hollow.** Struck stone sounds **thinner and emptier** than bronze — the old texts call it
+1. Bright and hollow. Struck stone sounds thinner and emptier than bronze — the old texts call it
    "clear and ringing", where the bell is "full and loud".
-2. **Short ring, quick speech.** It lacks the bell's long tail: **the sound arrives and leaves quickly**, which is
+2. Short ring, quick speech. It lacks the bell's long tail: the sound arrives and leaves quickly, which is
    why it marks rhythm more clearly.
-3. **It is not masked.** The bell is louder and rings longer, but a chime **carries** — in ensemble each takes a
-   layer: **the bell gives thickness, the chime draws the outline.**
-4. **You hear it in slabs.** A set is a graded row of stones: **higher pitch, smaller slab.**
+3. It is not masked. The bell is louder and rings longer, but a chime carries — in ensemble each takes a
+   layer: the bell gives thickness, the chime draws the outline.
+4. You hear it in slabs. A set is a graded row of stones: higher pitch, smaller slab.
 
 ```audiolab
 {"type":"instrument","gm":"Glockenspiel","synth":"metal","phrase":["C4","D4","E4","G4","A4","C5"],"label":"编磬的常用区：C4 到 C5","label_en":"The bianqing's working register — C4 up to C5","hint":"注意那种薄而空、余韵很短的石头感 —— 通用音色表里没有编磬，这里借钟琴（金属条受击）近似","hint_en":"Notice the thin, hollow, short-ringing stone sound. General MIDI has no bianqing, so a glockenspiel stands in."}
@@ -420,15 +398,15 @@ Four cues:
 
 ## Playing techniques
 
-- **Kneeling to strike.** The record for the Zeng Hou Yi set is **one player holding a mallet in both hands,
-  kneeling** — unlike the bells, which take a team; **a set of chimes is far smaller.**
-- **Strike the longer arm (gu).** The longer arm is the main striking area, the shorter one (gu, a different
+- Kneeling to strike. The record for the Zeng Hou Yi set is **one player holding a mallet in both hands,
+  kneeling — unlike the bells, which take a team; a set of chimes is far smaller.**
+- Strike the longer arm (gu). The longer arm is the main striking area, the shorter one (gu, a different
   character) the other.
-- **Several strokes.** Single, double, rolled, scraped and shaken — even though it is a pitched instrument, **its
+- Several strokes. Single, double, rolled, scraped and shaken — even though it is a pitched instrument, **its
   technique is not just "one hit".**
-- **Usually with the bells.** A set can play melody alone, but **metal and stone sounding together** is its formal
+- Usually with the bells. A set can play melody alone, but metal and stone sounding together is its formal
   place in ritual music.
-- **Pitch cannot be changed live.** As with the bells: **it plays only the notes already ground into it.**
+- Pitch cannot be changed live. As with the bells: it plays only the notes already ground into it.
 
 ## The family
 
@@ -441,8 +419,8 @@ Four cues:
 | [[instrument:sheng\|Sheng]] | free reed | the reed | yes (at assembly) | gourd |
 | [[instrument:xun\|Xun]] | air in a cavity | holes | yes (live) | earth |
 
-**Metal and stone are the only two "hard material" categories in the bayin** — and they share one property: **the
-pitch must be built into the material by craft, before any performance.** Their difference is equally plain: **one
+Metal and stone are the only two "hard material" categories in the bayin — and they share one property: **the
+pitch must be built into the material by craft, before any performance. Their difference is equally plain: one
 can be redone, the other cannot.**
 
 ## History
@@ -458,29 +436,29 @@ can be redone, the other cannot.**
 | 20th c. | only **9 of the 32 slabs were intact** when excavated; a replica was made in 1980 by the Hubei Provincial Museum and the Wuhan Institute of Physics |
 | today | originals and replicas serve research and performance; the bianqing is also a regular instrument of the modern Chinese orchestra |
 
-**Its fate forms the sharpest contrast in this batch with the [[instrument:bianzhong|bianzhong]]**: **one tomb, one
+**Its fate forms the sharpest contrast in this batch with the [[instrument:bianzhong|bianzhong]]: one tomb, one
 era, one ritual system — one set came through almost untouched, the other left nine pieces.**
 **The bayin sorts by material; and material, in the end, decides who is still sounding two thousand years later.**
 
 ## Common misconceptions
 
-- **"A chime and a bell are much the same."** Different material (**stone vs bronze**), different craft (**grinding
-  vs casting**), different consequences (**irreversible vs recastable**) and different colour (**thin and clear vs
+- "A chime and a bell are much the same." Different material (stone vs bronze), different craft (**grinding
+  vs casting), different consequences (irreversible vs recastable) and different colour (thin and clear vs
   thick and full**).
-- **"You cannot make stone sound in tune."** The Zeng Hou Yi bianqing covers **three octaves, all twelve semitones,
-  with key changes** — the same class as the bells. **Difficult is not the same as inaccurate.**
-- **"A chime's pitch can be adjusted while playing."** **Not at all** — it is **ground in advance**, and like the
-  bells it belongs to the instruments that **hand the pitch away**.
-- **"A chime is just a companion to the bells."** It **plays melody on its own**; and in ensemble it does precisely
-  what the bell cannot: **draw the contour clearly.**
-- **"Bianqing and teqing are the same."** The **teqing** is a single large chime (for sacrifice); the **bianqing** is
+- "You cannot make stone sound in tune." The Zeng Hou Yi bianqing covers **three octaves, all twelve semitones,
+  with key changes — the same class as the bells. Difficult is not the same as inaccurate.**
+- "A chime's pitch can be adjusted while playing." Not at all — it is ground in advance, and like the
+  bells it belongs to the instruments that hand the pitch away.
+- "A chime is just a companion to the bells." It plays melody on its own; and in ensemble it does precisely
+  what the bell cannot: draw the contour clearly.
+- "Bianqing and teqing are the same." The teqing is a single large chime (for sacrifice); the bianqing is
   a set (for court music) — two classes by venue and arrangement.
-- **"Stone in the bayin is just a material label."** It is only a material label — **but here it decides three
-  things**: the craft (grinding only), the colour (thin and hollow), and **whether the object survives time.**
+- "Stone in the bayin is just a material label." It is only a material label — **but here it decides three
+  things: the craft (grinding only), the colour (thin and hollow), and whether the object survives time.**
 
 ## Next
 
-**All eight bayin categories are now complete.**
+All eight bayin categories are now complete.
 
 | Bayin | Covered in the text by |
 |---|---|
@@ -493,7 +471,7 @@ era, one ritual system — one set came through almost untouched, the other left
 | **gourd** | [[instrument:sheng\|Sheng]] |
 | **bamboo** | [[instrument:dizi\|Dizi]] |
 
-From here the batch expands by **how the instrument is played** — **wind → plucked → bowed → struck** — filling in
+From here the batch expands by how the instrument is played — wind → plucked → bowed → struck — filling in
 the more specialised members of each group (xiao, suona, zheng, ruan, banhu, yunluo …). And the eight threads already
 established will carry into every new instrument — **the newest of them being the one the bianqing just supplied:
 with one goal in view, the material decides which road you may take, and whether you can turn back.**

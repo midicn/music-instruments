@@ -18,44 +18,35 @@ links:
   - "[[instrument:zheng]]"
   - "[[instrument:pipa]]"
 instances:
-  - chinafolk-008022 | 《我跟贤妹同过桥》 —— ⭐ 「**过桥**」：独弦琴最常被听到的曲子之一，是京族民歌《**过桥风吹**》—— 这条民歌的题名里，也有一座桥（**C3 · 仅限学习研究**；库内无京族 / 独弦琴录音，故取民歌作参照）
-  - chinafolk-002555 | 《渔民号子（一）》 —— ⭐ 「**渔民**」：**京族是中国唯一的海洋民族**，而独弦琴的根就在海边 —— 号子是海上的劳动歌（**C3 · 仅限学习研究**）
-  - chinafolk-003791 | 《丹江下水摇橹号子》 —— ⭐ 「**摇**」：独弦琴靠**摇杆**取音，号子靠**摇橹**行船 —— 两种"摇"：一个摇出船的路，一个摇出音的路（**C3 · 仅限学习研究**）
+  - chinafolk-008022 | 《我跟贤妹同过桥》 —— 「过桥」：独弦琴最常被听到的曲子之一，是京族民歌《过桥风吹》—— 这条民歌的题名里，也有一座桥（仅限学习研究；库内无京族 / 独弦琴录音，故取民歌作参照）
+  - chinafolk-002555 | 《渔民号子（一）》 —— 「渔民」：京族是中国唯一的海洋民族，而独弦琴的根就在海边 —— 号子是海上的劳动歌（仅限学习研究）
+  - chinafolk-003791 | 《丹江下水摇橹号子》 —— 「摇」：独弦琴靠摇杆取音，号子靠摇橹行船 —— 两种"摇"：一个摇出船的路，一个摇出音的路（仅限学习研究）
 sources:
-  - ⭐⭐ **结构与机理**：「独弦琴**长约 1 米**，主要由琴体 · **摇杆** · 弦轴 · 琴弦 · **共鸣葫芦**以及**挑棒（拨片）**构成，**两端呈马蹄形落地支撑，琴身中间悬空**放大共振效果。它仅凭一根琴弦 · 一根摇杆，就能演奏出 **6 个音区 · 3 个八度**」；「演奏时**右手持竹签拨弦，左手推拉摇杆控制音高**，通过**泛音技法**呈现复合音响效果」；「传统形制有效弦长约 **90 厘米**，定弦多采用 **A 至 C** 音域」（另有记音域 **c—c³**）依报刊与辞书资料
-  - ⭐⭐ **《新唐书》记载（历史）**：「早在《新唐书》中就有记载：『**独弦匏琴，以斑竹为之，不加饰，刻木为虺首，张弦无轸，以弦系顶；复以半匏，皆彩画之，加上铜瓯，以作为琴，长三尺余**。』彼时的独弦琴琴身以**整段斑竹掏空**制成，取**半个葫芦（匏）**作为天然共鸣器，仅一根**竹篾**为弦，琴头雕刻**蛇形纹饰**，形制古朴简约」；「唐贞元十八年（802 年），南亚**骠国**（今缅甸）向唐王朝进献歌舞，其中就有独弦琴」（此说与中国起源说并存）依古籍与报刊资料
-  - ⭐⭐ **"从宫廷到海边"（命运）**：非遗传承人赵霞的说法：「独弦琴前身**独弦匏琴曾是中国古代宫廷中流传的乐器之一**。到唐代，其因**一弦 · 无品 · 多音**，落入了**难学 · 易忘 · 声音小 · 不中听**之境地，致使师者越来越稀 · 学者越来越少，慢慢被**宫廷乐队所罢弃**，自此**流落民间**。因其音量细小，也逐渐被**排除出文坛戏班之外**，最终**来到了万里之外的南方滨海之地**」依报刊资料
-  - ⭐ **起源诸说**：「关于独弦琴的起源……在中国有三种起源说：① 起源于中国的**一弦琴**；② 起源于**独弦匏琴**；③ 由一弦琴和独弦匏琴发展而来；还有一种是**起源于越南**」；「现有研究更多支持中国起源论」；另有「双向传播说」；「殷商时期已有雏形」（一说）依辞书与报刊资料
-  - ⭐⭐ **族属与流行**：「独弦琴……**主要流传于广西防城港京族三岛（巫头 · 万尾 · 山心）**，是**我国唯一海洋民族京族**最鲜明的文化标识之一」；京语称「**旦匏**」（或旦莫衣埃）；「主要流行于广西防城港 · 钦州以及北京的京族聚居地区」依报刊与辞书资料
-  - ⭐ **材料与改良**：早期「截取长约百厘米 · 直径 12 至 16 厘米的粗壮**毛竹筒**，劈去小半，所余大半边竹筒作为琴身；以**薄竹篾作弦**，**竹片或牛角片**弯制成摇杆，杆身穿缀**半截葫芦**以加大共鸣」；短板：「竹筒共鸣效果微弱 · 音量偏小 · 仅适合近距离室内弹拨；且竹制琴体**极易受潮湿海风侵蚀断裂**」；现代革新：「原始竹篾 · 麻绳琴弦替换为**钢丝弦**」·「琴面增设**泛音点位刻度**，降低入门学习门槛」·「加装**内置拾音器与扩音接口**，解决传统乐器音量微弱 · 难以适配大型舞台的短板」· 便携款「尺寸缩减六成」；木制琴由「**桐木面板 · 松木底板与红木框板**胶合成长方形匣状」；「虽然几经变迁，独弦琴**始终保留着『一弦一摇杆』的核心设计**」依报刊与辞书资料
-  - ⭐ **非遗与曲目**：「**2011 年 5 月 23 日被列入第三批国家级非物质文化遗产名录，项目编号 Ⅱ-154**」；代表性传承人**苏春发**（2007 年认定为国家级传承人）· 赵霞（东兴京族博物馆馆长）；「2013 年，独弦琴开始有了**考级机制，最高为十级**」；代表曲目：《**高山流水**》《**渔家四季歌**》《**拜月**》《**静静的海**》《**过桥风吹**》《**问明月**》依非遗与辞书资料
+  - **结构与机理**：「独弦琴**长约 1 米**，主要由琴体 · **摇杆** · 弦轴 · 琴弦 · **共鸣葫芦**以及**挑棒（拨片）**构成，**两端呈马蹄形落地支撑，琴身中间悬空**放大共振效果。它仅凭一根琴弦 · 一根摇杆，就能演奏出 **6 个音区 · 3 个八度**」；「演奏时**右手持竹签拨弦，左手推拉摇杆控制音高**，通过**泛音技法**呈现复合音响效果」；「传统形制有效弦长约 **90 厘米**，定弦多采用 **A 至 C** 音域」（另有记音域 **c—c³**）依报刊与辞书资料
+  - **《新唐书》记载（历史）**：「早在《新唐书》中就有记载：『**独弦匏琴，以斑竹为之，不加饰，刻木为虺首，张弦无轸，以弦系顶；复以半匏，皆彩画之，加上铜瓯，以作为琴，长三尺余**。』彼时的独弦琴琴身以**整段斑竹掏空**制成，取**半个葫芦（匏）**作为天然共鸣器，仅一根**竹篾**为弦，琴头雕刻**蛇形纹饰**，形制古朴简约」；「唐贞元十八年（802 年），南亚**骠国**（今缅甸）向唐王朝进献歌舞，其中就有独弦琴」（此说与中国起源说并存）依古籍与报刊资料
+  - **"从宫廷到海边"（命运）**：非遗传承人赵霞的说法：「独弦琴前身**独弦匏琴曾是中国古代宫廷中流传的乐器之一**。到唐代，其因**一弦 · 无品 · 多音**，落入了**难学 · 易忘 · 声音小 · 不中听**之境地，致使师者越来越稀 · 学者越来越少，慢慢被**宫廷乐队所罢弃**，自此**流落民间**。因其音量细小，也逐渐被**排除出文坛戏班之外**，最终**来到了万里之外的南方滨海之地**」依报刊资料
+  - **起源诸说**：「关于独弦琴的起源……在中国有三种起源说：① 起源于中国的**一弦琴**；② 起源于**独弦匏琴**；③ 由一弦琴和独弦匏琴发展而来；还有一种是**起源于越南**」；「现有研究更多支持中国起源论」；另有「双向传播说」；「殷商时期已有雏形」（一说）依辞书与报刊资料
+  - **族属与流行**：「独弦琴……**主要流传于广西防城港京族三岛（巫头 · 万尾 · 山心）**，是**我国唯一海洋民族京族**最鲜明的文化标识之一」；京语称「**旦匏**」（或旦莫衣埃）；「主要流行于广西防城港 · 钦州以及北京的京族聚居地区」依报刊与辞书资料
+  - **材料与改良**：早期「截取长约百厘米 · 直径 12 至 16 厘米的粗壮**毛竹筒**，劈去小半，所余大半边竹筒作为琴身；以**薄竹篾作弦**，**竹片或牛角片**弯制成摇杆，杆身穿缀**半截葫芦**以加大共鸣」；短板：「竹筒共鸣效果微弱 · 音量偏小 · 仅适合近距离室内弹拨；且竹制琴体**极易受潮湿海风侵蚀断裂**」；现代革新：「原始竹篾 · 麻绳琴弦替换为**钢丝弦**」·「琴面增设**泛音点位刻度**，降低入门学习门槛」·「加装**内置拾音器与扩音接口**，解决传统乐器音量微弱 · 难以适配大型舞台的短板」· 便携款「尺寸缩减六成」；木制琴由「**桐木面板 · 松木底板与红木框板**胶合成长方形匣状」；「虽然几经变迁，独弦琴**始终保留着『一弦一摇杆』的核心设计**」依报刊与辞书资料
+  - **非遗与曲目**：「**2011 年 5 月 23 日被列入第三批国家级非物质文化遗产名录，项目编号 Ⅱ-154**」；代表性传承人**苏春发**（2007 年认定为国家级传承人）· 赵霞（东兴京族博物馆馆长）；「2013 年，独弦琴开始有了**考级机制，最高为十级**」；代表曲目：《**高山流水**》《**渔家四季歌**》《**拜月**》《**静静的海**》《**过桥风吹**》《**问明月**》依非遗与辞书资料
   - 「独弦琴在民族乐队中往往作为**色彩性乐器**使用；音色柔和优美，高音清晰 · 中音明亮 · 低音丰满，宜于表现悠长抒情的旋律」依辞书资料
 updated: 2026-09-27
 ---
 
 ::: zh
-**只有一根弦，怎么唱出一支歌？**
-
-别的弦乐器靠**按弦的位置**分出音高 —— 按在哪里，就响哪个音（有品、有指板，像一张音位地图）。
-独弦琴没有品、没有指板：它靠**摇杆**。
-
-> ⚠️ 左手推拉摇杆 —— **弦被拉紧，音就升；放松，音就降** ——
-> 配合右手的挑棒与**泛音技法**，
-> 「仅凭一根琴弦 · 一根摇杆，就能演奏出 **6 个音区 · 3 个八度**」。
->
-> ⭐⭐ **本批第 ㊹ 条：【把"调音"弹成"演奏" —— 一根弦上的张力就是音高】**
-> 本站写过[[instrument:bianzhong|编钟]]的**调音三动作**（㉕）：**改张力 · 改几何 · 改质量**。
-> 别人的乐器，这三件事是**上台前做的**；
-> **而独弦琴把"改张力"这一件，直接做成了演奏本身。**
+一根弦怎么唱出一支歌？别的弦乐器靠按弦的位置分音高：按在哪里，就响哪个音，有品有指板，像一张音位地图。独弦琴没有品，也没有指板。它有的是**摇杆**。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **弦鸣**（Chordophone）· **拨弦**（挑棒拨奏）· **有固定音高**（连续可变） |
-| **次级类型** | **一根弦 ＋ 一根摇杆** · 竹制（毛竹筒琴身 ＋ **葫芦共鸣筒**）或木制（桐木面板 · 松木底板 · 红木框板 · 长方形匣状）· **两端马蹄形落地 · 琴身中间悬空** · 右手挑棒拨弦 · 左手推拉摇杆 |
-| **所属族** | 中国 · 弹拨（**京族**：广西防城港京族三岛 —— 巫头 · 万尾 · 山心；京语称「旦匏」） |
-| **八音** | **丝** —— 一弦之器（早期弦为竹篾 · 琴身为竹筒，然弦鸣之器归**丝**） |
+| HS 分类 | **弦鸣** · 拨弦 · 有固定音高（连续可变） |
+| 形制 | 一根弦加一根摇杆 · 竹制（毛竹筒加葫芦共鸣筒）或木制 · 两端马蹄形落地 · 琴身中间悬空 |
+| 八音 | 丝 |
 
-## 一根弦上的一条音阶：摇杆即音高
+## 一根弦上的一条音阶
+
+右手持挑棒拨弦，左手推拉摇杆。弦被拉紧，音就升；放松，音就降——音高不是一格一格跳过去的，是滑过去的。有效弦长约九十厘米，定弦在 A 到 C 一带。资料记它凭一根弦、一根摇杆能奏出六个音区、三个八度。
+
+右手不只拨弦，还挑泛音，所以一声里有两层：底音，和它上方清亮的那层。琴身两端马蹄形落地、中间悬空，为的是放大共振。
 
 ```svg
 <svg viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="独弦琴的结构：琴体两端马蹄形落地、中间悬空，一根弦穿过，左手推拉摇杆改变张力从而改变音高，右手持挑棒拨弦">
@@ -89,17 +80,13 @@ updated: 2026-09-27
 </svg>
 ```
 
-⭐ 三处要点：
-
-1. **一根弦，两个动作。** 右手**拨**（挑棒），左手**摇**（摇杆）——
-   **音高在左手里，音色在右手里。**
-2. **葫芦还是那个葫芦。** 早期形制「杆身穿缀**半截葫芦**以加大共鸣」——
-   它的名字「独弦**匏**琴」里那个"匏"，就是这只葫芦（本站的[[instrument:sheng|匏类家族]]又添一位远亲）。
-3. ⭐ **它天生"小声"。** 竹筒共鸣弱、「仅适合近距离室内弹拨」，
-   而且竹制琴体「**极易受潮湿海风侵蚀断裂**」—— 这条短板后来逼出了它的**三次改良**：
-   竹篾弦→**钢丝弦** · 加**泛音点位刻度**（降低入门门槛）· 加**拾音器与扩音接口**（适配大舞台）。
-
 ## 从宫廷到海边
+
+它最早是在宫里，前身叫独弦匏琴，唐代还在宫廷乐队里；后来被罢弃，理由写得很具体：一弦、无品、多音，于是难学、易忘、声音小、不中听。乐师越来越少。
+
+民间也待不住。音量细小，戏班把它排除在外，最后它到了万里之外的南方滨海，在京族三岛落下脚。京族是中国唯一的海洋民族，聚居在防城港的巫头、万尾、山心。
+
+同一批乐器里有三种下落：管子主动下沉到民间，活了下来；篪留在宫里，制度一停就断了；独弦琴是被逐出去的，却在海边活到了今天。
 
 ```svg
 <svg viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="独弦琴的下落：从中国古代宫廷，因一弦无品多音、声音小而被罢弃，流落民间，又被排除出戏班，最终到达南方滨海之地">
@@ -125,130 +112,46 @@ updated: 2026-09-27
     <text x="530" y="336" text-anchor="middle">京族三岛 · 一弦一摇杆活到今天</text>
   </g>
   <text x="20" y="352" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">⚠️ 此叙述出自非遗传承人（赵霞）的口径；起源另有"一弦琴说""越南说""双向传播说"等并存。</text>
-  <text x="20" y="374" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">⭐ 与 ㊳「三种命运」对照：管子是"主动下沉"，篪是"留在宫里"，而独弦琴是"被逐出去"的。</text>
+  <text x="20" y="374" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">与 ㊳「三种命运」对照：管子是"主动下沉"，篪是"留在宫里"，而独弦琴是"被逐出去"的。</text>
 </svg>
 ```
 
-⭐ 这是本批最完整的一份"**乐器下落**"记录，理由与去处都写得清清楚楚：
-
-| 步 | 发生了什么 | 为什么 |
-|---|---|---|
-| 一 | 曾在**中国古代宫廷**流传（前身「独弦匏琴」） | —— |
-| 二 | **唐代被宫廷乐队罢弃、流落民间** | ⭐「因**一弦 · 无品 · 多音**，落入了**难学 · 易忘 · 声音小 · 不中听**之境地」 |
-| 三 | 从民间**再被排除出戏班** | 「因其**音量细小**」 |
-| 四 | 「最终**来到了万里之外的南方滨海之地**」 | 成为**京族**的文化标识 |
-
-⭐ 把它放进本批的"命运谱系"里看，就更清楚了：
-
-- [[instrument:guanzi|管子]]：从宫廷**主动下沉**民间 → 活；
-- [[instrument:chi|篪]]：**留在宫里** → 制度一停就断；
-- **独弦琴**：**被逐出去** —— 而它在海边活了下来，**2011 年进了国家级非遗名录**。
-  **三种命运，都是"进"与"出"的历史。**
-
-## 《新唐书》里的它
-
-它最早的样子，写在唐代的正史里：
-
-> **「独弦匏琴，以斑竹为之，不加饰，刻木为虺首，张弦无轸，以弦系顶；
-> 复以半匏，皆彩画之，加上铜瓯，以作为琴，长三尺余。」**
-
-拆开看，那时的它已经和今天同一套逻辑：
-
-- **斑竹掏空**做琴身（今天用毛竹 / 木匣）；
-- **半匏**（半个葫芦）做共鸣器（今天仍叫"共鸣葫芦"）；
-- **竹篾**为弦（今天换成了钢丝）；
-- 琴头刻**蛇形**纹饰，「张弦无轸」—— **没有品位，也没有指板。**
-
-⚠️ 起源说法不一：「一弦琴说」「独弦匏琴说」「两者发展说」「越南说」并存，
-另有"双向传播说"（从中国传出、经当地发展后又传回）；
-还有一条并列的记载：「唐贞元十八年（802 年），南亚**骠国**（今缅甸）向唐王朝进献歌舞，其中就有独弦琴」。
-**本条按来源口径并列诸说。**
-
-## 音域
-
 ```range
-{"range":"C4–C6","caption":"独弦琴的音域（以通行记载示意）","caption_en":"Duxianqin range — after the common accounts","note":"独弦琴属拨弦弦鸣乐器（一弦 · 摇杆取音）。传统形制有效弦长约 90 厘米，定弦多采用 A 至 C 音域；另有记其音域为 c—c³（约两个八度）。现代改良后（钢丝弦 · 泛音点位刻度 · 拾音器），资料称其可演奏「6 个音区 · 3 个八度」。因音高由摇杆连续改变，本页以 C4–C6 示意其常用音区，不代表全部。记谱即实音。"}
+{"range":"C4–C6","caption":"独弦琴的音域（以通行记载示意）","caption_en":"Duxianqin range — after the common accounts","note":"独弦琴属拨弦弦鸣乐器（一弦 · 摇杆取音）。传统形制有效弦长约 90 厘米，定弦多采用 A 至 C 音域；另有记其音域为 c—c³（约两个八度）。现代改良后（钢丝弦 · 泛音点位刻度 · 拾音器），资料称其可演奏「6 个音区 · 3 个八度」。因音高由摇杆连续改变，这一条以 C4–C6 示意其常用音区，不代表全部。记谱即实音。"}
 ```
 
-## 常见误解
+## 《新唐书》里的样子
 
-- **"一根弦只能发一个音。"** ⚠️ 它靠**摇杆改变张力**（加上泛音取音），
-  能在一个弦上走完**一条音阶** —— 资料记「6 个音区 · 3 个八度」。
-- **"它是京族自古就有的乐器。"** ⚠️ 更完整的说法是：它**来自中原宫廷**（前身「独弦匏琴」），
-  唐代被罢弃、流落民间，最后**到了南方滨海**，成为京族的标识；
-  民间至今还说"它来自万里之外"。
-- **"它一定很小声，上不了台。"** ⚠️ 天生是小声（竹筒共鸣弱），
-  但 20 世纪 50 年代以来经过**钢丝弦 · 拾音器 · 泛音刻度**等改良，
-  已经能站上大舞台 —— **而"一弦一摇杆"这个核心设计，一点没改。**
-- **"弹拨乐器都靠左手按弦。"** ⚠️ 它**没有品**：左手不按音，
-  而是**"推拉"** —— 音高是连续滑过去的，不是一格一格跳的。
-- **"它只是民族乐队的配角。"** ⚠️ 它同时是**独奏乐器**：
-  《高山流水》《渔家四季歌》《拜月》《过桥风吹》都是它的代表曲目；
-  2013 年起还建立了**考级机制（最高十级）**。
+它最早的样子记在唐代正史里：斑竹做琴身，半匏做共鸣，竹篾为弦，琴头刻蛇形纹，张弦无轸——没有品，也没有指板。
 
-## 音色与听辨
+今天的琴身换成毛竹筒或木匣，弦换成钢丝，那只葫芦还在，还叫共鸣葫芦。起源说法不一：有说来自中国的一弦琴，有说来自独弦匏琴，有说由两者发展而来，也有说起源于越南。
+
+## 小声的琴怎么上台
+
+它天生小声：竹筒共鸣弱，只适合室内弹；竹制琴体在潮湿海风里容易断裂。三处改良由此而来——竹篾弦换钢丝弦，琴面加泛音点位刻度，加装拾音器与扩音接口。便携款尺寸缩了六成，一弦一摇杆的核心设计没改。
+
+2011 年，它进入第三批国家级非物质文化遗产名录；2013 年起有考级，最高十级。它不只是乐队里的色彩乐器，《高山流水》《渔家四季歌》《拜月》都是它的独奏曲目。
 
 ```audiolab
 {"type":"instrument","gm":"Sitar","synth":"plucked","phrase":["C4","D4","E4","G4","A4","C5"],"label":"一根弦上的滑动：C4 到 C5（借西塔琴近似）","label_en":"A slide along one string — C4 to C5 (sitar standing in)","hint":"独弦琴靠摇杆把音「滑」出来，音与音之间是连的 —— 通用音色表里没有它，这里借同属「弦上有滑音传统」的「Sitar」近似；真实独弦琴更柔、更「远」","hint_en":"Its notes are slid, not stepped — General MIDI has no duxianqin, so the sitar (another string with a sliding tradition) stands in; the real one is softer and farther away."}
 ```
 
-三条线索：
-
-1. **听"滑"。** 它的音与音之间没有格子 —— **旋律像一条不断的线**，
-   这是"摇杆取音"的必然结果。
-2. **听"泛音"。** 右手的挑棒不只拨弦，还挑出**泛音** ——
-   **一声里有两层：底音与它上方清亮的那层。**
-3. **听"海"。** 传承人用"清润绵长"形容它；而在海边，
-   它的长音常被用来写**海潮起伏**。**一件被宫廷逐出的乐器，最后学会了写海。**
-
-## 家族与近亲
-
-| 乐器 | 取音方式 | 关系 |
-|---|---|---|
-| **独弦琴** | **摇杆改张力** | 本页；无品 · 一弦 · 连续滑音 |
-| **越南 đàn bầu**（独弦琴） | 摇杆改张力 | ⭐ 同族近亲（它也是京族的祖居地乐器）；⚠️ 与本琴的传播方向两说并存 |
-| [[instrument:guqin\|古琴]] | 按弦取音 | 对照：**十三徽**给的是"点"，独弦琴给的是"线" |
-| [[instrument:zheng\|筝]] | 按/柱取音 | 对照：柱可移动，但仍是一弦一音的"格" |
-| [[instrument:pipa\|琵琶]] | 品位取音 | 对照：它的滑音靠指推，独弦琴的滑音靠**摇杆** |
-| [[instrument:yu\|竽]] · [[instrument:sheng\|笙]] | 气振簧 | ⭐ 名字里的「**匏**」把它们连起来：**葫芦既是笙斗，也是独弦琴的共鸣筒** |
-
-⭐ 最后一行值得记住：**"匏"这个字在本批出现了三次**（[[instrument:sheng|笙]] · [[instrument:yu|竽]] · 葫芦丝），
-而独弦琴的古名「独弦**匏**琴」提醒我们：**葫芦在中国乐器里，一直是个"共鸣箱"。**
-
-## 下一步
-
-弹拨段继续 —— 下一件来自**新疆**，是维吾尔族最常用的弹拨乐器之一。
-
-它有一层**蟒皮**面（像[[instrument:sanxian|三弦]] · [[instrument:erhu|二胡]]那样），
-而且在不同的绿洲里长出了**不同的样子**。
-
-**[[instrument:rewapu|热瓦甫]]**。
 :::
 
 ::: en
-**How does a single string sing a whole song?**
-
-Other string instruments divide pitch by **where you stop the string** — press here, sound there (frets and a
-fingerboard make a map of pitches). The duxianqin has no frets and no fingerboard: it has a **rod**.
-
-> ⚠️ Push or pull the rod — **tension up, pitch up; tension down, pitch down** —
-> together with the plectrum and **overtone technique**,
-> "with one string and one rod it can play **six registers, three octaves**."
->
-> ⭐⭐ **Rule ㊹: tuning itself becomes the playing — on one string, tension **is** pitch.**
-> This site described the [[instrument:bianzhong|bells]]' **three tuning actions** (rule ㉕):
-> **change tension · change geometry · change mass.**
-> On other instruments those are done **before the concert**;
-> **the duxianqin turned "change the tension" into the performance itself.**
+How does a single string sing a whole song? Other string instruments divide pitch by where you stop the string, with frets and a fingerboard as a map. The duxianqin has neither. It has a **rod**.
 
 | Classification | Value |
 |---|---|
-| **HS class** | **chordophone** · **plucked** (with a plectrum) · **definite pitch** (continuously variable) |
-| **Sub-type** | **one string ＋ one rod** · bamboo (bamboo-tube body ＋ **gourd resonator**) or wood (paulownia soundboard, pine back, rosewood frame) · **horse-hoof feet, body suspended** · right hand plucks, left hand pushes the rod |
-| **Family** | Chinese · plucked (**Jing people**: the three Jing islands of Dongxing, Guangxi — Wutou, Wanwei, Shanxin; in Jing, "dan pao") |
-| **Bayin** | **bamboo (竹)** — early forms: bamboo body, bamboo-string strip, bamboo rod |
+| HS class | **Chordophone** · plucked · definite pitch (continuously variable) |
+| Form | one string and one rod · bamboo (tube with a gourd resonator) or wood · horse-hoof feet, body suspended |
+| Bayin | silk |
 
-## One scale on one string: the rod **is** the pitch
+## A scale on one string
+
+The right hand plucks with a small stick; the left pushes and pulls the rod. Tighten the string and the pitch rises, release and it falls — the notes do not step, they glide. The sources credit it with six registers and three octaves from one string and one rod.
+
+The right hand also takes harmonics, so one note carries two layers: a fundamental and a bright ring. The body stands on horse-hoof feet, the middle suspended, to amplify resonance.
 
 ```svg
 <svg viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Structure of the duxianqin: body on horse-hoof feet with the middle suspended, one string across it, the left hand pushing and pulling a rod to change tension and pitch, the right hand plucking with a stick">
@@ -282,19 +185,13 @@ fingerboard make a map of pitches). The duxianqin has no frets and no fingerboar
 </svg>
 ```
 
-⭐ Three points:
+## From the palace to the coast
 
-1. **One string, two actions.** The right hand **plucks**; the left hand **pushes the rod** —
-   **pitch in the left hand, colour in the right.**
-2. **The gourd is still a gourd.** Early forms had "**half a gourd threaded on the rod**" for resonance —
-   the "pao (匏)" in its old name **duxian pao qin** is that gourd (a distant cousin in this site's
-   [[instrument:sheng|gourd family]]).
-3. ⭐ **It is born quiet.** Weak bamboo resonance, "suitable only for close, indoor playing," and a bamboo
-   body that "**splits easily in damp sea air**" — shortcomings that forced three fixes:
-   bamboo-string to **steel** · **overtone position markers** (easier to learn) · **pickup and output**
-   (fit for large stages).
+It began in the court. Its predecessor, the one-string gourd zither, was still in the Tang court band; then it was dismissed, and the reasons were recorded: one string, no frets, many notes, therefore hard to learn, easy to forget, quiet and unpleasing. Teachers grew scarce.
 
-## From the palace to the seaside
+Its volume was too small, the opera troupes shut it out, and it ended up on the southern coast, on the Jing islands in Guangxi, home of China's only maritime people;
+
+Three fates in one batch: the guanzi sank into folk bands and survived; the chi stayed in the palace and died with it; the duxianqin was expelled, and survived by the sea.
 
 ```svg
 <svg viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The duxianqin's descent: from the Chinese court, dismissed for being one-stringed fretless and too quiet, into folk hands, excluded from troupes, and finally arriving at the southern coast">
@@ -320,103 +217,27 @@ fingerboard make a map of pitches). The duxianqin has no frets and no fingerboar
     <text x="530" y="336" text-anchor="middle">Jing islands — still one string, one rod</text>
   </g>
   <text x="20" y="352" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">⚠️ This account comes from the heritage-bearer Zhao Xia; other origins (one-string zither, Vietnamese) coexist.</text>
-  <text x="20" y="374" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">⭐ Compare rule ㊳: the guanzi sank by choice, the chi stayed in the palace — the duxianqin was expelled.</text>
+  <text x="20" y="374" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Compare rule ㊳: the guanzi sank by choice, the chi stayed in the palace — the duxianqin was expelled.</text>
 </svg>
 ```
 
-⭐ This is the batch's most complete record of an instrument's **descent**, with reasons and destinations
-spelled out:
-
-| Step | What happened | Why |
-|---|---|---|
-| 1 | once played **in the Chinese court** (as the "one-string gourd zither") | — |
-| 2 | **dismissed by the court band in the Tang** | ⭐ "being **one-stringed, fretless, multi-note**," it fell into "**hard to learn, easy to forget, quiet, unpleasing**" |
-| 3 | then **excluded from opera troupes** | "because of its **small volume**" |
-| 4 | "finally **came to the southern coast, ten thousand li away**" | becoming a badge of the **Jing people** |
-
-⭐ Set it beside the batch's other fates:
-
-- the [[instrument:guanzi|guanzi]] **chose** to sink into folk bands → survives;
-- the [[instrument:chi|chi]] **stayed** in the palace → died with the institution;
-- the **duxianqin** was **expelled** — and survived by the sea, entering the **national intangible-heritage
-  list in 2011**.
-
-## The one in the **New Book of Tang**
-
-Its earliest form stands in a Tang dynasty history:
-
-> **"The one-string gourd zither: made of mottled bamboo, undecorated; the head carved as a viper; the
-> string fastened without pegs, tied at the top; half a gourd, painted, with a bronze bowl, forms the body;
-> over three chi long."**
-
-Every element is already the logic of today: **hollowed mottled bamboo** (now bamboo tube or wooden box),
-**half a gourd** as resonator (still called the "gourd resonator"), a **bamboo strip** for a string (now
-steel), a **viper head** carved at the top — and "fastened without pegs": **no frets, no fingerboard.**
-
-⚠️ Origins differ: a "one-string zither" account, a "one-string gourd zither" account, a combined account, a
-Vietnamese account — plus a "two-way transmission" account; and a parallel record that in **802 CE** the
-Pyu kingdom (modern Myanmar) sent musicians to the Tang court, "among them the duxianqin." **This page sets
-the accounts side by side.**
-
-## Range
-
 ```range
-{"range":"C4–C6","caption":"独弦琴的音域（以通行记载示意）","caption_en":"Duxianqin range — after the common accounts","note":"独弦琴属拨弦弦鸣乐器（一弦 · 摇杆取音）。传统形制有效弦长约 90 厘米，定弦多采用 A 至 C 音域；另有记其音域为 c—c³（约两个八度）。现代改良后（钢丝弦 · 泛音点位刻度 · 拾音器），资料称其可演奏「6 个音区 · 3 个八度」。因音高由摇杆连续改变，本页以 C4–C6 示意其常用音区，不代表全部。记谱即实音。"}
+{"range":"C4–C6","caption":"独弦琴的音域（以通行记载示意）","caption_en":"Duxianqin range — after the common accounts","note":"独弦琴属拨弦弦鸣乐器（一弦 · 摇杆取音）。传统形制有效弦长约 90 厘米，定弦多采用 A 至 C 音域；另有记其音域为 c—c³（约两个八度）。现代改良后（钢丝弦 · 泛音点位刻度 · 拾音器），资料称其可演奏「6 个音区 · 3 个八度」。因音高由摇杆连续改变，这一条以 C4–C6 示意其常用音区，不代表全部。记谱即实音。"}
 ```
 
-## Common misconceptions
+## The one in the New Book of Tang
 
-- **"One string means one note."** ⚠️ The **rod changes tension** (plus overtone picking): a whole scale on
-  one string — the sources say "six registers, three octaves."
-- **"It has always been a Jing instrument."** ⚠️ More fully: it came **from the Central Plains court**
-  (as the "one-string gourd zither"), was dismissed in the Tang, drifted through folk hands, and
-  **reached the southern coast** — where it became the Jing people's emblem.
-- **"Too quiet to perform."** ⚠️ Born quiet (weak bamboo resonance), but since the 1950s **steel strings,
-  pickups and overtone markers** have made it stage-ready — **while "one string, one rod" never changed.**
-- **"Plucked instruments stop the string with the left hand."** ⚠️ It has **no frets**: the left hand
-  **pushes and pulls** — pitch **glides**, it does not step.
-- **"Just colour in an orchestra."** ⚠️ It is also a **solo** instrument: *High Mountains and Flowing
-  Water*, **Fisherfolk's Four Seasons**, **Worshipping the Moon**, **The Bridge in the Wind** — and since 2013 it
-  has had a **graded examination system up to level ten.**
+Its earliest description stands in the Tang dynastic history: mottled bamboo for the body, half a gourd for the resonator, a bamboo strip for the string, a snake carved at the head, the string fastened without pegs — no frets and no fingerboard.
 
-## Timbre, and how to hear it
+Today the body is a bamboo tube or a wooden box and the string is steel, but the gourd is still there. Origins are disputed: from the Chinese one-string zither, from the one-string gourd zither, from both, or from Vietnam.
+
+## How a quiet instrument reached the stage
+
+It is quiet by nature: a bamboo tube resonates weakly and splits in damp sea air. Three fixes followed — steel instead of bamboo, overtone markers on the soundboard, and a pickup with an output jack. A portable version shrinks it by sixty percent; the one-string, one-rod core has never changed.
+
+In 2011 it entered the national intangible heritage list; since 2013 it has had graded examinations, and High Mountains and Flowing Water is a solo piece for it.
 
 ```audiolab
 {"type":"instrument","gm":"Sitar","synth":"plucked","phrase":["C4","D4","E4","G4","A4","C5"],"label":"一根弦上的滑动：C4 到 C5（借西塔琴近似）","label_en":"A slide along one string — C4 to C5 (sitar standing in)","hint":"独弦琴靠摇杆把音「滑」出来，音与音之间是连的 —— 通用音色表里没有它，这里借同属「弦上有滑音传统」的「Sitar」近似；真实独弦琴更柔、更「远」","hint_en":"Its notes are slid, not stepped — General MIDI has no duxianqin, so the sitar (another string with a sliding tradition) stands in; the real one is softer and farther away."}
 ```
-
-Three cues:
-
-1. **Hear the slide.** There are no steps between its notes — **the melody is one unbroken line**, the
-   inevitable result of playing with a rod.
-2. **Hear the overtones.** The plectrum does not only pluck; it picks **overtones** — **two layers in one
-   sound: a ground tone and a bright one above it.**
-3. **Hear the sea.** Bearers call its tone "clear and drawn-out"; by the coast those long notes often paint
-   **the rise and fall of the tide.** **An instrument expelled from the palace learned, in the end, to
-   write the sea.**
-
-## The family
-
-| Instrument | Pitch taken by | Relation |
-|---|---|---|
-| **Duxianqin** | **rod changes tension** | this page; fretless, one string, continuous glides |
-| **Vietnamese đàn bầu** | rod changes tension | ⭐ its closest relative (also the Jing homeland instrument); the direction of transmission has two accounts |
-| [[instrument:guqin\|Guqin]] | stopping the string | contrast: its thirteen studs give **points**; the rod gives a **line** |
-| [[instrument:zheng\|Zheng]] | bridges/stops | contrast: movable bridges, but still a grid of notes |
-| [[instrument:pipa\|Pipa]] | frets | contrast: its glides come from fingertips; the duxianqin's from a **rod** |
-| [[instrument:yu\|Yu]] · [[instrument:sheng\|Sheng]] | air-driven reeds | ⭐ the gourd in the name ties them: **the gourd is a sheng chest and a zither resonator alike** |
-
-⭐ Worth remembering: **the character "匏 (gourd)" has now appeared three times in this batch**
-([[instrument:sheng|sheng]], [[instrument:yu|yu]], the hulusi) — and the old name "one-string **gourd**
-zither" reminds us: **in Chinese instruments, the gourd has always been a soundbox.**
-
-## Next
-
-The plucked section continues with one from **Xinjiang** — one of the Uyghur people's most-used plucked
-instruments.
-
-It has a **python-skin face** (like the [[instrument:sanxian|sanxian]] and [[instrument:erhu|erhu]]), and it
-grew **different forms in different oases**.
-
-**[[instrument:rewapu|Rawap]]**.
 :::

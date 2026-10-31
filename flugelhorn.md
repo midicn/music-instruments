@@ -34,27 +34,17 @@ updated: 2026-09-26
 ---
 
 ::: zh
-富鲁格号是[[instrument:trumpet|小号]]族里最"柔"的一支：
-它把小号族的两个参数 —— **圆锥度**与**号嘴深度** —— 同时推到了极端。
 
-于是它得到了本族最暗、最柔、最接近[[instrument:french-horn|圆号]]与**人声**的音色。
-它也是"管形与号嘴决定音色"这条规律在铜管里最彻底的例证。
+## 一把更粗的管子
+
+富鲁格号听起来像一支被磨圆了的小号，这不是错觉，是两个尺寸的选择。它和[[instrument:trumpet|小号]]、[[instrument:cornet|短号]]管长一样，指法一样，音域一样，区别只在管身的圆锥度和号嘴的深度。两个参数一起往柔和的方向推，音色就从亮变圆，再变暗。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **气鸣**（Aerophone）· **唇鸣**（lip-vibrated） |
-| **次级类型** | 深杯/漏斗过渡号嘴 · **三活塞阀** · **圆锥度本族最大** · **降 B 调移调乐器** |
-| **所属族** | 西洋 · 铜管（小号族 · 柔音支系） |
-| **八音** | 不适用 —— 周代八音是中国乐器的体系，富鲁格号不在其中 |
-
-> ⚠️ **一个概念上的要点**：到这里可以看清一件事 ——
-> **小号族的"三兄弟"不是三件不同的乐器，而是一条连续谱上的三个采样点。**
-> 三者**管长一样、指法一样、音域一样**，只在两个参数上取值不同：
-> **管身圆锥度**（小 → 大）与**号嘴深度**（浅 → 深）。
-> 两个参数朝同一个方向走，就得到"亮 → 圆 → 柔暗"的三档。
-> **这是全站最干净的一组"控制变量"对照。**
-
-## 两个参数，一条连续谱
+| HS 分类 | 气鸣 · 唇振 |
+| 次级类型 | 深杯号嘴 · 三活塞阀 · 圆锥度本族最大 · 降 B 调移调乐器 |
+| 所属族 | 西洋 · 铜管（小号族 · 柔音支系） |
+| 八音 | 不适用 —— 周代八音是中国乐器的体系，富鲁格号不在其中 |
 
 ```svg
 <svg viewBox="0 0 640 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="以圆锥度和号嘴深度为两轴的铜管分布图：小号、短号、富鲁格号、圆号、长号与大号各自的位置">
@@ -89,18 +79,9 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图把铜管的音色差异整理成了两个可测量的参数**：
+图上把铜管摊成两个轴，小号在左下，富鲁格号偏右上。这个位置不是随手放的：它离[[instrument:french-horn|圆号]]只差一步，却始终没跨过去 —— 号嘴仍是杯形，指法仍是小号的指法。
 
-| 参数 | 影响 | 极端取值 |
-|---|---|---|
-| **管身圆锥度** | 高次泛音能否被激起 | 圆柱（亮）↔ 圆锥（柔暗） |
-| **号嘴深度** | 嘴唇振动的高频成分 | 浅杯（亮）↔ 深杯/漏斗（柔暗） |
-
-于是小号族的定位很清楚：**三兄弟都在"浅到中"与"圆柱到中锥"这一段**，
-而富鲁格号是它们中间**最靠"柔"的那一格**。它没有越过圆号那条线 ——
-**它仍然是"小号的指法与音域"，只是换了一件最柔的外衣。**
-
-## 结构：本族最大的锥度与最深的号嘴
+## 深杯与大锥度
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="富鲁格号的结构：深杯号嘴、锥度更大的管身与略外张的喇叭口">
@@ -133,8 +114,9 @@ updated: 2026-09-26
 </svg>
 ```
 
-要点很短：**同样的管长与活塞，换了一副"更粗的管子 + 更深的杯子"**。
-演奏者拿起它时指法不用改，但**气息要更松、更沉** —— 因为深号嘴需要更慢的气流与更放松的嘴唇。
+管身从号嘴端就开始加粗，这是它和小号最直观的差别。小号的管身接近等径，富鲁格号一路外张，再配一个深杯号嘴，**高次泛音**很难被激起来。
+
+于是指法不用改，气息要重学。深号嘴要更慢、更松的气流，嘴唇不必绷得像吹小号那么紧。用吹小号的方式吹它，声音会紧、会亮，正好丢掉它唯一的优点。
 
 ## 音域
 
@@ -142,107 +124,34 @@ updated: 2026-09-26
 {"range":"E3–B♭5","written":"F♯3–C6","caption":"富鲁格号的记谱音域与实音音域","caption_en":"The flugelhorn: notated range above, sounding range below","note":"⚠️ 降 B 调富鲁格号是移调乐器 —— 记谱比实音高大二度。谱面写 F♯3–C6，实际出声 E3–B♭5 —— 与小号、短号完全相同。三兄弟的差别只在音色。"}
 ```
 
-- **实音 E3–B♭5**，与[[instrument:trumpet|小号]]、[[instrument:cornet|短号]]**完全一致**。
-- **常用区 C4–C6**，但它的甜点其实在**中低音区**（C4–F4）——
-  那里它的柔暗最动人，也是爵士独奏最常停留的地方。
-- **高音区偏费力**。深号嘴让高频更难激起，所以它吹到 C6 以上比小号吃力。
+实音 E3 到 B♭5，与小号、短号完全一致。常用区 C4 到 C6，甜点在 C4 到 F4，爵士独奏大多停在那里。再往上，深号嘴的代价显出来，C6 以上比小号吃力。
 
-## 音色与听辨
+同一个音域，三支乐器弹出三种性格，这件事在铜管里没有第二例。比较它们最省力的办法，是找同一段旋律换着吹。
 
-四条线索：
+## 爵士里的另一副嗓子
 
-1. **柔、暗、圆、厚**。它是小号族里唯一听起来"不像铜管"的一支 ——
-   常被形容为"接近圆号"或"接近人声"。
-2. **起音柔和**。小号的音头是"钉"上去的，富鲁格号的音头更**包**、更圆。
-3. **强奏也不容易刺耳**。同样的力度下它仍然保持圆润 —— 这是圆锥管的典型行为。
-4. **音量与穿透力较弱**。它在安静段落里最好听；在大编制里容易被盖住，
-   所以编制里常给它"独奏时刻"而不是持续声部。
+二十世纪中期，爵士乐手把它当成小号的另一种嗓音：连奏接近人声，气声多，音头是包出来的而不是钉上去的。不少独奏者专门吹它，不是拿它当替补。
+
+管乐团和铜管重奏里，它常固定承担柔声部。音量不大，在大编制里容易被盖住，所以写作时给它独奏的句子，比给它一条持续的音层更合适。想听它真正的样子，找一段不带其他铜管的独奏。
 
 ```audiolab
 {"type":"instrument","gm":"Trumpet","synth":"brass","phrase":["E3","B3","E4","G4","B♭4","E5"],"label":"富鲁格号的常用区：E3 到 E5","label_en":"The flugelhorn's working register — E3 up to E5","hint":"注意比短号更柔更暗的音色 —— 通用音色表里没有富鲁格号，这里借小号音色近似","hint_en":"Hear a softer, darker tone than a cornet's. General MIDI has no flugelhorn, so a trumpet sample stands in."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）里**没有富鲁格号**。
-> 上面播放的是**小号**音色 —— 音区对了，但**最关键的柔暗完全听不到**。
-> 想听真实音色，最直接的办法是找一段爵士富鲁格号独奏。
-
-## 演奏技法
-
-指法与[[instrument:trumpet|小号]]完全相同，需要重新适应的是**气息**：
-
-- **气流要更慢、更松**。深号嘴需要更多"气量"但更少"气速"，用吹小号的方式吹它容易偏紧、偏亮。
-- **唇部张力更低**。嘴唇不必绷得像小号那样紧，但**耐力消耗的方式不同** —— 低张力长时间吹同样累。
-- **高音区更难**。深号嘴的代价就在这里。
-- **弱音器可用**，但效果不如在小号上那么戏剧化。
-
-## 家族与近亲
-
-| 乐器 | 圆锥度 | 号嘴 | 音色 | 常用处 |
-|---|---|---|---|---|
-| [[instrument:trumpet\|小号]] | 最小 | 浅 | 亮、集中 | 管弦乐 / 爵士主角 |
-| [[instrument:cornet\|短号]] | 中 | 中 | 圆、柔 | 管乐团 / 铜管乐队主力 |
-| **富鲁格号** | **最大** | **最深** | 柔、暗、近人声 | 爵士色彩 / 柔声部 |
-| [[instrument:french-horn\|圆号]] | 大 | **漏斗形** | 温润、远 | 管弦乐中音声部 |
-| [[instrument:tuba\|大号]] | 大 | 很深 | 厚、暗 | 低音基础 |
-
-**注意圆号那一行**：它的号嘴是**漏斗形**（funnel），与三兄弟的杯形不同 ——
-这是另一个参数（号嘴形状而非深度），也是圆号音色迟迟无法被小号族替代的原因。
-
-## 历史演变
-
-| 时期 | 状态 |
-|---|---|
-| 19 世纪 | 在德国出现（名称意为"翼号"），与短号同源，但锥度更大；最初用于军乐队与管乐团 |
-| 19 世纪末—20 世纪初 | 进入管乐团与铜管乐队，承担柔和的抒情声部 |
-| 20 世纪中期 | **在爵士里找到新的位置**：作为与小号互补的柔音选择，成为独奏色彩 |
-| 20 世纪后期至今 | 爵士、流行与电影配乐里的常见柔音；管乐团与铜管重奏中的固定色彩声部 |
-| 与圆号的关系 | 常被描述为"小号与圆号之间的音色"，但**指法与音域仍属小号族** —— 它没有跨族 |
-
-## 常见误解
-
-- **"富鲁格号就是更柔的小号。"** 结构上确实如此，但两个参数（锥度与号嘴）**都推到了本族极端** ——
-  所以它的音色差异是**质变**而不是"调低亮度"。
-- **"它的音域比小号窄。"** **完全相同**（记谱 F♯3–C6 / 实音 E3–B♭5）。
-- **"它与圆号是一类。"** 音色接近，但**号嘴形状不同**（杯形 vs 漏斗形），
-  族属、指法、音域都不同 —— **音色相似不等于同类**。
-- **"爵士里它只是小号的替代品。"** 它有独立的语汇：更接近人声的连奏与气声，
-  许多独奏者是**专门**吹富鲁格号的。
-- **"通用音色表里有它。"** General MIDI 里**没有**富鲁格号，只能借小号近似（本页试听件即如此）。
-
-## 下一步
-
-到这里，**小号族的三兄弟（[[instrument:trumpet|小号]] · [[instrument:cornet|短号]] · 富鲁格号）就齐了**。
-它们合起来讲清了一件事：**在管长与指法完全相同的前提下，音色可以差多远。**
-
-铜管这条线的下一个维度是"管长的改变方式"：
-[[instrument:trombone|长号]]不用活塞，而用**滑管连续改变管长** ——
-它是常规铜管里唯一能真正滑音的乐器。
-再往后就是铜管组的低音：[[instrument:tuba|大号]]与它的前身
-（[[instrument:ophicleide|奥菲克莱德号]] · [[instrument:serpent|蛇形号]]）。
 :::
 
 ::: en
-The flugelhorn is the softest member of the [[instrument:trumpet|trumpet]] family: it pushes both of the
-family's parameters — **conicality** and **cup depth** — to the extreme at once.
 
-That yields the family's darkest, softest tone, the closest to a [[instrument:french-horn|horn]] and to a
-**human voice**. It is also the most thorough demonstration in brass that **bore and mouthpiece decide the
-colour**.
+## A fatter tube
+
+The flugelhorn sounds like a trumpet with its edges rubbed off, and that is no accident: it comes from two sizes. Its tube is as long as a [[instrument:trumpet|trumpet]]'s, the fingerings are the same, the range is the same. Only the taper of the bore and the depth of the cup differ. Push both towards soft and the colour moves from bright to round to dark.
 
 | Classification | Value |
 |---|---|
-| **HS class** | **Aerophone** · **lip-vibrated** |
-| **Sub-type** | Deep cup / funnel-edged mouthpiece · **three piston valves** · **widest taper in the family** · **B♭ transposing instrument** |
-| **Family** | Western · Brass (trumpet family, soft branch) |
-| **Bayin** | Not applicable — a Chinese system; the flugelhorn is outside it |
-
-> ⚠️ **One conceptual point**: by now one thing is clear — **the trumpet's "three brothers" are not three
-> instruments but three sample points on one continuum.** All three share **one length, one set of
-> fingerings, one range**, and differ only in two parameters: **bore conicality** (small → large) and
-> **cup depth** (shallow → deep). Both move the same way, giving three stops: **bright → round → soft-dark**.
-> **The cleanest controlled comparison on this site.**
-
-## Two parameters, one continuum
+| HS class | Aerophone · lip-vibrated |
+| Sub-type | Deep cup · three piston valves · widest taper in the family · B♭ transposing |
+| Family | Western · Brass (trumpet family, soft branch) |
+| Bayin | Not applicable — a Chinese system |
 
 ```svg
 <svg viewBox="0 0 640 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Brass plotted against two axes, conicality and mouthpiece depth, showing where trumpet, cornet, flugelhorn, horn, trombone and tuba fall">
@@ -277,18 +186,9 @@ colour**.
 </svg>
 ```
 
-**This diagram reduces brass timbre to two measurable parameters**:
+The chart flattens brass onto two axes, with the trumpet low left and the flugelhorn upper right. The position is not arbitrary: it stands one step from the [[instrument:french-horn|horn]] and never crosses over. The mouthpiece stays a cup, the fingerings stay a trumpet's.
 
-| Parameter | Affects | Extremes |
-|---|---|---|
-| **Bore conicality** | whether upper harmonics can be excited | cylindrical (bright) ↔ conical (soft, dark) |
-| **Mouthpiece depth** | the high-frequency content of the lip vibration | shallow cup (bright) ↔ deep cup / funnel (soft, dark) |
-
-So the trumpet family's place is clear: **all three brothers sit in the "shallow-to-medium" and
-"cylindrical-to-medium-conical" region**, and the flugelhorn is its softest cell. It never crosses the horn's
-line — **it keeps a trumpet's fingering and range, in its softest coat.**
-
-## Structure: the family's widest taper and deepest cup
+## Deep cup, wide taper
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Flugelhorn parts: a deep cup mouthpiece, a more strongly tapered body and a slightly flaring bell">
@@ -321,9 +221,9 @@ line — **it keeps a trumpet's fingering and range, in its softest coat.**
 </svg>
 ```
 
-The point is short: **the same length and the same valves, with a fatter tube and a deeper cup.** A player
-picks it up without changing fingerings, but **the air must be looser and slower** — a deep cup wants a
-slower stream and a more relaxed lip.
+The body thickens from the mouthpiece end, the plainest difference from a trumpet. A trumpet's bore is nearly even; the flugelhorn flares all the way, and with a deep cup behind it **upper partials** are hard to excite.
+
+So the fingerings carry over and the breathing has to be relearned. A deep cup wants slower, looser air and less lip tension. Blown like a trumpet, it turns tight and bright and loses the one thing it has.
 
 ## Range
 
@@ -331,83 +231,18 @@ slower stream and a more relaxed lip.
 {"range":"E3–B♭5","written":"F♯3–C6","caption":"富鲁格号的记谱音域与实音音域","caption_en":"The flugelhorn: notated range above, sounding range below","note":"⚠️ 降 B 调富鲁格号是移调乐器 —— 记谱比实音高大二度。谱面写 F♯3–C6，实际出声 E3–B♭5 —— 与小号、短号完全相同。三兄弟的差别只在音色。"}
 ```
 
-- **Sounding E3–B♭5**, **identical** to the [[instrument:trumpet|trumpet]] and [[instrument:cornet|cornet]].
-- **The working register is C4–C6**, but its sweet spot is the **middle-low area (C4–F4)**, where its soft
-  darkness is most moving and where jazz solos tend to linger.
-- **The top is relatively laborious**: a deep cup makes high partials harder to excite, so above C6 it works
-  harder than a trumpet.
+Sounding E3 to B♭5, identical to the trumpet and the [[instrument:cornet|cornet]]. The working register is C4 to C6, the sweet spot C4 to F4, where most jazz solos linger. Above that the deep cup exacts its price.
 
-## Timbre, and how to hear it
+One range, three characters, and nothing else in brass does this. The cheapest way to hear it is the same phrase played on all three.
 
-Four cues:
+## Jazz's other voice
 
-1. **Soft, dark, round, thick.** The only member of the family that does not sound "brassy" — often described
-   as close to a horn or to a voice.
-2. **A soft attack.** Where a trumpet's onset is nailed on, the flugelhorn's is rounder, more wrapped.
-3. **It will not turn harsh** even at full power — typical conical-bore behaviour.
-4. **Less volume and projection.** It sounds best in quiet passages and can be covered in a large ensemble,
-   which is why scores give it **moments** rather than a continuous part.
+In the mid-twentieth century jazz players treated it as a second voice for the trumpet: legato closer to singing, more breath, an attack that is wrapped rather than nailed. Many soloists play it by choice, not as a substitute.
+
+Wind bands and brass ensembles give it the soft part, though its volume is modest and a large ensemble covers it easily. Write it a solo line rather than a continuous layer. To hear what it really is, find a solo with no other brass around.
 
 ```audiolab
 {"type":"instrument","gm":"Trumpet","synth":"brass","phrase":["E3","B3","E4","G4","B♭4","E5"],"label":"富鲁格号的常用区：E3 到 E5","label_en":"The flugelhorn's working register — E3 up to E5","hint":"注意比短号更柔更暗的音色 —— 通用音色表里没有富鲁格号，这里借小号音色近似","hint_en":"Hear a softer, darker tone than a cornet's. General MIDI has no flugelhorn, so a trumpet sample stands in."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI set has **no flugelhorn**. A **trumpet** sample is playing above —
-> the register is right, but **the softness, the whole point, is not there**. For the real sound, find a jazz
-> flugelhorn solo.
-
-## Playing techniques
-
-The fingerings are identical to the [[instrument:trumpet|trumpet]]; what must be relearned is **the air**:
-
-- **Slower, looser air.** A deep cup wants more **volume** of air but less **speed**; blown like a trumpet it
-  turns tight and bright.
-- **Less lip tension**, though the way endurance is spent differs — low tension for a long time tires you too.
-- **The top register is harder.** That is the price of the deep cup.
-- **Mutes work**, but less dramatically than on a trumpet.
-
-## The family
-
-| Instrument | Conical? | Mouthpiece | Timbre | Usual role |
-|---|---|---|---|---|
-| [[instrument:trumpet\|Trumpet]] | least | shallow | bright, focused | orchestra / jazz lead |
-| [[instrument:cornet\|Cornet]] | medium | medium | round, soft | band lead |
-| **Flugelhorn** | **most** | **deepest** | soft, dark, voice-like | jazz colour / soft voice |
-| [[instrument:french-horn\|Horn]] | large | **funnel** | warm, distant | orchestral middle |
-| [[instrument:tuba\|Tuba]] | large | very deep | thick, dark | the bass |
-
-**Note the horn's row**: its mouthpiece is a **funnel**, not a cup — a third parameter (mouthpiece **shape**
-rather than depth), and a reason the horn's colour can never quite be replaced from within the trumpet family.
-
-## History
-
-| Period | State |
-|---|---|
-| 19th c. | appears in Germany (the name means "wing horn"), related to the cornet but more conical; first used in military and wind bands |
-| Late 19th–early 20th c. | enters wind and brass bands as a soft lyrical voice |
-| Mid-20th c. | **finds a new home in jazz** as a soft alternative to the trumpet, and as a solo colour |
-| Late 20th c. onward | a regular soft voice in jazz, pop and film scores, and a fixed colour in wind bands and brass ensembles |
-| Relation to the horn | often described as "between trumpet and horn", but its **fingerings and range remain the trumpet family's** — it does not cross over |
-
-## Common misconceptions
-
-- **"A flugelhorn is just a softer trumpet."** Structurally yes, but both parameters (taper and cup) are
-  pushed to the family's **extreme** — so the difference is qualitative, not just "less bright".
-- **"Its range is smaller."** **Identical** (written F♯3–C6 / sounding E3–B♭5).
-- **"It belongs with the horn."** The colour is close, but the **mouthpiece shape differs** (cup versus
-  funnel), as do family, fingerings and range — **similar colour is not the same family.**
-- **"In jazz it is only a substitute trumpet."** It has its own vocabulary of voice-like legato and breath;
-  many soloists play the flugelhorn **specifically**.
-- **"General MIDI has one."** It does not; a trumpet sample is the only stand-in (as on this page).
-
-## Next
-
-That completes **all three brothers** ([[instrument:trumpet|trumpet]] · [[instrument:cornet|cornet]] ·
-flugelhorn). Together they show one thing clearly: **how far the colour can move while length and fingerings
-stay identical.**
-
-The next dimension of brass is **how the length changes**: the [[instrument:trombone|trombone]] uses no
-valves but a **slide that changes the tube continuously** — the only common brass that can truly glide.
-Beyond that lie the group's basses: the [[instrument:tuba|tuba]] and its forebears (the
-[[instrument:ophicleide|ophicleide]] and the [[instrument:serpent|serpent]]).
 :::

@@ -46,10 +46,10 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 木管（双簧管族 · 倍低音支系） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，低音巴松不在其中 |
 
-> ⚠️ **一个概念上的要点**：它与[[instrument:piccolo|短笛]]构成一个**精确的镜像**。
-> 短笛比族内本体**高一个八度**、记谱比实音**低**一个八度（为避免谱面顶上堆加线）；
-> 低音巴松比族内本体**低一个八度**、记谱比实音**高**一个八度（为避免谱面底下堆加线）。
-> **同一套逻辑，两个方向。** 把这一对并排记住，木管移调记谱就再不会记混。
+> ⚠️ **一个概念上的要点**：它与[[instrument:piccolo|短笛]]构成一个精确的镜像。
+> 短笛比族内本体高一个八度、记谱比实音低一个八度（为避免谱面顶上堆加线）；
+> 低音巴松比族内本体低一个八度、记谱比实音高一个八度（为避免谱面底下堆加线）。
+> 同一套逻辑，两个方向。 把这一对并排记住，木管移调记谱就再不会记混。
 
 ## 结构：六米的管怎么抱住
 
@@ -75,11 +75,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **管长加倍、折叠加倍**。巴松折一次，低音巴松折两次 ——
-   外形只大一圈，里面的管却长一倍多。**折数就是管长的证据。**
-2. **反应更慢**。气流路径长、弯折多，起音与断奏都比巴松迟钝 ——
+1. 管长加倍、折叠加倍。巴松折一次，低音巴松折两次 ——
+   外形只大一圈，里面的管却长一倍多。折数就是管长的证据。
+2. 反应更慢。气流路径长、弯折多，起音与断奏都比巴松迟钝 ——
    这是它很少承担快速线条的物理原因。
-3. **需要更多气**。低音巴松的簧片更大、管更粗，演奏者要维持稳定的大气流。
+3. 需要更多气。低音巴松的簧片更大、管更粗，演奏者要维持稳定的大气流。
 
 ## 音域：乐团的最低音
 
@@ -113,38 +113,38 @@ updated: 2026-09-26
 </svg>
 ```
 
-- **实音 B♭0–B♭3**：只有三个八度，但位置极低。
-- **常用区 B♭0–F2** —— 它的工作几乎全在最低那一段。
-- **它不负责"旋律"**，负责的是：**让整个乐队的低音有底、有厚度**。
+- 实音 B♭0–B♭3：只有三个八度，但位置极低。
+- 常用区 B♭0–F2 —— 它的工作几乎全在最低那一段。
+- 它不负责"旋律"，负责的是：让整个乐队的低音有底、有厚度。
   当它单独出现时（少见），往往是为了制造一种不寻常的重量感。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **极低、暗、浑浊**。它不像巴松那样有清晰的音头，而是**一团有分量的低频**。
-2. **带机械噪声**。管长音孔大，按键与气流的噪声在低音区能听出来 ——
+1. 极低、暗、浑浊。它不像巴松那样有清晰的音头，而是一团有分量的低频。
+2. 带机械噪声。管长音孔大，按键与气流的噪声在低音区能听出来 ——
    这反而成了它音色的一部分。
-3. **难以辨认音高**。在极低音区，人对音高的分辨率本来就在下降，
+3. 难以辨认音高。在极低音区，人对音高的分辨率本来就在下降，
    所以它更多被感受为"重量"而不是"音符"。
-4. **能把整个乐队的低音"往下拉"**。加与不加低音巴松，音响的重心完全不同 ——
+4. 能把整个乐队的低音"往下拉"。加与不加低音巴松，音响的重心完全不同 ——
    这是它在总谱上的全部价值。
 
 ```audiolab
 {"type":"instrument","gm":"Bassoon","synth":"reed","phrase":["B♭1","B♭2","E2","A2","B♭2"],"label":"低音巴松的常用区：实音 B♭0 附近","label_en":"The contrabassoon's working register — around sounding B♭0","hint":"注意最低音更像「重量」而不是「音符」—— 通用音色表里没有低音巴松，这里借巴松音色近似","hint_en":"At the bottom, weight matters more than pitch. General MIDI has no contrabassoon, so a bassoon sample stands in."}
 ```
 
-> ⚠️ **关于试听**：通用音色表（General MIDI）里**没有低音巴松**。
-> 上面播放的是**巴松**音色，落在它的低音区 —— 只能提示音区，不能替代真实音色。
+> ⚠️ 关于试听：通用音色表（General MIDI）里没有低音巴松。
+> 上面播放的是巴松音色，落在它的低音区 —— 只能提示音区，不能替代真实音色。
 
 ## 演奏技法
 
-技法与[[instrument:bassoon|巴松]]同源，差别主要在**物理负担**：
+技法与[[instrument:bassoon|巴松]]同源，差别主要在物理负担：
 
-- **气量需求最大**。它的管最粗最长，维持低音需要极大的稳定气流。
-- **起音慢**。气流路径长，快速断奏很难做到巴松那样锐利。
-- **靠支架与背带**。它比巴松重得多，演奏时多用一个落地支架分担重量。
-- **簧片自己做**（同族传统），且比巴松簧片更大。
+- 气量需求最大。它的管最粗最长，维持低音需要极大的稳定气流。
+- 起音慢。气流路径长，快速断奏很难做到巴松那样锐利。
+- 靠支架与背带。它比巴松重得多，演奏时多用一个落地支架分担重量。
+- 簧片自己做（同族传统），且比巴松簧片更大。
 
 ## 家族与近亲
 
@@ -156,9 +156,9 @@ updated: 2026-09-26
 | **低音巴松** | C | 记谱比实音高**一个八度** | 约 5.9 米 | B♭0–B♭3 |
 | [[instrument:double-bass\|低音提琴]] | C | 记谱比实音高**一个八度** | — | E1–G4 |
 
-**双簧管族的四个档位按管长排开**：0.6 → 0.8 → 2.5 → 5.9 米。
-每一档低一个（或几个）音程，**管长就是唯一的刻度**。
-注意低音巴松与[[instrument:double-bass|低音提琴]]的**记谱方向完全相同**（都高一个八度）——
+双簧管族的四个档位按管长排开：0.6 → 0.8 → 2.5 → 5.9 米。
+每一档低一个（或几个）音程，管长就是唯一的刻度。
+注意低音巴松与[[instrument:double-bass|低音提琴]]的记谱方向完全相同（都高一个八度）——
 这是"为了让谱面落在常用谱区"，与乐器属于哪一族无关。
 
 ## 历史演变
@@ -173,24 +173,25 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"低音巴松就是大号巴松，吹法一样。"** 指法逻辑相近，但**气量、起音速度、持握方式**都不同；
+- "低音巴松就是大号巴松，吹法一样。" 指法逻辑相近，但气量、起音速度、持握方式都不同；
   它是一件需要专门练习的乐器。
-- **"管弦乐里最低的乐器是低音提琴。"** 在人声之外的最低常规管乐器是**低音巴松**：
+- "管弦乐里最低的乐器是低音提琴。" 在人声之外的最低常规管乐器是低音巴松：
   它的 B♭0 比低音提琴的 E1 还低。
-- **"记谱高一个八度说明它是高音乐器。"** 记谱方向与音区无关 ——
-  它**实音极低**，谱面高只是为了少画加线。
-- **"它只是把巴松的音往下搬。"** 管长加倍、折叠加倍带来的是**不同的物理行为**：
+- "记谱高一个八度说明它是高音乐器。" 记谱方向与音区无关 ——
+  它实音极低，谱面高只是为了少画加线。
+- "它只是把巴松的音往下搬。" 管长加倍、折叠加倍带来的是不同的物理行为：
   反应更慢、噪声更明显、更难辨认音高 —— 它是"重量"而不是"低八度的巴松"。
-- **"通用音色表里有它。"** General MIDI 里**没有**低音巴松，只能借巴松近似（本页试听件即如此）。
+- "通用音色表里有它。" General MIDI 里没有低音巴松，只能借巴松近似（试听件即如此）。
 
 ## 下一步
 
 到这里，**双簧管族四个档位（[[instrument:oboe|双簧管]] · [[instrument:english-horn|英国管]] ·
 [[instrument:bassoon|巴松]] · 低音巴松）就全了** —— 一族四高度，由管长定档。
 
-木管这条线的下一组换的是**驱动方式与管形的组合**：
-[[instrument:alto-saxophone|萨克斯]]用**单簧片**驱动一根**圆锥管** ——
+木管这条线的下一组换的是驱动方式与管形的组合：
+[[instrument:alto-saxophone|萨克斯]]用单簧片驱动一根圆锥管 ——
 木管分类的两个维度在这里交叉，也解释了它为什么在管乐团与爵士里都那么通用。
+
 :::
 
 ::: en
@@ -209,9 +210,9 @@ sounding**, for exactly the reason the piccolo's is written an octave below.
 | **Bayin** | Not applicable — a Chinese system; the contrabassoon is outside it |
 
 > ⚠️ **One conceptual point**: with the [[instrument:piccolo|piccolo]] it forms an exact **mirror image**.
-> The piccolo sits an **octave above** its family's standard and is written an octave **below** sounding (to
-> avoid ledger lines above the staff); the contrabassoon sits an **octave below** and is written an octave
-> **above** sounding (to avoid them below it). **The same logic, two directions.** Learn the pair and
+> The piccolo sits an **octave above** its family's standard and is written an octave below sounding (to
+> avoid ledger lines above the staff); the contrabassoon sits an octave below and is written an octave
+> above sounding (to avoid them below it). The same logic, two directions. Learn the pair and
 > woodwind transposition stops being confusing.
 
 ## Structure: how six metres of tube is held
@@ -238,11 +239,11 @@ sounding**, for exactly the reason the piccolo's is written an octave below.
 
 Three points:
 
-1. **Double the tube, double the folds.** The bassoon folds once, the contrabassoon twice — one size
-   larger outside, more than twice the tube inside. **The number of folds is the evidence of length.**
-2. **Slower response.** A long, winding air path makes the attack and staccato duller than a bassoon's —
+1. Double the tube, double the folds. The bassoon folds once, the contrabassoon twice — one size
+   larger outside, more than twice the tube inside. The number of folds is the evidence of length.
+2. Slower response. A long, winding air path makes the attack and staccato duller than a bassoon's —
    the physical reason it rarely carries fast lines.
-3. **It takes more air.** A larger reed on a wider, longer tube needs a big, steady supply.
+3. It takes more air. A larger reed on a wider, longer tube needs a big, steady supply.
 
 ## Range: the orchestra's floor
 
@@ -276,39 +277,39 @@ Three points:
 </svg>
 ```
 
-- **Sounding B♭0–B♭3**: only three octaves, but placed very low.
-- **The working register is B♭0–F2** — almost all its work happens at the very bottom.
-- **It carries no melody.** What it does is **give the whole band's bass a floor and a weight**. When it
+- Sounding B♭0–B♭3: only three octaves, but placed very low.
+- The working register is B♭0–F2 — almost all its work happens at the very bottom.
+- It carries no melody. What it does is give the whole band's bass a floor and a weight. When it
   appears alone (rarely), it is usually to create an unusual sense of mass.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Extremely low, dark, turbid.** Unlike a bassoon it has no crisp attack — it is **a mass of low
+1. Extremely low, dark, turbid. Unlike a bassoon it has no crisp attack — it is **a mass of low
    frequency with weight**.
-2. **Audible mechanical noise.** A long tube with large holes lets key and air noise into the low register —
+2. Audible mechanical noise. A long tube with large holes lets key and air noise into the low register —
    which has become part of its colour.
-3. **Hard to identify by pitch.** Very low notes are also hard for the ear to place, so it is felt as
-   **weight** rather than as notes.
-4. **It pulls the whole band's bass down.** With and without a contrabassoon, the centre of gravity of the
+3. Hard to identify by pitch. Very low notes are also hard for the ear to place, so it is felt as
+   weight rather than as notes.
+4. It pulls the whole band's bass down. With and without a contrabassoon, the centre of gravity of the
    sound is completely different — that is its entire value in a score.
 
 ```audiolab
 {"type":"instrument","gm":"Bassoon","synth":"reed","phrase":["B♭1","B♭2","E2","A2","B♭2"],"label":"低音巴松的常用区：实音 B♭0 附近","label_en":"The contrabassoon's working register — around sounding B♭0","hint":"注意最低音更像「重量」而不是「音符」—— 通用音色表里没有低音巴松，这里借巴松音色近似","hint_en":"At the bottom, weight matters more than pitch. General MIDI has no contrabassoon, so a bassoon sample stands in."}
 ```
 
-> ⚠️ **On the audio**: the General MIDI set has **no contrabassoon**. A **bassoon** sample, placed in its
+> ⚠️ On the audio: the General MIDI set has no contrabassoon. A bassoon sample, placed in its
 > low register, is sounding above — a hint of register, not the real colour.
 
 ## Playing techniques
 
 The technique comes from the [[instrument:bassoon|bassoon]]; the differences are largely physical:
 
-- **The greatest air demand of the family.** The widest, longest tube needs a very large steady supply.
-- **A slow attack.** A long air path makes crisp staccato hard to achieve.
-- **A stand and a strap.** It is far heavier than a bassoon and is usually supported.
-- **The player makes the reed**, as everywhere in this family, and it is larger still.
+- The greatest air demand of the family. The widest, longest tube needs a very large steady supply.
+- A slow attack. A long air path makes crisp staccato hard to achieve.
+- A stand and a strap. It is far heavier than a bassoon and is usually supported.
+- The player makes the reed, as everywhere in this family, and it is larger still.
 
 ## The family
 
@@ -320,8 +321,8 @@ The technique comes from the [[instrument:bassoon|bassoon]]; the differences are
 | **Contrabassoon** | C | written an **octave above** sounding | about 5.9 m | B♭0–B♭3 |
 | [[instrument:double-bass\|Double bass]] | C | written an **octave above** sounding | — | E1–G4 |
 
-**The oboe family's four stops line up by tube length**: 0.6 → 0.8 → 2.5 → 5.9 m, each a step lower.
-**Length is the only scale.** Note that the contrabassoon and the [[instrument:double-bass|double bass]]
+The oboe family's four stops line up by tube length: 0.6 → 0.8 → 2.5 → 5.9 m, each a step lower.
+Length is the only scale. Note that the contrabassoon and the [[instrument:double-bass|double bass]]
 transpose in exactly the same way (an octave up) — that is about keeping the page readable, and has nothing
 to do with which family an instrument belongs to.
 
@@ -337,24 +338,24 @@ to do with which family an instrument belongs to.
 
 ## Common misconceptions
 
-- **"A contrabassoon is a big bassoon played the same way."** Similar fingerings, but **air demand, attack
+- "A contrabassoon is a big bassoon played the same way." Similar fingerings, but **air demand, attack
   speed and how it is held** all differ; it needs its own practice.
-- **"The lowest instrument in an orchestra is the double bass."** Among standard winds it is the
-  **contrabassoon**: its B♭0 is lower than the double bass's E1.
-- **"Written an octave high means it is a high instrument."** Notation has nothing to do with register — its
-  **sound is extremely low**, and the page is high only to avoid ledger lines.
-- **"It is just the bassoon shifted down."** Double the tube and the folds and you get different physics:
-  slower response, more noise, harder to place by ear. It is **weight**, not "a bassoon an octave lower".
-- **"General MIDI has one."** It does not; a bassoon sample is the only stand-in (as on this page).
+- "The lowest instrument in an orchestra is the double bass." Among standard winds it is the
+  contrabassoon: its B♭0 is lower than the double bass's E1.
+- "Written an octave high means it is a high instrument." Notation has nothing to do with register — its
+  sound is extremely low, and the page is high only to avoid ledger lines.
+- "It is just the bassoon shifted down." Double the tube and the folds and you get different physics:
+  slower response, more noise, harder to place by ear. It is weight, not "a bassoon an octave lower".
+- "General MIDI has one." It does not; a bassoon sample is the only stand-in (as on this page).
 
 ## Next
 
-That completes **all four stops of the oboe family** ([[instrument:oboe|oboe]] ·
+That completes all four stops of the oboe family ([[instrument:oboe|oboe]] ·
 [[instrument:english-horn|English horn]] · [[instrument:bassoon|bassoon]] · contrabassoon) — one family,
 four heights, set by tube length.
 
-The next group on the woodwind line changes **the combination of drive and bore**: the
-[[instrument:alto-saxophone|saxophone]] drives a **conical** tube with a **single** reed — the point where
+The next group on the woodwind line changes the combination of drive and bore: the
+[[instrument:alto-saxophone|saxophone]] drives a conical tube with a single reed — the point where
 the two dimensions of woodwind classification cross. That is also why it is so at home in both bands and
 jazz.
 :::

@@ -45,14 +45,14 @@ updated: 2026-09-26
 > ⚠️ **三件事里，只有一件是可以当场拿掉的。**
 > | 差别 | 笛子 | **箫** | 能当场改吗 |
 > |---|---|---|---|
-> | 吹法 | **横吹** | **竖吹（端吹）** | 不能 |
-> | 膜 | **贴笛膜** | **无膜孔** | **能 —— 撕掉笛膜，声音立刻转向箫** |
+> | 吹法 | **横吹** | 竖吹（端吹） | 不能 |
+> | 膜 | 贴笛膜 | 无膜孔 | 能 —— 撕掉笛膜，声音立刻转向箫 |
 > | 结果 | 明亮 · 外放 · 音量大 | 幽静 · 内敛 · 音量小 | —— |
 >
-> **这就是"附加的振动部件"这条线最纯粹的一次证明。**
+> 这就是"附加的振动部件"这条线最纯粹的一次证明。
 > [[instrument:erhu|二胡]]的蟒皮、[[instrument:crumhorn|克鲁姆管]]的风帽，都是"多了一个部件、音色变了"；
-> **而笛膜是"多了一个部件，就成了另一件乐器"** ——
-> 它薄薄一片、贴在一个小孔上，**却是笛与箫之间最容易被指认的那条界线。**
+> 而笛膜是"多了一个部件，就成了另一件乐器" ——
+> 它薄薄一片、贴在一个小孔上，却是笛与箫之间最容易被指认的那条界线。
 
 | 分类 | 归属 |
 |---|---|
@@ -98,11 +98,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **上端封口、缺口出音**。竹管顶端的**竹节保留**，只在边缘开一个缺口 ——
-   气流撞在缺口边缘被切分（**边棱音**），所以它是**端吹**而不是"含着一个吹嘴吹"。
-2. **前五后一**。正面五个按音孔 + 背面一个拇指孔 ——
-   **背面那个孔是"竖吹"才有的余裕**：两手竖持时，拇指自然落在背面。
-3. **没有膜孔**。整根管子上少开一个孔、少贴一片膜 —— 而这一个孔，就决定了它的音色。
+1. 上端封口、缺口出音。竹管顶端的竹节保留，只在边缘开一个缺口 ——
+   气流撞在缺口边缘被切分（边棱音），所以它是端吹而不是"含着一个吹嘴吹"。
+2. 前五后一。正面五个按音孔 + 背面一个拇指孔 ——
+   背面那个孔是"竖吹"才有的余裕：两手竖持时，拇指自然落在背面。
+3. 没有膜孔。整根管子上少开一个孔、少贴一片膜 —— 而这一个孔，就决定了它的音色。
 
 ## 一片膜的距离
 
@@ -145,7 +145,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图把"附加部件"这条线推到了它的极限**：
+这张图把"附加部件"这条线推到了它的极限：
 
 | 乐器 | 附加部件 | 去掉它之后 |
 |---|---|---|
@@ -153,9 +153,9 @@ updated: 2026-09-26
 | [[instrument:crumhorn\|克鲁姆管]] | 风帽 | 露出簧片，变成另一种吹法 |
 | **笛子** | **笛膜** | **变成箫的音色** |
 
-**一片芦苇膜的存在与否，划出了两件乐器。**
+一片芦苇膜的存在与否，划出了两件乐器。
 而这也说明了"什么在振动"这条判据为什么比"看起来像什么"更硬：
-**笛与箫的外形、孔数、吹法都相似到可以互认，但一片膜就让它们的声音分道扬镳。**
+笛与箫的外形、孔数、吹法都相似到可以互认，但一片膜就让它们的声音分道扬镳。
 
 ## 音域
 
@@ -163,20 +163,20 @@ updated: 2026-09-26
 {"range":"D4–E6","caption":"箫的音域（d1–e3，约两个八度）","caption_en":"Xiao range — d1 to e3, about two octaves","note":"箫属气鸣乐器（边棱音驱动，单管竖吹）。常用音域为两个八度（d1–e3，即 D4–E6），可超吹至更高音域；常见定调为 G 调，另有 D · C · F 调等。全长约 70–80 厘米，管身内径约 1.2–1.4 厘米。传统为六孔箫（前五后一），现代也有七孔 · 八孔及七三箫（可奏十二个半音）。记谱即实音。"}
 ```
 
-- **约两个八度**，比[[instrument:dizi|笛子]]略窄 —— 端吹的气息利用率更低，**高音更难取**。
-- **低音深沉 · 中音圆润 · 高音紧张**：三个音区性格分明。
-- **弱奏是它的强项**。它最动人的地方不是"吹得多亮"，而是**"吹得多轻还不散"** ——
+- 约两个八度，比[[instrument:dizi|笛子]]略窄 —— 端吹的气息利用率更低，高音更难取。
+- 低音深沉 · 中音圆润 · 高音紧张：三个音区性格分明。
+- 弱奏是它的强项。它最动人的地方不是"吹得多亮"，而是"吹得多轻还不散" ——
    这一点与[[instrument:guqin|古琴]]是同一种审美。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **幽静、圆润、带一点"气声"**。端吹时气流在缺口边缘被切分，
-   **气息声与音高一起出来** —— 这正是它"含蓄"的来源。
-2. **音量小、发音不敏捷**。它不适合快句，**适合长句**。
-3. **弱奏有戏**。与笛子相反：**越轻越见功夫**。
-4. **与古琴天然合拍**。**琴箫合奏**是文人音乐的标配：
+1. 幽静、圆润、带一点"气声"。端吹时气流在缺口边缘被切分，
+   气息声与音高一起出来 —— 这正是它"含蓄"的来源。
+2. 音量小、发音不敏捷。它不适合快句，适合长句。
+3. 弱奏有戏。与笛子相反：越轻越见功夫。
+4. 与古琴天然合拍。琴箫合奏是文人音乐的标配：
    两件都是小声乐器、都讲究"余韵"与"含蓄"。
 
 ```audiolab
@@ -185,13 +185,13 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **口风决定一切**。没有吹嘴、没有膜，全靠嘴唇与气流角度 ——
-   所以**同一支箫在不同人手里差别很大**。
-- **竖持、两手分工**。正面五孔由两手指按，背面拇指孔由一只手拇指负责。
-- **以"气"取胜**。长音 · 弱奏 · 气息的收放，是它主要的表现手段。
-- **超吹取高音**。与笛子同理：靠加压激发更高次模式。
-- **常与古琴 · 丝竹合奏**。江南丝竹 · 广东音乐 · 越剧伴奏里都能听到它；
-   而**琴箫合奏**是它最有代表性的一种形式。
+- 口风决定一切。没有吹嘴、没有膜，全靠嘴唇与气流角度 ——
+   所以同一支箫在不同人手里差别很大。
+- 竖持、两手分工。正面五孔由两手指按，背面拇指孔由一只手拇指负责。
+- 以"气"取胜。长音 · 弱奏 · 气息的收放，是它主要的表现手段。
+- 超吹取高音。与笛子同理：靠加压激发更高次模式。
+- 常与古琴 · 丝竹合奏。江南丝竹 · 广东音乐 · 越剧伴奏里都能听到它；
+   而琴箫合奏是它最有代表性的一种形式。
 
 ## 家族与近亲
 
@@ -203,9 +203,9 @@ updated: 2026-09-26
 | [[instrument:xun\|埙]] | **腔体**（容器笛） | 无 | 古朴苍凉 | 土 |
 | [[instrument:sheng\|笙]] | 吹吸皆可 | 无（是**簧**） | 清亮甜美 | 匏 |
 
-**"横吹笛子竖吹箫"** 是一句流传很广的口诀 —— 但**它只说了三条差别里的一条**。
-真正的判据仍然是那两个问句：**振动的是管里的空气（气鸣）还是别的什么？**
-**以及：那片膜在不在。**
+"横吹笛子竖吹箫" 是一句流传很广的口诀 —— 但它只说了三条差别里的一条。
+真正的判据仍然是那两个问句：振动的是管里的空气（气鸣）还是别的什么？
+以及：那片膜在不在。
 
 ## 历史演变
 
@@ -221,39 +221,40 @@ updated: 2026-09-26
 | 14 世纪 | **闽南与中国台湾的南音洞箫（尺八）传入日本**，演化为**日本尺八** |
 | 20 世纪后期 | 出现**七三箫**（七指孔 + 三键孔，可奏十二个半音）与八孔箫等改良形制 |
 
-**清《律吕正义后编》里有一句极妙的话**：
+清《律吕正义后编》里有一句极妙的话：
 
-> 「今箫长一尺八寸弱，从上口吹，有后出孔；笛横吹，无后出孔。**则今之箫乃古之笛**。」
+> 「今箫长一尺八寸弱，从上口吹，有后出孔；笛横吹，无后出孔。则今之箫乃古之笛。」
 
-**今天的箫，才是古代那个"笛"。**
+今天的箫，才是古代那个"笛"。
 名字在两千年里换过位置：**秦汉至唐，「箫」是排箫、「笛」是竖吹的单管；
 唐以后横笛流行，竖吹者反倒继承了「箫」这个名字。**
 这与[[instrument:pipa|琵琶]]"名字描述动作"、[[instrument:dizi|笛子]]"笛字指过不同乐器"是同一类问题：
-**名字的寿命比器物长，而它们往往不同步。**
+名字的寿命比器物长，而它们往往不同步。
 
 ## 常见误解
 
-- **"箫就是笛子竖着吹。"** 结构上确实只差几处，但差别里有**一条是不可逆的**：
-   **笛子有膜孔、箫没有**。竖吹横吹是吹法差别，**膜的有无是发声结构的差别**。
-- **"箫的声音小，是做得不好。"** 与[[instrument:guqin|古琴]]同理：
-   **它是为小空间设计的乐器** —— 独处、书斋、与琴合奏，**不需要响**。
-- **"箫一直就叫箫。"** 秦汉至唐，「箫」指的是**排箫**；单管竖吹的那件当时叫「篴」。
-   **今天这个名字是唐以后才归给它的。**
-- **"箫比笛子简单，所以更原始。"** 恰恰相反：**端吹对气息控制的要求更高**，
-   所以传统上有"**箫难学**"的说法；它的音量与音准**更依赖演奏者**。
-- **"箫只能吹悲伤的曲子。"** 它确实以幽静苍凉著称，但它也是**江南丝竹 · 广东音乐 · 越剧伴奏**的常规乐器。
-- **"八音说它是竹，所以只能用竹子做。"** 历史上也有**玉箫 · 瓷箫**；
-   八音记的是**它最通常的材料**（与[[instrument:guqin|古琴]]的"丝"同一个道理）。
+- "箫就是笛子竖着吹。" 结构上确实只差几处，但差别里有一条是不可逆的：
+   笛子有膜孔、箫没有。竖吹横吹是吹法差别，膜的有无是发声结构的差别。
+- "箫的声音小，是做得不好。" 与[[instrument:guqin|古琴]]同理：
+   它是为小空间设计的乐器 —— 独处、书斋、与琴合奏，不需要响。
+- "箫一直就叫箫。" 秦汉至唐，「箫」指的是排箫；单管竖吹的那件当时叫「篴」。
+   今天这个名字是唐以后才归给它的。
+- "箫比笛子简单，所以更原始。" 恰恰相反：端吹对气息控制的要求更高，
+   所以传统上有"箫难学"的说法；它的音量与音准更依赖演奏者。
+- "箫只能吹悲伤的曲子。" 它确实以幽静苍凉著称，但它也是江南丝竹 · 广东音乐 · 越剧伴奏的常规乐器。
+- "八音说它是竹，所以只能用竹子做。" 历史上也有玉箫 · 瓷箫；
+   八音记的是它最通常的材料（与[[instrument:guqin|古琴]]的"丝"同一个道理）。
 
 ## 下一步
 
-**竹这一类到此有了两件**：[[instrument:dizi|笛子]]（横吹 · 有膜）与**箫**（竖吹 · 无膜）——
+竹这一类到此有了两件：[[instrument:dizi|笛子]]（横吹 · 有膜）与箫（竖吹 · 无膜）——
 它们把"同一材料、两种做法"讲完了。
 
-接下来换到**吹管里最响的一件**：[[instrument:suona|唢呐]]。
-它同样是竹木管身，但**发声体是双簧**，而且它把本批的"社会出身"这条线推到了另一端：
-**从宫廷雅乐走向民间婚丧** ——
-**一件乐器能有多"响"，往往和它被用在什么场合直接相关。**
+接下来换到吹管里最响的一件：[[instrument:suona|唢呐]]。
+它同样是竹木管身，但发声体是双簧，而且它把本批的"社会出身"这条线推到了另一端：
+从宫廷雅乐走向民间婚丧 ——
+一件乐器能有多"响"，往往和它被用在什么场合直接相关。
+
 :::
 
 ::: en
@@ -264,13 +265,13 @@ tube, one edge-tone principle, six holes each** — and only three differences.
 > | Difference | Dizi | **Xiao** | Changeable live? |
 > |---|---|---|---|
 > | Way of blowing | **transverse** | **end-blown** | no |
-> | Membrane | **reed membrane fitted** | **no membrane hole** | **yes — peel the membrane off and the sound tilts to the xiao** |
+> | Membrane | reed membrane fitted | no membrane hole | yes — peel the membrane off and the sound tilts to the xiao |
 > | Result | bright · outgoing · loud | quiet · inward · soft | — |
 >
-> **This is the purest proof of the "added part" thread.** The [[instrument:erhu|erhu]]'s python skin and the
+> This is the purest proof of the "added part" thread. The [[instrument:erhu|erhu]]'s python skin and the
 > [[instrument:crumhorn|crumhorn]]'s wind cap are cases of "a part was added and the colour changed" — **but the dizi
 > membrane is a case of "a part was added and it became a different instrument".** It is a wafer-thin strip pasted
-> over one small hole, **and it is the clearest dividing line between dizi and xiao.**
+> over one small hole, and it is the clearest dividing line between dizi and xiao.
 
 | Classification | Value |
 |---|---|
@@ -317,11 +318,11 @@ tube, one edge-tone principle, six holes each** — and only three differences.
 
 Three points:
 
-1. **Closed top, notched edge.** The bamboo **node is left in place** at the top and only a notch is cut into its
-   edge — the air is split on that edge (**edge tone**), so it is blown **end-on** rather than into a mouthpiece.
-2. **Five in front, one behind.** The back hole exists because of **end-blown** holding: with both hands vertical,
+1. Closed top, notched edge. The bamboo node is left in place at the top and only a notch is cut into its
+   edge — the air is split on that edge (edge tone), so it is blown end-on rather than into a mouthpiece.
+2. Five in front, one behind. The back hole exists because of end-blown holding: with both hands vertical,
    a thumb naturally rests on the back.
-3. **No membrane hole.** One hole fewer and one membrane fewer — and that one hole settles its timbre.
+3. No membrane hole. One hole fewer and one membrane fewer — and that one hole settles its timbre.
 
 ## The distance of one membrane
 
@@ -364,7 +365,7 @@ Three points:
 </svg>
 ```
 
-**This figure pushes the "added part" thread to its limit**:
+This figure pushes the "added part" thread to its limit:
 
 | Instrument | Added part | With it removed |
 |---|---|---|
@@ -372,9 +373,9 @@ Three points:
 | [[instrument:crumhorn\|Crumhorn]] | wind cap | the reed is exposed and it becomes another kind of blowing |
 | **Dizi** | **reed membrane** | **the sound becomes the xiao's** |
 
-**The mere presence of one wafer of reed separates two instruments.** Which is also why the "what vibrates" test
+The mere presence of one wafer of reed separates two instruments. Which is also why the "what vibrates" test
 is harder than "what it looks like": dizi and xiao are so alike in shape, hole count and even blowing that they
-could be mistaken for each other — **yet one membrane sends their sounds in different directions.**
+could be mistaken for each other — yet one membrane sends their sounds in different directions.
 
 ## Range
 
@@ -382,22 +383,22 @@ could be mistaken for each other — **yet one membrane sends their sounds in di
 {"range":"D4–E6","caption":"箫的音域（d1–e3，约两个八度）","caption_en":"Xiao range — d1 to e3, about two octaves","note":"箫属气鸣乐器（边棱音驱动，单管竖吹）。常用音域为两个八度（d1–e3，即 D4–E6），可超吹至更高音域；常见定调为 G 调，另有 D · C · F 调等。全长约 70–80 厘米，管身内径约 1.2–1.4 厘米。传统为六孔箫（前五后一），现代也有七孔 · 八孔及七三箫（可奏十二个半音）。记谱即实音。"}
 ```
 
-- **About two octaves**, slightly narrower than the [[instrument:dizi|dizi]] — end-blowing wastes more of the
-  breath, so **the top notes are harder to reach**.
-- **Deep below, round in the middle, tense above**: three registers with distinct characters.
-- **Soft playing is where it excels.** What moves people is not how brightly it can blow but **how quietly it can
+- About two octaves, slightly narrower than the [[instrument:dizi|dizi]] — end-blowing wastes more of the
+  breath, so the top notes are harder to reach.
+- Deep below, round in the middle, tense above: three registers with distinct characters.
+- Soft playing is where it excels. What moves people is not how brightly it can blow but **how quietly it can
   blow and still hold together** — the same aesthetic as the [[instrument:guqin|guqin]].
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Quiet, round, slightly breathy.** End-blowing splits the airstream on the notch, so **breath and pitch arrive
+1. Quiet, round, slightly breathy. End-blowing splits the airstream on the notch, so **breath and pitch arrive
   together** — the source of its reticence.
-2. **Little volume, unhurried speech.** It is not made for fast figures, but for **long lines**.
-3. **Soft playing carries the expression.** The opposite of the dizi: **the quieter, the more skill it shows**.
-4. **It pairs naturally with the qin.** **Qin–xiao duets** are a staple of literati music: both are quiet
-  instruments, both prize **after-ring and restraint**.
+2. Little volume, unhurried speech. It is not made for fast figures, but for long lines.
+3. Soft playing carries the expression. The opposite of the dizi: the quieter, the more skill it shows.
+4. It pairs naturally with the qin. Qin–xiao duets are a staple of literati music: both are quiet
+  instruments, both prize after-ring and restraint.
 
 ```audiolab
 {"type":"instrument","gm":"Shakuhachi","synth":"blown","phrase":["D4","F4","G4","A4","C5","D5"],"label":"箫的常用区：D4 到 D5","label_en":"The xiao's working register — D4 up to D5","hint":"注意那种幽静、带气声的竹管声 —— 通用音色表里的尺八，正是南音洞箫传入日本后的后裔","hint_en":"Notice the quiet, breathy bamboo tone. The shakuhachi in General MIDI is a direct descendant of the Chinese xiao."}
@@ -405,14 +406,14 @@ Four cues:
 
 ## Playing techniques
 
-- **The embouchure decides everything.** No mouthpiece, no membrane: lips and air angle do it all — so **the same
+- The embouchure decides everything. No mouthpiece, no membrane: lips and air angle do it all — so **the same
   xiao sounds quite different in different hands.**
-- **Held vertically, both hands at work.** Five holes in front are covered by the fingers, the back thumb hole by
+- Held vertically, both hands at work. Five holes in front are covered by the fingers, the back thumb hole by
   one thumb.
-- **It wins on breath.** Long notes, soft playing and the shaping of the airstream are its main expressive means.
-- **Overblowing for the top.** As with the dizi: extra pressure excites higher modes.
-- **Usually with the qin or in silk-and-bamboo ensembles** — Jiangnan sizhu, Cantonese music, Yue opera — and the
-  **qin–xiao duet** is its most representative setting.
+- It wins on breath. Long notes, soft playing and the shaping of the airstream are its main expressive means.
+- Overblowing for the top. As with the dizi: extra pressure excites higher modes.
+- Usually with the qin or in silk-and-bamboo ensembles — Jiangnan sizhu, Cantonese music, Yue opera — and the
+  qin–xiao duet is its most representative setting.
 
 ## The family
 
@@ -424,8 +425,8 @@ Four cues:
 | [[instrument:xun\|Xun]] | **vessel** | none | plain, bleak | earth |
 | [[instrument:sheng\|Sheng]] | blown **and drawn** | none (**a reed**) | clear and sweet | gourd |
 
-**"Transverse is the dizi, end-blown is the xiao"** is a well-known mnemonic — but **it names only one of the three
-differences.** The real tests remain: **is it the air in the tube (aerophone) or something else? And: is the
+"Transverse is the dizi, end-blown is the xiao" is a well-known mnemonic — but **it names only one of the three
+differences. The real tests remain: is it the air in the tube (aerophone) or something else? And: is the
 membrane there?**
 
 ## History
@@ -442,12 +443,12 @@ membrane there?**
 | 14th c. | **the nanyin dongxiao of Fujian and Taiwan, China travels to Japan**, where it evolves into the **shakuhachi** |
 | late 20th c. | improved forms: the "seven-three xiao" (seven finger holes plus three keys, twelve semitones) and eight-hole xiao |
 
-**The Qing treatise **Lülü Zhengyi Houbian** puts it beautifully**:
+The Qing treatise Lülü Zhengyi Houbian puts it beautifully:
 
 > "Today's xiao is a little under one foot eight inches, blown from the top, with a hole at the back; the di is blown
-> transversely and has no back hole. **So today's xiao is the di of antiquity.**"
+> transversely and has no back hole. So today's xiao is the di of antiquity."
 
-**Today's xiao is what "di" once meant.** Over two millennia the names changed places: **in the Qin–Tang period
+Today's xiao is what "di" once meant. Over two millennia the names changed places: **in the Qin–Tang period
 "xiao" was the panpipe and "di" the end-blown tube; after the Tang the transverse flute grew popular, and the
 end-blown tube inherited the name "xiao".** The same problem as the [[instrument:pipa|pipa]]'s "name that describes
 an action" and the [[instrument:dizi|dizi]]'s "one name, several instruments": **names outlive objects, and they
@@ -455,27 +456,27 @@ often fall out of step with them.**
 
 ## Common misconceptions
 
-- **"A xiao is just a dizi held upright."** Structurally it differs in a few things, but **one of them is
-  irreversible**: **the dizi has a membrane hole, the xiao does not.** Transverse versus end-blown is a matter of
-  technique; **the presence of the membrane is a matter of construction.**
-- **"It is quiet because it is poorly made."** Like the [[instrument:guqin|guqin]], **it is designed for small
-  spaces** — solitude, a study, a duet with the qin — **it has no need to be loud.**
-- **"It has always been called the xiao."** From the Qin to the Tang, **"xiao" meant the panpipe**, and the single
-  end-blown tube was called **di**. **The name only settled on it after the Tang.**
-- **"Being simpler, it is more primitive."** The opposite: **end-blowing demands finer breath control**, which is
-  why the tradition says the **xiao is harder to learn**; its volume and intonation depend more on the player.
-- **"It only plays sad music."** It is known for quiet bleakness, yet it is a regular instrument of **Jiangnan
+- "A xiao is just a dizi held upright." Structurally it differs in a few things, but **one of them is
+  irreversible: the dizi has a membrane hole, the xiao does not.** Transverse versus end-blown is a matter of
+  technique; the presence of the membrane is a matter of construction.
+- "It is quiet because it is poorly made." Like the [[instrument:guqin|guqin]], **it is designed for small
+  spaces — solitude, a study, a duet with the qin — it has no need to be loud.**
+- "It has always been called the xiao." From the Qin to the Tang, "xiao" meant the panpipe, and the single
+  end-blown tube was called di. The name only settled on it after the Tang.
+- "Being simpler, it is more primitive." The opposite: end-blowing demands finer breath control, which is
+  why the tradition says the xiao is harder to learn; its volume and intonation depend more on the player.
+- "It only plays sad music." It is known for quiet bleakness, yet it is a regular instrument of **Jiangnan
   sizhu, Cantonese music and Yue opera accompaniment**.
-- **"The bayin says bamboo, so only bamboo will do."** There were historically **jade and porcelain xiao**; the bayin
-  records **its usual material** (the same point as the guqin's silk).
+- "The bayin says bamboo, so only bamboo will do." There were historically jade and porcelain xiao; the bayin
+  records its usual material (the same point as the guqin's silk).
 
 ## Next
 
-**Bamboo now has two entries**: the [[instrument:dizi|dizi]] (transverse, membraned) and the **xiao** (end-blown,
+Bamboo now has two entries: the [[instrument:dizi|dizi]] (transverse, membraned) and the xiao (end-blown,
 bare) — together they finish the story of "one material, two treatments".
 
-Next comes **the loudest of the winds**: the [[instrument:suona|suona]].
-It too has a wooden body, but **its sound source is a double reed**, and it pushes the batch's "social origin"
-thread to the opposite extreme: **from court ritual out into village weddings and funerals** —
-**how loud an instrument can be is usually tied directly to where it is used.**
+Next comes the loudest of the winds: the [[instrument:suona|suona]].
+It too has a wooden body, but its sound source is a double reed, and it pushes the batch's "social origin"
+thread to the opposite extreme: from court ritual out into village weddings and funerals —
+how loud an instrument can be is usually tied directly to where it is used.
 :::

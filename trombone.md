@@ -38,8 +38,8 @@ updated: 2026-09-26
 长号在铜管里是"另一种解法"。小号一族用**活塞**离散地改变管长（七种管长可选），
 长号则用**滑管** —— 一根可以在管身上滑动的 U 形管，**连续地**改变管长。
 
-这一个差别带来了三件事：**能真正滑音**、**把位概念取代了按键**、
-以及**一个几乎 500 年没变的形制**。
+这一个差别带来了三件事：**能真正滑音**、把位概念取代了按键、
+以及一个几乎 500 年没变的形制。
 
 | 分类 | 归属 |
 |---|---|
@@ -48,10 +48,10 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 铜管（长号族） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，长号不在其中 |
 
-> ⚠️ **一个概念上的要点**：**长号是降 B 调乐器，却按 C 调实音记谱。**
-> 它的基音是降 B（与[[instrument:trumpet|降 B 小号]]一样），但管弦乐里**不替它移调** ——
+> ⚠️ 一个概念上的要点：长号是降 B 调乐器，却按 C 调实音记谱。
+> 它的基音是降 B（与[[instrument:trumpet|降 B 小号]]一样），但管弦乐里不替它移调 ——
 > 谱面写什么音，实际就响什么音。
-> 所以判断一件乐器的记谱方式，**永远只能查惯例，不能从"调性"推** ——
+> 所以判断一件乐器的记谱方式，永远只能查惯例，不能从"调性"推 ——
 > 这一点在木管那一批里已经出现过（[[instrument:oboe-damore|柔音管]]也是 A 调却按实音记谱）。
 
 ## 结构：滑管、把位与喇叭口
@@ -94,11 +94,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **滑管是"套在外面"的 U 形管**。推拉它时管的总长度连续变化 →
-   音高**连续**变化，而不是像活塞那样"跳"。
-2. **把位（position）** 取代了按键。七个把位，每个把音高整体降低一个半音 ——
-   原理与活塞完全相同（**加长管子**），只是实现方式连续。
-3. **管身以圆柱为主**，所以音色亮而有厚度（与[[instrument:trumpet|小号]]同侧，
+1. 滑管是"套在外面"的 U 形管。推拉它时管的总长度连续变化 →
+   音高连续变化，而不是像活塞那样"跳"。
+2. 把位（position） 取代了按键。七个把位，每个把音高整体降低一个半音 ——
+   原理与活塞完全相同（加长管子），只是实现方式连续。
+3. 管身以圆柱为主，所以音色亮而有厚度（与[[instrument:trumpet|小号]]同侧，
    而与[[instrument:french-horn|圆号]]相反）。
 
 ## 七个把位
@@ -135,7 +135,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-**把位与活塞的关系值得讲清**：
+把位与活塞的关系值得讲清：
 
 | | 活塞铜管 | 长号 |
 |---|---|---|
@@ -144,7 +144,7 @@ updated: 2026-09-26
 | 能否滑音 | 不能（只能快速换音） | **能** |
 | 音准修正 | 只靠嘴唇 | **嘴唇 + 滑管** |
 
-**所以长号在音准上其实比圆号"宽容"** —— 它有一个可以连续调节的物理手段。
+所以长号在音准上其实比圆号"宽容" —— 它有一个可以连续调节的物理手段。
 圆号只有嘴唇。
 
 ## 音域
@@ -153,22 +153,22 @@ updated: 2026-09-26
 {"range":"E2–B♭4","common":"E2–F4","caption":"次中音长号的音域","caption_en":"Tenor trombone range","note":"长号是降 B 调乐器，但按 C 调实音记谱（不用移调）—— 这是它与小号族最重要的记谱差别。标准音域 E2–B♭4；高音区可上探至 F5 甚至更高。"}
 ```
 
-- **实音 E2–B♭4**，约两个八度多一点。
-- **常用区 E2–F4**：它的工作重心在中低音区，是管弦乐低音声部的中坚。
-- **高音区（B♭4 以上）** 需要专门练习，但爵士长号大量使用 ——
+- 实音 E2–B♭4，约两个八度多一点。
+- 常用区 E2–F4：它的工作重心在中低音区，是管弦乐低音声部的中坚。
+- 高音区（B♭4 以上） 需要专门练习，但爵士长号大量使用 ——
   爵士里那种"高音区快速跑动"是长号的一项现代技艺。
-- **低音区（E2 以下）** 需要**加装阀门**（F 附属管）才能到达。
+- 低音区（E2 以下） 需要加装阀门（F 附属管）才能到达。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **亮、方正、有厚度**。圆柱管身给它明亮的芯，比小号更"宽"，比圆号更"直"。
-2. **强奏极有威势**。铜管组里它是"宣告"与"庄严"的代表音色 ——
+1. 亮、方正、有厚度。圆柱管身给它明亮的芯，比小号更"宽"，比圆号更"直"。
+2. 强奏极有威势。铜管组里它是"宣告"与"庄严"的代表音色 ——
    管弦乐的高潮段常由三支长号撑起来。
-3. **滑音是它独有的语言**。从爵士的"哇哇"到现代作品的连续滑奏，
+3. 滑音是它独有的语言。从爵士的"哇哇"到现代作品的连续滑奏，
    这些效果别的铜管做不出来。
-4. **弱奏时也能很柔**。它不像小号那样在高音量下必然变亮 ——
+4. 弱奏时也能很柔。它不像小号那样在高音量下必然变亮 ——
    中低音区的弱奏相当温厚。
 
 ```audiolab
@@ -177,14 +177,14 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **滑音（glissando）**：长号的招牌。把滑管连续推拉，可得到**真正的连续滑音** ——
+- 滑音（glissando）：长号的招牌。把滑管连续推拉，可得到真正的连续滑音 ——
   这不只是效果，也是爵士长号的一种语言。
-- **把位与替用把位（alternate positions）**：同一个音常有**两个不同把位**可选
-  （因为不同把位的泛音列会重叠）。演奏者用替用把位来**减少滑管移动距离**，
+- 把位与替用把位（alternate positions）：同一个音常有两个不同把位可选
+  （因为不同把位的泛音列会重叠）。演奏者用替用把位来减少滑管移动距离，
   这是快速乐句的技术关键。
-- **双吐与三吐**：与其他铜管共通，但长号的把位移动会限制速度。
-- **弱音器**：Straight / Cup / Harmon / Plunger 等 —
-  **Plunger（活塞式弱音器）** 在爵士里产生"哇哇"音，是长号的标志性效果。
+- 双吐与三吐：与其他铜管共通，但长号的把位移动会限制速度。
+- 弱音器：Straight / Cup / Harmon / Plunger 等 —
+  Plunger（活塞式弱音器） 在爵士里产生"哇哇"音，是长号的标志性效果。
 
 ## 家族与近亲
 
@@ -196,8 +196,8 @@ updated: 2026-09-26
 | [[instrument:trumpet\|小号]] | 三活塞 | E3–B♭5 | 参照：同族的活塞解法 |
 | [[instrument:tuba\|大号]] | 四至六活塞 | D1–F4 | 低音基础 |
 
-**长号族与[[instrument:trumpet|小号]]族同源**（都是唇鸣 + 杯形号嘴 + 圆柱为主的管身），
-差别全在**管长的改变方式**上 —— 这正是铜管三层次的第一层。
+长号族与[[instrument:trumpet|小号]]族同源（都是唇鸣 + 杯形号嘴 + 圆柱为主的管身），
+差别全在管长的改变方式上 —— 这正是铜管三层次的第一层。
 
 ## 历史演变
 
@@ -211,22 +211,22 @@ updated: 2026-09-26
 | 20 世纪 | 成为爵士乐的主要独奏乐器之一；滑音与弱音器技法被大量开发 |
 | 20 世纪后期至今 | 管弦乐、管乐团、爵士、拉丁音乐全面通用 |
 
-**它最迷人的一点是"不变"**：15 世纪的萨克布特与今天的长号，
-**滑管 + 杯形号嘴 + 七个把位的基本原理完全一致** ——
-它是**仍在使用中的、形制最古老的管乐器之一**。
-（这一条也是乐器史里少见的例子：**一项设计做对了，就不需要再改**。）
+它最迷人的一点是"不变"：15 世纪的萨克布特与今天的长号，
+滑管 + 杯形号嘴 + 七个把位的基本原理完全一致 ——
+它是仍在使用中的、形制最古老的管乐器之一。
+（这一条也是乐器史里少见的例子：一项设计做对了，就不需要再改。）
 
 ## 常见误解
 
-- **"长号和小号一样，只是更大。"** 同族，但**管长的改变方式完全不同**：
+- "长号和小号一样，只是更大。" 同族，但管长的改变方式完全不同：
   活塞是离散的，滑管是连续的 —— 这决定了长号能滑音、能用滑管修正音准。
-- **"长号要移调。"** **按 C 调实音记谱**，不移调。
-  它是降 B 调乐器却按实音写谱 —— **调性与记谱惯例是两件事**。
-- **"七个把位就是七个音。"** 每个把位都有一条**完整的泛音列** ——
+- "长号要移调。" 按 C 调实音记谱，不移调。
+  它是降 B 调乐器却按实音写谱 —— 调性与记谱惯例是两件事。
+- "七个把位就是七个音。" 每个把位都有一条完整的泛音列 ——
   同一个把位可以吹出好几个音。"七个把位"只描述管长，不描述音。
-- **"滑音只是花招。"** 它是长号**结构上独有的表达能力**，
+- "滑音只是花招。" 它是长号结构上独有的表达能力，
   在爵士与当代作品里承担实际的音乐功能（连接、叹息、戏谑）。
-- **"长号音准靠嘴唇，和圆号一样难。"** 比圆号**容易** ——
+- "长号音准靠嘴唇，和圆号一样难。" 比圆号容易 ——
   因为滑管提供了一个连续可调的物理手段。
 
 ## 下一步
@@ -237,6 +237,7 @@ updated: 2026-09-26
 想对照"另一种管长改变方式"，就回看 [[instrument:trumpet|小号]]（三活塞）
 与 [[instrument:french-horn|圆号]]（旋转阀 + 漏斗号嘴）——
 三条路分别对应"离散""连续""无阀门"三种解法。
+
 :::
 
 ::: en
@@ -244,8 +245,8 @@ The trombone is brass's **other solution**. The trumpet family changes its tube 
 valves (seven lengths available); the trombone uses a **slide** — a U-shaped tube sliding along the body —
 changing the length **continuously**.
 
-One difference, three consequences: **it can truly glide**, **positions replace keys**, and it has
-**a design that has barely changed in 500 years**.
+One difference, three consequences: it can truly glide, positions replace keys, and it has
+a design that has barely changed in 500 years.
 
 | Classification | Value |
 |---|---|
@@ -254,10 +255,10 @@ One difference, three consequences: **it can truly glide**, **positions replace 
 | **Family** | Western · Brass (trombone family) |
 | **Bayin** | Not applicable — a Chinese system; the trombone is outside it |
 
-> ⚠️ **One conceptual point**: **the trombone is an instrument in B♭, yet it is written in C at sounding
+> ⚠️ One conceptual point: **the trombone is an instrument in B♭, yet it is written in C at sounding
 > pitch.** Its fundamental is B♭ (like a [[instrument:trumpet|B♭ trumpet]]), but orchestral parts are
-> **not transposed** — what you read is what sounds.
-> So the notational convention of an instrument can only be **looked up**, never inferred from its key —
+> not transposed — what you read is what sounds.
+> So the notational convention of an instrument can only be looked up, never inferred from its key —
 > a point already met in the woodwind batch (the [[instrument:oboe-damore|oboe d'amore]] is in A yet written
 > at pitch).
 
@@ -301,11 +302,11 @@ One difference, three consequences: **it can truly glide**, **positions replace 
 
 Three points:
 
-1. **The slide is a U-tube sleeved outside.** Pushing and pulling changes the total length continuously, so
+1. The slide is a U-tube sleeved outside. Pushing and pulling changes the total length continuously, so
    the pitch glides rather than jumping as with valves.
-2. **Positions** replace keys. Seven positions, each lowering everything by one semitone — the principle is
-   exactly the valves' (**lengthen the tube**), only implemented continuously.
-3. **A mainly cylindrical bore**, giving a bright, weighty tone — same side as the
+2. Positions replace keys. Seven positions, each lowering everything by one semitone — the principle is
+   exactly the valves' (lengthen the tube), only implemented continuously.
+3. A mainly cylindrical bore, giving a bright, weighty tone — same side as the
    [[instrument:trumpet|trumpet]], opposite to the [[instrument:french-horn|horn]].
 
 ## The seven positions
@@ -342,7 +343,7 @@ Three points:
 </svg>
 ```
 
-**Positions versus valves**:
+Positions versus valves:
 
 | | Valved brass | Trombone |
 |---|---|---|
@@ -351,7 +352,7 @@ Three points:
 | Can it glide | no (only quick changes) | **yes** |
 | Pitch correction | lip only | **lip + slide** |
 
-**So the trombone is actually more forgiving than the horn** on intonation — it has a continuously
+So the trombone is actually more forgiving than the horn on intonation — it has a continuously
 adjustable physical means. The horn has only the lips.
 
 ## Range
@@ -360,23 +361,23 @@ adjustable physical means. The horn has only the lips.
 {"range":"E2–B♭4","common":"E2–F4","caption":"次中音长号的音域","caption_en":"Tenor trombone range","note":"长号是降 B 调乐器，但按 C 调实音记谱（不用移调）—— 这是它与小号族最重要的记谱差别。标准音域 E2–B♭4；高音区可上探至 F5 甚至更高。"}
 ```
 
-- **Sounding E2–B♭4**, a little over two octaves.
-- **The working register is E2–F4**; its weight is low-middle, the backbone of the orchestral bass line.
-- **Above B♭4** needs dedicated practice, yet jazz trombone uses it heavily — high-register runs are a
+- Sounding E2–B♭4, a little over two octaves.
+- The working register is E2–F4; its weight is low-middle, the backbone of the orchestral bass line.
+- Above B♭4 needs dedicated practice, yet jazz trombone uses it heavily — high-register runs are a
   modern trombone skill.
-- **Below E2** requires an **added valve** (an F attachment).
+- Below E2 requires an added valve (an F attachment).
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Bright, square, weighty.** The cylindrical bore gives a bright core — wider than a trumpet's, straighter
+1. Bright, square, weighty. The cylindrical bore gives a bright core — wider than a trumpet's, straighter
    than a horn's.
-2. **Formidable at full power.** In brass it is the voice of proclamation and solemnity; orchestral climaxes
+2. Formidable at full power. In brass it is the voice of proclamation and solemnity; orchestral climaxes
    often rest on three trombones.
-3. **The glide is its own language**, from jazz "wah-wah" to continuous contemporary glissandi — no other
+3. The glide is its own language, from jazz "wah-wah" to continuous contemporary glissandi — no other
    brass can do it.
-4. **It can also play softly**, unlike a trumpet which necessarily brightens when loud; low-middle soft
+4. It can also play softly, unlike a trumpet which necessarily brightens when loud; low-middle soft
    playing is genuinely warm.
 
 ```audiolab
@@ -385,12 +386,12 @@ Four cues:
 
 ## Playing techniques
 
-- **Glissando**, the trombone's signature: continuously pulling the slide gives a **true glide** — not just
+- Glissando, the trombone's signature: continuously pulling the slide gives a true glide — not just
   an effect but a language, especially in jazz.
-- **Alternate positions**: many notes are available in **two different positions** (the series overlap).
-  Players use the alternative to **shorten the slide's travel**, which is the technical key to fast passages.
-- **Double and triple tonguing**, shared with other brass, though slide movement limits speed.
-- **Mutes**: straight, cup, harmon and plunger. The **plunger** creates the jazz "wah-wah", a trombone
+- Alternate positions: many notes are available in two different positions (the series overlap).
+  Players use the alternative to shorten the slide's travel, which is the technical key to fast passages.
+- Double and triple tonguing, shared with other brass, though slide movement limits speed.
+- Mutes: straight, cup, harmon and plunger. The plunger creates the jazz "wah-wah", a trombone
   trademark.
 
 ## The family
@@ -404,7 +405,7 @@ Four cues:
 | [[instrument:tuba\|Tuba]] | four to six valves | D1–F4 | the bass foundation |
 
 **The trombone family shares ancestry with the [[instrument:trumpet|trumpet]] family** (lip drive, cup
-mouthpiece, mainly cylindrical bore). Everything hinges on **how the length changes** — the first layer of
+mouthpiece, mainly cylindrical bore). Everything hinges on how the length changes — the first layer of
 the three layers of brass.
 
 ## History
@@ -419,22 +420,22 @@ the three layers of brass.
 | 20th c. | becomes a major jazz solo instrument; glissando and mute techniques are greatly developed |
 | Late 20th c. onward | used across orchestra, band, jazz and Latin music |
 
-**Its most striking feature is that it has not changed**: a 15th-century sackbut and a modern trombone
-**share the same slide, cup mouthpiece and seven positions** — one of the oldest designs still in use.
-It is a rare case in instrument history where **a design was right the first time.**
+Its most striking feature is that it has not changed: a 15th-century sackbut and a modern trombone
+share the same slide, cup mouthpiece and seven positions — one of the oldest designs still in use.
+It is a rare case in instrument history where a design was right the first time.
 
 ## Common misconceptions
 
-- **"A trombone is a bigger trumpet."** Same family, but **the way the length changes is completely
+- "A trombone is a bigger trumpet." Same family, but **the way the length changes is completely
   different**: valves are discrete, the slide continuous — which is why the trombone can glide and can tune
   with the slide.
-- **"A trombone transposes."** It is **written in C at sounding pitch**. It is an instrument in B♭ written
-  at concert pitch — **key and notation convention are two different things.**
-- **"Seven positions are seven notes."** Each position carries a **whole harmonic series** — one position
+- "A trombone transposes." It is written in C at sounding pitch. It is an instrument in B♭ written
+  at concert pitch — key and notation convention are two different things.
+- "Seven positions are seven notes." Each position carries a whole harmonic series — one position
   gives several notes. "Seven positions" describes the tube, not the notes.
-- **"The glissando is a gimmick."** It is a **structural capability unique to the trombone** and does real
+- "The glissando is a gimmick." It is a structural capability unique to the trombone and does real
   musical work in jazz and contemporary music (joining, sighing, mocking).
-- **"Its intonation is as hard as a horn's."** It is **easier** — the slide provides a continuously
+- "Its intonation is as hard as a horn's." It is easier — the slide provides a continuously
   adjustable physical means.
 
 ## Next

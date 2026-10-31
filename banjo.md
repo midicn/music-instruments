@@ -50,8 +50,8 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 弦乐（弹拨支系）· 与非洲拨弦乐器同源 |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，班卓琴不在其中 |
 
-> ⚠️ **一个概念上的要点**：班卓琴在 HS 分类里属于**弦鸣**，不是膜鸣。
-> 判断依据是"**什么在振动发声**"：发源是**弦**，膜只是把弦的振动放大并染上自己的性格。
+> ⚠️ **一个概念上的要点**：班卓琴在 HS 分类里属于弦鸣，不是膜鸣。
+> 判断依据是"什么在振动发声"：发源是弦，膜只是把弦的振动放大并染上自己的性格。
 > 定音鼓是膜鸣（膜本身是振源），班卓琴不是 —— 这是 HS 体系里一条常见的分界。
 
 ## 结构：圆形琴体与短弦
@@ -124,17 +124,17 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **圆形琴体是一张鼓**。膜绷在圆环上，用二十余枚**张力钩**拉紧。
-   弦经琴桥把振动压到膜上 → **膜是放大件**。所以班卓琴的琴体不需要"音孔"：
+1. 圆形琴体是一张鼓。膜绷在圆环上，用二十余枚张力钩拉紧。
+   弦经琴桥把振动压到膜上 → 膜是放大件。所以班卓琴的琴体不需要"音孔"：
    整张膜都在辐射声音。
-2. **第五弦是短弦**。它的弦轴装在第五品的位置（不是琴头），
-   所以这根弦只能按到第五品为止 —— 它的用途是**持续音（drone）**，
-   在滚奏（roll）里提供一条固定的高音**G4**。这与[[instrument:ukulele|尤克里里]]
-   的复入式定弦属于同一类设计：**让一根弦不参与旋律，只提供色彩**。
-3. **琴颈很长、品很多**。五弦班卓的琴颈比吉他长，弦细张力小，
+2. 第五弦是短弦。它的弦轴装在第五品的位置（不是琴头），
+   所以这根弦只能按到第五品为止 —— 它的用途是持续音（drone），
+   在滚奏（roll）里提供一条固定的高音G4。这与[[instrument:ukulele|尤克里里]]
+   的复入式定弦属于同一类设计：让一根弦不参与旋律，只提供色彩。
+3. 琴颈很长、品很多。五弦班卓的琴颈比吉他长，弦细张力小，
    所以它跑动极快 —— 这也是蓝草音乐里那些密集音型的物理前提。
 
-**定弦**（第五弦到第一弦）：**G4 – D3 – G3 – B3 – D4**。
+定弦（第五弦到第一弦）：G4 – D3 – G3 – B3 – D4。
 空弦一起响就是一个 G 大三和弦，所以叫"开放 G"。
 族人里还有两个常见变体：
 
@@ -144,8 +144,8 @@ updated: 2026-09-26
 | 四弦高音班卓（tenor） | 4 | C3 G3 D4 A4（**纯五度**） | 爱尔兰传统音乐、早期爵士 |
 | 班卓里里（banjolele） | 4 | G4 C4 E4 A4（与尤克里里相同） | 轻伴奏、歌曲 |
 
-注意 tenor 班卓的定弦是**纯五度**（C–G–D–A）—— 与[[instrument:viola|中提琴]]同一套逻辑。
-这也是它成为爱尔兰传统音乐常客的原因：**它与小提琴同定弦，可以照搬指法**。
+注意 tenor 班卓的定弦是纯五度（C–G–D–A）—— 与[[instrument:viola|中提琴]]同一套逻辑。
+这也是它成为爱尔兰传统音乐常客的原因：它与小提琴同定弦，可以照搬指法。
 
 ## 发声原理：膜为什么听起来"炸"
 
@@ -191,7 +191,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-**膜与木板的差别，可以从四个物理量说清**：
+膜与木板的差别，可以从四个物理量说清：
 
 | | 膜（班卓琴） | 木板（吉他） |
 |---|---|---|
@@ -200,12 +200,12 @@ updated: 2026-09-26
 | 内阻尼 | 大（皮/塑料本身吸收能量） | 小（木材顺着纹理传能量） |
 | 结果 | **音头炸、衰减极快** | **音头柔、衰减慢** |
 
-四个量是同一条因果链：**轻 + 阻尼大 → 高频多、留不住**。
-所以班卓琴的声音**亮得刺耳、短得像敲了一下**，而且低音尤其薄
+四个量是同一条因果链：轻 + 阻尼大 → 高频多、留不住。
+所以班卓琴的声音亮得刺耳、短得像敲了一下，而且低音尤其薄
 （膜小、又留不住低频）。
 
-这也解释了它为什么在**蓝草与爱尔兰传统音乐**里那么好用：
-这些音乐要的是**节奏的清晰度**，而不是和声的厚度。
+这也解释了它为什么在蓝草与爱尔兰传统音乐里那么好用：
+这些音乐要的是节奏的清晰度，而不是和声的厚度。
 一根根音清清楚楚地"啪"出来，正是它擅长的。
 
 ## 音域
@@ -214,48 +214,48 @@ updated: 2026-09-26
 {"range":"D3–D6","common":"D3–D5","caption":"五弦班卓琴的音域（开放 G 定弦）","caption_en":"Five-string banjo range in open G","note":"最低的 D3 是第 4 弦空弦；最高按第 1 弦（D4）上到高把位约两个八度计算，随品格数不同。第 5 弦是短弦，空弦为 G4。"}
 ```
 
-音域不宽（约三个八度），但**用法很特别**：
+音域不宽（约三个八度），但用法很特别：
 
-- **低音区只有 D3 到 G3**（第 4、3 弦）。班卓琴**没有真正的低音** ——
+- 低音区只有 D3 到 G3（第 4、3 弦）。班卓琴没有真正的低音 ——
   这也是它在合奏里不承担低音声部的原因。
-- **第 5 弦（G4）是一条固定的高音线**。它不参与旋律，但在滚奏里每一个循环都会响一次，
+- 第 5 弦（G4）是一条固定的高音线。它不参与旋律，但在滚奏里每一个循环都会响一次，
   提供"闪"的听感 —— 与[[instrument:ukulele|尤克里里]]那根高音 G 弦的作用完全一样。
-- **常用区集中在中高音**（D4–D5），因为旋律通常在第 1、2 弦上跑。
+- 常用区集中在中高音（D4–D5），因为旋律通常在第 1、2 弦上跑。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **音头极"炸"**。拨弦的瞬间有一声清脆的"啪"，比吉他明显得多 ——
+1. 音头极"炸"。拨弦的瞬间有一声清脆的"啪"，比吉他明显得多 ——
    这是膜被瞬间推动的结果。
-2. **余音极短**。音出来后很快就退，所以快速音型不会糊成一片，
+2. 余音极短。音出来后很快就退，所以快速音型不会糊成一片，
    反而像一串珠子。
-3. **低音薄**。整件乐器没有厚实的底部，听起来总是"悬"在上面。
-4. **膜对温湿度很敏感**。天气变化会让膜的张力改变 → 音准与音色一起变。
+3. 低音薄。整件乐器没有厚实的底部，听起来总是"悬"在上面。
+4. 膜对温湿度很敏感。天气变化会让膜的张力改变 → 音准与音色一起变。
    演奏者常常在演出前重新调弦、甚至调膜的张力 —— 这是木吉他不需要操心的。
 
 ```audiolab
 {"type":"instrument","gm":"Banjo","synth":"plucked","phrase":["D3","G3","B3","D4","G4"],"label":"五根空弦：D3 到 G4","label_en":"Five open strings — D3 up to G4","hint":"注意最低的 D3 与最高的 G4（短弦）之间的落差 —— 中间那一段是班卓琴的常用区","hint_en":"Hear the leap from the low D3 to the G4 of the short drone string — the middle is where banjo melodies live."}
 ```
 
-> 本页「在库中听例子」里的曲子是**传统单声部舞曲**（库内没有可确认为班卓琴的曲目），
+> 「在库中听例子」里的曲子是传统单声部舞曲（库内没有可确认为班卓琴的曲目），
 > 音色由上面的试听件负责。
 
 ## 演奏技法
 
-班卓琴的右手分成**两大流派**，差别不只是手型，而是两种音乐语言：
+班卓琴的右手分成两大流派，差别不只是手型，而是两种音乐语言：
 
-- **爪锤式（clawhammer / frailing）**：手背朝外，用指甲**向下**扫弦，
+- 爪锤式（clawhammer / frailing）：手背朝外，用指甲向下扫弦，
   拇指随后拨第 5 弦（短弦）补一个高音 —— 这就是"老派"（old-time）的声音。
   节奏感强、和声简单，多用于伴唱与舞蹈。
-- **三指滚奏（Scruggs style）**：拇指、食指、中指（常戴指套）
-  按固定模式轮流拨弦，形成**滚奏（roll）** —— 这是蓝草音乐的声音。
+- 三指滚奏（Scruggs style）：拇指、食指、中指（常戴指套）
+  按固定模式轮流拨弦，形成滚奏（roll） —— 这是蓝草音乐的声音。
   速度快、颗粒密，能一边跑旋律一边维持节奏型。
 
-两种技法都高度依赖**第 5 弦那条持续音**：爪锤式用拇指拨它，滚奏在各式 pattern 里插入它。
-可以说，**没有第 5 弦，班卓琴的风格就不成立**。
+两种技法都高度依赖第 5 弦那条持续音：爪锤式用拇指拨它，滚奏在各式 pattern 里插入它。
+没有第 5 弦，班卓琴的风格就不成立。
 
-其余技法与吉他族共通：滑音、击弦、勾弦等，但**弦细、张力小**，
+其余技法与吉他族共通：滑音、击弦、勾弦等，但弦细、张力小，
 所以推弦（bend）幅度比吉他小，而滑音更滑。
 
 ## 家族与近亲
@@ -268,10 +268,10 @@ updated: 2026-09-26
 | [[instrument:classical-guitar\|古典吉他]] | 6 | E A D G B E | 木板 | 尼龙弦、指弹 |
 | [[instrument:ukulele\|尤克里里]] | 4 | G4 C4 E4 A4（复入式） | 木板 | 复入式定弦 |
 
-**一条很值得注意的对照**：班卓琴与尤克里里都是"复入式定弦 + 一根高音弦"
-（班卓是第 5 弦短弦，尤克里里是第 4 弦）—— 两者**出自完全不同的传统**
+一条很值得注意的对照：班卓琴与尤克里里都是"复入式定弦 + 一根高音弦"
+（班卓是第 5 弦短弦，尤克里里是第 4 弦）—— 两者出自完全不同的传统
 （非洲—北美 vs 葡萄牙—夏威夷），却各自独立地选到了同一种设计。
-这不是巧合：**一根固定的高音弦，是小体型拨弦乐器"把和声变得明亮"的通用手段。**
+这不是巧合：一根固定的高音弦，是小体型拨弦乐器"把和声变得明亮"的通用手段。
 
 ## 历史演变
 
@@ -287,24 +287,25 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"班卓琴是膜鸣乐器。"** → 在 HS 分类里它是**弦鸣**。判据是"**什么在振动发声**"：
-  弦是振源，**膜只是放大件**。定音鼓是膜鸣（膜本身是振源），班卓琴不是。
-- **"第 5 弦短是为了省料。"** → 那条短弦是**刻意的设计**：它空弦为高音 G4，
+- "班卓琴是膜鸣乐器。" → 在 HS 分类里它是弦鸣。判据是"什么在振动发声"：
+  弦是振源，膜只是放大件。定音鼓是膜鸣（膜本身是振源），班卓琴不是。
+- "第 5 弦短是为了省料。" → 那条短弦是刻意的设计：它空弦为高音 G4，
   比第 4 弦还高，专门提供持续音。少了它，爪锤式与滚奏都不成立。
-- **"弦越多声音越厚。"** → 班卓琴五根弦，声音却**没有低音**：膜小、又留不住低频。
+- "弦越多声音越厚。" → 班卓琴五根弦，声音却没有低音：膜小、又留不住低频。
   厚不厚取决于共鸣体，不取决于弦数。
-- **"它和吉他差不多。"** → 共鸣体一个是膜、一个是板，衰减曲线完全不同
-  （见本页第二张图）。两者在合奏里的角色因此也不同。
-- **"定弦只有一种。"** → 五弦班卓有开放 G、双 C、山调（Sawmill）等多种；
+- "它和吉他差不多。" → 共鸣体一个是膜、一个是板，衰减曲线完全不同
+  （见第二张图）。两者在合奏里的角色因此也不同。
+- "定弦只有一种。" → 五弦班卓有开放 G、双 C、山调（Sawmill）等多种；
   四弦高音班卓是纯五度；班卓里里与尤克里里相同。族群内部的差异很大。
-- **"音准调一次就行。"** → 膜对温湿度敏感，张力会变。
+- "音准调一次就行。" → 膜对温湿度敏感，张力会变。
   班卓琴演奏者需要比吉他手更频繁地检查音准，有时还要调膜。
 
 ## 下一步
 
-到这里，**西洋弦乐（I1）14 条全部完成**。想继续听"膜"这条线：
-同族里还有中东的**达夫鼓**、日本的**太鼓**（世界乐器条目里会讲）；
+到这里，西洋弦乐（I1）14 条全部完成。想继续听"膜"这条线：
+同族里还有中东的达夫鼓、日本的太鼓（世界乐器条目里会讲）；
 想对照"复入式定弦"这条线，[[instrument:ukulele|尤克里里]] 一节讲得最细。
+
 :::
 
 ::: en
@@ -325,9 +326,9 @@ It also has a counter-intuitive piece of design: **the fifth of its five strings
 | **Family** | Western · Strings (plucked branch) · shares ancestry with West African plucked instruments |
 | **Bayin** | Not applicable — the eight categories are a Chinese system; the banjo is outside it |
 
-> ⚠️ **One conceptual point**: in Hornbostel–Sachs the banjo is a **chordophone**, not a membranophone.
-> The test is **what vibrates to make the sound**: the string is the source; the membrane amplifies and
-> colours it. A timpani is a membranophone (the membrane **is** the source); a banjo is not — a common line
+> ⚠️ One conceptual point: in Hornbostel–Sachs the banjo is a chordophone, not a membranophone.
+> The test is what vibrates to make the sound: the string is the source; the membrane amplifies and
+> colours it. A timpani is a membranophone (the membrane is the source); a banjo is not — a common line
 > to get wrong in the HS system.
 
 ## Structure: a circular body and a short string
@@ -393,17 +394,17 @@ It also has a counter-intuitive piece of design: **the fifth of its five strings
 
 Three points:
 
-1. **The circular body is a drum.** The head is stretched over a rim and tensioned by twenty-odd
-   **hooks**. The strings press their vibration onto it through the bridge — **the head is the amplifier**,
+1. The circular body is a drum. The head is stretched over a rim and tensioned by twenty-odd
+   hooks. The strings press their vibration onto it through the bridge — the head is the amplifier,
    so a banjo needs no "soundhole": the whole head radiates.
-2. **The fifth string is short.** Its tuning peg sits at the fifth fret rather than on the headstock, so
-   the string can be stopped no higher than fret 5. Its job is to be a **drone**, supplying a fixed high
-   **G4** inside rolls — the same family of idea as the [[instrument:ukulele|ukulele]]'s re-entrant
-   tuning: **one string that stays out of the melody and only adds colour**.
-3. **A long neck and many frets.** The neck is longer than a guitar's and the strings are thin and
+2. The fifth string is short. Its tuning peg sits at the fifth fret rather than on the headstock, so
+   the string can be stopped no higher than fret 5. Its job is to be a drone, supplying a fixed high
+   G4 inside rolls — the same family of idea as the [[instrument:ukulele|ukulele]]'s re-entrant
+   tuning: one string that stays out of the melody and only adds colour.
+3. A long neck and many frets. The neck is longer than a guitar's and the strings are thin and
    lightly tensioned, so it moves very fast — the physical precondition for bluegrass's dense patterns.
 
-**Tuning** (fifth string to first): **G4 – D3 – G3 – B3 – D4.** Struck open, they spell a G major chord,
+Tuning (fifth string to first): G4 – D3 – G3 – B3 – D4. Struck open, they spell a G major chord,
 hence "open G". Two relatives matter:
 
 | Variant | Strings | Tuning | Used in |
@@ -412,9 +413,9 @@ hence "open G". Two relatives matter:
 | Tenor (four-string) | 4 | C3 G3 D4 A4 (**fifths**) | Irish traditional music, early jazz |
 | Banjolele | 4 | G4 C4 E4 A4 (as a ukulele) | light accompaniment, songs |
 
-Note that the tenor banjo is tuned in **perfect fifths** (C–G–D–A) — the
+Note that the tenor banjo is tuned in perfect fifths (C–G–D–A) — the
 [[instrument:viola|viola]]'s logic. That is why it became a fixture of Irish traditional music:
-**same tuning as the fiddle, so the fingerings transfer.**
+same tuning as the fiddle, so the fingerings transfer.
 
 ## How it sounds: why a membrane "cracks"
 
@@ -457,7 +458,7 @@ Note that the tenor banjo is tuned in **perfect fifths** (C–G–D–A) — the
 </svg>
 ```
 
-**The difference between membrane and plate comes down to four quantities**:
+The difference between membrane and plate comes down to four quantities:
 
 | | Membrane (banjo) | Wood plate (guitar) |
 |---|---|---|
@@ -466,12 +467,12 @@ Note that the tenor banjo is tuned in **perfect fifths** (C–G–D–A) — the
 | Internal damping | high (skin or plastic absorbs energy) | low (wood passes it along the grain) |
 | Result | **hard attack, very fast decay** | **soft attack, slow decay** |
 
-The four form one causal chain: **light plus damped means lots of high frequency and no tail.** So a banjo
-sounds **piercingly bright and as short as a tap**, with a particularly thin bass (small head, and low
+The four form one causal chain: light plus damped means lots of high frequency and no tail. So a banjo
+sounds piercingly bright and as short as a tap, with a particularly thin bass (small head, and low
 frequencies cannot be held).
 
-That also explains why it works so well in **bluegrass and Irish traditional music**: those repertoires
-want **rhythmic clarity**, not harmonic weight. A note that cracks out cleanly is exactly what it offers.
+That also explains why it works so well in bluegrass and Irish traditional music: those repertoires
+want rhythmic clarity, not harmonic weight. A note that cracks out cleanly is exactly what it offers.
 
 ## Range
 
@@ -481,22 +482,22 @@ want **rhythmic clarity**, not harmonic weight. A note that cracks out cleanly i
 
 The range is narrow (about three octaves) but its use is unusual:
 
-- **The bass runs only D3 to G3** (strings 4 and 3). A banjo has **no real bass** — which is why it does
+- The bass runs only D3 to G3 (strings 4 and 3). A banjo has no real bass — which is why it does
   not carry the bass part in an ensemble.
-- **The fifth string (G4) is a fixed high line.** It stays out of the melody, but in a roll it sounds once
+- The fifth string (G4) is a fixed high line. It stays out of the melody, but in a roll it sounds once
   per cycle, giving the shimmer — exactly the role of the ukulele's high G.
-- **The working register sits in the upper middle** (D4–D5), because melodies run on strings 1 and 2.
+- The working register sits in the upper middle (D4–D5), because melodies run on strings 1 and 2.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **An explosive attack.** The pluck lands with a sharp "crack", far more pronounced than a guitar's —
+1. An explosive attack. The pluck lands with a sharp "crack", far more pronounced than a guitar's —
    the head being set in motion at once.
-2. **A very short tail.** The note leaves almost as soon as it arrives, so fast passagework never smears;
+2. A very short tail. The note leaves almost as soon as it arrives, so fast passagework never smears;
    it beads instead.
-3. **A thin bottom.** There is no solid low end; the instrument always seems to hang above the music.
-4. **Extreme sensitivity to humidity.** Weather changes head tension, which changes intonation and timbre
+3. A thin bottom. There is no solid low end; the instrument always seems to hang above the music.
+4. Extreme sensitivity to humidity. Weather changes head tension, which changes intonation and timbre
    together. Players retune before playing and sometimes adjust the head itself — nothing a guitarist
    needs to think about.
 
@@ -504,22 +505,22 @@ Four cues:
 {"type":"instrument","gm":"Banjo","synth":"plucked","phrase":["D3","G3","B3","D4","G4"],"label":"五根空弦：D3 到 G4","label_en":"Five open strings — D3 up to G4","hint":"注意最低的 D3 与最高的 G4（短弦）之间的落差 —— 中间那一段是班卓琴的常用区","hint_en":"Hear the leap from the low D3 to the G4 of the short drone string — the middle is where banjo melodies live."}
 ```
 
-> The tracks under “Listen in the library” are **single-line traditional dance tunes** (nothing in the
+> The tracks under “Listen in the library” are single-line traditional dance tunes (nothing in the
 > library can be confirmed as banjo music); timbre comes from the player above.
 
 ## Playing techniques
 
-The right hand splits into **two schools** that differ not just in hand shape but in musical language:
+The right hand splits into two schools that differ not just in hand shape but in musical language:
 
-- **Clawhammer (frailing)**: the back of the hand faces out and the nails strike **downwards**, with the
+- Clawhammer (frailing): the back of the hand faces out and the nails strike downwards, with the
   thumb then catching the fifth string — the "old-time" sound. Strongly rhythmic, harmonically simple,
   used for songs and dancing.
-- **Scruggs style (three-finger rolls)**: thumb, index and middle finger (usually with picks) alternate in
-  fixed patterns to make **rolls** — the bluegrass sound. Fast and densely grained, able to run a melody
+- Scruggs style (three-finger rolls): thumb, index and middle finger (usually with picks) alternate in
+  fixed patterns to make rolls — the bluegrass sound. Fast and densely grained, able to run a melody
   while keeping the rhythm going.
 
-Both depend heavily on **the fifth string's drone**: clawhammer takes it with the thumb, and rolls insert
-it in every pattern. It is fair to say that **without the fifth string the banjo's styles would not exist**.
+Both depend heavily on the fifth string's drone: clawhammer takes it with the thumb, and rolls insert
+it in every pattern. It is fair to say that without the fifth string the banjo's styles would not exist.
 
 The rest of the technique is shared with the guitar family — slides, hammer-ons, pull-offs — but the
 strings are thin and lightly tensioned, so bends are smaller and slides are slicker.
@@ -534,7 +535,7 @@ strings are thin and lightly tensioned, so bends are smaller and slides are slic
 | [[instrument:classical-guitar\|Classical guitar]] | 6 | E A D G B E | wood plate | nylon strings, fingers |
 | [[instrument:ukulele\|Ukulele]] | 4 | G4 C4 E4 A4 (re-entrant) | wood plate | re-entrant tuning |
 
-**One comparison worth noting**: the banjo and the ukulele both use "re-entrant tuning plus one high
+One comparison worth noting: the banjo and the ukulele both use "re-entrant tuning plus one high
 string" (the banjo's short fifth, the ukulele's fourth) — and they come from **completely different
 traditions** (West Africa via North America; Portugal via Hawaiʻi), yet both landed independently on the
 same design. That is not coincidence: **a fixed high string is the general-purpose way for a small plucked
@@ -554,24 +555,24 @@ instrument to make its harmony sound bright.**
 
 ## Common misconceptions
 
-- **"The banjo is a membranophone."** In Hornbostel–Sachs it is a **chordophone**. The test is **what
-  vibrates to make the sound**: the string is the source, the **membrane only amplifies**. A timpani is a
+- "The banjo is a membranophone." In Hornbostel–Sachs it is a chordophone. The test is **what
+  vibrates to make the sound: the string is the source, the membrane only amplifies**. A timpani is a
   membranophone; a banjo is not.
-- **"The fifth string is short to save material."** That short string is **deliberate design**: open it
+- "The fifth string is short to save material." That short string is deliberate design: open it
   sounds G4, higher than the fourth string, expressly as a drone. Without it neither clawhammer nor rolls
   would exist.
-- **"More strings means a thicker sound."** A banjo has five strings and **no bass**: a small head cannot
+- "More strings means a thicker sound." A banjo has five strings and no bass: a small head cannot
   hold low frequencies. Thickness comes from the resonator, not the string count.
-- **"It is more or less a guitar."** One resonator is a membrane, the other a plate, and the decay curves
+- "It is more or less a guitar." One resonator is a membrane, the other a plate, and the decay curves
   differ completely (see the second diagram). Their roles in an ensemble differ for the same reason.
-- **"There is only one tuning."** Five-string banjos use open G, double C, sawmill and more; tenor banjos
+- "There is only one tuning." Five-string banjos use open G, double C, sawmill and more; tenor banjos
   are tuned in fifths; banjoleles match a ukulele. The family's internal variety is large.
-- **"Tune it once and you are done."** The head is humidity-sensitive and its tension drifts.
+- "Tune it once and you are done." The head is humidity-sensitive and its tension drifts.
   Banjo players check intonation more often than guitarists, and sometimes adjust the head itself.
 
 ## Next
 
-That completes **all 14 entries of I1 (Western strings)**. To follow the "membrane" thread further: the
-same family includes the Middle Eastern **daf** and the Japanese **taiko** (covered with world instruments). For
+That completes all 14 entries of I1 (Western strings). To follow the "membrane" thread further: the
+same family includes the Middle Eastern daf and the Japanese taiko (covered with world instruments). For
 "re-entrant tuning", the [[instrument:ukulele|ukulele]] entry covers it in most detail.
 :::

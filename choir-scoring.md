@@ -33,74 +33,35 @@ updated: 2026-10-21
 ---
 
 ::: zh
+十六世纪的圣马可大教堂，唱诗班分坐在两座楼廊里。一群唱「呼」，一群唱「应」，中间隔着整个中殿。
 
-## ⭐⭐ 主线：编制是另一种建筑声学
-
-> 「**this placement of performers and the specific writing of the parts
-> created the first type of stereo sound and three-dimensional
-> listening experiences**」.
-
-⭐⭐ **人类第一套立体声，是两群人站在楼廊里**——cori spezzati（分隔合唱）
-16 世纪在圣马可大教堂发展：「composers would contrast different
-instrumentalists and groups of singers utilizing the effects of space in
-the performance venue, that is, the church」。
-⭐⭐ **空间是乐器，建筑是总谱。**
-
-| HS 分类 | 归属 |
+| 分类 | 归属 |
 |---|---|
-| **HS 分类** | **人体（气鸣 · 簧振 + 滤波）的群体化**——**合唱不是「很多人唱歌」，是把「人」组织成一件乐器的技术** |
-| **出身** | ⭐⭐ **16 世纪威尼斯圣马可大教堂**（1420s 起雇佣最好的音乐家 · Willaert 带入尼德兰复调 · Gabrieli  perfected cori spezzati） |
-| **八音注** | 八音之外——**中国的一领众和是它的民间表亲：一群人喊、一群人应，中间隔着的空间就是乐器** |
+| HS 分类 | 人体（气鸣 · 簧振 + 滤波）的群体化：把人组织成一件乐器 |
+| 出身 | 16 世纪威尼斯圣马可；1420 年代起雇佣最好的乐师，维拉尔特带来尼德兰复调 |
+| 八音 | 不适用 |
 
-## ⭐⭐ 声部民主化：复调革命
+## 空间是乐器
 
-⭐⭐ **尼德兰复调的本质**：「treat each voice part as being of **equal
-importance**, rather than……one voice singing a slow cantus firmus,
-with other parts providing fluent, yet unimportant, contrapuntal
-accompaniments」——⭐⭐ **从「一个声部唱长音、其他声部陪衬」到
-「每个声部都是主体」——声部的平等，比人的平等早三百年在乐谱上实现。**
+分隔合唱（cori spezzati）的做法，是让不同的人声组与器乐组互相对照，用的正是教堂这座建筑的空间效果。一群奏「呼」，一群给「应」。这种摆位加上为它写的声部，造出了最早的立体声与三维听感。空间是乐器，建筑是总谱。
 
-## ⭐⭐ Sonata pian'e forte（1597）
+## 每个声部都是主体
 
-> 「**pioneering in musical scoring in that Gabrieli wrote specific
-> louds and softs into the individual parts**」.
+尼德兰复调带来的变化听起来抽象，其实很具体：从前是一个声部唱缓慢的定旋律，其余声部提供流畅但不重要的对位；新写法把每个声部都当成同等重要。声部的平等比人的平等早三百年写在乐谱上。
 
-⭐⭐ **p/f 记号 + pianoforte 乐器（约 1700 Cristofori 定型）——
-同一个语义场在分谱与键盘上同时生长：表达第一次成为可书写的参数。**
-（对照 vocal-production 条：力度从来是唱法的变量，1597 年后它成了乐谱的指令。）
+1597 年的《Sonata pian'e forte》把强弱写进分谱：加布里埃利为每个声部标出具体的强与弱。力度从此不只是唱法的变量，而成了谱面上的指令。这与键盘上 pianoforte 的出现是同一件事的两面：表达第一次成为可以书写的参数。
 
-## ⭐⭐ In ecclesiis（1615）：四层织体
+## 四层织体与编制的家族
 
-⭐⭐ **「Gabrieli has three 『choirs』 at play: the soloists, the chorus,
-and the instruments, all supported by the organ」**＋ **continuo**——
-⭐⭐ **独唱 · 合唱 · 器乐 · 管风琴：四层编制是巴洛克教堂的「多轨录音」；
-通奏低音是和声地基，独唱在地基上装饰。**
+1615 年的《In ecclesiis》里同时有三组「合唱」在动：独唱、合唱队、器乐，全部由管风琴托着。管风琴从头奏到尾，独唱因此可以装饰得更自由。独唱、合唱、器乐、管风琴——四层编制，是巴洛克教堂的多轨录音。
 
-## ⭐⭐ 编制家族
+编制家族：SATB 四部混声是基本盘；同声有 SSA 与 TTBB；SSAATTBB 是八部；双合唱 SATB-SATB，拉絮斯与加布里埃利都写；室内合唱二三十人，交响合唱团一百到二百人，歌剧合唱是舞台上的群众声部。人数与声部数决定和声密度——编制就是音色设计。
 
-| 编制 | 形态 |
-|---|---|
-| SATB | 四部混声（基本盘） |
-| 同声 | SSA（女声）· TTBB（男声） |
-| SSAATTBB | 八部（两个四部组的合并） |
-| 双合唱 | SATB-SATB（Lassus 与 Gabrieli 都写） |
-| 室内合唱 | 约 20–40 人 |
-| 交响合唱团 | 100–200 人 |
-| 歌剧合唱 | 舞台上的「群众声部」 |
+## 中国线，和声像旋钮
 
-⭐⭐ **编制就是音色设计——人数与声部数决定和声密度与织体。**
-（对照 voice-types 条：SATB 是分类学，合唱是把分类学变成音响的机器。）
+一领众和的合唱化，把民间的领唱变成了第一声部的前身；1939 年冼星海的《黄河大合唱》让合唱成为现代中国的建制性体裁。侗族大歌无指挥、无伴奏、多声部——没有编制的多声部也存在。
 
-## ⭐ 中国线与 MIDI 的楼廊
-
-⭐⭐ **一领众和的合唱化**（领 = 第一声部前形态的现代兑现）；
-**1939 年冼星海《黄河大合唱》**（光未然词）把合唱变成现代中国的建制性体裁。
-⭐⭐ **侗族大歌（无指挥 · 无伴奏 · 多声部）——没有编制的多声部：
-编制是西方的发明，多声部是人类的共同财产。**
-
-⭐⭐ **MIDI 的楼廊**：双合唱的左右分置 → 20 世纪 pan 旋钮与多轨录音机 →
-DAW 的自动化声像——⭐⭐ **从圣马可的楼廊到 Ableton 的 panning：
-cori spezzati 的数字后裔，把「空间」做成了可拖动的参数。**
+双合唱的左右分置，在 20 世纪变成 pan 旋钮与多轨录音机，在 21 世纪变成 DAW 里的自动化声像。从圣马可的楼廊到软件里的 panning，空间被做成了一个可以拖动的参数。
 
 ```svg
 <svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Choir scoring: the split choirs of St Mark's — two four-part choirs in facing lofts calling and answering across the sanctuary, the organ in the middle; the first stereo was architectural">
@@ -158,82 +119,35 @@ cori spezzati 的数字后裔，把「空间」做成了可拖动的参数。**
 :::
 
 ::: en
+Two choirs sit in facing lofts in sixteenth-century St Mark's. One calls, one answers, and the nave between them is part of the instrument.
 
-## ⭐⭐ The main line: scoring is another kind of architectural acoustics
-
-> 「**this placement of performers and the specific writing of the parts
-> created the first type of stereo sound and three-dimensional
-> listening experiences**」.
-
-⭐⭐ **Humanity's first stereo was two choirs standing in facing lofts** —
-cori spezzati (split choirs) developed at St. Mark's Basilica in the
-sixteenth century: 「composers would contrast different instrumentalists and
-groups of singers utilizing the effects of space in the performance venue,
-that is, the church」. ⭐⭐ **Space is an instrument; the building is the score.**
-
-| HS class | Assignment |
+| Classification | Value |
 |---|---|
-| **HS class** | **the collectivisation of the body (aerophone · reed vibration + filtering)** — **a choir is not 「many people singing」 but the technique of organising people into one instrument** |
-| **Origin** | ⭐⭐ **sixteenth-century St. Mark's Basilica, Venice** (the best musicians employed from the 1420s · Willaert bringing Netherlandish polyphony · Gabrieli perfecting cori spezzati) |
-| **Bayin note** | Outside the bayin — **China's call-and-response is its folk cousin: one group calls, one answers, and the space between them is the instrument** |
+| HS class | the collectivised body (aerophone, reed vibration plus filtering): people organised into one instrument |
+| Origin | St Mark's, Venice, from the 1420s; Willaert brings Netherlandish polyphony |
+| Bayin | not applicable |
 
-## ⭐⭐ The democratisation of parts: the polyphonic revolution
+## Space as an instrument
 
-⭐⭐ **The essence of Netherlandish polyphony**: 「treat each voice part as
-being of **equal importance**, rather than……one voice singing a slow cantus
-firmus, with other parts providing fluent, yet unimportant, contrapuntal
-accompaniments」 — ⭐⭐ **from 「one voice holding a long note while the others
-accompany」 to 「every voice is a subject」 — the equality of parts arrived on
-paper three centuries before the equality of people.**
+Cori spezzati set different groups of voices and instruments against one another, using the acoustics of the building itself. One group plays the call, another gives the response. That placement, plus the parts written for it, produced the first stereo sound and the first three-dimensional listening. Space is the instrument; the building is the score.
 
-## ⭐⭐ Sonata pian'e forte (1597)
+## Every part a subject
 
-> 「**pioneering in musical scoring in that Gabrieli wrote specific louds
-> and softs into the individual parts**」.
+The change brought by Netherlandish polyphony sounds abstract and is not: formerly one voice held a slow cantus firmus while the others supplied fluent but unimportant counterpoint; the new writing treated every part as equally important. The equality of parts reached the page three centuries before the equality of people.
 
-⭐⭐ **The p/f signs plus the pianoforte (crystallised by Cristofori around
-1700) — the same semantic field growing at once on the part and the keyboard:
-expression became a writable parameter for the first time.** (Against the
-vocal-production entry: dynamics were always a variable of singing; after
-1597 they became an instruction in the score.)
+The Sonata pian'e forte of 1597 wrote loud and soft into the individual parts, with Gabrieli marking specific dynamics for each. Dynamics stopped being only a singer's variable and became an instruction on the page.
 
-## ⭐⭐ In ecclesiis (1615): a four-layer texture
+## Four layers, and a family of scorings
 
-⭐⭐ **「Gabrieli has three 『choirs』 at play: the soloists, the chorus, and
-the instruments, all supported by the organ」** plus **continuo** —
-⭐⭐ **soloists · chorus · instruments · organ: a four-layer scoring, the
-Baroque basilica's 「multitrack recording」; the continuo is the harmonic
-foundation, the soloist decorates upon it.**
+In In ecclesiis of 1615 three choirs are at work at once: soloists, chorus and instruments, all held up by the organ. The organ plays throughout, which lets the soloist ornament more freely. Soloists, chorus, instruments, organ — a four-layer scoring that is the Baroque basilica's multitrack recording.
 
-## ⭐⭐ The scoring family
+The family: SATB is the base; equal voices give SSA and TTBB; SSAATTBB is eight parts; the double choir SATB-SATB was written by both Lassus and Gabrieli; chamber choirs run twenty to forty singers, symphonic choruses one to two hundred, and the opera chorus is the crowd on stage. Headcount and part-count decide harmonic density, so scoring is timbre design.
 
-| Scoring | Form |
-|---|---|
-| SATB | four-part mixed choir (the base) |
-| Equal voices | SSA (female) · TTBB (male) |
-| SSAATTBB | eight parts (two four-part groups merged) |
-| Double choir | SATB-SATB (Lassus and Gabrieli both wrote it) |
-| Chamber choir | about 20–40 singers |
-| Symphonic chorus | 100–200 singers |
-| Opera chorus | the 「mass voice」 on stage |
+## A Chinese line, and a pan knob
 
-⭐⭐ **Scoring is timbre design — headcount and part-count decide the
-harmonic density.** (Against the voice-types entry: SATB is a taxonomy; the
-choir is the machine that turns the taxonomy into sound.)
+Call-and-response became choral, turning the folk lead into a proto-first voice; Xian Xinghai's Yellow River Cantata of 1939 made the chorus an institution of modern China. The Kam grand song is unconducted, unaccompanied and polyphonic — polyphony without scoring.
 
-## ⭐ The Chinese line and MIDI's loft
-
-⭐⭐ **The choralisation of call-and-response** (the modern redemption of
-「the lead is the proto-first voice」); **Xian Xinghai's Yellow River
-Cantata (1939)**, text by Guang Weiran, made the chorus an institutional
-genre of modern China. ⭐⭐ **Kam grand song (no conductor · a cappella ·
-polyphonic) — polyphony without scoring: scoring is a Western invention,
-polyphony is humanity's shared property.**
-
-⭐⭐ **MIDI's loft**: the double choir's left-right placement → the twentieth
-century's pan knob and multitrack recorder → the DAW's automated panning —
-⭐⭐ **from St. Mark's lofts to Ableton's panning: cori spezzati's digital
-descendants turned 「space」 into a draggable parameter.**
+The double choir's left-right placement became the pan knob and the multitrack tape, then automation in a DAW. From St Mark's lofts to panning in software, space turned into a parameter you can drag.
 
 ```svg
 <svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Choir scoring: the split choirs of St Mark's — two four-part choirs in facing lofts calling and answering across the sanctuary, the organ in the middle; the first stereo was architectural">
@@ -280,5 +194,4 @@ descendants turned 「space」 into a draggable parameter.**
 ```audiolab
 {"type":"instrument","gm":"Choir Aahs","phrase":["C3","E3","G3","C4","E4","G4","C5"],"label":"合唱编制的四部混声：借合唱人声近似 SATB 织体","label_en":"Choir scoring's four-part texture — choir aahs stand in for the SATB weave","hint":"合唱编制的本质是「把『人』组织成一件乐器」——这条合唱人声取其「群体质感」，但它最标志的三个特征在这里听不出来：一是空间——cori spezzati 的分置楼廊让两群人在教堂两端呼应，「第一套立体声」是建筑造的，不是音箱造的；二是声部民主化——尼德兰复调让每个声部都成为主体（cantus firmus 长音 + 陪衬声部的时代结束了）；三是编制即音色设计——人数与声部数决定和声密度，而侗族大歌证明：没有编制的多声部同样存在——编制是西方的发明，多声部是人类的共同财产。","hint_en":"Choir scoring's essence is 「organising people into one instrument」 — this choir-aahs sample takes the mass quality, but its three signatures are absent: space — the split lofts of cori spezzati let two choirs answer across a basilica, and the 「first stereo」 was built by architecture, not speakers; the democratisation of parts — Netherlandish polyphony made every voice a subject (ending the era of the cantus firmus plus mere accompaniment); and scoring as timbre design — headcount and part-count decide harmonic density, while Kam grand song proves multiphonic singing exists without scoring: scoring is a Western invention, polyphony is humanity's shared property."}
 ```
-
 :::

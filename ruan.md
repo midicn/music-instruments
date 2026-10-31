@@ -48,18 +48,18 @@ updated: 2026-09-26
 > 这一类里有两支：
 > | 形制 | 后来叫什么 |
 > |---|---|
-> | **圆形音箱 · 直项** | **「琵琶」这个名字被另一支拿走之后 → 改称阮咸（今称阮）** |
-> | 梨形音箱 · 曲项 | **唐代大流行，独占了「琵琶」这个名字** |
+> | **圆形音箱 · 直项** | 「琵琶」这个名字被另一支拿走之后 → 改称阮咸（今称阮） |
+> | 梨形音箱 · 曲项 | 唐代大流行，独占了「琵琶」这个名字 |
 >
-> **唐代**，曲项的梨形琵琶传入并风行，把**「琵琶」这三个字占了下来**；
-> 于是这种**直柄圆形的琵琶**只好改用一个人的名字：**「阮咸」** ——
+> 唐代，曲项的梨形琵琶传入并风行，把「琵琶」这三个字占了下来；
+> 于是这种直柄圆形的琵琶只好改用一个人的名字：「阮咸」 ——
 > 西晋「竹林七贤」里最擅长弹这件乐器的那一位。
 >
-> **名字是一种稀缺资源。** 一类乐器分了家，必有一方要改姓。
+> 名字是一种稀缺资源。 一类乐器分了家，必有一方要改姓。
 > 现在把本批攒下的三条"名字史"并排看：
-> **① 名字可以描述动作**（[[instrument:pipa|琵琶]]：琵＝前弹，琶＝后挑）
-> **② 名字可以换位置**（[[instrument:xiao|箫]]与笛：「今之箫乃古之笛」）
-> **③ 名字可以被抢走**（**阮**：琵琶被夺，只好改用"阮咸"）
+> ① 名字可以描述动作（[[instrument:pipa|琵琶]]：琵＝前弹，琶＝后挑）
+> ② 名字可以换位置（[[instrument:xiao|箫]]与笛：「今之箫乃古之笛」）
+> ③ 名字可以被抢走（阮：琵琶被夺，只好改用"阮咸"）
 
 | 分类 | 归属 |
 |---|---|
@@ -109,11 +109,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **圆形音箱**。这是它与[[instrument:pipa|琵琶]]最直观的差别：
-   **一个是圆腹（满月形），一个是梨形** —— 而**这正是当年两支分家的标志**。
-2. **直项**。琴颈直直向上，没有琵琶那样的"曲项"（向后折的琴头）。
-3. **二十四品，按十二平均律排列**。品是**固定**的、横跨四根弦的横条 ——
-   于是一根弦上能按出**很多个音**（这一点与[[instrument:zheng|筝]]的"一弦一柱一音"正相反）。
+1. 圆形音箱。这是它与[[instrument:pipa|琵琶]]最直观的差别：
+   一个是圆腹（满月形），一个是梨形 —— 而这正是当年两支分家的标志。
+2. 直项。琴颈直直向上，没有琵琶那样的"曲项"（向后折的琴头）。
+3. 二十四品，按十二平均律排列。品是固定的、横跨四根弦的横条 ——
+   于是一根弦上能按出很多个音（这一点与[[instrument:zheng|筝]]的"一弦一柱一音"正相反）。
 
 ## 柱 · 品 · 无
 
@@ -152,7 +152,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图是本批对"取音方式"的一次总收束** —— 三件乐器、三种答案：
+这张图是本批对"取音方式"的一次总收束 —— 三件乐器、三种答案：
 
 | 做法 | 例子 | 一弦能出几个音 | 音高是 | 音量与速度 |
 |---|---|---|---|---|
@@ -160,23 +160,23 @@ updated: 2026-09-26
 | **品**（固定） | **阮** · [[instrument:pipa\|琵琶]] | **很多** | **台阶** | 中 |
 | **无** | [[instrument:guqin\|古琴]] · [[instrument:sanxian\|三弦]] | **很多** | **连续的线** | 小 · 慢 |
 
-**而这三条路的取舍是可以算清的**：
-**柱**把音高的决定权换成了音量与速度；
-**品**保留了一弦多音，代价是音高变成台阶（滑音要靠推弦）；
-**无**让音高完全连续，代价是把一切交给左手的功夫。
+而这三条路的取舍是可以算清的：
+柱把音高的决定权换成了音量与速度；
+品保留了一弦多音，代价是音高变成台阶（滑音要靠推弦）；
+无让音高完全连续，代价是把一切交给左手的功夫。
 
 ## 它在乐队里：和笙同一种角色
 
-阮的音色**中正浑厚、圆润而富有诗意** —— 而它在民族乐队里的位置，
-与[[instrument:sheng|笙]]在吹管组里的位置**非常像**：
+阮的音色中正浑厚、圆润而富有诗意 —— 而它在民族乐队里的位置，
+与[[instrument:sheng|笙]]在吹管组里的位置非常像：
 
-> **靠"音响的融合性"和"便于演奏和声"立足** ——
-> 不是最抢耳的那一件，而是**让整个声部丰满起来的那一件**。
+> 靠"音响的融合性"和"便于演奏和声"立足 ——
+> 不是最抢耳的那一件，而是让整个声部丰满起来的那一件。
 
 这与"音量就是社会半径"那条线对得上：
-**它不是最大声的，也不是最私密的 —— 它是"中间那件"，负责把乐队黏起来。**
-现代阮按音区自成一套（高音阮 · 小阮 · **中阮** · 大阮 · 低音阮），
-**中阮与大阮是民族乐团的标准编制。**
+它不是最大声的，也不是最私密的 —— 它是"中间那件"，负责把乐队黏起来。
+现代阮按音区自成一套（高音阮 · 小阮 · 中阮 · 大阮 · 低音阮），
+中阮与大阮是民族乐团的标准编制。
 
 ## 音域
 
@@ -184,20 +184,20 @@ updated: 2026-09-26
 {"range":"G2–D5","caption":"阮的音域（以中阮为例 · 示意）","caption_en":"Ruan range — the middle ruan as the example (indicative)","note":"阮属弦鸣乐器（拨弦，有品）。现代阮按音区分为高音阮 · 小阮 · 中阮 · 大阮 · 低音阮，定弦各不相同：中阮 G2 · D3 · G3 · D4，大阮 D2 · A2 · D3 · A3，小阮 D3 · A3 · D4 · A4，高音阮 G3 · D4 · G4 · D5，低音阮 G1 · D2 · G2 · D3。音域随品数向上扩展（现代为二十四品），此处按中阮取 G2–D5 示意 —— 各规格音高不同，本图不代表所有阮。记谱即实音。"}
 ```
 
-- **以中阮为例约 G2–D5**（示意）。它是一件**按音区分工**的乐器：
-  想更低就换大阮，想更高就换小阮 —— **不是靠一件乐器覆盖全部音区**。
-- **它替的是"中音"这个位置**。民族乐队缺中低音，这正是阮复兴的直接原因。
-- **低音阮之外还有过"拉阮"**（仿大提琴的拉弦版），因效果不理想很少续用 ——
-  **一次"造一件低音乐器"的尝试，也是一次对"什么在振动"的试探。**
+- 以中阮为例约 G2–D5（示意）。它是一件按音区分工的乐器：
+  想更低就换大阮，想更高就换小阮 —— 不是靠一件乐器覆盖全部音区。
+- 它替的是"中音"这个位置。民族乐队缺中低音，这正是阮复兴的直接原因。
+- 低音阮之外还有过"拉阮"（仿大提琴的拉弦版），因效果不理想很少续用 ——
+  一次"造一件低音乐器"的尝试，也是一次对"什么在振动"的试探。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **圆、厚、柔**。四根弦跨在一个圆形音箱上，声音比[[instrument:pipa|琵琶]]**更圆、更少棱角**。
-2. **不抢耳**。它的音量中等，适合在合奏里**垫和声、铺声部**。
-3. **有品的颗粒感**。与琵琶同族：**音是一颗颗清楚的珠子**，但比琵琶暗一些。
-4. **能弹和声**。四根弦 + 二十四品 → 它可以同时按出几个音，
+1. 圆、厚、柔。四根弦跨在一个圆形音箱上，声音比[[instrument:pipa|琵琶]]更圆、更少棱角。
+2. 不抢耳。它的音量中等，适合在合奏里垫和声、铺声部。
+3. 有品的颗粒感。与琵琶同族：音是一颗颗清楚的珠子，但比琵琶暗一些。
+4. 能弹和声。四根弦 + 二十四品 → 它可以同时按出几个音，
    这在民族弹拨乐器里是一项实用的能力。
 
 ```audiolab
@@ -206,12 +206,12 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **坐姿抱弹**。琴身置于大腿上、抱于胸前，左手按弦，右手持**拨片**弹奏
+- 坐姿抱弹。琴身置于大腿上、抱于胸前，左手按弦，右手持拨片弹奏
   （1980 年代以前以假甲为主，后因弦张力较大逐渐改用拨片）。
-- **右手技法 30 余种**：弹 · 挑 · 勾 · 抹 · 扣 · 划 · 轮 · 拂 · 分 · 摇 · 扫 · 滚 等。
-- **左手技法 10 余种**：泛音 · 打音 · 勾 · 带 · 滑 · 推 · 拉 · 吟 · 揉 等。
-- **推拉做滑音**。因为有品，滑音要靠**推弦改变张力** —— 与琵琶同一套办法。
-- **演奏方法尚未完全统一**。阮的复兴仍在起步阶段，各家方法有差异。
+- 右手技法 30 余种：弹 · 挑 · 勾 · 抹 · 扣 · 划 · 轮 · 拂 · 分 · 摇 · 扫 · 滚 等。
+- 左手技法 10 余种：泛音 · 打音 · 勾 · 带 · 滑 · 推 · 拉 · 吟 · 揉 等。
+- 推拉做滑音。因为有品，滑音要靠推弦改变张力 —— 与琵琶同一套办法。
+- 演奏方法尚未完全统一。阮的复兴仍在起步阶段，各家方法有差异。
 
 ## 家族与近亲
 
@@ -224,9 +224,9 @@ updated: 2026-09-26
 | [[instrument:sanxian\|三弦]] | **小鼓状** | 无品 | **无** | 戏曲 · 说唱伴奏 |
 | 月琴 | 圆形 | 短颈 | 品 | 戏曲 · 民间（**曾与阮同器异名**） |
 
-**这一族的分岔只有两问**：**音箱什么形状** · **取音靠柱、靠品，还是靠手指**。
-**阮的回答是"圆形 + 品"** —— 而它的名字，则提醒了我们第三件事：
-**分类会分家，分家之后，名字要重新分配。**
+这一族的分岔只有两问：音箱什么形状 · 取音靠柱、靠品，还是靠手指。
+阮的回答是"圆形 + 品" —— 而它的名字，则提醒了我们第三件事：
+分类会分家，分家之后，名字要重新分配。
 
 ## 历史演变
 
@@ -240,35 +240,36 @@ updated: 2026-09-26
 | 1950 年代以来 | 改良为 **4 弦 24 品**、加大共鸣箱、改用钢弦；仿提琴家族形成**高音阮 · 小阮 · 中阮 · 大阮 · 低音阮**；**自此阮与月琴成为两种乐器** |
 | 1987 年 | 刘星的**《云南回忆》中阮协奏曲**，奠定了阮作为独奏乐器的地位 |
 
-**它有一个很特别的历史事实**：
-**阮的古曲谱全部失传，而现代阮与传统阮的性能差别又很大 —— 所以现代阮几乎没有传统曲目。**
-它的曲目**全部是当代人写的新作**。
-**一件有两千年的乐器，却有一段全新的曲目史** —— 这不是特例：
+它有一个很特别的历史事实：
+阮的古曲谱全部失传，而现代阮与传统阮的性能差别又很大 —— 所以现代阮几乎没有传统曲目。
+它的曲目全部是当代人写的新作。
+一件有两千年的乐器，却有一段全新的曲目史 —— 这不是特例：
 [[instrument:sheng|笙]]的现代改革、[[instrument:bianqing|编磬]]的复制品，都是同一类情形。
 
 ## 常见误解
 
-- **"阮是一种很年轻的乐器。"** 它的**前身可追溯到汉代**（圆体直项四弦十二柱）；
-   "年轻"的只是**现代改良形制**（4 弦 24 品 · 钢弦 · 成套声部）。
-- **"阮和琵琶是两种不同的乐器，所以没有关系。"** 关系很深：
-   **汉唐时它们同属"琵琶"这一类**；唐代**曲项的那一支占用了这个名字**，
-   直项的那一支才改用"阮咸"。**它们是分家的兄弟。**
-- **"阮的名字来自它的形状。"** 不是 —— 名字来自**人**：
-   西晋竹林七贤的**阮咸**最擅弹此器，故而得名。
-- **"阮只是乐队的配角。"** 它在民族乐队里确实承担中音与和声 ——
-   但那正是[[instrument:sheng|笙]]在吹管组里的角色：**靠融合性立足的，往往是最不可缺少的。**
-- **"阮的传统曲目很丰富。"** **恰恰相反**：古谱失传 + 形制大改 →
-   **现代阮几乎没有传统乐曲**，曲目都是当代创作。
-- **"八音说它是丝，所以只能用丝弦。"** 与[[instrument:guqin|古琴]]同理：
-   **八音记的是它诞生时的材料**；现代用钢弦，音量与稳定性都更好。
+- "阮是一种很年轻的乐器。" 它的前身可追溯到汉代（圆体直项四弦十二柱）；
+   "年轻"的只是现代改良形制（4 弦 24 品 · 钢弦 · 成套声部）。
+- "阮和琵琶是两种不同的乐器，所以没有关系。" 关系很深：
+   汉唐时它们同属"琵琶"这一类；唐代曲项的那一支占用了这个名字，
+   直项的那一支才改用"阮咸"。它们是分家的兄弟。
+- "阮的名字来自它的形状。" 不是 —— 名字来自人：
+   西晋竹林七贤的阮咸最擅弹此器，故而得名。
+- "阮只是乐队的配角。" 它在民族乐队里确实承担中音与和声 ——
+   但那正是[[instrument:sheng|笙]]在吹管组里的角色：靠融合性立足的，往往是最不可缺少的。
+- "阮的传统曲目很丰富。" 恰恰相反：古谱失传 + 形制大改 →
+   现代阮几乎没有传统乐曲，曲目都是当代创作。
+- "八音说它是丝，所以只能用丝弦。" 与[[instrument:guqin|古琴]]同理：
+   八音记的是它诞生时的材料；现代用钢弦，音量与稳定性都更好。
 
 ## 下一步
 
-**弹拨里还剩最后一件**：[[instrument:sanxian|三弦]] ——
-它把这一族的"取音方式"表走完最后一格：**无柱、无品**，
-却靠**一张小鼓做的音箱**发声。
-**而它要回答的是"乐器最少的零件可以是几个"**：
-**三根弦、一个鼓、什么都没有的琴颈 —— 它凭什么在戏曲与说唱里当了上千年的主力？**
+弹拨里还剩最后一件：[[instrument:sanxian|三弦]] ——
+它把这一族的"取音方式"表走完最后一格：无柱、无品，
+却靠一张小鼓做的音箱发声。
+而它要回答的是"乐器最少的零件可以是几个"：
+三根弦、一个鼓、什么都没有的琴颈 —— 它凭什么在戏曲与说唱里当了上千年的主力？
+
 :::
 
 ::: en
@@ -281,17 +282,17 @@ somebody else.**
 > | Form | What it came to be called |
 > |---|---|
 > | **round body · straight neck** | **after the other branch took the name → "ruanxian"**, today the ruan |
-> | pear-shaped body · **bent neck** | **wildly popular in the Tang; it monopolised the name "pipa"** |
+> | pear-shaped body · bent neck | wildly popular in the Tang; it monopolised the name "pipa" |
 >
-> **In the Tang** the bent-necked, pear-shaped pipa arrived and took over the three characters 「琵琶」; so this
-> **straight-necked, round-bodied pipa** had to use a person's name instead — **Ruan Xian**, the member of the
+> In the Tang the bent-necked, pear-shaped pipa arrived and took over the three characters 「琵琶」; so this
+> straight-necked, round-bodied pipa had to use a person's name instead — Ruan Xian, the member of the
 > third-century "Seven Sages of the Bamboo Grove" who played it best.
 >
-> **A name is a scarce resource.** When one class of instruments divides, one side must change its surname.
+> A name is a scarce resource. When one class of instruments divides, one side must change its surname.
 > Set the batch's three naming stories side by side:
-> **① a name can describe an action** (the [[instrument:pipa|pipa]]: **pi** = forward pluck, **pa** = backward)
-> **② a name can change places** (the [[instrument:xiao|xiao]] and the di: "today's xiao is the di of antiquity")
-> **③ a name can be taken away** (**the ruan**: the pipa was seized, so it took "ruanxian")
+> ① a name can describe an action (the [[instrument:pipa|pipa]]: pi = forward pluck, pa = backward)
+> ② a name can change places (the [[instrument:xiao|xiao]] and the di: "today's xiao is the di of antiquity")
+> ③ a name can be taken away (the ruan: the pipa was seized, so it took "ruanxian")
 
 | Classification | Value |
 |---|---|
@@ -341,11 +342,11 @@ somebody else.**
 
 Three points:
 
-1. **A round soundbox.** This is the plainest difference from the [[instrument:pipa|pipa]]: **one round, one
+1. A round soundbox. This is the plainest difference from the [[instrument:pipa|pipa]]: **one round, one
    pear-shaped** — and that is exactly the mark by which the two branches divided.
-2. **A straight neck.** No bent-back headstock as on the pipa.
-3. **Twenty-four frets in equal temperament.** Frets are **fixed bars crossing all four strings** — so one string
-   can produce **many notes**, the exact opposite of the [[instrument:zheng|zheng]]'s one-bridge-one-note.
+2. A straight neck. No bent-back headstock as on the pipa.
+3. Twenty-four frets in equal temperament. Frets are fixed bars crossing all four strings — so one string
+   can produce many notes, the exact opposite of the [[instrument:zheng|zheng]]'s one-bridge-one-note.
 
 ## Bridge, fret, or neither
 
@@ -384,7 +385,7 @@ Three points:
 </svg>
 ```
 
-**This figure closes the batch's survey of "how a pitch is taken from a string"** — three instruments, three
+This figure closes the batch's survey of "how a pitch is taken from a string" — three instruments, three
 answers:
 
 | Approach | Examples | Notes per string | Pitch is | Volume and speed |
@@ -393,21 +394,21 @@ answers:
 | **Fret** (fixed) | **Ruan** · [[instrument:pipa\|Pipa]] | **many** | **steps** | medium |
 | **Neither** | [[instrument:guqin\|Guqin]] · [[instrument:sanxian\|Sanxian]] | **many** | **a continuous line** | small · slow |
 
-**And the trade-offs can be totalled up**: a **bridge** trades the decision about pitch for volume and speed; a
-**fret** keeps many notes per string but turns pitch into steps (slides then need string-bending); **neither**
+And the trade-offs can be totalled up: a bridge trades the decision about pitch for volume and speed; a
+fret keeps many notes per string but turns pitch into steps (slides then need string-bending); neither
 leaves pitch continuous and puts everything on the left hand.
 
 ## In the band: the same role as the sheng
 
-The ruan's tone is **centred, full, mellow and poetic** — and its place in a Chinese orchestra is very much like
+The ruan's tone is centred, full, mellow and poetic — and its place in a Chinese orchestra is very much like
 the [[instrument:sheng|sheng]]'s among the winds:
 
-> **It earns its seat through "blending power" and "easy chord-playing"** —
-> not the most attention-grabbing instrument, but **the one that fills out the whole section.**
+> It earns its seat through "blending power" and "easy chord-playing" —
+> not the most attention-grabbing instrument, but the one that fills out the whole section.
 
 This lines up with the "volume is social radius" thread: **it is neither the loudest nor the most private — it is
 the middle one, the one that glues the band together.** Modern ruans form a family by register (soprano, small,
-**middle**, large, bass), and **the middle and large ruans are standard in Chinese orchestras.**
+middle, large, bass), and the middle and large ruans are standard in Chinese orchestras.
 
 ## Range
 
@@ -415,22 +416,22 @@ the middle one, the one that glues the band together.** Modern ruans form a fami
 {"range":"G2–D5","caption":"阮的音域（以中阮为例 · 示意）","caption_en":"Ruan range — the middle ruan as the example (indicative)","note":"阮属弦鸣乐器（拨弦，有品）。现代阮按音区分为高音阮 · 小阮 · 中阮 · 大阮 · 低音阮，定弦各不相同：中阮 G2 · D3 · G3 · D4，大阮 D2 · A2 · D3 · A3，小阮 D3 · A3 · D4 · A4，高音阮 G3 · D4 · G4 · D5，低音阮 G1 · D2 · G2 · D3。音域随品数向上扩展（现代为二十四品），此处按中阮取 G2–D5 示意 —— 各规格音高不同，本图不代表所有阮。记谱即实音。"}
 ```
 
-- **About G2–D5 on the middle ruan** (indicative). It is an instrument **divided by register**: want lower, take a
-  large ruan; higher, a small one — **one instrument does not cover the whole compass.**
-- **It fills the "middle" slot.** Chinese orchestras lacked a middle-low register, and that is the direct reason
+- About G2–D5 on the middle ruan (indicative). It is an instrument divided by register: want lower, take a
+  large ruan; higher, a small one — one instrument does not cover the whole compass.
+- It fills the "middle" slot. Chinese orchestras lacked a middle-low register, and that is the direct reason
   for the ruan's revival.
-- **Besides the bass ruan there was once a bowed "la ruan"** (modelled on the cello), little used because it did not
-  work well — **an attempt to build a bass instrument, and another probe at "what vibrates".**
+- Besides the bass ruan there was once a bowed "la ruan" (modelled on the cello), little used because it did not
+  work well — an attempt to build a bass instrument, and another probe at "what vibrates".
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Round, full, soft.** Four strings across a round box make it **rounder and less angular** than the
+1. Round, full, soft. Four strings across a round box make it rounder and less angular than the
    [[instrument:pipa|pipa]].
-2. **It does not shout.** Medium volume, ideally suited to **filling in chords and thickening a section**.
-3. **A fretted grain.** Of the same family as the pipa: **clear beads of sound**, though darker.
-4. **It can play chords.** Four strings and twenty-four frets let it sound several notes at once — a practical
+2. It does not shout. Medium volume, ideally suited to filling in chords and thickening a section.
+3. A fretted grain. Of the same family as the pipa: clear beads of sound, though darker.
+4. It can play chords. Four strings and twenty-four frets let it sound several notes at once — a practical
    ability among Chinese plucked instruments.
 
 ```audiolab
@@ -439,15 +440,15 @@ Four cues:
 
 ## Playing techniques
 
-- **Seated, held to the chest.** The body rests on the thighs and against the chest; the left hand stops strings
-  and the right uses a **plectrum** (before the 1980s finger picks were standard; the higher string tension pushed
+- Seated, held to the chest. The body rests on the thighs and against the chest; the left hand stops strings
+  and the right uses a plectrum (before the 1980s finger picks were standard; the higher string tension pushed
   players toward plectrums).
-- **Over thirty right-hand techniques**: plucking, picking, hooking, wiping, flicking, sweeping, rolling,
+- Over thirty right-hand techniques: plucking, picking, hooking, wiping, flicking, sweeping, rolling,
   tremolo and more.
-- **Over ten left-hand techniques**: harmonics, tapping, sliding, pushing, pulling, vibrato and others.
-- **Slides by pushing.** With frets, slides require **bending the string to change its tension** — the same method
+- Over ten left-hand techniques: harmonics, tapping, sliding, pushing, pulling, vibrato and others.
+- Slides by pushing. With frets, slides require bending the string to change its tension — the same method
   as the pipa.
-- **No settled method yet.** The ruan's revival is still young and teaching methods vary.
+- No settled method yet. The ruan's revival is still young and teaching methods vary.
 
 ## The family
 
@@ -460,9 +461,9 @@ Four cues:
 | [[instrument:sanxian\|Sanxian]] | **small drum** | fretless | **none** | opera · narrative song |
 | Yueqin | round | short neck | frets | opera · folk (**once the same instrument as the ruan**) |
 
-**This family forks on two questions only**: **what shape is the body** · **is the pitch taken by a bridge, by a
-fret, or by fingers**. **The ruan answers "round + frets"** — while its name reminds us of a third thing:
-**classes divide, and after a division the names have to be handed out again.**
+This family forks on two questions only: what shape is the body · **is the pitch taken by a bridge, by a
+fret, or by fingers. The ruan answers "round + frets"** — while its name reminds us of a third thing:
+classes divide, and after a division the names have to be handed out again.
 
 ## History
 
@@ -476,33 +477,33 @@ fret, or by fingers**. **The ruan answers "round + frets"** — while its name r
 | since the 1950s | rebuilt as **4 strings, 24 frets**, larger box and steel strings; a family modelled on the string family takes shape — **soprano, small, middle, large, bass**; **ruan and yueqin now become two different instruments** |
 | 1987 | Liu Xing's **concerto **Yunnan Memories** ** establishes the ruan as a solo instrument |
 
-**One historical fact stands out**: **all of the ruan's old scores are lost, and the modern instrument differs so
-much from the old that it has almost no traditional repertoire.** Its repertoire is **entirely modern**.
-**A two-thousand-year-old instrument with a brand-new repertoire** — not an isolated case: the
+One historical fact stands out: **all of the ruan's old scores are lost, and the modern instrument differs so
+much from the old that it has almost no traditional repertoire. Its repertoire is entirely modern**.
+A two-thousand-year-old instrument with a brand-new repertoire — not an isolated case: the
 [[instrument:sheng|sheng]]'s modern reform and the [[instrument:bianqing|bianqing]]'s replicas belong to the same
 category.
 
 ## Common misconceptions
 
-- **"The ruan is a young instrument."** Its **ancestor goes back to the Han** (round body, straight neck, four
-  strings, twelve frets); only the **modern rebuilt form** (4 strings, 24 frets, steel strings, a full family) is
+- "The ruan is a young instrument." Its ancestor goes back to the Han (round body, straight neck, four
+  strings, twelve frets); only the modern rebuilt form (4 strings, 24 frets, steel strings, a full family) is
   young.
-- **"The ruan and the pipa are unrelated."** They are deeply related: **in the Han and Tang both belonged to the
-  class called "pipa"**; when the **bent-necked branch took the name**, the straight-necked branch became
-  "ruanxian". **They are siblings after a division.**
-- **"Its name comes from its shape."** No — it comes from a **person**: **Ruan Xian**, who played it best.
-- **"The ruan is just a sideman."** It does carry the middle register and chords — which is exactly the
+- "The ruan and the pipa are unrelated." They are deeply related: **in the Han and Tang both belonged to the
+  class called "pipa"; when the bent-necked branch took the name**, the straight-necked branch became
+  "ruanxian". They are siblings after a division.
+- "Its name comes from its shape." No — it comes from a person: Ruan Xian, who played it best.
+- "The ruan is just a sideman." It does carry the middle register and chords — which is exactly the
   [[instrument:sheng|sheng]]'s role among the winds: **the ones that earn their seat by blending are often the
   least dispensable.**
-- **"It has a rich traditional repertoire."** **The opposite**: lost scores plus a rebuilt instrument mean **almost
+- "It has a rich traditional repertoire." The opposite: lost scores plus a rebuilt instrument mean **almost
   no traditional pieces**; the repertoire is contemporary.
-- **"The bayin says silk, so only silk strings will do."** As with the [[instrument:guqin|guqin]]: **the bayin
+- "The bayin says silk, so only silk strings will do." As with the [[instrument:guqin|guqin]]: **the bayin
   records the material of its own time**; steel strings are now standard, louder and more stable.
 
 ## Next
 
-**One plucked instrument remains**: the [[instrument:sanxian|sanxian]] — filling the last cell of the family's
-table: **no bridges, no frets**, and **a small drum for a body**.
-Its question is **how few parts an instrument can have**: **three strings, one drum, and a neck with nothing on
+One plucked instrument remains: the [[instrument:sanxian|sanxian]] — filling the last cell of the family's
+table: no bridges, no frets, and a small drum for a body.
+Its question is how few parts an instrument can have: **three strings, one drum, and a neck with nothing on
 it — so how did it hold down the lead role in opera and narrative song for a thousand years?**
 :::

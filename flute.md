@@ -45,10 +45,10 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 木管（长笛族） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，长笛不在其中 |
 
-> ⚠️ **一个概念上的要点**：说到"木管"，多数人想到的是"木头做的管"。
-> 但木管组（woodwinds）在配器学里是**编制概念**，指的是管弦乐里那几件靠**气流驱动**的管乐器；
+> ⚠️ 一个概念上的要点：说到"木管"，多数人想到的是"木头做的管"。
+> 但木管组（woodwinds）在配器学里是编制概念，指的是管弦乐里那几件靠气流驱动的管乐器；
 > 长笛的管身今天多为金属，却仍是木管组的一员 —— 就像低音提琴是木制的，却仍属弦乐组。
-> 材料会变，**发声方式不会**。
+> 材料会变，发声方式不会。
 
 ## 结构：三节管身与键系
 
@@ -95,15 +95,15 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **三节结构**。头管（含吹口）、管身、尾管之间用**榫接（tenon）**，可以拆开装盒 ——
+1. 三节结构。头管（含吹口）、管身、尾管之间用榫接（tenon），可以拆开装盒 ——
    长笛是管弦乐里少数几件"拆成三节还能保持音准"的乐器之一。
-2. **气孔的位置是音准的根本**。管壁上开着若干气孔，按键只是"手指的延伸"：
+2. 气孔的位置是音准的根本。管壁上开着若干气孔，按键只是"手指的延伸"：
    按下键 → 垫片离开气孔 → 有效管长改变 → 音高改变。所以长笛的音准
-   **取决于孔的几何位置**，而不是演奏者的口型。
-3. **吹口不是一个"风口"，是一个切边**。气流要想发声，必须**斜着切向吹口远侧的锐边**，
+   取决于孔的几何位置，而不是演奏者的口型。
+3. 吹口不是一个"风口"，是一个切边。气流要想发声，必须斜着切向吹口远侧的锐边，
    让气流一分为二：一半进管、一半出管 —— 这就是下一节的原理。
 
-**按孔与按键**：现代长笛用**Böhm 体系**（Theobald Böhm，19 世纪中叶定型），
+按孔与按键：现代长笛用Böhm 体系（Theobald Böhm，19 世纪中叶定型），
 按键彼此联动，一根手指可以带动若干气孔，因此可以用"更接近自然指法"的方式吹出十二个半音 ——
 这是它能自由转调的技术前提。
 
@@ -134,15 +134,15 @@ updated: 2026-09-26
 </svg>
 ```
 
-**为什么"气流切片"能稳定成音？**
+为什么"气流切片"能稳定成音？
 
-1. 气流吹向棱边 → 一小部分气流被**导向管内**，另一部分跑到管外。
-2. 进管的气流在管内形成压缩波，传到**有效管长的末端**再反射回来。
-3. 反射波回到吹口时，**恰好**把下一段气流又推向棱边（或推离）—— 于是切口自动重复。
-4. 这个"气流—棱边—管内波"的循环一旦对上管长，就**自持振荡**成一个稳定的音。
+1. 气流吹向棱边 → 一小部分气流被导向管内，另一部分跑到管外。
+2. 进管的气流在管内形成压缩波，传到有效管长的末端再反射回来。
+3. 反射波回到吹口时，恰好把下一段气流又推向棱边（或推离）—— 于是切口自动重复。
+4. 这个"气流—棱边—管内波"的循环一旦对上管长，就自持振荡成一个稳定的音。
 
-关键推论：**音高由有效管长（即气孔位置）决定，气流速度只负责"吹得动"和音量**。
-这也解释了长笛的一个特点：**指法不变、只加大气流，音高几乎不动，但音色会变亮**。
+关键推论：音高由有效管长（即气孔位置）决定，气流速度只负责"吹得动"和音量。
+这也解释了长笛的一个特点：指法不变、只加大气流，音高几乎不动，但音色会变亮。
 
 ## 音域
 
@@ -150,22 +150,22 @@ updated: 2026-09-26
 {"range":"C4–D7","common":"C4–C7","caption":"长笛的音域","caption_en":"Flute range","note":"标准音域为 C4–C7；高音可延伸至 D7，低音加尾管键可下探至 B3。总跨度超过三个八度，且三个音区各有明显的音色性格。"}
 ```
 
-- **低音区（C4–G4）**：气声重，音色**发闷、带明显的呼吸噪声** —— 这是长笛辨识度最高的音区，
+- 低音区（C4–G4）：气声重，音色发闷、带明显的呼吸噪声 —— 这是长笛辨识度最高的音区，
   德彪西之后被当作"空、远、静"的色彩来用。
-- **中音区（A4–C6）**：最结实、最常用。绝大多数旋律都在这里。
-- **高音区（C6 以上）**：极亮、穿透力强，但同时**最难吹准**（需要更细的气流与更精确的角度）。
+- 中音区（A4–C6）：最结实、最常用。绝大多数旋律都在这里。
+- 高音区（C6 以上）：极亮、穿透力强，但同时最难吹准（需要更细的气流与更精确的角度）。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **一条持续的"气声"底噪**。长笛的音里始终混着呼吸的噪声，
+1. 一条持续的"气声"底噪。长笛的音里始终混着呼吸的噪声，
    越往低音区越明显 —— 这是"气流驱动"留下的签名，簧片乐器没有。
-2. **音头不"炸"**。与拨弦乐器相反，长笛的音是**渐入**的，起音柔软，
+2. 音头不"炸"。与拨弦乐器相反，长笛的音是渐入的，起音柔软，
    攻击性弱 —— 所以它天生适合抒情线条，不适合当节奏重音。
-3. **音色随力度变色，而不只是变响**。加大气流时高次泛音增多 → 音色变亮。
+3. 音色随力度变色，而不只是变响。加大气流时高次泛音增多 → 音色变亮。
    同一把长笛，p 和 f 几乎是两种音色。
-4. **在一个音区内是"匀"的**。因为每根音靠气孔开合，音与音之间没有换弦、换把的接缝。
+4. 在一个音区内是"匀"的。因为每根音靠气孔开合，音与音之间没有换弦、换把的接缝。
 
 ```audiolab
 {"type":"instrument","gm":"Flute","synth":"blown","phrase":["C4","E4","G4","C5","E5","G5","C6"],"label":"长笛音阶片段：C4 到 C6","label_en":"A scale fragment, C4 up to C6","hint":"注意低音区的气声与高音区的明亮 —— 同一根管，音区不同性格也不同","hint_en":"Notice the breathy low register against the bright top — one tube, several characters."}
@@ -175,11 +175,11 @@ updated: 2026-09-26
 
 长笛的技法库相当大，其中几项是它独有的：
 
-- **气声（air / breathy tone）**：刻意让一部分气流不进管，只发出噪声 —— 低音区用它制造"吹气感"。
-- **花舌（flutter tongue）**：像发小舌颤音那样滚动气流，得到一个"抖"的音，近代作品很爱用。
-- **击键音（key clicks）**：不吹气，只按键垫敲击气孔，得到**纯打击性的"哒"声**。
-- **泛音（harmonics）**：用同一指法强行吹出高次泛音，得到"虚"的音色。
-- **颤音（vibrato）**：由**腹肌**控制气流脉动，而不是靠手指 —— 这是它与弦乐颤音的重要区别。
+- 气声（air / breathy tone）：刻意让一部分气流不进管，只发出噪声 —— 低音区用它制造"吹气感"。
+- 花舌（flutter tongue）：像发小舌颤音那样滚动气流，得到一个"抖"的音，近代作品很爱用。
+- 击键音（key clicks）：不吹气，只按键垫敲击气孔，得到纯打击性的"哒"声。
+- 泛音（harmonics）：用同一指法强行吹出高次泛音，得到"虚"的音色。
+- 颤音（vibrato）：由腹肌控制气流脉动，而不是靠手指 —— 这是它与弦乐颤音的重要区别。
 
 ## 家族与近亲
 
@@ -191,9 +191,9 @@ updated: 2026-09-26
 | [[instrument:recorder\|竖笛]] | C | 同音 | 哨嘴直管 | 无键系；巴洛克的独奏主力 |
 | [[instrument:oboe\|双簧管]] | C | 同音 | 圆锥管 + 双簧 | 换声方式：簧片驱动 |
 
-注意上面表格里的**记谱规则**。三支长笛族成员都是 C 调乐器（除了中音长笛），
-但短笛与中音长笛的记谱都**不等于实音** —— 这与[[instrument:clarinet|单簧管]]、[[instrument:english-horn|英国管]]
-的处理是同一类问题：**为了让所有管乐器看起来"指法一样"，谱面上写的是手指的位置，不是实际音高。**
+注意上面表格里的记谱规则。三支长笛族成员都是 C 调乐器（除了中音长笛），
+但短笛与中音长笛的记谱都不等于实音 —— 这与[[instrument:clarinet|单簧管]]、[[instrument:english-horn|英国管]]
+的处理是同一类问题：为了让所有管乐器看起来"指法一样"，谱面上写的是手指的位置，不是实际音高。
 
 ## 历史演变
 
@@ -208,25 +208,26 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"长笛是木管，所以是木头做的。"** → 现代长笛多为**金属**。
+- "长笛是木管，所以是木头做的。" → 现代长笛多为金属。
   "木管"是编制概念（靠气流驱动的那几件），不是材料描述。
-- **"长笛和竖笛是一回事。"** → 两者都是边棱音，但**激振方式不同**：
-  竖笛靠哨嘴（气流通道固定）驱动，长笛靠嘴唇直接控制气流方向 —— 所以长笛的**音色可塑性大得多**，
+- "长笛和竖笛是一回事。" → 两者都是边棱音，但激振方式不同：
+  竖笛靠哨嘴（气流通道固定）驱动，长笛靠嘴唇直接控制气流方向 —— 所以长笛的音色可塑性大得多，
   也可以用气声、花舌这些竖笛做不到的技法。
-- **"吹得越用力声音越高。"** → 音高由**有效管长**决定。
+- "吹得越用力声音越高。" → 音高由有效管长决定。
   加大气流主要改变音量和音色（往亮里走），音高只做微调。
-- **"长笛只能吹高音。"** → 它的低音区（C4 附近）是它最有辨识度的地方 ——
+- "长笛只能吹高音。" → 它的低音区（C4 附近）是它最有辨识度的地方 ——
   气声浓、音色空，常被用来营造静谧的氛围。
-- **"按键是手指不够长才用的。"** → 按键解决的是**音准与转调**：
+- "按键是手指不够长才用的。" → 按键解决的是音准与转调：
   它让十二个半音都能用接近自然指法吹出，是长笛能自由转调的技术前提。
 
 ## 下一步
 
-这是**木管组（I2）的第一条主线**。想把这条线听明白，最直接的下一步是三组对照：
+这是木管组（I2）的第一条主线。想把这条线听明白，最直接的下一步是三组对照：
 
-1. **向上** —— [[instrument:piccolo|短笛]]：同样的指法、高一整个八度，音色为何完全不同？
-2. **向下** —— [[instrument:alto-flute|中音长笛]]：管径变粗之后，"柔和"从哪来？
-3. **换驱动方式** —— [[instrument:oboe|双簧管]]：把气流换成簧片，一切都会变。
+1. 向上 —— [[instrument:piccolo|短笛]]：同样的指法、高一整个八度，音色为何完全不同？
+2. 向下 —— [[instrument:alto-flute|中音长笛]]：管径变粗之后，"柔和"从哪来？
+3. 换驱动方式 —— [[instrument:oboe|双簧管]]：把气流换成簧片，一切都会变。
+
 :::
 
 ::: en
@@ -246,9 +247,9 @@ column of air; the material of the tube colours the sound but does not decide th
 | **Bayin** | Not applicable — the eight categories are a Chinese system; the flute is outside it |
 
 > ⚠️ **One conceptual point**: "woodwind" makes most people think "a tube of wood". But the woodwind section
-> is an **orchestral grouping** — the instruments driven by an **air column** — and the flute, though metal,
+> is an orchestral grouping — the instruments driven by an air column — and the flute, though metal,
 > belongs to it, just as the double bass is wooden yet belongs to the strings. Materials change;
-> **the way sound is made does not**.
+> the way sound is made does not.
 
 ## Structure: three joints and a key system
 
@@ -295,15 +296,15 @@ column of air; the material of the tube colours the sound but does not decide th
 
 Three points:
 
-1. **Three joints.** Headjoint, body and foot joint meet at **tenons** and come apart for the case —
+1. Three joints. Headjoint, body and foot joint meet at tenons and come apart for the case —
    the flute is one of the few orchestral instruments that stays in tune after being taken to pieces.
-2. **The hole positions are the intonation.** The wall carries a row of holes and the keys merely extend
+2. The hole positions are the intonation. The wall carries a row of holes and the keys merely extend
    the fingers: press a key, the pad lifts, the effective tube length changes, the pitch changes. So a
-   flute's intonation is **geometry, not embouchure**.
-3. **The embouchure hole is not a vent; it is a cutting edge.** To sound at all, the jet must strike the
-   **far** edge at an angle and be split in two — half into the tube, half out. That is the next section.
+   flute's intonation is geometry, not embouchure.
+3. The embouchure hole is not a vent; it is a cutting edge. To sound at all, the jet must strike the
+   far edge at an angle and be split in two — half into the tube, half out. That is the next section.
 
-**Keys**: modern flutes use the **Böhm system** (established mid-19th century), in which keys are linked so
+Keys: modern flutes use the Böhm system (established mid-19th century), in which keys are linked so
 that one finger can operate several holes. This is what lets all twelve semitones be played with something
 close to natural fingering — the technical precondition for free modulation.
 
@@ -334,13 +335,13 @@ close to natural fingering — the technical precondition for free modulation.
 </svg>
 ```
 
-**Why does "a cut jet" settle into a steady note?**
+Why does "a cut jet" settle into a steady note?
 
-1. The jet strikes the edge → part of it is steered **into the tube**, part escapes outside.
-2. The part inside makes a compression wave that travels to the **end of the effective length** and reflects.
-3. When the reflection returns to the hole it **flips** the next piece of jet either into or away from the
+1. The jet strikes the edge → part of it is steered into the tube, part escapes outside.
+2. The part inside makes a compression wave that travels to the end of the effective length and reflects.
+3. When the reflection returns to the hole it flips the next piece of jet either into or away from the
    edge — so the cutting repeats by itself.
-4. Once this "jet–edge–wave" loop matches the tube, it becomes **self-sustaining**.
+4. Once this "jet–edge–wave" loop matches the tube, it becomes self-sustaining.
 
 The key consequence: **pitch is set by the effective tube length (the hole positions); jet speed only
 decides whether it speaks and how loudly.** Which is why, on a flute, fingering held constant and air
@@ -352,23 +353,23 @@ increased barely moves the pitch — but changes the colour a lot.
 {"range":"C4–D7","common":"C4–C7","caption":"长笛的音域","caption_en":"Flute range","note":"标准音域为 C4–C7；高音可延伸至 D7，低音加尾管键可下探至 B3。总跨度超过三个八度，且三个音区各有明显的音色性格。"}
 ```
 
-- **Low register (C4–G4)**: breathy and **covered, with audible breath noise** — the flute's most
+- Low register (C4–G4): breathy and covered, with audible breath noise — the flute's most
   recognisable colour, used since Debussy for "empty, distant, still".
-- **Middle register (A4–C6)**: the fullest and most used; most melodies live here.
-- **Top register (above C6)**: brilliant and piercing, and also the hardest to place in tune
+- Middle register (A4–C6): the fullest and most used; most melodies live here.
+- Top register (above C6): brilliant and piercing, and also the hardest to place in tune
   (a finer jet and more exact angle are needed).
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **A permanent layer of breath noise.** The tone always carries the sound of moving air — most obvious
+1. A permanent layer of breath noise. The tone always carries the sound of moving air — most obvious
    low down. It is the signature of jet drive, and reed instruments do not have it.
-2. **A soft attack.** Unlike a plucked instrument the note **fades in**; its onset is gentle and
+2. A soft attack. Unlike a plucked instrument the note fades in; its onset is gentle and
    unaggressive, which is why the flute suits lyrical lines and not rhythmic accents.
-3. **More air changes colour, not just volume.** Pushing more air adds upper harmonics, so the tone
-   brightens: at **p** and **f** the same flute is almost two instruments.
-4. **Evenness within a register.** Every note comes from the same tube with holes opening and closing,
+3. More air changes colour, not just volume. Pushing more air adds upper harmonics, so the tone
+   brightens: at p and f the same flute is almost two instruments.
+4. Evenness within a register. Every note comes from the same tube with holes opening and closing,
    so there are no string changes or position shifts to hear.
 
 ```audiolab
@@ -379,12 +380,12 @@ Four cues:
 
 The technique list is unusually long, and a few items are the flute's alone:
 
-- **Air / breathy tone**: deliberately let part of the jet escape so only noise sounds — the "blown"
+- Air / breathy tone: deliberately let part of the jet escape so only noise sounds — the "blown"
   colour of the low register.
-- **Flutter tongue**: roll the air as in a uvular trill, giving a buzzing note; a favourite of modern works.
-- **Key clicks**: no air at all, just pads striking holes — pure percussive clicks.
-- **Harmonics**: force a higher partial on the same fingering for a hollow, glassy sound.
-- **Vibrato**: produced by **abdominal air pulses**, not by the fingers — an important difference from
+- Flutter tongue: roll the air as in a uvular trill, giving a buzzing note; a favourite of modern works.
+- Key clicks: no air at all, just pads striking holes — pure percussive clicks.
+- Harmonics: force a higher partial on the same fingering for a hollow, glassy sound.
+- Vibrato: produced by abdominal air pulses, not by the fingers — an important difference from
   string vibrato.
 
 ## The family
@@ -397,8 +398,8 @@ The technique list is unusually long, and a few items are the flute's alone:
 | [[instrument:recorder\|Recorder]] | C | at pitch | duct flute | keyless; the Baroque solo instrument |
 | [[instrument:oboe\|Oboe]] | C | at pitch | conical + double reed | different drive: a reed |
 
-Note the **notation rules** in that table. The flute family are C instruments (except the alto flute), yet
-both the piccolo and the alto flute are written **away from sounding pitch** — the same problem as the
+Note the notation rules in that table. The flute family are C instruments (except the alto flute), yet
+both the piccolo and the alto flute are written away from sounding pitch — the same problem as the
 [[instrument:clarinet|clarinet]] and [[instrument:english-horn|English horn]]. The reason is
 transposition: **so that every wind player can read the same fingering chart, the page shows the fingers,
 not the sound.**
@@ -416,23 +417,23 @@ not the sound.**
 
 ## Common misconceptions
 
-- **"A flute is a woodwind, so it is made of wood."** Modern flutes are **metal**. "Woodwind" names a
+- "A flute is a woodwind, so it is made of wood." Modern flutes are metal. "Woodwind" names a
   section — the air-driven instruments — not a material.
-- **"A flute and a recorder are the same thing."** Both are edge-tone, but **the drive differs**: the
+- "A flute and a recorder are the same thing." Both are edge-tone, but the drive differs: the
   recorder's air is shaped by a fixed duct, the flute's by the lips directly. Hence the flute's far greater
   range of colour, and techniques such as air and flutter that a recorder cannot produce.
-- **"Blow harder and the note goes up."** Pitch comes from the **effective tube length**. More air mostly
+- "Blow harder and the note goes up." Pitch comes from the effective tube length. More air mostly
   changes loudness and brightness, with only a small effect on pitch.
-- **"The flute only plays high."** Its low register (around C4) is its most distinctive region — breathy
+- "The flute only plays high." Its low register (around C4) is its most distinctive region — breathy
   and hollow, and often used to evoke stillness.
-- **"Keys exist because fingers are too short."** Keys solve **intonation and modulation**: they let all
+- "Keys exist because fingers are too short." Keys solve intonation and modulation: they let all
   twelve semitones be played with near-natural fingering, which is what makes free modulation possible.
 
 ## Next
 
-This is the **first entry of the woodwind line (I2)**. Three comparisons make it click:
+This is the first entry of the woodwind line (I2). Three comparisons make it click:
 
-1. **Upward** — [[instrument:piccolo|piccolo]]: same fingering, an octave higher; why is the colour utterly different?
-2. **Downward** — [[instrument:alto-flute|alto flute]]: a wider bore; where does "soft" come from?
-3. **Change the drive** — [[instrument:oboe|oboe]]: replace the jet with a reed and everything changes.
+1. Upward — [[instrument:piccolo|piccolo]]: same fingering, an octave higher; why is the colour utterly different?
+2. Downward — [[instrument:alto-flute|alto flute]]: a wider bore; where does "soft" come from?
+3. Change the drive — [[instrument:oboe|oboe]]: replace the jet with a reed and everything changes.
 :::

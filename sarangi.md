@@ -30,42 +30,42 @@ updated: 2026-10-28
 
 ## 主线：把「格子」拿掉，让声音像人一样滑
 
-萨朗吉是一件**没有品**的擦弦乐器。左手不用指腹按弦，而是用**指甲**侧面把弦压向琴颈——这样按下去，音高不是「跳到某一个格子」，而是从上一个音**滑**过来的。印度音乐里最重要的装饰 **meend**（滑音）与 **gamak**（带压力的来回装饰）因此成了它的母语，而不是加在旋律上的装饰。
+萨朗吉是一件**没有品**的擦弦乐器。左手不用指腹按弦，而是用**指甲**侧面把弦压向琴颈——这样按下去，音高不是「跳到某一个格子」，而是从上一个音**滑**过来的。印度音乐里最重要的装饰 **meend**（滑音）与 gamak（带压力的来回装饰）因此成了它的母语，而不是加在旋律上的装饰。
 
-这也解释了那句流传最广的评价：**萨朗吉是最接近人声的乐器**。人声不会在音与音之间瞬移；它带着喉咙的惯性滑过去。萨朗吉用指甲与弓毛复述这种惯性。
+这也解释了那句流传最广的评价：萨朗吉是最接近人声的乐器。人声不会在音与音之间瞬移；它带着喉咙的惯性滑过去。萨朗吉用指甲与弓毛复述这种惯性。
 
 ## 形制：一块木头里的三个腔
 
-- **琴身**：整块硬木（tun 木、sheesham 等）挖成，内部不是单一空腔，而是**三个相连的共鸣室**——这是它略带鼻音、又能在低音区站住的原因。
-- **面板**：蒙山羊皮，而不是木面板；琴桥就立在这层皮上。
-- **琴桥**：宽而平，弓毛可以在上面长时间摩擦；桥脚把振动传进皮面与木腔。
-- **主弦**：通常**三根**（有些四根），用肠弦或钢弦，分别定到主音、五度与低八度；右手主要拉第一根旋律弦。
-- **共鸣弦（tarab）**：**三十到四十根**细金属弦，从琴桥的小孔穿过，定到当前 raga 的音；它们不直接被拉，只在对的音出现时**被动共振**。这是萨朗吉「一响就有一层雾」的来源。
-- **弓**：较重，掌心向上握弓，靠手腕与手臂的重量运弓，而不是靠手指加压。
+- 琴身：整块硬木（tun 木、sheesham 等）挖成，内部不是单一空腔，而是三个相连的共鸣室——这是它略带鼻音、又能在低音区站住的原因。
+- 面板：蒙山羊皮，而不是木面板；琴桥就立在这层皮上。
+- 琴桥：宽而平，弓毛可以在上面长时间摩擦；桥脚把振动传进皮面与木腔。
+- 主弦：通常三根（有些四根），用肠弦或钢弦，分别定到主音、五度与低八度；右手主要拉第一根旋律弦。
+- 共鸣弦（tarab）：三十到四十根细金属弦，从琴桥的小孔穿过，定到当前 raga 的音；它们不直接被拉，只在对的音出现时被动共振。这是萨朗吉「一响就有一层雾」的来源。
+- 弓：较重，掌心向上握弓，靠手腕与手臂的重量运弓，而不是靠手指加压。
 
 ## 它原来站在歌手旁边
 
-萨朗吉最典型的位置不是独奏台，而是**声乐伴奏**：khyal、thumri、dadra、ghazal 的歌手唱一句，萨朗吉在句尾接过去，模仿歌者的装饰与呼吸，再把旋律送回来。它也被用于说唱与叙事传统。
+萨朗吉最典型的位置不是独奏台，而是声乐伴奏：khyal、thumri、dadra、ghazal 的歌手唱一句，萨朗吉在句尾接过去，模仿歌者的装饰与呼吸，再把旋律送回来。它也被用于说唱与叙事传统。
 
-20 世纪，**风琴（harmonium）** 逐渐取代了它作为伴奏乐器的位置：风琴更响、更便宜、更容易学，而且能同时按住持续音。萨朗吉退到独奏与少数声乐传统里。**Ram Narayan** 与 **Sultan Khan** 是把它重新推上独奏舞台的两位关键人物。
+20 世纪，风琴（harmonium） 逐渐取代了它作为伴奏乐器的位置：风琴更响、更便宜、更容易学，而且能同时按住持续音。萨朗吉退到独奏与少数声乐传统里。Ram Narayan 与 Sultan Khan 是把它重新推上独奏舞台的两位关键人物。
 
 ## 一个被制度耽误的乐器
 
-萨朗吉的演奏者长期来自世袭的职业乐师群体，与宫廷、庙会、舞女与说唱传统绑在一起。英国殖民时期的录音与后来的古典音乐体制，把「伴奏者」的位置固化，也把乐器与演奏者的社会身份一起边缘化。**它的技术难度高、音量不占优势、又背着社会标签**——三件事叠加，才有 20 世纪的衰落。
+萨朗吉的演奏者长期来自世袭的职业乐师群体，与宫廷、庙会、舞女与说唱传统绑在一起。英国殖民时期的录音与后来的古典音乐体制，把「伴奏者」的位置固化，也把乐器与演奏者的社会身份一起边缘化。它的技术难度高、音量不占优势、又背着社会标签——三件事叠加，才有 20 世纪的衰落。
 
-这不是乐器本身的问题：它的表现力被公认为最接近人声，只是**音乐厅与唱片工业没有给它一个位置**。
+这不是乐器本身的问题：它的表现力被公认为最接近人声，只是音乐厅与唱片工业没有给它一个位置。
 
 ## 与其他擦弦乐器对照
 
-- **erhu**：同样无品、同样靠近人声，但二胡只有两根弦、没有共鸣弦，声音更集中。
-- **violin**：有指板、有固定把位，音准靠耳朵与手型；萨朗吉用指甲与滑音，把音准变成连续量。
-- **harmonium**：取代它伴奏位置的乐器；风琴有键、有固定音高，正好是萨朗吉的反面。
+- erhu：同样无品、同样靠近人声，但二胡只有两根弦、没有共鸣弦，声音更集中。
+- violin：有指板、有固定把位，音准靠耳朵与手型；萨朗吉用指甲与滑音，把音准变成连续量。
+- harmonium：取代它伴奏位置的乐器；风琴有键、有固定音高，正好是萨朗吉的反面。
 
 ## 带走三件事
 
-1. **没有品**：音高是连续的，滑音是语法，不是装饰。
-2. **共鸣弦**：三十多根被动共振的弦，给每个音加一层雾。
-3. **最像人声**：不是因为音色甜，而是因为它能复述人声的惯性与呼吸。
+1. 没有品：音高是连续的，滑音是语法，不是装饰。
+2. 共鸣弦：三十多根被动共振的弦，给每个音加一层雾。
+3. 最像人声：不是因为音色甜，而是因为它能复述人声的惯性与呼吸。
 
 ### HS 分类
 
@@ -137,42 +137,42 @@ updated: 2026-10-28
 
 ## The main line: take out the grid and let the sound slide like a voice
 
-The sarangi is a **fretless** bowed instrument. The left hand does not stop the string with the pad of a finger but with the **edge of a fingernail** pressed against the neck — so the pitch does not jump to a square but **slides** from the previous note. The two central ornaments of Indian music, **meend** (slide) and **gamak** (a pressured back-and-forth), are therefore its native grammar rather than decoration added afterwards.
+The sarangi is a **fretless** bowed instrument. The left hand does not stop the string with the pad of a finger but with the **edge of a fingernail** pressed against the neck — so the pitch does not jump to a square but **slides** from the previous note. The two central ornaments of Indian music, **meend** (slide) and gamak (a pressured back-and-forth), are therefore its native grammar rather than decoration added afterwards.
 
-That explains the most repeated description: **the sarangi is the instrument closest to the human voice**. A voice does not teleport between pitches; it drags the weight of the throat across the gap. The sarangi repeats that weight with a nail and a bow.
+That explains the most repeated description: the sarangi is the instrument closest to the human voice. A voice does not teleport between pitches; it drags the weight of the throat across the gap. The sarangi repeats that weight with a nail and a bow.
 
 ## Form: three chambers inside one block
 
-- **Body**: carved from a single block of hardwood (tun, sheesham and similar), hollowed not into one cavity but into **three connected resonating chambers** — the reason for its slightly nasal tone and its ability to stand up in the low register.
-- **Table**: goat skin rather than wood; the bridge stands on the skin.
-- **Bridge**: wide and flat, so the bow can stay on it; the feet pass vibration into skin and body.
-- **Main strings**: usually **three** (sometimes four), gut or steel, tuned to the tonic, the fifth and the octave below; the bow mostly works the first, melodic string.
-- **Sympathetic strings (tarab)**: **thirty to forty** fine metal strings running through small holes in the bridge and tuned to the notes of the current raga. They are never bowed; they **resonate** when the right pitch appears. This is where the sarangi's veil of sound comes from.
-- **Bow**: heavy, held palm-up, driven by wrist and arm weight rather than finger pressure.
+- Body: carved from a single block of hardwood (tun, sheesham and similar), hollowed not into one cavity but into three connected resonating chambers — the reason for its slightly nasal tone and its ability to stand up in the low register.
+- Table: goat skin rather than wood; the bridge stands on the skin.
+- Bridge: wide and flat, so the bow can stay on it; the feet pass vibration into skin and body.
+- Main strings: usually three (sometimes four), gut or steel, tuned to the tonic, the fifth and the octave below; the bow mostly works the first, melodic string.
+- Sympathetic strings (tarab): thirty to forty fine metal strings running through small holes in the bridge and tuned to the notes of the current raga. They are never bowed; they resonate when the right pitch appears. This is where the sarangi's veil of sound comes from.
+- Bow: heavy, held palm-up, driven by wrist and arm weight rather than finger pressure.
 
 ## Its old place was beside the singer
 
-The sarangi's typical seat was not the concert platform but **vocal accompaniment**: in khyal, thumri, dadra and ghazal the singer phrases, the sarangi takes over at the end, imitates the ornament and breath, and hands the melody back. It also served narrative and dance traditions.
+The sarangi's typical seat was not the concert platform but vocal accompaniment: in khyal, thumri, dadra and ghazal the singer phrases, the sarangi takes over at the end, imitates the ornament and breath, and hands the melody back. It also served narrative and dance traditions.
 
-In the twentieth century the **harmonium** largely replaced it as an accompaniment: louder, cheaper, easier to learn, and able to hold a drone with both hands free. The sarangi retreated to solo work and a few vocal traditions. **Ram Narayan** and **Sultan Khan** were the two key figures who put it back on the solo stage.
+In the twentieth century the harmonium largely replaced it as an accompaniment: louder, cheaper, easier to learn, and able to hold a drone with both hands free. The sarangi retreated to solo work and a few vocal traditions. Ram Narayan and Sultan Khan were the two key figures who put it back on the solo stage.
 
 ## An instrument held back by an institution
 
-Sarangi players came largely from hereditary professional musician communities tied to courts, festivals, dance and narrative traditions. Colonial recording and later classical institutions fixed the "accompanist" position and marginalised the instrument together with the social identity of its players. **High technical difficulty, modest volume and a social label** — three things stacked, and the twentieth-century decline follows.
+Sarangi players came largely from hereditary professional musician communities tied to courts, festivals, dance and narrative traditions. Colonial recording and later classical institutions fixed the "accompanist" position and marginalised the instrument together with the social identity of its players. High technical difficulty, modest volume and a social label — three things stacked, and the twentieth-century decline follows.
 
 None of this is the instrument's fault: its expressive range is widely agreed to be the closest to a voice. The concert hall and the record industry simply did not give it a place.
 
 ## Against other bowed instruments
 
-- **erhu**: also fretless and also voice-like, but with only two strings and no sympathetic set; its sound is more concentrated.
-- **violin**: has a fingerboard and fixed positions; intonation lives in the ear and the hand. The sarangi turns intonation into a continuous quantity with a nail and a slide.
-- **harmonium**: the instrument that took over its accompaniment role; keyed and fixed in pitch, the exact opposite of the sarangi.
+- erhu: also fretless and also voice-like, but with only two strings and no sympathetic set; its sound is more concentrated.
+- violin: has a fingerboard and fixed positions; intonation lives in the ear and the hand. The sarangi turns intonation into a continuous quantity with a nail and a slide.
+- harmonium: the instrument that took over its accompaniment role; keyed and fixed in pitch, the exact opposite of the sarangi.
 
 ## Three things to take away
 
-1. **No frets**: pitch is continuous, and the slide is grammar, not decoration.
-2. **Sympathetic strings**: thirty-odd strings resonating passively, adding a veil to every note.
-3. **Closest to the voice**: not because the colour is sweet, but because it can copy the weight and breath of a singer.
+1. No frets: pitch is continuous, and the slide is grammar, not decoration.
+2. Sympathetic strings: thirty-odd strings resonating passively, adding a veil to every note.
+3. Closest to the voice: not because the colour is sweet, but because it can copy the weight and breath of a singer.
 
 ### HS classification
 
@@ -237,5 +237,4 @@ None of this is the instrument's fault: its expressive range is widely agreed to
 ```audiolab
 {"type":"instrument","gm":"Fiddle","synth":"bowed","phrase":["C3","E3","G3","A3","G3","E3","D3","C3"],"label":"一条会滑的线：从 C3 走到 A3 再回来","label_en":"A line that slides: C3 up to A3 and back","hint":"通用音色表里没有萨朗吉，这里借 Fiddle 近似：听连续的运弓、音与音之间尽量不留缝。真实的萨朗吉还有三样这条试听件给不了：一、指甲按弦造成的滑音（meend），音高是连续移动的；二、三十多根共鸣弦在每个音上叠出的一层雾；三、它模仿人声换气与渐弱的那些句尾。","hint_en":"The General MIDI table has no sarangi, so a Fiddle stands in: listen to the continuous bow and the attempt to leave no gap between notes. Three things the sample cannot give you: the slide produced by a fingernail (meend), where pitch moves continuously; the cloud of thirty-odd sympathetic strings over every note; and the phrase endings where it imitates a singer's breath and decay."}
 ```
-
 :::

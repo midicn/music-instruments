@@ -45,12 +45,12 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 打击（膜鸣支系 · 有音高） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，定音鼓不在其中 |
 
-> ⚠️ **一个概念上的要点**：**打击乐的两大类不是按材料分的，而是按"什么在振动"分的。**
-> - **膜鸣**（Membranophone）：**一张膜**是振源 → 所有鼓类（定音鼓、小鼓、大鼓、铃鼓…）
-> - **体鸣**（Idiophone）：**材料本身**振动 → 锣、钹、三角铁、木琴、钟琴…
+> ⚠️ **一个概念上的要点**：打击乐的两大类不是按材料分的，而是按"什么在振动"分的。
+> - 膜鸣（Membranophone）：一张膜是振源 → 所有鼓类（定音鼓、小鼓、大鼓、铃鼓…）
+> - 体鸣（Idiophone）：材料本身振动 → 锣、钹、三角铁、木琴、钟琴…
 >
 > 这与[[instrument:flute|木管]]（气柱振动）和[[instrument:trumpet|铜管]]（嘴唇振动）
-> 构成 HS 五分法里的三条不同判据。**"打击"是演奏方式，"膜鸣/体鸣"才是分类。**
+> 构成 HS 五分法里的三条不同判据。"打击"是演奏方式，"膜鸣/体鸣"才是分类。
 
 ## 打击乐怎么分：先看什么在振动
 
@@ -79,14 +79,14 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图是打击乐全批的骨架**。下面 23 条都会落在两栏之一：
+这张图是打击乐全批的骨架。下面 23 条都会落在两栏之一：
 
 | | 膜鸣（膜是振源） | 体鸣（材料是振源） |
 |---|---|---|
 | **有音高** | **定音鼓** | 木琴 · 马林巴 · 颤音琴 · 钟琴 · 管钟 · 钢片琴 · 手碟 |
 | **无固定音高** | 小鼓 · 大鼓 · 铃鼓 · 爵士鼓组 · 拉丁打击组 | 三角铁 · 铙钹 · 锣 · 响板 · 敲击棒 · 鞭响器 · 乐砧 · 风铃 · 砂槌 · 雨棍 · 木鱼 |
 
-**四个格子** —— 上排 8 件有明确音高（能画音域图），下排 16 件没有。
+四个格子 —— 上排 8 件有明确音高（能画音域图），下排 16 件没有。
 
 ## 结构：半球鼓身 + 踏板调音
 
@@ -126,12 +126,12 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **鼓身是封闭的半球**。这是它能有明确音高的关键 —— 封闭腔体让基频突出，
+1. 鼓身是封闭的半球。这是它能有明确音高的关键 —— 封闭腔体让基频突出，
    而开口的鼓（如小鼓）低频发散、音高不明确。
-2. **踏板是调音装置**。踩下踏板改变鼓皮的张力 → 改变音高。
-   一套鼓在乐曲进行中可以**实时换音**，这是它在管弦乐里不可替代的原因。
-3. **用软头鼓槌**。槌头的软硬直接决定音色（软 → 圆厚，硬 → 清晰），
-   所以定音鼓手会根据乐句**换槌**，这是它的重要表现手段。
+2. 踏板是调音装置。踩下踏板改变鼓皮的张力 → 改变音高。
+   一套鼓在乐曲进行中可以实时换音，这是它在管弦乐里不可替代的原因。
+3. 用软头鼓槌。槌头的软硬直接决定音色（软 → 圆厚，硬 → 清晰），
+   所以定音鼓手会根据乐句换槌，这是它的重要表现手段。
 
 ## 音域
 
@@ -139,20 +139,20 @@ updated: 2026-09-26
 {"range":"D2–A3","common":"D2–F3","caption":"定音鼓（一套）的总音域","caption_en":"Timpani (a set) — combined range","note":"定音鼓是「可调音高」的膜鸣乐器：靠踏板改变鼓皮张力。单支鼓约一个六度；常见的一套四支合起来约 D2–A3。记谱即实音。"}
 ```
 
-- **一套四支合起来约 D2–A3**，但**单支鼓只有约一个六度的调节范围** ——
+- 一套四支合起来约 D2–A3，但单支鼓只有约一个六度的调节范围 ——
   所以它的音高能力是"多支鼓各覆盖一段"。
-- **常用区 D2–F3**：管弦乐里绝大多数定音鼓声部都在这里。
-- **它只负责低音**。定音鼓从来不是旋律乐器，但它**决定了低频的节奏感**。
+- 常用区 D2–F3：管弦乐里绝大多数定音鼓声部都在这里。
+- 它只负责低音。定音鼓从来不是旋律乐器，但它决定了低频的节奏感。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **有明确音高，但音高不是它最突出的特征**。听感上"轰鸣的雷声"往往先于"具体的音"。
-2. **余音长**。敲一下会响一段时间，所以快速连击时声音会叠起来 ——
-   需要鼓手用**止音**（手按鼓皮）控制。
-3. **槌头决定音色**。同一支鼓换槌就像换了半件乐器，这是它表现力最大的来源。
-4. **力度范围极宽**。从极弱的"远处雷声"到能压过整个乐队的强击。
+1. 有明确音高，但音高不是它最突出的特征。听感上"轰鸣的雷声"往往先于"具体的音"。
+2. 余音长。敲一下会响一段时间，所以快速连击时声音会叠起来 ——
+   需要鼓手用止音（手按鼓皮）控制。
+3. 槌头决定音色。同一支鼓换槌就像换了半件乐器，这是它表现力最大的来源。
+4. 力度范围极宽。从极弱的"远处雷声"到能压过整个乐队的强击。
 
 ```audiolab
 {"type":"instrument","gm":"Timpani","synth":"perc","phrase":["D2","A2","D3","A3","D2"],"label":"定音鼓的常用音区：D2 到 A3","label_en":"The timpani's working range — D2 up to A3","hint":"注意有音高但更像「轰鸣」—— 以及余音如何叠在一起","hint_en":"Hear a definite pitch that still reads as thunder — and how the notes ring into each other."}
@@ -160,12 +160,12 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **双手各持一槌**，所以它能**同时敲两个音**（甚至三、四个，视鼓数）。
-- **止音（damping）**：用手按住鼓皮停止余音 —— 干净的收尾靠它。
-- **换槌**：软、中、硬三种以上，按乐句需要即时更换。
-- **滚奏（roll）**：双槌快速交替，得到持续的轰鸣 ——
+- 双手各持一槌，所以它能同时敲两个音（甚至三、四个，视鼓数）。
+- 止音（damping）：用手按住鼓皮停止余音 —— 干净的收尾靠它。
+- 换槌：软、中、硬三种以上，按乐句需要即时更换。
+- 滚奏（roll）：双槌快速交替，得到持续的轰鸣 ——
   定音鼓的滚奏是管弦乐里最有效的"张力"手段之一。
-- **踏板滑音**：踩踏板在敲击后改变音高，得到滑音效果 —— 现代作品常用。
+- 踏板滑音：踩踏板在敲击后改变音高，得到滑音效果 —— 现代作品常用。
 
 ## 家族与近亲
 
@@ -177,7 +177,7 @@ updated: 2026-09-26
 | [[instrument:marimba\|马林巴]] | 体鸣 | **有** | 旋律与和声 |
 | [[instrument:glockenspiel\|钟琴]] | 体鸣 | **有** | 高音加亮 |
 
-**定音鼓与马林巴是"有音高打击乐"的两端**：
+定音鼓与马林巴是"有音高打击乐"的两端：
 一个在最低（膜鸣），一个在中高（体鸣的木质琴条）。
 
 ## 历史演变
@@ -191,26 +191,27 @@ updated: 2026-09-26
 | 19 世纪末—20 世纪 | **踏板调音**普及 → 可在乐曲中实时换音；定音鼓的写法大幅解放 |
 | 20 世纪至今 | 成为管弦乐与管乐团的标准配置；现代作品要求更复杂的换音与音色变化 |
 
-**一个常被引用的例子**：贝多芬《第九交响曲》的谐谑曲里，
+一个常被引用的例子：贝多芬《第九交响曲》的谐谑曲里，
 定音鼓有一段独奏式的写法（定音鼓奏出主题的节奏）—— 在 1824 年这是很不寻常的做法。
 
 ## 常见误解
 
-- **"定音鼓是体鸣乐器。"** 它是**膜鸣** —— 鼓皮是振源，鼓身只是共鸣体。
-- **"它没有音高。"** 它**有明确音高**，而且可以靠踏板调节，是管弦乐里少数有音高的打击乐器。
-- **"它是铜做的所以像铜管。"** 材料不判类。它属**打击 · 膜鸣**，
+- "定音鼓是体鸣乐器。" 它是膜鸣 —— 鼓皮是振源，鼓身只是共鸣体。
+- "它没有音高。" 它有明确音高，而且可以靠踏板调节，是管弦乐里少数有音高的打击乐器。
+- "它是铜做的所以像铜管。" 材料不判类。它属打击 · 膜鸣，
   与靠嘴唇振动的铜管毫无关系。
-- **"一套定音鼓音域很宽。"** **单支**鼓只有约一个六度；总音域靠**多支鼓各覆盖一段**拼出来。
-- **"打鼓不需要技巧。"** 定音鼓的止音、换槌、滚奏与踏板控制都是专门技术，
+- "一套定音鼓音域很宽。" 单支鼓只有约一个六度；总音域靠多支鼓各覆盖一段拼出来。
+- "打鼓不需要技巧。" 定音鼓的止音、换槌、滚奏与踏板控制都是专门技术，
   音准（踏板定位）也要求听辨能力。
 
 ## 下一步
 
 打击乐这条线从"膜鸣"出发，接下来会分两条走：
-**鼓类**（[[instrument:snare-drum|小鼓]] · [[instrument:bass-drum|大鼓]]）
-与**体鸣**（木琴一族 · 金属一族）。
+鼓类（[[instrument:snare-drum|小鼓]] · [[instrument:bass-drum|大鼓]]）
+与体鸣（木琴一族 · 金属一族）。
 
-先看**小鼓** —— 它是军乐与爵士鼓组的心脏，也是"膜鸣如何变得没有音高"的最好例子。
+先看小鼓 —— 它是军乐与爵士鼓组的心脏，也是"膜鸣如何变得没有音高"的最好例子。
+
 :::
 
 ::: en
@@ -229,8 +230,8 @@ drawn on a **completely different basis** from woodwind or brass.
 
 > ⚠️ **One conceptual point**: **percussion's two great classes are not separated by material but by what
 > vibrates.**
-> - **Membranophone**: **a head** is the source → all drums (timpani, snare, bass drum, tambourine…)
-> - **Idiophone**: **the material itself** vibrates → gongs, cymbals, triangles, xylophones, bells…
+> - Membranophone: a head is the source → all drums (timpani, snare, bass drum, tambourine…)
+> - Idiophone: the material itself vibrates → gongs, cymbals, triangles, xylophones, bells…
 >
 > Along with the [[instrument:tuba|aerophone's air column]] and the brass player's lips, that makes three
 > distinct criteria inside the Hornbostel–Sachs scheme. **"Percussion" describes how it is played; "membrane
@@ -263,7 +264,7 @@ drawn on a **completely different basis** from woodwind or brass.
 </svg>
 ```
 
-**This diagram is the skeleton of the whole percussion batch.** The next 23 entries all fall into one of
+This diagram is the skeleton of the whole percussion batch. The next 23 entries all fall into one of
 four cells:
 
 | | Membranophone (head) | Idiophone (material) |
@@ -271,7 +272,7 @@ four cells:
 | **With pitch** | **Timpani** | xylophone · marimba · vibraphone · glockenspiel · tubular bells · celesta · handpan |
 | **Without fixed pitch** | snare · bass drum · tambourine · drum kit · Latin percussion | triangle · cymbals · gong · castanets · claves · whip · anvil · wind chimes · maracas · rainstick · woodblock |
 
-**Four cells** — eight instruments with definite pitch (they can carry a range chart), sixteen without.
+Four cells — eight instruments with definite pitch (they can carry a range chart), sixteen without.
 
 ## Structure: a hemispherical bowl and pedal tuning
 
@@ -311,12 +312,12 @@ four cells:
 
 Three points:
 
-1. **The bowl is a closed hemisphere.** That is the key to a definite pitch: a closed cavity favours the
+1. The bowl is a closed hemisphere. That is the key to a definite pitch: a closed cavity favours the
    fundamental, while an open drum (like a snare) scatters its low frequencies and blurs the pitch.
-2. **The pedal is the tuning mechanism.** Pressing it changes head tension and therefore pitch, so a set can
-   **retune during a piece** — why timpani are irreplaceable in an orchestra.
-3. **Soft-headed mallets.** Head hardness decides the colour (soft = round and deep, hard = clear), so
-   timpanists **change mallets** by phrase — a major expressive device.
+2. The pedal is the tuning mechanism. Pressing it changes head tension and therefore pitch, so a set can
+   retune during a piece — why timpani are irreplaceable in an orchestra.
+3. Soft-headed mallets. Head hardness decides the colour (soft = round and deep, hard = clear), so
+   timpanists change mallets by phrase — a major expressive device.
 
 ## Range
 
@@ -324,22 +325,22 @@ Three points:
 {"range":"D2–A3","common":"D2–F3","caption":"定音鼓（一套）的总音域","caption_en":"Timpani (a set) — combined range","note":"定音鼓是「可调音高」的膜鸣乐器：靠踏板改变鼓皮张力。单支鼓约一个六度；常见的一套四支合起来约 D2–A3。记谱即实音。"}
 ```
 
-- **A set of four spans about D2–A3**, but **each drum tunes over only about a sixth** — so the total comes
+- A set of four spans about D2–A3, but each drum tunes over only about a sixth — so the total comes
   from several drums each covering a stretch.
-- **The working area is D2–F3**; almost all orchestral writing lives there.
-- **It carries the bass only.** Timpani are never a melodic instrument, but they **decide the rhythm of the
+- The working area is D2–F3; almost all orchestral writing lives there.
+- It carries the bass only. Timpani are never a melodic instrument, but they **decide the rhythm of the
   low end**.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **A definite pitch that does not read as one.** The impression of "distant thunder" usually arrives before
+1. A definite pitch that does not read as one. The impression of "distant thunder" usually arrives before
    the actual note.
-2. **A long ring**, so fast strikes overlap — players damp with the hand to control it.
-3. **The mallet decides the colour.** Changing mallets is like changing half the instrument, and is its
+2. A long ring, so fast strikes overlap — players damp with the hand to control it.
+3. The mallet decides the colour. Changing mallets is like changing half the instrument, and is its
    greatest source of expression.
-4. **A huge dynamic range**, from a distant rumble to a strike that can dominate the orchestra.
+4. A huge dynamic range, from a distant rumble to a strike that can dominate the orchestra.
 
 ```audiolab
 {"type":"instrument","gm":"Timpani","synth":"perc","phrase":["D2","A2","D3","A3","D2"],"label":"定音鼓的常用音区：D2 到 A3","label_en":"The timpani's working range — D2 up to A3","hint":"注意有音高但更像「轰鸣」—— 以及余音如何叠在一起","hint_en":"Hear a definite pitch that still reads as thunder — and how the notes ring into each other."}
@@ -347,12 +348,12 @@ Four cues:
 
 ## Playing techniques
 
-- **One mallet in each hand**, so a player can strike **two notes at once** (more with more drums).
-- **Damping** by hand stops the ring — the basis of a clean release.
-- **Mallet changes**: at least soft, medium and hard, swapped by phrase.
-- **Rolls**: alternating strokes produce a sustained thunder — one of the orchestra's most effective ways
+- One mallet in each hand, so a player can strike two notes at once (more with more drums).
+- Damping by hand stops the ring — the basis of a clean release.
+- Mallet changes: at least soft, medium and hard, swapped by phrase.
+- Rolls: alternating strokes produce a sustained thunder — one of the orchestra's most effective ways
   to build tension.
-- **Pedal glissando**: changing pitch after the strike, a modern technique.
+- Pedal glissando: changing pitch after the strike, a modern technique.
 
 ## The family
 
@@ -364,7 +365,7 @@ Four cues:
 | [[instrument:marimba\|Marimba]] | idiophone | **yes** | melody and harmony |
 | [[instrument:glockenspiel\|Glockenspiel]] | idiophone | **yes** | brightening the top |
 
-**Timpani and marimba are the two ends of "pitched percussion"**: one the lowest (membrane), one in the
+Timpani and marimba are the two ends of "pitched percussion": one the lowest (membrane), one in the
 middle-high (idiophone wooden bars).
 
 ## History
@@ -378,27 +379,27 @@ middle-high (idiophone wooden bars).
 | Late 19th–20th c. | **pedal tuning** spreads → retuning during a piece becomes possible, and the writing is freed |
 | 20th c. onward | standard in orchestra and band; contemporary works demand complex retuning and colour changes |
 
-**A commonly cited example**: in the scherzo of Beethoven's Ninth the timpani have a soloistic passage
+A commonly cited example: in the scherzo of Beethoven's Ninth the timpani have a soloistic passage
 playing the theme's rhythm — highly unusual for 1824.
 
 ## Common misconceptions
 
-- **"Timpani are idiophones."** They are **membranophones** — the head is the source, the bowl only
+- "Timpani are idiophones." They are membranophones — the head is the source, the bowl only
   resonates.
-- **"They have no pitch."** They **do**, tunably, and are among the few pitched instruments in orchestral
+- "They have no pitch." They do, tunably, and are among the few pitched instruments in orchestral
   percussion.
-- **"They are copper, so they are like brass instruments."** Material settles nothing. They belong to
-  **percussion · membranophone**, unrelated to lip-driven brass.
-- **"A set has a wide range."** **Each drum** tunes over only about a sixth; the total is assembled from
+- "They are copper, so they are like brass instruments." Material settles nothing. They belong to
+  percussion · membranophone, unrelated to lip-driven brass.
+- "A set has a wide range." Each drum tunes over only about a sixth; the total is assembled from
   several drums.
-- **"Drumming needs no technique."** Damping, mallet choice, rolls and pedal tuning are specialist skills,
+- "Drumming needs no technique." Damping, mallet choice, rolls and pedal tuning are specialist skills,
   and tuning by pedal demands a good ear.
 
 ## Next
 
-From "membranophones" the line now splits: **drums** ([[instrument:snare-drum|snare]] ·
-[[instrument:bass-drum|bass drum]]) and **idiophones** (the xylophone family, the metal family).
+From "membranophones" the line now splits: drums ([[instrument:snare-drum|snare]] ·
+[[instrument:bass-drum|bass drum]]) and idiophones (the xylophone family, the metal family).
 
-Start with the **snare drum** — the heart of military music and the drum kit, and the best example of how a
+Start with the snare drum — the heart of military music and the drum kit, and the best example of how a
 membranophone becomes pitchless.
 :::

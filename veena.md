@@ -32,42 +32,42 @@ updated: 2026-10-28
 
 维纳琴（这里指南印度的**萨拉斯瓦蒂维纳**）把**二十四枚金属品**固定在长颈上，音高看起来被「钉死」了。但印度音乐最重要的滑音 **meend** 仍然做得到：演奏者不换品，而是把弦**横向拉**过品面——弦被拉紧，音高就上去；松回来，音高就下来。
 
-这是它和西塔琴最漂亮的对照：**西塔琴把品做成可移动的，维纳琴把品钉死，却用手指把弦拉出格子。** 一个改琴，一个改弦；两种办法都让固定音高变成连续的声音。
+这是它和西塔琴最漂亮的对照：西塔琴把品做成可移动的，维纳琴把品钉死，却用手指把弦拉出格子。 一个改琴，一个改弦；两种办法都让固定音高变成连续的声音。
 
 ## 形制：大腔、长颈、二十四品
 
-- **主共鸣腔（kudam）**：大而圆的木制葫芦形腔体，通常用 jackwood 一类硬木挖成；琴面有音孔，腔体负责低音与共鸣。
-- **副共鸣腔**：琴颈靠近演奏者的一端常有一个较小的共鸣器，让高音也有支撑；有些形制可以拆下。
-- **琴颈（dandi）**：长而直，上面固定**二十四枚金属品**，品下垫蜡或树脂调平。
-- **弦**：**四根主弦**（传统为钢弦），定音通常为 Sa – Pa – Sa – Sa（低八度）；另有**三根 thala 弦**（节奏弦），定到 Sa 或 Pa，用来打持续音与节奏型。
-- **琴头**：常有雕刻的 **yali**（神话兽）装饰；这是乐器，也是器物。
-- **演奏**：右手用食指与中指拨弦，左手按品；左手的横向拉弦（**meend**）与压弦（**gamak**）是它的标志。
+- 主共鸣腔（kudam）：大而圆的木制葫芦形腔体，通常用 jackwood 一类硬木挖成；琴面有音孔，腔体负责低音与共鸣。
+- 副共鸣腔：琴颈靠近演奏者的一端常有一个较小的共鸣器，让高音也有支撑；有些形制可以拆下。
+- 琴颈（dandi）：长而直，上面固定二十四枚金属品，品下垫蜡或树脂调平。
+- 弦：四根主弦（传统为钢弦），定音通常为 Sa – Pa – Sa – Sa（低八度）；另有三根 thala 弦（节奏弦），定到 Sa 或 Pa，用来打持续音与节奏型。
+- 琴头：常有雕刻的 yali（神话兽）装饰；这是乐器，也是器物。
+- 演奏：右手用食指与中指拨弦，左手按品；左手的横向拉弦（meend）与压弦（gamak）是它的标志。
 
 ## 四根主弦与三根节奏弦
 
-维纳琴的声音不是一条旋律线。**四根主弦**里，第一根唱旋律，其余提供五度与八度的支撑；**三根 thala 弦**在演奏者需要时被拨响，给出持续音与节奏的骨架。**一件乐器同时承担旋律、和声与节奏**——这是 Carnatic 独奏的典型配置。
+维纳琴的声音不是一条旋律线。四根主弦里，第一根唱旋律，其余提供五度与八度的支撑；三根 thala 弦在演奏者需要时被拨响，给出持续音与节奏的骨架。一件乐器同时承担旋律、和声与节奏——这是 Carnatic 独奏的典型配置。
 
 ## 「veena」是一类，不是一件
 
-在印度传统里，**veena** 泛指一类弦乐器：北印度的 **rudra veena**（大型棒状维纳）、**vichitra veena**（无品、以滑棒演奏）都叫 veena；南印度的萨拉斯瓦蒂维纳是其中一种。**说「维纳琴」时，先问是哪一种**——这与「fiddle」泛指擦弦乐器、「笛子」泛指吹管是同一类命名的宽窄问题。
+在印度传统里，veena 泛指一类弦乐器：北印度的 rudra veena（大型棒状维纳）、vichitra veena（无品、以滑棒演奏）都叫 veena；南印度的萨拉斯瓦蒂维纳是其中一种。说「维纳琴」时，先问是哪一种——这与「fiddle」泛指擦弦乐器、「笛子」泛指吹管是同一类命名的宽窄问题。
 
 ## 与西塔琴、鲁特琴对照
 
-- **sitar**：西塔琴的品可以移动，维纳琴的品固定；西塔琴有共鸣弦，维纳琴有 thala 弦。**一个调琴码，一个拉弦**。
-- **lute**：巴洛克鲁特琴同样有品、有梨形腔，但它的音乐建立在复调与和声上；维纳琴的音乐建立在 raga 的旋律与持续音上。
-- **harp**：竖琴没有品，靠手指直接取音；维纳琴有品，却用横向拉弦把品「抹掉」。
+- sitar：西塔琴的品可以移动，维纳琴的品固定；西塔琴有共鸣弦，维纳琴有 thala 弦。一个调琴码，一个拉弦。
+- lute：巴洛克鲁特琴同样有品、有梨形腔，但它的音乐建立在复调与和声上；维纳琴的音乐建立在 raga 的旋律与持续音上。
+- harp：竖琴没有品，靠手指直接取音；维纳琴有品，却用横向拉弦把品「抹掉」。
 
 ## 制度与舞台
 
-维纳琴长期是南印度宫廷与庙宇音乐的核心乐器，也是 Carnatic 独奏与声乐伴奏的重要声音。20 世纪，**Veena Dhanammal** 的家族传统、**S. Balachander** 的独奏风格、**E. Gayathri** 与 **Jayanthi Kumaresh** 等演奏家，让它从宫廷与庙宇走进音乐厅与录音。
+维纳琴长期是南印度宫廷与庙宇音乐的核心乐器，也是 Carnatic 独奏与声乐伴奏的重要声音。20 世纪，Veena Dhanammal 的家族传统、S. Balachander 的独奏风格、E. Gayathri 与 Jayanthi Kumaresh 等演奏家，让它从宫廷与庙宇走进音乐厅与录音。
 
-它也是「大件乐器」的代表：音量不占优势、携带不便，在扩音时代反而更需要麦克风。**乐器的物理尺寸，决定了它在现代舞台上的位置。**
+它也是「大件乐器」的代表：音量不占优势、携带不便，在扩音时代反而更需要麦克风。乐器的物理尺寸，决定了它在现代舞台上的位置。
 
 ## 带走三件事
 
-1. **固定品 + 拉弦**：音高写在品上，滑音做在弦上。
-2. **四主弦 + 三节奏弦**：一件乐器同时给旋律、支撑与节奏。
-3. **veena 是一类**：说「维纳琴」时，先分清是哪一种形制。
+1. 固定品 + 拉弦：音高写在品上，滑音做在弦上。
+2. 四主弦 + 三节奏弦：一件乐器同时给旋律、支撑与节奏。
+3. veena 是一类：说「维纳琴」时，先分清是哪一种形制。
 
 ### HS 分类
 
@@ -153,38 +153,38 @@ This is the cleanest contrast with the sitar: **the sitar makes the frets movabl
 
 ## Form: chamber, neck, twenty-four frets
 
-- **Main chamber (kudam)**: a large round wooden resonator, usually carved from a hardwood such as jackwood, with a sound hole; it carries the low end and the resonance.
-- **Secondary resonator**: a smaller chamber near the player's end of the neck supports the high register; on some instruments it can be detached.
-- **Neck (dandi)**: long and straight, carrying **twenty-four metal frets**, levelled with wax or resin beneath.
-- **Strings**: **four main strings** (traditionally steel), usually tuned Sa – Pa – Sa – Sa (the last an octave lower); plus **three thala strings** tuned to Sa or Pa, used for drone and rhythmic patterns.
-- **Head**: often carved with a **yali**, a mythical beast — the instrument is also an object.
-- **Playing**: the right hand plucks with index and middle fingers, the left stops the frets; the sideways pull (**meend**) and the pressed shake (**gamak**) are its signature.
+- Main chamber (kudam): a large round wooden resonator, usually carved from a hardwood such as jackwood, with a sound hole; it carries the low end and the resonance.
+- Secondary resonator: a smaller chamber near the player's end of the neck supports the high register; on some instruments it can be detached.
+- Neck (dandi): long and straight, carrying twenty-four metal frets, levelled with wax or resin beneath.
+- Strings: four main strings (traditionally steel), usually tuned Sa – Pa – Sa – Sa (the last an octave lower); plus three thala strings tuned to Sa or Pa, used for drone and rhythmic patterns.
+- Head: often carved with a yali, a mythical beast — the instrument is also an object.
+- Playing: the right hand plucks with index and middle fingers, the left stops the frets; the sideways pull (meend) and the pressed shake (gamak) are its signature.
 
 ## Four main strings and three rhythmic strings
 
-The veena is not a single melodic line. Of the **four main strings**, the first sings the melody and the others supply the fifth and the octave; the **three thala strings** are plucked when needed to give a drone and a rhythmic frame. **One instrument carries melody, support and rhythm at once** — the typical setup of a Carnatic solo.
+The veena is not a single melodic line. Of the four main strings, the first sings the melody and the others supply the fifth and the octave; the three thala strings are plucked when needed to give a drone and a rhythmic frame. One instrument carries melody, support and rhythm at once — the typical setup of a Carnatic solo.
 
 ## "Veena" is a family, not one instrument
 
-In Indian tradition **veena** names a family of stringed instruments: the North Indian **rudra veena** (a large stick-like veena) and the **vichitra veena** (fretless, played with a slide) are both veenas; the Saraswati veena of the South is one of them. **When someone says "veena", ask which one** — the same width-of-meaning problem as "fiddle" or "flute".
+In Indian tradition veena names a family of stringed instruments: the North Indian rudra veena (a large stick-like veena) and the vichitra veena (fretless, played with a slide) are both veenas; the Saraswati veena of the South is one of them. When someone says "veena", ask which one — the same width-of-meaning problem as "fiddle" or "flute".
 
 ## Against the sitar and the lute
 
-- **sitar**: its frets move, the veena's are fixed; the sitar has sympathetic strings, the veena has thala strings. **One moves the bridge, the other pulls the string.**
-- **lute**: the Baroque lute also has frets and a pear-shaped body, but its music is built on polyphony and harmony; the veena's is built on raga melody and drone.
-- **harp**: a harp has no frets and takes pitches directly with the fingers; the veena has frets and then "erases" them by pulling the string.
+- sitar: its frets move, the veena's are fixed; the sitar has sympathetic strings, the veena has thala strings. One moves the bridge, the other pulls the string.
+- lute: the Baroque lute also has frets and a pear-shaped body, but its music is built on polyphony and harmony; the veena's is built on raga melody and drone.
+- harp: a harp has no frets and takes pitches directly with the fingers; the veena has frets and then "erases" them by pulling the string.
 
 ## Institution and stage
 
-The veena was long central to South Indian court and temple music, and remains a key voice in Carnatic solo and accompaniment. In the twentieth century the family tradition of **Veena Dhanammal**, the solo style of **S. Balachander**, and players such as **E. Gayathri** and **Jayanthi Kumaresh** carried it from court and temple into the concert hall and the recording.
+The veena was long central to South Indian court and temple music, and remains a key voice in Carnatic solo and accompaniment. In the twentieth century the family tradition of Veena Dhanammal, the solo style of S. Balachander, and players such as E. Gayathri and Jayanthi Kumaresh carried it from court and temple into the concert hall and the recording.
 
-It is also a large instrument: modest in volume and awkward to carry, it needs a microphone even more in the amplified age. **Physical size decides a place on the modern stage.**
+It is also a large instrument: modest in volume and awkward to carry, it needs a microphone even more in the amplified age. Physical size decides a place on the modern stage.
 
 ## Three things to take away
 
-1. **Fixed frets + pulled strings**: pitch is written on the fret, the slide is made on the string.
-2. **Four main strings + three rhythmic strings**: one instrument gives melody, support and rhythm.
-3. **Veena is a family**: when the word appears, first decide which instrument is meant.
+1. Fixed frets + pulled strings: pitch is written on the fret, the slide is made on the string.
+2. Four main strings + three rhythmic strings: one instrument gives melody, support and rhythm.
+3. Veena is a family: when the word appears, first decide which instrument is meant.
 
 ### HS classification
 
@@ -257,5 +257,4 @@ It is also a large instrument: modest in volume and awkward to carry, it needs a
 ```audiolab
 {"type":"instrument","gm":"Sitar","synth":"plucked","phrase":["C3","G3","C4","D4","E4","G4","E4","C4"],"label":"四根主弦上的一个来回","label_en":"One turn on the four main strings","hint":"通用音色表里没有维纳琴，这里借 Sitar 近似：听拨弦的音头、四根弦的支撑与持续音。真实的维纳琴还有三样这条试听件给不了：一、固定品上横向拉弦产生的 meend；二、三根 thala 弦的节奏持续音；三、大葫芦腔与副腔同时共鸣的厚度。","hint_en":"The General MIDI table has no veena, so a Sitar stands in: listen to the plucked attack, the support of four strings and the drone. Three things the sample cannot give you: the meend produced by pulling a string sideways across a fixed fret, the rhythmic drone of the three thala strings, and the depth of the large main chamber resonating together with the small one."}
 ```
-
 :::

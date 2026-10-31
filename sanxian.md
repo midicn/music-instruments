@@ -47,20 +47,20 @@ updated: 2026-09-26
 > ⚠️ **出身史：一次"给打击乐器装上弦"的改造。**
 > 公元前 214 年，秦修长城。服役的人把一种**有柄的小摇鼓（鼗）**——
 > 就是那种转着手柄、两侧小珠敲鼓面的拨浪鼓 —— **在鼓面上拴了丝弦**。
-> 于是有了一件**圆形 · 皮面 · 长柄 · 可以弹拨**的东西，当时叫**「弦鼗」**。
-> **这就是三弦的前身。**
+> 于是有了一件圆形 · 皮面 · 长柄 · 可以弹拨的东西，当时叫「弦鼗」。
+> 这就是三弦的前身。
 >
-> **这次改造留下了三样东西，一直留到今天**：
+> 这次改造留下了三样东西，一直留到今天：
 > | 留下来什么 | 在三弦上长成什么样 |
 > |---|---|
-> | 那只**鼓** | **鼓头**：椭圆形木框，两面蒙蟒皮 |
-> | 那层**皮面** | 皮上架着竹制琴马 —— **蟒皮至今是它的共鸣体** |
-> | 那根**柄** | **琴杆**：又长又光，**一根品都没有** |
+> | 那只鼓 | 鼓头：椭圆形木框，两面蒙蟒皮 |
+> | 那层皮面 | 皮上架着竹制琴马 —— 蟒皮至今是它的共鸣体 |
+> | 那根柄 | 琴杆：又长又光，一根品都没有 |
 >
-> **所以三弦的"鼓形"不是设计，是出身。**
+> 所以三弦的"鼓形"不是设计，是出身。
 > 这与[[instrument:pipa|琵琶]]那条"名字史"正好是一对：
-> **一个记录名字怎么被抢走，一个记录形状怎么被继承。**
-> **一条可带走的规律：一件乐器的形状，往往记录着它的来路。**
+> 一个记录名字怎么被抢走，一个记录形状怎么被继承。
+> 一条可带走的规律：一件乐器的形状，往往记录着它的来路。
 
 | 分类 | 归属 |
 |---|---|
@@ -109,11 +109,11 @@ updated: 2026-09-26
 
 两处要点：
 
-1. **鼓头 = 一只双面蒙皮的小鼓**。皮面上架着竹制琴马，弦的振动通过琴马传给**蟒皮**，
-   再带动框内的空气 —— **这与[[instrument:erhu|二胡]]的蟒皮同理**：
-   **判据仍是"什么在振动"：振动的是弦（弦鸣），蟒皮是共鸣体。**
-2. **琴杆无品 —— 这是它最显著的特征**。从琴头到鼓头，**光光滑滑，一根柱一根品都没有**。
-   于是音高**是连续的线**，不是台阶 —— 这一点与[[instrument:guqin|古琴]]相同，
+1. 鼓头 = 一只双面蒙皮的小鼓。皮面上架着竹制琴马，弦的振动通过琴马传给蟒皮，
+   再带动框内的空气 —— 这与[[instrument:erhu|二胡]]的蟒皮同理：
+   判据仍是"什么在振动"：振动的是弦（弦鸣），蟒皮是共鸣体。
+2. 琴杆无品 —— 这是它最显著的特征。从琴头到鼓头，光光滑滑，一根柱一根品都没有。
+   于是音高是连续的线，不是台阶 —— 这一点与[[instrument:guqin|古琴]]相同，
    而与[[instrument:pipa|琵琶]]、[[instrument:ruan|阮]]（有品）正相反。
 
 ## 从鼓到弦
@@ -154,29 +154,29 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图是整页的核心**：它把"三弦为什么长成这样"回答完了 —— **因为它的来路上有一只鼓。**
+这张图是整页的核心：它把"三弦为什么长成这样"回答完了 —— 因为它的来路上有一只鼓。
 
-**而这次改造只做了三件事，每一件都留在了今天的三弦上**：
-**① 保留鼓身** → 鼓头；**② 保留皮面** → 蟒皮至今是共鸣体；**③ 把柄加长** → 无品的长琴杆。
+而这次改造只做了三件事，每一件都留在了今天的三弦上：
+① 保留鼓身 → 鼓头；② 保留皮面 → 蟒皮至今是共鸣体；③ 把柄加长 → 无品的长琴杆。
 
 *（顺带一提：这次改造的"后代"还走出了国门 ——
-**中国三弦 → 琉球三线 → 日本三味线**。所以在通用音色表里，最像三弦的正是三味线。）*
+中国三弦 → 琉球三线 → 日本三味线。所以在通用音色表里，最像三弦的正是三味线。）*
 
 ## 无品：为了跟住人声
 
-三弦**无品**，于是**音高是连续的线**。
-而它为什么偏偏是**戏曲与说唱伴奏的主力**？来源里有一句话直接给了答案：
+三弦无品，于是音高是连续的线。
+而它为什么偏偏是戏曲与说唱伴奏的主力？来源里有一句话直接给了答案：
 
-> **「可以按照人声的平上去入，自由发挥，因此广泛用于曲艺之说唱伴奏。」**
+> 「可以按照人声的平上去入，自由发挥，因此广泛用于曲艺之说唱伴奏。」
 
-**这就是全部理由**：
-**唱腔是连续滑动的** —— 一个字的声调从高滑到低、从低挑到高，
-**只有无品的乐器才能贴着它走**。有品的乐器只能一个台阶一个台阶地跳，跟不住那种连绵的腔。
+这就是全部理由：
+唱腔是连续滑动的 —— 一个字的声调从高滑到低、从低挑到高，
+只有无品的乐器才能贴着它走。有品的乐器只能一个台阶一个台阶地跳，跟不住那种连绵的腔。
 
-**所以"无品"不是落后，而是"为了跟人声"** ——
+所以"无品"不是落后，而是"为了跟人声" ——
 这也解释了它另外两个特点：
-- **滑指与走音极方便** —— 这是它的语言，不是装饰；
-- **便于自由转调** —— 唱的人起高了起低了，它随时能跟。
+- 滑指与走音极方便 —— 这是它的语言，不是装饰；
+- 便于自由转调 —— 唱的人起高了起低了，它随时能跟。
 
 ## 音域
 
@@ -184,23 +184,23 @@ updated: 2026-09-26
 {"range":"G2–D6","caption":"三弦的音域（以大三弦为例）","caption_en":"Sanxian range — the large instrument as the example","note":"三弦属弦鸣乐器（拨弦，无品）。乐队中大三弦定弦多为 G2 · D3 · G3（内外弦为八度，外弦与中弦为四度或五度，故有「硬中弦」「软中弦」之分，以硬中弦最常用）；常用音域 G2–D5，最高可到 D6，音域约三个八度。南方小三弦全长较短、音区更高。记谱即实音。"}
 ```
 
-- **约三个八度**（大三弦常用 G2–D5，最高可到 D6）—— 对三根弦来说相当宽。
-- **它靠"无品"换来了音域的自由**：没有品柱的阻挡，左手可以在一条弦上任意滑动 ——
-   于是**三根弦就够覆盖三个八度**（这与[[instrument:zheng|筝]]"音要多就得加弦"正好相反）。
-- **南北两种尺寸**：
-  **北方大三弦**（约 115–122 cm，又叫**书弦**，为大鼓等说唱伴奏）·
-  **南方小三弦**（约 90–95 cm，又叫**曲弦**，为评弹 · 昆曲 · 江南丝竹 · 南管伴奏）——
-   **同一件乐器按场合分工。**
+- 约三个八度（大三弦常用 G2–D5，最高可到 D6）—— 对三根弦来说相当宽。
+- 它靠"无品"换来了音域的自由：没有品柱的阻挡，左手可以在一条弦上任意滑动 ——
+   于是三根弦就够覆盖三个八度（这与[[instrument:zheng|筝]]"音要多就得加弦"正好相反）。
+- 南北两种尺寸：
+  北方大三弦（约 115–122 cm，又叫书弦，为大鼓等说唱伴奏）·
+  南方小三弦（约 90–95 cm，又叫曲弦，为评弹 · 昆曲 · 江南丝竹 · 南管伴奏）——
+   同一件乐器按场合分工。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **音量宏大、音色清脆响亮**。皮面共鸣给出一种**坚实而带一点"硬"的质感** ——
-   传统常形容为"干涩"，20 世纪 50–60 年代改革之后转为**厚亮**。
-2. **穿透力强**。戏曲与说唱常在嘈杂场合演出，**它必须被听见**。
-3. **点状而干脆**。拨弦起振快、衰减快 —— 与[[instrument:pipa|琵琶]]同族的颗粒感。
-4. **滑音是它的腔**。无品让它可以**像嗓子一样拐弯** ——
+1. 音量宏大、音色清脆响亮。皮面共鸣给出一种坚实而带一点"硬"的质感 ——
+   传统常形容为"干涩"，20 世纪 50–60 年代改革之后转为厚亮。
+2. 穿透力强。戏曲与说唱常在嘈杂场合演出，它必须被听见。
+3. 点状而干脆。拨弦起振快、衰减快 —— 与[[instrument:pipa|琵琶]]同族的颗粒感。
+4. 滑音是它的腔。无品让它可以像嗓子一样拐弯 ——
    这是它在戏曲里最重要的能力，也是最容易被听出来的特征。
 
 ```audiolab
@@ -209,11 +209,11 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **侧抱于怀，琴鼓置于右腿上**，琴头朝左上方倾斜。
-- **右手**以**弹 · 挑 · 搓 · 双弹 · 双挑**等技法为主；指法**源于[[instrument:pipa|琵琶]]**。
-- **左手托琴杆**，用食指 · 中指 · 无名指 · 小指按音，并以**吟 · 揉 · 擞 · 带起 · 滑指 · 走音**润饰曲调。
-- **两种触弦方式**：小三弦多用**拨片**；大三弦常戴**假指甲**弹奏。
-- **定弦随乐种而变**。民间一般分**硬中弦**与**软中弦**两种，**以硬中弦最常用** ——
+- 侧抱于怀，琴鼓置于右腿上，琴头朝左上方倾斜。
+- 右手以弹 · 挑 · 搓 · 双弹 · 双挑等技法为主；指法源于[[instrument:pipa|琵琶]]。
+- 左手托琴杆，用食指 · 中指 · 无名指 · 小指按音，并以吟 · 揉 · 擞 · 带起 · 滑指 · 走音润饰曲调。
+- 两种触弦方式：小三弦多用拨片；大三弦常戴假指甲弹奏。
+- 定弦随乐种而变。民间一般分硬中弦与软中弦两种，以硬中弦最常用 ——
    唱的人不同、腔调不同，它就换一种定弦法。
 
 ## 家族与近亲
@@ -227,12 +227,12 @@ updated: 2026-09-26
 | [[instrument:zheng\|筝]] | 二十一 | **柱** | 长方木箱 | 旋律 · 和声 |
 | [[instrument:erhu\|二胡]] | 二 | **无指板无品** | **蟒皮**（膜） | 旋律（弓擦） |
 
-**三弦在这一族里的位置很特别**：
-它是唯一**音箱由"皮"构成**的弹拨乐器（二胡是擦弦）——
-**而这层皮的来路，正是它的祖先。**
-**"什么在振动"这条判据在这里又一次派上用场**：
-看外表它是"鼓形乐器"，但**振动体是弦**（弦鸣）；
-它那位祖先才是**膜鸣**。**形状可以继承，分类不能。**
+三弦在这一族里的位置很特别：
+它是唯一音箱由"皮"构成的弹拨乐器（二胡是擦弦）——
+而这层皮的来路，正是它的祖先。
+"什么在振动"这条判据在这里又一次派上用场：
+看外表它是"鼓形乐器"，但振动体是弦（弦鸣）；
+它那位祖先才是膜鸣。形状可以继承，分类不能。
 
 ## 历史演变
 
@@ -248,35 +248,36 @@ updated: 2026-09-26
 | 传向海外 | **中国三弦 → 琉球三线 → 日本三味线** |
 | 今天 | 曲艺 · 戏曲 · 民族乐队里都在用；但**学三弦的人比学筝 · 琵琶的少得多** |
 
-**它有一条和[[instrument:ruan|阮]]放在一起才看得出的历史形状**：
-**阮是"名字被抢走了"，三弦是"形状被继承下来了"。**
-一件乐器身上留着的痕迹，**可能来自它自己的过去，也可能来自别人的改名** ——
-**两件乐器，两种"历史写在身上的方式"。**
+它有一条和[[instrument:ruan|阮]]放在一起才看得出的历史形状：
+阮是"名字被抢走了"，三弦是"形状被继承下来了"。
+一件乐器身上留着的痕迹，可能来自它自己的过去，也可能来自别人的改名 ——
+两件乐器，两种"历史写在身上的方式"。
 
 ## 常见误解
 
-- **"三弦的音箱很普通，就是个木盒子。"** 它是**两面蒙蟒皮的椭圆小鼓** ——
-   而且**这个鼓形来自它的祖先**（秦代的弦鼗）。**形状是出身留下的证据。**
-- **"三弦是膜鸣乐器，因为它的音箱蒙皮。"** **不是。**
-   判据是**什么在振动**：**振动的是弦**（弦鸣），**蟒皮是共鸣体** —— 与[[instrument:erhu|二胡]]同理。
-- **"无品说明它比较粗糙。"** 恰恰相反：**无品是它当上戏曲说唱主力的原因** ——
-   **唱腔是连续滑动的，只有无品乐器才跟得住那种"平上去入"。**
-- **"三根弦音域一定很窄。"** 它约**三个八度**（大三弦常用 G2–D5，最高可到 D6）——
-   因为无品，**一条弦上能走很远**。
-- **"三弦只做伴奏。"** 它确实是戏曲说唱的主力，但 20 世纪 50 年代以来也发展成为**独奏乐器**；
+- "三弦的音箱很普通，就是个木盒子。" 它是两面蒙蟒皮的椭圆小鼓 ——
+   而且这个鼓形来自它的祖先（秦代的弦鼗）。形状是出身留下的证据。
+- "三弦是膜鸣乐器，因为它的音箱蒙皮。" 不是。
+   判据是什么在振动：振动的是弦（弦鸣），蟒皮是共鸣体 —— 与[[instrument:erhu|二胡]]同理。
+- "无品说明它比较粗糙。" 恰恰相反：无品是它当上戏曲说唱主力的原因 ——
+   唱腔是连续滑动的，只有无品乐器才跟得住那种"平上去入"。
+- "三根弦音域一定很窄。" 它约三个八度（大三弦常用 G2–D5，最高可到 D6）——
+   因为无品，一条弦上能走很远。
+- "三弦只做伴奏。" 它确实是戏曲说唱的主力，但 20 世纪 50 年代以来也发展成为独奏乐器；
    流行与摇滚音乐里偶尔也能听到它。
-- **"八音说它是丝，所以只能用丝弦。"** 与[[instrument:guqin|古琴]]同理：
-   **八音记的是它诞生时的材料**；现代用金属或尼龙弦，音量与稳定性都更好。
+- "八音说它是丝，所以只能用丝弦。" 与[[instrument:guqin|古琴]]同理：
+   八音记的是它诞生时的材料；现代用金属或尼龙弦，音量与稳定性都更好。
 
 ## 下一步
 
-**弹拨这一类到此有了六件**：[[instrument:guqin|古琴]] · [[instrument:pipa|琵琶]] · [[instrument:zheng|筝]] ·
-[[instrument:ruan|阮]] · **三弦** —— 加上正在陆续补齐的月琴 · 柳琴等。
-**"柱 · 品 · 无"这张表填满了，"名字史"与"出身史"两条线也各有代表。**
+弹拨这一类到此有了六件：[[instrument:guqin|古琴]] · [[instrument:pipa|琵琶]] · [[instrument:zheng|筝]] ·
+[[instrument:ruan|阮]] · 三弦 —— 加上正在陆续补齐的月琴 · 柳琴等。
+"柱 · 品 · 无"这张表填满了，"名字史"与"出身史"两条线也各有代表。
 
-接下来换到**拉弦**：[[instrument:banhu|板胡]]。
-它与[[instrument:erhu|二胡]]只差一件事：**共鸣体的那块皮，换成了木板** ——
-而**仅仅换掉一块材料，就换出了一整类戏曲的嗓音。**
+接下来换到拉弦：[[instrument:banhu|板胡]]。
+它与[[instrument:erhu|二胡]]只差一件事：共鸣体的那块皮，换成了木板 ——
+而仅仅换掉一块材料，就换出了一整类戏曲的嗓音。
+
 :::
 
 ::: en
@@ -285,17 +286,17 @@ One fact about the sanxian is unusually clean: **its body looks like a drum beca
 > ⚠️ **A matter of parentage: an operation that put strings on a percussion instrument.**
 > In 214 BCE, work gangs were building the Great Wall. Some of the labourers took a **small handled rattle drum
 > (**tao**)** — the kind you spin while two beads strike the heads — and **tied silk strings across its face**.
-> The result was a **round, skin-faced, long-handled thing that could be plucked**, called a **xian-tao**.
-> **This is the ancestor of the sanxian.**
+> The result was a round, skin-faced, long-handled thing that could be plucked, called a xian-tao.
+> This is the ancestor of the sanxian.
 >
-> **That one operation left three things behind, and all three are still here**:
+> That one operation left three things behind, and all three are still here:
 > | What survived | What it became on the sanxian |
 > |---|---|
-> | the **drum** | the **drum head**: an oval wooden frame with python skin on both faces |
-> | the **skin** | a bamboo bridge on the skin — **the python skin is still its resonator** |
-> | the **handle** | the **neck**: long, bare, and **without a single fret** |
+> | the drum | the drum head: an oval wooden frame with python skin on both faces |
+> | the skin | a bamboo bridge on the skin — the python skin is still its resonator |
+> | the handle | the neck: long, bare, and without a single fret |
 >
-> **So the sanxian's drum shape is not a design; it is parentage.**
+> So the sanxian's drum shape is not a design; it is parentage.
 > This pairs neatly with the [[instrument:pipa|pipa]]'s naming story: **one records how a name was taken away,
 > the other how a shape was inherited.**
 > **A rule worth carrying off: an instrument's shape often records the road it came by.**
@@ -347,12 +348,12 @@ One fact about the sanxian is unusually clean: **its body looks like a drum beca
 
 Two points:
 
-1. **The drum head is a double-faced little drum.** A bamboo bridge sits on the skin, and the strings' vibration
-   passes through it into the **python skin**, which then moves the air inside the frame — **the same arrangement as
-   the [[instrument:erhu|erhu]]'s skin.** **The test remains "what vibrates": the strings (chordophone); the skin
+1. The drum head is a double-faced little drum. A bamboo bridge sits on the skin, and the strings' vibration
+   passes through it into the python skin, which then moves the air inside the frame — **the same arrangement as
+   the [[instrument:erhu|erhu]]'s skin. The test remains "what vibrates": the strings (chordophone); the skin
    is a resonator.**
-2. **The neck has no frets — its most conspicuous feature.** From head to drum it is **completely bare, without a
-   single post or bar**. So pitch is **a continuous line, not steps** — the same as the
+2. The neck has no frets — its most conspicuous feature. From head to drum it is **completely bare, without a
+   single post or bar. So pitch is a continuous line, not steps** — the same as the
    [[instrument:guqin|guqin]] and the opposite of the [[instrument:pipa|pipa]] and [[instrument:ruan|ruan]].
 
 ## From drum to string
@@ -395,29 +396,29 @@ Two points:
 
 **This figure finishes the question of why a sanxian looks the way it does: because a drum stands on its road in.**
 
-**And that one operation did exactly three things, each of them still visible**:
-**① keep the drum** → the drum head; **② keep the skin** → the python skin is still the resonator;
-**③ lengthen the handle** → the long, fretless neck.
+And that one operation did exactly three things, each of them still visible:
+① keep the drum → the drum head; ② keep the skin → the python skin is still the resonator;
+③ lengthen the handle → the long, fretless neck.
 
 *(Incidentally, the descendants of that operation also went abroad: **Chinese sanxian → Okinawan sanshin →
 Japanese shamisen**. Which is why the closest thing in General MIDI to a sanxian is the shamisen.)*
 
 ## Fretless: to follow the human voice
 
-The sanxian has **no frets**, so **pitch is a continuous line**.
-And why is it precisely **the workhorse of opera and narrative-song accompaniment**? One source gives the answer
+The sanxian has no frets, so pitch is a continuous line.
+And why is it precisely the workhorse of opera and narrative-song accompaniment? One source gives the answer
 outright:
 
 > **"It can develop freely according to the rise and fall of the human voice, and is therefore widely used to
 > accompany narrative singing."**
 
-**That is the whole reason**: **a sung line is continuous and sliding** — a syllable rises and falls within itself —
-and **only a fretless instrument can travel with it.** A fretted instrument can only hop from step to step and
+That is the whole reason: a sung line is continuous and sliding — a syllable rises and falls within itself —
+and only a fretless instrument can travel with it. A fretted instrument can only hop from step to step and
 cannot follow that kind of unbroken inflection.
 
-**So "fretless" is not backwardness; it is "built to follow a voice"** — which also explains two further traits:
-- **Slides and glides are effortless** — they are its language, not an ornament;
-- **It changes key freely** — if the singer starts higher or lower, it simply follows.
+So "fretless" is not backwardness; it is "built to follow a voice" — which also explains two further traits:
+- Slides and glides are effortless — they are its language, not an ornament;
+- It changes key freely — if the singer starts higher or lower, it simply follows.
 
 ## Range
 
@@ -425,23 +426,23 @@ cannot follow that kind of unbroken inflection.
 {"range":"G2–D6","caption":"三弦的音域（以大三弦为例）","caption_en":"Sanxian range — the large instrument as the example","note":"三弦属弦鸣乐器（拨弦，无品）。乐队中大三弦定弦多为 G2 · D3 · G3（内外弦为八度，外弦与中弦为四度或五度，故有「硬中弦」「软中弦」之分，以硬中弦最常用）；常用音域 G2–D5，最高可到 D6，音域约三个八度。南方小三弦全长较短、音区更高。记谱即实音。"}
 ```
 
-- **About three octaves** (large sanxian commonly G2–D5, up to D6) — wide for only three strings.
-- **It buys that freedom with the lack of frets**: with no bars in the way, the left hand can slide anywhere along a
-  string, so **three strings cover three octaves** — the exact opposite of the [[instrument:zheng|zheng]], where
+- About three octaves (large sanxian commonly G2–D5, up to D6) — wide for only three strings.
+- It buys that freedom with the lack of frets: with no bars in the way, the left hand can slide anywhere along a
+  string, so three strings cover three octaves — the exact opposite of the [[instrument:zheng|zheng]], where
   more notes mean more strings.
-- **Two sizes, north and south**: the **large northern sanxian** (about 115–122 cm, called the **shuxian** or "book
-  string", accompanying drum-song narratives) and the **small southern one** (about 90–95 cm, the **quxian**, for
-  **pingtan**, Kun opera, Jiangnan sizhu and nanguan) — **one instrument, divided by occasion.**
+- Two sizes, north and south: the large northern sanxian (about 115–122 cm, called the shuxian or "book
+  string", accompanying drum-song narratives) and the small southern one (about 90–95 cm, the quxian, for
+  pingtan, Kun opera, Jiangnan sizhu and nanguan) — one instrument, divided by occasion.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Loud and crisply bright.** The skin resonator gives a **firm, slightly hard edge** — traditionally described
-   as "dry", and, after 1950s–60s reforms, as **fuller and brighter**.
-2. **It penetrates.** Opera and narrative song are often performed in noisy settings: **it has to be heard.**
-3. **Point-like and dry.** Fast onset, fast decay — the same grain as the [[instrument:pipa|pipa]].
-4. **The slide is its voice.** A fretless neck lets it **bend like a throat** — its most important ability in opera,
+1. Loud and crisply bright. The skin resonator gives a firm, slightly hard edge — traditionally described
+   as "dry", and, after 1950s–60s reforms, as fuller and brighter.
+2. It penetrates. Opera and narrative song are often performed in noisy settings: it has to be heard.
+3. Point-like and dry. Fast onset, fast decay — the same grain as the [[instrument:pipa|pipa]].
+4. The slide is its voice. A fretless neck lets it bend like a throat — its most important ability in opera,
    and the most audible mark of its identity.
 
 ```audiolab
@@ -450,15 +451,15 @@ Four cues:
 
 ## Playing techniques
 
-- **Held sideways against the chest**, the drum resting on the right thigh, the head tilted up to the left.
-- **Right hand**: plucking, picking, striking, double-plucking and double-picking — **fingerings inherited from the
+- Held sideways against the chest, the drum resting on the right thigh, the head tilted up to the left.
+- Right hand: plucking, picking, striking, double-plucking and double-picking — **fingerings inherited from the
   [[instrument:pipa|pipa]]**.
-- **Left hand** cradles the neck, stopping with index, middle, ring and little finger, and ornamenting with
+- Left hand cradles the neck, stopping with index, middle, ring and little finger, and ornamenting with
   vibrato, rolls, pull-offs, slides and glides.
-- **Two ways of touching the string**: the small sanxian often uses a **plectrum**; the large one is usually played
-  with **finger picks**.
-- **Tuning follows the genre.** Two folk tunings are common — **hard middle string** and **soft middle string** — with
-  the hard one most used: **a different singer or a different aria means a different tuning.**
+- Two ways of touching the string: the small sanxian often uses a plectrum; the large one is usually played
+  with finger picks.
+- Tuning follows the genre. Two folk tunings are common — hard middle string and soft middle string — with
+  the hard one most used: a different singer or a different aria means a different tuning.
 
 ## The family
 
@@ -471,10 +472,10 @@ Four cues:
 | [[instrument:zheng\|Zheng]] | twenty-one | **bridges** | rectangular box | melody · harmony |
 | [[instrument:erhu\|Erhu]] | two | **none, no board** | **python skin (membrane)** | melody (bowed) |
 
-**The sanxian's place in this family is peculiar**: it is the only **plucked** instrument whose body is made of
-**skin** (the erhu is bowed) — **and that skin is exactly where it came from.**
-**"What vibrates" proves its worth again**: outwardly it is a "drum-shaped instrument", but **the vibrating body is
-the string** (chordophone); its **ancestor** was the membranophone. **Shape can be inherited; class cannot.**
+The sanxian's place in this family is peculiar: it is the only plucked instrument whose body is made of
+skin (the erhu is bowed) — and that skin is exactly where it came from.
+"What vibrates" proves its worth again: outwardly it is a "drum-shaped instrument", but **the vibrating body is
+the string (chordophone); its ancestor was the membranophone. Shape can be inherited; class cannot.**
 
 ## History
 
@@ -490,33 +491,33 @@ the string** (chordophone); its **ancestor** was the membranophone. **Shape can 
 | abroad | **Chinese sanxian → Okinawan sanshin → Japanese shamisen** |
 | today | used in narrative song, opera and the national orchestra; but **far fewer people learn it than learn the zheng or pipa** |
 
-**Its history takes a shape you can only see by setting it beside the [[instrument:ruan|ruan]]**: **the ruan had its
-name taken away; the sanxian had its shape carried forward.** What an instrument wears can come from **its own
-past** or from **someone else's renaming** — **two instruments, two ways of having history written on the body.**
+**Its history takes a shape you can only see by setting it beside the [[instrument:ruan|ruan]]: the ruan had its
+name taken away; the sanxian had its shape carried forward. What an instrument wears can come from its own
+past or from someone else's renaming — two instruments, two ways of having history written on the body.**
 
 ## Common misconceptions
 
-- **"A sanxian's body is just an ordinary wooden box."** It is **an oval little drum skinned on both faces** — and
-  **that drum shape comes from its ancestor** (the Qin-era xian-tao). **Shape is the evidence of parentage.**
-- **"The sanxian is a membranophone because its body is skinned."** **No.** The test is **what vibrates**: **the
-  strings** (chordophone); **the python skin is a resonator** — the same as the [[instrument:erhu|erhu]].
-- **"Fretless means crude."** The opposite: **being fretless is why it became the workhorse of opera and narrative
-  song** — **a sung line slides continuously, and only a fretless instrument can follow it.**
-- **"Three strings must mean a narrow range."** About **three octaves** (large sanxian commonly G2–D5, up to D6) —
-  because with no frets, **one string travels a long way.**
-- **"It only accompanies."** It is indeed the mainstay of opera and narrative song, but since the 1950s it has also
-  developed as a **solo instrument**; it occasionally appears in pop and rock as well.
-- **"The bayin says silk, so only silk strings will do."** As with the [[instrument:guqin|guqin]]: **the bayin
+- "A sanxian's body is just an ordinary wooden box." It is an oval little drum skinned on both faces — and
+  that drum shape comes from its ancestor (the Qin-era xian-tao). Shape is the evidence of parentage.
+- "The sanxian is a membranophone because its body is skinned." No. The test is what vibrates: **the
+  strings (chordophone); the python skin is a resonator** — the same as the [[instrument:erhu|erhu]].
+- "Fretless means crude." The opposite: **being fretless is why it became the workhorse of opera and narrative
+  song — a sung line slides continuously, and only a fretless instrument can follow it.**
+- "Three strings must mean a narrow range." About three octaves (large sanxian commonly G2–D5, up to D6) —
+  because with no frets, one string travels a long way.
+- "It only accompanies." It is indeed the mainstay of opera and narrative song, but since the 1950s it has also
+  developed as a solo instrument; it occasionally appears in pop and rock as well.
+- "The bayin says silk, so only silk strings will do." As with the [[instrument:guqin|guqin]]: **the bayin
   records the material of its own time**; metal or nylon strings are now standard, louder and more stable.
 
 ## Next
 
-**The plucked family now has five here**: the [[instrument:guqin|guqin]] · [[instrument:pipa|pipa]] ·
-[[instrument:zheng|zheng]] · [[instrument:ruan|ruan]] · the **sanxian** — with the yueqin, liuqin and others still to
+The plucked family now has five here: the [[instrument:guqin|guqin]] · [[instrument:pipa|pipa]] ·
+[[instrument:zheng|zheng]] · [[instrument:ruan|ruan]] · the sanxian — with the yueqin, liuqin and others still to
 come. **The "bridge · fret · neither" table is filled, and both the naming story and the parentage story have their
 representatives.**
 
-Next the batch turns to **bowed strings**: the [[instrument:banhu|banhu]].
+Next the batch turns to bowed strings: the [[instrument:banhu|banhu]].
 It differs from the [[instrument:erhu|erhu]] in one thing only — **the skin at the resonator is replaced by a wooden
-board** — and **changing just one material produces an entire operatic voice.**
+board — and changing just one material produces an entire operatic voice.**
 :::

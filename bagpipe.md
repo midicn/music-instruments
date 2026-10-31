@@ -60,9 +60,9 @@ updated: 2026-10-28
 
 ## 连续的代价：换气与力度
 
-吸气时手臂继续压袋，袋子仍在供气，所以听不到换气缝。代价是**力度**：气压必须稳，否则持续管走音；重音靠**装饰音**与指法，不靠气流。
+吸气时手臂继续压袋，袋子仍在供气，所以听不到换气缝。代价是力度：气压必须稳，否则持续管走音；重音靠装饰音与指法，不靠气流。
 
-uilleann 用风箱，旋律管可膝上停音，三根 regulators 还能配和弦；**"风笛不能停"只对嘴吹的战争型风笛成立。**
+uilleann 用风箱，旋律管可膝上停音，三根 regulators 还能配和弦；"风笛不能停"只对嘴吹的战争型风笛成立。
 
 ## 音域与音色
 
@@ -70,7 +70,7 @@ uilleann 用风箱，旋律管可膝上停音，三根 regulators 还能配和�
 {"range":"G4–D6","common":"A4–A5","caption":"风笛的音域（家族合幅：高地风笛与 uilleann）","caption_en":"Bagpipe range (family composite: Highland and uilleann)","note":"高地九音记谱 G4–A5，低音 A 定 470–480 Hz，实际高半音；uilleann 为 D4–D6。本图为家族合幅，只比较跨度。","note_en":"Highland nine are written G4–A5, sounding a semitone higher at low A 470–480 Hz; uilleann runs D4–D6. A composite fence for span only."}
 ```
 
-高地九音是 **G、A、B、C♯、D、E、F♯、G、A**，没有 C 自然音，总带调式色彩。持续管定 A：两根 tenor 在 A3，一根 bass 在 A2。
+高地九音是 G、A、B、C♯、D、E、F♯、G、A，没有 C 自然音，总带调式色彩。持续管定 A：两根 tenor 在 A3，一根 bass 在 A2。
 
 ```audiolab
 {"type":"instrument","gm":"Bagpipe","synth":"reed","phrase":["G4","A4","B4","C#5","D5","E5","F#5","G5","A5"],"label":"高地风笛的九音：低 G 到高 A","label_en":"The Highland chanter's nine notes, low G to high A","hint":"GM 表里有 Bagpipe；它没有持续管与装饰音，只能听九音骨架","hint_en":"GM has a Bagpipe program; without drones or gracenotes it gives only the nine-note skeleton."}
@@ -85,7 +85,7 @@ uilleann 用风箱，旋律管可膝上停音，三根 regulators 还能配和�
 | 巴尔干 gaida | 嘴吹或风箱 | 单或双旋律管，常伴圈舞 |
 | 马格里布 mizwad | 嘴吹 | 皮袋、单或双管，婚礼节庆 |
 
-与[[instrument:hurdy-gurdy|手摇琴]]对照：两者都把持续低音做进乐器，差别在发声体——风笛是**空气柱**，手摇琴是**弦**。
+与[[instrument:hurdy-gurdy|手摇琴]]对照：两者都把持续低音做进乐器，差别在发声体——风笛是空气柱，手摇琴是弦。
 
 ## HS 分类
 
@@ -98,15 +98,16 @@ uilleann 用风箱，旋律管可膝上停音，三根 regulators 还能配和�
 
 ## 常见误解
 
-- **"风笛是苏格兰发明的。"** 风笛遍布欧洲、北非与西亚；高地风笛只是最有名的一支。
-- **"风笛手用嘴直接吹出声音。"** 嘴只补气，声音由袋内气压驱动簧片。
-- **"风笛可以渐强渐弱。"** 高地风笛几乎不能；稳定气压是音准前提。
+- "风笛是苏格兰发明的。" 风笛遍布欧洲、北非与西亚；高地风笛只是最有名的一支。
+- "风笛手用嘴直接吹出声音。" 嘴只补气，声音由袋内气压驱动簧片。
+- "风笛可以渐强渐弱。" 高地风笛几乎不能；稳定气压是音准前提。
 
 ## 带走三件事
 
-1. **气袋是机关**：把断续的呼吸变成连续的气压。
-2. **旋律管加持续管**：旋律与低音同时出自同一袋气。
-3. **连续有代价**：没有换气缝，也几乎没有力度变化；uilleann 用风箱与停音换回了另一种可能。
+1. 气袋是机关：把断续的呼吸变成连续的气压。
+2. 旋律管加持续管：旋律与低音同时出自同一袋气。
+3. 连续有代价：没有换气缝，也几乎没有力度变化；uilleann 用风箱与停音换回了另一种可能。
+
 :::
 
 ::: en
@@ -143,9 +144,9 @@ It is a **chain of energy**: source → bag → reed → pipe. The **chanter** h
 
 ## The price of continuity: breath and dynamics
 
-While the player inhales, the arm keeps pressing, so no breath is heard. The price is **dynamics**: pressure must stay steady or the drones drift; accents come from **gracenotes** and fingering, not from air.
+While the player inhales, the arm keeps pressing, so no breath is heard. The price is dynamics: pressure must stay steady or the drones drift; accents come from gracenotes and fingering, not from air.
 
-The Irish uilleann pipes are the counterexample: bellows supply air, the chanter can be stopped on the knee, and three regulators add chords. **"A bagpipe cannot stop" is true only of the mouth-blown pipe.**
+The Irish uilleann pipes are the counterexample: bellows supply air, the chanter can be stopped on the knee, and three regulators add chords. "A bagpipe cannot stop" is true only of the mouth-blown pipe.
 
 ## Range and timbre
 
@@ -153,7 +154,7 @@ The Irish uilleann pipes are the counterexample: bellows supply air, the chanter
 {"range":"G4–D6","common":"A4–A5","caption":"风笛的音域（家族合幅：高地风笛与 uilleann）","caption_en":"Bagpipe range (family composite: Highland and uilleann)","note":"高地九音记谱 G4–A5，低音 A 定 470–480 Hz，实际高半音；uilleann 为 D4–D6。本图为家族合幅，只比较跨度。","note_en":"Highland nine are written G4–A5, sounding a semitone higher at low A 470–480 Hz; uilleann runs D4–D6. A composite fence for span only."}
 ```
 
-The Highland nine are **G, A, B, C♯, D, E, F♯, G, A**, with no natural C, hence its modal colour. The drones tune to A: two tenors on A3, one bass on A2.
+The Highland nine are G, A, B, C♯, D, E, F♯, G, A, with no natural C, hence its modal colour. The drones tune to A: two tenors on A3, one bass on A2.
 
 ```audiolab
 {"type":"instrument","gm":"Bagpipe","synth":"reed","phrase":["G4","A4","B4","C#5","D5","E5","F#5","G5","A5"],"label":"高地风笛的九音：低 G 到高 A","label_en":"The Highland chanter's nine notes, low G to high A","hint":"GM 表里有 Bagpipe；它没有持续管与装饰音，只能听九音骨架","hint_en":"GM has a Bagpipe program; without drones or gracenotes it gives only the nine-note skeleton."}
@@ -168,7 +169,7 @@ The Highland nine are **G, A, B, C♯, D, E, F♯, G, A**, with no natural C, he
 | Balkan gaida | mouth or bellows | one or two chanters, circle dances |
 | Maghrebi mizwad | mouth | skin bag, one or two pipes, weddings |
 
-Against the [[instrument:hurdy-gurdy|hurdy-gurdy]]: both build in a drone, but a bagpipe moves an **air column**, a hurdy-gurdy a **string**.
+Against the [[instrument:hurdy-gurdy|hurdy-gurdy]]: both build in a drone, but a bagpipe moves an air column, a hurdy-gurdy a string.
 
 ## HS classification
 
@@ -181,13 +182,13 @@ Against the [[instrument:hurdy-gurdy|hurdy-gurdy]]: both build in a drone, but a
 
 ## Common misconceptions
 
-- **"The bagpipe was invented in Scotland."** Bagpipes are spread across Europe, North Africa and West Asia; the Highland pipe is only the most famous branch.
-- **"The player blows the sound directly."** The mouth only refills the bag; its pressure drives the reeds.
-- **"A bagpipe can crescendo."** The Highland pipe hardly can; steady pressure keeps it in tune.
+- "The bagpipe was invented in Scotland." Bagpipes are spread across Europe, North Africa and West Asia; the Highland pipe is only the most famous branch.
+- "The player blows the sound directly." The mouth only refills the bag; its pressure drives the reeds.
+- "A bagpipe can crescendo." The Highland pipe hardly can; steady pressure keeps it in tune.
 
 ## Three things to take away
 
-1. **The bag is the mechanism**: it turns intermittent breath into continuous pressure.
-2. **Chanter plus drones**: melody and bass come from the same bag of air.
-3. **Continuity has a price**: no breath seam and almost no dynamics; the uilleann pipe buys another possibility with bellows and stopping.
+1. The bag is the mechanism: it turns intermittent breath into continuous pressure.
+2. Chanter plus drones: melody and bass come from the same bag of air.
+3. Continuity has a price: no breath seam and almost no dynamics; the uilleann pipe buys another possibility with bellows and stopping.
 :::

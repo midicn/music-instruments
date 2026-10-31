@@ -34,25 +34,19 @@ updated: 2026-09-26
 ---
 
 ::: zh
-英国管（cor anglais）是**双簧管族里的中音声部**：同样双簧、同样圆锥管，但管更长、喇叭口做成球状，
-音域比[[instrument:oboe|双簧管]]低一个**纯五度**。
 
-它身上有本站最典型的一个"名称陷阱"：**这件乐器与英国没有关系。**
+## 名字里的折角
+
+英国管最容易被认错的是名字：它和英国没有关系。多数词源把它追到法语的 cor anglé，意思是**折角管**。早期形制在哨片与管身之间接一段弯金属管，名字描述的是那个折角，不是产地。这个词后来被念成 cor anglais，英语和中文都照着错的念了下来。
+
+弯管今天还在。哨片插在一段弯管顶端，弯管再插进管身，这样哨片的角度才顺手，管身也能做得更长。整支乐器约八十厘米，比双簧管长十八厘米，低一个纯五度。
 
 | 分类 | 归属 |
 |---|---|
-| **HS 分类** | **气鸣**（Aerophone）· 簧鸣（reed）· 双簧 |
-| **次级类型** | 竖吹 · 圆锥管 · **F 调移调乐器**（记谱比实音高纯五度） |
-| **所属族** | 西洋 · 木管（双簧管族 · 中音支系） |
-| **八音** | 不适用 —— 周代八音是中国乐器的体系，英国管不在其中 |
-
-> ⚠️ **一个名称上的要点**：**cor anglais 与英国无关。**
-> 它来自法语的 **cor anglé（折角管）**—— 因为这种乐器早期在哨片与管身之间接了一段**弯折的管子**。
-> 这个词在流传中被念成了 cor anglais（"英国管"），于是英语和中文都沿用了这个错误的名字。
-> 判别方法很简单：**名字里的国名如果解释不通，多半是讹变**（同类的还有"[[instrument:english-horn|英国号]]"
-> 与真正的英国音乐传统毫无关系）。
-
-## 结构：弯管与球状喇叭口
+| HS 分类 | 气鸣 · 簧鸣 · 双簧 |
+| 次级类型 | 竖吹 · 圆锥管 · F 调移调乐器（记谱比实音高纯五度） |
+| 所属族 | 西洋 · 木管（双簧管族 · 中音支系） |
+| 八音 | 不适用 —— 周代八音是中国乐器的体系，英国管不在其中 |
 
 ```svg
 <svg viewBox="0 0 640 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="英国管外形与主要部件：顶端的双簧哨片与金属弯管、较长的管身、底部的球状喇叭口">
@@ -88,15 +82,9 @@ updated: 2026-09-26
 </svg>
 ```
 
-三处要点：
+双簧管族里，管长就是音高的分档：双簧管、柔音管、英国管、巴松，同一套圆锥管加双簧，四个长度。英国管站在中间那一档，音色是四档里最暗的。
 
-1. **弯管（crook）是它的定义性部件**。哨片不直接插在管身上，而是插在一段**弯金属管**上，
-   再由弯管接入管身。这既解决了"管太长、哨片角度别扭"的问题，也留下了那个错误的名字。
-2. **管身更长**（约 80 厘米比 62 厘米）。这是它低纯五度的直接原因 —— 与双簧管族其他成员一样，
-   **音高靠管长分档**。
-3. **球状喇叭口**。这是它与双簧管外形上最容易分辨的差别，也是音色变暗的关键（见下一节）。
-
-## 球状喇叭口为什么让音色变暗
+## 球状喇叭口
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="双簧管与英国管的喇叭口形状对比：直张小喇叭保留高次泛音，球状腔体削弱高次泛音">
@@ -127,12 +115,9 @@ updated: 2026-09-26
 </svg>
 ```
 
-**球状喇叭口的三个后果**：
+喇叭口不是造型。双簧管的喇叭口略外张，像个小锥筒；英国管把它做成球形腔体。腔体改变了辐射条件，**高次泛音**不容易出去，效果接近给声音加一层低通。
 
-- **音色变暗、变柔**。高次泛音被削弱，声音里"亮"的成分变少，于是显得**远、暖、带木质感**。
-- **低音区更饱满**。球状腔体对低频的辐射更有利，所以英国管的低音比双簧管厚得多。
-- **投射力略降，但辨识度更高**。它不容易"刺"出来，但在乐队里一旦出现就很好认 ——
-  因为那种暗柔的音色在木管组里是孤例。
+于是音色变暗变柔，亮的成分被收掉，剩下远、暖、带木头味的一层。低音区跟着变厚，球状腔体对低频更友好，这份重量是双簧管给不了的。投射力略降，辨识度反而更高 —— 它不容易刺出来，可一旦出现就很好认。
 
 ## 音域
 
@@ -140,105 +125,38 @@ updated: 2026-09-26
 {"range":"E3–B♭5","written":"B3–F♯6","common":"E3–F5","caption":"英国管的记谱音域与实音音域","caption_en":"The English horn: notated range above, sounding range below","note":"⚠️ 英国管是 F 调移调乐器 —— 记谱比实音高纯五度。谱面写 B3–F♯6，实际出声 E3–B♭5（比双簧管低纯五度）。"}
 ```
 
-- **实音 E3–B♭5**，正好卡在双簧管下方一个纯五度的位置。
-- **常用区 E3–F5**，是它最有代表性的音区 —— 暗、柔、带"哀"。
-- 它**不能像双簧管那样上得很高**：越往上，球状喇叭口带来的阻力越明显。
+实音 E3 到 B♭5，正好在双簧管下方一个纯五度。常用区 E3 到 F5，它最有代表性的声音都在这里：暗、慢、带一点哀。
 
-## 音色与听辨
+往高处走会吃力。球状喇叭口在高音区的阻力更明显，它不像双簧管那样能一路唱上去。写作时把它当低中音声部用，比当高音独奏用可靠。
 
-四条线索：
+## 一段独奏，和一个位置
 
-1. **暗而柔，带一点"喉咙感"**。与双簧管的窄亮不同，它的音像是被一层薄纱裹住。
-2. **天然的哀与思**。这种音色几乎不用装饰就带情绪 —— 所以它成了"思念"主题的常客。
-3. **低音厚、高音费力**。它的有效音区偏中低，高音区不如双簧管自如。
-4. **在乐队里浮出来靠"颜色"而不是"亮度"**。它不刺，但因为音色独特，一出现就能被认出。
+德沃夏克《自新大陆》第二乐章开头那段独奏，是它最广为人知的一次露面。慢、暗、带思乡感，几乎成了这件乐器的名片。柏辽兹与瓦格纳常把它放在木管中部，给木管和弦乐之间添一层颜色。
+
+独奏文献不多，原因不神秘：音区偏中低，高音费力，音量也不大。它适合在一段音乐里承担一个角色，不适合撑起一整场。管弦乐和电影配乐里少不了它，爵士里几乎见不到。
+
+想听清球状喇叭口做了什么，找一段英国管与双簧管交替的段落，注意换乐器时高频是怎么少掉的。
 
 ```audiolab
 {"type":"instrument","gm":"English Horn","synth":"reed","phrase":["E3","G3","B3","E4","G4","B4"],"label":"英国管的常用区：E3 到 B4","label_en":"The English horn's working register — E3 up to B4","hint":"注意比双簧管低五度之后那种「暗」和「远」—— 球状喇叭口把高频收掉了","hint_en":"Hear how a fifth lower turns dark and distant — the bulbous bell holds the top frequencies back."}
 ```
 
-## 演奏技法
-
-技法与[[instrument:oboe|双簧管]]几乎完全相同（同一套哨片工艺、同样的键系逻辑），
-差别在于**哨片形状不同**：英国管的哨片更宽、更厚，绑在弯管顶端。
-
-三条实操上的差别：
-
-- **持握方式不同**。它比双簧管重得多，靠一根**肩带**吊在颈肩之间，双手只是扶稳。
-- **耗气更多**。管长与管径都更大，需要持续而稳定的气流。
-- **音准更依赖弯管**。弯管（crook）的几何形状直接影响音准与音色，演奏者常备多个弯管以适配不同作品。
-
-## 家族与近亲
-
-| 乐器 | 调 | 记谱 vs 实音 | 与双簧管的关系 | 音色 |
-|---|---|---|---|---|
-| [[instrument:oboe\|双簧管]] | C | 同音 | 本体 | 窄、集中、亮 |
-| [[instrument:oboe-damore\|柔音双簧管]] | A | 同音（现代惯例） | 低**小三度** | 柔、甜 |
-| **英国管** | F | 记谱比实音**高纯五度** | 低**纯五度** | 暗、哀、厚 |
-| [[instrument:bassoon\|巴松]] | C | 同音 | 低**两个八度** | 木管组的低音 |
-
-**双簧管族的四个档位**（双簧管 → 柔音管 → 英国管 → 巴松）都是**圆锥管 + 双簧**，
-音高靠管长分档 —— 所以它们合在一起像一个"同一种声音的四个高度"。
-这一点与单簧管族（音色在音区内部分裂）形成鲜明对照。
-
-## 历史演变
-
-| 时期 | 状态 |
-|---|---|
-| 18 世纪（可能更早） | 在欧洲出现比双簧管低的中音双簧乐器；形制不统一，弯管与喇叭口的做法各处不同 |
-| 18 世纪中叶 | 名称 **cor anglé**（折角管）出现，并逐渐被念成 **cor anglais** —— 错名自此固化 |
-| 19 世纪 | 进入管弦乐总谱，成为木管组的固定"中音色"；法国与德国的形制逐步统一 |
-| 19 世纪后期—20 世纪 | 球状喇叭口与弯管定型为现代形制；成为交响乐里表现"思念、田园、哀"的标准音色 |
-| 20 世纪 | 独奏文献与乐队用法都扩大；也常见于电影配乐 |
-
-**德沃夏克《自新大陆》第九交响曲第二乐章**开头的那段独奏，是它最广为人知的一次露面 ——
-暗、慢、带思乡感，几乎成了这件乐器的"名片"。
-
-## 常见误解
-
-- **"英国管是英国乐器。"** 它**与英国无关**：名称来自法语 **cor anglé**（折角管）的讹读。
-  判据是**那个弯管** —— 名字描述的是形状，不是产地。
-- **"它是双簧管的高音版。"** 相反，它**低一个纯五度**，是双簧管族的**中音**成员。
-- **"它和柔音双簧管是同一件乐器。"** 两者常被混为一谈，但**调不同**：
-  柔音管低**小三度**（A 调），英国管低**纯五度**（F 调），喇叭口形状也不同。
-- **"球状喇叭口只是造型。"** 它直接改变喇叭口的辐射条件 → **高次泛音被削弱** →
-  这是英国管"暗柔"音色的物理来源。
-- **"既然只低五度，用双簧管凑合也行。"** 音区、音色、投射力都不同：
-  双簧管的高音区是它的强项，而英国管的强项恰恰是中低音的厚度。
-
-## 下一步
-
-到这里，双簧管族里"高"与"中"的两支就齐了。剩下两个方向：
-
-1. **更低的同族** —— [[instrument:bassoon|巴松]]：管长到要**折成 U 形**，是木管组的低音基础。
-2. **管形换一种** —— [[instrument:clarinet|单簧管]]：同样是单根木管，却因为**圆柱管**
-   而拥有三个截然不同的音区。
-
-想回到"簧片"这条线的最上游，就去看 [[instrument:oboe|双簧管]] 一节里「双簧片怎么驱动一根管」的说明。
 :::
 
 ::: en
-The English horn is the **alto voice of the oboe family**: the same double reed and conical bore, but a
-longer tube and a bulbous bell, sitting a **perfect fifth** below the [[instrument:oboe|oboe]].
 
-It also carries the site's clearest example of a naming trap: **this instrument has nothing to do with
-England.**
+## A name with a kink in it
+
+The English horn is easiest to misread by name: it has nothing to do with England. Most etymologies trace cor anglais to cor anglé, a **bent horn** — early forms joined reed to body with a short curved tube. The name describes that kink, not a country, and both languages kept the mistake.
+
+The crook survives: the reed sits on a curved tube entering the body, so the angle works and the body can be longer. The instrument runs about 80 cm, eighteen more than an oboe, a fifth lower.
 
 | Classification | Value |
 |---|---|
-| **HS class** | **Aerophone** · reed · double reed |
-| **Sub-type** | Vertical · conical · **F transposing instrument** (written a fifth above sounding) |
-| **Family** | Western · Woodwinds (oboe family, alto branch) |
-| **Bayin** | Not applicable — a Chinese system; the English horn is outside it |
-
-> ⚠️ **One point about the name**: **cor anglais has nothing to do with England.**
-> It comes from the French **cor anglé** — "bent horn" — because early forms had a **bent metal tube**
-> between the reed and the body. Repeated, that word became cor anglais ("English horn"), and both English
-> and Chinese kept the mistake.
-> The test is simple: **if the country in a name makes no sense, it is probably a corruption**
-> (the same story as the so-called English horn having no link to any English musical tradition).
-
-## Structure: a crook and a bulbous bell
+| HS class | Aerophone · reed · double reed |
+| Sub-type | Vertical · conical · F transposing instrument |
+| Family | Western · Woodwinds (oboe family, alto branch) |
+| Bayin | Not applicable — a Chinese system |
 
 ```svg
 <svg viewBox="0 0 640 440" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="English horn parts: the double reed and metal crook at the top, a longer body, and a bulbous bell at the bottom">
@@ -274,17 +192,9 @@ England.**
 </svg>
 ```
 
-Three points:
+Length sets pitch here: oboe, oboe d'amore, English horn, bassoon, four lengths of one double-reed design. The English horn sits one step below the middle, the darkest of the four.
 
-1. **The crook defines it.** The reed is not pushed straight into the body but into a **bent metal tube**,
-   which then enters the body. That solves the awkward reed angle of a long instrument — and left behind
-   the wrong name.
-2. **A longer body** (about 80 cm against 62 cm). That is exactly why it sounds a fifth lower: as
-   everywhere in this family, **size sets the pitch**.
-3. **A bulbous bell**, the easiest visual difference from the oboe, and the key to the darker colour
-   (next section).
-
-## Why a bulbous bell darkens the sound
+## What the bulb does
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bell shapes compared: a straight small flare keeps upper harmonics; a bulbous cavity damps them">
@@ -315,14 +225,9 @@ Three points:
 </svg>
 ```
 
-**Three consequences**:
+The bell is not decoration. An oboe's bell is a small straight cone; the English horn's is a bulb. That cavity changes radiation, **upper partials** leave less easily, and the effect is close to a low-pass filter.
 
-- **A darker, softer colour.** With fewer upper partials, the "bright" component drops away and the sound
-  turns **distant, warm, woody**.
-- **A fuller low register.** The bulbous cavity radiates low frequencies more kindly, which is why the
-  English horn's bottom is far thicker than the oboe's.
-- **A little less projection, but more identity.** It does not stab through the texture, yet once it
-  appears it is instantly recognisable — nothing else in the woodwind group sounds like it.
+So the sound darkens, the bright component held back, leaving something distant and wooden. The low register thickens too, since a bulb radiates low frequencies kindly. Projection drops while identity rises: it never stabs through, but nothing else in the woodwinds matches it.
 
 ## Range
 
@@ -330,85 +235,20 @@ Three points:
 {"range":"E3–B♭5","written":"B3–F♯6","common":"E3–F5","caption":"英国管的记谱音域与实音音域","caption_en":"The English horn: notated range above, sounding range below","note":"⚠️ 英国管是 F 调移调乐器 —— 记谱比实音高纯五度。谱面写 B3–F♯6，实际出声 E3–B♭5（比双簧管低纯五度）。"}
 ```
 
-- **Sounding E3–B♭5**, exactly a fifth below the oboe.
-- **The working register is E3–F5**, where it is most itself: dark, soft, plaintive.
-- **It cannot climb like an oboe.** The higher it goes, the more the bulbous bell holds it back.
+Sounding E3 to B♭5, a fifth below the oboe. The working register is E3 to F5, where its most characteristic sound lives: dark, slow, faintly plaintive.
 
-## Timbre, and how to hear it
+Going up costs. The bulb resists more at the top, so it cannot climb like an oboe; writing it as a low-middle voice is safer than treating it as a high soloist.
 
-Four cues:
+## One solo, and a place in the score
 
-1. **Dark and soft, with a throaty edge.** Where the oboe is narrow and bright, this sounds veiled.
-2. **A built-in note of longing.** It needs no decoration to carry emotion, which is why it became the
-   standard voice of remembrance.
-3. **Thick low, laborious high.** Its useful register sits low-middle; the top is less free than the oboe's.
-4. **It stands out by colour, not brightness.** It never stabs, yet it is instantly identifiable.
+The solo opening the second movement of Dvořák's New World Symphony is its best-known appearance — slow, dark, homesick, effectively its calling card. Berlioz and Wagner place it mid-woodwinds, a colour between winds and strings.
+
+Solo literature is thin: the register sits low-middle, the top is hard work, the volume is modest. It carries a role inside a piece, not a whole evening.
+
+To hear the bulb at work, find a passage where English horn and oboe alternate, and listen for the high frequencies dropping out.
 
 ```audiolab
 {"type":"instrument","gm":"English Horn","synth":"reed","phrase":["E3","G3","B3","E4","G4","B4"],"label":"英国管的常用区：E3 到 B4","label_en":"The English horn's working register — E3 up to B4","hint":"注意比双簧管低五度之后那种「暗」和「远」—— 球状喇叭口把高频收掉了","hint_en":"Hear how a fifth lower turns dark and distant — the bulbous bell holds the top frequencies back."}
 ```
 
-## Playing techniques
-
-The technique is almost identical to the [[instrument:oboe|oboe]] — the same reed-making craft, the same
-keywork logic — with one difference: the **reed is wider and thicker**, bound onto the top of the crook.
-
-Three practical differences:
-
-- **It is carried, not held.** Much heavier than an oboe, it hangs from a **neck strap**, with the hands
-  merely steadying it.
-- **It takes more air**, since both length and bore are larger.
-- **Pitch depends on the crook.** Its geometry affects both intonation and colour, and players keep several
-  to suit different repertoire.
-
-## The family
-
-| Instrument | Key | Written vs sounding | Relation to the oboe | Timbre |
-|---|---|---|---|---|
-| [[instrument:oboe\|Oboe]] | C | at pitch | the standard | narrow, focused, bright |
-| [[instrument:oboe-damore\|Oboe d'amore]] | A | at pitch (modern practice) | a **minor third** lower | soft, sweet |
-| **English horn** | F | written a **fifth above** sounding | a **fifth** lower | dark, plaintive, thick |
-| [[instrument:bassoon\|Bassoon]] | C | at pitch | **two octaves** lower | the woodwind bass |
-
-**Four stops** (oboe → d'amore → English horn → bassoon), all **conical with a double reed**, pitched by
-tube length — so together they sound like one voice at four heights. That is in sharp contrast to the
-clarinet family, whose character splits **within** the instrument.
-
-## History
-
-| Period | State |
-|---|---|
-| 18th c. (possibly earlier) | a lower oboe-family instrument appears in Europe; forms vary, and crooks and bells are made differently everywhere |
-| Mid-18th c. | the name **cor anglé** ("bent horn") appears and is gradually read as **cor anglais** — the mistake sticks |
-| 19th c. | enters the orchestral score as the woodwind group's fixed "alto colour"; French and German forms converge |
-| Late 19th–20th c. | the bulbous bell and crook settle into the modern form; becomes the standard sound of longing, countryside and lament |
-| 20th c. | the solo repertoire and orchestral use both widen; also a regular in film scores |
-
-The solo that opens the second movement of **Dvořák's Symphony No. 9 "From the New World"** is its most
-widely known appearance — dark, slow, homesick, and effectively the instrument's calling card.
-
-## Common misconceptions
-
-- **"The English horn is an English instrument."** It has **nothing to do with England**: the name comes
-  from the French **cor anglé**, "bent horn", misread. The evidence is **the crook** — the name describes a
-  shape, not a place.
-- **"It is a high oboe."** The opposite: it is a **fifth lower**, the family's **alto**.
-- **"It is the same as the oboe d'amore."** They are constantly confused, but the **keys differ**: the
-  d'amore is a **minor third** lower (in A), the English horn a **fifth** lower (in F), with a different bell.
-- **"The bulbous bell is just decoration."** It changes the bell's radiation and **damps upper partials** —
-  the physical source of the English horn's dark, soft colour.
-- **"A fifth lower is close enough; an oboe can cover it."** Register, colour and projection all differ:
-  the oboe's strength is its top, the English horn's is the thickness of its lower middle.
-
-## Next
-
-That completes the "high" and "middle" members of the oboe family. Two directions remain:
-
-1. **Lower still** — the [[instrument:bassoon|bassoon]]: a tube so long it must be **folded in a U**, and
-   the woodwind group's bass foundation.
-2. **Another bore entirely** — the [[instrument:clarinet|clarinet]]: a single wooden tube that, being
-   **cylindrical**, carries three completely different registers.
-
-To go back upstream along the "reed" thread, the [[instrument:oboe|oboe]] entry explains how a double reed
-drives a tube.
 :::

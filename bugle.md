@@ -42,18 +42,18 @@ updated: 2026-09-26
 于是问题也跟着换了：
 
 > ⚠️ **一件只会几个音的乐器，凭什么能指挥一支军队？**
-> 因为它传的**不是"内容"，而是"类别"**。
+> 因为它传的不是"内容"，而是"类别"。
 >
-> 号令要做的不是表达，而是**在各种恶劣条件下都不被听错**：
+> 号令要做的不是表达，而是在各种恶劣条件下都不被听错：
 > 风里、雨里、嘈杂里、疲惫的清晨。
-> 在这种任务面前，**"音多"是负担，不是能力**。
+> 在这种任务面前，"音多"是负担，不是能力。
 >
 > 所以号角的设计目标不是"能吹多少音"，而是三条：
-> **① 音少**（不易混淆）· **② 短**（传得快）· **③ 节奏差异大**（在噪声里仍可分辨）。
+> ① 音少（不易混淆）· ② 短（传得快）· ③ 节奏差异大（在噪声里仍可分辨）。
 
-**由此得到本页最重要的一句话**：
-**号角把"信息"从音高搬到了节奏上。**
-它的区分度**几乎全部来自音的顺序与长短**，而不是来自音高。
+由此得到最重要的一句话：
+号角把"信息"从音高搬到了节奏上。
+它的区分度几乎全部来自音的顺序与长短，而不是来自音高。
 
 | 分类 | 归属 |
 |---|---|
@@ -95,12 +95,12 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **绕成一圈只是为了好拿**。**管长不变，音就不变** ——
+1. 绕成一圈只是为了好拿。管长不变，音就不变 ——
    与[[instrument:hunting-horn|猎号]]的弯月形、[[instrument:racket|拉凯特管]]的折叠是同一个道理。
-2. **圆锥管**（不是圆柱）。这让它的音色比[[instrument:trumpet|小号]]更圆、更柔 ——
+2. 圆锥管（不是圆柱）。这让它的音色比[[instrument:trumpet|小号]]更圆、更柔 ——
    在户外传得远，但不像小号那样"亮得刺人"。
-3. **没有阀**。于是能改变的只有嘴唇，能用的音只有泛音列 ——
-   **这一点决定了下面整页的内容。**
+3. 没有阀。于是能改变的只有嘴唇，能用的音只有泛音列 ——
+   这一点决定了下面整页的内容。
 
 ## 几个音，一整套号令
 
@@ -138,18 +138,18 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这张图是整页的核心**：两条折线的**音高完全相同**，
-只有**顺序与长短**不同 —— 于是它们成了两道不同的命令。
+这张图是整页的核心：两条折线的音高完全相同，
+只有顺序与长短不同 —— 于是它们成了两道不同的命令。
 
 三条设计原则可以直接读出来：
 
-1. **音少 → 不易混淆**。可选音越少，听错的概率越低。
-2. **短 → 传得快**。一道命令必须在几秒内传完。
-3. **节奏差异大 → 抗噪声**。长短组合比音高差更容易在嘈杂里分辨。
+1. 音少 → 不易混淆。可选音越少，听错的概率越低。
+2. 短 → 传得快。一道命令必须在几秒内传完。
+3. 节奏差异大 → 抗噪声。长短组合比音高差更容易在嘈杂里分辨。
 
-**这也解释了为什么号令能跨国界**：
-它编码的是**音型**，不是语言 ——
-**同一个音型，任何一支军队都能听懂。**
+这也解释了为什么号令能跨国界：
+它编码的是音型，不是语言 ——
+同一个音型，任何一支军队都能听懂。
 
 ## 音域
 
@@ -157,20 +157,20 @@ updated: 2026-09-26
 {"range":"C4–C5","pitches":["C4","E4","G4","C5"],"caption":"号角号令用到的音（以 C 调记谱为例）","caption_en":"The notes bugle calls use (notated in C)","note":"号角属气鸣乐器（唇振 + 无阀无孔的圆锥管）。它只能用一条管子的泛音列，军号令实际只用其中几个 —— 以 C 调记谱为例，是主三和弦上的四个音：C4 · E4 · G4 · C5。各国与各形制的记谱与调性不同，但「只用主三和弦上的音」这一点是共同的。虚线框表示边界，框里绝大多数音其实发不出来。记谱即实音。"}
 ```
 
-- **只有四个音**（以记谱为例）—— **主三和弦加一个八度**。
-- **虚线框不是"都能吹"**：框里其余的音**根本发不出来**。
-- **实际用到的更少**：很多号令只用其中**三个音**，
-  **区别全在长短与顺序上**（这正是上一张图要说的）。
+- 只有四个音（以记谱为例）—— 主三和弦加一个八度。
+- 虚线框不是"都能吹"：框里其余的音根本发不出来。
+- 实际用到的更少：很多号令只用其中三个音，
+  区别全在长短与顺序上（这正是上一张图要说的）。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **圆、亮，但不像小号那样尖**。圆锥管给的音色。
-2. **惯用短促的重复音**。同一个音连续吹几下，靠节奏制造紧迫感 ——
+1. 圆、亮，但不像小号那样尖。圆锥管给的音色。
+2. 惯用短促的重复音。同一个音连续吹几下，靠节奏制造紧迫感 ——
    这是它最容易被认出的"号令腔"。
-3. **音量中等但穿透好**。它的任务不是"响过全场"，而是**穿过环境噪声**。
-4. **几乎不做强弱渐变**。与[[instrument:hunting-horn|猎号]]一样，
+3. 音量中等但穿透好。它的任务不是"响过全场"，而是穿过环境噪声。
+4. 几乎不做强弱渐变。与[[instrument:hunting-horn|猎号]]一样，
    无阀乐器的强弱只能整体起伏，句内变化很少。
 
 ```audiolab
@@ -179,14 +179,14 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **嘴唇唯一负责取音**。四个泛音之间的跳进全靠唇部松紧，
-  **没有按键可以帮忙**。
-- **节奏要极准**。既然信息在节奏里，**长短吹错就等于命令说错** ——
+- 嘴唇唯一负责取音。四个泛音之间的跳进全靠唇部松紧，
+  没有按键可以帮忙。
+- 节奏要极准。既然信息在节奏里，长短吹错就等于命令说错 ——
   这是号手最重要的功夫。
-- **要说"重复"**。同一音连奏是它的常用语法（催促 · 强调 · 集合）。
-- **音量由气息控制**。它不需要渐强渐弱，需要的是**稳定而远传**。
-- **常与鼓配对**。鼓给节奏的骨架与集合信号，号给具体指令 ——
-  **战场上通信的两条通道。**
+- 要说"重复"。同一音连奏是它的常用语法（催促 · 强调 · 集合）。
+- 音量由气息控制。它不需要渐强渐弱，需要的是稳定而远传。
+- 常与鼓配对。鼓给节奏的骨架与集合信号，号给具体指令 ——
+  战场上通信的两条通道。
 
 ## 家族与近亲
 
@@ -198,9 +198,9 @@ updated: 2026-09-26
 | [[instrument:trumpet\|现代小号]] | 圆柱为主 | **阀** | **完整半音阶** | 管弦乐 · 爵士 |
 | [[instrument:french-horn\|现代圆号]] | 圆锥 | **阀** | 完整半音阶 | 管弦乐 |
 
-**这一族的分水岭仍然只有一个**：**能不能改管长。**
-号角站在"不能"的那一侧 —— 而它**没有因此被淘汰**，
-因为它服务的是**别人干不了的活**。
+这一族的分水岭仍然只有一个：能不能改管长。
+号角站在"不能"的那一侧 —— 而它没有因此被淘汰，
+因为它服务的是别人干不了的活。
 
 ## 历史演变
 
@@ -214,33 +214,34 @@ updated: 2026-09-26
 | 19 世纪后期 | **阀**普及，管乐队与军乐队的号类乐器获得完整半音阶；号角退回**信号与仪式** |
 | 20—21 世纪 | 军中仪式 · 葬礼 · 纪念活动仍在用；也是童子军与仪仗队乐器；同时进入音乐厅（如《凡人号角》） |
 
-**它没有被淘汰的原因和[[instrument:hunting-horn|猎号]]一样**：
-**功能一旦不可替代，技术水平就不再是判据。**
+它没有被淘汰的原因和[[instrument:hunting-horn|猎号]]一样：
+功能一旦不可替代，技术水平就不再是判据。
 
 ## 常见误解
 
-- **"号角就是没有阀的小号。"** 大体占了一半：**没有阀是对的，但它的管形是圆锥**，
-  所以音色比小号圆得多。更准确的说法是：**它是一件信号乐器**，
+- "号角就是没有阀的小号。" 大体占了一半：没有阀是对的，但它的管形是圆锥，
+  所以音色比小号圆得多。更准确的说法是：它是一件信号乐器，
   不是"缺了零件的乐器"。
-- **"只会几个音，说明它很原始。"** 那是**刻意的工程选择**：
+- "只会几个音，说明它很原始。" 那是刻意的工程选择：
   少音 = 抗错，短 = 传得快，节奏差异大 = 抗噪声。
-- **"号角曲就是短曲子。"** 它记的是**指令**，不是曲子 ——
+- "号角曲就是短曲子。" 它记的是指令，不是曲子 ——
   复杂度必须服从"一听就懂"。
-- **"熄灯号之类的只是好听的音乐。"** 它们有**固定的使用场合与含义**，
+- "熄灯号之类的只是好听的音乐。" 它们有固定的使用场合与含义，
   属于仪式信号；离开场合就失去功能。
-- **"军号吹不出旋律，所以不能当乐器。"** 有阀之后它演化成[[instrument:trumpet|小号]]，
-  能演奏完整半音阶的音乐。**"只有几个音"是它自己的选择，不是物理必然。**
-- **"号角和猎号是同一件乐器。"** 同一原理，**不同形制与用途**：
+- "军号吹不出旋律，所以不能当乐器。" 有阀之后它演化成[[instrument:trumpet|小号]]，
+  能演奏完整半音阶的音乐。"只有几个音"是它自己的选择，不是物理必然。
+- "号角和猎号是同一件乐器。" 同一原理，不同形制与用途：
   一个在林中，一个在军中；音区与管长也不同。
 
 ## 下一步
 
-信号这条线到这里走完：**无阀 → 泛音列 → 音是点不是段 → 信息搬进节奏。**
+信号这条线到这里走完：无阀 → 泛音列 → 音是点不是段 → 信息搬进节奏。
 最后一件乐器要把这条思路推到终点 ——
-[[instrument:mechanical-instruments|自动演奏乐器]]**干脆把"人"从演奏里拿掉**：
+[[instrument:mechanical-instruments|自动演奏乐器]]干脆把"人"从演奏里拿掉：
 摇柄、滚筒、打孔纸卷替人记住并执行音乐。
 它要回答的问题是整批里最尖锐的一个：
-**当机器会演奏了，乐器还是不是"乐器"？**
+当机器会演奏了，乐器还是不是"乐器"？
+
 :::
 
 ::: en
@@ -253,15 +254,15 @@ And with it the question changes:
 > ⚠️ **If an instrument knows only a few notes, how can it command an army?**
 > Because what it transmits is **a category, not a content**.
 >
-> A call does not exist to express; it exists to be **impossible to mishear** under bad conditions: wind, rain,
-> noise, and a tired morning. For that job, **having many notes is a burden, not a capability.**
+> A call does not exist to express; it exists to be impossible to mishear under bad conditions: wind, rain,
+> noise, and a tired morning. For that job, having many notes is a burden, not a capability.
 >
 > So the design goal is not "how many notes can it play" but three things:
-> **① few notes** (hard to confuse) · **② short** (fast to send) · **③ strongly contrasting rhythms**
+> ① few notes (hard to confuse) · ② short (fast to send) · ③ strongly contrasting rhythms
 > (still distinguishable through noise).
 
-**Which gives this page's central sentence**: **the bugle moves the information out of pitch and into rhythm.**
-Its distinctiveness comes almost entirely from **the order and length of notes**, not from how many pitches it
+Which gives this page's central sentence: the bugle moves the information out of pitch and into rhythm.
+Its distinctiveness comes almost entirely from the order and length of notes, not from how many pitches it
 has.
 
 | Classification | Value |
@@ -304,11 +305,11 @@ has.
 
 Three points:
 
-1. **The coil is only for carrying.** **Same length, same pitch** — the same logic as the
+1. The coil is only for carrying. Same length, same pitch — the same logic as the
    [[instrument:hunting-horn|hunting horn]]'s crescent and the [[instrument:racket|racket]]'s fold.
-2. **A conical bore** (not cylindrical), which makes it rounder and softer than a
+2. A conical bore (not cylindrical), which makes it rounder and softer than a
    [[instrument:trumpet|trumpet]] — it carries outdoors without the trumpet's piercing brightness.
-3. **No valves.** So the only control is the lips and the only notes are the series — **and that fact dictates
+3. No valves. So the only control is the lips and the only notes are the series — **and that fact dictates
    the rest of this page.**
 
 ## A few notes, a whole set of calls
@@ -347,17 +348,17 @@ Three points:
 </svg>
 ```
 
-**This figure is the heart of the page**: the two step-lines use **exactly the same pitches** and differ only in
-**order and length** — and that makes them two different orders.
+This figure is the heart of the page: the two step-lines use exactly the same pitches and differ only in
+order and length — and that makes them two different orders.
 
 Three design principles read straight off it:
 
-1. **Few notes → hard to confuse.** The fewer options, the lower the chance of a mishearing.
-2. **Short → fast to send.** An order has to be transmitted in seconds.
-3. **Big rhythmic contrast → survives noise.** Long-short patterns are easier to pick out than pitch differences.
+1. Few notes → hard to confuse. The fewer options, the lower the chance of a mishearing.
+2. Short → fast to send. An order has to be transmitted in seconds.
+3. Big rhythmic contrast → survives noise. Long-short patterns are easier to pick out than pitch differences.
 
-**This is also why calls cross borders**: what is encoded is a **rhythmic figure**, not a language —
-**the same figure is understood by any army.**
+This is also why calls cross borders: what is encoded is a rhythmic figure, not a language —
+the same figure is understood by any army.
 
 ## Range
 
@@ -365,21 +366,21 @@ Three design principles read straight off it:
 {"range":"C4–C5","pitches":["C4","E4","G4","C5"],"caption":"号角号令用到的音（以 C 调记谱为例）","caption_en":"The notes bugle calls use (notated in C)","note":"号角属气鸣乐器（唇振 + 无阀无孔的圆锥管）。它只能用一条管子的泛音列，军号令实际只用其中几个 —— 以 C 调记谱为例，是主三和弦上的四个音：C4 · E4 · G4 · C5。各国与各形制的记谱与调性不同，但「只用主三和弦上的音」这一点是共同的。虚线框表示边界，框里绝大多数音其实发不出来。记谱即实音。"}
 ```
 
-- **Only four notes** (as notated) — **a major triad plus its octave**.
-- **The dashed frame does not mean "all of it is playable"**: most notes inside it **cannot be produced at all**.
-- **Fewer still are actually used**: many calls use just **three** of them, with **all the difference in length and
+- Only four notes (as notated) — a major triad plus its octave.
+- The dashed frame does not mean "all of it is playable": most notes inside it cannot be produced at all.
+- Fewer still are actually used: many calls use just three of them, with **all the difference in length and
   order** — exactly what the previous figure showed.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Round and bright, without a trumpet's edge** — the conical bore.
-2. **Customary repeated notes.** The same pitch sounded several times in a row, using rhythm to create urgency —
+1. Round and bright, without a trumpet's edge — the conical bore.
+2. Customary repeated notes. The same pitch sounded several times in a row, using rhythm to create urgency —
    the most recognisable "call" accent.
-3. **Moderate volume, good penetration.** Its job is not to out-shout the room but to **cut through ambient
+3. Moderate volume, good penetration. Its job is not to out-shout the room but to **cut through ambient
    noise**.
-4. **Almost no crescendo or diminuendo.** Like the [[instrument:hunting-horn|hunting horn]], a valveless
+4. Almost no crescendo or diminuendo. Like the [[instrument:hunting-horn|hunting horn]], a valveless
    instrument shapes volume only as a whole, rarely within a phrase.
 
 ```audiolab
@@ -388,14 +389,14 @@ Four cues:
 
 ## Playing techniques
 
-- **The lips alone select the note.** Every leap between the four harmonics is made by lip tension, with **no key
+- The lips alone select the note. Every leap between the four harmonics is made by lip tension, with **no key
   to help**.
-- **Rhythm must be exact.** Since the information **is** the rhythm, **a wrong length is a wrong order** — the
+- Rhythm must be exact. Since the information is the rhythm, a wrong length is a wrong order — the
   bugler's most important skill.
-- **Repetition is part of the grammar** (urging, emphasising, assembling).
-- **Volume is breath control.** It does not need crescendos; it needs **steady, far-carrying tone**.
-- **It is usually paired with drums.** The drum supplies the rhythmic skeleton and the assembly signals, the
-  bugle the specific instruction — **two channels of battlefield communication.**
+- Repetition is part of the grammar (urging, emphasising, assembling).
+- Volume is breath control. It does not need crescendos; it needs steady, far-carrying tone.
+- It is usually paired with drums. The drum supplies the rhythmic skeleton and the assembly signals, the
+  bugle the specific instruction — two channels of battlefield communication.
 
 ## The family
 
@@ -407,8 +408,8 @@ Four cues:
 | [[instrument:trumpet\|Modern trumpet]] | mostly cylindrical | **valves** | **full chromatic** | orchestra · jazz |
 | [[instrument:french-horn\|Modern horn]] | conical | **valves** | full chromatic | orchestra |
 
-**The family still has one watershed**: **can the length be changed?**
-The bugle stands on the "no" side — and it **was not retired for that**, because it does **a job nothing else
+The family still has one watershed: can the length be changed?
+The bugle stands on the "no" side — and it was not retired for that, because it does **a job nothing else
 does**.
 
 ## History
@@ -423,30 +424,30 @@ does**.
 | late 19th c. | **valves** spread and band instruments gain a full chromatic scale; the bugle retreats to **signals and ceremony** |
 | 20th–21st c. | still used in military ceremony, funerals and commemorations; a scouting and ceremonial instrument; and it has entered the concert hall (as in **Fanfare for the Common Man**) |
 
-**It survived for the same reason as the [[instrument:hunting-horn|hunting horn]]**: **once a function is
+It survived for the same reason as the [[instrument:hunting-horn|hunting horn]]: **once a function is
 irreplaceable, the level of technology stops being the test.**
 
 ## Common misconceptions
 
-- **"A bugle is just a trumpet without valves."** Half right: **no valves is correct, but its bore is conical**,
-  so it sounds far rounder. More precisely, **it is a signal instrument**, not "an instrument missing parts".
-- **"Only a few notes means it is primitive."** That is a **deliberate engineering choice**: fewer notes, fewer
+- "A bugle is just a trumpet without valves." Half right: no valves is correct, but its bore is conical,
+  so it sounds far rounder. More precisely, it is a signal instrument, not "an instrument missing parts".
+- "Only a few notes means it is primitive." That is a deliberate engineering choice: fewer notes, fewer
   mishearings; short, fast to send; contrasting rhythms, readable through noise.
-- **"A bugle call is just a short tune."** What is written down is an **instruction**, not a tune — its complexity
+- "A bugle call is just a short tune." What is written down is an instruction, not a tune — its complexity
   must yield to being understood at once.
-- **"Calls like Taps are simply nice music."** They have **fixed occasions and meanings** and are ceremonial
+- "Calls like Taps are simply nice music." They have fixed occasions and meanings and are ceremonial
   signals; away from the occasion they lose their function.
-- **"A military horn cannot play melody, so it is not really an instrument."** With valves it evolved into the
+- "A military horn cannot play melody, so it is not really an instrument." With valves it evolved into the
   [[instrument:trumpet|trumpet]], which plays fully chromatic music. **"Only a few notes" is its own choice, not a
   law of physics.**
-- **"The bugle and the hunting horn are the same instrument."** One principle, **different forms and jobs**: one in
+- "The bugle and the hunting horn are the same instrument." One principle, different forms and jobs: one in
   the forest, one in the field — different registers and lengths too.
 
 ## Next
 
 The signal thread ends here: **no valves → harmonic series → notes are points, not a stretch → the information
 moves into rhythm.** The last instrument pushes the idea to its endpoint — the
-[[instrument:mechanical-instruments|mechanical instruments]] **take the human out of playing altogether**:
+[[instrument:mechanical-instruments|mechanical instruments]] take the human out of playing altogether:
 cranks, barrels and punched paper remember and perform the music for us. It asks the sharpest question of the
-whole group: **once a machine can play, is an instrument still an instrument?**
+whole group: once a machine can play, is an instrument still an instrument?
 :::

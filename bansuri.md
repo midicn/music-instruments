@@ -32,47 +32,47 @@ updated: 2026-10-28
 
 班苏里是**一根竹子**：没有按键、没有簧片、没有吹嘴，只有一个吹孔、六到七个指孔，和一根被磨薄的管壁。声音来自**一口气斜着吹过吹孔的锐边**，空气在管内形成驻波——管子的长度由手指决定，音高就跟着变。
 
-它的音乐性几乎全部落在**气**上：一句旋律能不能一口气走完、换气放在哪里、音与音之间是断开还是滑过去。印度音乐里那些细密的滑音与装饰，班苏里用**滚管**（转动竹管改变吹气角度）与**半孔**（手指半掩）做出来，而不是靠按键或活塞。
+它的音乐性几乎全部落在**气**上：一句旋律能不能一口气走完、换气放在哪里、音与音之间是断开还是滑过去。印度音乐里那些细密的滑音与装饰，班苏里用**滚管**（转动竹管改变吹气角度）与半孔（手指半掩）做出来，而不是靠按键或活塞。
 
 ## 形制：没有按键的横笛
 
-- **管体**：一段竹子（bans＝竹），选壁厚、节距合适的竹材；竹节的位置会影响内壁与音色，制琴者要避开或利用它。
-- **吹孔**：靠近一端，边缘磨出锐角；没有吹嘴，嘴唇直接对着管壁吹。
-- **指孔**：北印度古典班苏里通常**六或七个**；南印度的 **venu** 常为八个。孔距与孔径决定音阶，制作者按调性与演奏者的手调整。
-- **调**：班苏里按主音命名（C 调、D 调等），长度与内径决定音高；同一支笛可以吹不同的 raga，但主音 Sa 固定。
-- **保养**：竹材会随湿度变化；演奏前要温管、调音时靠微调吹气角度与滚管，而不是调机械结构。
+- 管体：一段竹子（bans＝竹），选壁厚、节距合适的竹材；竹节的位置会影响内壁与音色，制琴者要避开或利用它。
+- 吹孔：靠近一端，边缘磨出锐角；没有吹嘴，嘴唇直接对着管壁吹。
+- 指孔：北印度古典班苏里通常六或七个；南印度的 venu 常为八个。孔距与孔径决定音阶，制作者按调性与演奏者的手调整。
+- 调：班苏里按主音命名（C 调、D 调等），长度与内径决定音高；同一支笛可以吹不同的 raga，但主音 Sa 固定。
+- 保养：竹材会随湿度变化；演奏前要温管、调音时靠微调吹气角度与滚管，而不是调机械结构。
 
 ## 吹法：滚管与半孔
 
-班苏里没有按键，所以**音准是连续量**：
+班苏里没有按键，所以音准是连续量：
 
-- **滚管**：手指不动，手腕把管子向内或向外转，吹气角度改变，音高就会滑上或滑下——这是它做 **meend** 的主要手段。
-- **半孔**：手指半掩指孔，得到介于两个音之间的音；印度音乐里的微分音与装饰常靠它。
-- **气**：强吹会偏高、弱吹会偏低；同一指法可以用气与角度做出细微的装饰。**因此班苏里的音准不是「按对孔」，而是「吹对位置」。**
+- 滚管：手指不动，手腕把管子向内或向外转，吹气角度改变，音高就会滑上或滑下——这是它做 meend 的主要手段。
+- 半孔：手指半掩指孔，得到介于两个音之间的音；印度音乐里的微分音与装饰常靠它。
+- 气：强吹会偏高、弱吹会偏低；同一指法可以用气与角度做出细微的装饰。因此班苏里的音准不是「按对孔」，而是「吹对位置」。
 
 ## 南北两支
 
-- **北印度 bansuri**：古典独奏的主力，六或七孔，常与塔布拉鼓、坦布拉合作；曲目是 raga 的慢速展开（alap）与有节奏的 gat。
-- **南印度 venu**：八孔，音色更明亮，用于 Carnatic 的 kriti 与 raga 演奏；称谓与曲目体系不同。
+- 北印度 bansuri：古典独奏的主力，六或七孔，常与塔布拉鼓、坦布拉合作；曲目是 raga 的慢速展开（alap）与有节奏的 gat。
+- 南印度 venu：八孔，音色更明亮，用于 Carnatic 的 kriti 与 raga 演奏；称谓与曲目体系不同。
 
-两者不是「同一种乐器的两个名字」，而是**同一族竹笛在两条音乐传统里的不同形制**。
+两者不是「同一种乐器的两个名字」，而是同一族竹笛在两条音乐传统里的不同形制。
 
 ## 从民间到舞台
 
-班苏里原本广泛用于民间音乐、电影配乐与牧歌。**Pannalal Ghosh**（1911–1960）把它带上古典独奏舞台，改进了管长与指孔，让它可以演奏完整的 raga；**Hariprasad Chaurasia** 则把它带向世界，与西方音乐家合作，让「一口气」的音色成为印度音乐的标志之一。
+班苏里原本广泛用于民间音乐、电影配乐与牧歌。Pannalal Ghosh（1911–1960）把它带上古典独奏舞台，改进了管长与指孔，让它可以演奏完整的 raga；Hariprasad Chaurasia 则把它带向世界，与西方音乐家合作，让「一口气」的音色成为印度音乐的标志之一。
 
 ## 与西洋长笛对照
 
-- **结构**：西洋长笛是 Boehm 按键系统，音孔由机械联动；班苏里只有孔，手指直接盖。
-- **音准**：长笛靠按键与管体设计保证十二平均律；班苏里靠滚管、半孔与气，音准是**演奏者实时做的**。
-- **音量**：长笛在音乐厅里能压过乐队；班苏里音量小，常需要扩音，也因此更贴近人声的亲密感。
-- **材料**：金属与竹，决定了泛音结构与音色的「亮」与「暖」。
+- 结构：西洋长笛是 Boehm 按键系统，音孔由机械联动；班苏里只有孔，手指直接盖。
+- 音准：长笛靠按键与管体设计保证十二平均律；班苏里靠滚管、半孔与气，音准是演奏者实时做的。
+- 音量：长笛在音乐厅里能压过乐队；班苏里音量小，常需要扩音，也因此更贴近人声的亲密感。
+- 材料：金属与竹，决定了泛音结构与音色的「亮」与「暖」。
 
 ## 带走三件事
 
-1. **没有按键**：音高由孔、气与滚管共同决定，音准是动作。
-2. **一口气是结构**：乐句的长度与换气位置就是音乐的分句。
-3. **南北两支**：bansuri 与 venu 同族不同制，不要当成一件乐器的两个名字。
+1. 没有按键：音高由孔、气与滚管共同决定，音准是动作。
+2. 一口气是结构：乐句的长度与换气位置就是音乐的分句。
+3. 南北两支：bansuri 与 venu 同族不同制，不要当成一件乐器的两个名字。
 
 ### HS 分类
 
@@ -151,47 +151,47 @@ updated: 2026-10-28
 
 The bansuri is **a single bamboo tube**: no keys, no reed, no mouthpiece, just a blow hole, six or seven finger holes, and a thinned wall. The sound comes from **a breath directed across the sharp edge** of the blow hole; the air forms a standing wave in the tube, the fingers set its length, and the pitch follows.
 
-Almost everything musical happens in **the breath**: whether a phrase can be carried in one breath, where the breath is taken, whether notes are separated or slid. The fine slides and ornaments of Indian music are made by **rolling the tube** (changing the blowing angle) and **half-holing**, not by keys or pistons.
+Almost everything musical happens in **the breath**: whether a phrase can be carried in one breath, where the breath is taken, whether notes are separated or slid. The fine slides and ornaments of Indian music are made by **rolling the tube** (changing the blowing angle) and half-holing, not by keys or pistons.
 
 ## Form: a transverse flute without keys
 
-- **Body**: a length of bamboo (bans = bamboo), chosen for wall thickness and node spacing; the nodes shape the bore and the colour, and the maker works with or around them.
-- **Blow hole**: near one end, with a sharpened edge; there is no mouthpiece, the lips blow directly at the wall.
-- **Finger holes**: North Indian classical bansuri usually has **six or seven**; the South Indian **venu** often eight. Spacing and diameter set the scale, adjusted by the maker for key and hand size.
-- **Key**: the instrument is named by its tonic (a C bansuri, a D bansuri); length and bore set the pitch. One flute can play many ragas, but its Sa is fixed.
-- **Upkeep**: bamboo moves with humidity; the player warms the tube and tunes by breath angle and rolling, not by a mechanism.
+- Body: a length of bamboo (bans = bamboo), chosen for wall thickness and node spacing; the nodes shape the bore and the colour, and the maker works with or around them.
+- Blow hole: near one end, with a sharpened edge; there is no mouthpiece, the lips blow directly at the wall.
+- Finger holes: North Indian classical bansuri usually has six or seven; the South Indian venu often eight. Spacing and diameter set the scale, adjusted by the maker for key and hand size.
+- Key: the instrument is named by its tonic (a C bansuri, a D bansuri); length and bore set the pitch. One flute can play many ragas, but its Sa is fixed.
+- Upkeep: bamboo moves with humidity; the player warms the tube and tunes by breath angle and rolling, not by a mechanism.
 
 ## Playing: rolling and half-holing
 
-With no keys, **intonation is a continuous quantity**:
+With no keys, intonation is a continuous quantity:
 
-- **Rolling**: the fingers stay put and the wrist turns the tube in or out; the blowing angle changes and the pitch slides — the main way to make **meend**.
-- **Half-holing**: a finger partly covers a hole, giving a pitch between the two; microtones and ornaments often depend on it.
-- **Breath**: harder blowing raises the pitch, softer lowers it; the same fingering can be shaded with air and angle. **Intonation is therefore not "the right hole" but "the right place in the airstream".**
+- Rolling: the fingers stay put and the wrist turns the tube in or out; the blowing angle changes and the pitch slides — the main way to make meend.
+- Half-holing: a finger partly covers a hole, giving a pitch between the two; microtones and ornaments often depend on it.
+- Breath: harder blowing raises the pitch, softer lowers it; the same fingering can be shaded with air and angle. **Intonation is therefore not "the right hole" but "the right place in the airstream".**
 
 ## Two branches
 
-- **North Indian bansuri**: the main classical solo flute, six or seven holes, usually with tabla and tanpura; the repertoire is the slow unfolding of a raga (alap) and a rhythmic gat.
-- **South Indian venu**: eight holes, a brighter colour, used in Carnatic kriti and raga playing; different name and repertoire.
+- North Indian bansuri: the main classical solo flute, six or seven holes, usually with tabla and tanpura; the repertoire is the slow unfolding of a raga (alap) and a rhythmic gat.
+- South Indian venu: eight holes, a brighter colour, used in Carnatic kriti and raga playing; different name and repertoire.
 
-They are not "two names for one instrument" but **one bamboo family shaped by two musical traditions**.
+They are not "two names for one instrument" but one bamboo family shaped by two musical traditions.
 
 ## From folk music to the stage
 
-The bansuri was long at home in folk music, film music and herding songs. **Pannalal Ghosh** (1911–1960) brought it to the classical solo stage and adjusted its length and holes so that a full raga could be played; **Hariprasad Chaurasia** carried it to the world, making the sound of "one breath" one of the signatures of Indian music.
+The bansuri was long at home in folk music, film music and herding songs. Pannalal Ghosh (1911–1960) brought it to the classical solo stage and adjusted its length and holes so that a full raga could be played; Hariprasad Chaurasia carried it to the world, making the sound of "one breath" one of the signatures of Indian music.
 
 ## Against the Western flute
 
-- **Structure**: the Western flute is a Boehm key system, holes linked by mechanism; the bansuri has bare holes covered by fingers.
-- **Intonation**: the flute builds equal temperament into keys and bore; the bansuri makes intonation **live**, with rolling, half-holing and breath.
-- **Volume**: the flute can carry over an orchestra; the bansuri is quiet, often amplified, and intimate in a way that sits close to the voice.
-- **Material**: metal versus bamboo decides the overtone balance — bright versus warm.
+- Structure: the Western flute is a Boehm key system, holes linked by mechanism; the bansuri has bare holes covered by fingers.
+- Intonation: the flute builds equal temperament into keys and bore; the bansuri makes intonation live, with rolling, half-holing and breath.
+- Volume: the flute can carry over an orchestra; the bansuri is quiet, often amplified, and intimate in a way that sits close to the voice.
+- Material: metal versus bamboo decides the overtone balance — bright versus warm.
 
 ## Three things to take away
 
-1. **No keys**: pitch comes from holes, breath and rolling; intonation is an action.
-2. **A breath is a structure**: phrase length and breath position are the punctuation of the music.
-3. **Two branches**: bansuri and venu are one family in two forms, not two names for one instrument.
+1. No keys: pitch comes from holes, breath and rolling; intonation is an action.
+2. A breath is a structure: phrase length and breath position are the punctuation of the music.
+3. Two branches: bansuri and venu are one family in two forms, not two names for one instrument.
 
 ### HS classification
 
@@ -261,5 +261,4 @@ The bansuri was long at home in folk music, film music and herding songs. **Pann
 ```audiolab
 {"type":"instrument","gm":"Flute","synth":"blown","phrase":["C4","D4","E4","G4","A4","C5","A4","G4"],"label":"一口气里的五声：C–D–E–G–A","label_en":"Five notes in one breath: C–D–E–G–A","hint":"通用音色表里没有班苏里，这里借长笛近似：听气声与音头，以及尽量不换气的连句。真实的班苏里还有两样这条试听件给不了：一、滚管与半孔做出的滑音和微分音；二、竹管的泛音结构与「气」的粗细——长笛是金属管，声音更亮更直。","hint_en":"The General MIDI table has no bansuri, so a Western flute stands in: listen to the breath, the onset, and the attempt to keep a phrase in one breath. Two things the sample cannot give you: the slides and microtones made by rolling the tube and half-holing, and the bamboo bore's overtone colour — the metal flute is brighter and straighter."}
 ```
-
 :::

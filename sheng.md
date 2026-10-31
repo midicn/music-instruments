@@ -48,16 +48,16 @@ updated: 2026-09-26
 > ⚠️ **一件管乐器，为什么能同时发出好几个音？**
 > | | 发声体 | 音高由谁定 | 一根管能发几个音 |
 > |---|---|---|---|
-> | [[instrument:dizi\|笛子]] | **空气柱** | 空气柱长度 | **一个** |
-> | [[instrument:xun\|埙]] | **腔内空气** | 腔体积 ÷ 开口面积 | **一个** |
-> | **笙** | **簧片（管只是耦合共鸣）** | **簧片本身** | **一个音——但按几根管就响几个** |
+> | [[instrument:dizi\|笛子]] | 空气柱 | 空气柱长度 | 一个 |
+> | [[instrument:xun\|埙]] | 腔内空气 | 腔体积 ÷ 开口面积 | 一个 |
+> | 笙 | 簧片（管只是耦合共鸣） | 簧片本身 | 一个音——但按几根管就响几个 |
 >
-> **关键在这一行**：**笙发的音不是"管"发的，是"簧"发的。**
-> 每一根笙苗里装着一枚独立的簧片 —— **"一簧一音"**。
-> 于是**按几根苗，就同时响几个音**，中间不存在任何物理冲突。
+> 关键在这一行：笙发的音不是"管"发的，是"簧"发的。
+> 每一根笙苗里装着一枚独立的簧片 —— "一簧一音"。
+> 于是按几根苗，就同时响几个音，中间不存在任何物理冲突。
 >
-> **"一根管只能发一个音"这条常识，在笙身上失效了** ——
-> 因为**管从来不是它的发声体**。
+> "一根管只能发一个音"这条常识，在笙身上失效了 ——
+> 因为管从来不是它的发声体。
 
 | 分类 | 归属 |
 |---|---|
@@ -115,11 +115,11 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **笙苗长短不一，但音高不由长度决定**。
-   每根苗上端开**音窗**（出音孔）、下端开**指孔**、底部嵌**笙脚**装簧片 ——
-   **决定音高的是那枚簧片，管负责的是共鸣与音色。**
-2. **"一簧一音"**。每根苗一个独立的簧 → 这是一个**天然的多音乐器**。
-3. **笙斗原为匏**。八音给它记的就是这个字 —— 唐代以后笙斗改用木制、后来又用铜斗，
+1. 笙苗长短不一，但音高不由长度决定。
+   每根苗上端开音窗（出音孔）、下端开指孔、底部嵌笙脚装簧片 ——
+   决定音高的是那枚簧片，管负责的是共鸣与音色。
+2. "一簧一音"。每根苗一个独立的簧 → 这是一个天然的多音乐器。
+3. 笙斗原为匏。八音给它记的就是这个字 —— 唐代以后笙斗改用木制、后来又用铜斗，
    但归类沿用传统（与[[instrument:guqin|古琴]]的"丝"同一个道理）。
 
 ## 一簧一音，吹吸皆鸣
@@ -157,15 +157,15 @@ updated: 2026-09-26
 </svg>
 ```
 
-**左半张图回答了"多音"**：**每一根按下去的苗都会响，互不干扰** ——
-所以笙是**中国传统吹管乐器里唯一能演奏和声的一件**。
-它传统的和音多用**五度与八度**（偶尔三度 · 四度）——
-这也让它在合奏里扮演一个特别的位置：**和声与音色的黏合剂**。
+左半张图回答了"多音"：每一根按下去的苗都会响，互不干扰 ——
+所以笙是中国传统吹管乐器里唯一能演奏和声的一件。
+它传统的和音多用五度与八度（偶尔三度 · 四度）——
+这也让它在合奏里扮演一个特别的位置：和声与音色的黏合剂。
 
-**右半张图回答了"吹吸皆鸣"**：**自由簧的振动方向与气流方向无关** ——
-吹、吸都使它振动。这条性质**同时给了它两项能力**：
-**① 每个音都可以用"吹"或"吸"两种气息演奏**（呼吸不必中断）；
-**② 诞生了它独有的技法「吸花舌」** ——在所有吹管乐器里只有笙能在**吸气**时做花舌。
+右半张图回答了"吹吸皆鸣"：自由簧的振动方向与气流方向无关 ——
+吹、吸都使它振动。这条性质同时给了它两项能力：
+① 每个音都可以用"吹"或"吸"两种气息演奏（呼吸不必中断）；
+② 诞生了它独有的技法「吸花舌」 ——在所有吹管乐器里只有笙能在吸气时做花舌。
 
 ## 音域
 
@@ -173,24 +173,24 @@ updated: 2026-09-26
 {"range":"G3–G6","caption":"笙的音域（以三十六簧笙为例 · 示意）","caption_en":"Sheng range — a 36-reed sheng as the example (indicative)","note":"笙属气鸣乐器（自由簧 + 簧管耦合）。音域随簧数变化很大：传统笙多为十三 · 十四 · 十七簧，约一个半到两个八度；20 世纪后出现二十一 · 二十四 · 三十六 · 三十七簧等形制，可覆盖两个半到三个八度。此处按三十六簧笙取 G3–G6（三个八度）示意 —— 各形制簧数不同，本图不代表所有笙。记谱即实音。"}
 ```
 
-- **音域由簧数决定**，而**簧数是一路加上去的**：**13 → 17 → 21 → 24 → 36 → 37**。
+- 音域由簧数决定，而簧数是一路加上去的：13 → 17 → 21 → 24 → 36 → 37。
    这与会"加孔"的[[instrument:dizi|笛子]]、会"加品"的[[instrument:pipa|琵琶]]是同一种思路：
-   **加档位 = 加音域**。
-- **它不靠超吹扩音域**。与笛子不同，**笙的音域上限完全由"装了多少枚簧"决定** ——
+   加档位 = 加音域。
+- 它不靠超吹扩音域。与笛子不同，笙的音域上限完全由"装了多少枚簧"决定 ——
    吹得再用力也不会多出音来。
-- **可吹可吸** → **呼吸不必停**，这让它极适合**长音与和声伴奏**。
+- 可吹可吸 → 呼吸不必停，这让它极适合长音与和声伴奏。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **"簧管混合"的音色**。既有簧片的清亮，又有竹管的圆润 ——
+1. "簧管混合"的音色。既有簧片的清亮，又有竹管的圆润 ——
    这两样叠在一起，是它最容易被认出的地方。
-2. **音量不大、变化幅度小**。它不靠强弱取胜，而靠**音色与和音**。
-3. **天生是"复数"**。传统吹法常同时按几个孔 ——
-   **听笙常听到的不是一条线，而是一小团音。**
-4. **粘合性**。在合奏里它**容易与其他乐器混和**，
-   所以常被安排去**调和乐队音色 · 丰富乐队音响**。
+2. 音量不大、变化幅度小。它不靠强弱取胜，而靠音色与和音。
+3. 天生是"复数"。传统吹法常同时按几个孔 ——
+   听笙常听到的不是一条线，而是一小团音。
+4. 粘合性。在合奏里它容易与其他乐器混和，
+   所以常被安排去调和乐队音色 · 丰富乐队音响。
 
 ```audiolab
 {"type":"instrument","gm":"Harmonica","synth":"reed","phrase":["C4","E4","G4","C5","A4","G4"],"label":"笙的常用区：C4 到 C5","label_en":"The sheng's working register — C4 up to C5","hint":"注意簧片的清亮与竹管的圆润叠在一起 —— 通用音色表里没有笙，这里借同属自由簧、同样靠呼吸发声的口琴近似","hint_en":"Hear the reed's brightness layered with the pipes' roundness. General MIDI has no sheng, so a harmonica — another breath-driven free reed — stands in."}
@@ -198,12 +198,12 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **吹与吸都是"正音"**。这是它最特别的一点：**吸不是"换气"，而是另一种演奏方向。**
-- **传统四法：吹 · 吸 · 颤 · 滑**。现代又发展出双吐 · 三吐 · 花舌 · 呼舌等。
-- **吸花舌**。**唯一能在吸气时做花舌的吹管乐器** —— 这正是自由簧对称性给的礼物。
-- **和音要"按组合"**。传统吹法按几个孔同时发声，所以**指法要成组地学**，
+- 吹与吸都是"正音"。这是它最特别的一点：吸不是"换气"，而是另一种演奏方向。
+- 传统四法：吹 · 吸 · 颤 · 滑。现代又发展出双吐 · 三吐 · 花舌 · 呼舌等。
+- 吸花舌。唯一能在吸气时做花舌的吹管乐器 —— 这正是自由簧对称性给的礼物。
+- 和音要"按组合"。传统吹法按几个孔同时发声，所以指法要成组地学，
    而不是一个一个音地学。
-- **常任和声伴奏**。在合奏与戏曲伴奏里，它负责"垫"和声、黏合音色。
+- 常任和声伴奏。在合奏与戏曲伴奏里，它负责"垫"和声、黏合音色。
 
 ## 家族与近亲
 
@@ -216,9 +216,9 @@ updated: 2026-09-26
 | [[instrument:dizi\|笛子]] | **空气柱** | 空气柱长度 | 否 | 竹 |
 | [[instrument:xun\|埙]] | **腔内空气** | 腔体积 ÷ 开口面积 | 否 | 土 |
 
-**这一族横跨东西，而根在中国**：
-**笙 → （18 世纪西传）→ 口琴 · 簧风琴 · 手风琴 · 管风琴的簧管**。
-**判断这一族只需要一句**：**"是不是一片簧在气流里自由振动？"**
+这一族横跨东西，而根在中国：
+笙 → （18 世纪西传）→ 口琴 · 簧风琴 · 手风琴 · 管风琴的簧管。
+判断这一族只需要一句："是不是一片簧在气流里自由振动？"
 
 ## 历史演变
 
@@ -234,34 +234,35 @@ updated: 2026-09-26
 | **18 世纪** | **西传欧洲** —— 其自由簧结构对**风琴 · 口琴 · 手风琴**等乐器的发明产生了重要影响 |
 | 20 世纪 | 形制大改：**21 · 24 · 36 · 37 簧**以及键盘笙 · 加键笙；笙斗由"死斗"改"活斗"等 |
 
-**它最值得记住的历史事实**：
-**今天世界上大多数簧片乐器，都能追溯到这件中国的竹管乐器。**
-**一个在殷商甲骨文里就有名字的东西，最终改写了全世界的乐器版图** ——
-而这中间的关键，只是**一片可以自由振动的簧**。
+它最值得记住的历史事实：
+今天世界上大多数簧片乐器，都能追溯到这件中国的竹管乐器。
+一个在殷商甲骨文里就有名字的东西，最终改写了全世界的乐器版图 ——
+而这中间的关键，只是一片可以自由振动的簧。
 
 ## 常见误解
 
-- **"笙和笛子一样，靠管里的空气发声。"** 完全相反：
-   **笙靠簧片发声**，管只是**与簧耦合的共鸣体**。
-   证据就在音域上 —— **笛子靠超吹扩音域，笙吹得再用力也不会多一个音。**
-- **"一件管乐器只能发一个音。"** 对笛 · 箫 · 埙成立，对笙**不成立**：
-   **一簧一音，按几根苗就响几个音** —— 它是**和声乐器**。
-- **"吸只是换气。"** 在笙上，**吸是另一种演奏方向**，
-   而且**只有笙能在吸气时做花舌（吸花舌）**。
-- **"笙斗是木的，为什么归八音里的匏？"** 与古琴的"丝"同理：
-   **八音记的是它最初的材料**（葫芦/匏），唐代以后改木、后改铜斗，**归类沿用**。
-- **"笙是件小乐器，影响不大。"** 它是**世界上最早的自由簧乐器** ——
+- "笙和笛子一样，靠管里的空气发声。" 完全相反：
+   笙靠簧片发声，管只是与簧耦合的共鸣体。
+   证据就在音域上 —— 笛子靠超吹扩音域，笙吹得再用力也不会多一个音。
+- "一件管乐器只能发一个音。" 对笛 · 箫 · 埙成立，对笙不成立：
+   一簧一音，按几根苗就响几个音 —— 它是和声乐器。
+- "吸只是换气。" 在笙上，吸是另一种演奏方向，
+   而且只有笙能在吸气时做花舌（吸花舌）。
+- "笙斗是木的，为什么归八音里的匏？" 与古琴的"丝"同理：
+   八音记的是它最初的材料（葫芦/匏），唐代以后改木、后改铜斗，归类沿用。
+- "笙是件小乐器，影响不大。" 它是世界上最早的自由簧乐器 ——
    今天绝大多数簧片乐器（口琴 · 簧风琴 · 手风琴，乃至管风琴的簧管）都在它的谱系里。
-- **"笙只能伴奏。"** 它确实常在合奏里担任和声，但同样是独奏乐器；
+- "笙只能伴奏。" 它确实常在合奏里担任和声，但同样是独奏乐器；
    1956 年它已作为独奏乐器登上国际舞台。
 
 ## 下一步
 
-**匏这一类到此补齐**（笙）。八音只剩最后一类：**石** ——
-下一件换到**石**：[[instrument:bianqing|编磬]]。
-它与[[instrument:bianzhong|编钟]]是一对：**"金声玉振"讲的就是这两件**，
+匏这一类到此补齐（笙）。八音只剩最后一类：石 ——
+下一件换到石：[[instrument:bianqing|编磬]]。
+它与[[instrument:bianzhong|编钟]]是一对："金声玉振"讲的就是这两件，
 而它把本批的问题推到一个更硬的地方：
-**被敲响的不是金属、不是膜、不是木，而是一块石头 —— 那么"音高"到底能被刻得多准？**
+被敲响的不是金属、不是膜、不是木，而是一块石头 —— 那么"音高"到底能被刻得多准？
+
 :::
 
 ::: en
@@ -274,15 +275,15 @@ And it solves a problem that looks impossible:
 > ⚠️ **Why can a wind instrument sound several notes at once?**
 > | | What sounds | Pitch set by | Notes from one pipe |
 > |---|---|---|---|
-> | [[instrument:dizi\|Dizi]] | **an air column** | column length | **one** |
-> | [[instrument:xun\|Xun]] | **air in a cavity** | volume ÷ open area | **one** |
-> | **Sheng** | **a reed (the pipe merely couples)** | **the reed itself** | **one per pipe — press several, sound several** |
+> | [[instrument:dizi\|Dizi]] | **an air column** | column length | one |
+> | [[instrument:xun\|Xun]] | air in a cavity | volume ÷ open area | one |
+> | Sheng | a reed (the pipe merely couples) | the reed itself | one per pipe — press several, sound several |
 >
-> **The key is that last row**: **the note is not made by the pipe but by the reed.**
-> Every sheng pipe holds its own reed — **"one reed, one note"**.
-> So **pressing several pipes sounds several notes at once**, with no physical conflict whatever.
+> The key is that last row: the note is not made by the pipe but by the reed.
+> Every sheng pipe holds its own reed — "one reed, one note".
+> So pressing several pipes sounds several notes at once, with no physical conflict whatever.
 >
-> **The rule "one pipe, one note" simply fails on the sheng** — because **the pipe was never what sounded.**
+> The rule "one pipe, one note" simply fails on the sheng — because the pipe was never what sounded.
 
 | Classification | Value |
 |---|---|
@@ -340,12 +341,12 @@ And it solves a problem that looks impossible:
 
 Three points:
 
-1. **The pipes differ in length, but length does not set the pitch.** Each pipe has an **outlet window** above, a
-   **finger hole** below and a **foot** holding a reed inside — **the reed sets the pitch; the pipe provides
+1. The pipes differ in length, but length does not set the pitch. Each pipe has an outlet window above, a
+   finger hole below and a foot holding a reed inside — **the reed sets the pitch; the pipe provides
    resonance and colour.**
-2. **"One reed, one note."** Each pipe carries an independent reed, making this a **naturally polyphonic
+2. "One reed, one note." Each pipe carries an independent reed, making this a **naturally polyphonic
    instrument**.
-3. **The wind chest was originally a gourd.** That is the character the bayin records — after the Tang the chest
+3. The wind chest was originally a gourd. That is the character the bayin records — after the Tang the chest
    became wood and later bronze, but the classification is inherited (exactly as the
    [[instrument:guqin|guqin]]'s "silk" is).
 
@@ -384,14 +385,14 @@ Three points:
 </svg>
 ```
 
-**The left half answers "several notes"**: **every pipe pressed sounds, none interfering with another** — which
-makes the sheng **the only traditional Chinese wind instrument that can play harmony**. Its traditional chords lean
-on **fifths and octaves** (occasionally thirds and fourths), which gives it a special place in ensembles: **a
+The left half answers "several notes": every pipe pressed sounds, none interfering with another — which
+makes the sheng the only traditional Chinese wind instrument that can play harmony. Its traditional chords lean
+on fifths and octaves (occasionally thirds and fourths), which gives it a special place in ensembles: **a
 blend of harmony and colour.**
 
-**The right half answers "sound on both blow and draw"**: **a free reed vibrates regardless of airflow
-direction**. That single property gives it two abilities: **① every note can be played on either an out-breath or
-an in-breath** (so the breath need never stop); **② it makes possible the sheng's own technique of "drawn flutter
+The right half answers "sound on both blow and draw": **a free reed vibrates regardless of airflow
+direction. That single property gives it two abilities: ① every note can be played on either an out-breath or
+an in-breath (so the breath need never stop); ② it makes possible the sheng's own technique of "drawn flutter
 tonguing"** — the only wind instrument that can flutter-tongue while inhaling.
 
 ## Range
@@ -400,25 +401,25 @@ tonguing"** — the only wind instrument that can flutter-tongue while inhaling.
 {"range":"G3–G6","caption":"笙的音域（以三十六簧笙为例 · 示意）","caption_en":"Sheng range — a 36-reed sheng as the example (indicative)","note":"笙属气鸣乐器（自由簧 + 簧管耦合）。音域随簧数变化很大：传统笙多为十三 · 十四 · 十七簧，约一个半到两个八度；20 世纪后出现二十一 · 二十四 · 三十六 · 三十七簧等形制，可覆盖两个半到三个八度。此处按三十六簧笙取 G3–G6（三个八度）示意 —— 各形制簧数不同，本图不代表所有笙。记谱即实音。"}
 ```
 
-- **The range is set by reed count**, and that count has only ever gone up: **13 → 17 → 21 → 24 → 36 → 37**.
+- The range is set by reed count, and that count has only ever gone up: 13 → 17 → 21 → 24 → 36 → 37.
   Exactly the same logic as a [[instrument:dizi|dizi]] gaining holes or a [[instrument:pipa|pipa]] gaining frets:
-  **more positions means more range.**
-- **It does not overblow to extend.** Unlike the dizi, **the ceiling is fixed by how many reeds were fitted** — no
+  more positions means more range.
+- It does not overblow to extend. Unlike the dizi, the ceiling is fixed by how many reeds were fitted — no
   amount of extra pressure adds a note.
-- **Blow or draw** means **the breath never has to stop**, which makes it ideal for long notes and harmonic
+- Blow or draw means the breath never has to stop, which makes it ideal for long notes and harmonic
   accompaniment.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **A "reed-plus-pipe" colour** — the reed's brightness layered over the bamboo's roundness. This combination is
+1. A "reed-plus-pipe" colour — the reed's brightness layered over the bamboo's roundness. This combination is
    what gives it away.
-2. **Not loud, and narrow in dynamics.** It wins on **colour and chord**, not on volume.
-3. **Naturally plural.** Traditional playing presses several holes together, so **what you hear is often a small
+2. Not loud, and narrow in dynamics. It wins on colour and chord, not on volume.
+3. Naturally plural. Traditional playing presses several holes together, so **what you hear is often a small
    cluster rather than a line.**
-4. **It blends.** In an ensemble it **mixes easily with other instruments**, which is why it is given the job of
-   **blending the band's colour and filling out its sound**.
+4. It blends. In an ensemble it mixes easily with other instruments, which is why it is given the job of
+   blending the band's colour and filling out its sound.
 
 ```audiolab
 {"type":"instrument","gm":"Harmonica","synth":"reed","phrase":["C4","E4","G4","C5","A4","G4"],"label":"笙的常用区：C4 到 C5","label_en":"The sheng's working register — C4 up to C5","hint":"注意簧片的清亮与竹管的圆润叠在一起 —— 通用音色表里没有笙，这里借同属自由簧、同样靠呼吸发声的口琴近似","hint_en":"Hear the reed's brightness layered with the pipes' roundness. General MIDI has no sheng, so a harmonica — another breath-driven free reed — stands in."}
@@ -426,15 +427,15 @@ Four cues:
 
 ## Playing techniques
 
-- **Blowing and drawing are both "playing".** This is its most distinctive point: **a draw is not a breath, it is
+- Blowing and drawing are both "playing". This is its most distinctive point: **a draw is not a breath, it is
   another direction of performance.**
-- **The traditional four: blow · draw · vibrato · slide.** Modern players add double and triple tonguing, flutter
+- The traditional four: blow · draw · vibrato · slide. Modern players add double and triple tonguing, flutter
   tonguing and breath tremolo.
-- **Drawn flutter tonguing** — **the only wind instrument that can flutter-tongue on the in-breath**, a gift of the
+- Drawn flutter tonguing — the only wind instrument that can flutter-tongue on the in-breath, a gift of the
   free reed's symmetry.
-- **Chords are learned as combinations.** Traditional playing presses several holes at once, so fingerings are
-  learned **in groups**, not one note at a time.
-- **Usually on harmonic duty** in ensembles and opera bands: filling in chords and cementing the colour.
+- Chords are learned as combinations. Traditional playing presses several holes at once, so fingerings are
+  learned in groups, not one note at a time.
+- Usually on harmonic duty in ensembles and opera bands: filling in chords and cementing the colour.
 
 ## The family
 
@@ -447,9 +448,9 @@ Four cues:
 | [[instrument:dizi\|Dizi]] | **air column** | column length | no | bamboo |
 | [[instrument:xun\|Xun]] | **air in a cavity** | volume ÷ open area | no | earth |
 
-**This family spans East and West, and its root is in China**:
+This family spans East and West, and its root is in China:
 **sheng → (westward in the 18th century) → harmonica · reed organ · accordion · organ reed stops.**
-**One question sorts the whole family**: **"is it a reed vibrating freely in an airflow?"**
+One question sorts the whole family: "is it a reed vibrating freely in an airflow?"
 
 ## History
 
@@ -465,29 +466,29 @@ Four cues:
 | **18th century** | **travels west to Europe** — its free-reed construction **strongly influenced the invention of the reed organ, harmonica and accordion** |
 | 20th c. | major redesign: **21 · 24 · 36 · 37-reed** models, keyboard and keyed shengs; the wind chest changed from a fixed to a movable type |
 
-**The historical fact to remember**: **most of the world's reed instruments can be traced back to this Chinese
-bamboo-pipe instrument.** **Something already named in Shang oracle bones eventually rewrote the world's instrument
-map** — and the key was simply **a strip of reed free to vibrate**.
+The historical fact to remember: **most of the world's reed instruments can be traced back to this Chinese
+bamboo-pipe instrument. Something already named in Shang oracle bones eventually rewrote the world's instrument
+map — and the key was simply a strip of reed free to vibrate**.
 
 ## Common misconceptions
 
-- **"A sheng works like a dizi, on air in a pipe."** The opposite: **the reed sounds and the pipe merely couples as
-  a resonator.** The proof is in the range — **a dizi extends by overblowing; a sheng gains nothing from blowing
+- "A sheng works like a dizi, on air in a pipe." The opposite: **the reed sounds and the pipe merely couples as
+  a resonator. The proof is in the range — a dizi extends by overblowing; a sheng gains nothing from blowing
   harder.**
-- **"A wind instrument can only sound one note."** True of dizi, xiao and xun; **not of the sheng**: **one reed, one
+- "A wind instrument can only sound one note." True of dizi, xiao and xun; not of the sheng: **one reed, one
   note, and pressing several pipes sounds several** — it is a harmonic instrument.
-- **"Drawing is just breathing."** On the sheng, **a draw is a direction of performance**, and **only the sheng can
+- "Drawing is just breathing." On the sheng, a draw is a direction of performance, and **only the sheng can
   flutter-tongue while inhaling.**
-- **"The chest is wooden, so why is it in the gourd category?"** As with the guqin's silk: **the bayin records the
-  original material** (gourd); the chest became wood and then bronze, and **the classification is inherited.**
-- **"It is a small instrument with little influence."** It is **the world's earliest free-reed instrument** — most
+- "The chest is wooden, so why is it in the gourd category?" As with the guqin's silk: **the bayin records the
+  original material (gourd); the chest became wood and then bronze, and the classification is inherited.**
+- "It is a small instrument with little influence." It is the world's earliest free-reed instrument — most
   reed instruments today (harmonica, reed organ, accordion, organ reed stops) are in its lineage.
-- **"It is only an accompanist."** It is often on harmonic duty, but it is equally a solo instrument; by 1956 it had
+- "It is only an accompanist." It is often on harmonic duty, but it is equally a solo instrument; by 1956 it had
   reached the international stage as a soloist.
 
 ## Next
 
-**The gourd category is complete** (the sheng). One bayin category remains: **stone** — and the next instrument
+The gourd category is complete (the sheng). One bayin category remains: stone — and the next instrument
 turns to it: the [[instrument:bianqing|bianqing]].
 It is the partner of the [[instrument:bianzhong|bianzhong]] — "metal sounding, jade ringing" refers to this pair —
 and it pushes the batch's question somewhere harder: **what vibrates is neither metal, skin nor wood, but a slab of

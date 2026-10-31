@@ -48,10 +48,10 @@ updated: 2026-09-26
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，次中音萨克斯不在其中 |
 
 > ⚠️ **一个概念上的要点**：**同是降 B 调，萨克斯族里也有两种偏移。**
-> [[instrument:soprano-saxophone|高音萨克斯]]记谱比实音高**大二度**，
-> 次中音萨克斯记谱比实音高**大九度**（= 高音萨克斯的偏移再加一个八度）。
-> 两者的**谱面完全一样**（都是 B♭3–F♯6），差别只在**实际出声低了整整一个八度**。
-> 这就是"一套指法走全族"的代价：**换支之后，谱面不变，声音全变。**
+> [[instrument:soprano-saxophone|高音萨克斯]]记谱比实音高大二度，
+> 次中音萨克斯记谱比实音高大九度（= 高音萨克斯的偏移再加一个八度）。
+> 两者的谱面完全一样（都是 B♭3–F♯6），差别只在实际出声低了整整一个八度。
+> 这就是"一套指法走全族"的代价：换支之后，谱面不变，声音全变。
 
 ## 结构：比中音大一圈
 
@@ -92,7 +92,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-要点很短：**同一种结构，放大一圈**。
+要点很短：同一种结构，放大一圈。
 萨克斯族的四支本质上是一个模子按比例放大 —— 所以指法通用、音色递变。
 这与[[instrument:clarinet|单簧管族]]（三支各有不同的记谱偏移）形成鲜明对照。
 
@@ -118,13 +118,13 @@ updated: 2026-09-26
 </svg>
 ```
 
-**为什么独奏常由次中音担任？** 三个原因：
+为什么独奏常由次中音担任？ 三个原因：
 
-- **音区最接近人声**。它的常用区（实音 A♭2–E5）正好落在人声的舒适范围，
+- 音区最接近人声。它的常用区（实音 A♭2–E5）正好落在人声的舒适范围，
   听起来像"有人在唱"。
-- **管径够粗、又不过分粗**。低音有厚度，高音仍能"喊"出来 ——
+- 管径够粗、又不过分粗。低音有厚度，高音仍能"喊"出来 ——
   中音萨克斯偏亮、上低音萨克斯太笨重，都缺这个平衡点。
-- **气声与嘶声（growl / subtone）最容易做**。爵士里那些"沙哑"的效果，
+- 气声与嘶声（growl / subtone）最容易做。爵士里那些"沙哑"的效果，
   在次中音上最自然。
 
 ## 音域
@@ -133,21 +133,21 @@ updated: 2026-09-26
 {"range":"A♭2–E5","written":"B♭3–F♯6","common":"A♭2–C5","caption":"次中音萨克斯的记谱音域与实音音域","caption_en":"The tenor saxophone: notated range above, sounding range below","note":"⚠️ 次中音萨克斯是降 B 调移调乐器 —— 记谱比实音高大九度（一个八度 + 大二度）。谱面写 B♭3–F♯6，实际出声 A♭2–E5。"}
 ```
 
-- **实音 A♭2–E5**，比[[instrument:alto-saxophone|中音萨克斯]]低一个纯四度左右。
-- **常用区 A♭2–C5**，其中 A♭2–A♭3 这一段是它最厚的部分。
-- **注意谱面那两行**：**与萨克斯族其他三支完全相同**。
+- 实音 A♭2–E5，比[[instrument:alto-saxophone|中音萨克斯]]低一个纯四度左右。
+- 常用区 A♭2–C5，其中 A♭2–A♭3 这一段是它最厚的部分。
+- 注意谱面那两行：与萨克斯族其他三支完全相同。
   演奏者读同一份谱，拿不同的支，就得到不同的音高。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **厚、暗、带"沙"**。它比中音萨克斯多一层低频的"毛边"，
+1. 厚、暗、带"沙"。它比中音萨克斯多一层低频的"毛边"，
    听起来更像一个低沉的男声。
-2. **高音区能"喊"**。上到 C5 附近时，它可以做出很有攻击性的亮音 ——
+2. 高音区能"喊"。上到 C5 附近时，它可以做出很有攻击性的亮音 ——
    爵士里的高潮段落常用这一段。
-3. **气声（subtone）最自然**。低音区放松口型可以得到近乎耳语的音色。
-4. **嘶声（growl）的招牌**。一边吹一边用喉咙发出低吼，得到粗糙的颤音 ——
+3. 气声（subtone）最自然。低音区放松口型可以得到近乎耳语的音色。
+4. 嘶声（growl）的招牌。一边吹一边用喉咙发出低吼，得到粗糙的颤音 ——
    这是次中音萨克斯最独特的效果之一。
 
 ```audiolab
@@ -156,13 +156,13 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-技法与[[instrument:alto-saxophone|中音萨克斯]]完全一致（同族同指法），差别在**气息与体量**：
+技法与[[instrument:alto-saxophone|中音萨克斯]]完全一致（同族同指法），差别在气息与体量：
 
-- **耗气更多**。管更粗更长，维持同样的音量需要更大的气流。
-- **持握更沉**。颈带承重更多，长时间演奏对手臂与颈肩有实际负担。
-- **嘶声与气声更容易**。管径较粗，喉咙的振动更容易传进管内 ——
+- 耗气更多。管更粗更长，维持同样的音量需要更大的气流。
+- 持握更沉。颈带承重更多，长时间演奏对手臂与颈肩有实际负担。
+- 嘶声与气声更容易。管径较粗，喉咙的振动更容易传进管内 ——
   这也是它在爵士里表现力更强的原因。
-- **超吹（altissimo）** 在次中音上尤其常见，是爵士独奏的常规手段。
+- 超吹（altissimo） 在次中音上尤其常见，是爵士独奏的常规手段。
 
 ## 家族与近亲
 
@@ -174,9 +174,9 @@ updated: 2026-09-26
 | [[instrument:baritone-saxophone\|上低音]] | E♭ | 高大十三度 | D♭2–A♭4 | 声部的底 |
 | [[instrument:bass-clarinet\|低音单簧管]] | B♭ | 高大九度 | D♭2–F5 | 低音——**偏移相同但管形不同** |
 
-**注意最后一行**：次中音萨克斯与低音单簧管的**记谱偏移完全相同**（都是高大九度），
-但一个是**圆锥管 + 单簧**、一个是**圆柱管 + 单簧** ——
-所以一个音区平滑，一个音区分裂。**偏移相同 ≠ 音响相同。**
+注意最后一行：次中音萨克斯与低音单簧管的记谱偏移完全相同（都是高大九度），
+但一个是圆锥管 + 单簧、一个是圆柱管 + 单簧 ——
+所以一个音区平滑，一个音区分裂。偏移相同 ≠ 音响相同。
 
 ## 历史演变
 
@@ -190,23 +190,24 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- **"次中音萨克斯与中音萨克斯是同一件乐器，只是大小不同。"** 结构相同、指法通用，
-  但**记谱偏移不同**（高大九度 vs 高大六度）、音区不同、表现力侧重也不同。
-- **"它是 B♭ 调，所以与单簧管一样。"** 调性相同，但**管形不同**（圆锥 vs 圆柱），
+- "次中音萨克斯与中音萨克斯是同一件乐器，只是大小不同。" 结构相同、指法通用，
+  但记谱偏移不同（高大九度 vs 高大六度）、音区不同、表现力侧重也不同。
+- "它是 B♭ 调，所以与单簧管一样。" 调性相同，但管形不同（圆锥 vs 圆柱），
   超吹与音区行为完全相反。
-- **"萨克斯族里高音与次中音都用 B♭ 调，谱面可以互换。"** **谱面确实完全一样** ——
-  这正是指法通用的原理，但**实际出声相差整整一个八度**。
-- **"它只用在爵士里。"** 它也是管乐团的中低音声部、流行乐与电影配乐的常用音色。
-- **"大乐队里萨克斯有四五支，是随意编的。"** 标准编制是**两支中音 + 两支次中音 + 一支上低音**，
+- "萨克斯族里高音与次中音都用 B♭ 调，谱面可以互换。" 谱面确实完全一样 ——
+  这正是指法通用的原理，但实际出声相差整整一个八度。
+- "它只用在爵士里。" 它也是管乐团的中低音声部、流行乐与电影配乐的常用音色。
+- "大乐队里萨克斯有四五支，是随意编的。" 标准编制是两支中音 + 两支次中音 + 一支上低音，
   这个配置兼顾了亮度、厚度与低音。
 
 ## 下一步
 
-萨克斯族里还剩**最低**的一支：[[instrument:baritone-saxophone|上低音萨克斯]] ——
+萨克斯族里还剩最低的一支：[[instrument:baritone-saxophone|上低音萨克斯]] ——
 它折返两次、体量最大，是萨克斯声部的地基。
 
 想回到族内的"高"端，就去看 [[instrument:soprano-saxophone|高音萨克斯]]；
 想把族内四支一次看全，[[instrument:alto-saxophone|中音]] 那一页有完整的音域阶梯图。
+
 :::
 
 ::: en
@@ -226,8 +227,8 @@ plus a major second) — exactly the same as the [[instrument:bass-clarinet|bass
 
 > ⚠️ **One conceptual point**: **the saxophone family uses two different shifts even among its B♭
 > members.** The [[instrument:soprano-saxophone|soprano]] is written a **major second** above sounding;
-> the tenor is written a **major ninth** above (the soprano's shift plus an octave). Their **pages are
-> identical** (both B♭3–F♯6); the difference is that one sounds **a full octave lower**.
+> the tenor is written a major ninth above (the soprano's shift plus an octave). Their **pages are
+> identical (both B♭3–F♯6); the difference is that one sounds a full octave lower**.
 > That is the price of "one fingering chart for the family": **change the instrument and the page stays
 > the same while the sound changes completely.**
 
@@ -270,7 +271,7 @@ plus a major second) — exactly the same as the [[instrument:bass-clarinet|bass
 </svg>
 ```
 
-The point is short: **the same structure, one size larger.**
+The point is short: the same structure, one size larger.
 The four saxophones are essentially one design scaled up, which is why the fingerings transfer and the
 colour changes by degree. That is in sharp contrast to the [[instrument:clarinet|clarinet family]], whose
 three members each transpose differently.
@@ -297,13 +298,13 @@ three members each transpose differently.
 </svg>
 ```
 
-**Why is the solo usually a tenor?** Three reasons:
+Why is the solo usually a tenor? Three reasons:
 
-- **Its register is closest to a human voice.** The working range (sounding A♭2–E5) sits right in a
+- Its register is closest to a human voice. The working range (sounding A♭2–E5) sits right in a
   singer's comfort zone, so it sounds like someone singing.
-- **Its bore is wide enough, but not too wide.** It has weight low down and can still cry out at the top —
+- Its bore is wide enough, but not too wide. It has weight low down and can still cry out at the top —
   the alto is too bright, the baritone too unwieldy, and neither holds this balance.
-- **Subtone and growl come most naturally here.** The husky effects of jazz are easiest on a tenor.
+- Subtone and growl come most naturally here. The husky effects of jazz are easiest on a tenor.
 
 ## Range
 
@@ -311,21 +312,21 @@ three members each transpose differently.
 {"range":"A♭2–E5","written":"B♭3–F♯6","common":"A♭2–C5","caption":"次中音萨克斯的记谱音域与实音音域","caption_en":"The tenor saxophone: notated range above, sounding range below","note":"⚠️ 次中音萨克斯是降 B 调移调乐器 —— 记谱比实音高大九度（一个八度 + 大二度）。谱面写 B♭3–F♯6，实际出声 A♭2–E5。"}
 ```
 
-- **Sounding A♭2–E5**, about a perfect fourth below an [[instrument:alto-saxophone|alto]].
-- **The working register is A♭2–C5**, with A♭2–A♭3 the thickest part.
-- **Note the written lines**: **identical to the other three saxophones.** The player reads one page, picks
+- Sounding A♭2–E5, about a perfect fourth below an [[instrument:alto-saxophone|alto]].
+- The working register is A♭2–C5, with A♭2–A♭3 the thickest part.
+- Note the written lines: identical to the other three saxophones. The player reads one page, picks
   up a different member, and gets a different pitch.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **Thick, dark, slightly hoarse** — a layer of low-frequency fuzz compared with an alto, sounding more
+1. Thick, dark, slightly hoarse — a layer of low-frequency fuzz compared with an alto, sounding more
    like a deep male voice.
-2. **It can cry out at the top.** Around C5 it produces an aggressive brightness, a favourite for jazz
+2. It can cry out at the top. Around C5 it produces an aggressive brightness, a favourite for jazz
    climaxes.
-3. **Subtone is most natural here.** Relaxing the embouchure low down yields a near-whisper.
-4. **Growl is its trademark**: humming in the throat while playing gives a rough, buzzing vibrato — one of
+3. Subtone is most natural here. Relaxing the embouchure low down yields a near-whisper.
+4. Growl is its trademark: humming in the throat while playing gives a rough, buzzing vibrato — one of
    the instrument's most distinctive effects.
 
 ```audiolab
@@ -335,13 +336,13 @@ Four cues:
 ## Playing techniques
 
 The technique is identical to the [[instrument:alto-saxophone|alto saxophone]] (same family, same
-fingerings); the differences are **air and bulk**:
+fingerings); the differences are air and bulk:
 
-- **It takes more air** — a wider, longer tube needs a larger stream for the same volume.
-- **It is heavier**, so the neck strap carries more and long playing costs the arms and shoulders.
-- **Growl and subtone come more easily**, since a wider tube carries the throat's vibration better — part of
+- It takes more air — a wider, longer tube needs a larger stream for the same volume.
+- It is heavier, so the neck strap carries more and long playing costs the arms and shoulders.
+- Growl and subtone come more easily, since a wider tube carries the throat's vibration better — part of
   why it is more expressive in jazz.
-- **Altissimo** is especially common on the tenor and a standard jazz device.
+- Altissimo is especially common on the tenor and a standard jazz device.
 
 ## The family
 
@@ -353,9 +354,9 @@ fingerings); the differences are **air and bulk**:
 | [[instrument:baritone-saxophone\|Baritone]] | E♭ | a major thirteenth above | D♭2–A♭4 | the section's floor |
 | [[instrument:bass-clarinet\|Bass clarinet]] | B♭ | a major ninth above | D♭2–F5 | low — **same shift, different bore** |
 
-**Note the last line**: the tenor saxophone and the bass clarinet share **exactly the same shift** (a major
-ninth), but one is a **conical tube with a single reed** and the other **cylindrical with a single reed** —
-so one blends registers and the other splits them. **The same shift does not mean the same sound.**
+Note the last line: the tenor saxophone and the bass clarinet share exactly the same shift (a major
+ninth), but one is a conical tube with a single reed and the other cylindrical with a single reed —
+so one blends registers and the other splits them. The same shift does not mean the same sound.
 
 ## History
 
@@ -369,16 +370,16 @@ so one blends registers and the other splits them. **The same shift does not mea
 
 ## Common misconceptions
 
-- **"The tenor and the alto are the same instrument in two sizes."** Same structure, shared fingerings, but
-  a **different shift** (a major ninth versus a major sixth), a different register, and a different
+- "The tenor and the alto are the same instrument in two sizes." Same structure, shared fingerings, but
+  a different shift (a major ninth versus a major sixth), a different register, and a different
   expressive focus.
-- **"It is in B♭, so it is like a clarinet."** Same key, **different bore** (conical versus cylindrical), so
+- "It is in B♭, so it is like a clarinet." Same key, different bore (conical versus cylindrical), so
   overblowing and register behaviour are opposites.
-- **"Soprano and tenor are both in B♭, so the parts interchange."** The **pages are indeed identical** —
-  that is exactly why the fingerings transfer — but the **sound is a full octave apart**.
-- **"It is only used in jazz."** It also carries the middle of wind bands and is a regular voice in pop and
+- "Soprano and tenor are both in B♭, so the parts interchange." The pages are indeed identical —
+  that is exactly why the fingerings transfer — but the sound is a full octave apart.
+- "It is only used in jazz." It also carries the middle of wind bands and is a regular voice in pop and
   film scores.
-- **"A big band's sax section is whatever the arranger chose."** The standard is **two altos, two tenors and
+- "A big band's sax section is whatever the arranger chose." The standard is **two altos, two tenors and
   a baritone**, balancing brightness, weight and bass.
 
 ## Next

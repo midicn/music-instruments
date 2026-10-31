@@ -45,11 +45,11 @@ updated: 2026-09-26
 > 弓杆在上、马尾在下，两根弦正好夹在中间。
 >
 > 于是出现了一连串西方弦乐没有的后果：
-> **它无法"用弓敲一下再放回去"，也无法让两根弦完全不发声地休息。**
-> 弓永远在弦里，**拉奏是它唯一的主要发声方式**。
+> 它无法"用弓敲一下再放回去"，也无法让两根弦完全不发声地休息。
+> 弓永远在弦里，拉奏是它唯一的主要发声方式。
 >
 > 作为交换，它也得到一件小提琴做不到的事：
-> **换弦（从内弦到外弦）几乎是瞬间的** —— 因为两根弦就在同一束弓毛的两侧。
+> 换弦（从内弦到外弦）几乎是瞬间的 —— 因为两根弦就在同一束弓毛的两侧。
 
 | 分类 | 归属 |
 |---|---|
@@ -97,16 +97,16 @@ updated: 2026-09-26
 
 三处要点：
 
-1. **弓毛在两弦之间**。这是它与[[instrument:violin|小提琴]]最根本的差别：
+1. 弓毛在两弦之间。这是它与[[instrument:violin|小提琴]]最根本的差别：
    小提琴的弓可以抬起来、可以敲击、可以完全离开弦；
-   **二胡的弓是"穿"在乐器里的**。所以它**几乎没有"不发声"的状态**，
-   音乐天生是**连成一片**的。
-2. **琴筒蒙蟒皮**。注意：蟒皮**不是**它成为"膜鸣乐器"的理由 ——
-   判据仍然是**什么在振动**：**振动的是弦**，蟒皮是**共鸣体**，
-   它给二胡带来那种**略带鼻音、接近人声**的音色，也让它对**天气**很敏感
+   二胡的弓是"穿"在乐器里的。所以它几乎没有"不发声"的状态，
+   音乐天生是连成一片的。
+2. 琴筒蒙蟒皮。注意：蟒皮不是它成为"膜鸣乐器"的理由 ——
+   判据仍然是什么在振动：振动的是弦，蟒皮是共鸣体，
+   它给二胡带来那种略带鼻音、接近人声的音色，也让它对天气很敏感
    （皮膜的松紧随湿度与温度变化）。
-3. **无指板、无品**。手指按在**悬空的弦**上 —— 音高是**连续的线**，
-   所以**滑音**是二胡最核心的语言（这一点与[[instrument:guqin|古琴]]相同，
+3. 无指板、无品。手指按在悬空的弦上 —— 音高是连续的线，
+   所以滑音是二胡最核心的语言（这一点与[[instrument:guqin|古琴]]相同，
    但一个是拨、一个是擦）。
 
 ## 两根弦，三个八度
@@ -139,15 +139,15 @@ updated: 2026-09-26
 </svg>
 ```
 
-**这就是"两根弦能拉出三个八度"的道理**：
-两条音域带**错开一个纯五度**，互相搭接 —— 于是合起来覆盖 D4 到 A6。
+这就是"两根弦能拉出三个八度"的道理：
+两条音域带错开一个纯五度，互相搭接 —— 于是合起来覆盖 D4 到 A6。
 
-**"换把"因此成为二胡最核心的技术之一**：左手不只是按弦，
-还要**整体沿琴杆移动**。而这带来一个技术后果：
-**把位之间有"缝"** —— 跨把位的音必须靠**滑音**连起来，
-**滑音于是从"装饰"变成了二胡的语法。**
+"换把"因此成为二胡最核心的技术之一：左手不只是按弦，
+还要整体沿琴杆移动。而这带来一个技术后果：
+把位之间有"缝" —— 跨把位的音必须靠滑音连起来，
+滑音于是从"装饰"变成了二胡的语法。
 
-*（历史对比很惊人：**刘天华改革之前，二胡的音域只有九度**，
+*（历史对比很惊人：刘天华改革之前，二胡的音域只有九度，
 把位只有一个 —— 连稍复杂的旋律都拉不了。）*
 
 ## 音域
@@ -156,23 +156,23 @@ updated: 2026-09-26
 {"range":"D4–A6","common":"D4–D5","caption":"二胡的音域与定弦","caption_en":"Erhu range and tuning","note":"二胡属弦鸣乐器（擦弦，无品无指板）。内弦空弦 D4、外弦空弦 A4（相隔纯五度）。刘天华改革之前音域只有九度、只有一个把位；把位增至五个后，有效音域扩展到三个八度左右，分低 · 中 · 高 · 最高四个音区。本图取常用音域 D4–A6。千斤至琴码的距离通常固定在 46–48 厘米。记谱即实音。"}
 ```
 
-- **内弦 D4 · 外弦 A4**（相隔**纯五度**）—— 这是刘天华定下的统一标准，
-   也是二胡能进乐队的前提（**音高不统一，就没法与别人合奏**）。
-- **常用区 D4–D5**：第一、二把位，绝大多数旋律在这里。
-- **改革前后是两个乐器**：**九度 → 三个八度**，把位 **一个 → 五个**。
-  这不是"工艺进步"，而是**把一件民间伴奏乐器改造成了独奏乐器**。
+- 内弦 D4 · 外弦 A4（相隔纯五度）—— 这是刘天华定下的统一标准，
+   也是二胡能进乐队的前提（音高不统一，就没法与别人合奏）。
+- 常用区 D4–D5：第一、二把位，绝大多数旋律在这里。
+- 改革前后是两个乐器：九度 → 三个八度，把位 一个 → 五个。
+  这不是"工艺进步"，而是把一件民间伴奏乐器改造成了独奏乐器。
 
 ## 音色与听辨
 
 四条线索：
 
-1. **最像人声的中国乐器**。中高音区集中、略带鼻音 ——
+1. 最像人声的中国乐器。中高音区集中、略带鼻音 ——
    所以它常被用来"唱"（《二泉映月》原本就像一声叹息）。
-2. **连成一片的线条**。弓永远在弦里 → 几乎没有真正的间断；
-   句子靠**运弓的呼吸**与**滑音**分开。
-3. **滑音是语法，不是装饰**。换把的"缝"、无品带来的连续音高 ——
+2. 连成一片的线条。弓永远在弦里 → 几乎没有真正的间断；
+   句子靠运弓的呼吸与滑音分开。
+3. 滑音是语法，不是装饰。换把的"缝"、无品带来的连续音高 ——
    两者合起来让滑音成为二胡最有辨识度的语言。
-4. **音色会随天气变**。蟒皮的松紧受湿度与温度影响 ——
+4. 音色会随天气变。蟒皮的松紧受湿度与温度影响 ——
    这是演奏者每天都要面对的现实。
 
 ```audiolab
@@ -181,12 +181,12 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- **右手运弓**。因为弓取不下来，**换弦几乎瞬间完成**，
-  而**顿弓 · 跳弓**这类"让弓离开弦"的技巧在二胡上要绕路实现。
-- **左手按弦 + 换把**。无指板 → 音高连续；换把 → 把位之间有缝，靠滑音过渡。
-- **揉弦**。刘天华把小提琴的**揉弦**引入二胡 —— 这是它表现力的一次跃升。
-- **有"拨弦"但不能取代弓**。弓在弦里，所以拨弦只能作为色彩使用。
-- **内外弦是两种音色**。内弦厚、外弦亮 —— 同一旋律在两条弦上拉，味道不同，
+- 右手运弓。因为弓取不下来，换弦几乎瞬间完成，
+  而顿弓 · 跳弓这类"让弓离开弦"的技巧在二胡上要绕路实现。
+- 左手按弦 + 换把。无指板 → 音高连续；换把 → 把位之间有缝，靠滑音过渡。
+- 揉弦。刘天华把小提琴的揉弦引入二胡 —— 这是它表现力的一次跃升。
+- 有"拨弦"但不能取代弓。弓在弦里，所以拨弦只能作为色彩使用。
+- 内外弦是两种音色。内弦厚、外弦亮 —— 同一旋律在两条弦上拉，味道不同，
    这是二胡写作里常用的手段。
 
 ## 家族与近亲
@@ -200,10 +200,10 @@ updated: 2026-09-26
 | [[instrument:dizi\|笛子]] | — | 指孔 | — | 开闭指孔（气鸣） |
 | [[instrument:bianzhong\|编钟]] | — | — | — | 敲击不同大小的钟 |
 
-**同一批器物，两张地图**：
-这一族在**八音**里都属于**丝**（弦），
-而在 **HS** 里，"拨弦"与"擦弦"是**两个不同的类别**。
-**八音不区分"怎么让弦响"，HS 区分** —— 这就是两套体系最直观的差别。
+同一批器物，两张地图：
+这一族在八音里都属于丝（弦），
+而在 HS 里，"拨弦"与"擦弦"是两个不同的类别。
+八音不区分"怎么让弦响"，HS 区分 —— 这就是两套体系最直观的差别。
 
 ## 历史演变
 
@@ -213,35 +213,36 @@ updated: 2026-09-26
 | 明清 | 随着**戏曲与说唱**兴起，各类胡琴广泛流传；二胡主要是**伴奏与合奏**乐器 |
 | 清末—民初 | 多在街头与民间班社中使用；音域窄、音准不统一、地位不高 |
 | 1920 年代 | **刘天华**改革二胡：琴筒改六角形 · 统一内 D 外 A · 把位增至五个 ·
-   音域由九度扩到三个八度 · 引入小提琴的揉弦与颤弓 → **二胡成为独奏乐器**；1922 年他进入北京大学音乐传习所教授二胡，把民乐带进高等院校 |
+   音域由九度扩到三个八度 · 引入小提琴的揉弦与颤弓 → 二胡成为独奏乐器；1922 年他进入北京大学音乐传习所教授二胡，把民乐带进高等院校 |
 | 20 世纪中叶 | **丝弦改为钢丝弦**，音量扩大；形制继续改进（扁筒 · 双千斤等） |
 | 今天 | 民族管弦乐队的旋律主力，也是独奏与协奏乐器；曲目从《二泉映月》到现代协奏曲 |
 
-**它最值得记住的一点**：**同一件乐器，在三十年内从"街头伴奏"变成了"独奏乐器"** ——
-而变化的起点不是材料或工艺，而是**一个人给它定了音、定了把位、写了曲子**。
+它最值得记住的一点：同一件乐器，在三十年内从"街头伴奏"变成了"独奏乐器" ——
+而变化的起点不是材料或工艺，而是一个人给它定了音、定了把位、写了曲子。
 
 ## 常见误解
 
-- **"二胡的弓和提琴的弓一样。"** 不一样：**二胡的弓取不下来**，
+- "二胡的弓和提琴的弓一样。" 不一样：二胡的弓取不下来，
   弓毛穿在两弦之间；提琴的弓可以随时离开。
-- **"琴筒蒙蟒皮，所以它是膜鸣乐器。"** **不是**。
-  判据是**什么在振动**：**振动的是弦**（弦鸣），蟒皮是**共鸣体**。
-- **"两根弦音域一定很窄。"** 现代二胡覆盖**三个八度**（D4–A6 常用）——
-   靠的是**换把**，不是弦数。**音域的上限由"手能移到哪里"决定，不由弦数决定。**
-- **"二胡只能拉悲的音乐。"** 它最著名的作品确实偏苍凉（《二泉映月》），
+- "琴筒蒙蟒皮，所以它是膜鸣乐器。" 不是。
+  判据是什么在振动：振动的是弦（弦鸣），蟒皮是共鸣体。
+- "两根弦音域一定很窄。" 现代二胡覆盖三个八度（D4–A6 常用）——
+   靠的是换把，不是弦数。音域的上限由"手能移到哪里"决定，不由弦数决定。
+- "二胡只能拉悲的音乐。" 它最著名的作品确实偏苍凉（《二泉映月》），
    但《赛马》《光明行》一类热烈明快的曲目同样是它的核心曲目。
-- **"它一直是独奏乐器。"** 在刘天华之前，它主要是**戏曲与说唱的伴奏乐器**；
+- "它一直是独奏乐器。" 在刘天华之前，它主要是戏曲与说唱的伴奏乐器；
    "独奏乐器"这个身份是 1920 年代才建立的。
-- **"八音说它是丝，所以不能用钢丝弦。"** 与[[instrument:guqin|古琴]]同一个道理：
-   **八音描述的是它诞生时的材料**，归属随传统沿用。
+- "八音说它是丝，所以不能用钢丝弦。" 与[[instrument:guqin|古琴]]同一个道理：
+   八音描述的是它诞生时的材料，归属随传统沿用。
 
 ## 下一步
 
-丝这一类还没走完：[[instrument:pipa|琵琶]]同样是"丝"，但它**有品** ——
+丝这一类还没走完：[[instrument:pipa|琵琶]]同样是"丝"，但它有品 ——
 于是音高从"连续的线"变回"一级一级的台阶"。
-**同一根弦，有品与无品，是两件乐器。**
+同一根弦，有品与无品，是两件乐器。
 而跨过丝与竹的边界之后，[[instrument:dizi|笛子]]会把这套讨论整个换掉：
-**那里没有弦，只有一根竹管里的空气。**
+那里没有弦，只有一根竹管里的空气。
+
 :::
 
 ::: en
@@ -306,15 +307,15 @@ choices**:
 
 Three points:
 
-1. **The hair sits between the strings.** This is the essential difference from the
+1. The hair sits between the strings. This is the essential difference from the
    [[instrument:violin|violin]]: a violinist can lift the bow, tap with it, or take it right away. **The erhu's bow
-   is threaded into the instrument.** So it has almost **no silent state**, and its music is continuous by nature.
-2. **The body is headed with python skin.** Note that this does **not** make it a membranophone — the test is still
-   **what vibrates**: **the strings vibrate**, and the skin is a **resonator**. It gives the erhu that slightly
-   nasal, voice-like colour, and makes it sensitive to **weather**, since the skin tightens and slackens with
+   is threaded into the instrument. So it has almost no silent state**, and its music is continuous by nature.
+2. The body is headed with python skin. Note that this does not make it a membranophone — the test is still
+   what vibrates: the strings vibrate, and the skin is a resonator. It gives the erhu that slightly
+   nasal, voice-like colour, and makes it sensitive to weather, since the skin tightens and slackens with
    humidity and temperature.
-3. **No fingerboard, no frets.** The fingers press on **strings suspended in air**, so pitch is a **continuous
-   line** and **slides** become the instrument's core language — the same geometry as the
+3. No fingerboard, no frets. The fingers press on strings suspended in air, so pitch is a **continuous
+   line and slides** become the instrument's core language — the same geometry as the
    [[instrument:guqin|guqin]], but plucked versus rubbed.
 
 ## Two strings, three octaves
@@ -347,15 +348,15 @@ Three points:
 </svg>
 ```
 
-**That is how two strings produce three octaves**: the two bands are **offset by a perfect fifth** and overlap, so
+That is how two strings produce three octaves: the two bands are offset by a perfect fifth and overlap, so
 together they cover D4 to A6.
 
-**"Shifting position" therefore becomes one of the erhu's core techniques**: the left hand does not merely press,
-it **travels bodily along the neck**. And that has an acoustic consequence: **there are seams between positions**,
-so notes that cross a position must be joined by a **slide** — **which is how the slide turned from an ornament
+"Shifting position" therefore becomes one of the erhu's core techniques: the left hand does not merely press,
+it travels bodily along the neck. And that has an acoustic consequence: there are seams between positions,
+so notes that cross a position must be joined by a slide — **which is how the slide turned from an ornament
 into the erhu's grammar.**
 
-*(The historical comparison is startling: **before Liu Tianhua's reforms the erhu's range was only a ninth**, with
+*(The historical comparison is startling: before Liu Tianhua's reforms the erhu's range was only a ninth, with
 a single position — it could not even play a moderately complex melody.)*
 
 ## Range
@@ -364,24 +365,24 @@ a single position — it could not even play a moderately complex melody.)*
 {"range":"D4–A6","common":"D4–D5","caption":"二胡的音域与定弦","caption_en":"Erhu range and tuning","note":"二胡属弦鸣乐器（擦弦，无品无指板）。内弦空弦 D4、外弦空弦 A4（相隔纯五度）。刘天华改革之前音域只有九度、只有一个把位；把位增至五个后，有效音域扩展到三个八度左右，分低 · 中 · 高 · 最高四个音区。本图取常用音域 D4–A6。千斤至琴码的距离通常固定在 46–48 厘米。记谱即实音。"}
 ```
 
-- **Inner string D4, outer A4** (a **perfect fifth** apart) — the standard Liu Tianhua fixed, and the precondition
-  for the erhu joining an ensemble: **without a standard pitch there is no playing together.**
-- **Working register D4–D5**: the first and second positions, where most melodies live.
-- **Before and after the reforms it is two different instruments**: **a ninth → three octaves**, positions
-  **one → five**. That is not a question of craftsmanship but of **turning a folk accompaniment instrument into a
+- Inner string D4, outer A4 (a perfect fifth apart) — the standard Liu Tianhua fixed, and the precondition
+  for the erhu joining an ensemble: without a standard pitch there is no playing together.
+- Working register D4–D5: the first and second positions, where most melodies live.
+- Before and after the reforms it is two different instruments: a ninth → three octaves, positions
+  one → five. That is not a question of craftsmanship but of **turning a folk accompaniment instrument into a
   solo instrument**.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. **The most voice-like Chinese instrument.** Focused upper-middle register with a slight nasality — which is why
-   it is often used to "sing" (**Reflection of the Moon on Erquan** is a sigh turned into sound).
-2. **A continuous line.** With the bow permanently in the instrument there is almost no real interruption; phrases
-   are marked by **the breath of the bow** and by **slides**.
-3. **Slides are grammar, not ornament.** The seams between positions plus fretless continuous pitch make the slide
+1. The most voice-like Chinese instrument. Focused upper-middle register with a slight nasality — which is why
+   it is often used to "sing" (Reflection of the Moon on Erquan is a sigh turned into sound).
+2. A continuous line. With the bow permanently in the instrument there is almost no real interruption; phrases
+   are marked by the breath of the bow and by slides.
+3. Slides are grammar, not ornament. The seams between positions plus fretless continuous pitch make the slide
    the erhu's signature.
-4. **Its sound changes with the weather.** Skin tightness follows humidity and temperature — a daily reality for
+4. Its sound changes with the weather. Skin tightness follows humidity and temperature — a daily reality for
    players.
 
 ```audiolab
@@ -390,13 +391,13 @@ Four cues:
 
 ## Playing techniques
 
-- **The right hand bows.** Because the bow cannot be removed, **crossing strings is nearly instantaneous**, while
+- The right hand bows. Because the bow cannot be removed, crossing strings is nearly instantaneous, while
   techniques that take the bow off the string — staccato, spiccato — have to be worked around.
-- **The left hand stops and shifts.** No fingerboard means continuous pitch; shifting means seams between
+- The left hand stops and shifts. No fingerboard means continuous pitch; shifting means seams between
   positions, bridged by slides.
-- **Vibrato.** Liu Tianhua imported the violin's **vibrato** — a leap in the erhu's expressiveness.
-- **Pizzicato exists but cannot replace the bow**; with the bow inside the strings it can only be a colour.
-- **The two strings are two colours.** Inner is thick, outer is bright — the same melody sounds different on each,
+- Vibrato. Liu Tianhua imported the violin's vibrato — a leap in the erhu's expressiveness.
+- Pizzicato exists but cannot replace the bow; with the bow inside the strings it can only be a colour.
+- The two strings are two colours. Inner is thick, outer is bright — the same melody sounds different on each,
   a device erhu writing uses constantly.
 
 ## The family
@@ -410,8 +411,8 @@ Four cues:
 | [[instrument:dizi\|Dizi]] | — | holes | — | opening and closing holes (aerophone) |
 | [[instrument:bianzhong\|Bianzhong]] | — | — | — | striking bells of different sizes |
 
-**The same objects, two maps**: in the **bayin** this whole family is **silk** (strings), while in **HS**
-"plucked" and "rubbed" are **different classes**. **The bayin does not distinguish how the string is set in
+The same objects, two maps: in the bayin this whole family is silk (strings), while in HS
+"plucked" and "rubbed" are different classes. **The bayin does not distinguish how the string is set in
 motion; HS does** — the most visible difference between the two systems.
 
 ## History
@@ -425,30 +426,30 @@ motion; HS does** — the most visible difference between the two systems.
 | mid-20th c. | **silk strings replaced by steel**, louder; further design work (flat body, double qianjin) |
 | today | the melodic mainstay of the Chinese orchestra, and a solo and concerto instrument; repertoire from **Erquan** to modern concertos |
 
-**The one thing to remember**: **within thirty years the same instrument went from "street accompaniment" to "solo
-instrument"** — and the change began not with materials or craft but with **one man giving it a pitch, positions
+The one thing to remember: **within thirty years the same instrument went from "street accompaniment" to "solo
+instrument" — and the change began not with materials or craft but with one man giving it a pitch, positions
 and repertoire.**
 
 ## Common misconceptions
 
-- **"Its bow is like a violin's."** Not so: **the erhu's bow cannot be removed** — the hair runs between the two
+- "Its bow is like a violin's." Not so: the erhu's bow cannot be removed — the hair runs between the two
   strings, while a violin bow can leave at any moment.
-- **"Its skin head makes it a membranophone."** **No.** The test is **what vibrates**: **the strings** (chordophone);
-  the python skin is a **resonator**.
-- **"Two strings must mean a narrow range."** A modern erhu covers **three octaves** (D4–A6 in practice) — through
-  **shifting position**, not string count. **The range ceiling is set by where the hand can travel, not by how
+- "Its skin head makes it a membranophone." No. The test is what vibrates: the strings (chordophone);
+  the python skin is a resonator.
+- "Two strings must mean a narrow range." A modern erhu covers three octaves (D4–A6 in practice) — through
+  shifting position, not string count. **The range ceiling is set by where the hand can travel, not by how
   many strings there are.**
-- **"It only plays sad music."** Its most famous work is indeed bleak (**Erquan**), but **Horse Racing** and *March of
+- "It only plays sad music." Its most famous work is indeed bleak (Erquan), but Horse Racing and *March of
   Light* are equally central to its repertoire.
-- **"It has always been a solo instrument."** Before Liu Tianhua it was mainly an **accompanist for opera and
+- "It has always been a solo instrument." Before Liu Tianhua it was mainly an **accompanist for opera and
   narrative song**; its solo identity dates from the 1920s.
-- **"The bayin says silk, so steel strings are wrong."** The same point as with the [[instrument:guqin|guqin]]: **the
+- "The bayin says silk, so steel strings are wrong." The same point as with the [[instrument:guqin|guqin]]: **the
   bayin describes the material of its own time**, and the name is inherited.
 
 ## Next
 
-The silk category is not finished: the [[instrument:pipa|pipa]] is also "silk", but it **has frets** — and that
-turns pitch from a **continuous line** back into **steps**. **One string, with or without frets, is two different
+The silk category is not finished: the [[instrument:pipa|pipa]] is also "silk", but it has frets — and that
+turns pitch from a continuous line back into steps. **One string, with or without frets, is two different
 instruments.** And once we cross from silk to bamboo, the [[instrument:dizi|dizi]] changes the whole discussion:
-**no strings at all, only the air inside a bamboo tube.**
+no strings at all, only the air inside a bamboo tube.
 :::

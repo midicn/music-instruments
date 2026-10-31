@@ -43,7 +43,7 @@ updated: 2026-10-28
 
 ## 长短：把呼吸装进循环
 
-杖鼓的节奏型叫长短（**jangdan**）：一个循环有固定的拍数与重音，常见的有晋阳调、中莫里、扎津莫里、挥莫里。农乐里，长短带着队伍走；盘索里里，鼓手用长短托住唱者的呼吸；宫廷正乐里，长短慢而稳。1978 年，金德洙等人把农乐四件打击乐器搬上舞台，四物农乐（**samulnori**）让杖鼓从田间走进音乐厅；后来乱打（Nanta）又把杖鼓变成戏剧道具。鼓手不是「打拍子的人」，而是「决定呼吸的人」。
+杖鼓的节奏型叫长短（jangdan）：一个循环有固定的拍数与重音，常见的有晋阳调、中莫里、扎津莫里、挥莫里。农乐里，长短带着队伍走；盘索里里，鼓手用长短托住唱者的呼吸；宫廷正乐里，长短慢而稳。1978 年，金德洙等人把农乐四件打击乐器搬上舞台，四物农乐（samulnori）让杖鼓从田间走进音乐厅；后来乱打（Nanta）又把杖鼓变成戏剧道具。鼓手不是「打拍子的人」，而是「决定呼吸的人」。
 
 ## 对照：塔布拉与姆里丹甘
 
@@ -51,9 +51,9 @@ updated: 2026-10-28
 
 ## 带走三件事
 
-1. **沙漏两面**：左低右高，一只鼓两套声音。
-2. **左掌右槌**：杖就是鼓槌，两只手分工。
-3. **长短是循环**：杖鼓的本事是把呼吸装进拍子。
+1. 沙漏两面：左低右高，一只鼓两套声音。
+2. 左掌右槌：杖就是鼓槌，两只手分工。
+3. 长短是循环：杖鼓的本事是把呼吸装进拍子。
 
 ### HS 分类
 
@@ -113,11 +113,11 @@ The body is hollowed from one block or built from staves, narrow at the waist an
 
 ## Technique: palm left, stick right
 
-In court and chamber music the drum sits on a stand, with the left palm and the right bamboo stick; in farmers' music and dance it hangs in front of the body, the player moving with the beat. The right stick (**chae**) is long and slim with a slightly larger tip, and the stroke turns at the wrist; the left palm has single, ornamental and stopped strokes. The difficulty is not speed but making two hands sound like two people: the left asks, the right answers.
+In court and chamber music the drum sits on a stand, with the left palm and the right bamboo stick; in farmers' music and dance it hangs in front of the body, the player moving with the beat. The right stick (chae) is long and slim with a slightly larger tip, and the stroke turns at the wrist; the left palm has single, ornamental and stopped strokes. The difficulty is not speed but making two hands sound like two people: the left asks, the right answers.
 
 ## Jangdan: putting breath into a cycle
 
-The rhythmic patterns are **jangdan**: each cycle has a fixed number of beats and accents, among them jinyangjo, jungmori, jajinmori and hwimori. In farmers' music the jangdan leads the procession; in pansori the drummer uses it to hold the singer's breath; in court music it is slow and steady. In 1978 Kim Duk-soo and others brought the four farmers' percussion instruments to the stage, and **samulnori** carried the janggu from the field into the concert hall; later Nanta turned it into a theatre prop. The drummer is not a timekeeper but the one who decides the breathing.
+The rhythmic patterns are jangdan: each cycle has a fixed number of beats and accents, among them jinyangjo, jungmori, jajinmori and hwimori. In farmers' music the jangdan leads the procession; in pansori the drummer uses it to hold the singer's breath; in court music it is slow and steady. In 1978 Kim Duk-soo and others brought the four farmers' percussion instruments to the stage, and samulnori carried the janggu from the field into the concert hall; later Nanta turned it into a theatre prop. The drummer is not a timekeeper but the one who decides the breathing.
 
 ## Against the tabla and the mridangam
 
@@ -125,9 +125,9 @@ The tabla is a pair, the right drum tuned and the left making the bass; the mrid
 
 ## Three things to take away
 
-1. **An hourglass with two heads**: low left, high right, two voices in one drum.
-2. **Palm and stick**: jang means stick, and the hands have separate jobs.
-3. **Jangdan is a cycle**: the janggu's skill is putting breath into a beat.
+1. An hourglass with two heads: low left, high right, two voices in one drum.
+2. Palm and stick: jang means stick, and the hands have separate jobs.
+3. Jangdan is a cycle: the janggu's skill is putting breath into a beat.
 
 ### HS classification
 
@@ -170,5 +170,4 @@ The tabla is a pair, the right drum tuned and the left making the bass; the mrid
 ```audiolab
 {"type":"instrument","gm":"Melodic Tom","synth":"perc","phrase":["D2","A2","D3","A2","D2","A2"],"label":"杖鼓：左低右高，一呼一应","label_en":"Janggu: low left, high right, call and answer","hint":"通用音色表里没有杖鼓，这里借 Melodic Tom 近似：低音代表左手掌击左面，高音代表右手竹槌击右面。真实的杖鼓还有三样这条试听件给不了：一、两面皮料与腔体不同造成的音色差；二、左掌压皮把低音往下带；三、长短的循环重音。","hint_en":"The General MIDI table has no janggu, so a Melodic Tom stands in: the low note is the palm on the left head, the high note the bamboo stick on the right. Three things the sample cannot give you: the timbral gap made by two hides and chambers, the left palm bending the bass downward, and the jangdan cycle."}
 ```
-
 :::
