@@ -21,15 +21,16 @@ links:
   - "[[instrument:organ]]"
   - "[[instrument:piano]]"
 instances:
-  - pdmx-000322 | 鲁特琴与竖笛的协奏曲 —— 巴洛克室内乐的编制，可对照手风琴所继承的"旋律 + 伴奏"格局
-  - pdmx-001402 | G 大调竖笛奏鸣曲 —— 独奏乐器加伴奏键盘的写法，手风琴常担此职
-  - pdmx-000062 | 管乐五重奏（长笛 · 双簧管 · 单簧管 · 圆号 · 巴松）—— 无键盘无风箱的编制，可作对照
+  - pdmx-000322 | 旋律与伴奏的编配素材；不是手风琴实录或风箱表现的证据 | Melody-and-accompaniment study material, not an accordion recording or evidence of bellows expression
+  - pdmx-001402 | 旋律与伴奏的编配素材；不是手风琴实录或风箱表现的证据 | Melody-and-accompaniment study material, not an accordion recording or evidence of bellows expression
+  - pdmx-000062 | 旋律与伴奏的编配素材；不是手风琴实录或风箱表现的证据 | Melody-and-accompaniment study material, not an accordion recording or evidence of bellows expression
 sources:
+  - https://www.yamaha.com/en/musical_instrument_guide/pipeorgan/mechanism/
   - 结构依通行制琴资料：**手动风箱**送气，气流使**自由簧（free reed）**振动；右侧为旋律键（钢琴键式或按钮式），左侧为低音与和弦键
   - 「手风琴属**气鸣**乐器（自由簧）」依 Hornbostel–Sachs 分类
   - 「常见音域 F3–A6，视形制与键数而定」依通行乐器资料
   - 「**风箱的推拉速度快慢直接改变气流强度，因此演奏者能实时控制音量** —— 并在推与拉之间做不同的音色处理」依乐器声学与演奏通识
-updated: 2026-09-26
+updated: 2026-11-03
 ---
 
 ::: zh
@@ -38,7 +39,7 @@ updated: 2026-09-26
 **一个人同时具备旋律、和声与动态控制三种能力。**
 
 它在键盘组里还有一个别的乐器都没有的特点：
-**力度由风箱直接控制**，而且这种控制**比管风琴精细、比簧风琴灵活**。
+**力度由风箱直接控制**，这与管风琴通过音栓组合、表情箱等改变整体响度的方式不同。
 
 | 分类 | 归属 |
 |---|---|
@@ -48,7 +49,7 @@ updated: 2026-09-26
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，手风琴不在其中 |
 
 > ⚠️ 一个概念上的要点："力度从哪来"，在这三件自由簧乐器上是三个不同的答案。
-> - [[instrument:organ|管风琴]]：气流由机械鼓风 → 力度不可控（靠音栓与渐强箱）。
+> - [[instrument:organ|管风琴]]：气流由机械鼓风 → 单键压力通常不直接控制响度；整体力度可由音栓组合与表情箱等装置调节。
 > - [[instrument:harmonium|簧风琴]]：气流由脚踏 → 力度有限可控。
 > - 手风琴：气流由左臂推拉 → 力度完全可控，而且能做出极细的渐强渐弱。
 >
@@ -102,7 +103,7 @@ updated: 2026-09-26
     <text x="492" y="207">左手同时供气与弹和声</text>
     <text x="180" y="267" text-anchor="end" fill="#E07A3F">左臂推拉 → 力度可控</text>
   </g>
-  <text x="20" y="290" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">风箱的推与拉都由同一条手臂完成，所以演奏者能像"呼吸"一样控制音量 —— 这是管风琴与簧风琴都做不到的。</text>
+  <text x="20" y="290" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">风箱的推与拉都由同一条手臂完成，所以演奏者能像"呼吸"一样控制音量 —— 这与音栓、表情箱等控制方式不同。</text>
 </svg>
 ```
 
@@ -118,14 +119,14 @@ updated: 2026-09-26
 ## 力度控制：它是键盘乐器里最自由的一件
 
 ```svg
-<svg viewBox="0 0 640 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="三种气流乐器由谁供气与力度是否可控：管风琴靠机械鼓风不可控，簧风琴脚踏有限可控，手风琴手动完全可控">
+<svg viewBox="0 0 640 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="三种气流乐器由谁供气与力度是否可控：管风琴靠机械鼓风、配合音栓与表情箱，簧风琴脚踏有限可控，手风琴手动完全可控">
   <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
     <text x="20" y="22">"力度从哪来"：三件气流乐器，三个答案</text>
   </g>
   <rect x="50" y="56" width="168" height="120" rx="6" fill="#17171A" stroke="#5B7FA8" stroke-width="1.5"/>
   <text x="134" y="80" text-anchor="middle" font-size="11" fill="#5B7FA8">管风琴</text>
   <text x="134" y="106" text-anchor="middle" font-size="10.5" fill="#A9A49B">机械鼓风</text>
-  <text x="134" y="130" text-anchor="middle" font-size="10.5" fill="#6E6A64">力度：不可控</text>
+  <text x="134" y="130" text-anchor="middle" font-size="10.5" fill="#6E6A64">力度：靠装置</text>
   <text x="134" y="152" text-anchor="middle" font-size="10.5" fill="#6E6A64">靠音栓与渐强箱</text>
   <rect x="236" y="56" width="168" height="120" rx="6" fill="#17171A" stroke="#9C7A3C" stroke-width="1.5"/>
   <text x="320" y="80" text-anchor="middle" font-size="11" fill="#9C7A3C">簧风琴</text>
@@ -169,7 +170,7 @@ updated: 2026-09-26
    演奏者会刻意安排乐句的推拉方向以利用这一点。
 
 ```audiolab
-{"type":"instrument","gm":"Accordion","synth":"blown","phrase":["F3","A3","C4","F4","A4","C5"],"label":"手风琴的常用区：F3 到 C5","label_en":"The accordion's working register — F3 up to C5","hint":"注意音色的明亮与力度的可塑性 —— 它比簧风琴更外放，比管风琴自由得多","hint_en":"Hear the brightness and the dynamic flexibility — more outgoing than a harmonium, far freer than an organ."}
+{"type":"instrument","gm":"Accordion","synth":"blown","phrase":["F3","A3","C4","F4","A4","C5"],"label":"手风琴的常用区：F3 到 C5","label_en":"The accordion's working register — F3 up to C5","hint":"试听此处的合成音色 —— 这是合成音色示意，不再现真实风箱压力或演奏者的力度控制","hint_en":"Hear the synthesized timbre — this synthesized example does not reproduce real bellows pressure or its dynamic control."}
 ```
 
 ## 演奏技法
@@ -185,7 +186,7 @@ updated: 2026-09-26
 
 | 乐器 | 发声体 | 供气 | 力度 | 便携性 |
 |---|---|---|---|---|
-| [[instrument:organ\|管风琴]] | 空气柱 | 机械鼓风 | 不可控 | 不可移动 |
+| [[instrument:organ\|管风琴]] | 空气柱 | 机械鼓风 | 音栓、表情箱等 | 不可移动 |
 | [[instrument:harmonium\|簧风琴]] | 自由簧 | 脚踏 | 有限可控 | 较重但可搬动 |
 | 手风琴 | 自由簧 | 左臂手动 | 完全可控 | 便携 |
 | [[instrument:harmonica\|口琴]] | 自由簧 | **嘴吹吸** | 可控 | **可放进口袋** |
@@ -235,7 +236,7 @@ while the right hand plays melody and the left plays harmony — **one person si
 harmony and dynamic control.**
 
 It also has a feature no other keyboard instrument has: **dynamics come directly from the bellows**, and that
-control is **finer than an organ's and more flexible than a harmonium's.**
+the relationship between arm pressure and sound differs from the stop and swell controls of an organ.
 
 | Classification | Value |
 |---|---|
@@ -246,14 +247,13 @@ control is **finer than an organ's and more flexible than a harmonium's.**
 
 > ⚠️ **One conceptual point**: **"where does the dynamics come from?" has three different answers among these
 > aerophones.**
-> - [[instrument:organ|Organ]]: air from a mechanical blower → dynamics not controllable (stops and a
->   swell box instead).
+> - [[instrument:organ|Organ]]: air from a mechanical blower → key pressure normally does not set loudness directly; stops and, where fitted, a swell box provide other controls.
 > - [[instrument:harmonium|Harmonium]]: air from the foot → limited dynamic control.
 > - Accordion: air from the left arm → dynamics fully controllable, down to very fine crescendos.
 >
 > So "can it control dynamics" is decided not by the instrument's class but by **who supplies the air and
 > whether that supply can be adjusted in real time** — which is what sets the accordion apart from the rest of
-> the keyboard group: it has the freest dynamic control of any keyboard instrument.
+> the keyboard group. The available control also depends on the particular instrument and its mechanisms.
 
 ## Structure: bellows, two sets of keys, reeds
 
@@ -315,7 +315,7 @@ Three points:
 3. Push and pull can differ in colour. Many instruments switch reed sets between directions, so the same key
    sounds slightly different pushed and pulled — a feature composers exploit.
 
-## Dynamic control: the freest in the keyboard group
+## Dynamic control: bellows pressure
 
 ```svg
 <svg viewBox="0 0 640 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Who supplies the air and whether dynamics are controllable: the organ uses a blower, the harmonium the foot, the accordion the hand">
@@ -325,7 +325,7 @@ Three points:
   <rect x="50" y="56" width="168" height="120" rx="6" fill="#17171A" stroke="#5B7FA8" stroke-width="1.5"/>
   <text x="134" y="80" text-anchor="middle" font-size="11" fill="#5B7FA8">Organ</text>
   <text x="134" y="106" text-anchor="middle" font-size="10.5" fill="#A9A49B">mechanical blower</text>
-  <text x="134" y="130" text-anchor="middle" font-size="10.5" fill="#6E6A64">dynamics: no</text>
+  <text x="134" y="130" text-anchor="middle" font-size="10.5" fill="#6E6A64">dynamics: stops / swell</text>
   <text x="134" y="152" text-anchor="middle" font-size="10.5" fill="#6E6A64">stops and swell box instead</text>
   <rect x="236" y="56" width="168" height="120" rx="6" fill="#17171A" stroke="#9C7A3C" stroke-width="1.5"/>
   <text x="320" y="80" text-anchor="middle" font-size="11" fill="#9C7A3C">Harmonium</text>
@@ -369,7 +369,7 @@ Four cues:
    choose phrase directions to exploit it.
 
 ```audiolab
-{"type":"instrument","gm":"Accordion","synth":"blown","phrase":["F3","A3","C4","F4","A4","C5"],"label":"手风琴的常用区：F3 到 C5","label_en":"The accordion's working register — F3 up to C5","hint":"注意音色的明亮与力度的可塑性 —— 它比簧风琴更外放，比管风琴自由得多","hint_en":"Hear the brightness and the dynamic flexibility — more outgoing than a harmonium, far freer than an organ."}
+{"type":"instrument","gm":"Accordion","synth":"blown","phrase":["F3","A3","C4","F4","A4","C5"],"label":"手风琴的常用区：F3 到 C5","label_en":"The accordion's working register — F3 up to C5","hint":"试听此处的合成音色 —— 这是合成音色示意，不再现真实风箱压力或演奏者的力度控制","hint_en":"Hear the synthesized timbre — this synthesized example does not reproduce real bellows pressure or its dynamic control."}
 ```
 
 ## Playing techniques
@@ -387,7 +387,7 @@ Four cues:
 
 | Instrument | Vibrating body | Air supplied by | Dynamics | Portability |
 |---|---|---|---|---|
-| [[instrument:organ\|Organ]] | air columns | mechanical blower | none | immovable |
+| [[instrument:organ\|Organ]] | air columns | mechanical blower | stops / swell box | immovable |
 | [[instrument:harmonium\|Harmonium]] | free reeds | foot | limited | heavy but movable |
 | Accordion | free reeds | left arm | full | portable |
 | [[instrument:harmonica\|Harmonica]] | free reeds | **breath** | controllable | **pocket-sized** |

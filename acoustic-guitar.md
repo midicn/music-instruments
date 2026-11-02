@@ -4,8 +4,8 @@ site: inst
 cat: I1
 title: 民谣吉他
 title_en: Acoustic Guitar
-summary: 六根钢弦、X 形音梁的拨弦乐器，琴颈接入琴体第 14 品
-summary_en: Six steel strings over X-bracing, with the neck joining the body at the fourteenth fret
+summary: 以六弦钢弦木吉他为例，认识琴体、定弦、记谱与演奏方式
+summary_en: Explore the body, tuning, notation and playing techniques of the six-string steel-string acoustic guitar
 level: core
 tags: [乐器, 弦乐, 西洋]
 tags_en: [instrument, strings, western]
@@ -23,17 +23,18 @@ links:
   - "[[instrument:mandolin]]"
   - "[[instrument:lute]]"
 instances:
-  - giantmidi-003737 | Carulli 的短曲集 —— 吉他教学传统里最常被钢弦演奏者借用的那一路，句法短、织体清楚
-  - giantmidi-003748 | Sor 的主题与变奏 —— 单把吉他上"低音加旋律"的典型写法，钢弦上会更清楚
-  - giantmidi-003739 | Carulli 的 G 大调行板，慢速、单音为主，最容易听出钢弦的音头与余音
-  - thesession-000006 | 单声部传统舞曲 Childgrove —— 吉他一族最常见的实际用途之一，伴奏一条旋律
-  - thesession-000011 | 另一首单声部舞曲，节奏更方整，可与上一条对照
+  - giantmidi-003737 | 编配练习素材；本MIDI回放不能证明原作使用钢弦吉他或真实琴体音色 | Arrangement practice material; MIDI playback does not establish steel-string instrumentation or the sound of a physical guitar
+  - giantmidi-003748 | 编配练习素材；本MIDI回放不能证明原作使用钢弦吉他或真实琴体音色 | Arrangement practice material; MIDI playback does not establish steel-string instrumentation or the sound of a physical guitar
+  - giantmidi-003739 | 编配练习素材；本MIDI回放不能证明原作使用钢弦吉他或真实琴体音色 | Arrangement practice material; MIDI playback does not establish steel-string instrumentation or the sound of a physical guitar
+  - thesession-000006 | 编配练习素材；本MIDI回放不能证明原作使用钢弦吉他或真实琴体音色 | Arrangement practice material; MIDI playback does not establish steel-string instrumentation or the sound of a physical guitar
+  - thesession-000011 | 编配练习素材；本MIDI回放不能证明原作使用钢弦吉他或真实琴体音色 | Arrangement practice material; MIDI playback does not establish steel-string instrumentation or the sound of a physical guitar
 sources:
+  - https://www.yamaha.com/en/musical_instrument_guide/acoustic_guitar/
   - 琴体尺寸取通行制琴数据：琴体长 508 毫米（Dreadnought 体型）、上腰宽 300、腰宽 273、下腰宽 400 毫米，弦长 645 毫米
   - 定弦 E–A–D–G–B–E 与「记谱比实音高一个八度」属通行乐器学常识
   - X 形音梁为钢弦吉他常用结构（19 世纪中叶起由 C. F. Martin 体系确立），扇形音梁为尼龙弦常用结构，依通行制琴史与工艺叙述
   - ⚠️ 库内没有标题或作曲家可确认指向「民谣吉他」的曲目 —— 本条给出的 5 首是**吉他族**曲目（同族可对照），音色由试听件负责
-updated: 2026-09-25
+updated: 2026-11-03
 ---
 
 ::: zh
@@ -129,7 +130,7 @@ updated: 2026-09-25
 
 ## 发声原理：同一套路径，两倍的驱动力
 
-路径与所有板腔体一致：弦 → 琴码 → 面板 → 箱内空气 → 音孔辐射。
+弦通过琴码驱动面板，面板、背侧板与箱内空气相互耦合，并共同向外辐射声音；音孔参与空气共鸣，并不是所有声音唯一的出口。
 民谣吉他多出来的，是驱动力：
 
 - 钢弦张力高一倍 → 面板被推得更狠 → 音量更大。
@@ -372,8 +373,7 @@ instrument from folding up.**
 
 ## How it sounds: same path, twice the drive
 
-The acoustic path is common to every box-bodied instrument: string → saddle → top plate → air →
-out through the soundhole. What the acoustic guitar adds is drive:
+Strings drive the saddle, bridge and soundboard. The body plates and enclosed air interact and radiate sound; the soundhole participates in air resonance but is not the sole radiating source. String tension is another part of the design:
 
 - Steel pulls twice as hard → the plate is pushed harder → more volume.
 - Steel has lower damping → more high overtones survive → brighter, more metallic.
