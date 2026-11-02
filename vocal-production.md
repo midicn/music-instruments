@@ -4,8 +4,8 @@ site: inst
 cat: I13
 title: 发声原理
 title_en: How the voice works
-summary: 声音是被风吹出来的，不是被神经敲出来的 —— 声带的自持振荡
-summary_en: The voice is blown into being, not struck by nerves — self-sustained oscillation
+summary: 肺部气流支持声带振动，声道共鸣进一步改变音色
+summary_en: Air from the lungs supports vocal-fold vibration, with vocal-tract resonance further shaping the sound
 level: standard
 tags: [乐器, 电子, 电鸣, 西洋, 人声, 发声原理, 声学, MEAD]
 tags_en: [instrument, electronic, electrophone, western, voice, vocal-production, acoustics, mead]
@@ -19,20 +19,13 @@ links:
  - "[[concept:timbre]]"
  - "[[concept:pitch]]"
 instances:
- - chinafolk-000869 | 《大风吹来竹叶飞》 —— 「大风吹」：声带就是被肺风吹的竹叶——「a steady stream of air passing by a wall or surface can cause that surface to vibrate——airplane wings vibrate in flight, the rattling of air ducts」——风吹竹叶飞，风吹声带响，同一个流体力学的两个实例（C3 · 仅限学习研究）
- - chinafolk-010459 | 《一口气叫卖》 —— 「一口气」：起振门槛只有 2–3 cmH₂O——「very small force」——叫卖声的物理学是一口气的工程：气压够过门槛，声带就自己响；气用尽，世界安静（C3 · 仅限学习研究）
- - chinafolk-000980 | 《风吹竹叶皮皮青》 —— 「皮皮青」：竹叶的沙沙声就是气声声质（breathy）的意象——「excessive airflow with incomplete glottal closure」——皮皮青的响，是气流比闭合多出来的那部分（C3 · 仅限学习研究）
+  - chinafolk-000869 | 《大风吹来竹叶飞》MIDI音符从A3到E4，可把这段较窄的旋律范围与下两条对照；曲名中的风不是发声机制的证据（C3，仅学习研究） | The MIDI notes of this song span A3 to E4, a narrower range to compare with the following two; the wind in its title is not evidence about phonation (C3, study only)
+  - chinafolk-010459 | 《一口气叫卖》MIDI音符从E4到G5，含59次发音事件；这些事件记录旋律，不记录一次呼吸能维持多久（C3，仅学习研究） | This song spans E4 to G5 with 59 note-on events, recording melody rather than the duration of a breath (C3, study only)
+  - chinafolk-000980 | 《风吹竹叶皮皮青》MIDI音符从A4到E6，可观察谱面音区与旋律跨度；是否适合某位歌者须另按实际音域考虑（C3，仅学习研究） | This MIDI spans A4 to E6 for studying register and melodic span; suitability for a singer depends separately on that singer’s range (C3, study only)
 sources:
- - **主线：声音是被风吹出来的，不是被神经敲出来的（本页最该记住的一条）** —— 肌弹性-空气动力学说（MEAD）：「The vocal muscles set the initial conditions——such as the degree of adduction, tension, and length of the vocal folds——but **do not directly drive the vibratory cycle**」； **神经系统不敲音，它只设边界条件——剩下的交给风**（对照 midi-controller 条：控制与发声的分离，在人体内部早就实现了；voice 条讲过三段机制，本条讲「为什么自己能一直响」）
- - **Bernoulli 不够，几何来凑（Titze 1980）** —— 「Two decades of subsequent modeling and experiment revealed that the Bernoulli effect, while real, is not the primary closing mechanism in most phonatory conditions」；「According to these theories, Bernoulli forces cause the vocal folds to be sucked together……**Not well at all, researchers have found. Soon, oscillation would damp out**」； **Titze 1980（Journal of Speech and Hearing Research）的修正：主导机制是声门的收敛-发散几何**——「During the opening phase, the folds move apart from the bottom upward, creating a convergent channel——narrower at the top than the bottom. During the closing phase……a divergent channel」；「In a convergent glottis the air pressure pushes outward——a net opening force; in a divergent glottis the pressure distribution reverses, producing a net inward force that assists closure」； **「the aerodynamic force on the folds is always slightly in phase with their motion——pushing them in whichever direction they are already moving——which is precisely the condition for sustained energy transfer」—— 一台自持振荡的乐器：风永远顺着它推**
- - **黏膜波（mucosal wave）：让几何成为可能的行波** —— 「a traveling surface wave that propagates along the medial surface of each vocal fold in the inferior-to-superior direction during each vibratory cycle」；「the body (thyroarytenoid muscle) is mechanically stiffer than the cover (vocal ligament and mucosa), and the stiffness discontinuity between the two layers allows a surface wave to propagate upward」； **「The mucosal wave is therefore not a decorative feature of fold vibration but the tissue-mechanical mechanism that makes self-sustained MEAD oscillation possible」——一层松一层紧的分层结构，是自持振荡的硬件前提（病理学注脚：疤痕或 Reinke 水肿限制黏膜波 → 粗糙、费力的嗓音）**
- - **起振门槛：2–3 cmH₂O** —— 「There is a minimum amount of lung pressure required to get the vocal folds vibrating, called the phonation threshold pressure. For a healthy voice, this is roughly 2 to 3 centimeters of water pressure——**a very small force**」；「If your vocal folds are dry, swollen, or stiff, that threshold rises——**this is why your voice feels effortful when you're dehydrated or have laryngitis**」； **万事开头只差一口气——而「嗓子哑了」的物理学是门槛升高，不是肺变小了**
- - **频率与对抗肌** —— 成人男声 85–180Hz（说话）· 女声 165–255Hz · 儿童中位数约 250Hz（随身高与喉头增大而降）；「the cricothyroid muscle elongates and tenses the vocal folds by tilting the thyroid cartilage forward relative to the cricothyroid cartilage, thereby raising the fundamental frequency; the thyroarytenoid (vocalis) muscle shortens and relaxes the folds, lowering the pitch」； **一对对抗肌 = 一台振荡器的粗调与微调（对照合成器：cricothyroid 是粗调旋钮，thyroarytenoid 是细调）**
- - **Singer's formant：穿透乐队的那道缝** —— 「The concept of the singer's formant——a concentration of acoustic energy around 2,500 to 3,500 Hz——illustrates how **the entire vocal system, not just the vocal cords, shapes the final output**」； **人声不与乐队争最响处（低频区），另开一个 2.5–3.5kHz 的共振峰频段钻空档——「为穿透而调」的特征，训练与演化各做了一半**
- - **声质谱与声区** —— 「Variations in these parameters can produce a wide range of vocal qualities, from breathy (excessive airflow with incomplete glottal closure) to pressed (tight adduction with reduced airflow) to a balanced or 『flow』 phonation that is often considered optimal」； **breathy 与 pressed 是同一台机器的两个故障方向：一个闭合不紧，一个气流不够——「好声音」是中间的流量平衡**
- - **flow-induced oscillation 的普适性** —— 「A steady stream of air passing by a wall or surface can cause that surface to vibrate——this can be seen in the way airplane wings vibrate in flight, and in the rattling of air ducts in heating systems」； **吹过缝隙的风让万物唱歌——声带不是特例，是流体力学的一个实例（对照其他条目：Telharmonium 的电 · Rhythmicon 的算 · 声带的风——三种「非人」的振荡源，风是最古老的那个）**
- - **两质量模型（Ishizaka & Flanagan, 1972）** —— 「The first computational implementation of MEAD principles capable of producing self-sustained oscillation was the two-mass model——each vocal fold represented as two coupled masses……The two-mass architecture was sufficient to capture the convergent-divergent glottal geometry: the lower mass opens and closes slightly ahead of the upper mass」—— **第一台「会自己响」的数学模型，晚于人响了几十万年（对照合成器史：机器的振荡器从来都是「被驱动」的，声带是「被风吹着自驱」的）**
-updated: 2026-10-21
+  - "https://www.nidcd.nih.gov/health/taking-care-your-voice"
+  - "https://onlinelibrary.wiley.com/doi/abs/10.1002/j.1538-7305.1972.tb02651.x"
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -95,7 +88,7 @@ updated: 2026-10-21
  <text x="30" y="308" font-size="9" fill="#A9A49B">乐队最响区（低频）</text>
  <text x="388" y="308" font-size="9" fill="#E8C547">人声共振峰</text>
  <text x="500" y="308" font-size="9" fill="#6E6A64">乐器泛音区</text>
- <text x="20" y="344" font-size="9.5" fill="#6E6A64">人声不与乐队争最响处，另开一个频段钻空档 —— 为穿透而调，训练与演化各做了一半。</text>
+ <text x="20" y="344" font-size="9.5" fill="#6E6A64">声带提供声源，声道共鸣与发声方式共同影响音色和穿透力。</text>
 
  <!-- 声质谱 -->
  <text x="20" y="368" font-size="9.5" fill="#A9A49B">声质谱：breathy（闭合不紧）→ flow（平衡）→ pressed（气流不够）—— 好声音是中间的流量平衡。</text>
@@ -117,10 +110,10 @@ updated: 2026-10-21
 
 ## 那道 2.5 kHz 的缝
 
-歌唱家共振峰是 2,500 到 3,500 Hz 之间的一处能量聚集。乐队最响的地方在低频，人声不去那里争，另开一个频段钻过去。这一个峰，训练练一半，演化给了另一半。声质也有谱：闭合不紧是气声，气流不够是压声，中间是平衡。1972 年，Ishizaka 与 Flanagan 的两质量模型第一次算出了自持振荡。机器学会这件乐器，比人晚了几十万年。
+声带振动提供声源，咽腔、口腔和鼻腔参与改变声音的共鸣特征。歌唱中的高频能量分布会受声道形状、音高、元音和唱法影响，不能写成“训练与演化各占一半”。听辨时可比较同一音高、相近响度下不同元音的音色，不要把气声或压迫感只归因于某一个气流数值。
 
 ```audiolab
-{"type":"instrument","gm":"Choir Aahs","phrase":["C3","E3","G3","C4","E4","G4","C5"],"label":"发声原理的自持振荡：平衡声（借合唱人声近似 flow phonation）","label_en":"The self-sustained oscillation — a balanced voice (choir aahs stand in for flow)","hint":"发声原理的本质是「声音是被风吹出来的」——这条平衡人声取其「不费力的中性质感」，但 MEAD 机制最标志的三个特征在这里听不出来：一是「神经只设边界条件」——张力/长度/闭合度由肌肉设定，振动周期本身交给气流自持（对照 midi-controller 条：控制与发声的分离在人体内部早就实现）；二是收敛-发散几何——风永远顺着运动方向推（Bernoulli 单独解释不了，oscillation would damp out）；三是起振门槛只有 2–3 cmH₂O——干燥、肿胀、僵硬都会让门槛升高，「嗓子哑了」是门槛问题不是肺变小了。","hint_en":"Vocal production's essence is 「the voice is blown into being」 — this balanced voice takes the effortless neutral quality, but MEAD's three signatures are absent: nerves only set the boundary conditions — tension, length, adduction are set by muscle, the cycle itself left to the airstream (against the midi-controller entry: the control/sound split was implemented inside the body long ago); the convergent-divergent geometry — the wind always pushes in the direction of motion (Bernoulli alone cannot explain it — oscillation would damp out); and the phonation threshold is only 2–3 cmH₂O — dryness, swelling or stiffness raise it: a hoarse voice is a threshold problem, not smaller lungs."}
+{"type":"instrument","gm":"Choir Aahs","phrase":["C3","E3","G3","C4","E4","G4","C5"],"label":"合唱音色上的音高短句","label_en":"A pitched phrase using a choir sound","hint":"这段GM Choir Aahs短句用来听相近元音上的音高变化，不是声带振动或气压测量。仅凭采样音色不能区分具体声门状态，也不能用于判断嗓音健康。","hint_en":"This GM Choir Aahs phrase illustrates pitch changes on a similar vowel, not vocal-fold motion or pressure measurements. A sample alone cannot establish a glottal condition or voice health."}
 ```
 
 :::
@@ -180,7 +173,7 @@ Relax your lips and blow: they start to buzz. The vocal folds do the same. The l
  <text x="30" y="308" font-size="9" fill="#A9A49B">orchestra's loud band (low)</text>
  <text x="388" y="308" font-size="9" fill="#E8C547">voice formant</text>
  <text x="500" y="308" font-size="9" fill="#6E6A64">instrument harmonics</text>
- <text x="20" y="344" font-size="9.5" fill="#6E6A64">The voice opens another band rather than competing for the loud one — tuned for penetration: training and evolution did half each.</text>
+ <text x="20" y="344" font-size="9.5" fill="#6E6A64">The vocal folds provide the source; vocal-tract resonance and technique shape tone and projection.</text>
 
  <text x="20" y="368" font-size="9.5" fill="#A9A49B">Timbre spectrum: breathy (loose closure) → flow (balanced) → pressed (too little air) — a good voice is the balance.</text>
  </g>
@@ -201,9 +194,9 @@ A healthy voice starts with 2 to 3 cmH₂O, a very small force. Dryness, swellin
 
 ## That gap at 2.5 kHz
 
-The singer's formant is a concentration of energy between 2,500 and 3,500 Hz. An orchestra is loudest lower down, so the voice does not compete there; it opens a channel above. Training supplies half of that peak and evolution the other half. Voice quality has a spectrum too: loose closure gives a breathy tone, insufficient airflow gives a pressed one, and the middle is balance. In 1972 the two-mass model of Ishizaka and Flanagan produced self-sustained oscillation on a computer for the first time, a few hundred thousand years after people did it with their throats.
+The vibrating vocal folds provide the source, while the throat, mouth and nasal cavities shape resonance. High-frequency energy in singing varies with vocal-tract shape, pitch, vowel and technique; there is no basis here for dividing its cause equally between training and evolution. Compare vowels at similar pitch and loudness rather than attributing breathiness or pressed quality to a single airflow value.
 
 ```audiolab
-{"type":"instrument","gm":"Choir Aahs","phrase":["C3","E3","G3","C4","E4","G4","C5"],"label":"发声原理的自持振荡：平衡声（借合唱人声近似 flow phonation）","label_en":"The self-sustained oscillation — a balanced voice (choir aahs stand in for flow)","hint":"发声原理的本质是「声音是被风吹出来的」——这条平衡人声取其「不费力的中性质感」，但 MEAD 机制最标志的三个特征在这里听不出来：一是「神经只设边界条件」——张力/长度/闭合度由肌肉设定，振动周期本身交给气流自持（对照 midi-controller 条：控制与发声的分离在人体内部早就实现）；二是收敛-发散几何——风永远顺着运动方向推（Bernoulli 单独解释不了，oscillation would damp out）；三是起振门槛只有 2–3 cmH₂O——干燥、肿胀、僵硬都会让门槛升高，「嗓子哑了」是门槛问题不是肺变小了。","hint_en":"Vocal production's essence is 「the voice is blown into being」 — this balanced voice takes the effortless neutral quality, but MEAD's three signatures are absent: nerves only set the boundary conditions — tension, length, adduction are set by muscle, the cycle itself left to the airstream (against the midi-controller entry: the control/sound split was implemented inside the body long ago); the convergent-divergent geometry — the wind always pushes in the direction of motion (Bernoulli alone cannot explain it — oscillation would damp out); and the phonation threshold is only 2–3 cmH₂O — dryness, swelling or stiffness raise it: a hoarse voice is a threshold problem, not smaller lungs."}
+{"type":"instrument","gm":"Choir Aahs","phrase":["C3","E3","G3","C4","E4","G4","C5"],"label":"合唱音色上的音高短句","label_en":"A pitched phrase using a choir sound","hint":"这段GM Choir Aahs短句用来听相近元音上的音高变化，不是声带振动或气压测量。仅凭采样音色不能区分具体声门状态，也不能用于判断嗓音健康。","hint_en":"This GM Choir Aahs phrase illustrates pitch changes on a similar vowel, not vocal-fold motion or pressure measurements. A sample alone cannot establish a glottal condition or voice health."}
 ```
 :::

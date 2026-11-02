@@ -25,11 +25,13 @@ instances:
   - pdmx-000062 | 管乐五重奏（长笛 · 双簧管 · 单簧管 · 圆号 · 巴松）—— 无打击乐的编制，可作对照
   - pdmx-002528 | 霍尔斯特《第二军乐组曲》Op.28 No.2 —— 管乐团编制里定音鼓的实际用法
 sources:
+  - "https://www.vsl.co.at/academy/percussion/timpani"
+  - "https://www.yamaha.com/en/musical_instrument_guide/timpani/mechanism/mechanism002.html"
   - 结构依通行制琴资料：铜制半球形鼓身，鼓皮蒙在顶端，靠**踏板**（或手柄、螺杆）改变鼓皮张力以调音；配软头定音鼓槌
   - 「定音鼓属**膜鸣**乐器 —— 鼓皮本身是振源，鼓身起共鸣作用」依 Hornbostel–Sachs 分类
   - 「单支定音鼓音域约一个六度；常见一套四支合起来约 D2–A3」依通行配器资料
   - 「管弦乐里通常配二至四支，现代作品可更多」依通行配器惯例
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -86,7 +88,7 @@ updated: 2026-09-26
 | **有音高** | **定音鼓** | 木琴 · 马林巴 · 颤音琴 · 钟琴 · 管钟 · 钢片琴 · 手碟 |
 | **无固定音高** | 小鼓 · 大鼓 · 铃鼓 · 爵士鼓组 · 拉丁打击组 | 三角铁 · 铙钹 · 锣 · 响板 · 敲击棒 · 鞭响器 · 乐砧 · 风铃 · 砂槌 · 雨棍 · 木鱼 |
 
-四个格子 —— 上排 8 件有明确音高（能画音域图），下排 16 件没有。
+这是常见用法的概览，不是所有打击乐的固定二分法：鼓组和拉丁打击组可能同时包含膜鸣与体鸣乐器；锣、风铃等也有定音型号。分类要看具体乐器和发声部件。
 
 ## 结构：半球鼓身 + 踏板调音
 
@@ -120,18 +122,15 @@ updated: 2026-09-26
     <text x="180" y="113" text-anchor="end">调音螺杆（张紧鼓皮）</text>
     <text x="492" y="83">软头鼓槌</text>
   </g>
-  <text x="20" y="336" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">鼓身呈半球形并封闭 —— 这样低频不会被"漏掉"，所以定音鼓能发出有明确音高的低沉音。</text>
+  <text x="20" y="336" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">鼓皮与腔内外空气耦合，若干主要模态接近谐波关系，形成可辨认音高。</text>
 </svg>
 ```
 
 三处要点：
 
-1. 鼓身是封闭的半球。这是它能有明确音高的关键 —— 封闭腔体让基频突出，
-   而开口的鼓（如小鼓）低频发散、音高不明确。
-2. 踏板是调音装置。踩下踏板改变鼓皮的张力 → 改变音高。
-   一套鼓在乐曲进行中可以实时换音，这是它在管弦乐里不可替代的原因。
-3. 用软头鼓槌。槌头的软硬直接决定音色（软 → 圆厚，硬 → 清晰），
-   所以定音鼓手会根据乐句换槌，这是它的重要表现手段。
+1. 鼓皮、腔内外空气与鼓腔共同振动；空气负载和鼓腔使若干主要振动模态接近谐波关系，形成可辨认的音高。不能只归因于“封闭半球不会漏低频”，小鼓也不是简单的单面开口鼓。
+2. 踏板联动改变鼓皮张力，在一支鼓的可调范围内换音，调音螺杆用于均匀张力。
+3. 槌头的材料、软硬与触点共同影响起音和音色，演奏者按乐句选择。
 
 ## 音域
 
@@ -139,10 +138,9 @@ updated: 2026-09-26
 {"range":"D2–A3","common":"D2–F3","caption":"定音鼓（一套）的总音域","caption_en":"Timpani (a set) — combined range","note":"定音鼓是「可调音高」的膜鸣乐器：靠踏板改变鼓皮张力。单支鼓约一个六度；常见的一套四支合起来约 D2–A3。记谱即实音。"}
 ```
 
-- 一套四支合起来约 D2–A3，但单支鼓只有约一个六度的调节范围 ——
-  所以它的音高能力是"多支鼓各覆盖一段"。
-- 常用区 D2–F3：管弦乐里绝大多数定音鼓声部都在这里。
-- 它只负责低音。定音鼓从来不是旋律乐器，但它决定了低频的节奏感。
+- 一套鼓的总音域取决于鼓径与型号；每支只覆盖一段，常见约五度到六度左右。
+- 换音需要预留脚的操作与核对音准的时间，不能只按总音域把它当键盘乐器写。
+- 定音鼓可奏低音线条、动机甚至旋律性段落，并非只能打节奏。
 
 ## 音色与听辨
 
@@ -160,12 +158,10 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- 双手各持一槌，所以它能同时敲两个音（甚至三、四个，视鼓数）。
-- 止音（damping）：用手按住鼓皮停止余音 —— 干净的收尾靠它。
-- 换槌：软、中、硬三种以上，按乐句需要即时更换。
-- 滚奏（roll）：双槌快速交替，得到持续的轰鸣 ——
-  定音鼓的滚奏是管弦乐里最有效的"张力"手段之一。
-- 踏板滑音：踩踏板在敲击后改变音高，得到滑音效果 —— 现代作品常用。
+- 通常双手各一槌，可同时击两支鼓；鼓再多也不会自动变成同一瞬间能敲三四音。
+- 止音用手触膜控制余响，换音前也要考虑旧音是否仍在响。
+- 滚奏由交替击奏维持声音，触点和速度随鼓径、音高与力度调整。
+- 踏板滑音可在鼓皮发声后连续改变音高。
 
 ## 家族与近亲
 
@@ -272,7 +268,7 @@ four cells:
 | **With pitch** | **Timpani** | xylophone · marimba · vibraphone · glockenspiel · tubular bells · celesta · handpan |
 | **Without fixed pitch** | snare · bass drum · tambourine · drum kit · Latin percussion | triangle · cymbals · gong · castanets · claves · whip · anvil · wind chimes · maracas · rainstick · woodblock |
 
-Four cells — eight instruments with definite pitch (they can carry a range chart), sixteen without.
+This outlines common uses, not a universal split of all percussion. Drum kits and Latin-percussion groups can contain both membranes and idiophones; gongs and chimes may also have tuned versions. Classify the specific instrument and sounding component.
 
 ## Structure: a hemispherical bowl and pedal tuning
 
@@ -306,18 +302,15 @@ Four cells — eight instruments with definite pitch (they can carry a range cha
     <text x="180" y="113" text-anchor="end">Tuning rods</text>
     <text x="492" y="83">Soft mallet</text>
   </g>
-  <text x="20" y="336" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The bowl is closed and hemispherical, so no low frequency leaks away — hence a definite, deep pitch.</text>
+  <text x="20" y="336" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Head and surrounding air interact, bringing important modes close to harmonic relationships.</text>
 </svg>
 ```
 
 Three points:
 
-1. The bowl is a closed hemisphere. That is the key to a definite pitch: a closed cavity favours the
-   fundamental, while an open drum (like a snare) scatters its low frequencies and blurs the pitch.
-2. The pedal is the tuning mechanism. Pressing it changes head tension and therefore pitch, so a set can
-   retune during a piece — why timpani are irreplaceable in an orchestra.
-3. Soft-headed mallets. Head hardness decides the colour (soft = round and deep, hard = clear), so
-   timpanists change mallets by phrase — a major expressive device.
+1. The head interacts with air inside and outside the kettle. Air loading and kettle geometry bring several important modes close to harmonic relationships, producing a recognisable pitch. A closed hemisphere “preventing bass leakage” is not a sufficient explanation; a snare is not simply a single-headed open drum either.
+2. The pedal changes head tension within one drum’s range; tuning rods help equalise tension.
+3. Mallet material, hardness and striking point affect attack and colour, and are selected for the phrase.
 
 ## Range
 
@@ -325,11 +318,9 @@ Three points:
 {"range":"D2–A3","common":"D2–F3","caption":"定音鼓（一套）的总音域","caption_en":"Timpani (a set) — combined range","note":"定音鼓是「可调音高」的膜鸣乐器：靠踏板改变鼓皮张力。单支鼓约一个六度；常见的一套四支合起来约 D2–A3。记谱即实音。"}
 ```
 
-- A set of four spans about D2–A3, but each drum tunes over only about a sixth — so the total comes
-  from several drums each covering a stretch.
-- The working area is D2–F3; almost all orchestral writing lives there.
-- It carries the bass only. Timpani are never a melodic instrument, but they **decide the rhythm of the
-  low end**.
+- A set’s compass depends on diameters and models. Each drum covers only part of it, commonly around a fifth to sixth.
+- Retuning needs time for foot operation and pitch checking; a set is not a keyboard with immediate access to every note.
+- Timpani can carry bass lines, motives and melodic passages as well as rhythm.
 
 ## Timbre, and how to hear it
 
@@ -348,12 +339,10 @@ Four cues:
 
 ## Playing techniques
 
-- One mallet in each hand, so a player can strike two notes at once (more with more drums).
-- Damping by hand stops the ring — the basis of a clean release.
-- Mallet changes: at least soft, medium and hard, swapped by phrase.
-- Rolls: alternating strokes produce a sustained thunder — one of the orchestra's most effective ways
-  to build tension.
-- Pedal glissando: changing pitch after the strike, a modern technique.
+- With one mallet in each hand, a player normally strikes up to two drums simultaneously; adding drums does not automatically allow three or four simultaneous notes.
+- Hand damping controls resonance; consider whether the old pitch is still ringing before retuning.
+- Alternating strokes sustain a roll, with placement and speed adapted to drum size, pitch and dynamic.
+- A pedal glissando changes pitch continuously after the head is struck.
 
 ## The family
 

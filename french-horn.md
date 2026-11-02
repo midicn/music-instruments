@@ -26,18 +26,18 @@ instances:
   - pdmx-002479 | 为圆号与钢琴的四首小品 Op.35 —— 另一组室内乐写法
   - pdmx-000062 | 管乐五重奏（长笛 · 双簧管 · 单簧管 · **圆号** · 巴松）—— 圆号在标准管乐五重奏里的位置
 sources:
+  - "https://www.vsl.co.at/academy/brass/trumpet-c"
+  - "https://www.vsl.co.at/academy/brass/horn-f"
   - 结构依通行制琴资料：管身盘绕，展开约 3.7 米；黄铜，**圆锥比例大于小号**，号嘴为**漏斗形**（funnel），喇叭口宽大且较薄
   - 「F 调圆号是移调乐器，记谱比实音高纯五度」依通行配器资料
   - 「音域记谱 F♯2–C6（实音 B1–F5）」依通行配器资料
   - 「右手在喇叭口内靠手塞改变音色与音准，历史上曾用于改变音高」依乐器史与演奏通识
   - 「管越长泛音列越密，音准容错越小 —— 这是圆号音准难的根本原因」依管乐器声学
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
-圆号是铜管组里最特别的一件。它把[[instrument:trumpet|小号]]族的三个参数朝另一个方向推：
-**管子最长**（展开约 3.7 米）、**圆锥比例更大**、**号嘴是漏斗形而不是杯形**。
-结果它得到了本组最**温润、最远、最不像"铜管"**的音色 —— 以及最难控制的音准。
+圆号以嘴唇激励盘绕的管内空气柱，使用漏斗形号嘴。F 管长约 3.7 米，但并非铜管里最长；现代双排管圆号可在 F 管与较短的降 B 管之间切换。圆号谱通常仍按 F 调书写：记谱 C5 发实音 F4，低纯五度。
 
 它还有一个别的铜管都没有的动作：右手插在喇叭口里。
 
@@ -48,10 +48,7 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 铜管（圆号族） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，圆号不在其中 |
 
-> ⚠️ 一个概念上的要点："管子越长，音准越难"——这是铜管的普遍规律，圆号是它的极端。
-> 因为泛音列在长管上间距更小：小号上两个相邻泛音之间隔得较宽，
-> 嘴唇稍有偏差仍在同一个音上；圆号上泛音挨得很密，同样的偏差就会落到相邻的音上。
-> 所以圆号的难度不是"吹不响"，而是"每个音都要靠嘴唇找位置"。
+> 圆号常在相对于管长较高的分音区演奏。相邻分音的频率比是 (n+1):n，序号越高，音程越小，因此容易误入邻近分音。不能概括为“长管每个音程都更窄”，也不能仅凭管长比较不同乐器的难度。
 
 ## 结构：盘绕的长管与漏斗号嘴
 
@@ -80,7 +77,7 @@ updated: 2026-09-26
   <g font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">
     <text x="180" y="83" text-anchor="end">漏斗形号嘴</text>
     <text x="180" y="159" text-anchor="end" fill="#5B7FA8">管身盘绕（展开约 3.7 米）</text>
-    <text x="180" y="265" text-anchor="end">管壁较薄，音色因此更柔</text>
+    <text x="180" y="265" text-anchor="end">号口与管壁</text>
     <text x="180" y="335" text-anchor="end" fill="#E07A3F">旋转阀</text>
     <text x="492" y="117">宽大的喇叭口</text>
     <text x="492" y="303">右手伸进喇叭口</text>
@@ -94,53 +91,37 @@ updated: 2026-09-26
 1. 漏斗形号嘴（funnel）。嘴唇接触的面积与形状与杯形不同，
    这是圆号音色与[[instrument:trumpet|小号]]族分野的第三个参数 ——
    前两个是圆锥度与号嘴深度，圆号在第三个维度上也不同。
-2. 管子最长（约 3.7 米），盘绕成圈抱在怀里。管长是它音准难的直接原因（见下节）。
+2. F 管长约 3.7 米，盘绕后便于持握。准确选音还与所用分音、音区和演奏控制有关（见下节）。
 3. 右手伸进喇叭口。手的位置与张开程度会改变喇叭口的有效形状 →
    微调音高与音色。活塞发明之前，这是圆号改变音高的主要手段（"手塞音"）。
 
 ## 为什么圆号音准最难
 
 ```svg
-<svg viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="短管与长管的泛音间距对比：管子越长泛音越密，嘴唇偏差能容错的范围越小">
-  <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
-    <text x="20" y="22">泛音间距：管子越长，音与音挨得越近</text>
-  </g>
-  <text x="160" y="62" text-anchor="middle" font-size="11" fill="#5B7FA8">短管（小号 · 约 1.5 米）</text>
-  <g stroke="#5B7FA8" stroke-width="7" stroke-linecap="round">
-    <path d="M60,134 L60,114"/><path d="M130,134 L130,118"/>
-    <path d="M200,134 L200,122"/><path d="M270,134 L270,126"/>
-  </g>
-  <path d="M44,134 L286,134" stroke="#343439" stroke-width="1.3"/>
-  <text x="160" y="158" text-anchor="middle" font-size="10.5" fill="#A9A49B">泛音之间隔得宽 → 唇部容错大</text>
-  <text x="160" y="180" text-anchor="middle" font-size="10.5" fill="#5B7FA8">音准容易对准</text>
-  <text x="480" y="62" text-anchor="middle" font-size="11" fill="#E07A3F">长管（圆号 · 约 3.7 米）</text>
-  <g stroke="#E07A3F" stroke-width="7" stroke-linecap="round">
-    <path d="M340,134 L340,114"/><path d="M362,134 L362,118"/>
-    <path d="M384,134 L384,122"/><path d="M406,134 L406,125"/>
-    <path d="M428,134 L428,127"/><path d="M450,134 L450,129"/>
-    <path d="M472,134 L472,130"/><path d="M494,134 L494,131"/>
-    <path d="M516,134 L516,132"/><path d="M538,134 L538,133"/>
-  </g>
-  <path d="M324,134 L554,134" stroke="#343439" stroke-width="1.3"/>
-  <text x="480" y="158" text-anchor="middle" font-size="10.5" fill="#A9A49B">泛音挨得很密 → 唇部容错小</text>
-  <text x="480" y="180" text-anchor="middle" font-size="10.5" fill="#E07A3F">音准要靠嘴唇逐个找位置</text>
-  <text x="20" y="216" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">同一个嘴唇偏差，在短管上仍落在原音里，在长管上就会落到相邻的泛音上 —— 这就是圆号"冒泡"的原因。</text>
-  <text x="20" y="238" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">所以圆号的难度不在于吹响或吹高，而在于「每个音都要主动定位」，且定位的依据只有耳朵与唇感。</text>
-  <text x="20" y="264" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">右手在喇叭口里的手塞是另一层微调手段 —— 但它能补的是"几个音分"，不是"找错音"。</text>
+<svg viewBox="0 0 640 239" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="分音序号越高，相邻音程越小">
+<text x="24" y="32" font-family="system-ui,sans-serif" font-size="17" font-weight="700" fill="#A9A49B">分音序号越高，相邻音程越小</text>
+<rect x="24" y="53" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="76" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">第 4 → 第 5 分音 · 5:4</text>
+<text x="338" y="76" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">约 386 音分</text>
+<rect x="24" y="101" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="124" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">第 8 → 第 9 分音 · 9:8</text>
+<text x="338" y="124" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">约 204 音分</text>
+<rect x="24" y="149" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="172" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">第 15 → 第 16 分音 · 16:15</text>
+<text x="338" y="172" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">约 112 音分</text>
 </svg>
 ```
 
-这条规律可以推广到整个铜管组：
+同一个旋律音高，在不同长度的管上可能对应不同序号的分音。比较圆号与小号，要同时看管长、实际音区、口型和阀门配置；下面列出的管长只作尺寸参考，不是难度评分。
 
-| 乐器 | 管长 | 泛音间距 | 音准难度 |
-|---|---|---|---|
-| [[instrument:trumpet\|小号]] | 约 1.5 米 | 宽 | 中（高音区难） |
-| [[instrument:trombone\|长号]] | 约 2.7 米 | 中 | 中（但滑管可连续修正） |
-| 圆号 | 约 3.7 米 | 密 | 最高 |
-| [[instrument:tuba\|大号]] | 约 5.5 米 | 极密 | 高（但音区低、容忍度高） |
+| 乐器 | 近似管长 | 说明 |
+|---|---|---|
+| [[instrument:trumpet\|降 B 小号]] | 约 1.5 米 | 阀门可接入额外管长 |
+| [[instrument:trombone\|降 B 次中音长号]] | 约 2.7 米 | 管长随滑管位置改变 |
+| F 管圆号 | 约 3.7 米 | 双排管还包括较短的降 B 管 |
+| [[instrument:tuba\|大号]] | 随调与型号而变 | 不同调的管长不能混作一个固定值 |
 
-圆号难在"音区高 + 管子长"这个组合：管子长让泛音密集，音区高又要求精确 ——
-大号虽然管子更长，但它的音区低、人对低音的宽容度更大，所以难度没有圆号那么突出。
+双排管圆号用降 B 管演奏某些高音，可减少误入邻近分音的风险；使用哪一管仍由音准、响应和音色决定。右手位置也会改变音准和音色，完全手塞还会显著改变共振，不能说它只改几个音分。
 
 ## 音域
 
@@ -148,10 +129,9 @@ updated: 2026-09-26
 {"range":"B1–F5","written":"F♯2–C6","common":"B1–C4","caption":"圆号的记谱音域与实音音域","caption_en":"The horn: notated range above, sounding range below","note":"⚠️ F 调圆号是移调乐器 —— 记谱比实音高纯五度。谱面写 F♯2–C6，实际出声 B1–F5。实音音域约三个半八度，是铜管组里最宽的之一。"}
 ```
 
-- 实音 B1–F5，约三个半八度 —— 是铜管组里音域最宽的一件。
-- 常用区 B1–C4：它的工作重心在中低音区，那里它的温润最典型。
-- 高音区（C5 以上） 需要极高的控制力，通常留给独奏。
-- 它横跨了铜管组的中音与次中音两个声部 —— 这也是管弦乐常配四支圆号的原因。
+- 本页以实音 B1–F5 作宽范围示意，两端并非所有演奏者的舒适区。
+- 中音区既用于旋律，也用于和声连接；高音不只出现在独奏中。
+- 低音与高音常由不同声部重点承担，四支圆号可以组成和声织体，也能分组与其他乐器呼应。
 
 ## 音色与听辨
 
@@ -219,9 +199,7 @@ updated: 2026-09-26
 
 ## 下一步
 
-铜管这条线的下一站是"管长改变方式"的另一极：
-[[instrument:trombone|长号]]不用阀门，而用滑管连续改变管长 ——
-它是常规铜管里唯一能真正滑音的乐器。
+比较 [[instrument:trombone|长号]] 的滑管：它可连续改变管长，在同一分音支线上形成连续滑音。其他铜管也能用弯音、半阀等方法产生滑奏效果，但机制与限制不同。
 
 再往下就是铜管组的低音基础：[[instrument:tuba|大号]]，
 以及它之前的几件历史乐器（[[instrument:ophicleide|奥菲克莱德号]] · [[instrument:serpent|蛇形号]]）。
@@ -229,10 +207,7 @@ updated: 2026-09-26
 :::
 
 ::: en
-The horn is the most particular member of the brass group. It pushes the [[instrument:trumpet|trumpet]]
-family's parameters the other way: **the longest tube** (about 3.7 m unfolded), **a larger conical
-proportion**, and **a funnel mouthpiece rather than a cup**.
-The result is the group's warmest, most distant, least "brassy" tone — and the **hardest intonation**.
+The horn uses vibrating lips to excite air in a coiled tube and a funnel-shaped mouthpiece. Its F tubing is about 3.7 m long, not the longest among brass. A modern double horn switches between F and shorter B♭ tubing. Parts normally remain written in F: written C5 sounds F4, a perfect fifth lower.
 
 It also has a gesture no other brass has: **the right hand rests inside the bell.**
 
@@ -243,11 +218,7 @@ It also has a gesture no other brass has: **the right hand rests inside the bell
 | **Family** | Western · Brass (horn family) |
 | **Bayin** | Not applicable — a Chinese system; the horn is outside it |
 
-> ⚠️ One conceptual point: **the longer the tube, the harder the intonation — and the horn is the
-> extreme. Partials sit closer together** on a long tube: on a trumpet, adjacent partials are far enough
-> apart that a small lip error still lands on the same note; on a horn they crowd together, and the same
-> error lands on the neighbouring note. The difficulty is not "making a sound" but **"finding each
-> note with the lips".**
+> The horn often plays high in its tube’s harmonic series. Adjacent partials have the ratio (n+1):n, so their interval shrinks as the partial number rises, making a neighbouring partial easier to hit accidentally. This is not a claim that every interval on a longer tube is smaller, nor a ranking of instruments by tube length.
 
 ## Structure: a coiled tube and a funnel mouthpiece
 
@@ -276,7 +247,7 @@ It also has a gesture no other brass has: **the right hand rests inside the bell
   <g font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">
     <text x="180" y="83" text-anchor="end">Funnel mouthpiece</text>
     <text x="180" y="159" text-anchor="end" fill="#5B7FA8">Coiled tube (about 3.7 m)</text>
-    <text x="180" y="265" text-anchor="end">Thin walls, hence a softer tone</text>
+    <text x="180" y="265" text-anchor="end">Bell and tube wall</text>
     <text x="180" y="335" text-anchor="end" fill="#E07A3F">Rotary valves</text>
     <text x="492" y="117">A wide bell</text>
     <text x="492" y="303">Right hand inside the bell</text>
@@ -289,8 +260,7 @@ Three points:
 
 1. A funnel mouthpiece. The lip contact area and shape differ from a cup — a third parameter
    separating the horn from the [[instrument:trumpet|trumpet]] family (after conicality and depth).
-2. The longest tube (about 3.7 m), coiled in the arms. **Its length is the direct cause of the tuning
-   difficulty** (next section).
+2. F tubing is about 3.7 m long and coiled for handling. Accurate note selection depends on the partial, register and playing control, as explained below.
 3. The right hand inside the bell. The hand's position and opening change the bell's effective shape →
    fine adjustment of pitch and colour. Before valves, this was the horn's main way of changing pitch
    ("hand-stopping").
@@ -298,47 +268,30 @@ Three points:
 ## Why the horn is the hardest brass to keep in tune
 
 ```svg
-<svg viewBox="0 0 640 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Partial spacing compared between a short tube and a long tube: the longer the tube, the closer the partials and the smaller the lip tolerance">
-  <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
-    <text x="20" y="22">Partial spacing: the longer the tube, the closer the notes</text>
-  </g>
-  <text x="160" y="62" text-anchor="middle" font-size="11" fill="#5B7FA8">Short tube (trumpet · about 1.5 m)</text>
-  <g stroke="#5B7FA8" stroke-width="7" stroke-linecap="round">
-    <path d="M60,134 L60,114"/><path d="M130,134 L130,118"/>
-    <path d="M200,134 L200,122"/><path d="M270,134 L270,126"/>
-  </g>
-  <path d="M44,134 L286,134" stroke="#343439" stroke-width="1.3"/>
-  <text x="160" y="158" text-anchor="middle" font-size="10.5" fill="#A9A49B">wide gaps → generous lip tolerance</text>
-  <text x="160" y="180" text-anchor="middle" font-size="10.5" fill="#5B7FA8">easy to place in tune</text>
-  <text x="480" y="62" text-anchor="middle" font-size="11" fill="#E07A3F">Long tube (horn · about 3.7 m)</text>
-  <g stroke="#E07A3F" stroke-width="7" stroke-linecap="round">
-    <path d="M340,134 L340,114"/><path d="M362,134 L362,118"/>
-    <path d="M384,134 L384,122"/><path d="M406,134 L406,125"/>
-    <path d="M428,134 L428,127"/><path d="M450,134 L450,129"/>
-    <path d="M472,134 L472,130"/><path d="M494,134 L494,131"/>
-    <path d="M516,134 L516,132"/><path d="M538,134 L538,133"/>
-  </g>
-  <path d="M324,134 L554,134" stroke="#343439" stroke-width="1.3"/>
-  <text x="480" y="158" text-anchor="middle" font-size="10.5" fill="#A9A49B">crowded partials → little tolerance</text>
-  <text x="480" y="180" text-anchor="middle" font-size="10.5" fill="#E07A3F">each note placed by the lips</text>
-  <text x="20" y="216" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The same lip error stays on the note in a short tube and lands on a neighbouring partial in a long one.</text>
-  <text x="20" y="238" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">So the horn's difficulty is not sounding or reaching high, but locating every note by ear and lip alone.</text>
-  <text x="20" y="264" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Hand-stopping adjusts cents, not wrong notes — it cannot rescue a mis-placed partial.</text>
+<svg viewBox="0 0 640 239" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Higher partials have smaller adjacent intervals">
+<text x="24" y="32" font-family="system-ui,sans-serif" font-size="17" font-weight="700" fill="#A9A49B">Higher partials have smaller adjacent intervals</text>
+<rect x="24" y="53" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="76" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">Partials 4 → 5 · ratio 5:4</text>
+<text x="338" y="76" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">about 386 cents</text>
+<rect x="24" y="101" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="124" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">Partials 8 → 9 · ratio 9:8</text>
+<text x="338" y="124" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">about 204 cents</text>
+<rect x="24" y="149" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="172" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">Partials 15 → 16 · 16:15</text>
+<text x="338" y="172" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">about 112 cents</text>
 </svg>
 ```
 
-This rule generalises across the brass:
+The same melodic pitch may use different partial numbers on tubes of different lengths. Comparing horn and trumpet therefore requires tube length, sounding register, embouchure and valve configuration. Tube lengths below are size references, not difficulty scores.
 
-| Instrument | Tube | Partial spacing | Tuning difficulty |
-|---|---|---|---|
-| [[instrument:trumpet\|Trumpet]] | about 1.5 m | wide | moderate (hard at the top) |
-| [[instrument:trombone\|Trombone]] | about 2.7 m | medium | moderate (but the slide corrects continuously) |
-| Horn | about 3.7 m | crowded | highest |
-| [[instrument:tuba\|Tuba]] | about 5.5 m | very crowded | high (but low, so more forgiving) |
+| Instrument | Approximate tube length | Note |
+|---|---|---|
+| [[instrument:trumpet\|B♭ trumpet]] | about 1.5 m | valves add tubing |
+| [[instrument:trombone\|B♭ tenor trombone]] | about 2.7 m | changes with slide position |
+| F horn | about 3.7 m | a double horn also has shorter B♭ tubing |
+| [[instrument:tuba\|Tuba]] | varies with pitch and model | different tunings do not share one fixed length |
 
-The horn is hard because of the combination "high register + long tube": the long tube crowds the
-partials while the high register demands precision. The tuba's tube is longer still, but its register is low
-and the ear is more tolerant down there, so its difficulty is less notorious.
+Using the B♭ side of a double horn for some high notes can reduce the risk of landing on a neighbouring partial. Choice of side still depends on pitch, response and colour. The right hand also affects intonation and timbre; full stopping changes the resonances substantially, not merely by a few cents.
 
 ## Range
 
@@ -346,10 +299,9 @@ and the ear is more tolerant down there, so its difficulty is less notorious.
 {"range":"B1–F5","written":"F♯2–C6","common":"B1–C4","caption":"圆号的记谱音域与实音音域","caption_en":"The horn: notated range above, sounding range below","note":"⚠️ F 调圆号是移调乐器 —— 记谱比实音高纯五度。谱面写 F♯2–C6，实际出声 B1–F5。实音音域约三个半八度，是铜管组里最宽的之一。"}
 ```
 
-- Sounding B1–F5, about three and a half octaves — one of the widest ranges in the brass.
-- The working register is B1–C4; its weight sits low-middle, where its warmth is most typical.
-- Above C5 demands extreme control and is reserved for solos.
-- It spans the brass group's alto and tenor registers — which is why orchestras score four of them.
+- This page shows sounding B1–F5 as a broad compass; its extremes are not equally comfortable for every player.
+- The middle register serves melody and harmonic connection; high notes are not confined to solos.
+- Different horn parts often specialise in lower or higher writing. Four horns can form chords or answer other sections in groups.
 
 ## Timbre, and how to hear it
 
@@ -417,9 +369,7 @@ that mouthpiece and body are separately selectable parts, a general freedom in b
 
 ## Next
 
-The next stop on the brass line is the other pole of "how length changes": the
-[[instrument:trombone|trombone]], with no valves but a slide that changes the tube continuously — the only
-common brass that can truly glide.
+Compare the [[instrument:trombone|trombone]] slide: it changes tube length continuously and can glide along a single partial. Other brass can use bends or half-valve effects, with different mechanisms and limits.
 
 Below it sits the group's bass foundation, the [[instrument:tuba|tuba]], and its forebears
 (the [[instrument:ophicleide|ophicleide]] and the [[instrument:serpent|serpent]]).

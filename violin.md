@@ -4,8 +4,8 @@ site: inst
 cat: I1
 title: 小提琴
 title_en: Violin
-summary: 四根按纯五度定弦的弓弦乐器，管弦乐队里音域最高的常任声部
-summary_en: A bowed instrument whose four strings are tuned in fifths — the highest standing section of the orchestra
+summary: 四根弦按纯五度定弦，是管弦乐队弦乐组的高音成员
+summary_en: A four-string bowed instrument tuned in fifths, the upper member of the orchestral strings
 level: core
 tags: [乐器, 弦乐, 西洋]
 tags_en: [instrument, strings, western]
@@ -24,18 +24,18 @@ links:
   - "[[instrument:cello]]"
   - "[[instrument:double-bass]]"
 instances:
-  - musicnet-000039 | 独奏柔板，一条单旋律线几乎不间断 —— 换弓处的细小断口、长音的稳定度，是弓弦乐器最好认的特征
-  - musicnet-000000 | 同一部无伴奏组曲的前奏曲 —— 分解和弦与连续十六分音符，可听出四根弦各自的音色与响度差异
-  - musicnet-000041 | 西西里舞曲，附点节奏的歌唱性连弓，与上一首的跑句正好对照
-  - mutopia-000070 | 同一首奏鸣曲的纯记谱渲染版本，可对照「演奏转写」与「乐谱」两种形态
-  - thesession-000001 | 爱尔兰单声部舞曲 —— 提琴在传统音乐里的用法，全曲只有一条旋律线、没有伴奏
+  - musicnet-000039 | 目录为巴赫g小调第一奏鸣曲《柔板》；此MIDI设有三个弦乐程序，可看多声部配置，不把合成音中的细节当成真实换弓 | Catalogued as the Adagio from Bach’s first G-minor sonata; this MIDI assigns three string programs, so examine its parts rather than treating synthetic detail as actual bow changes
+  - musicnet-000000 | 巴赫E大调第三帕蒂塔《前奏曲》，不是上一条的同一部作品；可比较连续音型与柔板的节奏组织 | The Preludio from Bach’s third E-major partita is a different work from the preceding sonata; compare its continuous figures with the Adagio’s rhythmic organization
+  - musicnet-000041 | 目录为同一部g小调奏鸣曲的《西西里舞曲》，可与柔板比较节拍与句法 | Catalogued as the Siciliana from the same G-minor sonata, for comparing metre and phrasing with the Adagio
+  - mutopia-000070 | 《第一奏鸣曲BWV1001》的另一份MIDI谱面投影，可比较声部与时值，不能仅凭播放判断弓法或演奏者 | Another MIDI score rendering of Sonata I BWV1001, for comparing voices and durations rather than identifying bowing or a performer from playback
+  - thesession-000001 | 《The Butterfly》为单通道旋律文件，可把民间舞曲的旋律线与前面的多声部编排对照 | The Butterfly is a single-channel melody file, contrasting a folk dance line with the preceding multi-part arrangements
 sources:
   - 琴体比例取通行制琴数据：琴体长 356 毫米、上琴腰宽 168 毫米、腰宽 112 毫米、下琴腰宽 208 毫米
   - 定弦 G–D–A–E（纯五度）与常用音域属通行乐器学常识，各版乐器词典表述一致
   - 四个空弦的音高（G3 D4 A4 E5）依通行乐谱，属公有领域
   - 巴洛克琴与现代琴在琴颈角度、低音梁、指板长度、琴弦材质上的差异，依通行制琴史叙述
   - 「**琴体越大 → 声音越低**（弦长与共鸣体同步增大）」依弦鸣乐器原理 —— 这也是小提琴族四件成为一组的原因
-updated: 2026-09-25
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -43,7 +43,7 @@ updated: 2026-09-25
 **没有品**，所以音高不是"格子"而是连续的位置 —— 音准靠耳朵和左手的手感；
 **用弓摩擦**，所以声音可以一直持续，不必像弹拨或击弦那样一响就衰减。
 
-它是管弦乐队里音域最高的常任声部，也是数量最多的：一个标准编制的乐队里，
+它是管弦乐队弦乐组中音区最高的常任声部，也是数量最多的：一个标准编制的乐队里，
 第一与第二小提琴加起来常有二十多人。
 
 | 分类 | 归属 |
@@ -235,7 +235,7 @@ updated: 2026-09-25
 想听真实采样音色再点真实音色（首次需要下载音色库，之后会缓存）。
 
 ```audiolab
-{"type":"instrument","gm":"Violin","synth":"bowed","phrase":["G3","D4","A4","E5"],"label":"四根空弦：小提琴的四个音区","label_en":"Four open strings — the violin’s four registers","hint":"空弦音 G3–D4–A4–E5 就是纯五度；先听合成近似，再听 GM 采样对照","hint_en":"G3–D4–A4–E5 are the four open strings — each a fifth apart. Try the synth first, then the GM samples."}
+{"type":"instrument","gm":"Violin","synth":"bowed","phrase":["G3","D4","A4","E5"],"label":"小提琴四根空弦的音高","label_en":"Pitches of the violin’s four open strings","hint":"空弦音 G3–D4–A4–E5 就是纯五度；先听合成近似，再听 GM 采样对照","hint_en":"G3–D4–A4–E5 are the four open strings — each a fifth apart. Try the synth first, then the GM samples."}
 ```
 
 > 「在库中听例子」里的曲子是乐谱与演奏的骨架（转写或雕版 MIDI），
@@ -294,12 +294,11 @@ Guarneri 三代把琴体比例推到今天的标准。此后最大的变化不�
 
 ## 常见误解
 
-- "小提琴的音域和钢琴一样高。" → 差得远。钢琴最高到 C8，小提琴的极限音大约到 E7，
-  还低一个大三度；但小提琴在 G3–E6 这一段更常用、更响亮，钢琴在那一段反而要靠更多音堆起来。
+- 「小提琴有固定的最高音。」常用与极限音域受指法、演奏者和作品要求影响，不宜把 E7 当作所有作品的硬上限。若只比较 E7 与钢琴的 C8，两音相差小六度。
 - "没有品，所以音拉不准。" → 没有品正是为了两件事：音高能连续变化（才能揉弦、
   才能做出微调），以及四根弦的音程关系自成体系。音准靠训练，不靠格子。
 - "弓毛是头发，绷得越紧越好。" → 恰恰相反。弓毛张力过大会让弓杆失去弹性，
-  跳弓与控制都做不出来，长期还会拉伤弓毛与弓杆。正常演奏时弓毛几乎贴住弓杆。
+  跳弓与控制都做不出来，长期还会拉伤弓毛与弓杆。弓毛与弓杆之间应保留间隙，具体张力按琴弓状态与演奏需要调整；演奏后应松弓。
 - "贵琴的声音一定更好。" → 声音是一个系统（琴 + 弓 + 松香 + 演奏者 + 房间）。
   多次盲测中，演奏者与听众都不能稳定分辨老琴与现代高价琴，甚至会把现代琴评为更好。
 - "四根弦一样粗。" → 从 G 到 E 逐弦变细：粗弦振动慢、出低音。
@@ -322,7 +321,7 @@ The violin has four strings and no frets. Everything about it follows from those
 left hand. **Bowing** means the sound can be sustained indefinitely, instead of decaying the
 moment it starts the way a plucked or struck string does.
 
-It is the highest standing section of the orchestra and the largest: a full orchestra may carry
+It is the highest regular section of the orchestral strings and usually the largest: a full orchestra may carry
 twenty-odd players across first and second violins.
 
 | Classification | Value |
@@ -525,7 +524,7 @@ Use the player below for the timbre itself. Start with the synth approximation �
 download — then switch to real timbre if you want the sampled GM instrument.
 
 ```audiolab
-{"type":"instrument","gm":"Violin","synth":"bowed","phrase":["G3","D4","A4","E5"],"label":"四根空弦：小提琴的四个音区","label_en":"Four open strings — the violin’s four registers","hint":"空弦音 G3–D4–A4–E5 就是纯五度；先听合成近似，再听 GM 采样对照","hint_en":"G3–D4–A4–E5 are the four open strings — each a fifth apart. Try the synth first, then the GM samples."}
+{"type":"instrument","gm":"Violin","synth":"bowed","phrase":["G3","D4","A4","E5"],"label":"小提琴四根空弦的音高","label_en":"Pitches of the violin’s four open strings","hint":"空弦音 G3–D4–A4–E5 就是纯五度；先听合成近似，再听 GM 采样对照","hint_en":"G3–D4–A4–E5 are the four open strings — each a fifth apart. Try the synth first, then the GM samples."}
 ```
 
 > The tracks under “Listen in the library” are the skeleton of the music — transcription or
@@ -588,15 +587,12 @@ the historical-performance movement puts instruments back to Baroque specificati
 
 ## Common misconceptions
 
-- "The violin reaches as high as the piano." No. The piano goes to C8; the violin's extreme
-  lies around E7, a major third lower. But the violin is far more **usable and audible across
-  G3–E6**, where the piano needs a pile of notes to compete.
+- "The violin has a fixed highest note." Working and extreme ranges depend on technique, player and score; E7 is not a universal ceiling. Comparing just E7 and the piano’s C8 gives a minor sixth.
 - "No frets means it plays out of tune." Frets are absent precisely so pitch can move
   continuously (vibrato, fine adjustment) and so the four strings form their own system of
   intervals. Intonation is trained, not gridded.
 - "The hair should be as tight as possible." The opposite: over-tight hair kills the stick's
-  spring, so spiccato and control disappear, and the hair and stick suffer. In playing, the hair
-  lies almost against the stick.
+  spring, so spiccato and control disappear, and the hair and stick suffer. Playing tension leaves a gap between hair and stick; the appropriate tension depends on the bow and playing needs. Loosen the bow after playing.
 - "A more expensive instrument sounds better." Sound is a system — instrument, bow, rosin,
   player, room. In repeated blind tests neither players nor listeners could reliably pick out the
   old Italian instruments, and modern ones were sometimes preferred.

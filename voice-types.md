@@ -4,11 +4,20 @@ site: inst
 cat: I13
 title: 声部分类
 title_en: Voice classification
-summary: 分类测不出声音，只测出用途 —— Fach 是歌剧院的岗位表
-summary_en: Classification measures not the voice but its use — Fach is an opera house's staffing table
+summary: 综合音域、常用音区、换声、音色与灵活度，为歌手选择适合的声部和曲目
+summary_en: Range, tessitura, register transitions, timbre and agility help match singers with parts and repertoire
+range_policy: variable
+range_basis: 声部分类须综合常用音区、换声、音色与能力，单一最高最低音无法代表所有歌手，因此本页不绘制统一声部合幅。
 level: standard
-tags: [乐器, 电子, 电鸣, 西洋, 人声, 声部, Fach, 歌剧]
-tags_en: [instrument, electronic, electrophone, western, voice, voice-types, fach, opera]
+tags:
+  - 人声
+  - 歌唱
+  - 声乐
+  - 声部
+tags_en:
+  - voice
+  - singing
+  - voice-types
 alias: [声部分类, voice types, Fach, 声部, 抒情女高音, 戏剧女高音, coloratura]
 order: 200
 links:
@@ -17,327 +26,118 @@ links:
  - "[[concept:pitch]]"
  - "[[concept:timbre]]"
 instances:
- - chinafolk-004797 | 《领趟头号打得响》 —— 「领趟头」：号子的领唱者是「第一声部」的前形态——一领众和里，领与和就是最早的声部分工；声部分类不是从音乐学院开始的，是从抬木头的协作开始的（C3 · 仅限学习研究）
- - chinafolk-005265 | 《摇一橹来扎一帮（一）》 —— 「一帮」：合唱的 SATB 把人群按声部切片，号子的一帮把人群按协作切片——前者为和声设计，后者为动作设计——「帮」是分类的社会学起点（C3 · 仅限学习研究）
- - chinafolk-001890 | 《算姑本领高强》 —— 「本领」：Fach 的最后一维不是音域是「本领」——agility 与 stamina（花腔要飞，戏剧要扛）——算姑的本领高强，放在哪个声部都藏不住（C3 · 仅限学习研究）
+ - chinafolk-004797 | 《领趟头号打得响》 — 找出旋律经常停留的音区，再与偶尔出现的最高音比较。（仅限学习研究）
+ - chinafolk-005265 | 《摇一橹来扎一帮（一）》 — 设想把旋律移高或移低，比较同一音程结构在不同音区的安排。（仅限学习研究）
+ - chinafolk-001890 | 《算姑本领高强》 — 观察跳进、连续上行与长音的分布；不据MIDI推断原唱的Fach。（仅限学习研究）
 sources:
- - **主线：分类测不出声音，只测出用途（本页最该记住的一条）** —— 「Fach [fah-k] translates to 『compartment』 or 『pocket』, and was created in the mid-19th century to aid in the casting process for opera houses」； **「vocal classification is NOT a science, but rather a way to know what type of repertoire to sing healthily」；「Fach is a practical map, not a biological law」**—— **声部体系是歌剧院的岗位表：它测量的不是「声音是什么」，而是「这个声音该被放进哪部戏、哪个角色、哪份合同」**
- - **六维：音域只是起点** —— 「Range — the singer must be able to produce the required notes reliably, but isolated extreme notes carry less importance than usable notes——**an isolated high C does not make a tenor suited to an entire high tessitura**」；「Tessitura: a role may repeatedly remain high, low, or in the middle——**two parts can share the same highest note while imposing completely different fatigue**」；「Passaggi: transition areas where the voice changes coordination between registers」；「Vocal weight and projection: **not body size or microphone loudness** — it describes how the instrument sustains colour and projection against orchestration and across a hall」； **一个「重量」的定义，是整个分类学的缩影：声部是「扛不扛得住乐队与大厅」的问题，不是「唱得到多高」的问题**
- - **制度出身：分类是合同写的** —— 「Most German, Austrian, and Swiss houses follow the fest system, meaning singers are contracted to work in the same ensemble for 1–2 years……Hires are required to sing all the parts in their fach」； **一个歌手被签进某个 compartment，就要唱完这个 compartment 的所有角色——分类是人事处的工具，不是物理系的**； **身体-角色的历史关联**：「opera roles were developed to correspond to this connection between physical build and vocal sound——fairies, imps, and elves are sung by children or lyric, light voices」（对照反例：Dame Joan Sutherland——**瘦小的身体装下巨大的戏剧女高音，是分类学的著名Bug**）
- - **三套口径：全都不是「测量」是「配戏」** —— 「Choral vocal ranges normally organize singers by section and **do not correspond precisely to operatic Fächer**」； **合唱的 SATB 按声部截面切人群（为和声设计）· 歌剧的 Fach 按角色匹配切声音（为 cast 设计）· 中国戏曲的行当（生旦净末丑）按角色类型切嗓音（为扮戏设计）**—— **三套系统切的是同一堆人，刀法各不相同——因为要配的「戏」各不相同（对照中国京剧行当：老生的苍、青衣的润、花脸的炸——嗓音的角色化比西方更早、更细）**
- - **标签的暴力与流动性** —— 「Young and developing singers should be especially cautious about accepting narrow labels too early——**premature classification can encourage them to imitate a sound that does not fit their current instrument**」；「A singer's Fach can evolve. Training may improve coordination, resonance, endurance……Physical maturation, hormonal changes, health, and aging may also influence how the voice functions」；「using a heavier label as a career goal can cause harmful role choices」； **分类会流动，但标签会固化人——「让人模仿一个不是自己的声音」是声部体系最温柔的暴力**； **countertenor**：「male-identifying voice singing in falsetto register——a lot of Early/Baroque music, Xerxes in Handel's Xerxes」——**阉伶制度消亡后，假声男高音成了巴洛克声部的现代出口**
- - **家族速览** —— 女声：soubrette · lyric coloratura · dramatic coloratura · lyric · spinto · dramatic（soprano 六 Fach）；mezzo：coloratura · lyric · dramatic； contralto（rare low female）；男声：tenor（light lyric/comic/lyric/spinto/dramatic/**Heldentenor**）· baritone（lyric/**Kavalierbariton**/Verdi/dramatic/character）· bass（basso cantante/dramatic/basso profondo/bass buffo）； **「approximately 23 total fächer, but even within fachs there can be subdivisions」——一门约 23 个抽屉的分类学，还常常互相重叠（「Fach boundaries are not walls」）**
-updated: 2026-10-21
+  - "Rochdale Music Service — About voice types. https://www.rochdale.gov.uk/rochdale-music-service/book-voice-singing-lessons/2"
+  - "Royal Ballet and Opera — An introduction to opera’s voice types (2018). https://www.youtube.com/watch?v=hLfvkwTnJVM"
+updated: 2026-11-02
 ---
 
 ::: zh
 
-## 主线：分类测不出声音，只测出用途
+声部分类既观察声音本身，也服务于合唱分工与曲目选择。它不是只测最高音的考试，也不能简化成歌剧院按合同分配岗位。相同最高音可能属于常用音区、音色和持续能力不同的歌手。
 
-> 「**Fach [fah-k] translates to 『compartment』 or 『pocket』,
-> and was created in the mid-19th century to aid in the casting process
-> for opera houses**」.
-
- **「vocal classification is NOT a science, but rather a way to know
-what type of repertoire to sing healthily」；「Fach is a practical map,
-not a biological law.」**
-
- **声部体系是歌剧院的岗位表**——它测量的不是「声音是什么」，
-而是「这个声音该被放进哪部戏、哪个角色、哪份合同」。
-
-| HS 分类 | 归属 |
+| 说明 | 内容 |
 |---|---|
-| **HS 分类** | **人体（气鸣 · 簧振 + 滤波）**——**声部分类是「人的分类学」，HS 五分法管不到它：它的抽屉不按发声方式分，按用途分** |
-| **出身** | **19 世纪中的德语区歌剧院**（compartment/pocket · 为 casting 而生）——**分类是合同写的，不是物理写的** |
-| **八音注** | 八音之外——**中国戏曲行当（生旦净末丑）是同一思路的更早版本：按角色切嗓音，不为和声为扮戏** |
+| HS 分类 | 人声（人体发声，非电鸣）；此页不套用独立器乐的HS编号 |
 
-## 六维：音域只是起点
+## 看哪些特征
 
-| 维度 | 管什么 |
+| 特征 | 要区分的内容 |
 |---|---|
-| Range（音域） | **只是起点**——「an isolated high C does not make a tenor」 |
-| **Tessitura** | 角色常待的音区——「**两个声部可以共享同一个最高音，却带来完全不同的疲劳**」 |
-| Passaggi（换声点） | 声区转换的过渡带——「a role that camps around an unstable transition can be harder」 |
-| Timbre（音色） | bright / warm / metallic / dark |
-| **Weight（重量）** | **「不是体型、不是麦克风音量——是这件乐器扛住乐队、穿过大厅的能力」** |
-| Agility & stamina | 花腔要飞 · 戏剧要扛 |
-
- **一个「重量」的定义，是整个分类学的缩影**：声部是
-「扛不扛得住乐队与大厅」的问题，不是「唱得到多高」的问题。
-
-## 制度出身：分类是合同写的
-
- **「Most German, Austrian, and Swiss houses follow the fest system——
-singers are contracted to work in the same ensemble for 1–2 years……
-Hires are required to sing all the parts in their fach」**——
-**一个歌手被签进某个 compartment，就要唱完这个 compartment 的所有角色。**
-
- **身体-角色的历史关联**：「opera roles were developed to correspond to
-this connection between physical build and vocal sound——fairies, imps, and
-elves are sung by children or lyric, light voices」——（对照反例：
-Dame Joan Sutherland——**瘦小的身体装下巨大的戏剧女高音，
-是分类学的著名 Bug**）。
-
-## 三套口径：全都不是「测量」是「配戏」
-
-| 系统 | 切法 | 为谁设计 |
-|---|---|---|
-| 合唱 SATB | 按声部截面切人群 | 和声 |
-| 歌剧 Fach（约 23 个） | 按角色匹配切声音 | cast（选角） |
-| 中国行当（生旦净末丑） | 按角色类型切嗓音 | 扮戏 |
-
- **「Choral vocal ranges……do not correspond precisely to operatic Fächer」——
-三套系统切的是同一堆人，刀法各不相同，因为要配的「戏」各不相同。**
- **对照京剧行当：老生的苍 · 青衣的润 · 花脸的炸——
-嗓音的角色化比西方更早、更细（Fach 的 compartment 思维，行当早就有了）。**
-
-## 标签的暴力与流动性
-
- **「premature classification can encourage them to imitate a sound
-that does not fit their current instrument」—— 分类会流动，
-但标签会固化人——「让人模仿一个不是自己的声音」是声部体系最温柔的暴力。**
-「using a heavier label as a career goal can cause harmful role choices」。
-
- countertenor：「male-identifying voice singing in falsetto register」
-（巴洛克曲目的现代出口）——阉伶制度消亡后，假声男高音接过了那些声部。
-
- 家族速览：女声 soprano 六 Fach（soubrette · lyric coloratura ·
-dramatic coloratura · lyric · spinto · dramatic）＋ mezzo 三种 ＋ contralto；
-男声 tenor（含 Heldentenor）· baritone（含 Kavalierbariton · Verdi）·
-bass（basso cantante · basso profundo · bass buffo）——
-「Fach boundaries are not walls」。
-
-## 对照 auto-tune：管理声音的两种技术
-
- auto-tune 条用算法管理音高，声部分类用制度管理声音——
-一个修正每个音，一个安置整个人；**一个说「唱准」，一个说「唱对」。
-人类管理声音的两条路：技术的与行政的，都诞生于对「不完美人声」的不信任——
-也都反过来塑造了被管理的人。**
+| 音域 range | 可发出的最低与最高音，不能只记偶尔碰到的极限 |
+| 常用音区 tessitura | 一段作品长期停留的位置，歌手能否持续应付 |
+| 换声区域 passaggi | 声区转换的位置与衔接方式，需结合实际演唱观察 |
+| 音色与音量特征 | 声音的明暗、厚薄、穿透与动态，不能从体型直接推断 |
+| 灵活度与持续能力 | 跑动、跳进、重复音及较长篇幅的完成情况 |
 
 ```svg
-<svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Voice classification: six inputs of the Fach system (range, tessitura, passaggio, timbre, weight, agility), and three classification regimes — choral SATB, operatic Fach, and Chinese role types">
- <rect x="0" y="0" width="640" height="380" fill="#0D0C0A"/>
- <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
- <text x="20" y="22">声部分类 · 分类测不出声音，只测出用途</text>
- <text x="20" y="44" font-size="11" fill="#6E6A64">Fach = compartment（隔间）—— 19 世纪中，为歌剧院的 casting 而生</text>
-
- <!-- 六维 -->
- <text x="20" y="76" font-size="11" fill="#A9A49B" font-weight="600">六维输入（音域只是起点）</text>
- <g font-size="9.5">
- <rect x="20" y="88" width="186" height="34" rx="5" fill="none" stroke="#3A3733" stroke-width="1"/>
- <text x="30" y="104" fill="#6E6A64">Range 音域</text>
- <text x="30" y="118" font-size="8.5" fill="#6E6A64">起点 · 孤立的高 C 不算数</text>
- <rect x="216" y="88" width="186" height="34" rx="5" fill="none" stroke="#E8C547" stroke-width="1.2"/>
- <text x="226" y="104" fill="#E8C547" font-weight="600">Tessitura 常用音区</text>
- <text x="226" y="118" font-size="8.5" fill="#6E6A64">同最高音 ≠ 同疲劳</text>
- <rect x="412" y="88" width="208" height="34" rx="5" fill="none" stroke="#3A3733" stroke-width="1"/>
- <text x="422" y="104" fill="#A9A49B">Passaggi 换声点</text>
- <text x="422" y="118" font-size="8.5" fill="#6E6A64">驻扎在不稳过渡带比越过它更难</text>
- <rect x="20" y="128" width="186" height="34" rx="5" fill="none" stroke="#3A3733" stroke-width="1"/>
- <text x="30" y="144" fill="#A9A49B">Timbre 音色</text>
- <text x="30" y="158" font-size="8.5" fill="#6E6A64">bright / warm / metallic / dark</text>
- <rect x="216" y="128" width="186" height="34" rx="5" fill="none" stroke="#E07A3F" stroke-width="1.2"/>
- <text x="226" y="144" fill="#E07A3F" font-weight="600">Weight 重量</text>
- <text x="226" y="158" font-size="8.5" fill="#6E6A64">扛住乐队穿过大厅的能力</text>
- <rect x="412" y="128" width="208" height="34" rx="5" fill="none" stroke="#3A3733" stroke-width="1"/>
- <text x="422" y="144" fill="#A9A49B">Agility & Stamina</text>
- <text x="422" y="158" font-size="8.5" fill="#6E6A64">花腔要飞 · 戏剧要扛</text>
- </g>
-
- <!-- 三套口径 -->
- <text x="20" y="192" font-size="11" fill="#A9A49B" font-weight="600">三套口径：切的都是人，刀法各不相同</text>
- <g font-size="9.5">
- <rect x="20" y="204" width="190" height="86" rx="6" fill="none" stroke="#E8C547" stroke-width="1.2"/>
- <text x="30" y="222" fill="#E8C547" font-weight="600">合唱 SATB</text>
- <text x="30" y="240" font-size="9" fill="#A9A49B">按声部截面切人群</text>
- <text x="30" y="256" font-size="9" fill="#6E6A64">S · A · T · B 四部</text>
- <text x="30" y="278" font-size="9" fill="#6E6A64">→ 为和声设计</text>
- <rect x="225" y="204" width="190" height="86" rx="6" fill="none" stroke="#E07A3F" stroke-width="1.2"/>
- <text x="235" y="222" fill="#E07A3F" font-weight="600">歌剧 Fach（约 23）</text>
- <text x="235" y="240" font-size="9" fill="#A9A49B">按角色匹配切声音</text>
- <text x="235" y="256" font-size="9" fill="#6E6A64">soubrette → dramatic</text>
- <text x="235" y="278" font-size="9" fill="#6E6A64">→ 为 cast（选角）设计</text>
- <rect x="430" y="204" width="190" height="86" rx="6" fill="none" stroke="#3A3733" stroke-width="1"/>
- <text x="440" y="222" fill="#A9A49B" font-weight="600">中国行当</text>
- <text x="440" y="240" font-size="9" fill="#A9A49B">按角色类型切嗓音</text>
- <text x="440" y="256" font-size="9" fill="#6E6A64">生 · 旦 · 净 · 末 · 丑</text>
- <text x="440" y="278" font-size="9" fill="#6E6A64">→ 为扮戏设计</text>
- </g>
-
- <!-- 制度条 -->
- <rect x="20" y="306" width="600" height="40" rx="6" fill="none" stroke="#E07A3F" stroke-width="1"/>
- <text x="32" y="324" font-size="10.5" fill="#E07A3F" font-weight="600">制度：德语区驻院制——签进某个 compartment，就要唱完它的所有角色</text>
- <text x="32" y="340" font-size="9.5" fill="#6E6A64">分类是合同写的，不是物理写的。</text>
-
- <text x="20" y="368" font-size="9.5" fill="#6E6A64">countertenor：阉伶制度消亡后，假声男高音接过巴洛克声部的现代出口。</text>
- </g>
+<svg viewBox="0 0 640 244" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="三种问题，不能用一个标签代替">
+<text x="24" y="30" font-family="system-ui,sans-serif" font-size="17" font-weight="700" fill="#A9A49B">三种问题，不能用一个标签代替</text>
+<rect x="24" y="52" width="592" height="45" rx="8" fill="#17171A"/>
+<text x="38" y="70" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#E07A3F">这个人能唱哪些音？</text>
+<text x="38" y="87" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">音域、换声区域与实际发声表现</text>
+<rect x="24" y="110" width="592" height="45" rx="8" fill="#17171A"/>
+<text x="38" y="128" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#E07A3F">这份谱要求什么？</text>
+<text x="38" y="145" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">常驻音区、时值、元音、力度与篇幅</text>
+<rect x="24" y="168" width="592" height="45" rx="8" fill="#17171A"/>
+<text x="38" y="186" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#E07A3F">放在哪个声部或角色？</text>
+<text x="38" y="203" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">综合声音特点与团队、曲目的需要</text>
 </svg>
 ```
 
-```range
-{"range":"C2–C7","common":"C2–C7","caption":"声部分类的「音域」（各声部合幅 · Fach 用 tessitura 而非极限音）","caption_en":"Voice classification 「range」 (all voice types combined · Fach uses tessitura, not extremes)","note":"声部分类是「人的分类学」：HS 五分法管不到它——它的抽屉不按发声方式分，按用途分。音域取各声部合幅（约 C2–C7）：contralto F3–G5 · soprano C4–C6 · tenor C3–C5 · bass C2–E4。但 Fach 的六维里音域只是起点——更有用的是 tessitura（角色常待音区：「两个声部可共享同一个最高音，却带来完全不同的疲劳」）、passaggi（换声点）、timbre、weight（扛住乐队穿过大厅的能力，不是体型不是麦克风音量）与 agility/stamina。约 23 个 Fach，边界不固定（「Fach boundaries are not walls」），且随训练与成熟流动。","note_en":"Voice classification is a taxonomy of people: the HS system does not cover it — its compartments divide not by sound production but by use. The range spans all voice types (roughly C2–C7): contralto F3–G5 · soprano C4–C6 · tenor C3–C5 · bass C2–E4. But among Fach's six inputs range is only the beginning — more useful are tessitura (where a role sits: 「two parts can share the same highest note while imposing completely different fatigue」), passaggi (register transitions), timbre, weight (the power to carry through an orchestra and across a hall — not body size, not microphone loudness) and agility/stamina. About 23 Fächer, with unfixed borders (「Fach boundaries are not walls」), shifting with training and maturity."}
-```
+## 独唱分类与合唱声部
+
+西方古典独唱常用女高音、次女高音、女低音，以及男高音、男中音、男低音等名称。假声男高音 countertenor 通常在较高的声区演唱，与男高音并非同一个名称。
+
+SATB 中的 alto 是合唱声部，不等于每位唱 A 部的人都是独唱意义上的女低音；男中音也可能按作品与团队需要唱男高或男低声部。SSA、TTBB 等首先说明乐谱需要哪些声部。
+
+歌剧中的 Fach 进一步考虑某类角色需要的音区、音色、灵活度与声音分量。抒情、戏剧、花腔等标签帮助选择角色，但体系和边界并非所有剧院都完全一致，更不是仅凭一次高音就能确定。
+
+## 以乐句检验适配
+
+一条 C4–G4 的旋律只跨纯五度，仍可能因停留位置、速度、元音与力度而有不同难度。选曲时除了看两端音，还要看最高音出现多久、换声区是否反复经过、是否有足够换气位置。
 
 ```audiolab
-{"type":"instrument","gm":"Voice Oohs","phrase":["C3","E3","G3","C4","E4","G4","C5"],"label":"声部分类的被归类人声：借女声嘟近似（分类学听不出 Fach）","label_en":"The classified voice — voice oohs stand in (a taxonomy cannot be heard)","hint":"声部分类的本质是「分类测不出声音，只测出用途」——这条人声嘟取其「人声质感」，但 Fach 的六维在这里一个都听不出来：一是 tessitura（角色常待音区——两个声部可共享同一个最高音，却带来完全不同的疲劳）；二是 weight（扛住乐队穿过大厅的能力——不是体型不是麦克风音量）；三是分类的制度出身——19 世纪中德语区歌剧院的 compartment，签进某个 Fach 就要唱完它的所有角色：分类是合同写的。而三套口径（合唱 SATB / 歌剧 Fach / 中国行当）切的是同一堆人，刀法各不相同，因为要配的「戏」各不相同。","hint_en":"Voice classification's essence is 「classification measures not the voice but its use」 — this voice-oohs sample takes the vocal texture, but none of Fach's six dimensions can be heard: tessitura (where a role sits — two parts can share the same highest note while imposing completely different fatigue); weight (the power to carry through an orchestra and across a hall — not body size, not microphone loudness); and the system's institutional birth — the mid-19th-century German opera houses' compartments: hired into a Fach, you sing all its roles: classification is written by contract. And the three regimes (choral SATB / operatic Fach / Chinese role types) cut the same crowd with different knives, because the 「plays」 they serve differ."}
+{"type":"instrument","gm":"Voice Oohs","phrase":["C4","D4","E4","F4","G4","F4","E4","D4","C4"],"label":"C4–G4：常用音区不等于极限音","label_en":"C4–G4: a working phrase, not a range test","hint":"这段旋律只占纯五度。移调会改变它落在歌手哪个音区；同样能唱出最高音，不等于同样适合整段乐句。","hint_en":"This phrase spans a perfect fifth. Transposition changes its placement in a singer’s range; sharing the highest note does not mean sharing the most suitable tessitura."}
 ```
+
+初学和变声阶段宜保留调整空间，由教师结合长期、自然的发声表现安排声部。为了套进某个标签而刻意压暗、挤高或模仿音量，反而会妨碍判断。
+
 
 :::
 
 ::: en
 
-## The main line: classification measures not the voice but its use
+Voice classification considers the sound itself as well as the needs of ensembles and repertoire. It is neither a highest-note examination nor simply an opera house’s staffing decision. Singers sharing one top note may differ in tessitura, colour and endurance.
 
-> 「**Fach [fah-k] translates to 『compartment』 or 『pocket』,
-> and was created in the mid-19th century to aid in the casting process
-> for opera houses**」.
-
- **「vocal classification is NOT a science, but rather a way to know what
-type of repertoire to sing healthily」; 「Fach is a practical map, not a
-biological law.」**
-
- **The voice-type system is an opera house's staffing table** — it measures
-not 「what the voice is」 but 「which play, which role, which contract this
-voice belongs in」.
-
-| HS class | Assignment |
+| Classification note | Description |
 |---|---|
-| **HS class** | **the body (aerophone · reed vibration + filtering)** — **voice classification is a taxonomy of people, beyond the HS system's reach: its compartments divide not by sound production but by use** |
-| **Origin** | **the mid-19th-century German-speaking opera houses** (compartment/pocket · born for casting) — **classification is written by contract, not by physics** |
-| **Bayin note** | Outside the bayin — **Chinese opera role types (sheng/dan/jing/mo/chou) are an earlier version of the same idea: cutting voices by role — for performance, not for harmony** |
+| HS class | Human voice: bodily sound production, not an electrophone; no separate instrument number is assigned here |
 
-## Six inputs: range is only the beginning
+## What is considered
 
-| Input | What it governs |
+| Feature | What to distinguish |
 |---|---|
-| Range | **only the beginning** — 「an isolated high C does not make a tenor」 |
-| **Tessitura** | where a role sits — 「**two parts can share the same highest note while imposing completely different fatigue**」 |
-| Passaggi | register transitions — 「a role that camps around an unstable transition can be harder」 |
-| Timbre | bright / warm / metallic / dark |
-| **Weight** | **「not body size or microphone loudness — how the instrument sustains colour and projection against orchestration and across a hall」** |
-| Agility & stamina | coloratura must fly · dramatic must carry |
-
- **The definition of 「weight」 is the whole system in miniature**: a voice
-type is a question of 「can it carry through an orchestra and across a hall」,
-not 「how high can it reach」.
-
-## The institutional origin: classification is written by contract
-
- **「Most German, Austrian, and Swiss houses follow the fest system —
-singers are contracted to work in the same ensemble for 1–2 years……
-Hires are required to sing all the parts in their fach」** —
-**hired into a compartment, you sing every role in that compartment.**
-
- **The historical body-role link**: 「opera roles were developed to correspond
-to this connection between physical build and vocal sound — fairies, imps, and
-elves are sung by children or lyric, light voices」 — (against the famous
-exception: Dame Joan Sutherland — **a small frame holding a huge dramatic
-soprano, a celebrated bug in the classification system**).
-
-## Three regimes: never 「measurement」, always 「casting」
-
-| System | The cut | Designed for |
-|---|---|---|
-| Choral SATB | sections of a crowd | harmony |
-| Operatic Fach (~23) | voices matched to roles | cast |
-| Chinese role types | voices cut by role type | performance |
-
- **「Choral vocal ranges……do not correspond precisely to operatic Fächer」 —
-three systems cut the same crowd with different knives, because the 「plays」
-they serve differ. Against the Peking-opera role types: the aged
-sheng's hoarseness, the qingyi's smoothness, the painted face's blast — the
-role-tying of voices is earlier and finer than in the West (Fach's
-compartment thinking, the role types had it long ago).**
-
-## The violence of labels, and their fluidity
-
- **「premature classification can encourage them to imitate a sound that
-does not fit their current instrument」 — classifications flow, but
-labels fix people — 「making someone imitate a sound that is not their own」
-is the gentlest violence of the voice-type system.**
-「using a heavier label as a career goal can cause harmful role choices」.
-
- Countertenor: 「male-identifying voice singing in falsetto register」
-(the modern outlet for Baroque repertoire) — **after the castrati system died,
-the falsetto countertenor took over those parts.**
-
- A quick family view: soprano's six Fächer (soubrette · lyric coloratura ·
-dramatic coloratura · lyric · spinto · dramatic) plus three mezzo kinds plus
-contralto; tenor (including Heldentenor) · baritone (including
-Kavalierbariton · Verdi) · bass (basso cantante · basso profondo ·
-bass buffo) — 「Fach boundaries are not walls」.
-
-## Against auto-tune: two technologies for managing the voice
-
- **The auto-tune entry manages pitch with an algorithm; voice classification
-manages voices with an institution** — one corrects each note, the other places
-the whole person; **one says 「sing in tune」, the other says 「sing the right
-part」. Humanity's two roads for managing the voice — the technical and the
-administrative — both born of distrust of imperfect singing, and both in turn
-shaping the people they manage.**
+| Range | Lowest and highest available notes, rather than an occasional extreme |
+| Tessitura | Where a piece spends most of its time and whether that can be sustained |
+| Passaggi | Register-transition regions and how they are negotiated |
+| Timbre and dynamic character | Brightness, fullness, projection and flexibility; not inferred directly from body size |
+| Agility and stamina | Runs, leaps, repeated notes and sustained work across a longer piece |
 
 ```svg
-<svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Voice classification: six inputs of the Fach system (range, tessitura, passaggio, timbre, weight, agility), and three classification regimes — choral SATB, operatic Fach, and Chinese role types">
- <rect x="0" y="0" width="640" height="380" fill="#0D0C0A"/>
- <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
- <text x="20" y="22">Voice classification · classification measures not the voice but its use</text>
- <text x="20" y="44" font-size="11" fill="#6E6A64">Fach = compartment — mid-19th century, born for opera-house casting</text>
-
- <text x="20" y="76" font-size="11" fill="#A9A49B" font-weight="600">Six inputs (range is only the beginning)</text>
- <g font-size="9.5">
- <rect x="20" y="88" width="186" height="34" rx="5" fill="none" stroke="#3A3733" stroke-width="1"/>
- <text x="30" y="104" fill="#6E6A64">Range</text>
- <text x="30" y="118" font-size="8.5" fill="#6E6A64">the start · an isolated high C doesn't count</text>
- <rect x="216" y="88" width="186" height="34" rx="5" fill="none" stroke="#E8C547" stroke-width="1.2"/>
- <text x="226" y="104" fill="#E8C547" font-weight="600">Tessitura</text>
- <text x="226" y="118" font-size="8.5" fill="#6E6A64">same top note ≠ same fatigue</text>
- <rect x="412" y="88" width="208" height="34" rx="5" fill="none" stroke="#3A3733" stroke-width="1"/>
- <text x="422" y="104" fill="#A9A49B">Passaggi</text>
- <text x="422" y="118" font-size="8.5" fill="#6E6A64">camping on a shift is harder than crossing it</text>
- <rect x="20" y="128" width="186" height="34" rx="5" fill="none" stroke="#3A3733" stroke-width="1"/>
- <text x="30" y="144" fill="#A9A49B">Timbre</text>
- <text x="30" y="158" font-size="8.5" fill="#6E6A64">bright / warm / metallic / dark</text>
- <rect x="216" y="128" width="186" height="34" rx="5" fill="none" stroke="#E07A3F" stroke-width="1.2"/>
- <text x="226" y="144" fill="#E07A3F" font-weight="600">Weight</text>
- <text x="226" y="158" font-size="8.5" fill="#6E6A64">carrying through orchestra and hall</text>
- <rect x="412" y="128" width="208" height="34" rx="5" fill="none" stroke="#3A3733" stroke-width="1"/>
- <text x="422" y="144" fill="#A9A49B">Agility & Stamina</text>
- <text x="422" y="158" font-size="8.5" fill="#6E6A64">coloratura must fly · dramatic must carry</text>
- </g>
-
- <text x="20" y="192" font-size="11" fill="#A9A49B" font-weight="600">Three regimes: the same crowd, different knives</text>
- <g font-size="9.5">
- <rect x="20" y="204" width="190" height="86" rx="6" fill="none" stroke="#E8C547" stroke-width="1.2"/>
- <text x="30" y="222" fill="#E8C547" font-weight="600">Choral SATB</text>
- <text x="30" y="240" font-size="9" fill="#A9A49B">crowd cut into sections</text>
- <text x="30" y="256" font-size="9" fill="#6E6A64">S · A · T · B four parts</text>
- <text x="30" y="278" font-size="9" fill="#6E6A64">→ designed for harmony</text>
- <rect x="225" y="204" width="190" height="86" rx="6" fill="none" stroke="#E07A3F" stroke-width="1.2"/>
- <text x="235" y="222" fill="#E07A3F" font-weight="600">Operatic Fach (~23)</text>
- <text x="235" y="240" font-size="9" fill="#A9A49B">voices matched to roles</text>
- <text x="235" y="256" font-size="9" fill="#6E6A64">soubrette → dramatic</text>
- <text x="235" y="278" font-size="9" fill="#6E6A64">→ designed for cast</text>
- <rect x="430" y="204" width="190" height="86" rx="6" fill="none" stroke="#3A3733" stroke-width="1"/>
- <text x="440" y="222" fill="#A9A49B" font-weight="600">Chinese role types</text>
- <text x="440" y="240" font-size="9" fill="#A9A49B">voices cut by role type</text>
- <text x="440" y="256" font-size="9" fill="#6E6A64">sheng · dan · jing · mo · chou</text>
- <text x="440" y="278" font-size="9" fill="#6E6A64">→ designed for performance</text>
- </g>
-
- <rect x="20" y="306" width="600" height="40" rx="6" fill="none" stroke="#E07A3F" stroke-width="1"/>
- <text x="32" y="324" font-size="10.5" fill="#E07A3F" font-weight="600">The system: the German ensemble contract — hired into a compartment, you sing all its roles</text>
- <text x="32" y="340" font-size="9.5" fill="#6E6A64">Classification is written by contract, not by physics.</text>
-
- <text x="20" y="368" font-size="9.5" fill="#6E6A64">Countertenor: after the castrati system died, the falsetto countertenor took over the Baroque parts.</text>
- </g>
+<svg viewBox="0 0 640 244" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Three questions behind classification">
+<text x="24" y="30" font-family="system-ui,sans-serif" font-size="17" font-weight="700" fill="#A9A49B">Three questions behind classification</text>
+<rect x="24" y="52" width="592" height="45" rx="8" fill="#17171A"/>
+<text x="38" y="70" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#E07A3F">What can this singer produce?</text>
+<text x="38" y="87" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">Range, transitions and observed vocal behaviour</text>
+<rect x="24" y="110" width="592" height="45" rx="8" fill="#17171A"/>
+<text x="38" y="128" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#E07A3F">What does this score require?</text>
+<text x="38" y="145" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">Tessitura, duration, vowels, dynamics and length</text>
+<rect x="24" y="168" width="592" height="45" rx="8" fill="#17171A"/>
+<text x="38" y="186" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#E07A3F">Which part or role fits?</text>
+<text x="38" y="203" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">Combine vocal characteristics with musical and ensemble needs</text>
 </svg>
 ```
 
-```range
-{"range":"C2–C7","common":"C2–C7","caption":"声部分类的「音域」（各声部合幅 · Fach 用 tessitura 而非极限音）","caption_en":"Voice classification 「range」 (all voice types combined · Fach uses tessitura, not extremes)","note":"声部分类是「人的分类学」：HS 五分法管不到它——它的抽屉不按发声方式分，按用途分。音域取各声部合幅（约 C2–C7）：contralto F3–G5 · soprano C4–C6 · tenor C3–C5 · bass C2–E4。但 Fach 的六维里音域只是起点——更有用的是 tessitura（角色常待音区：「两个声部可共享同一个最高音，却带来完全不同的疲劳」）、passaggi（换声点）、timbre、weight（扛住乐队穿过大厅的能力，不是体型不是麦克风音量）与 agility/stamina。约 23 个 Fach，边界不固定（「Fach boundaries are not walls」），且随训练与成熟流动。","note_en":"Voice classification is a taxonomy of people: the HS system does not cover it — its compartments divide not by sound production but by use. The range spans all voice types (roughly C2–C7): contralto F3–G5 · soprano C4–C6 · tenor C3–C5 · bass C2–E4. But among Fach's six inputs range is only the beginning — more useful are tessitura (where a role sits: 「two parts can share the same highest note while imposing completely different fatigue」), passaggi (register transitions), timbre, weight (the power to carry through an orchestra and across a hall — not body size, not microphone loudness) and agility/stamina. About 23 Fächer, with unfixed borders (「Fach boundaries are not walls」), shifting with training and maturity."}
-```
+## Solo types and choral parts
+
+Western classical solo categories commonly include soprano, mezzo-soprano, contralto, tenor, baritone and bass. A countertenor usually sings in a higher register and is not another name for tenor.
+
+Choral alto is a part, so not everyone singing A is a contralto in solo classification. A baritone may sing tenor or bass depending on the music and ensemble. Labels such as SSA and TTBB first describe the parts required by the score.
+
+Operatic Fach adds the demands of role types: tessitura, colour, agility and vocal weight. Lyric, dramatic and coloratura labels help match repertoire, but their boundaries and systems are not identical everywhere. One high note cannot establish a Fach.
+
+## Assess the phrase
+
+A C4–G4 melody spans only a perfect fifth, yet placement, speed, vowels and dynamics affect its difficulty. Look beyond endpoints: how long do high notes last, how often does the music cross transition areas, and where can the singer breathe?
 
 ```audiolab
-{"type":"instrument","gm":"Voice Oohs","phrase":["C3","E3","G3","C4","E4","G4","C5"],"label":"声部分类的被归类人声：借女声嘟近似（分类学听不出 Fach）","label_en":"The classified voice — voice oohs stand in (a taxonomy cannot be heard)","hint":"声部分类的本质是「分类测不出声音，只测出用途」——这条人声嘟取其「人声质感」，但 Fach 的六维在这里一个都听不出来：一是 tessitura（角色常待音区——两个声部可共享同一个最高音，却带来完全不同的疲劳）；二是 weight（扛住乐队穿过大厅的能力——不是体型不是麦克风音量）；三是分类的制度出身——19 世纪中德语区歌剧院的 compartment，签进某个 Fach 就要唱完它的所有角色：分类是合同写的。而三套口径（合唱 SATB / 歌剧 Fach / 中国行当）切的是同一堆人，刀法各不相同，因为要配的「戏」各不相同。","hint_en":"Voice classification's essence is 「classification measures not the voice but its use」 — this voice-oohs sample takes the vocal texture, but none of Fach's six dimensions can be heard: tessitura (where a role sits — two parts can share the same highest note while imposing completely different fatigue); weight (the power to carry through an orchestra and across a hall — not body size, not microphone loudness); and the system's institutional birth — the mid-19th-century German opera houses' compartments: hired into a Fach, you sing all its roles: classification is written by contract. And the three regimes (choral SATB / operatic Fach / Chinese role types) cut the same crowd with different knives, because the 「plays」 they serve differ."}
+{"type":"instrument","gm":"Voice Oohs","phrase":["C4","D4","E4","F4","G4","F4","E4","D4","C4"],"label":"C4–G4：常用音区不等于极限音","label_en":"C4–G4: a working phrase, not a range test","hint":"这段旋律只占纯五度。移调会改变它落在歌手哪个音区；同样能唱出最高音，不等于同样适合整段乐句。","hint_en":"This phrase spans a perfect fifth. Transposition changes its placement in a singer’s range; sharing the highest note does not mean sharing the most suitable tessitura."}
 ```
+
+Beginners and changing voices need room for reassessment over time with a teacher. Artificially darkening, squeezing high notes or imitating volume to fit a label makes evaluation less useful.
+
 :::

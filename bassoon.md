@@ -25,17 +25,18 @@ instances:
   - giantmidi-009150 | Bassoon Sonata No.2 —— 另一首独奏文献，可对照不同时期的写法
   - pdmx-000062 | 管乐五重奏（长笛 · 双簧管 · 单簧管 · 圆号 · 巴松）—— 巴松在标准木管五重奏里承担低音
 sources:
+  - "https://phys.unsw.edu.au/jw/flutes.v.clarinets.html"
+  - "https://www.vsl.co.at/academy/woodwinds/bassoon"
   - 结构依通行制琴资料：管身对折成 U 形，展开长度约 2.5 米、立起高约 1.35 米；木质（枫木）圆锥管，顶端经金属 S 管（bocal）后插双簧哨片，喇叭口朝上
   - 「巴松为 C 调乐器，记谱即实音」依通行配器资料
   - 「音域 B♭1–E5」依通行配器资料（约三个半八度）
   - 「低音区用低音谱号、高音区改用次中音谱号」依通行记谱惯例
   - 「S 管（bocal）的几何形状会明显影响音准与音色」依乐器制作与演奏通识
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
-巴松是木管组里**音域最宽的一件**（约三个半八度），也是外形最不像"一根管"的一件：
-它的管身对折成 **U 形**，展开有 2.5 米，立起来只有 1.35 米高。
+巴松是音域较宽的低音、次中音双簧木管。长约 2.5 米的圆锥管在底节折返，形成两根并排的管段，乐器直立时约 1.35 米高。
 
 它与[[instrument:oboe|双簧管]]同族（**圆锥管 + 双簧**），但因为是木管组的低音基础，
 它同时承担了两件常常相反的工作：**给和声垫底**，以及在需要时扮滑稽。
@@ -98,7 +99,7 @@ updated: 2026-09-26
    于是对折一次，让两段并排。管长与音高的关系在这里被"折"进了人体尺度。
 2. S 管（bocal）是一段金属弯管。它连接哨片与管身，而且形状直接影响音准与音色 ——
    演奏者常备不同 S 管以适配不同环境（温度、湿度、音高）。
-3. 喇叭口朝上（与低音单簧管同）。低音向地面辐射会被吸收，所以低音乐器的喇叭口多朝上。
+3. 喇叭口朝上。辐射还会经过开放音孔，方向与音高有关，不能以“低频遇地面就被吸收”解释所有低音乐器的朝向。
 
 ## 同样低音，两种管形
 
@@ -116,15 +117,14 @@ updated: 2026-09-26
   <rect x="472" y="84" width="18" height="178" rx="3" fill="#17171A" stroke="#343439" stroke-width="1.4"/>
   <path d="M472,262 L490,262 L504,224 L458,224 Z" fill="#17171A" stroke="#343439" stroke-width="1.4"/>
   <text x="480" y="286" text-anchor="middle" font-size="10.5" fill="#E07A3F">绵密柔顺、暗而厚</text>
-  <text x="20" y="308" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">左管的管径沿长度逐渐增大，右管几乎等径 —— 这一条差别，决定了两种低音的质感。</text>
+  <text x="20" y="308" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">两者管形与激励方式不同；簧片、音孔与奏法也参与形成音色。</text>
 </svg>
 ```
 
-一条很干净的因果链：
+巴松的近圆锥管与低音单簧管的近圆柱管有不同的共振结构，常见超吹关系分别为八度和十二度。低音单簧管低音区常以奇次谐波较突出，却不是只有奇次谐波。两者的音色还受到不同簧片、吹嘴、音孔与奏法影响，不能从“泛音多或少”直接推出谁清晰、谁模糊。
 
-- 圆锥管（巴松）能激起全部泛音 → 泛音丰富 → 音色有颗粒与芯，
-  低音区甚至带明显的木质"嗡"。
-- 圆柱管（低音单簧管）只有奇次泛音 → 泛音少而规整 → 音色绵密、柔顺、暗。
+- 巴松通常超吹八度，低音单簧管通常超吹十二度。
+- 真实声音的分音强弱随音区、簧片和奏法变化；低音单簧管也含偶次谐波。
 
 在管弦乐里，这两件乐器因此分工明确：**巴松给低音线条"面子"（可辨的音色），
 低音单簧管给低音织体"里子"（厚而无棱角）。**
@@ -135,9 +135,9 @@ updated: 2026-09-26
 {"range":"B♭1–E5","common":"B♭1–C4","caption":"巴松的音域","caption_en":"Bassoon range","note":"巴松不移调：记谱即实音（低音区用低音谱号，高音区改用次中音谱号）。标准音域 B♭1–E5，约三个半八度 —— 是木管组里音域最宽的一件。"}
 ```
 
-- 实音 B♭1–E5，约三个半八度 —— 木管组里最宽，与[[instrument:clarinet|单簧管]]相当。
-- 低音区 B♭1–C4 是它最有辨识度的一段，也是它在乐队里最常被使用的部分。
-- 高音区（A4 以上） 会用次中音谱号记谱，音色变细、变紧 —— 这一段是独奏文献的用武之地。
+- 此处以实音 B♭1–E5 概括常见音域；熟练演奏者还能使用更高的音，不能据此排名“木管最宽”。
+- 低音与次中音声部通常用低音谱号，较高段落可用次中音谱号，换谱号并无统一的 A4 分界。
+- 高音区可用于独奏，响应与指法和中低音区不同。
 
 ## 音色与听辨
 
@@ -165,8 +165,8 @@ updated: 2026-09-26
 
 | 乐器 | 调 | 记谱 vs 实音 | 管形 | 与巴松的关系 | 音色 |
 |---|---|---|---|---|---|
-| [[instrument:oboe\|双簧管]] | C | 同音 | 圆锥 · 直 | 高**两个八度** | 窄、集中、亮 |
-| [[instrument:english-horn\|英国管]] | F | 记谱比实音**高纯五度** | 圆锥 · 直 + 球状喇叭 | 高**一个八度** | 暗、哀 |
+| [[instrument:oboe\|双簧管]] | C | 同音 | 圆锥 · 直 | 较高音区，非固定移调 | 窄、集中、亮 |
+| [[instrument:english-horn\|英国管]] | F | 记谱比实音**高纯五度** | 圆锥 · 直 + 球状喇叭 | 中音区，非固定移调 | 暗、哀 |
 | **巴松** | C | 同音 | **圆锥 · U 形对折** | 本体 | 木质感、低音厚 |
 | [[instrument:contrabassoon\|低音巴松]] | C | 记谱比实音**高一个八度** | **圆锥 · 对折更多** | 低**一个八度** | 极低、暗、浑 |
 | [[instrument:bass-clarinet\|低音单簧管]] | B♭ | 记谱比实音**高大九度** | **圆柱 · 折返** | 另一族 | 绵密、柔顺 |
@@ -216,8 +216,7 @@ updated: 2026-09-26
 :::
 
 ::: en
-The bassoon has **the widest range of any woodwind** (about three and a half octaves), and the least
-tube-like shape: its body is folded into a **U**, 2.5 m of tubing standing only 1.35 m tall.
+The bassoon is a double-reed woodwind spanning bass and tenor registers. Its conical tube is about 2.5 m long and turns within the boot into two parallel sections; the assembled instrument stands about 1.35 m high.
 
 It belongs with the [[instrument:oboe|oboe]] (a **conical tube with a double reed**), but as the woodwind
 group's bass it does two jobs that often pull in opposite directions: **underpinning the harmony**, and
@@ -282,8 +281,7 @@ Three points:
    folded once and the two limbs run side by side. Tube length is folded down to human scale.
 2. The bocal is a bent metal tube joining reed to body, and **its geometry directly affects pitch and
    colour** — players keep several to suit different conditions.
-3. The bell points up (as on the bass clarinet). Low frequencies radiate into the floor and get
-   absorbed, so low instruments tend to aim their bells upward.
+3. The bell points upward, while open tone holes also radiate sound. Floor absorption is not a general explanation for the bell orientation of bass instruments.
 
 ## The same low register, two bores
 
@@ -301,16 +299,14 @@ Three points:
   <rect x="472" y="84" width="18" height="178" rx="3" fill="#17171A" stroke="#343439" stroke-width="1.4"/>
   <path d="M472,262 L490,262 L504,224 L458,224 Z" fill="#17171A" stroke="#343439" stroke-width="1.4"/>
   <text x="480" y="286" text-anchor="middle" font-size="10.5" fill="#E07A3F">close-grained, dark, thick</text>
-  <text x="20" y="308" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The left bore widens along its length, the right stays even — that one difference sets the two lows apart.</text>
+  <text x="20" y="308" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Bore, reeds, tone holes and playing technique all contribute to the different colours.</text>
 </svg>
 ```
 
-One clean causal chain:
+The bassoon’s nearly conical bore and bass clarinet’s nearly cylindrical bore have different resonance patterns, commonly overblowing at an octave and twelfth respectively. Odd harmonics often dominate the bass clarinet’s low register, but even harmonics are not absent. Reed, mouthpiece, holes and playing technique also differ; harmonic count alone does not decide clarity.
 
-- A conical bore (bassoon) sustains all harmonics → a rich spectrum → grain and a core, with an
-  audible woody hum at the bottom.
-- A cylindrical bore (bass clarinet) sustains only odd harmonics → fewer, more regular partials →
-  close-grained, supple, dark.
+- Bassoon normally overblows an octave; bass clarinet normally overblows a twelfth.
+- Real partial strengths depend on register, reed and technique; bass clarinet also contains even harmonics.
 
 Hence their division of labour: the bassoon gives the low line a face (a recognisable colour), while
 the bass clarinet gives the low texture a floor (thick and edgeless).
@@ -321,11 +317,9 @@ the bass clarinet gives the low texture a floor (thick and edgeless).
 {"range":"B♭1–E5","common":"B♭1–C4","caption":"巴松的音域","caption_en":"Bassoon range","note":"巴松不移调：记谱即实音（低音区用低音谱号，高音区改用次中音谱号）。标准音域 B♭1–E5，约三个半八度 —— 是木管组里音域最宽的一件。"}
 ```
 
-- Sounding B♭1–E5, about three and a half octaves — the widest in the woodwind group, matching the
-  [[instrument:clarinet|clarinet]].
-- The low register B♭1–C4 is its most identifiable stretch and the part most used in ensembles.
-- Above A4 it is written in tenor clef and its colour turns thinner and tenser — where the solo
-  repertoire lives.
+- This page uses sounding B♭1–E5 as a common working compass; experienced players can extend higher. It does not establish a “widest woodwind” ranking.
+- Bass clef is usual, with tenor clef used to make higher passages easier to read; there is no universal A4 changeover.
+- The high register is useful for solos and has its own response and fingerings.
 
 ## Timbre, and how to hear it
 
@@ -358,8 +352,8 @@ Four cues:
 
 | Instrument | Key | Written vs sounding | Bore | Relation to the bassoon | Timbre |
 |---|---|---|---|---|---|
-| [[instrument:oboe\|Oboe]] | C | at pitch | conical, straight | **two octaves** up | narrow, focused, bright |
-| [[instrument:english-horn\|English horn]] | F | written a **fifth above** sounding | conical + bulbous bell | an **octave** up | dark, plaintive |
+| [[instrument:oboe\|Oboe]] | C | at pitch | conical, straight | higher register, no fixed transposition | narrow, focused, bright |
+| [[instrument:english-horn\|English horn]] | F | written a **fifth above** sounding | conical + bulbous bell | middle register, no fixed transposition | dark, plaintive |
 | **Bassoon** | C | at pitch | **conical, folded U** | the standard | woody, thick low |
 | [[instrument:contrabassoon\|Contrabassoon]] | C | written an **octave above** sounding | **conical, folded further** | an **octave** down | very low, dark, misty |
 | [[instrument:bass-clarinet\|Bass clarinet]] | B♭ | written a **major ninth above** sounding | **cylindrical, folded** | another family | close-grained, supple |

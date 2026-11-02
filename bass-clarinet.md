@@ -24,18 +24,18 @@ instances:
   - pdmx-000062 | 管乐五重奏（长笛 · 双簧管 · 单簧管 · 圆号 · 巴松）—— 标准木管五重奏的低音分工参照
   - m21-003066 | 韦伯单簧管小协奏曲 —— 单簧管族的语言，可对照低音支系的音区下移
 sources:
+  - "https://phys.unsw.edu.au/jw/flutes.v.clarinets.html"
+  - "https://www.vsl.co.at/academy/woodwinds/bass-clarinet"
   - 结构依通行制琴资料：全长约 120 厘米（管身折返一次），木质或树脂圆柱管，颈段弯管连接吹嘴，喇叭口朝上外张
   - 「低音单簧管为降 B 调移调乐器，记谱比实音高大九度（一个八度 + 大二度）」依通行配器资料
   - 「音域记谱 E♭3–G6（实音 D♭2–F5）」依通行配器资料
   - 「低音单簧管保留单簧管族的三个音区结构，只是整体下移」依管乐器声学
   - ⚠️ 库内标题可确认为低音单簧管的曲目很少 —— 本条另给两条**同族/同编制**曲目作音区与分工对照，音色由试听件负责
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
-低音单簧管是[[instrument:clarinet|单簧管]]族的低音成员，但它做了一件别的低音乐器很少做的事：
-**管身折返一次，而音区结构原封不动地整体下移。**
-所以它听起来"确实是单簧管"，只是低了一个大九度。
+低音单簧管是单簧管族的低音成员。和降 B 单簧管读同一个谱面音时，它通常低一个八度；和自己的谱面相比，则低大九度。譬如两者都读 C4：降 B 单簧管响 B♭3，降 B 低音单簧管响 B♭2。
 
 它还有一个在木管里很极端的数字：**记谱比实音高大九度** —— 一个八度加大二度。
 
@@ -88,18 +88,15 @@ updated: 2026-09-26
     <text x="492" y="203">下行管身</text>
     <text x="492" y="323">按键与音孔</text>
   </g>
-  <text x="20" y="424" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">管身折返让 120 厘米的管子能坐着吹 —— 与巴松的"U 形对折"是同一个思路，只是折得更少。</text>
+  <text x="20" y="424" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">常见形制有长管身、金属弯颈与朝上的喇叭口；低音延伸型号的键系不同。</text>
 </svg>
 ```
 
 三处要点：
 
-1. 折返一次（不是巴松那样的 U 形对折）。所以它的外形是"一根长管 + 一个回转"，
-   而不是巴松那样"两根平行管 + 顶部 S 管"。折返的段数直接反映管长。
-2. 喇叭口朝上外张。这与单簧管的朝下喇叭不同 —— 低音单簧管的喇叭口向上，
-   声音更容易投射出去（否则低频会被地面吸收）。
-3. 键距极宽。管身长，音孔间距大，所以它有一套额外的联动键，
-   让演奏者的手不必真的够到每一个孔。
+1. 常见形制是长直管身、顶部弯金属接管与向上折回的喇叭口，并非所有型号都有同一折返形状。
+2. 声音既由喇叭口也由开放音孔辐射；朝上的喇叭口不能用“否则低频被地面吸收”概括。
+3. 较大的音孔由键垫覆盖，连杆让手指能控制远处音孔；低音延伸型号还增加低音键。
 
 ## 记谱：为什么是"大九度"
 
@@ -143,9 +140,9 @@ updated: 2026-09-26
 {"range":"D♭2–F5","written":"E♭3–G6","common":"D♭2–B♭4","caption":"低音单簧管的记谱音域与实音音域","caption_en":"The bass clarinet: notated range above, sounding range below","note":"⚠️ 低音单簧管是降 B 调移调乐器 —— 记谱比实音高大九度（一个八度 + 大二度）。谱面写 E♭3–G6，实际出声 D♭2–F5。低音可加键下探至 C2。"}
 ```
 
-- 实音 D♭2–F5，恰好覆盖了单簧管音域的下方一整段。
-- 常用区 D♭2–B♭4：它主要在低音区工作 —— 这正是它存在的理由。
-- 高音区（C5 以上） 虽然能吹，但音色会变得像"更粗的单簧管"，用得少。
+- 低音下限随型号而变：谱面低 E♭ 的型号到实音 D♭2，谱面低 C 的型号到实音 B♭1。
+- 高音可以超出 F5；具体作品的高音指法与响应需要单独确认。
+- 现代常用高音谱号、低大九度发声，历史总谱还可能采用不同的低音谱号移调惯例。
 
 ## 音色与听辨
 
@@ -222,9 +219,7 @@ updated: 2026-09-26
 :::
 
 ::: en
-The bass clarinet is the [[instrument:clarinet|clarinet]] family's low member, and it does something few
-low instruments do: **it folds its tube once and shifts the whole register structure down unchanged.** So
-it sounds unmistakably like a clarinet — a major ninth lower.
+The bass clarinet is a low member of the clarinet family. For the same written note it normally sounds an octave below the B♭ clarinet, while sounding a major ninth below its own notation. Written C4 sounds B♭3 on a B♭ clarinet and B♭2 on a B♭ bass clarinet.
 
 It also carries an extreme figure among woodwinds: **written a major ninth above sounding** — an octave
 plus a major second.
@@ -278,18 +273,15 @@ plus a major second.
     <text x="492" y="203">Descending body</text>
     <text x="492" y="323">Keys and tone holes</text>
   </g>
-  <text x="20" y="424" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The fold lets 120 cm of tube be played sitting down — the bassoon's U-fold in a simpler form.</text>
+  <text x="20" y="424" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">A common form has a long body, curved neck and upturned bell; low extensions add keywork.</text>
 </svg>
 ```
 
 Three points:
 
-1. Folded once, not the bassoon's U. So its shape is "one long tube plus a turnaround" rather than two
-   parallel bores with a crook on top. The number of folds tells you the tube length.
-2. The bell flares upward, unlike a clarinet's downward bell — otherwise the low frequencies would be
-   absorbed by the floor instead of projecting.
-3. Very wide key spacing. A long body puts the holes far apart, so it carries a set of **extra linked
-   keys** so the hand need not actually reach every hole.
+1. A common form has a long body, a curved metal neck and an upturned bell; not every model uses the same bends.
+2. Both the bell and open tone holes radiate. The upturned bell is not explained by claiming the floor would otherwise absorb the low frequencies.
+3. Pads cover the large holes, and linkages bring distant holes within finger control. Extended-low models add more low-note keys.
 
 ## Notation: why a major ninth
 
@@ -334,9 +326,9 @@ applies to the [[instrument:piccolo|piccolo]] (written an octave low) and the
 {"range":"D♭2–F5","written":"E♭3–G6","common":"D♭2–B♭4","caption":"低音单簧管的记谱音域与实音音域","caption_en":"The bass clarinet: notated range above, sounding range below","note":"⚠️ 低音单簧管是降 B 调移调乐器 —— 记谱比实音高大九度（一个八度 + 大二度）。谱面写 E♭3–G6，实际出声 D♭2–F5。低音可加键下探至 C2。"}
 ```
 
-- Sounding D♭2–F5, covering the whole lower stretch of the clarinet's range.
-- The working register is D♭2–B♭4: it works mainly low, which is why it exists.
-- Above C5 it can play, but the colour turns into "a fatter clarinet" and it is used sparingly.
+- The bottom depends on the model: written low E♭ sounds D♭2, while a low-C model reaches sounding B♭1.
+- The upper register can extend beyond F5; fingerings and response should be checked for the intended passage.
+- Modern treble-clef notation sounds a major ninth lower. Historical scores may use different bass-clef conventions.
 
 ## Timbre, and how to hear it
 

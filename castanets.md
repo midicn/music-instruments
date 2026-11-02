@@ -4,8 +4,8 @@ site: inst
 cat: I4
 title: 响板
 title_en: Castanets
-summary: 两片硬木对击的体鸣乐器，西班牙音乐的核心节奏器
-summary_en: Two hardwood shells struck together — the rhythmic core of Spanish music
+summary: 成对凹壳碰击发声，通过手指顺序和开合控制节奏
+summary_en: Paired concave shells, with rhythm controlled by finger sequence and opening
 level: standard
 tags: [乐器, 打击, 西洋, 世界]
 tags_en: [instrument, percussion, western, world]
@@ -29,7 +29,7 @@ sources:
   - 「响板属**体鸣**乐器，无固定音高 —— 两片木壳互击，材料本身振动」依 Hornbostel–Sachs 分类
   - 「凹腔形状使其发声清脆而有穿透力，与实心的敲击棒音色明显不同」依乐器声学
   - 「西班牙传统中常成对使用（一手一对），并有专门的滚奏技法（carretilla）」依西班牙音乐传统
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -77,10 +77,10 @@ updated: 2026-09-26
 
 ## 滚奏是门槛
 
-无固定音高，所以没有音域。它靠手型与击法变化：单击清楚，双击是两下快速的连击，拇指击偏闷偏低，手指击偏亮偏高。真正难的是 carretilla，五根手指依次落下，得到一串均匀的滚奏，西班牙舞曲里那种密集的节奏全靠它。演奏者还得同时跳舞，手在动，身体也在动。它是少数必须站着演奏、还要一边移动身体的打击乐器。
+响板没有固定音高，演奏主要通过击打时机、手指顺序、开合和止音控制节奏与音色。carretilla 是手指依次击打形成的连续滚奏。舞者可以边舞边奏，音乐会演奏则不要求同时跳舞；配器时应写清节奏、重音和持续时间。
 
 ```audiolab
-{"type":"instrument","drum":75,"synth":"perc","phrase":[75,75,75,75,75,75],"label":"响板的连续击奏：西班牙响板的典型节奏","label_en":"A castanet roll — the sound of Spanish dance music","hint":"注意清脆的木质感 —— 通用音色表里没有响板，这里借敲击棒音色近似","hint_en":"Hear the crisp wooden click. General MIDI has no castanets, so a claves sample stands in."}
+{"type":"instrument","drum":75,"synth":"perc","phrase":[75,75,75,75,75,75],"label":"敲击棒近似：连续六次击奏","label_en":"Claves approximation — six successive strokes","hint":"本例使用GM打击乐音符75（敲击棒），不是响板采样；六次均匀击奏可比较短音的间隔，但没有演示手指轮奏的完整动作或西班牙舞曲节奏。","hint_en":"GM percussion note 75 is claves rather than castanets. Six even strokes show short-note spacing, not a complete castanet finger roll or a Spanish dance rhythm."}
 ```
 
 ## 从地中海到歌剧院
@@ -134,10 +134,10 @@ Hollowing the shell frees the vibration, so it is louder than solid wood, rings 
 
 ## The roll is the threshold
 
-Unpitched, so no range. What changes is hand shape and stroke: a single stroke is clear, a double is two quick clicks, the thumb is duller and lower, the fingers brighter and higher. The hard part is the carretilla, five fingers falling in turn for an even roll, which is what the dense rhythms of Spanish dance are built on. The player dances at the same time, so the hand moves while the body does; few percussion instruments demand that.
+Castanets have no fixed pitch; timing, finger sequence, opening and damping shape rhythm and tone. A carretilla is a continuous finger roll. Dancers may play while moving, but concert performance does not require dancing. Scores should specify rhythm, accents and duration.
 
 ```audiolab
-{"type":"instrument","drum":75,"synth":"perc","phrase":[75,75,75,75,75,75],"label":"响板的连续击奏：西班牙响板的典型节奏","label_en":"A castanet roll — the sound of Spanish dance music","hint":"注意清脆的木质感 —— 通用音色表里没有响板，这里借敲击棒音色近似","hint_en":"Hear the crisp wooden click. General MIDI has no castanets, so a claves sample stands in."}
+{"type":"instrument","drum":75,"synth":"perc","phrase":[75,75,75,75,75,75],"label":"敲击棒近似：连续六次击奏","label_en":"Claves approximation — six successive strokes","hint":"本例使用GM打击乐音符75（敲击棒），不是响板采样；六次均匀击奏可比较短音的间隔，但没有演示手指轮奏的完整动作或西班牙舞曲节奏。","hint_en":"GM percussion note 75 is claves rather than castanets. Six even strokes show short-note spacing, not a complete castanet finger roll or a Spanish dance rhythm."}
 ```
 
 ## From the Mediterranean to the opera house

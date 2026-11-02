@@ -24,17 +24,18 @@ instances:
   - pdmx-002528 | 霍尔斯特《第二军乐组曲》Op.28 No.2 —— 管乐团编制里高音单簧管的标准位置
   - m21-003066 | 韦伯单簧管小协奏曲 —— 单簧管族的炫技语言，可对照高音支系的高音区
 sources:
+  - "https://phys.unsw.edu.au/jw/flutes.v.clarinets.html"
+  - "https://www.vsl.co.at/academy/woodwinds/clarinet"
   - 结构依通行制琴资料：全长约 49 厘米（比单簧管短约 17 厘米），圆柱管，单片芦竹簧，键系与单簧管同源
   - 「高音单簧管为降 E 调移调乐器，记谱比实音低小三度（实音比谱面高小三度）」依通行配器资料
   - 「音域记谱 E3–G6（实音 G3–B♭6）」依通行配器资料
   - 「在管乐团中承担主旋律的高八度加强，在管弦乐中用于极端亮色」依通行配器惯例
   - ⚠️ 库内没有标题可确认为高音单簧管的曲目 —— 本条给出的是**含该乐器的标准管乐团编制**与**同族单簧管曲目**，音色由试听件负责
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
-高音单簧管就是[[instrument:clarinet|单簧管]]“缩小并调高”的一支：管长少三分之一，
-音高比标准单簧管高**小三度**，指法逻辑完全共用。它承担的角色也很明确 —— **在需要最亮那一点的地方出现。**
+降 E 高音单簧管比降 B 单簧管小。两者吹同一个谱面音时，降 E 管高纯四度：谱面 C4 在降 B 管上响 B♭3，在降 E 管上响 E♭4。另一个常见说法“高小三度”，指的是降 E 管的实音相对于自己的记谱，不是相对于降 B 管。
 
 它是管乐团里最有存在感的高音木管，也是管弦乐里最容易被"用一下就放下"的乐器。
 
@@ -52,7 +53,7 @@ updated: 2026-09-26
 > 三支都是降 B / 降 E 调乐器，但记谱偏移的量和方向都不一样 ——
 > 所以"看调性猜记谱"必然出错，只能查惯例。
 
-## 结构：同一套键系，三分之二的管长
+## 结构：较短管身与紧凑键系
 
 ```svg
 <svg viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="高音单簧管与标准单簧管的长度对比：同一比例下高音管短约三分之一">
@@ -80,52 +81,30 @@ updated: 2026-09-26
     <circle cx="158" cy="212" r="5.2"/><circle cx="126" cy="226" r="5.2"/>
   </g>
   <text x="140" y="316" text-anchor="middle" font-size="10.5" fill="#E07A3F">键距窄、管壁细</text>
-  <text x="20" y="344" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">管长少三分之一，音高只高小三度 —— 短管对长度的变化极其敏感，所以键距也被压缩了。</text>
+  <text x="20" y="344" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">同一谱面音：降 E 管比降 B 管高纯四度；相对自己的谱面，实音高小三度。</text>
 </svg>
 ```
 
 三处要点：
 
-1. 管长与音高不成比例。短三分之一，只高小三度 —— 与[[instrument:piccolo|短笛]]"管长减半、高八度"
-   是同一条规律：越短的管，长度对音高越敏感。
-2. 键距被压缩。管短了，音孔间距也跟着变小，手指要更"挤" ——
-   这是演奏者换用这件乐器时最先感到的不适。
-3. 音准最不稳定。管短 → 内径与音孔的相对误差被放大 →
-   同一支管上，音准对气息与哨片状态比标准单簧管敏感得多。
+1. 在相同近似管形和端部条件下，基频大致与有效管长成反比。降 E 管相对降 B 管高纯四度，频率约为 4:3，相应有效管长约为 3:4；全长还包括吹嘴和喇叭口，不能直接拿外形长度替代有效管长。
+2. 更紧凑的键距需要手指适应，基本指法逻辑仍与单簧管相通。
+3. 口型、簧片与气流仍需专门调整，高音音准尤其要仔细控制。
 
 ## 它在乐队里做什么
 
 ```svg
-<svg viewBox="0 0 640 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="高音单簧管在乐队里的两种用法：管乐团里的高八度加强，管弦乐里的极端亮色">
-  <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
-    <text x="20" y="22">两种用法，一个目的：在最上面加光</text>
-  </g>
-  <text x="160" y="62" text-anchor="middle" font-size="11" fill="#6E6A64">管乐团 · 高八度加强</text>
-  <g stroke="#5B7FA8" stroke-width="4" stroke-linecap="round">
-    <path d="M70,116 L250,116"/>
-    <path d="M100,140 L250,140"/>
-    <path d="M130,164 L250,164"/>
-  </g>
-  <g stroke="#E07A3F" stroke-width="4" stroke-linecap="round">
-    <path d="M70,92 L250,92"/>
-  </g>
-  <g font-family="system-ui,sans-serif" font-size="10.5" fill="#6E6A64">
-    <text x="258" y="96" fill="#E07A3F">高音单簧管（加亮）</text>
-    <text x="258" y="120">主旋律</text>
-    <text x="258" y="144">内声部</text>
-    <text x="258" y="168">低音</text>
-  </g>
-  <text x="160" y="206" text-anchor="middle" font-size="10.5" fill="#5B7FA8">它把主旋律再往上叠一层 —— 不改变线条，只改变亮度</text>
-  <text x="480" y="62" text-anchor="middle" font-size="11" fill="#6E6A64">管弦乐 · 极端亮色</text>
-  <g stroke="#5B7FA8" stroke-width="4" stroke-linecap="round">
-    <path d="M400,116 L580,116"/><path d="M420,140 L580,140"/>
-  </g>
-  <g stroke="#E07A3F" stroke-width="5" stroke-linecap="round">
-    <path d="M470,86 L500,86"/>
-  </g>
-  <text x="480" y="206" text-anchor="middle" font-size="10.5" fill="#E07A3F">只在某个瞬间出现 —— 然后退场</text>
-  <text x="20" y="244" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">两种用法的共同点：它很少承担独立线条，而是给已有线条「加一层顶」。</text>
-  <text x="20" y="266" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">所以它的谱子常常是片段式的 —— 这正是它在乐队里"存在感强但音符少"的原因。</text>
+<svg viewBox="0 0 640 239" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="区分两种比较：谱面和同族乐器">
+<text x="24" y="32" font-family="system-ui,sans-serif" font-size="17" font-weight="700" fill="#A9A49B">区分两种比较：谱面和同族乐器</text>
+<rect x="24" y="53" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="76" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">降 E 管 · 谱面 C4</text>
+<text x="338" y="76" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">实音 E♭4 · 高小三度</text>
+<rect x="24" y="101" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="124" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">降 B 管 · 谱面 C4</text>
+<text x="338" y="124" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">实音 B♭3 · 低大二度</text>
+<rect x="24" y="149" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="172" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">两管读同一谱面音</text>
+<text x="338" y="172" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">降 E 管比降 B 管高纯四度</text>
 </svg>
 ```
 
@@ -142,9 +121,9 @@ updated: 2026-09-26
 {"range":"G3–B♭6","written":"E3–G6","caption":"高音单簧管的记谱音域与实音音域","caption_en":"The E-flat clarinet: notated range above, sounding range below","note":"⚠️ 降 E 调高音单簧管是移调乐器 —— 实音比谱面高小三度。谱面写 E3–G6，实际出声 G3–B♭6。高音区上限视演奏者指法而定。"}
 ```
 
-- 实音 G3–B♭6，比标准单簧管整体高三度，最高音与[[instrument:piccolo|短笛]]的高音区重叠。
-- 常用区大约 G3–F6，再往上会明显变窄、变难。
-- 低音区只有 G3 到 B♭3 —— 它没有真正的低音，与标准单簧管形成互补。
+- 常见最低记谱音 E3 发实音 G3。
+- 若用谱面 E3–G6 概括常规范围，相应实音为 G3–B♭6；熟练演奏者可向更高音区延伸。
+- 对照降 B 管应说同一谱面音高纯四度；对照自己的谱面才是高小三度。
 
 ## 音色与听辨
 
@@ -202,15 +181,10 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- "高音单簧管就是小一号的单簧管，没什么不同。" 管长少三分之一，但音高只高小三度 ——
-  键距、气压需求、音准稳定性都变了。它是一件需要专门练习的乐器。
-- "它是降 E 调，所以记谱要降小三度。" 方向要说清楚：实音比谱面高小三度。
-  同族的低音单簧管则实音比谱面低大九度 —— 同是"降 B / 降 E 调"，方向可以相反。
-- "声音尖是因为演奏者吹得太狠。" 尖是它的设计目的：管短、管径细、高频成分多。
-  演奏者能控制的是别让它失控，而不是让它变柔。
-- "它和短笛一个角色，可以互相替代。" 质感不同：短笛是边棱音的气声高频，
-  它是簧片的紧凑高频；混在乐队里的融合度也不一样。
-- "通用音色表里有它。" General MIDI 里没有高音单簧管，只能借单簧管近似（试听件即如此）。
+- 兼吹需要专门适应紧凑键距、哨片和高音音准，并不只是把降 B 管缩小。
+- 降 E 管实音比自己的谱面高小三度；同一谱面音则比降 B 管高纯四度。
+- 它可以有柔和的低音与弱奏，尖亮并非所有奏法的固定结果。
+- General MIDI 没有独立的降 E 单簧管音色，本页借普通单簧管提示音区。
 
 ## 下一步
 
@@ -223,9 +197,7 @@ updated: 2026-09-26
 :::
 
 ::: en
-The E♭ clarinet is the [[instrument:clarinet|clarinet]] shrunk and pitched up: a third less tube, a minor
-third higher, and exactly the same fingering logic. Its role is equally clear — **it appears wherever the
-brightest possible point is needed.**
+The E♭ clarinet is smaller than the B♭ clarinet. For the same written note it sounds a perfect fourth higher: written C4 produces B♭3 on B♭ clarinet and E♭4 on E♭ clarinet. “A minor third higher” describes the E♭ instrument’s sound relative to its own notation, not relative to the B♭ clarinet.
 
 It is the most assertive high woodwind in a wind band, and in an orchestra the instrument most often
 "used once and set down".
@@ -243,7 +215,7 @@ It is the most assertive high woodwind in a wind band, and in an orchestra the i
 > sounds a major second lower. All three are instruments in B♭ or E♭, yet **the size and direction of the
 > shift differ**. So "inferring notation from the key" is bound to fail — you have to look up the practice.
 
-## Structure: same keywork, two-thirds the length
+## Structure: a shorter body and compact keywork
 
 ```svg
 <svg viewBox="0 0 640 400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="E-flat clarinet and standard clarinet compared at one scale: the smaller is about a third shorter">
@@ -271,53 +243,30 @@ It is the most assertive high woodwind in a wind band, and in an orchestra the i
     <circle cx="158" cy="212" r="5.2"/><circle cx="126" cy="226" r="5.2"/>
   </g>
   <text x="140" y="316" text-anchor="middle" font-size="10.5" fill="#E07A3F">narrow spacing, thin walls</text>
-  <text x="20" y="344" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">A third less tube for only a minor third higher — short tubes are extremely length-sensitive.</text>
+  <text x="20" y="344" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">For the same written note E♭ clarinet is a fourth above B♭; its own notation is a minor third lower.</text>
 </svg>
 ```
 
 Three points:
 
-1. Length and pitch are not proportional. A third shorter for only a minor third up — the same rule as
-   the [[instrument:piccolo|piccolo]]'s halved tube sounding an octave higher: **the shorter the tube, the
-   more sensitive it is to length**.
-2. The key spacing shrinks. Shorter tube, closer holes, a more cramped hand — the first discomfort a
-   player notices when switching.
-3. Pitch is the least stable here. A short tube magnifies the relative error of bore and holes, so
-   intonation is far more sensitive to air and reed than on a standard clarinet.
+1. For comparable bore and boundary conditions, fundamental frequency is approximately inverse to effective length. A perfect fourth is about a 4:3 frequency ratio, corresponding to about 3:4 effective length. Overall length includes mouthpiece and bell and is not itself the effective acoustic length.
+2. Compact key spacing takes adjustment, while the basic fingering logic transfers from the clarinet.
+3. Embouchure, reed and air require dedicated adjustment, particularly for high-register intonation.
 
 ## What it does in a band
 
 ```svg
-<svg viewBox="0 0 640 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Two uses of the E-flat clarinet: doubling the melody an octave up in a wind band, and an extreme bright accent in the orchestra">
-  <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
-    <text x="20" y="22">Two uses, one purpose: add light at the top</text>
-  </g>
-  <text x="160" y="62" text-anchor="middle" font-size="11" fill="#6E6A64">Wind band · octave doubling</text>
-  <g stroke="#5B7FA8" stroke-width="4" stroke-linecap="round">
-    <path d="M70,116 L250,116"/>
-    <path d="M100,140 L250,140"/>
-    <path d="M130,164 L250,164"/>
-  </g>
-  <g stroke="#E07A3F" stroke-width="4" stroke-linecap="round">
-    <path d="M70,92 L250,92"/>
-  </g>
-  <g font-family="system-ui,sans-serif" font-size="10.5" fill="#6E6A64">
-    <text x="258" y="96" fill="#E07A3F">E♭ clarinet (the light)</text>
-    <text x="258" y="120">melody</text>
-    <text x="258" y="144">inner parts</text>
-    <text x="258" y="168">bass</text>
-  </g>
-  <text x="160" y="206" text-anchor="middle" font-size="10.5" fill="#5B7FA8">It stacks a line above the melody — same line, brighter</text>
-  <text x="480" y="62" text-anchor="middle" font-size="11" fill="#6E6A64">Orchestra · an extreme flash</text>
-  <g stroke="#5B7FA8" stroke-width="4" stroke-linecap="round">
-    <path d="M400,116 L580,116"/><path d="M420,140 L580,140"/>
-  </g>
-  <g stroke="#E07A3F" stroke-width="5" stroke-linecap="round">
-    <path d="M470,86 L500,86"/>
-  </g>
-  <text x="480" y="206" text-anchor="middle" font-size="10.5" fill="#E07A3F">One moment, then gone</text>
-  <text x="20" y="244" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Both uses share one thing: it rarely carries a line of its own — it adds a top layer to one already there.</text>
-  <text x="20" y="266" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Hence its parts are fragmentary: much presence, few notes.</text>
+<svg viewBox="0 0 640 239" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Two comparisons: notation and instruments">
+<text x="24" y="32" font-family="system-ui,sans-serif" font-size="17" font-weight="700" fill="#A9A49B">Two comparisons: notation and instruments</text>
+<rect x="24" y="53" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="76" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">E♭ clarinet · written C4</text>
+<text x="338" y="76" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">E♭4 · minor third higher</text>
+<rect x="24" y="101" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="124" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">B♭ clarinet · written C4</text>
+<text x="338" y="124" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">B♭3 · major second lower</text>
+<rect x="24" y="149" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="172" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">Both read the same note</text>
+<text x="338" y="172" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">E♭ is a perfect fourth higher</text>
 </svg>
 ```
 
@@ -334,11 +283,9 @@ Its situation differs sharply between the two kinds of ensemble:
 {"range":"G3–B♭6","written":"E3–G6","caption":"高音单簧管的记谱音域与实音音域","caption_en":"The E-flat clarinet: notated range above, sounding range below","note":"⚠️ 降 E 调高音单簧管是移调乐器 —— 实音比谱面高小三度。谱面写 E3–G6，实际出声 G3–B♭6。高音区上限视演奏者指法而定。"}
 ```
 
-- Sounding G3–B♭6, a third above the standard clarinet, its top overlapping the
-  [[instrument:piccolo|piccolo]]'s.
-- The working register is roughly G3–F6; above that it thins and hardens.
-- The bottom runs only G3 to B♭3 — it has no true bass, which is exactly how it complements the
-  standard clarinet.
+- The usual lowest written E3 sounds G3.
+- A conventional written span E3–G6 corresponds to sounding G3–B♭6; experienced players can extend higher.
+- Compared with B♭ clarinet, the same written note is a perfect fourth higher. Compared with its own notation, the E♭ clarinet sounds a minor third higher.
 
 ## Timbre, and how to hear it
 
@@ -399,17 +346,10 @@ ensembles.
 
 ## Common misconceptions
 
-- "It is just a smaller clarinet and plays about the same." A third less tube yields only a minor third
-  up — key spacing, air pressure and pitch stability all change. It is an instrument for **dedicated
-  practice**.
-- "It is in E♭, so you write a minor third lower." The direction matters: it sounds a minor third
-  higher, while the bass clarinet sounds a major ninth lower — both are B♭/E♭ instruments and the
-  shift can go either way.
-- "It sounds shrill because the player overblows." Shrillness is the design: short tube, narrow bore,
-  high-frequency content. The player's job is to keep it under control, not to make it soft.
-- "It does the piccolo's job, so either will do." The grain differs: the piccolo is air-driven with
-  breath noise, the E♭ clarinet is a compact reed tone; they blend differently in an ensemble.
-- "General MIDI has one." It does not; an ordinary clarinet is the only stand-in (as on this page).
+- Doubling calls for adjustment to compact keywork, reeds and high-register tuning.
+- The sound is a minor third above its own notation, but a perfect fourth above a B♭ clarinet reading the same note.
+- Low and soft playing can be gentle; shrillness is not the inevitable result of every technique.
+- General MIDI has no separate E♭ clarinet program, so this page borrows clarinet to indicate register.
 
 ## Next
 

@@ -4,8 +4,8 @@ site: inst
 cat: I12
 title: 南非爵士乐器
 title_en: South African jazz instruments
-summary: 一套能抬上街的乐器 —— 在种族隔离下长成的另一种爵士
-summary_en: A set of instruments you can carry in the street — another kind of jazz, grown under apartheid
+summary: 从哨笛、钢琴到管乐编制，辨认南非城市音乐中的不同传统
+summary_en: Whistles, piano and wind ensembles across different traditions of South African urban music
 level: standard
 tags: [乐器, 世界, 非洲, 南非, 爵士, 铜管, 班卓琴, 马林巴, 街头, 游行]
 tags_en: [instrument, world, africa, south-africa, jazz, brass, banjo, marimba, street, parade]
@@ -19,13 +19,18 @@ links:
  - "[[instrument:mbira]]"
  - "[[instrument:a-cappella]]"
 instances:
- - chinafolk-000724 | 《龙舟舟出街游》 —— 「出街游」：南非早期爵士的编制标准是「能抬上街游行」——铜管、班卓琴、吉他、打击乐，一支队伍从头走到尾；龙舟出街游是同一种「把乐器搬到街上」的动作（C3 · 仅限学习研究）
- - chinafolk-001104 | 《满城花灯满城光》 —— 「满城光」：开普敦的狂欢节游行（Coon Carnival）以彩车与铜管齐鸣开场，「满城」正是铜管乐队的物理半径——声音能覆盖一座城（C3 · 仅限学习研究）
- - chinafolk-001271 | 《快来买膏药》 —— 「叫卖」：南非的街头艺人用一支廉价哨片（pennywhistle）吹出整条街的 kwela 曲子——一支塑料笛比一整支爵士乐队更能代表一条街的声音（C3 · 仅限学习研究）
+  - mutopia-001093 | 乔普林《枫叶拉格》作为拉格泰姆对照材料，可比较低音伴奏与切分旋律的分工；不是南非marabi录音 | Joplin’s Maple Leaf Rag is ragtime comparison material for bass accompaniment and syncopated melody, not a South African marabi recording
+  - mutopia-001090 | 乔普林《The Entertainer》可与上一首比较重复主题与伴奏型；用美国钢琴音乐作背景对照，不把不同地域风格视为同一种音乐 | Compare recurring themes and accompaniment patterns in Joplin’s The Entertainer, using American piano music as context without equating different regional styles
+  - pdmx-000676 | 《Tiger Rag》的编配MIDI提供另一份爵士相关的对照材料；可观察声部如何安排，不用曲名推断kwela或南非乐队的实际编制 | This Tiger Rag arrangement offers another jazz-related comparison of part allocation, without inferring kwela or South African instrumentation from the title
 sources:
+  - "https://samap.ukzn.ac.za/audio-keywords/penny-whistle"
+  - "https://uct.ac.za/sites/default/files/content_migration/uct_ac_za/49/files/2016-06-10_1000_Graduation_Commerce_2.pdf"
+  - "https://www.saha.org.za/collections/AL3282/e117148101.htm"
+  - "https://www.ru.ac.za/ilam/products/cds/davedargiecollection/"
+  - "https://journal.ru.ac.za/index.php/africanmusic/article/view/1928"
  - 南非爵士乐器与编制史（Cape jazz · South African jazz · 南非音乐百年梳理 · Goema/ghoema 木桶鼓 · kwela 哨片 · marabi · umgqokolo）—— **主线：一套能抬上街的乐器**：「Cape jazz in the beginning featured (though not exclusively) instruments that can be carried in a street parade, such as brass instruments, banjos, guitars and percussion instruments」； **编制标准不是音域，是「能不能举着走」**—— **整部图鉴里最实用的乐器筛选法：先问它能不能上街，再问它能唱什么**（对照「可携带性」谱系：talk box 的塑料管 · groovebox 的手提箱 · 姆比拉的口袋尺寸 · **南非爵士的整支队伍**）。 **铜管 + 班卓琴 + 吉他 + 打击乐**—— **四种都不是「非洲本土乐器」，却组成了非洲的爵士骨架——这正是其他条目「乐器可以换，语法换不掉」的证据**（对照 mbira 的音高媒介 · 巴拉风的调式 —— **技术可移植，语法不可**）。 **班卓琴是整部图鉴里最典型的「跨洋回流」乐器**：它源自西非的多种弹弦乐器（African lute family），经由美国南方黑人的改造成为美国五弦班卓，再随 1930–40 年代的南非爵士乐风回到非洲—— **一件乐器的完整旅程：西非 → 美国南方 → 全球 → 回到非洲**（对照「乐器迁徙」谱系：kora 的版本随人走 · 巴拉风的演奏法移植到吉他 · **班卓琴绕地球一圈后回家**）。 **与新奥尔良「同步诞生」**：「Being born in a similar political climate to that in New Orleans, Louisiana, at the end of the 19th century」—— **两个「新奥尔良」：一个在密西西比河三角洲，一个在好望角；同一个世纪、两种压迫、各自长出一套爵士**（对照「同源异路」标本：FM 的两个方向 · 鼓机的两次失败 · **两个新奥尔良**）—— **种族隔离下的南非音乐没有变成美国爵士的复制品，它变成了另一种东西**。 **马林巴（marimba）**是这条编制里的非洲本地层—— **与巴拉风同源的形制在南部非洲长成另一支（对照 balafon 条：两个大洲各自造出「木键 + 葫芦」的键盘击弦乐器）**，今在南非爵士编制里担任低音与和声层。 **鼓类**：**ghoema / guma**—— **一个木桶形的亚洲式鼓（barrel-shaped Asian-style drum）在开普敦被混血人群的狂欢游行中玩成了 Goema jazz**—— **外来形制落地生根的第四例**（对照 bili 龟兹乐器 · balafon 与马林巴的独立发明 · **亚洲木桶鼓在开普敦变节拍**）； **ghoema 鼓声是这条编制的脉搏**。 **kwela：哨片当主角**——「Pennywhistle jive, or kwela, emerged from the marabi style and used a pennywhistle, a simple instrument often played by street performers」—— **一支塑料哨片取代了萨克斯成为旋律声部**（对照「最便宜的乐器赢了一次」：口琴 · 竖笛 · **哨片**）—— **街头艺人用最低成本抢走了爵士的领奏位**。 **marabi**（1890s–1920s 起源）——南非爵士的根：手风琴、班卓琴、自制打击乐在非法酒馆（shebeen）里，配拉格泰姆钢琴与布鲁斯和声； **它的和声语汇是「I–IV–I6-4–V」八小节循环**（ **一条只靠耳朵传下来的和声公式——和声学的口传版本**）。 **isicathamiya**——祖鲁无伴奏合唱（对照 a-cappella 条「无伴奏不是从教堂开始的，是从山谷开始的」—— **同一条线的两个端点：南非的祖鲁山歌与西方的教堂复调**）； **Solomon Linda 1939 年《Mbube》——可能是第一张销量超十万的非裔唱片**。 **与政治的纠缠**（本页最深的一条）：1960 年沙佩维尔惨案后大规模逮捕与流亡，**音乐家在异国成就了事业并把种族隔离的消息带了出去**——Hugh Masekela · Dollar Brand（后来的 Abdullah Ibrahim）· Letta Mbulu · Jonas Gwangwa · Caiphas Semenya · Miriam Makeba； **Dollar Brand 1975 年「Mannenberg」——以开普敦平地上一个治安极差的混居街区命名，成为反种族隔离运动的非正式圣歌**（对照「音乐与抗争」谱系：talking-drum 被禁 · atumpan 被需要 · **一首以地名命名的圣歌**）。 **Ladysmith Black Mambazo** 1974 年《Amabutho》—— **黑人音乐家做出的第一张金唱片**； ** apartheid 之后**：kwela → mbaqanga → kwaito；Cape jazz 的 1970s 三驾马车：Abdullah Ibrahim（钢琴）· Basil Coetzee（萨克斯）· Robbie Jansen（萨克斯）· Paul Michaels（贝斯）· Monty Weber（鼓）—— **《Mannenberg》即此录音**。 **今天的两种活法**：**Goema Captains**（Mac McKenzie · Alex van Heerden · Hilton Schilder —— **把南非传统歌谣「jazz 化」重编的当代一代**）与 Cape Jazz Band（全明星）； **「Klopse」狂欢节队伍**——涂彩脸、亮装， **借新奥尔良「Coon Carnival」的面具传统，却长出完全不同的音乐**（对照「借来的形制」谱系）。 **两个源头对读**：**umgqokolo**（本土弦乐器）—— **南非爵士里的 walking bass 线条是在模仿它的固定音型**（ **电贝斯指法在模仿一件非洲本土弹弦乐器——**乐器的影子比乐器活得久**）。 **与其说南非造出了爵士，不如说它认领了爵士**——**爵士原是一种美国黑人的音乐，而南非的音乐在隔离中发明了另一条路**（ **对照「乐器不认国家」主题：talk box 三个国家的专利 · 民歌的全球同构）。
  - 对照线 ——**marimba（西洋条目）**：同一族形制的非洲另一支——**两个大洲各自造出「木键 + 葫芦」**（对照 balafon 条）；**banjo**：**整部图鉴里最典型的跨洋回流量产乐器**（西非 → 美国南方 → 全球 → 回非洲）；**accordion**：marabi 时代与班卓琴并列为酒馆里的主力；**mbira**： **音高作媒介的非洲方式**（召灵）vs 南非爵士的**音高作对话的方式**（鼓语）——**两种「用音高说话」的南北方**；**a-cappella**：祖鲁 isicathamiya 与西方教会复调是同一条线的两个端点； **南非这条编制是整部图鉴里唯一「以政治处境定义音乐品类」的条目**——**别的乐器按材料分类，它按一个国家的处境分类**。
-updated: 2026-10-21
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -105,11 +110,11 @@ updated: 2026-10-21
 
 ## 三个本地零件
 
-ghoema 是一只亚洲式木桶鼓，在开普敦混血人群的狂欢队伍里长成了 Goema jazz 的脉搏。kwela 用一支廉价哨片顶掉了萨克斯的领奏位，街头艺人用最低的成本抢走了主旋律。marabi 在非法酒馆里用拉格泰姆钢琴配布鲁斯和声，八小节 I–IV–I6-4–V 循环，只靠耳朵传下来。还有 umgqokolo：爵士里的 walking bass 在模仿这件本土弹弦乐器的固定音型。
+不同传统应分别辨认。kwela 的代表性乐器是 pennywhistle（哨笛），通过吹口与气流发声，不是簧片乐器；marabi 则与钢琴舞曲和反复的和声进行有关。另一个常被混淆的词 umngqokolo，指科萨人的泛音歌唱技法，不是弹弦乐器，也不能据此解释爵士 walking bass 的来源。
 
 ## 一首以地名命名的圣歌
 
-1960 年沙佩维尔之后是大逮捕和流亡。Hugh Masekela、Miriam Makeba、Abdullah Ibrahim 在国外把消息带了出去。1975 年 Ibrahim 的《Mannenberg》以一个治安极差的混居街区命名，成了反种族隔离运动的非正式圣歌。1974 年 Ladysmith Black Mambazo 的《Amabutho》是黑人音乐家做出的第一张金唱片。再往后是 kwela、mbaqanga、kwaito。
+1960 年沙佩维尔事件后，南非音乐家经历了更严厉的压制与流亡。Hugh Masekela、Miriam Makeba、Abdullah Ibrahim 等人在海外继续创作与演出。Ibrahim 的《Mannenberg》发表于 1974 年，后来与反种族隔离运动紧密相连；Ladysmith Black Mambazo 的《Amabutho》发表于 1973 年。kwela、mbaqanga、kwaito 则各有不同的形成时期，不宜排成一条简单的先后接替链。
 
 
 ```range
@@ -117,7 +122,7 @@ ghoema 是一只亚洲式木桶鼓，在开普敦混血人群的狂欢队伍里�
 ```
 
 ```audiolab
-{"type":"instrument","gm":"Marimba","label":"能抬上街的队伍 —— 铜管与哨片的两种音量","label_en":"A band you can carry down the street — brass and whistle at two volumes","hint":"南非爵士的听辨点：它不是一件乐器，是一支队伍——铜管、班卓琴、吉他与打击乐，标准是「能举着走完全城」。先听 kwela 那种哨片：塑料哨片的窄音色却是整条街的旋律领奏（最便宜的乐器赢了一次）；再听铜管齐鸣时那种把整条街塞满的亮度；最后盯住打击层——ghoema 木桶鼓的脉搏就是这条编制的低音线。若你想听它与巴拉风的差别：马拉卡的共鸣来自葫芦，马林巴来自木与共鸣管，ghoema 来自木桶——三条南半球的鼓腔，各有各的木头。","hint_en":"What to listen for in South African jazz: it is not one instrument but a band — brass, banjo, guitar and percussion, chosen because they can be carried the length of a city. First the kwela whistle: a plastic tube's narrow tone yet the melodic lead of the whole street (the cheapest instrument wins the front row); then the brass at full breadth, filling the street; and last the percussion layer, where the ghoema barrel drum's pulse is the bass line of the whole ensemble. And for a contrast with the balafon: the marimba's resonance comes from wood and tuned tubes, the ghoema from a barrel —— three southern-hemisphere drum cavities, three different woods."}
+{"type":"instrument","gm":"Whistle","label":"哨笛类旋律短句（GM Whistle近似）","label_en":"Whistle-like melodic phrase — GM Whistle approximation","hint":"这里只演示一条高音旋律。kwela编制可把哨笛旋律与吉他、低音和鼓相配；此短句没有模拟整支乐队，也不是巴拉风或马林巴示范。","hint_en":"This plays one high melodic line. A kwela ensemble can combine pennywhistle with guitar, bass and drums; the phrase does not simulate a full band or demonstrate balafon or marimba.","synth":"blown","phrase":["D4","F4","G4","A4","C5","A4","G4","D4"]}
 ```
 
 今天开普敦的 Klopse 队伍还在街上走，涂着脸，吹着铜管。那套编制一百年没换。
@@ -201,11 +206,11 @@ The banjo grew out of West African plucked strings, was rebuilt by Black musicia
 
 ## Three local parts
 
-The ghoema is an Asian barrel drum that grew into the pulse of Goema jazz in the mixed-race carnival troupes of Cape Town. Kwela put a cheap pennywhistle where the saxophone had been; a street player took the melody at the lowest possible cost. Marabi grew in illegal shebeens on ragtime piano and blues harmony, an eight-bar I–IV–I6-4–V cycle passed on by ear alone. And the umgqokolo, a local plucked string instrument, left its ostinato in the walking bass lines of South African jazz.
+These traditions should be distinguished. Kwela is associated with the pennywhistle, a duct flute rather than a reed instrument; marabi is associated with piano dance music and repeated harmonic patterns. Umngqokolo is a Xhosa overtone-singing technique, not a plucked instrument, and should not be used to explain the origin of jazz walking bass.
 
 ## An anthem named after a place
 
-After Sharpeville in 1960 came arrests and exile, and Hugh Masekela, Miriam Makeba and Abdullah Ibrahim carried the news abroad. In 1975 Ibrahim's Mannenberg, named after a township on the Cape Flats, became the unofficial anthem of the anti-apartheid movement. Ladysmith Black Mambazo's Amabutho of 1974 was the first gold record made by Black musicians. After that came kwela, mbaqanga and kwaito.
+After Sharpeville in 1960, South African musicians faced harsher repression and exile. Hugh Masekela, Miriam Makeba and Abdullah Ibrahim continued working abroad. Ibrahim’s Mannenberg appeared in 1974 and became closely associated with the anti-apartheid movement; Ladysmith Black Mambazo’s Amabutho appeared in 1973. Kwela, mbaqanga and kwaito have different histories and should not be reduced to a simple succession.
 
 
 ```range
@@ -213,7 +218,7 @@ After Sharpeville in 1960 came arrests and exile, and Hugh Masekela, Miriam Make
 ```
 
 ```audiolab
-{"type":"instrument","gm":"Marimba","label":"能抬上街的队伍 —— 铜管与哨片的两种音量","label_en":"A band you can carry down the street — brass and whistle at two volumes","hint":"南非爵士的听辨点：它不是一件乐器，是一支队伍——铜管、班卓琴、吉他与打击乐，标准是「能举着走完全城」。先听 kwela 那种哨片：塑料哨片的窄音色却是整条街的旋律领奏（最便宜的乐器赢了一次）；再听铜管齐鸣时那种把整条街塞满的亮度；最后盯住打击层——ghoema 木桶鼓的脉搏就是这条编制的低音线。若你想听它与巴拉风的差别：马拉卡的共鸣来自葫芦，马林巴来自木与共鸣管，ghoema 来自木桶——三条南半球的鼓腔，各有各的木头。","hint_en":"What to listen for in South African jazz: it is not one instrument but a band — brass, banjo, guitar and percussion, chosen because they can be carried the length of a city. First the kwela whistle: a plastic tube's narrow tone yet the melodic lead of the whole street (the cheapest instrument wins the front row); then the brass at full breadth, filling the street; and last the percussion layer, where the ghoema barrel drum's pulse is the bass line of the whole ensemble. And for a contrast with the balafon: the marimba's resonance comes from wood and tuned tubes, the ghoema from a barrel —— three southern-hemisphere drum cavities, three different woods."}
+{"type":"instrument","gm":"Whistle","label":"哨笛类旋律短句（GM Whistle近似）","label_en":"Whistle-like melodic phrase — GM Whistle approximation","hint":"这里只演示一条高音旋律。kwela编制可把哨笛旋律与吉他、低音和鼓相配；此短句没有模拟整支乐队，也不是巴拉风或马林巴示范。","hint_en":"This plays one high melodic line. A kwela ensemble can combine pennywhistle with guitar, bass and drums; the phrase does not simulate a full band or demonstrate balafon or marimba.","synth":"blown","phrase":["D4","F4","G4","A4","C5","A4","G4","D4"]}
 ```
 
 The Klopse troupes still walk the streets of Cape Town with painted faces and brass. The line-up has not changed in a hundred years.

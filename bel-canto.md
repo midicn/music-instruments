@@ -4,11 +4,20 @@ site: inst
 cat: I13
 title: 美声
 title_en: Bel canto
-summary: 名字比唱法晚死了三十年 —— 一个传统的名字是它的墓志铭
-summary_en: The name came thirty years after the singing died — a tradition's name is its epitaph
+summary: 意大利声乐传统与歌剧风格，重视连贯、均匀、灵活以及歌词表达
+summary_en: An Italian vocal tradition and operatic style emphasising connected tone, evenness, agility and textual expression
+range_policy: variable
+range_basis: 美声是歌唱技术与风格的讨论，不是有统一音高下限上限的乐器；具体乐句应依歌手声部与作品要求选调。
 level: standard
-tags: [乐器, 电子, 电鸣, 西洋, 人声, 美声, 唱法, 歌剧]
-tags_en: [instrument, electronic, electrophone, western, voice, bel-canto, vocal-style, opera]
+tags:
+  - 人声
+  - 歌唱
+  - 声乐
+  - 发声
+tags_en:
+  - voice
+  - singing
+  - vocal-production
 alias: [美声, bel canto, 美声唱法, 美声唱法, legato, messa di voce, 关闭唱法]
 order: 203
 links:
@@ -18,222 +27,113 @@ links:
   - "[[instrument:children-voice]]"
   - "[[concept:timbre]]"
 instances:
-  - chinafolk-000625 | 《一只山歌飘过岭》 ——「飘过岭」：一口气拖过山岗就是 legato 的民间版本——山歌是没被管弦乐埋掉的 bel canto：透明织体让声线领先，与 19 世纪歌剧「 relatively transparent orchestration that let the voice lead」同一条原则（C3 · 仅限学习研究）
-  - chinafolk-000950 | 《去就容易转就难》 ——「转就难」：bel canto 的两半——「去」（cantabile 长音直贯）容易，「转」（coloratura 花腔）难——去就容易转就难，六个字说完了美声的技术经济学（C3 · 仅限学习研究）
-  - chinafolk-000850 | 《山歌唔唱心唔开》 ——「心唔开」：bel canto 的 prosodic singing——「matching register and tonal quality to the emotional content of the words」——心不开就得唱：技术是修辞的仆人（C3 · 仅限学习研究）
+  - chinafolk-000625 | 《一只山歌飘过岭》 — 观察旋律走向，思考哪些音应连成一句；这不是美声演唱录音。（仅限学习研究）
+  - chinafolk-000950 | 《去就容易转就难》 — 比较相邻音与跳进怎样构成乐句；连接方式仍需实际演唱或录音验证。（仅限学习研究）
+  - chinafolk-000850 | 《山歌唔唱心唔开》 — 按歌词自然语意思考分句，不把民歌记谱当作某种唱法的证据。（仅限学习研究）
 sources:
-  - **主线：名字比唱法晚死了三十年（本页最该记住的一条）** —— 「The phrase was not associated with a 『school』 of singing until the early 1860s, when writers used it nostalgically to describe a manner of singing that had begun to wane around 1830」；「the term itself did not come into common usage in its current sense until the middle of the 19th century」；**Rossini 自己的哀叹：「Alas for us, we have lost our bel canto.」**——**传统先死，名字后生：bel canto 这个词是它的墓志铭**（对照「名与实」谱系：talk box 三方争名 · 节拍机词比物晚十五年——bel canto 更绝：名字诞生时对象已经不存在；首次归名通常追到 Stendhal《罗西尼传》1823）
-  - **关闭唱法：技术替代手术（与阉伶故事的光明续集）** —— 「当阉人歌手们创造的声乐奇迹渐渐淡出历史，一种新的歌唱风格在十九世纪初兴盛起来——**男声通过关闭唱法（也称掩蔽唱法）解决了换声区的巨大障碍，获得了响亮坚实的高音区真声**，女声则讲究声音圆润、连贯灵活，随时从悠长的歌唱转换为跳跃、滑音、颤音」；「作曲家们为展示这种歌唱艺术谱写了大量高难度咏叹调——**他们大大扩展了人类自然歌唱的可能性，而不必借助非人道的生理改造**」；**bel canto 第二黄金时代的本质：用技术替代手术**——对照 children-voice 条：人类终于找到了不切身体的答案（阉伶要的仍是高音 + 成人的肺，bel canto 用关闭唱法从普通男声身上拿到了）
-  - **烛光考试：技术的极致以「无痕」为证** —— 「Bel canto emphasizes technique rather than volume: an exercise said to demonstrate its epitome involves a singer holding a lit candle to her mouth and singing without causing the flame to flicker」；**bel canto 的终极考试是「别吹灭蜡烛」——一个用「零扰动」证明自己的技术体系**（对照 talk box 条的塑料管：一个用嘴滤波却不许晃，一个用嘴滤波必须晃——两个极端的嘴，两种美的定义）
-  - **一部几乎失传的表演体系** —— 「documents from the late 18th and early 19th centuries describe a multifaceted manner of performance far beyond these confines: prosodic singing through accent and emphasis; matching register and tonal quality to the emotional content of the words; highly articulated phrasing built on grammatical and rhetorical pauses; varied legato and staccato; liberal use of more than one type of portamento; **messa di voce as a principal source of expression**; frequent tempo alteration through rhythmic rubato; a wide variety of graces and divisions in arias and recitatives; and gesture as a tool for enhancing delivery」；**19 世纪的 bel canto 不是「美」，是一整套关于「怎么说一句词」的工程学**
-  - **颤音曾是标点，后来成了底色** —— 「Vibrato was treated differently — singers reserved it for heightening the expression of certain words and for gracing longer notes, rather than as a continuous component of tone」；**同一个参数，从「修辞工具」变成「物理底色」——一次持续两百年的审美位移（对照「缺陷成签名」谱系：审美的位移比技术的发明更慢，但同样不可逆）**
-  - **神话的制造者：失传本身** —— 约翰·波特：「for much of the 18th century castrati defined the art of singing, and that **the loss of their irrecoverable skills in time created the myth of bel canto**」；**bel canto 的神话有一半是阉伶技艺的失传造出来的（对照 children-voice 条：制度的灭绝制造了传统的黄金记忆——人总是把最想学的东西放在再也学不到的地方）**
-  - **Eclipse：连 Wagner 的本意都被传统背叛** —— 「composers such as Wagner began to call for larger, more dramatic voices, **but he intended for those voices to retain the bel canto approach; to sing his operas as one would sing Bellini's Norma. However, the tradition at Bayreuth was to declaim, and because the public demanded it, the singers complied**」；「tenors began delivering high notes from the chest rather than a head voice or falsetto, sacrificing agility」；**一个「要 legato 的人」被唱成了朗诵——历史上最著名的「意图被传统反杀」：bel canto 死于它自己的弟子**
-  - **1950s 复兴：Callas 的考古学** —— 「Bel canto experienced a revival in the mid-20th century when interpreters and teachers re-examined early 19th-century scores and performance methods」；Callas · Sutherland · Caballé · Horne · Sills；tenors：Kraus · Flórez · Pavarotti；**「many long-neglected operas」被重新搬上舞台——一个传统复活的方式是「重新读档案」**；而「**singers can use a bel canto method of singing even in verismo, Wagnerian, Verdian, and modern styles**」——**bel canto 作为「时代风格」死了，作为「技术体系」活着：它现在是所有唱法的地基，像一门不再以自己名字命名的语言**
-  - **教学谱系与技术名词** —— 两位 18 世纪名师 Antonio Bernacchi (1685–1756) 与 Nicola Porpora (1686–1768，许多教师本人是阉伶)；19 世纪 Mathilde Marchesi (1821–1913)；名词表：**appoggio**（低位稳定的呼吸支持）· **chiaroscuro**（明暗平衡的音色）· **messa di voce**（单音上的渐强渐弱）· **portamento** · **rubato** · **coloratura**；**古代方法假说**：「geographical studies suggest that the Italian bel canto technique……is likely to have developed from the Ancient Vocal Method, a vocal technique that evolved within the ancient cultures of the Middle East and Mediterranean」——**如果这个假说成立，bel canto 的祖先在地中海东岸，与美索不达米亚的尺同源：一条从黎凡特到米兰的声乐之路**
-updated: 2026-10-21
+  - "Metropolitan Opera — Opera History Tour Guide. https://www.metopera.org/user-information/nightly-met-opera-streams/week-34/opera-history-tour-guide/"
+  - "Manuel García — Hints on Singing, translated by Beata García; London: E. Ascherberg, 1894. https://books.google.com/books?id=4-s5AAAAIAAJ"
+  - "Library of Congress — Giuseppe Verdi and Italian Opera. https://www.loc.gov/exhibits/night-at-the-opera/giuseppe-verdi-and-italian-opera.html"
+updated: 2026-11-02
 ---
 
 ::: zh
-1830 年前后，这种唱法开始衰落。三十年后，人们才给它起了名字。罗西尼晚年说，我们已经失去了我们的美声——他说的不是一个流派，是一种他年轻时听惯的歌唱方式。
+Bel canto 通常译作“美声”。这个名称既可指意大利歌唱传统中的技术与审美，也常用来描述罗西尼、贝利尼、多尼采蒂等人的歌剧风格。两种用法有联系，却不能把它理解成一种固定音色或一套适合所有人的发声动作。
 
-## 名字是悼词
-
-写作的人用「美声」去描述一种正在消失的唱法，而它当时已经退到边缘。今天它几乎是所有声乐训练的地基；作为时代风格，它死于 1830 年代。
-
-| 分类 | 归属 |
+| 说明 | 内容 |
 |---|---|
-| HS 分类 | 人体（气鸣 · 簧振 + 滤波）；不是一件乐器，而是一套用法 |
-| 出身 | 17 世纪末意大利 → 1805–1830 三杰（罗西尼 · 贝利尼 · 多尼采蒂）→ 1830 起衰 → 1860s 得名 → 1950s 复兴 |
-| 八音 | 不适用 |
+| HS 分类 | 人声（人体发声，非电鸣）；此页不套用独立器乐的HS编号 |
 
-## 关闭唱法：用技术替代手术
+## 连贯、均匀与灵活
 
-阉伶要的是高音加成年人的肺，代价是身体。19 世纪初，男声用关闭唱法（也叫掩蔽唱法）解决了换声区的障碍，拿到响亮坚实的高音真声；女声讲圆润、连贯、灵活，随时从长音转到跳进、滑音、颤音。作曲家为此写了大批高难咏叹调——人类自然歌唱的可能性被扩大了，不必再动手术。
-
-据说检验这种唱法的极致，是让歌手对着嘴前的蜡烛唱，而不许火苗晃一下。零扰动。一口气控制到这个程度，才谈得上美。
-
-## 一套几乎没有传下来的表演体系
-
-19 世纪的 bel canto 不止是音色好听，它是一整套关于怎么说一句词的工程：以重音和强调把歌词说出来；让声区与音色匹配词的情绪；分句建在语法与修辞的停顿上；连断有层次；滑音不止一种；单音上的渐强渐弱（messa di voce）是主要表达来源；速度可以频繁伸缩；华彩与装饰多样；身体姿态也是传达的一部分。
-
-变化最慢的是颤音。那时歌手把它留给某些词和长音，用来加强表情，而不是让每个音都带着它。同一个参数从修辞工具变成物理底色，用了两百年。
-
-## 拜罗伊特的背叛，与 1950 年代的考古
-
-瓦格纳要更大的声音，但他希望那些声音仍旧用 bel canto 的方法唱——唱他的歌剧，要像唱贝利尼的《诺尔玛》。拜罗伊特的传统却是朗诵，观众要这个，歌手就照做了。男高音开始用胸声唱高音，不再借头声或假声，灵活性就此让位。
-
-还有一层：阉伶技艺的失传本身，造出了 bel canto 的神话。人总把最想学的东西，放在再也学不到的地方。
-
-1950 年代，卡拉斯、萨瑟兰、卡巴耶、霍恩、西尔斯重新翻检 19 世纪初的乐谱与演唱方法，一批长期受冷落的歌剧回到舞台。传统复活的方式是重读档案。作为时代风格，bel canto 死了；作为技术体系，它活着——今天唱威尔第、瓦格纳、真实主义乃至现代作品，都可以用它的方法。它成了一门不再以自己名字命名的语言。
+| 术语 | 在演唱中的意思 |
+|---|---|
+| legato 连贯 | 音与音连成乐句，元音与气息保持联系，而不是每个音重新挤出 |
+| coloratura 花腔 | 快速音阶、琶音、装饰音等灵活段落，仍需节奏与音高清楚 |
+| messa di voce | 同一持续音上渐强再渐弱，控制过程中保持音高与元音 |
+| portamento | 两个音之间有意、可听见的连接滑动；是否使用取决于风格与乐句 |
+| 分句与咬字 | 呼吸、重音和句尾服务于歌词语意，不只追求长气或高音 |
 
 ```svg
-<svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bel canto: a timeline from the late 17th century through Rossini-Bellini-Donizetti, the wane after 1830, the naming in the 1860s, Wagner's eclipse, and the Callas revival of the 1950s — plus the lit-candle test and the lost technique list">
-  <rect x="0" y="0" width="640" height="380" fill="#0D0C0A"/>
-  <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
-    <text x="20" y="22">美声 · 名字比唱法晚死了三十年</text>
-    <text x="20" y="44" font-size="11" fill="#6E6A64">传统先死，名字后生 —— bel canto 这个词是它的墓志铭</text>
-
-    <!-- 时间线 -->
-    <path d="M30 110 L610 110" stroke="#3A3733" stroke-width="1.4"/>
-    <g font-size="9.5">
-      <circle cx="60" cy="110" r="4" fill="#6E6A64"/>
-      <text x="40" y="132" fill="#A9A49B">1600s 末</text>
-      <text x="30" y="146" fill="#6E6A64">意大利起源</text>
-      <circle cx="170" cy="110" r="5" fill="#E8C547"/>
-      <text x="150" y="132" fill="#E8C547">1805–30</text>
-      <text x="138" y="146" fill="#6E6A64">三杰巅峰</text>
-      <circle cx="280" cy="110" r="4.5" fill="#E07A3F"/>
-      <text x="258" y="132" fill="#E07A3F">1830 起</text>
-      <text x="246" y="146" fill="#6E6A64">开始衰</text>
-      <circle cx="385" cy="110" r="4.5" fill="#E07A3F"/>
-      <text x="360" y="132" fill="#E07A3F">1860s</text>
-      <text x="344" y="146" fill="#6E6A64">得名（悼词）</text>
-      <circle cx="490" cy="110" r="4" fill="#6E6A64"/>
-      <text x="468" y="132" fill="#A9A49B">1850s–</text>
-      <text x="452" y="146" fill="#6E6A64">Wagner eclipse</text>
-      <circle cx="578" cy="110" r="5" fill="#E8C547"/>
-      <text x="556" y="132" fill="#E8C547">1950s</text>
-      <text x="546" y="146" fill="#6E6A64">Callas 复兴</text>
-    </g>
-    <text x="30" y="172" font-size="9.5" fill="#6E6A64">Rossini 的哀叹（1860s 语境）：「Alas for us, we have lost our bel canto.」</text>
-
-    <!-- 烛光考试 -->
-    <rect x="20" y="188" width="290" height="86" rx="6" fill="none" stroke="#E8C547" stroke-width="1.2"/>
-    <text x="32" y="208" font-size="10.5" fill="#E8C547" font-weight="600">烛光考试</text>
-    <path d="M60 254 L60 236" stroke="#A9A49B" stroke-width="1"/>
-    <ellipse cx="60" cy="230" rx="7" ry="10" fill="none" stroke="#E8C547" stroke-width="1.2"/>
-    <path d="M60 222 q4 -8 0 -14 q-4 6 0 14" fill="#E8C547"/>
-    <text x="84" y="232" font-size="9.5" fill="#A9A49B">唱，而不许</text>
-    <text x="84" y="248" font-size="9.5" fill="#A9A49B">吹灭烛火</text>
-    <text x="32" y="268" font-size="9" fill="#6E6A64">技术的极致以「无痕」为证</text>
-
-    <!-- 关闭唱法 -->
-    <rect x="330" y="188" width="290" height="86" rx="6" fill="none" stroke="#E07A3F" stroke-width="1.2"/>
-    <text x="342" y="208" font-size="10.5" fill="#E07A3F" font-weight="600">关闭唱法：技术替代手术</text>
-    <text x="342" y="228" font-size="9.5" fill="#A9A49B">男声解决换声区障碍 → 高音真声</text>
-    <text x="342" y="246" font-size="9.5" fill="#6E6A64">扩展自然歌唱的可能性，</text>
-    <text x="342" y="262" font-size="9.5" fill="#6E6A64">而不必借助生理改造</text>
-
-    <!-- 技术清单 -->
-    <text x="20" y="300" font-size="11" fill="#A9A49B" font-weight="600">失传的表演体系（19 世纪文献）</text>
-    <g font-size="9">
-      <text x="30" y="320" fill="#E8C547">prosodic singing · register matching · 语法停顿分句</text>
-      <text x="30" y="338" fill="#E07A3F">messa di voce（主表达源）· rubato · portamento · graces</text>
-      <text x="30" y="356" fill="#6E6A64">颤音曾是标点，后来成了底色 —— 一次两百年的审美位移</text>
-    </g>
-
-    <!-- 底部 -->
-    <text x="20" y="374" font-size="9.5" fill="#A9A49B">bel canto 作为「时代风格」死了，作为「技术体系」活着 —— 一门不再以自己名字命名的语言。</text>
-  </g>
+<svg viewBox="0 0 640 244" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="比较演唱时，听三个具体层面">
+<text x="24" y="30" font-family="system-ui,sans-serif" font-size="17" font-weight="700" fill="#A9A49B">比较演唱时，听三个具体层面</text>
+<rect x="24" y="52" width="592" height="45" rx="8" fill="#17171A"/>
+<text x="38" y="70" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#E07A3F">乐句</text>
+<text x="38" y="87" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">音符如何连接，换气与歌词停顿是否相合</text>
+<rect x="24" y="110" width="592" height="45" rx="8" fill="#17171A"/>
+<text x="38" y="128" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#E07A3F">装饰</text>
+<text x="38" y="145" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">音阶、琶音、颤音的音高与节奏是否清楚</text>
+<rect x="24" y="168" width="592" height="45" rx="8" fill="#17171A"/>
+<text x="38" y="186" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#E07A3F">动态</text>
+<text x="38" y="203" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">长音渐强渐弱时，音准、元音与音色如何变化</text>
 </svg>
 ```
 
-```range
-{"range":"C2–C7","common":"C2–C7","caption":"美声的「音域」（bel canto 技术体系 · 唱法不设固定音域）","caption_en":"Bel canto 「range」 (a technical system · the method sets no fixed span)","note":"bel canto（意大利语「美丽的歌唱」）是唱法体系而非固定音域：它追求的均匀（perfect evenness throughout the voice）意味着任何声部都按自己的合幅运行——取人声全幅约 C2–C7 作参照（soprano C4–C6 · tenor C3–C5 · bass C2–E4）。技术核心：legato（无缝连贯）· messa di voce（单音渐强渐弱）· appoggio（呼吸支持）· chiaroscuro（明暗平衡）· coloratura（灵活花腔）· 关闭唱法（男声换声区解法）。烛光考试（唱而不吹灭烛火）是其「无痕」理想的试金石。","note_en":"Bel canto (Italian for 「beautiful singing」) is a technical system, not a fixed span: its pursuit of perfect evenness throughout the voice means each voice type runs at its own compass — the voice's full C2–C7 is given for reference (soprano C4–C6 · tenor C3–C5 · bass C2–E4). Technical core: legato (seamless connection) · messa di voce (crescendo–decrescendo on a sustained pitch) · appoggio (breath support) · chiaroscuro (the light-dark timbre balance) · coloratura (agile florid passagework) · the covered/closed technique (the male solution to register transitions). The lit-candle test — singing without flickering the flame — is the touchstone of its ideal of invisibility."}
-```
+同一段音阶可以唱得逐音断开，也可连成一个方向明确的乐句；这不是把辅音全部抹去。花腔也不只是速度，装饰应当与角色、歌词和音乐结构相合。messa di voce 是较精细的协调任务，初学者不宜靠憋气、顶喉或硬撑音量模仿。
+
+## 风格没有在 1830 年终止
+
+罗西尼在 1829 年停止创作歌剧，不等于美声传统随之消失。贝利尼和多尼采蒂在 1830 年代及 1840 年代初仍有重要作品；随后意大利歌剧的戏剧和配器要求继续变化，美声曲目与训练传统也不断被演出、研究和重新诠释。
+
+“关闭”“掩蔽”“胸声”“头声”等词在不同教学体系中用法不一，不宜把高音概括为单一肌肉动作，更不能把它说成对阉伶制度的技术替代。“对蜡烛唱而火焰不动”也不是本页采用的考核标准；应观察的是发声是否可持续、音准是否稳定、元音与音区能否连贯。
 
 ```audiolab
-{"type":"instrument","gm":"Voice Oohs","phrase":["C4","E4","G4","C5","E5","G5","C6"],"label":"美声的长线：连贯人声（借女声嘟近似 legato 线条）","label_en":"Bel canto's long line — a connected voice (voice oohs stand in for legato)","hint":"美声的本质是「一门不再以自己名字命名的语言」——这条连贯人声取其「长线质感」，但 bel canto 最标志的三个特征在这里听不出来：一是 messa di voce——单音上的渐强渐弱是 19 世纪文献里的「主要表达源」，现代听众却几乎听不到原样演出的；二是「无痕」——烛光考试（唱而不吹灭烛火）要求零扰动，而 20 世纪的 continuous vibrato 在 19 世纪只是修辞标点；三是它的身世——名字比唱法晚死了三十年（1860s 得名 vs 1830 起衰），bel canto 这个词是传统的墓志铭，而 1950 年代 Callas 们的复兴方式是「重新读档案」。","hint_en":"Bel canto's essence is 「a language no longer named after itself」 — this connected voice takes the long-line quality, but its three signatures are absent: messa di voce — the crescendo–decrescendo on a sustained pitch was the 「principal source of expression」 in 19th-century documents, yet modern audiences almost never hear it performed as written; 「invisibility」 — the lit-candle test demands zero disturbance, while 20th-century continuous vibrato was in the 19th century only a rhetorical mark; and its biography — the name came thirty years after the singing died (named in the 1860s, waning from 1830): bel canto is a tradition's epitaph, and the 1950s revival led by Callas worked by 「re-reading the archive」."}
+{"type":"instrument","gm":"Voice Oohs","phrase":["C4","D4","E4","F4","G4","F4","E4","D4","C4"],"label":"五度内的音阶线条","label_en":"A scalar line within a fifth","hint":"试听只提供音高与时值。真实 legato 还涉及元音、气息与换声的连续，不能靠 GM 音色判断唱法。","hint_en":"This gives pitches and timing. Real legato also involves vowel, breath and register continuity; a GM timbre cannot establish vocal technique."}
 ```
+
+## 从谱例走向实际演唱
+
+试听用于熟悉旋律轮廓。要比较美声演唱，应选同一段真实录音，关注连贯、装饰的节奏、同一长音的动态与歌词重音。不能从一条 GM 人声或民歌记谱 MIDI 判定某位歌手采用了美声技术。
+
 
 :::
 
 ::: en
-Around 1830 this manner of singing began to fade. Thirty years later it was named. Rossini, near the end of his life, said bel canto had been lost — not a school but a way of singing he had heard as a young man.
+Bel canto means “beautiful singing.” The term can refer to techniques and ideals within the Italian singing tradition, and also to the operatic style associated with Rossini, Bellini and Donizetti. These uses overlap, but do not define one fixed timbre or a single action suitable for every singer.
 
-| Classification | Value |
+| Classification note | Description |
 |---|---|
-| HS class | the body (aerophone, reed vibration plus filtering); not an instrument but a use |
-| Origin | late-17th-century Italy; Rossini, Bellini and Donizetti to 1830; named in the 1860s; revived in the 1950s |
-| Bayin | not applicable |
+| HS class | Human voice: bodily sound production, not an electrophone; no separate instrument number is assigned here |
 
-## The name is an epitaph
+## Connection, evenness and agility
 
-It was coined for a style already at the edge of disappearance. Today it underpins most vocal training; as a period style it died in the 1830s.
-
-## Technique instead of surgery
-
-The castrati wanted a boy's range with a man's lungs and paid with the body. Early 19th-century tenors solved the register break with the covered tone and gained a solid high register in chest voice; women cultivated roundness and flexibility, moving between long lines and leaps, slides and trills. Composers wrote hard arias for it: natural singing expanded without cutting anyone.
-
-The test of the technique at its height: sing with a lit candle before the mouth and do not let the flame flicker. Zero disturbance, on one breath.
-
-## A performance system almost none of which survived
-
-Nineteenth-century bel canto was not a pretty sound but an engineering of how to speak a line of text: accent carrying the words; register and colour matched to their emotion; phrasing built on grammatical pauses; varied legato and staccato; several portamentos; messa di voce, the swell and fade on one pitch, as the principal expressive source; tempo rubato; ornaments; gesture.
-
-Vibrato changed slowest: reserved for certain words and long notes, not carried on every note. One parameter moved from rhetorical tool to physical ground in two hundred years.
-
-## Bayreuth's betrayal, and the 1950s dig
-
-Wagner wanted larger voices but meant them to keep the bel canto approach, singing his operas as one sings Bellini's Norma. Bayreuth declaimed instead, the public demanded it, and the singers complied; tenors took high notes from the chest and lost agility.
-
-A second layer: the loss of the castrato craft is what built the myth. People park what they most want to learn where it can no longer be learned.
-
-In the 1950s Callas, Sutherland, Caballé, Horne and Sills reread early 19th-century scores, and neglected operas returned. Bel canto died as a period style and lives as a technique: Verdi, Wagner and verismo can all be sung that way. It is a language no longer named after itself.
+| Term | Meaning in performance |
+|---|---|
+| Legato | Connecting notes into a phrase while maintaining vowel and breath continuity |
+| Coloratura | Agile scales, arpeggios and ornaments with clear rhythm and pitch |
+| Messa di voce | Growing and diminishing on one sustained note while maintaining pitch and vowel |
+| Portamento | An intentional audible slide connecting two notes, chosen for style and phrase |
+| Phrasing and diction | Breath, emphasis and endings serve the meaning of the text |
 
 ```svg
-<svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bel canto: a timeline from the late 17th century through Rossini-Bellini-Donizetti, the wane after 1830, the naming in the 1860s, Wagner's eclipse, and the Callas revival of the 1950s — plus the lit-candle test and the lost technique list">
-  <rect x="0" y="0" width="640" height="380" fill="#0D0C0A"/>
-  <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
-    <text x="20" y="22">Bel canto · the name came thirty years after the singing died</text>
-    <text x="20" y="44" font-size="11" fill="#6E6A64">The tradition died first, the name came after — bel canto is its own epitaph</text>
-
-    <path d="M30 110 L610 110" stroke="#3A3733" stroke-width="1.4"/>
-    <g font-size="9.5">
-      <circle cx="60" cy="110" r="4" fill="#6E6A64"/>
-      <text x="40" y="132" fill="#A9A49B">late 1600s</text>
-      <text x="30" y="146" fill="#6E6A64">Italian origins</text>
-      <circle cx="170" cy="110" r="5" fill="#E8C547"/>
-      <text x="150" y="132" fill="#E8C547">1805–30</text>
-      <text x="138" y="146" fill="#6E6A64">the three greats</text>
-      <circle cx="280" cy="110" r="4.5" fill="#E07A3F"/>
-      <text x="258" y="132" fill="#E07A3F">from 1830</text>
-      <text x="246" y="146" fill="#6E6A64">waning</text>
-      <circle cx="385" cy="110" r="4.5" fill="#E07A3F"/>
-      <text x="360" y="132" fill="#E07A3F">1860s</text>
-      <text x="344" y="146" fill="#6E6A64">named (an epitaph)</text>
-      <circle cx="490" cy="110" r="4" fill="#6E6A64"/>
-      <text x="468" y="132" fill="#A9A49B">1850s–</text>
-      <text x="452" y="146" fill="#6E6A64">Wagner's eclipse</text>
-      <circle cx="578" cy="110" r="5" fill="#E8C547"/>
-      <text x="556" y="132" fill="#E8C547">1950s</text>
-      <text x="546" y="146" fill="#6E6A64">Callas revival</text>
-    </g>
-    <text x="30" y="172" font-size="9.5" fill="#6E6A64">Rossini's lament (in the 1860s context): 「Alas for us, we have lost our bel canto.」</text>
-
-    <rect x="20" y="188" width="290" height="86" rx="6" fill="none" stroke="#E8C547" stroke-width="1.2"/>
-    <text x="32" y="208" font-size="10.5" fill="#E8C547" font-weight="600">The lit-candle test</text>
-    <path d="M60 254 L60 236" stroke="#A9A49B" stroke-width="1"/>
-    <ellipse cx="60" cy="230" rx="7" ry="10" fill="none" stroke="#E8C547" stroke-width="1.2"/>
-    <path d="M60 222 q4 -8 0 -14 q-4 6 0 14" fill="#E8C547"/>
-    <text x="84" y="232" font-size="9.5" fill="#A9A49B">sing, but never</text>
-    <text x="84" y="248" font-size="9.5" fill="#A9A49B">blow out the flame</text>
-    <text x="32" y="268" font-size="9" fill="#6E6A64">perfection proven by invisibility</text>
-
-    <rect x="330" y="188" width="290" height="86" rx="6" fill="none" stroke="#E07A3F" stroke-width="1.2"/>
-    <text x="342" y="208" font-size="10.5" fill="#E07A3F" font-weight="600">The covered technique</text>
-    <text x="342" y="228" font-size="9.5" fill="#A9A49B">men solved register shifts → chest highs</text>
-    <text x="342" y="246" font-size="9.5" fill="#6E6A64">expanding natural singing without</text>
-    <text x="342" y="262" font-size="9.5" fill="#6E6A64">physiological modification</text>
-
-    <text x="20" y="300" font-size="11" fill="#A9A49B" font-weight="600">The lost performance system (19th-century documents)</text>
-    <g font-size="9">
-      <text x="30" y="320" fill="#E8C547">prosodic singing · register matching · grammatical-rhetorical phrasing</text>
-      <text x="30" y="338" fill="#E07A3F">messa di voce (the principal expressive source) · rubato · portamento · graces</text>
-      <text x="30" y="356" fill="#6E6A64">vibrato was once punctuation, later a ground — a two-hundred-year aesthetic shift</text>
-    </g>
-
-    <text x="20" y="374" font-size="9.5" fill="#A9A49B">Bel canto died as a period style and lives as a technical system — a language no longer named after itself.</text>
-  </g>
+<svg viewBox="0 0 640 244" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Three concrete aspects to compare">
+<text x="24" y="30" font-family="system-ui,sans-serif" font-size="17" font-weight="700" fill="#A9A49B">Three concrete aspects to compare</text>
+<rect x="24" y="52" width="592" height="45" rx="8" fill="#17171A"/>
+<text x="38" y="70" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#E07A3F">Phrase</text>
+<text x="38" y="87" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">How notes connect; how breaths relate to textual pauses</text>
+<rect x="24" y="110" width="592" height="45" rx="8" fill="#17171A"/>
+<text x="38" y="128" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#E07A3F">Ornament</text>
+<text x="38" y="145" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">Clarity of pitch and rhythm in runs, arpeggios and trills</text>
+<rect x="24" y="168" width="592" height="45" rx="8" fill="#17171A"/>
+<text x="38" y="186" font-family="system-ui,sans-serif" font-size="12" font-weight="700" fill="#E07A3F">Dynamic</text>
+<text x="38" y="203" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">Pitch, vowel and colour through a swell and diminuendo</text>
 </svg>
 ```
 
-```range
-{"range":"C2–C7","common":"C2–C7","caption":"美声的「音域」（bel canto 技术体系 · 唱法不设固定音域）","caption_en":"Bel canto 「range」 (a technical system · the method sets no fixed span)","note":"bel canto（意大利语「美丽的歌唱」）是唱法体系而非固定音域：它追求的均匀（perfect evenness throughout the voice）意味着任何声部都按自己的合幅运行——取人声全幅约 C2–C7 作参照（soprano C4–C6 · tenor C3–C5 · bass C2–E4）。技术核心：legato（无缝连贯）· messa di voce（单音渐强渐弱）· appoggio（呼吸支持）· chiaroscuro（明暗平衡）· coloratura（灵活花腔）· 关闭唱法（男声换声区解法）。烛光考试（唱而不吹灭烛火）是其「无痕」理想的试金石。","note_en":"Bel canto (Italian for 「beautiful singing」) is a technical system, not a fixed span: its pursuit of perfect evenness throughout the voice means each voice type runs at its own compass — the voice's full C2–C7 is given for reference (soprano C4–C6 · tenor C3–C5 · bass C2–E4). Technical core: legato (seamless connection) · messa di voce (crescendo–decrescendo on a sustained pitch) · appoggio (breath support) · chiaroscuro (the light-dark timbre balance) · coloratura (agile florid passagework) · the covered/closed technique (the male solution to register transitions). The lit-candle test — singing without flickering the flame — is the touchstone of its ideal of invisibility."}
-```
+A scale may sound as separate notes or as one directed phrase; connection does not mean erasing all consonants. Coloratura is not just speed: ornament should fit the character, words and musical structure. Messa di voce requires refined coordination, rather than breath-holding, throat pressure or forced volume.
+
+## No end date in 1830
+
+Rossini’s retirement from opera composition in 1829 did not end the tradition. Bellini and Donizetti produced important operas during the 1830s and early 1840s. Dramatic and orchestral demands later changed, while this repertoire and its performing traditions continued to be sung, studied and reinterpreted.
+
+Terms such as covered tone, chest voice and head voice vary between teaching systems. They should not reduce high singing to one muscular action or describe technique as a substitute for the castrato institution. A candle that must remain still is not a test used here. Sustainable production, stable pitch, vowels and register continuity are more useful observations.
 
 ```audiolab
-{"type":"instrument","gm":"Voice Oohs","phrase":["C4","E4","G4","C5","E5","G5","C6"],"label":"美声的长线：连贯人声（借女声嘟近似 legato 线条）","label_en":"Bel canto's long line — a connected voice (voice oohs stand in for legato)","hint":"美声的本质是「一门不再以自己名字命名的语言」——这条连贯人声取其「长线质感」，但 bel canto 最标志的三个特征在这里听不出来：一是 messa di voce——单音上的渐强渐弱是 19 世纪文献里的「主要表达源」，现代听众却几乎听不到原样演出的；二是「无痕」——烛光考试（唱而不吹灭烛火）要求零扰动，而 20 世纪的 continuous vibrato 在 19 世纪只是修辞标点；三是它的身世——名字比唱法晚死了三十年（1860s 得名 vs 1830 起衰），bel canto 这个词是传统的墓志铭，而 1950 年代 Callas 们的复兴方式是「重新读档案」。","hint_en":"Bel canto's essence is 「a language no longer named after itself」 — this connected voice takes the long-line quality, but its three signatures are absent: messa di voce — the crescendo–decrescendo on a sustained pitch was the 「principal source of expression」 in 19th-century documents, yet modern audiences almost never hear it performed as written; 「invisibility」 — the lit-candle test demands zero disturbance, while 20th-century continuous vibrato was in the 19th century only a rhetorical mark; and its biography — the name came thirty years after the singing died (named in the 1860s, waning from 1830): bel canto is a tradition's epitaph, and the 1950s revival led by Callas worked by 「re-reading the archive」."}
+{"type":"instrument","gm":"Voice Oohs","phrase":["C4","D4","E4","F4","G4","F4","E4","D4","C4"],"label":"五度内的音阶线条","label_en":"A scalar line within a fifth","hint":"试听只提供音高与时值。真实 legato 还涉及元音、气息与换声的连续，不能靠 GM 音色判断唱法。","hint_en":"This gives pitches and timing. Real legato also involves vowel, breath and register continuity; a GM timbre cannot establish vocal technique."}
 ```
+
+## From notes to singing
+
+The demonstration clarifies the melodic outline. Compare actual recordings of the same passage for connection, ornamental rhythm, the dynamics of sustained notes and textual emphasis. A GM voice or folk-song MIDI cannot establish that a real performer uses bel-canto technique.
+
 :::

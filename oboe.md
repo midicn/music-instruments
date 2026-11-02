@@ -26,18 +26,19 @@ instances:
   - pdmx-002754 | 维瓦尔第 A 小调双簧管协奏曲 RV 461 —— 听双簧管在快速乐章里的跑动
   - pdmx-001343 | 亨德尔 G 大调双簧管奏鸣曲 HWV 363b —— 巴洛克奏鸣曲式的双簧管写法
 sources:
+  - "https://www.mim.be/en/collection-piece/new-reed-oboe-damore"
+  - "https://www.vsl.co.at/academy/woodwinds/oboe"
+  - "https://phys.unsw.edu.au/jw/flutes.v.clarinets.html"
   - 结构依通行制琴资料：全长约 62 厘米，木质圆锥管，直接吹奏双簧哨片（不插吹嘴），法国体系键系
   - 「双簧管为 C 调乐器，记谱即实音」依通行配器资料
   - 「音域 B♭3–A6」依通行配器资料（高音可延伸至 C7，属特殊技法）
   - 「圆柱管只产生奇次泛音、圆锥管产生全部泛音，因此单簧管超吹得十二度而双簧管超吹得八度」依管乐器声学
   - 「管弦乐团以双簧管的 A 作为全团定音标准」依通行乐团惯例
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
-双簧管与[[instrument:flute|长笛]]的差别不只是"有没有簧片"，而是**两处同时不同**：
-它的驱动源是**两片互相拍打的芦竹（双簧）**，管形又是**圆锥**而不是圆柱。
-第二点常被忽略，但它决定了一件极重要的事 —— **这件乐器能不能吹全十二个半音**。
+双簧管使用双簧片，管身主要呈圆锥形；长笛以气流激励、管身主要呈圆柱形。双簧管借助音孔和键系奏出半音，圆锥形并不是“能否吹全十二个半音”的判据。它通常按实音记谱，乐队也常由首席双簧管提供对音用的 A。
 
 也正因如此，双簧管承担了一个特殊的职责：管弦乐团用它给出的 A 来给全团定音。
 
@@ -48,11 +49,7 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 木管（双簧管族） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，双簧管不在其中 |
 
-> ⚠️ 一个概念上的要点："单簧"与"双簧"不只是簧片数量的差别，但真正决定音域结构的是管形。
-> 圆柱管（[[instrument:clarinet|单簧管]]）只能激起奇次泛音（1、3、5…），
-> 所以它超吹时音高跳十二度；圆锥管（双簧管、[[instrument:bassoon|巴松]]、萨克斯）能激起全部泛音，
-> 超吹时跳八度 —— 与长笛族一样。
-> 这一点直接决定了指法表的形状：圆锥管的指法更接近"一条直线"。
+> 管形与端部条件要一起看。单簧管的簧片端近似闭合，近圆柱管在低音区以奇次谐波较突出，通常超吹到十二度；双簧管的近圆锥管通常超吹到八度。真实乐器并非只含某一组谐波，长笛的开放圆柱管也能超吹八度。
 
 ## 结构：圆锥管与双簧
 
@@ -83,29 +80,25 @@ updated: 2026-09-26
   <g font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">
     <text x="180" y="69" text-anchor="end">双簧哨片（两片芦竹）</text>
     <text x="180" y="145" text-anchor="end">上管 · 左手区</text>
-    <text x="180" y="209" text-anchor="end" fill="#E07A3F">八度键（圆锥管的标志）</text>
+    <text x="180" y="209" text-anchor="end" fill="#E07A3F">八度通气键</text>
     <text x="180" y="371" text-anchor="end">管身逐渐外张</text>
     <text x="492" y="161">按键（法国体系）</text>
     <text x="492" y="271">下管 · 右手区</text>
   </g>
-  <text x="20" y="402" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">哨片直接插在管上，中间没有吹嘴 —— 所以双簧管的音准与音色，一半取决于演奏者自己修的哨片。</text>
+  <text x="20" y="402" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">双簧哨片通过金属套管插入管身，哨片与演奏控制共同影响音准和响应。</text>
 </svg>
 ```
 
 三处要点：
 
-1. 没有独立的吹嘴。哨片本身就是"吹嘴"：两片芦竹绑在一起，插在管顶。
-   演奏者要自己削、自己修哨片 —— 这让双簧管的音色带有很强的个人痕迹，
-   也是它学习曲线陡的原因之一。
-2. 管身是圆锥的（从哨片端向外逐渐变粗，到喇叭口略外张）。这与单簧管的圆柱管形成对照，
-   决定了二者的泛音结构完全不同（见下一节）。
-3. 它有一个"八度键"。圆锥管超吹得八度，所以按键只需要把音提高一个八度；
-   圆柱管的单簧管则需要"十二度键"。从键的名字就能读出管形。
+1. 双簧哨片通过金属套管插入管身，哨片的开口、修削与状态影响响应和音准。演奏者可自制、修整或购买哨片。
+2. 管身内径总体向喇叭口扩大，近似圆锥形；应结合簧片端的条件理解它与单簧管的共振差别。
+3. 八度键打开小通气孔，帮助选择较高共振，不是把任意指法自动提高八度的开关。单簧管的换音区键也需要配合具体指法使用。
 
-## 圆锥管为什么能吹全十二个半音
+## 圆锥管与换音区
 
 ```svg
-<svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="圆柱管与圆锥管的泛音列对比：圆柱管只有奇次泛音，圆锥管有全部泛音">
+<svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="单簧管与双簧管的共振示意：闭开圆柱管低音区奇次较突出，近圆锥管通常超吹八度">
   <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
     <text x="20" y="22">同一根管，两种管形 → 两套泛音</text>
   </g>
@@ -122,7 +115,7 @@ updated: 2026-09-26
     <text x="80" y="194">1 次</text><text x="120" y="194">3 次</text><text x="160" y="194">5 次</text>
     <text x="200" y="194">7 次</text><text x="240" y="194">9 次</text>
   </g>
-  <text x="160" y="220" text-anchor="middle" font-size="11" fill="#5B7FA8">只有奇次泛音 → 超吹得十二度</text>
+  <text x="160" y="220" text-anchor="middle" font-size="11" fill="#5B7FA8">低音区奇次较突出 → 通常超吹十二度</text>
   <text x="480" y="60" text-anchor="middle" font-size="11" fill="#6E6A64">圆锥管（双簧管 · 巴松 · 萨克斯）</text>
   <g stroke="#E07A3F" stroke-width="8" stroke-linecap="round">
     <path d="M400,176 L400,112"/>
@@ -136,20 +129,17 @@ updated: 2026-09-26
     <text x="400" y="194">1 次</text><text x="440" y="194">2 次</text><text x="480" y="194">3 次</text>
     <text x="520" y="194">4 次</text><text x="560" y="194">5 次</text>
   </g>
-  <text x="480" y="220" text-anchor="middle" font-size="11" fill="#E07A3F">全部泛音都在 → 超吹得八度</text>
-  <text x="20" y="252" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">圆柱管的两端边界条件相同 → 只能容纳奇次驻波；圆锥管一端近于闭合、一端近于开放，两种都容得下。</text>
+  <text x="480" y="220" text-anchor="middle" font-size="11" fill="#E07A3F">近圆锥管 → 通常超吹八度</text>
+  <text x="20" y="252" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">单簧管近似闭开圆柱管；双簧管为近圆锥管，不能只比较管形而忽略端部条件。</text>
   <text x="20" y="274" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">结果：单簧管的指法表在"换音区"处要跳十二度，而双簧管一族可以像长笛那样平滑地超吹。</text>
 </svg>
 ```
 
 这条因果链的三个后果：
 
-- 指法表形状不同。圆锥管（双簧管）超吹得八度 → 指法表几乎是一条"直线"；
-  圆柱管（单簧管）超吹得十二度 → 换音区处有一处明显的跳变。
-- 音区的音色关系不同。双簧管上到高八度时音色变化较连贯；
-  单簧管的三个音区（低、中、高）音色差异极大，像三件乐器。
-- 喇叭口的做法不同。圆锥管需要逐步外张的喇叭口来匹配低音；
-  单簧管的喇叭口更多是色彩而非必需。
+- 八度键打开小通气孔，帮助抑制较低共振、选择较高共振；它不是把每个指法自动“加八度”的开关。
+- 高低音区仍要协调指法、哨片与口型，不能从“圆锥管”推出所有音区天然平滑。
+- 喇叭口参与低音的调谐与辐射；单簧管的喇叭口也有声学作用，并非只作色彩装饰。
 
 ## 音域
 
@@ -179,12 +169,10 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-技法多数与长笛族共通（连音、断音、花舌、颤音），但有两点是双簧族特有的：
+连音、断音、花舌与颤音也见于其他木管。哨片处理与循环呼吸需要分别学习：
 
-- 哨片要自己做。演奏者从一段芦竹开始：剖、刮、绑、试，一套下来要反复调。
-  同一支双簧管，换一个哨片就像换了一部分音色 —— 这是其他木管没有的变量。
-- 循环呼吸（circular breathing）。用口含气的同时用鼻子吸气，可以奏出不断的长音。
-  巴洛克与当代作品都要求它。
+- 哨片可从芦竹开始制作，也可购买后调整；其他簧管同样有哨片选择与修整。
+- 循环呼吸用口腔暂存的空气维持吹奏，同时由鼻吸气。它不是双簧管独有，也并非所有巴洛克或当代作品都要求。
 
 此外，双簧管耗气很少但气压很高（哨片开口窄），所以它容易让人"气憋着出不来" ——
 这是初学者最初的不适来源。
@@ -194,14 +182,12 @@ updated: 2026-09-26
 | 乐器 | 调 | 记谱 vs 实音 | 管 | 音色 |
 |---|---|---|---|---|
 | **双簧管** | C | 同音 | 圆锥 · 直 | 窄、集中、带鼻音 |
-| [[instrument:oboe-damore\|柔音双簧管]] | A | 同音（现代惯例） | 圆锥 · 直 + 梨形喇叭 | 比双簧管柔、低小三度 |
+| [[instrument:oboe-damore\|柔音双簧管]] | A | 记谱比实音高小三度 | 圆锥 · 直 + 梨形喇叭 | 比双簧管柔、低小三度 |
 | [[instrument:english-horn\|英国管]] | F | 记谱比实音**高纯五度** | 圆锥 + 梨形喇叭 | 暗、哀、低五度 |
 | [[instrument:bassoon\|巴松]] | C | 同音 | 圆锥 · **U 形折管** | 木管组的低音 |
 | [[instrument:clarinet\|单簧管]] | B♭ | 记谱比实音**高大二度** | **圆柱** + 喇叭口 | 三个音区三种性格 |
 
-一族里的分工很清楚：双簧管是"高的那一支"，柔音管低小三度，英国管低五度，
-巴松低两个八度 —— 靠管长分档，靠管形保持一致（全部圆锥）。
-这也是为什么双簧管族内部音色差异小于单簧管族的三个音区差异。
+柔音双簧管在 A 调，同一记谱音比双簧管低小三度；英国管在 F 调，同一记谱音低纯五度。巴松虽同为圆锥管加双簧片，却不是按固定两个八度把双簧管整体搬低的乐器，应分别比较它们的实际音域。
 
 ## 历史演变
 
@@ -214,22 +200,14 @@ updated: 2026-09-26
 | 19 世纪末—20 世纪 | 定型为现代双簧管；成为管弦乐团与管乐团的标准成员，并**承担全团定音的职责** |
 | 20 世纪 | 当代作品大量使用扩展技法（花舌、双音、微分音指法、循环呼吸） |
 
-为什么由它定音？ 两个理由：音准稳定（簧片驱动、管长固定，受温度和气流影响小）、
-音色容易被听见（集中的频谱在嘈杂环境中辨识度高）。
-所以乐队开始排练时，通常由首席双簧管吹出 A，全团据此对音。
+乐队常用双簧管的 A 对音，是长期形成的编制惯例，其集中的音色也便于辨认。双簧管仍受温度、哨片状态、口型与气流影响；演奏者也要先按乐队采用的标准音高调好，不能认为它天然不会走音。
 
 ## 常见误解
 
-- "双簧管和单簧管差不多，只是一个簧片一个两片。" 更关键的是管形：
-  圆柱管（单簧管）只有奇次泛音、超吹得十二度；圆锥管（双簧管）有全部泛音、超吹得八度。
-  两者连指法表的形状都不同。
-- "双簧管是铜管。" 它的管身是木质（也有树脂与合成材料），属气鸣 · 簧鸣，
-  与靠嘴唇振动发唇鸣的铜管完全两类。
-- "哨片坏了就换一个新的。" 双簧管的哨片是半成品：演奏者要自己修削调整，
-  这也是音色个人化的来源。
-- "它很难是因为按键多。" 难在这三点：气压高（哨片开口窄）、哨片自己修、
-  音准极敏感（微小变化就听得出来）。
-- "它只能吹高音。" 双簧管的低音区（B♭3 附近）也很重要，而且是最考验哨片的一带。
+- 单簧管与双簧管既有簧片结构差别，也有管形和端部条件的差别；不能简化成“只有奇次”和“有全部”的二分法。
+- 哨片会明显影响响应与音准。演奏者可以自制、修整或购买哨片；其他簧管也有哨片选择与调整。
+- 循环呼吸不是双簧管族独有的技法，也并非巴洛克作品普遍要求。
+- 双簧管低音区响应较敏感，弱奏、音准和哨片控制都需要训练。
 
 ## 下一步
 
@@ -238,17 +216,14 @@ updated: 2026-09-26
 1. 低小三度 —— [[instrument:oboe-damore|柔音双簧管]]：管长一点、喇叭口做成梨形，音色立刻变柔。
 2. 低纯五度 —— [[instrument:english-horn|英国管]]：名字与英国无关，却是双簧族里最有名的一支。
 
-再往下就是同族但低两个八度的 [[instrument:bassoon|巴松]] —— 管长到需要折起来才拿得动。
+再比较 [[instrument:bassoon|巴松]]：它把较长的圆锥管折成 U 形，与双簧管共享双簧激励，却有不同的音域、指法和音区色彩。
 
 :::
 
 ::: en
-The oboe differs from the [[instrument:flute|flute]] in two ways at once: its drive is **two blades of cane
-beating against each other (a double reed)**, and its tube is **conical** rather than cylindrical. The second
-point is usually overlooked, yet it decides something crucial — **whether the instrument can play all twelve
-semitones evenly**.
+The oboe uses a double reed and a mainly conical bore; the flute uses an air jet and a mainly cylindrical bore. Tone holes and keywork provide the oboe’s chromatic notes. A conical bore does not determine whether an instrument can play all twelve semitones. Oboe parts are normally at concert pitch, and the principal oboe often supplies the orchestra’s tuning A.
 
-For that same reason the oboe carries a special duty: **an orchestra tunes to the A it gives.**
+The principal oboe commonly supplies the orchestra’s tuning A as an established ensemble convention.
 
 | Classification | Value |
 |---|---|
@@ -257,12 +232,7 @@ For that same reason the oboe carries a special duty: **an orchestra tunes to th
 | **Family** | Western · Woodwinds (oboe family) |
 | **Bayin** | Not applicable — a Chinese system; the oboe is outside it |
 
-> ⚠️ **One conceptual point**: single versus double reed is **not** just a question of how many blades.
-> What really shapes the instrument's range is the bore: a cylindrical tube (the
-> [[instrument:clarinet|clarinet]]) can only sustain odd harmonics (1, 3, 5…), so overblowing jumps a
-> twelfth; a conical tube (oboe, [[instrument:bassoon|bassoon]], saxophone) sustains all harmonics,
-> so overblowing jumps an octave — like the flutes.
-> That single fact shapes the fingering chart: a conical instrument's chart runs almost straight.
+> Bore shape and end conditions work together. A clarinet’s reed end is approximately closed; its nearly cylindrical bore favours odd harmonics in the low register and normally overblows a twelfth. The oboe’s nearly conical bore normally overblows an octave. Real instruments are not restricted to one set of harmonics; the flute’s open cylindrical tube also overblows an octave.
 
 ## Structure: a conical tube and a double reed
 
@@ -293,29 +263,25 @@ For that same reason the oboe carries a special duty: **an orchestra tunes to th
   <g font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">
     <text x="180" y="69" text-anchor="end">Double reed (two cane blades)</text>
     <text x="180" y="145" text-anchor="end">Upper joint · left hand</text>
-    <text x="180" y="209" text-anchor="end" fill="#E07A3F">Octave key (the conical marker)</text>
+    <text x="180" y="209" text-anchor="end" fill="#E07A3F">Octave vent key</text>
     <text x="180" y="371" text-anchor="end">Body flares gradually</text>
     <text x="492" y="161">Keys (French system)</text>
     <text x="492" y="271">Lower joint · right hand</text>
   </g>
-  <text x="20" y="402" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The reed sits directly in the tube — no mouthpiece. Half the tuning lives in a reed the player makes.</text>
+  <text x="20" y="402" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The reed staple enters the body; reed and playing control both affect pitch and response.</text>
 </svg>
 ```
 
 Three points:
 
-1. There is no separate mouthpiece. The reed is the mouthpiece: two canes bound together and pushed
-   into the top of the tube. Players scrape and adjust their own reeds, which gives the oboe much of
-   its personal sound — and much of its steep learning curve.
-2. The body is conical (widening from the reed towards a slightly flaring bell). Against the clarinet's
-   cylindrical bore, that decides a completely different harmonic structure (next section).
-3. It has an "octave key". A conical tube overblows an octave, so the key only has to lift the note by
-   eight steps; a cylindrical clarinet needs a twelfth key. The key's name tells you the bore.
+1. The double reed enters the body through a metal staple. Its opening, scrape and condition affect response and pitch. Players can make, adjust or buy reeds.
+2. The bore generally widens towards the bell, approximately forming a cone. Reed-end conditions also matter when comparing it with the clarinet.
+3. Octave keys open small vents to help select a higher resonance. They do not automatically raise every fingering by an octave; a clarinet register key likewise works with specific fingerings.
 
-## Why a conical tube plays all twelve semitones
+## Conical bore and register changes
 
 ```svg
-<svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Harmonic series compared: a cylindrical tube gives only odd harmonics, a conical tube gives all of them">
+<svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Clarinet and oboe resonance: low-register odd harmonics are prominent in the closed-open cylindrical model; a near-conical bore commonly overblows an octave">
   <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
     <text x="20" y="22">One tube, two bores — two harmonic series</text>
   </g>
@@ -332,7 +298,7 @@ Three points:
     <text x="80" y="194">1st</text><text x="120" y="194">3rd</text><text x="160" y="194">5th</text>
     <text x="200" y="194">7th</text><text x="240" y="194">9th</text>
   </g>
-  <text x="160" y="220" text-anchor="middle" font-size="11" fill="#5B7FA8">odd harmonics only → overblows a twelfth</text>
+  <text x="160" y="220" text-anchor="middle" font-size="11" fill="#5B7FA8">odd harmonics prominent low down → twelfth</text>
   <text x="480" y="60" text-anchor="middle" font-size="11" fill="#6E6A64">Conical (oboe · bassoon · sax)</text>
   <g stroke="#E07A3F" stroke-width="8" stroke-linecap="round">
     <path d="M400,176 L400,112"/>
@@ -346,20 +312,17 @@ Three points:
     <text x="400" y="194">1st</text><text x="440" y="194">2nd</text><text x="480" y="194">3rd</text>
     <text x="520" y="194">4th</text><text x="560" y="194">5th</text>
   </g>
-  <text x="480" y="220" text-anchor="middle" font-size="11" fill="#E07A3F">all harmonics → overblows an octave</text>
-  <text x="20" y="252" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">A cylinder has matching ends, so only odd waves fit; a cone is nearly closed at one end and open at the other.</text>
+  <text x="480" y="220" text-anchor="middle" font-size="11" fill="#E07A3F">near-conical bore → normally an octave</text>
+  <text x="20" y="252" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Compare both bore and ends: clarinet is nearly a closed–open cylinder; oboe nearly a cone.</text>
   <text x="20" y="274" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Hence the clarinet's chart jumps a twelfth at the break, while the oboe family overblows smoothly like a flute.</text>
 </svg>
 ```
 
 Three consequences follow:
 
-- A differently shaped fingering chart. The conical oboe overblows an octave, so its chart runs nearly
-  straight; the cylindrical clarinet jumps a twelfth, leaving a visible break.
-- A different relationship between registers. On an oboe the timbre changes gradually going up; on a
-  clarinet the three registers differ so much they sound like three instruments.
-- A different bell. A conical bore needs a gradually flaring bell to match the low notes; a clarinet's
-  bell is more colour than necessity.
+- Octave vents help suppress a lower resonance and select a higher one; they do not automatically add an octave to every fingering.
+- Register changes still require coordinated fingering, reed and embouchure. Conicity does not make every transition inherently smooth.
+- The bell contributes to low-note tuning and radiation. A clarinet bell also has an acoustic role and is not merely decorative colour.
 
 ## Range
 
@@ -389,13 +352,10 @@ Four cues:
 
 ## Playing techniques
 
-Most techniques are shared with the flutes (legato, staccato, flutter tongue, vibrato), but two are special
-to the double-reed world:
+Legato, staccato, flutter tonguing and vibrato are also used on other woodwinds. Reed work and circular breathing are separate skills:
 
-- The player makes the reed. Starting from a tube of cane: split, scrape, bind, test, repeat. Changing
-  the reed changes part of the instrument's voice — a variable no other woodwind has.
-- Circular breathing. Blow from the cheeks while inhaling through the nose, giving a **continuous
-  tone**; required by both Baroque and contemporary music.
+- Reeds may be made from cane or bought and adjusted. Other reed instruments also require reed selection and adjustment.
+- Circular breathing maintains airflow using air stored in the mouth while the player inhales through the nose. It is not exclusive to oboes and is not required by all Baroque or contemporary works.
 
 The oboe also uses little air but at high pressure (the reed's opening is narrow), which is why
 beginners feel they cannot get the air out — the first obstacle they meet.
@@ -405,15 +365,12 @@ beginners feel they cannot get the air out — the first obstacle they meet.
 | Instrument | Key | Written vs sounding | Bore | Timbre |
 |---|---|---|---|---|
 | **Oboe** | C | at pitch | conical, straight | narrow, focused, nasal |
-| [[instrument:oboe-damore\|Oboe d'amore]] | A | at pitch (modern practice) | conical + bulbous bell | softer, a minor third lower |
+| [[instrument:oboe-damore\|Oboe d'amore]] | A | written a minor third above sounding | conical + bulbous bell | softer, a minor third lower |
 | [[instrument:english-horn\|English horn]] | F | written a **fifth above** sounding | conical + bulbous bell | dark, plaintive, a fifth lower |
 | [[instrument:bassoon\|Bassoon]] | C | at pitch | conical, **folded in a U** | the woodwind bass |
 | [[instrument:clarinet\|Clarinet]] | B♭ | written a **major second above** sounding | **cylindrical** + bell | three registers, three voices |
 
-The division of labour is clear: the oboe is the top voice, the d'amore a minor third lower, the English
-horn a fifth lower, the bassoon two octaves lower — **size sets the pitch, the bore keeps the family
-sound. That is why the differences within** the oboe family are smaller than the differences between the
-clarinet's three registers.
+The oboe d’amore in A sounds a minor third below the oboe for the same written note; the English horn in F sounds a perfect fifth below. The bassoon also uses a conical bore and double reed, but is not simply an oboe transposed down two octaves. Compare their actual ranges separately.
 
 ## History
 
@@ -426,24 +383,14 @@ clarinet's three registers.
 | Late 19th–20th c. | fixed as the modern oboe; a standard member of orchestra and band, and **the instrument the orchestra tunes to** |
 | 20th c. | contemporary works exploit extended techniques (flutter tongue, multiphonics, microtonal fingerings, circular breathing) |
 
-Why does it give the tuning note? Two reasons: stable pitch (reed-driven, fixed tube length, little
-affected by temperature and airflow) and audibility (a concentrated spectrum is easy to pick out in a
-noisy room). So a rehearsal usually begins with the principal oboe sounding A, and the orchestra tuning
-to it.
+Using the oboe’s A is an established orchestral convention, and its focused tone is easy to identify. Temperature, reed condition, embouchure and air still affect the oboe. Its player first matches the orchestra’s chosen reference pitch; the instrument is not inherently immune to pitch changes.
 
 ## Common misconceptions
 
-- "An oboe and a clarinet are nearly the same, one reed or two." The decisive difference is the bore:
-  a cylinder has only odd harmonics and overblows a twelfth; a cone has all of them and overblows an octave.
-  Even the shape of the fingering chart differs.
-- "The oboe is brass." Its body is wood (or resin and composites) and it is an aerophone · reed,
-  a completely different class from the lip-vibrated brass.
-- "When a reed wears out you buy a new one." An oboe reed is a half-finished article the player
-  scrapes and adjusts — the source of the instrument's personal voice.
-- "It is hard because it has many keys." The difficulty is elsewhere: high pressure (narrow reed
-  opening), self-made reeds, and extreme sensitivity of pitch (small changes are plainly heard).
-- "It only plays high." The low register (around B♭3) matters too, and it is where a reed is most
-  severely tested.
+- Clarinet and oboe differ in reeds, bore and boundary conditions; “odd harmonics only” versus “all harmonics” is an inadequate description.
+- Reeds strongly affect response and pitch. Players may make, adjust or buy them; other reed instruments also involve reed selection and adjustment.
+- Circular breathing is not exclusive to double reeds and is not a general requirement of Baroque repertoire.
+- Low oboe notes require care with response, soft dynamics, pitch and reed control.
 
 ## Next
 
@@ -454,6 +401,5 @@ The two most instructive relatives sit either side of the oboe:
 2. A fifth down — the [[instrument:english-horn|English horn]]: nothing to do with England, and the
    family's most famous member.
 
-Beyond them lies the [[instrument:bassoon|bassoon]], two octaves lower — a tube so long it has to be
-folded in half to be held.
+Compare the [[instrument:bassoon|bassoon]] next: its longer conical tube is folded into a U. It shares double-reed excitation but has its own range, fingerings and register colours.
 :::

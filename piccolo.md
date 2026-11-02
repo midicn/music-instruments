@@ -23,12 +23,14 @@ instances:
   - pdmx-002528 | 霍尔斯特《第二军乐组曲》Op.28 No.2 —— 管乐团编制里短笛的典型位置
   - pdmx-001372 | 同一部组曲的另一份传本 —— 可对照不同编配里短笛的处理
 sources:
+  - "https://phys.unsw.edu.au/jw/flutes.v.clarinets.html"
+  - "https://www.vsl.co.at/academy/woodwinds/piccolo"
   - 结构依通行制琴资料：短笛全长约 32 厘米（约为长笛的一半），管径约 10–11 毫米，管身带锥度，沿用与长笛相同的键系
   - 「短笛为 C 调移调乐器，记谱比实音低一个八度」依通行配器资料
   - 「音域记谱 D5–C8（实音 D6–C9）」依通行配器资料
   - 「短笛的军乐队传统来自军笛（fife）」依乐器史
   - ⚠️ 库内标题可确认为短笛的曲目只有 1 条 —— 另两条取自**编制里含短笛**的标准管乐团作品，音色由试听件负责
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -77,77 +79,62 @@ updated: 2026-09-26
   </g>
   <text x="326" y="104" font-family="system-ui,sans-serif" font-size="11" fill="#9C7A3C">只有长笛的一半左右</text>
   <text x="20" y="222" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">管长减半 → 音高翻倍；但管径没有跟着减半 —— 比例变了，泛音平衡就变了。</text>
-  <text x="20" y="242" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">这就是"短笛听起来不只是更高的长笛"的物理原因：它相对更粗，所以音色更饱满也更刺。</text>
+  <text x="20" y="242" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">短笛的管形、吹口与演奏音区共同影响音色，不能只由相对管径推出。</text>
 </svg>
 ```
 
 三处要点：
 
-1. 键系与指法与长笛一致。短笛沿用同一套 Böhm 体系，所以多数长笛演奏者都能"兼吹"，
-   但要专门练 —— 见下一节。
-2. 管长减半、管径没有减半。管越粗，低次泛音在音色里的比重越大。
-   长笛相对细长 → 音色清亮；短笛相对粗短 → 音色更"实"、更刺。
-3. 它是全团音最高的常规乐器。在 fortissimo 的全奏里，短笛仍然是唯一能穿透整支乐队的声音 ——
-   这不是音量问题，是高频在空气中的衰减更小、且在密集频谱里更容易被分辨。
+1. 现代短笛采用 Böhm 式键系，基本指法与长笛相近，高音指法和音准调整仍需单独练习。
+2. 管长约为长笛一半，内径比例和管身锥度并非等比例缩小，不能只凭管径推断音色。
+3. 它在中高音区的集中音色常能穿过全奏；这不意味着高频在空气里衰减更小，也不意味着只有短笛能被听见。
 
 ## 记谱与实音
 
 ```svg
-<svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="音高尺对比：长笛实音 C4-D7、短笛实音 D6-C9、短笛记谱 D5-C8">
-  <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
-    <text x="20" y="22">同一把尺子上的三条区间</text>
-  </g>
-  <rect x="60" y="88" width="329" height="22" rx="3" fill="#17171A" stroke="#5B7FA8" stroke-width="1.3"/>
-  <text x="70" y="103" font-family="system-ui,sans-serif" font-size="10.5" fill="#A9A49B">长笛 · 实音 C4–D7</text>
-  <rect x="285" y="132" width="295" height="22" rx="3" fill="#17171A" stroke="#E07A3F" stroke-width="1.3"/>
-  <text x="295" y="147" font-family="system-ui,sans-serif" font-size="10.5" fill="#E07A3F">短笛 · 实音 D6–C9</text>
-  <rect x="181" y="176" width="295" height="22" rx="3" fill="#17171A" stroke="#9C7A3C" stroke-width="1.3"/>
-  <text x="191" y="191" font-family="system-ui,sans-serif" font-size="10.5" fill="#9C7A3C">短笛 · 记谱 D5–C8</text>
-  <g stroke="#9C7A3C" stroke-width="1" stroke-dasharray="3 3">
-    <path d="M285,154 L181,176"/>
-    <path d="M580,154 L476,176"/>
-  </g>
-  <path d="M60,234 L580,234" stroke="#343439" stroke-width="1.4"/>
-  <g stroke="#343439" stroke-width="1">
-    <path d="M60,230 L60,238"/><path d="M164,230 L164,238"/><path d="M268,230 L268,238"/>
-    <path d="M372,230 L372,238"/><path d="M476,230 L476,238"/><path d="M580,230 L580,238"/>
-  </g>
-  <g font-family="system-ui,sans-serif" font-size="10.5" fill="#6E6A64" text-anchor="middle">
-    <text x="60" y="252">C4</text><text x="164" y="252">C5</text><text x="268" y="252">C6</text>
-    <text x="372" y="252">C7</text><text x="476" y="252">C8</text><text x="580" y="252">C9</text>
-  </g>
-  <text x="20" y="280" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">短笛的记谱整个往左挪了一个八度 —— 谱面上省掉近十条上加线，读谱才成为可能。</text>
+<svg viewBox="0 0 640 287" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="同一记谱音，长笛族发出的音高">
+<text x="24" y="32" font-family="system-ui,sans-serif" font-size="17" font-weight="700" fill="#A9A49B">同一记谱音，长笛族发出的音高</text>
+<rect x="24" y="53" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="76" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">记谱 C5 · 短笛</text>
+<text x="338" y="76" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">实音 C6 · 高八度</text>
+<rect x="24" y="101" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="124" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">记谱 C5 · C 调长笛</text>
+<text x="338" y="124" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">实音 C5 · 同音</text>
+<rect x="24" y="149" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="172" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">记谱 C5 · 中音长笛</text>
+<text x="338" y="172" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">实音 G4 · 低纯四度</text>
+<rect x="24" y="197" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="220" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">短笛常见记谱 D4–C7</text>
+<text x="338" y="220" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">实音 D5–C8</text>
 </svg>
 ```
 
 为什么必须移调？
 
-短笛的实音音域到 C9，也就是高音谱表第五线（F5）以上约两个半八度。
-按实音记的话，一个音要带十来条上加线 —— 无法视奏。所以乐谱统一低八度书写：
+C 调短笛的常见实音范围是 D5–C8，通常用高音谱号低八度书写，以减少上加线。譬如谱面 C6 实际发出 C7：
 
-- 谱面 D5–C8 = 实音 D6–C9
-- 所有管乐器共用同一份指法表：谱面显示的是手指的位置，不是实际音高
+- 谱面 D4–C7 = 实音 D5–C8
+- 长笛族基本指法相近；短笛的高音与替用指法仍需单独学习
 
 这也解释了为什么短笛演奏者拿到的是"普通的长笛谱"，却能吹出高一整个八度的声音。
 
 ## 音域
 
 ```range
-{"range":"D6–C9","written":"D5–C8","common":"D6–B8","caption":"短笛的记谱音域与实音音域","caption_en":"The piccolo: notated range above, sounding range below","note":"⚠️ 短笛是移调乐器 —— 记谱比实音低一个八度。上面一行是记谱，下面一行是实际听到的音高。谱面写 D5–C8，实际出声 D6–C9。"}
+{"range":"D5–C8","written":"D4–C7","common":"G5–C7","caption":"短笛的记谱音域与实音音域","caption_en":"The piccolo: notated range above, sounding range below","note":"⚠️ 短笛是移调乐器 —— 记谱比实音低一个八度。上面一行是记谱，下面一行是实际听到的音高。谱面写 D4–C7，实际出声 D5–C8。"}
 ```
 
-- 实音 D6–C9，是管弦乐队里音最高的常规音域。
-- 常用区集中在 D6–B8，再往上要靠特殊指法与极强的气压控制。
-- 低音区（D6 附近） 反而是它最"温和"的一段 —— 短笛在高音区才真正显出尖利。
+- 常见实音范围 D5–C8，对应记谱 D4–C7。
+- G5–C7 是常用的中高音区域；最顶端的音对音准与力度控制要求较高。
+- D5–G5 一带较轻、较空，与强奏高音的尖亮感区别明显。
 
 ## 音色与听辨
 
 四条线索：
 
-1. 极亮、极刺。同一个音高落在长笛上会柔和得多 —— 差别来自管径比例，不只是高八度。
-2. 穿透力最强。在整支乐队全奏时仍能听见，是它最实用的属性，也是作曲家只用它来"刺一下"的原因。
-3. 气声少。与长笛相反，短笛的高频太多，气流噪声被淹没，听不出多少"呼吸感"。
-4. 音准非常依赖气压。管短、波长小，气压稍有波动音高就跑 —— 所以它在乐队里常被当作最"难吹准"的一件。
+1. 高音强奏明亮集中，中低音弱奏也可以轻巧柔和。
+2. 短笛既能加倍旋律，也能独奏、模仿鸟鸣或提供轻快的装饰。
+3. 气声、起音和音准随音区及奏法变化，不能用一段 GM 试听推断真实演奏的全部音色。
 
 ```audiolab
 {"type":"instrument","gm":"Piccolo","synth":"blown","phrase":["D6","G6","C7","G6","D6"],"label":"短笛常用区：实音 D6 到 C7","label_en":"The piccolo's working register — sounding D6 up to C7","hint":"注意高频的密度 —— 同一段在长笛上会明显柔和，差别来自管径比例","hint_en":"Hear how dense the top is — the same notes on a flute sound far softer; bore proportion, not just the octave."}
@@ -172,9 +159,7 @@ updated: 2026-09-26
 | [[instrument:alto-flute\|中音长笛]] | G | 记谱比实音**高纯四度** | 约 86 厘米 | 柔和、气声重 |
 | [[instrument:recorder\|竖笛]] | C | 同音 | 分族成套 | 哨嘴驱动，无键系 |
 
-三支长笛族的记谱规则各不相同，这是本条最值得记住的一点：
-短笛往下写八度，长笛照实写，中音长笛往上写四度 ——
-而三者的指法表是同一份。这正说明移调记谱的目的：统一指法，而非统一音高。
+短笛低八度记谱，C 调长笛按实音记谱，中音长笛高纯四度记谱。三者的基本指法相近，便于兼奏，但高音与替用指法、气流及音准控制仍有差别。
 
 ## 历史演变
 
@@ -184,27 +169,20 @@ updated: 2026-09-26
 | 16—18 世纪 | **军笛（fife）**：细管、高音、无键，用于行军的信号与伴奏 —— 短笛的直接前身 |
 | 19 世纪 | 引入长笛的键系（含 Böhm 体系），成为可吹半音的完整乐器；进入管乐团与管弦乐 |
 | 19 世纪后期—20 世纪 | 定型为管弦乐与管乐团的固定成员；军乐传统（进行曲、管乐组曲）给了它最稳定的舞台 |
-| 20 世纪 | 编制内的用法趋于固定 —— **不承担旋律主线，负责"顶点"与"刺"**；独奏文献仍然很少 |
+| 20 世纪 | 既用于全奏加亮，也用于独奏、旋律加倍与扩展技法 |
 
 ## 常见误解
 
-- "短笛就是小一号的长笛。" 管长确实减半，但管径没有按比例减半 ——
-  比例不同，泛音平衡就不同，音色因此差异很大。
-- "短笛只是音高不同。" 它是移调乐器：谱面写 D5–C8，实际出声 D6–C9。
-  只看谱面会低估一个八度。
-- "会吹长笛就会吹短笛。" 需要专门训练：气压更急更稳、音准更敏感、听力负担更大。
-- "它声音太大，所以用得少。" 用得少是因为音色太尖：作曲家只在需要"极端亮点"时使用它，
-  用多了整支乐队会刺耳。
-- "短笛的低音区很刺耳。" 相反 —— 它的低音区（D6 附近）是它最温和的一段，
-  真正尖利的是它的高音区。
+- 小体积并不意味着无需专门练习：短笛的高音指法、气流和音准控制需要独立训练。
+- 短笛低八度记谱，写 D4–C7，通常响 D5–C8。
+- 它并非只能强奏或只奏“尖亮的一下”；弱奏与旋律写作同样属于它的用途。
 
 ## 下一步
 
 顺着"管径比例"这条线继续往下，下一站就是 [[instrument:alto-flute|中音长笛]]：
 把管加长、加粗，会得到一件什么样的乐器？
 
-另一条线是驱动方式：短笛仍是"气流切片"驱动，换到 [[instrument:oboe|双簧管]] 那样的簧片驱动，
-音色的可塑性会明显变小，而音准的稳定性会变好。
+另一组对照是 [[instrument:oboe|双簧管]]：短笛由气流激励，双簧管由双簧片激励，二者都需要演奏者主动控制音准和音色。
 
 :::
 
@@ -257,82 +235,62 @@ notation**.
   </g>
   <text x="326" y="104" font-family="system-ui,sans-serif" font-size="11" fill="#9C7A3C">About half the flute</text>
   <text x="20" y="222" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Halve the tube and the pitch doubles; but the bore was not halved — change the ratio and the harmonics change.</text>
-  <text x="20" y="242" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">That is why a piccolo is not merely a higher flute: relatively wider, it sounds fuller and more cutting.</text>
+  <text x="20" y="242" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Bore profile, embouchure and register all shape the piccolo’s colour.</text>
 </svg>
 ```
 
 Three points:
 
-1. Same keywork, same fingerings. The piccolo uses the same Böhm system, so most flautists can
-   double — but it must be practised separately (next section).
-2. Half the length, not half the bore. A wider bore shifts the harmonic balance downwards: the flute,
-   relatively narrow, stays clear; the piccolo, relatively stout, sounds fuller and more piercing.
-3. It is the highest standard instrument in the orchestra. Even in a full fortissimo the piccolo is
-   the one voice that still cuts through — not mainly a matter of loudness, but of high frequencies
-   decaying less in air and standing out in a dense spectrum.
+1. Modern piccolos use Boehm-style keywork with basic fingerings close to the flute’s; high fingerings and intonation require separate work.
+2. The tube is about half as long, but bore proportions and taper are not a uniform reduction. Bore diameter alone does not determine the colour.
+3. Its concentrated middle and high registers can remain audible in a tutti. This does not mean high frequencies attenuate less in air or that the piccolo is the only audible instrument.
 
 ## Written and sounding
 
 ```svg
-<svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Three ranges on one pitch ruler: flute sounding C4-D7, piccolo sounding D6-C9, piccolo written D5-C8">
-  <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
-    <text x="20" y="22">Three ranges on one ruler</text>
-  </g>
-  <rect x="60" y="88" width="329" height="22" rx="3" fill="#17171A" stroke="#5B7FA8" stroke-width="1.3"/>
-  <text x="70" y="103" font-family="system-ui,sans-serif" font-size="10.5" fill="#A9A49B">Flute · sounding C4–D7</text>
-  <rect x="285" y="132" width="295" height="22" rx="3" fill="#17171A" stroke="#E07A3F" stroke-width="1.3"/>
-  <text x="295" y="147" font-family="system-ui,sans-serif" font-size="10.5" fill="#E07A3F">Piccolo · sounding D6–C9</text>
-  <rect x="181" y="176" width="295" height="22" rx="3" fill="#17171A" stroke="#9C7A3C" stroke-width="1.3"/>
-  <text x="191" y="191" font-family="system-ui,sans-serif" font-size="10.5" fill="#9C7A3C">Piccolo · written D5–C8</text>
-  <g stroke="#9C7A3C" stroke-width="1" stroke-dasharray="3 3">
-    <path d="M285,154 L181,176"/>
-    <path d="M580,154 L476,176"/>
-  </g>
-  <path d="M60,234 L580,234" stroke="#343439" stroke-width="1.4"/>
-  <g stroke="#343439" stroke-width="1">
-    <path d="M60,230 L60,238"/><path d="M164,230 L164,238"/><path d="M268,230 L268,238"/>
-    <path d="M372,230 L372,238"/><path d="M476,230 L476,238"/><path d="M580,230 L580,238"/>
-  </g>
-  <g font-family="system-ui,sans-serif" font-size="10.5" fill="#6E6A64" text-anchor="middle">
-    <text x="60" y="252">C4</text><text x="164" y="252">C5</text><text x="268" y="252">C6</text>
-    <text x="372" y="252">C7</text><text x="476" y="252">C8</text><text x="580" y="252">C9</text>
-  </g>
-  <text x="20" y="280" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The written range sits an octave to the left — about ten ledger lines saved, and reading becomes possible.</text>
+<svg viewBox="0 0 640 287" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="One written note across the flute family">
+<text x="24" y="32" font-family="system-ui,sans-serif" font-size="17" font-weight="700" fill="#A9A49B">One written note across the flute family</text>
+<rect x="24" y="53" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="76" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">Written C5 · piccolo</text>
+<text x="338" y="76" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">C6 · octave higher</text>
+<rect x="24" y="101" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="124" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">Written C5 · C flute</text>
+<text x="338" y="124" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">C5 · at pitch</text>
+<rect x="24" y="149" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="172" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">Written C5 · alto flute</text>
+<text x="338" y="172" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">G4 · perfect fourth lower</text>
+<rect x="24" y="197" width="592" height="38" rx="8" fill="#17171A"/>
+<text x="38" y="220" font-family="system-ui,sans-serif" font-size="13" fill="#A9A49B">Piccolo written D4–C7</text>
+<text x="338" y="220" font-family="system-ui,sans-serif" font-size="13" fill="#E07A3F">Sounding D5–C8</text>
 </svg>
 ```
 
 Why must it transpose?
 
-The piccolo sounds up to C9 — roughly two and a half octaves above the top line of the treble staff.
-Written at pitch, a single note would need a dozen ledger lines and could not be read at sight. So the
-notation is uniformly an octave lower:
+A standard C piccolo commonly sounds D5–C8 and is written an octave lower in treble clef to reduce ledger lines. Written C6, for example, sounds C7:
 
-- written D5–C8 = sounding D6–C9
-- all winds share one fingering chart: the page shows the fingers, not the sound
+- written D4–C7 = sounding D5–C8
+- basic flute-family fingerings are similar; piccolo high and alternate fingerings still need separate study
 
 Which is why a piccolo player reads what looks like ordinary flute music and produces a sound an octave above it.
 
 ## Range
 
 ```range
-{"range":"D6–C9","written":"D5–C8","common":"D6–B8","caption":"短笛的记谱音域与实音音域","caption_en":"The piccolo: notated range above, sounding range below","note":"⚠️ 短笛是移调乐器 —— 记谱比实音低一个八度。上面一行是记谱，下面一行是实际听到的音高。谱面写 D5–C8，实际出声 D6–C9。"}
+{"range":"D5–C8","written":"D4–C7","common":"G5–C7","caption":"短笛的记谱音域与实音音域","caption_en":"The piccolo: notated range above, sounding range below","note":"⚠️ 短笛是移调乐器 —— 记谱比实音低一个八度。上面一行是记谱，下面一行是实际听到的音高。谱面写 D4–C7，实际出声 D5–C8。"}
 ```
 
-- Sounding D6–C9 — the highest standard range in the orchestra.
-- The working register is D6–B8; above that needs special fingerings and very strong pressure control.
-- The low end (around D6) is in fact its gentlest region; the piccolo is at its most cutting up top.
+- A common sounding range is D5–C8, corresponding to written D4–C7.
+- G5–C7 is a frequently used middle-to-high area; the very top demands careful pitch and dynamic control.
+- D5–G5 is comparatively light and hollow, distinct from the brilliance of loud high notes.
 
 ## Timbre, and how to hear it
 
 Four cues:
 
-1. Extremely bright and hard. The same notes on a flute sound far softer — the difference is
-   bore proportion, not merely the octave.
-2. The strongest projection of any wind. It remains audible through a full orchestra, which is both its
-   most useful property and the reason composers use it only for a spike.
-3. Little breath noise. Unlike the flute, the piccolo's high-frequency content drowns the air sound.
-4. Pitch is very pressure-sensitive. A short tube means short wavelengths, so small changes in air
-   pressure shift the note — often the hardest instrument in the band to keep in tune.
+1. Loud high notes are bright and concentrated; soft middle and low notes can be delicate.
+2. The piccolo can double a melody, play solos, imitate birdsong or provide light ornament.
+3. Breath noise, attack and intonation vary with register and technique. One GM demonstration cannot establish the full colour of a real instrument.
 
 ```audiolab
 {"type":"instrument","gm":"Piccolo","synth":"blown","phrase":["D6","G6","C7","G6","D6"],"label":"短笛常用区：实音 D6 到 C7","label_en":"The piccolo's working register — sounding D6 up to C7","hint":"注意高频的密度 —— 同一段在长笛上会明显柔和，差别来自管径比例","hint_en":"Hear how dense the top is — the same notes on a flute sound far softer; bore proportion, not just the octave."}
@@ -360,9 +318,7 @@ top of a tutti**.
 | [[instrument:alto-flute\|Alto flute]] | G | written a **perfect fourth above** sounding | about 86 cm | soft, very breathy |
 | [[instrument:recorder\|Recorder]] | C | at pitch | a consort of sizes | duct-blown, keyless |
 
-**The three flutes each transpose differently — the single most important thing on this page**: the piccolo
-writes an octave down, the flute at pitch, the alto flute a fourth up — and all three **share one fingering
-chart. Which shows the purpose of transposing notation: to unify the fingers, not the pitch.**
+The piccolo is written an octave below its sound, the C flute at concert pitch, and the alto flute a perfect fourth above its sound. Similar basic fingerings help doubling, while high and alternate fingerings, airflow and intonation still differ.
 
 ## History
 
@@ -376,22 +332,14 @@ chart. Which shows the purpose of transposing notation: to unify the fingers, no
 
 ## Common misconceptions
 
-- "A piccolo is just a small flute." The tube is halved but the bore is not — a different ratio
-  gives a different harmonic balance, and a very different sound.
-- "It only differs in pitch." It is a transposing instrument: written D5–C8, sounding D6–C9.
-  Reading the page alone loses an octave.
-- "If you play flute you can play piccolo." It needs dedicated work: faster, steadier air, far more
-  sensitive pitch, and a greater load on the ears.
-- "It is rarely used because it is too loud." It is rarely used because it is too bright — reserved
-  for extreme highlights; in quantity it turns an orchestra harsh.
-- "Its low register is the shrill part." The opposite — around D6 it is at its gentlest;
-  the top register is the cutting one.
+- Small size does not remove the need for dedicated work on high fingerings, airflow and intonation.
+- The piccolo is written an octave below its sound: written D4–C7 commonly sounds D5–C8.
+- It is not confined to loud highlights: soft playing and melodic writing are also part of its role.
 
 ## Next
 
 Following the "bore proportion" thread, the next stop is the [[instrument:alto-flute|alto flute]]:
 lengthen and widen the tube, and what kind of instrument do you get?
 
-The other thread is drive: the piccolo is still jet-driven. Switch to a reed, as in the
-[[instrument:oboe|oboe]], and the range of colour narrows while the stability of pitch improves.
+For a different excitation mechanism, compare the [[instrument:oboe|oboe]]: the piccolo uses an air jet and the oboe a double reed. Both require active pitch and colour control.
 :::

@@ -4,8 +4,8 @@ site: inst
 cat: I4
 title: 钢片琴
 title_en: Celesta
-summary: 键盘击奏钢片的体鸣乐器，音色如玻璃，是打击乐却由键盘手演奏
-summary_en: Steel plates struck by a keyboard — a glassy idiophone played by a keyboard player
+summary: 键盘驱动击槌敲击金属片，可用踏板控制余音的体鸣乐器
+summary_en: A keyboard idiophone with hammers striking metal plates and a pedal controlling the decay
 level: standard
 tags: [乐器, 打击, 西洋]
 tags_en: [instrument, percussion, western]
@@ -21,15 +21,17 @@ links:
   - "[[instrument:vibraphone]]"
   - "[[instrument:timpani]]"
 instances:
-  - pdmx-001882 | Carol of the Bells —— 标题指向"钟声/铃声"的曲目，可作音色联想与时代语汇的参照
-  - pdmx-000746 | 霍尔斯特《行星组曲》Op.32 —— 配器里键盘与打击乐丰富，钢片琴类的用法可在此听到
-  - pdmx-002528 | 霍尔斯特《第二军乐组曲》Op.28 No.2 —— 管乐团编制里的金属打击乐用法
+  - pdmx-000251 | 《糖梅仙子之舞》该文件实际包含GM钢片琴程序，可把相应声部与其他乐器对照 | This Dance of the Sugar Plum Fairy file contains a GM celesta program, enabling comparison with its other parts
+  - pdmx-001378 | 同名作品的另一个文件设有萨克斯与弦乐程序，可比较旋律在不同编制中的分配 | Another file of the same title uses saxophone and string programs, showing how a melody is reassigned in another scoring
+  - pdmx-001882 | 《Carol of the Bells》这里是钢琴程序的编配，可比较钟声主题的节奏材料，不把曲名当作钢片琴声部的证据 | This Carol of the Bells arrangement uses a piano program; compare its bell-like rhythmic material without inferring a celesta part from the title
 sources:
+  - "https://www.yamaha.com/en/musical_instrument_guide/marimba/"
+  - "https://www.yamaha.com/en/musical_instrument_guide/celesta/play/"
   - 结构依通行制琴资料：外形如小型立式钢琴，**键盘**通过击槌机构敲击一排**钢片**；钢片下方有木质共鸣箱
   - 「钢片琴属**体鸣**的有音高乐器 —— 振动体是钢片；键盘只是触发机构」依 Hornbostel–Sachs 分类
   - 「常见音域 C3–C8（五组）」依通行乐器资料
   - 「1886 年由法国乐器制造者 Auguste Mustel 定型」依乐器史
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -108,7 +110,7 @@ updated: 2026-09-26
   </g>
   <g font-family="system-ui,sans-serif" font-size="10.5">
     <text x="20" y="62" fill="#6E6A64">变量一 · 材料</text>
-    <text x="20" y="84" fill="#A9A49B">硬木 → 软木 → 铝合金 → 钢</text>
+    <text x="20" y="84" fill="#A9A49B">琴条、金属片与共鸣装置</text>
     <text x="20" y="106" fill="#6E6A64">材料越硬越薄 → 高频越多 → 音色越"亮而冷"</text>
     <text x="20" y="142" fill="#6E6A64">变量二 · 形状</text>
     <text x="20" y="164" fill="#A9A49B">短条 → 长条 → 长管（管钟）</text>
@@ -119,7 +121,7 @@ updated: 2026-09-26
   </g>
   <g font-family="system-ui,sans-serif" font-size="10.5" fill="#A9A49B">
     <text x="360" y="62">木琴 · 干、脆（硬木条）</text>
-    <text x="360" y="84">马林巴 · 暖、厚（软木条）</text>
+    <text x="360" y="84">马林巴 · 玫瑰木或合成材料</text>
     <text x="360" y="106">颤音琴 · 金属、闪烁（铝条 + 旋转阀）</text>
     <text x="360" y="128">钟琴 · 极亮、通透（钢条）</text>
     <text x="360" y="150">管钟 · 钟声、极长余音（金属管）</text>
@@ -134,7 +136,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-木琴用硬木条，马林巴用软木条，颤音琴用铝条，钟琴用钢条，管钟用金属管，钢片琴用钢片。机械逻辑一样，变量只有材料、形状和谁来演奏。颤音琴靠旋转阀做颤动，管钟靠管长，钢片琴靠键盘，三件都是金属，音色没有一件重复。
+木琴用硬木条，马林巴常用玫瑰木等硬木或合成材料琴条，颤音琴用铝条，钟琴用钢条，管钟用金属管，钢片琴用钢片。机械逻辑一样，变量只有材料、形状和谁来演奏。颤音琴靠旋转阀做颤动，管钟靠管长，钢片琴靠键盘，三件都是金属，音色没有一件重复。
 
 ## 能当旋律乐器用
 
@@ -142,10 +144,10 @@ updated: 2026-09-26
 {"range":"C3–C8","common":"C4–C7","caption":"钢片琴的音域","caption_en":"Celesta range","note":"钢片琴属体鸣的有音高乐器（键盘触发）。常见音域 C3–C8（五组）——比钟琴低得多，用途也更宽。记谱即实音。"}
 ```
 
-音域 C3–C8，五组，是这一族里最宽的，常用区 C4–C7，那一段最"玻璃"。它有触键力度，轻就真的轻，这是槌击乐器难做到的；但没有延音踏板，余音收不住。1886 年 Auguste Mustel 定型，柴可夫斯基把它写进《糖梅仙子之舞》之后，"仙女的音乐"就有了固定的音色。在那之前，仙女的音乐用竖琴与钟琴；一个音色与一个意象绑在一起，就会长期替它说话。它也能独奏，能写完整的旋律线，不只是点缀。与钢琴叠八度是常见做法，得到的不是更响，而是更亮。
+钢片琴的键数和音域因型号而异，读谱时还要注意通常比记谱高一个八度。常见型号有延音踏板：踏下后止音机构离开钢片，音符可继续衰减，松开则止音。踏板能连接旋律和和弦，但不能像管风琴一样无限维持音量；配器时要给余音留出空间。
 
 ```audiolab
-{"type":"instrument","gm":"Celesta","synth":"struck","phrase":["C4","E4","G4","C5","E5","G5"],"label":"钢片琴的常用区：C4 到 G5","label_en":"The celesta's working register — C4 up to G5","hint":"注意音色如玻璃般清脆，而且有触键的力度层次 —— 这来自键盘触发","hint_en":"Hear the glassy clarity and the touch-sensitive dynamics — a consequence of keyboard action."}
+{"type":"instrument","gm":"Celesta","synth":"struck","phrase":["C4","E4","G4","C5","E5","G5"],"label":"钢片琴音色：六个等力度音","label_en":"Celesta sound — six notes at equal velocity","hint":"这组六音采用相同力度，留意音头与余音；要比较触键变化，需要另做不同力度的演奏。","hint_en":"These six notes use equal velocity. Listen to attack and decay; testing touch response requires a separate performance with changing velocity."}
 ```
 
 :::
@@ -252,7 +254,7 @@ Piano, celesta, organ and electronic keyboard all have keys and land in four dif
 </svg>
 ```
 
-Xylophone on hard wood, marimba on softer wood, vibraphone on aluminium, glockenspiel on steel bars, tubular bells on metal tubes, celesta on steel plates. One mechanical logic, three variables: material, shape, and who operates it. Three of them are metal, and no two sound alike: the vibraphone fans its bars with a motor, tubular bells depend on tube length, the celesta on its keyboard action.
+Xylophone on hard wood, marimba on rosewood or synthetic bars, vibraphone on aluminium, glockenspiel on steel bars, tubular bells on metal tubes, celesta on steel plates. One mechanical logic, three variables: material, shape, and who operates it. Three of them are metal, and no two sound alike: the vibraphone fans its bars with a motor, tubular bells depend on tube length, the celesta on its keyboard action.
 
 ## It can carry a melody
 
@@ -260,9 +262,9 @@ Xylophone on hard wood, marimba on softer wood, vibraphone on aluminium, glocken
 {"range":"C3–C8","common":"C4–C7","caption":"钢片琴的音域","caption_en":"Celesta range","note":"钢片琴属体鸣的有音高乐器（键盘触发）。常见音域 C3–C8（五组）——比钟琴低得多，用途也更宽。记谱即实音。"}
 ```
 
-C3 to C8, five octaves, the widest in the family; C4 to C7 is where it sounds most glassy. Touch gives it real dynamic shading, which mallet instruments struggle to match, and there is no sustaining pedal, so the ring cannot be held. Auguste Mustel settled the design in 1886, and after Tchaikovsky used it, fairy music had a fixed colour; before that, fairy music was harps and glockenspiels. It also plays real melodic lines, not only sparkle, and doubling a piano an octave up gives brightness rather than volume.
+Keyboard size and range vary by model, and celesta parts normally sound an octave above notation. Common models have a sustain pedal: depressing it lifts the dampers so struck notes continue to decay; releasing it damps them. The pedal connects melody and harmony but does not sustain a constant level like an organ, so scoring should allow room for the ringing notes.
 
 ```audiolab
-{"type":"instrument","gm":"Celesta","synth":"struck","phrase":["C4","E4","G4","C5","E5","G5"],"label":"钢片琴的常用区：C4 到 G5","label_en":"The celesta's working register — C4 up to G5","hint":"注意音色如玻璃般清脆，而且有触键的力度层次 —— 这来自键盘触发","hint_en":"Hear the glassy clarity and the touch-sensitive dynamics — a consequence of keyboard action."}
+{"type":"instrument","gm":"Celesta","synth":"struck","phrase":["C4","E4","G4","C5","E5","G5"],"label":"钢片琴音色：六个等力度音","label_en":"Celesta sound — six notes at equal velocity","hint":"这组六音采用相同力度，留意音头与余音；要比较触键变化，需要另做不同力度的演奏。","hint_en":"These six notes use equal velocity. Listen to attack and decay; testing touch response requires a separate performance with changing velocity."}
 ```
 :::

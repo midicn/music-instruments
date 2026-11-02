@@ -4,8 +4,8 @@ site: inst
 cat: I2
 title: 单簧管
 title_en: Clarinet
-summary: 圆柱管加单片簧片，超吹得十二度，因而分成三个性格不同的音区
-summary_en: A cylindrical tube with a single reed — it overblows a twelfth, which splits it into three distinct registers
+summary: 单片簧激发近似圆柱管，常以十二度关系进入高一音区
+summary_en: A single reed driving an approximately cylindrical bore, commonly overblowing a twelfth
 level: standard
 tags: [乐器, 木管, 西洋]
 tags_en: [instrument, woodwind, western]
@@ -25,12 +25,14 @@ instances:
   - m21-003066 | 韦伯单簧管小协奏曲 —— 单簧管炫技文献的代表
   - pdmx-000062 | 管乐五重奏（长笛 · 双簧管 · 单簧管 · 圆号 · 巴松）—— 听它在标准管乐五重奏里的位置
 sources:
+  - "https://www.phys.unsw.edu.au/jw/clarinetacoustics.html"
+  - "https://phys.unsw.edu.au/jw/flutes.v.clarinets.html"
   - 结构依通行制琴资料：全长约 66 厘米，分吹嘴、上节、下节、喇叭口四段，木质（或树脂）圆柱管，单片芦竹簧绑在吹嘴上
   - 「单簧管为降 B 调移调乐器，记谱比实音高大二度」依通行配器资料
   - 「音域记谱 E3–C7（实音 D3–B♭6）」依通行配器资料
   - 「圆柱管只产生奇次泛音、超吹得十二度，因此单簧管拥有三个性格差异明显的音区」依管乐器声学
   - 「现代单簧管键系分成法式 Böhm 体系与德式 Oehler 体系两支」依乐器史
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -44,11 +46,7 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 木管（单簧管族） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，单簧管不在其中 |
 
-> ⚠️ **一个概念上的要点**：单簧管与[[instrument:oboe|双簧管]]的差别，最要紧的不是"一片簧还是两片簧"，
-> 而是管形：单簧管是圆柱管，只能激起奇次泛音（1、3、5…）→ 超吹时音高跳十二度；
-> 双簧管一族是圆锥管，全部泛音都在 → 超吹跳八度。
-> 于是单簧管必须用十二度键，而双簧管只需要八度键。
-> 从键的名字就能读出管形 —— 这是木管声学里最实用的一条判据。
+> 单簧管的管身近似圆柱形，簧片端在声学上近似封闭；低音区的奇次泛音通常较强，偶次泛音并非完全不存在。打开泛音键并配合指法和气流，可跳到约十二度上方。长笛同样近似圆柱管，但声学上近似两端开放；管形和两端边界条件要一起看，不能只按圆柱、圆锥判断。
 
 ## 结构：吹嘴、圆柱管与十二度键
 
@@ -125,9 +123,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-为什么会有三个音区？ 因为圆柱管只容得下奇次泛音。
-低音区用基频，中音区用第 3 次泛音，高音区用第 5 次泛音 —— 中间跳过了第 2、4 次，
-所以每一次"换音区"都是一次音色跳变，而不是平滑过渡。
+单簧管从低音区进入 clarino 音区时常利用约十二度的超吹关系。更高音区需要不同指法与更精细的气流、口形控制，音色也随之改变。这是实际管体、簧片和演奏控制的共同结果，不意味着真实声音中不存在偶次泛音。
 
 | 音区 | 记谱范围 | 泛音 | 音色 |
 |---|---|---|---|
@@ -159,7 +155,7 @@ updated: 2026-09-26
    这也是它在管乐团里承担主力旋律的原因。
 
 ```audiolab
-{"type":"instrument","gm":"Clarinet","synth":"reed","phrase":["D3","B♭3","F4","B♭4","F5"],"label":"单簧管：从低音区穿过换音区到中音区","label_en":"Clarinet — from the chalumeau across the break into the clarino","hint":"注意 B♭3 到 F4 之间那一次音色跳变 —— 那就是「换音区」","hint_en":"Listen for the change of colour between B♭3 and F4 — that is the break where the odd-harmonic tube shifts gear."}
+{"type":"instrument","gm":"Clarinet","synth":"reed","phrase":["D3","B♭3","F4","B♭4","F5"],"label":"单簧管音色：实音D3到F5的短句","label_en":"Clarinet sound — a phrase from sounding D3 to F5","hint":"降B单簧管常见换区在记谱B♭4与B4附近，对应实音A♭4与A4。本例用采样或合成音色比较音区，不复现真实换指与口形动作。","hint_en":"The usual B♭-clarinet break is near written B♭4–B4, sounding A♭4–A4. This sampled or synthesized phrase compares registers without reproducing real fingering and embouchure."}
 ```
 
 ## 演奏技法
@@ -199,17 +195,10 @@ updated: 2026-09-26
 
 ## 常见误解
 
-- "单簧管和双簧管只是簧片数量不同。" 更关键的是管形：
-  圆柱管（单簧管）只有奇次泛音、超吹得十二度；圆锥管（双簧管）超吹得八度。
-  两者连音区的行为都不一样。
-- "它叫黑管，说明是黑的所以低。" "黑管"只是外观俗称（多为黑檀或黑色树脂），
-  与音高无关；它的音域其实比双簧管还高一些。
-- "单簧管就是竖笛。" [[instrument:recorder|竖笛]]是哨嘴边棱音乐器，没有簧片，
-  也没有单簧管那样的按键系统 —— 两者完全两族。
-- "低音单簧管只是音量大的单簧管。" 它是降 B 调、记谱高大九度的另一件乐器，
-  体量与用法都不同（见该条）。
-- "三个音区是演奏习惯造成的。" 是管形造成的：圆柱管跳过了偶次泛音，
-  所以音区之间必然有音色的跳变。
+- 单簧与双簧描述簧片结构，圆柱与圆锥描述管形；两种分类轴应分别辨认。
+- 泛音键、指法与气流配合改变音区；真实频谱不等于理想管模型。
+- 低音单簧管比常用降 B 单簧管低一个八度，记谱比实音高大九度。
+
 
 ## 下一步
 
@@ -235,12 +224,7 @@ one of the few **cylindrical** woodwinds.
 | **Family** | Western · Woodwinds (clarinet family) |
 | **Bayin** | Not applicable — a Chinese system; the clarinet is outside it |
 
-> ⚠️ **One conceptual point**: what really separates the clarinet from the [[instrument:oboe|oboe]] is not
-> "one reed or two" but the **bore**. The clarinet's is cylindrical, so it sustains only **odd
-> harmonics (1, 3, 5…) and overblows a twelfth; the oboe family's is conical**, so it sustains all
-> harmonics and overblows an octave. Hence a clarinet needs a twelfth key where an oboe needs only
-> an octave key. The key's name tells you the bore — the most useful single test in woodwind
-> acoustics.
+> The clarinet is approximately cylindrical and acoustically almost closed at the reed end. Odd harmonics are usually stronger in its low register, but even harmonics are not absent. The register key, fingering and airflow allow overblowing approximately a twelfth. A flute is also nearly cylindrical but acoustically open at both ends; bore shape and boundary conditions must be considered together.
 
 ## Structure: mouthpiece, cylinder and twelfth key
 
@@ -319,9 +303,7 @@ Three points:
 </svg>
 ```
 
-Why three registers? Because a cylindrical tube only admits odd harmonics. The low register uses
-the fundamental, the middle the 3rd harmonic, the top the 5th — skipping the 2nd and 4th. So each
-register change is a jump in colour, not a smooth transition.
+Crossing into the clarino register commonly uses the clarinet’s approximate twelfth-overblowing relationship. Higher registers need different fingerings and finer control of air and embouchure. Changes of colour arise from the real bore, reed and playing conditions; they do not mean that even harmonics are absent from the sound.
 
 | Register | Written range | Harmonic | Timbre |
 |---|---|---|---|
@@ -329,8 +311,7 @@ register change is a jump in colour, not a smooth transition.
 | **Clarino** | B4–C6 | 3rd harmonic | bright, direct, most "clarinet" |
 | **Altissimo** | above C♯6 | 5th and up | tense, thin, special fingerings |
 
-Compare: the [[instrument:flute|flute]] and [[instrument:oboe|oboe]] (conical) change register
-gradually, so they never sound "in three pieces". That is the cylinder's signature.
+The flute is approximately an open cylindrical pipe, while the oboe has a conical bore. Both commonly overblow at the octave, but their register colours and playing techniques differ. The distinction depends on acoustic boundary conditions as well as bore shape.
 
 ## Range
 
@@ -355,7 +336,7 @@ Four cues:
    bands give it the leading line.
 
 ```audiolab
-{"type":"instrument","gm":"Clarinet","synth":"reed","phrase":["D3","B♭3","F4","B♭4","F5"],"label":"单簧管：从低音区穿过换音区到中音区","label_en":"Clarinet — from the chalumeau across the break into the clarino","hint":"注意 B♭3 到 F4 之间那一次音色跳变 —— 那就是「换音区」","hint_en":"Listen for the change of colour between B♭3 and F4 — the break where the odd-harmonic tube shifts gear."}
+{"type":"instrument","gm":"Clarinet","synth":"reed","phrase":["D3","B♭3","F4","B♭4","F5"],"label":"单簧管音色：实音D3到F5的短句","label_en":"Clarinet sound — a phrase from sounding D3 to F5","hint":"降B单簧管常见换区在记谱B♭4与B4附近，对应实音A♭4与A4。本例用采样或合成音色比较音区，不复现真实换指与口形动作。","hint_en":"The usual B♭-clarinet break is near written B♭4–B4, sounding A♭4–A4. This sampled or synthesized phrase compares registers without reproducing real fingering and embouchure."}
 ```
 
 ## Playing techniques
@@ -396,17 +377,10 @@ range. Those four make it both the easiest woodwind to start and the most versat
 
 ## Common misconceptions
 
-- "Oboe and clarinet differ only in reed count." The decisive difference is the bore: a cylinder has
-  only odd harmonics and overblows a twelfth; a cone has all of them and overblows an octave. Even the
-  register behaviour differs.
-- "The nickname \u201cblack tube\u201d means it is black and low." The nickname is about its looks
-  (ebony or black resin) and says nothing about pitch; the clarinet actually sounds higher than the oboe.
-- "A clarinet is a recorder." The [[instrument:recorder|recorder]] is a duct flute with no reed and
-  no key system — a different family entirely.
-- "A bass clarinet is just a louder clarinet." It is a separate instrument **in B♭, written a major
-  ninth higher**, with a different size and use (see its own entry).
-- "The three registers come from playing habit." They come from the bore: a cylinder skips the even
-  harmonics, so register changes must jump in colour.
+- Reed count and bore shape are separate classification axes.
+- Register keys, fingering and airflow work together; a real spectrum is not identical to an ideal pipe model.
+- The bass clarinet sounds an octave below the usual B♭ clarinet and is written a major ninth above sounding pitch.
+
 
 ## Next
 

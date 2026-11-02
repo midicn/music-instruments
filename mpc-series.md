@@ -4,8 +4,8 @@ site: inst
 cat: I11
 title: MPC 系列
 title_en: The MPC series
-summary: 十六个垫与手指鼓的诞生 —— 打花巴掌的人打出了 hip-hop 的骨架
-summary_en: Sixteen pads and the birth of finger drumming — the clap-game players built hip-hop's skeleton
+summary: 结合采样回放、力度垫与音序器，用手指编排节拍
+summary_en: Sample playback, velocity-sensitive pads and sequencing for finger-played beat production
 level: standard
 tags: [乐器, 电子, 电鸣, 西洋, 鼓机, MPC, 手指鼓, hip-hop]
 tags_en: [instrument, electronic, electrophone, western, drum-machine, mpc, finger-drumming, hip-hop]
@@ -19,10 +19,11 @@ links:
  - "[[concept:articulation]]"
  - "[[concept:pitch]]"
 instances:
- - chinafolk-000380 | 《打花巴掌》 —— 「打花巴掌」：**MPC 的定义就是「用巴掌打」**——「**史上第一次，16 个力度感应橡胶垫的矩阵来触发采样**」——**打花巴掌的双手，打出了 hip-hop 的骨架（finger drumming 由此诞生）**（**C3 · 仅限学习研究**；库内无 MPC 录音，取民歌作意象参照）
- - chinafolk-004686 | 《拍皮球》 —— 「拍皮球」：**MPC 的 16 个垫就是 16 只「皮球」**——「**橡胶垫允许 easy sample playback and beat programming, providing expressive dynamics with velocity sensitivity**」——**拍的力度决定声音的轻重，拍皮球的功夫就是演奏功夫**（**C3 · 仅限学习研究**）
- - chinafolk-001472 | 《歌堂弹指歌》 —— 「弹指」：**J Dilla 在 MPC60 大量工作后转 MPC3000**——「**他的手指把 MPC 从节拍工具弹成了演奏乐器**」——**弹指之间，节拍有了呼吸**（**C3 · 仅限学习研究**）
+  - groove-000000 | 鼓组MIDI含247次发音和多档力度，可比较底鼓、军鼓与踩镲的轻重组织；这是鼓手数据，不是MPC设备录音 | The drum MIDI contains 247 note-ons and varied velocities; compare kick, snare and hi-hat accents. It is drummer data, not an MPC recording
+  - groove-000001 | 鼓组MIDI含410次发音，包含叮叮镲与脚踏踩镲事件，可观察不同垫位如何分工 | The 410-note-on drum file includes ride and pedal-hi-hat events, useful for studying how separate pad assignments share the pattern
+  - groove-000002 | 另一段鼓组演奏含324次发音，可与前两条比较相同鼓音上的力度差异；不能据此判断某款采样器的电路音色 | This 324-note-on drum performance permits comparison of velocities on repeated drum notes; it does not establish a particular sampler’s circuit sound
 sources:
+  - "https://www.rogerlinndesign.com/about/roger-faq"
  - **主线：手指鼓的诞生（本页最该记住的一条）** —— 「**史上第一次，16 个力度感应橡胶垫的矩阵来触发采样（12-bit/40kHz 最多 13 秒）**」； **「它 introduces 了『MPC workflow』——后来成为现代 beat 制作的标准**」—— **在 MPC 之前，做节拍是「编程」；在 MPC 之后，做节拍是「打」——手指鼓（finger drumming）由此诞生**（ **对照键盘条（键是消息）与马特诺（强度键交力度）：MPC 把「力度」交给了整个手掌**）
  - **双巨头的合著（Linn × Cockerell）** —— 「**Akai Professional 聘请 Roger Linn——LinnDrum 鼓机的创造者——来设计 MPC**」；「**Linn 与 David Cockerell（EMS 的联合创始人）一起设计了第一代 MIDI Production Centers（MPC60 与 MPC3000），后者负责硬件**」→ **对照其他条目的合著谱系：Moog×Deutsch · Smith×Kakehashi · Linn×Smith（Tempest）——**「**MPC60 = 采样鼓机之父 × EMS 合成器元老的合著**」；**MPC 之名：「MIDI Production Center，后改名 Music Production Center」**
  - **12-bit 的 grit（与 SP-1200 的双雄格局）** —— 「**12-bit 40kHz 采样，相比后来的 16-bit 机型有独特的 gritty and punchy character**」—— **对照 samplers 条的 SP-1200（12-bit 砂砾定义 hip-hop）**：**「SP-1200 与 MPC60 在 80 年代末 90 年代初瓜分了 hip-hop 制作」——12-bit 的两种性格，两个流派的骨架**
@@ -33,7 +34,7 @@ sources:
  - **J Dilla：把 MPC 弹成乐器的极致** —— 「**在最受尊敬的 beatmaker 之中，J Dilla 也在早期 MPC60 上大量工作，后转 MPC3000**」—— **J Dilla 的「off-grid」演奏（故意不量化）把 MPC swing 的「机器人性化」推到了反面——他不修节拍，他让节拍呼吸**（对照 909 的 shuffle 旋钮：**Dilla 用手指做出了旋钮做不出的摇摆**）
  - **从 Renaissance 到 standalone（2010s）** —— 「电脑时代的 DAW 崛起后，standalone 硬件逐渐被软件与控制器掩盖——五年间隔后，**MPC Renaissance（2012）标记了重大转向：复古垫硬件 + 专用 MPC 软件**」；「**MPC Live 与 MPC X（2017）引入了产品线的新时代——standalone 设备把经典机器的 hands-on 手感与现代触屏控制合并——免去电脑**」依专题类资料
  - 「MPC 属**电鸣**（Electrophone · 12/16-bit 采样回放 + MIDI 音序 + 力度垫）」依 Hornbostel–Sachs 分类
-updated: 2026-10-15
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -70,10 +71,10 @@ Linn 是 LinnDrum 的创造者，硬件交给 David Cockerell——EMS 的联合
 |---|---|
 | HS 类 | 电鸣（12/16-bit 采样回放 + MIDI 音序 + 力度垫） |
 | 出身 | 1988 · Roger Linn × David Cockerell（EMS） |
-| 界面 | 16 个力度感应橡胶垫（四乘四）· 首次用于触发采样 |
+| 界面 | 16 个力度感应橡胶垫（四乘四）· 用于触发采样 |
 | 采样 | 12-bit/40kHz · 最长 13 秒 · 砂砾与冲劲 |
 | 音序 | swing 量化 · 六万事件 · 99 轨 / 99 pattern / 99 sequence |
-| 八音：不在其列 | 乐器第一次用巴掌演奏 |
+| 八音：不在其列 | 按材料划分的八音不直接适用于电子采样系统 |
 
 ```svg
 <svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The MPC60: sixteen velocity-sensitive rubber pads in a four-by-four matrix — the birth of finger drumming; co-authored by Roger Linn and David Cockerell of EMS; 12-bit sampling gave it a gritty punch that with the SP-1200 split hip-hop production in two; J Dilla played it off-grid, letting the beat breathe; the pads outlived every form the machine took">
@@ -123,7 +124,7 @@ Linn 是 LinnDrum 的创造者，硬件交给 David Cockerell——EMS 的联合
 ```
 
 ```audiolab
-{"type":"instrument","gm":"Melodic Tom","synth":"bowed","phrase":["C2","D2","E2","G2","C2","E2","G2","C3"],"label":"垫上的手指鼓：拍的力度决定轻重（借旋律通通鼓近似）","label_en":"Finger drumming on pads — the slap decides the weight (melodic toms stand in)","hint":"MPC 的本质是「用手掌打采样」——这条旋律通鼓采样取其「拍击」的骨架。真实 MPC 的三样特征这里听不出来：一是力度感应（同一垫轻拍与重拍是两个世界——手指鼓的功夫全在手掌）；二是 MPC swing（传奇的量化——同一发明人 LinnDrum 配方的第二代）；三是 12-bit 的 grit（与 SP-1200 瓜分 hip-hop 的两种性格）。","hint_en":"The MPC's essence is 「slapping samples with the palm」 — this melodic-tom sample takes the percussive skeleton. Three things are absent: velocity sensitivity（a soft slap and a hard slap on the same pad are two worlds — finger drumming lives in the palm）, MPC swing（the legendary quantization — second generation of Linn's LinnDrum formula）, and the 12-bit grit（one of the two characters that split hip-hop with the SP-1200）."}
+{"type":"instrument","gm":"Melodic Tom","synth":"perc","phrase":["C2","D2","E2","G2","C2","E2","G2","C3"],"label":"打击短句（GM旋律通通鼓近似）","label_en":"Percussive phrase — GM Melodic Tom approximation","hint":"这段短句用同一种打击音色按不同音高排列，可先分辨起音与间隔。下方鼓组MIDI提供真实的力度变化；本段不复刻MPC硬件的位深、滤波或摇摆设置。","hint_en":"One percussive sound is arranged at different pitches to compare attacks and spacing. The drum MIDI below supplies varying velocities; this phrase does not recreate MPC bit depth, filtering or swing settings."}
 ```
 
 ::: en
@@ -158,10 +159,10 @@ The user list is a hip-hop hall of fame: DJ Premier, Pete Rock and Marley Marl o
 |---|---|
 | HS class | Electrophone (12/16-bit playback + MIDI sequencing + velocity pads) |
 | Origin | 1988 · Roger Linn with David Cockerell of EMS |
-| Interface | 16 velocity-sensitive rubber pads, first of their kind |
+| Interface | 16 velocity-sensitive rubber pads in a four-by-four layout |
 | Sampling | 12-bit/40kHz · up to 13 seconds · grit and punch |
 | Sequencing | swing quantisation · 60,000 events · 99 tracks and patterns |
-| Bayin | outside it — the first instrument played with the palm |
+| Bayin | outside it — a material-based classification does not directly describe an electronic sampling system |
 
 ```svg
 <svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The MPC60: sixteen velocity-sensitive rubber pads in a four-by-four matrix — the birth of finger drumming; co-authored by Roger Linn and David Cockerell of EMS; 12-bit sampling gave it a gritty punch that with the SP-1200 split hip-hop production in two; J Dilla played it off-grid, letting the beat breathe; the pads outlived every form the machine took">
@@ -211,6 +212,6 @@ The user list is a hip-hop hall of fame: DJ Premier, Pete Rock and Marley Marl o
 ```
 
 ```audiolab
-{"type":"instrument","gm":"Melodic Tom","synth":"bowed","phrase":["C2","D2","E2","G2","C2","E2","G2","C3"],"label":"垫上的手指鼓：拍的力度决定轻重（借旋律通通鼓近似）","label_en":"Finger drumming on pads — the slap decides the weight (melodic toms stand in)","hint":"MPC 的本质是「用手掌打采样」——这条旋律通鼓采样取其「拍击」的骨架。真实 MPC 的三样特征这里听不出来：一是力度感应（同一垫轻拍与重拍是两个世界——手指鼓的功夫全在手掌）；二是 MPC swing（传奇的量化——同一发明人 LinnDrum 配方的第二代）；三是 12-bit 的 grit（与 SP-1200 瓜分 hip-hop 的两种性格）。","hint_en":"The MPC's essence is 「slapping samples with the palm」 — this melodic-tom sample takes the percussive skeleton. Three things are absent: velocity sensitivity（a soft slap and a hard slap on the same pad are two worlds — finger drumming lives in the palm）, MPC swing（the legendary quantization — second generation of Linn's LinnDrum formula）, and the 12-bit grit（one of the two characters that split hip-hop with the SP-1200）."}
+{"type":"instrument","gm":"Melodic Tom","synth":"perc","phrase":["C2","D2","E2","G2","C2","E2","G2","C3"],"label":"打击短句（GM旋律通通鼓近似）","label_en":"Percussive phrase — GM Melodic Tom approximation","hint":"这段短句用同一种打击音色按不同音高排列，可先分辨起音与间隔。下方鼓组MIDI提供真实的力度变化；本段不复刻MPC硬件的位深、滤波或摇摆设置。","hint_en":"One percussive sound is arranged at different pitches to compare attacks and spacing. The drum MIDI below supplies varying velocities; this phrase does not recreate MPC bit depth, filtering or swing settings."}
 ```
 :::

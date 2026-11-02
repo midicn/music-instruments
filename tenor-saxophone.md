@@ -25,12 +25,15 @@ instances:
   - giantmidi-006221 | Saxophone Sonata —— 未指明声部的萨克斯独奏文献，用于对照音区
   - pdmx-001172 | Concertino pour Saxophone Alto et Piano —— 同族**中音萨克斯**，与次中音形成音区对照
 sources:
+  - "https://phys.unsw.edu.au/jw/flutes.v.clarinets.html"
+  - "https://www.yamaha.com/en/musical_instrument_guide/saxophone/mechanism/"
+  - "https://www.yamaha.com/en/musical_instrument_guide/saxophone/play/play003.html"
   - 结构依通行制琴资料：管身折返一次，比中音萨克斯更长更粗；黄铜圆锥管，单片芦竹簧绑在硬质吹嘴上，喇叭口朝上外张
   - 「次中音萨克斯为降 B 调移调乐器，记谱比实音高大九度（一个八度 + 大二度）」依通行配器资料
   - 「音域记谱 B♭3–F♯6（实音 A♭2–E5）」依通行配器资料
   - 「大乐队萨克斯声部的标准编制为两支中音 + 两支次中音 + 一支上低音」依通行爵士编制惯例
   - ⚠️ 库内标题可确认为次中音萨克斯的曲目很少 —— 本条另给**同族其他支**的曲目作音色对照，音色由试听件负责
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -92,9 +95,7 @@ updated: 2026-09-26
 </svg>
 ```
 
-要点很短：同一种结构，放大一圈。
-萨克斯族的四支本质上是一个模子按比例放大 —— 所以指法通用、音色递变。
-这与[[instrument:clarinet|单簧管族]]（三支各有不同的记谱偏移）形成鲜明对照。
+次中音萨克斯比中音更长、更重，弯颈形状也不同；两者共享基本指法，却不是每个部件严格等比例放大。同样读 C4，中音发 E♭3、次中音发 B♭2，后者低纯四度。单簧管族也以类似方式让不同调的乐器保留基本指法。
 
 ## 大乐队里的位置
 
@@ -133,10 +134,9 @@ updated: 2026-09-26
 {"range":"A♭2–E5","written":"B♭3–F♯6","common":"A♭2–C5","caption":"次中音萨克斯的记谱音域与实音音域","caption_en":"The tenor saxophone: notated range above, sounding range below","note":"⚠️ 次中音萨克斯是降 B 调移调乐器 —— 记谱比实音高大九度（一个八度 + 大二度）。谱面写 B♭3–F♯6，实际出声 A♭2–E5。"}
 ```
 
-- 实音 A♭2–E5，比[[instrument:alto-saxophone|中音萨克斯]]低一个纯四度左右。
-- 常用区 A♭2–C5，其中 A♭2–A♭3 这一段是它最厚的部分。
-- 注意谱面那两行：与萨克斯族其他三支完全相同。
-  演奏者读同一份谱，拿不同的支，就得到不同的音高。
+- 带高 F♯ 键时，谱面 B♭3–F♯6 对应实音 A♭2–E5；其他配置的上限需另查。
+- 同一记谱音比中音萨克斯低纯四度，比高音萨克斯低八度。
+- 换用高音或次中音读同一份谱，音区会相差八度；合奏中要按实际需要决定是否改谱。
 
 ## 音色与听辨
 
@@ -271,10 +271,7 @@ plus a major second) — exactly the same as the [[instrument:bass-clarinet|bass
 </svg>
 ```
 
-The point is short: the same structure, one size larger.
-The four saxophones are essentially one design scaled up, which is why the fingerings transfer and the
-colour changes by degree. That is in sharp contrast to the [[instrument:clarinet|clarinet family]], whose
-three members each transpose differently.
+The tenor is longer and heavier than the alto and uses a differently shaped neck. Basic fingerings transfer, but its parts are not all strict scale copies. Reading C4, alto sounds E♭3 and tenor B♭2, a perfect fourth lower. The clarinet family likewise retains basic fingerings across differently pitched instruments.
 
 ## Its place in a big band
 
@@ -312,10 +309,9 @@ Why is the solo usually a tenor? Three reasons:
 {"range":"A♭2–E5","written":"B♭3–F♯6","common":"A♭2–C5","caption":"次中音萨克斯的记谱音域与实音音域","caption_en":"The tenor saxophone: notated range above, sounding range below","note":"⚠️ 次中音萨克斯是降 B 调移调乐器 —— 记谱比实音高大九度（一个八度 + 大二度）。谱面写 B♭3–F♯6，实际出声 A♭2–E5。"}
 ```
 
-- Sounding A♭2–E5, about a perfect fourth below an [[instrument:alto-saxophone|alto]].
-- The working register is A♭2–C5, with A♭2–A♭3 the thickest part.
-- Note the written lines: identical to the other three saxophones. The player reads one page, picks
-  up a different member, and gets a different pitch.
+- With a high-F♯ key, written B♭3–F♯6 corresponds to sounding A♭2–E5; check other configurations separately.
+- The same written note sounds a perfect fourth below alto sax and an octave below soprano sax.
+- A soprano and tenor reading the same part sound an octave apart; ensemble parts must be chosen or transposed for the intended result.
 
 ## Timbre, and how to hear it
 

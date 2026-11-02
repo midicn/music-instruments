@@ -4,8 +4,8 @@ site: inst
 cat: I3
 title: 小号
 title_en: Trumpet
-summary: 靠嘴唇振动发声的活塞铜管，管弦乐与爵士里最灵活的高音铜管
-summary_en: The piston-valve brass driven by vibrating lips — the most agile high brass in orchestra and jazz
+summary: 嘴唇激励的高音铜管，常用降B或C调，以阀门改变管长
+summary_en: A high brass instrument excited by the lips, commonly in B♭ or C, with valves that change tube length
 level: standard
 tags: [乐器, 铜管, 西洋, 爵士]
 tags_en: [instrument, brass, western, jazz]
@@ -26,12 +26,15 @@ instances:
   - pdmx-001449 | Sound the trumpet（普赛尔）—— 巴洛克时期小号最典型的用法之一
   - pdmx-001964 | Trumpet Concerto Op.18 —— 浪漫派的小号协奏曲
 sources:
+  - "https://www.yamaha.com/en/musical_instrument_guide/trumpet/play/play002.html"
+  - "https://www.yamaha.com/en/musical_instrument_guide/trumpet/mechanism/mechanism002.html"
+  - "https://www.vsl.co.at/academy/brass/trumpet-c"
   - 结构依通行制琴资料：全长约 1.48 米（含盘绕），黄铜管身在通向喇叭口前以圆柱为主，三个活塞阀，杯形号嘴
   - 「降 B 调小号是移调乐器，记谱比实音高大二度」依通行配器资料
   - 「音域记谱 F♯3–C6（实音 E3–B♭5）」依通行配器资料
   - 「铜管靠嘴唇振动（唇鸣）发声，音高由管长与泛音列共同决定；活塞延长管长以补齐泛音列之间的音」依管乐器声学
   - 『库内标题含 cornet 的曲目多指文艺复兴的 cornetto（科尔内管），与本族的活塞短号不是同一件乐器』依乐器史
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -39,8 +42,7 @@ updated: 2026-09-26
 它与木管的根本差别不在材料，而在**驱动方式**：木管靠**气流**（切边或吹簧片），
 铜管靠**嘴唇本身的振动**。演奏者的嘴唇就是簧片。
 
-这带来一个木管没有的现象：**一根管子只能吹出泛音列上的那些音。**
-想要中间的音，就得改变管长 —— 这正是活塞存在的理由。
+固定管长提供一组较容易激发的共振，演奏者用嘴唇与气流选择其中一个；阀门接入额外管长，让多组共振覆盖常用的半音。真实共振并非严格整数倍，也可通过弯音偏离中心，不能说一根管只能发出数学泛音列上完全固定的音。
 
 | 分类 | 归属 |
 |---|---|
@@ -93,7 +95,7 @@ updated: 2026-09-26
   </g>
   <g font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">
     <text x="180" y="149" text-anchor="end">杯形号嘴</text>
-    <text x="180" y="101" text-anchor="end" fill="#E07A3F">三个活塞阀（七种组合）</text>
+    <text x="180" y="101" text-anchor="end" fill="#E07A3F">三个活塞阀（八种开闭组合）</text>
     <text x="180" y="243" text-anchor="end">管身以圆柱为主</text>
     <text x="492" y="129">圆锥喇叭口</text>
   </g>
@@ -155,18 +157,15 @@ updated: 2026-09-26
   </g>
   <text x="20" y="316" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">同一列的相邻音之间是固定音程（八度、五度…）；活塞把整条列往下挪，挪出的空档由别的列补上。</text>
   <text x="20" y="338" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">四条列错开后，它们覆盖的音就拼成了完整的十二个半音；越往上的泛音越密，所以高音区本来就"音多"。</text>
-  <text x="20" y="364" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">而"孔距"这种东西在铜管上不存在 —— 变音靠加长管，不靠开孔。</text>
+  <text x="20" y="364" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">本页介绍阀门小号；历史键式小号等铜管另有指孔或键孔。</text>
 </svg>
 ```
 
 这条机制是理解全部铜管的钥匙：
 
-- 音高来自泛音列，所以铜管的指法逻辑与木管完全不同 —— 木管是"开孔改变有效管长"，
-  铜管是"加长管身 + 选泛音"。
-- 泛音越高越密，所以铜管的高音区可以用活塞吹出很密的半音，
-  低音区却必须靠唇部与气息"拉"出相邻的音 —— 这是低音区难的根本原因。
-- 七种管长是标准配置（三活塞）。这七条泛音列合起来，
-  在常用音区里刚好覆盖十二个半音；更低的音（第七泛音之下）就需要第四活塞或加长管。
+- 三阀有八种按下/放开的组合，通常概括为七档半音变化，因为第三阀和第一、二阀合按都近似降低小三度。
+- 第二阀约降半音，第一阀约降全音，第三阀约降小三度；合按时还要用调音管和口型修正音准。
+- 低音稀疏的共振与高音密集的共振都要考虑，但常见低音并非“第七分音以下都要第四阀”。降 B 小号的常规最低记谱 F♯3，三阀全按即可奏出，实音为 E3。
 
 ## 音域
 
@@ -174,10 +173,9 @@ updated: 2026-09-26
 {"range":"E3–B♭5","written":"F♯3–C6","caption":"小号的记谱音域与实音音域","caption_en":"The trumpet: notated range above, sounding range below","note":"⚠️ 降 B 调小号是移调乐器 —— 记谱比实音高大二度。谱面写 F♯3–C6，实际出声 E3–B♭5。高音区可再上探，但需要极强的唇部控制。"}
 ```
 
-- 实音 E3–B♭5，约两个半八度 —— 与[[instrument:flute|长笛]]相当。
-- 低音区（E3 附近）难：泛音稀，活塞帮不上多少忙。
-- 常用区 C4–C6，是它的"说话区"。
-- 高音区（C6 以上） 是铜管演奏技术的试金石：难度全在唇部肌肉的张力控制。
+- 降 B 小号谱面比实音高大二度：写 C4 响 B♭3，写 F♯3 响 E3。
+- 本页用实音 E3–B♭5 表示常规范围示意，对应记谱 F♯3–C6；熟练演奏者可超过上限。
+- C 调小号通常按实音记谱，所以在讨论小号音域时要先说明乐器的调。
 
 ## 音色与听辨
 
@@ -215,9 +213,7 @@ updated: 2026-09-26
 | [[instrument:trombone\|长号]] | 圆柱为主 | 较浅 | 亮而庄重 | 中（但可滑音） |
 | [[instrument:tuba\|大号]] | 圆锥为主 | 很深 | 厚、暗 | 低 |
 
-小号族的"三兄弟"（小号 / 短号 / 富鲁格号）是同一套管长、同一套指法，
-只靠圆锥度与号嘴深度分出三个音色档位。
-三者相差极小，音色却明显可辨 —— 这是"圆锥度决定音色"最干净的例证。
+同调的小号、短号与富鲁格号可共享基本指法，管形、号嘴、喇叭口和具体型号共同影响音色。圆锥度与杯深是比较线索，不能把音色差别说成只有这两个参数造成。
 
 ## 历史演变
 
@@ -235,7 +231,7 @@ updated: 2026-09-26
 
 - "铜管因为是用铜做的。" 材料不是判据。
   长笛是金属的却属木管，[[instrument:serpent|蛇形号]]是木头的却属铜管。
-  判据是"什么在振动"：嘴唇（铜管）还是空气柱（木管）。
+  铜管由嘴唇激励空气柱；木管则可由气流或簧片激励空气柱。两组都有管内空气的振动。
 - "活塞是改变音高的开关，按哪个键就出哪个音。" 活塞做的是加长管子，
   而具体出哪个音取决于泛音列 —— 同一个指法可以吹出好几个不同的音。
 - "小号只有一个调。" 除降 B 调外还有 C 调、D 调、降 E 调等多种；
@@ -262,8 +258,7 @@ The trumpet is the brass group's most agile instrument, and the best doorway to 
 brass?". Its difference from the woodwinds is not material but **drive**: woodwinds are driven by **air**
 (a cut jet or a reed), brass by **the lips themselves vibrating**. The player's lips **are** the reed.
 
-That produces something no woodwind has: a single tube can only sound the notes of one harmonic series.
-To get the notes in between, the tube length must change — which is exactly why valves exist.
+A fixed tube offers resonances that the lips and air can select. Valves add tubing so several resonance patterns cover the usual chromatic notes. Real resonances are not exact integer multiples, and a player can bend away from their centres, so the tube is not restricted to mathematically fixed harmonics.
 
 | Classification | Value |
 |---|---|
@@ -380,19 +375,16 @@ Three points:
     <path d="M520,74 L492,74"/><path d="M520,224 L492,224"/>
   </g>
   <text x="20" y="316" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Shifted series interlock into a chromatic scale, and upper partials sit closer together.</text>
-  <text x="20" y="338" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">That is also why the low register is hard: partials there are sparse, and valves cannot fill the gaps.</text>
-  <text x="20" y="364" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Note that "tone holes" do not exist on brass — you change the tube, not a hole.</text>
+  <text x="20" y="338" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Valves provide the usual chromatic low notes; gaps and response vary outside that range.</text>
+  <text x="20" y="364" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">This is a valved trumpet; historical keyed brass can also use tone holes.</text>
 </svg>
 ```
 
 This mechanism is the key to all brass:
 
-- Pitch comes from the harmonic series, so brass fingering logic is nothing like a woodwind's: woodwinds
-  open holes to change the effective length, brass adds tube and picks a partial.
-- Partials crowd together higher up, so the upper register can produce dense semitones with valves, while
-  the low register must be "pulled" into place by lips and air — the root of its difficulty.
-- Seven lengths is the standard (three valves). Together those series cover all twelve semitones across
-  the usual range; lower notes (below about the seventh partial) need a fourth valve or extra tubing.
+- Three valves have eight up/down combinations, usually described as seven semitone settings because valve 3 and valves 1+2 both lower the pitch by approximately a minor third.
+- Valve 2 lowers about a semitone, valve 1 a tone, and valve 3 a minor third. Combined valves need slide or embouchure corrections for tuning.
+- Low resonances are farther apart than high ones, but notes below the seventh partial do not all require a fourth valve. A standard B♭ trumpet plays written low F♯3 with all three valves, sounding E3.
 
 ## Range
 
@@ -400,10 +392,9 @@ This mechanism is the key to all brass:
 {"range":"E3–B♭5","written":"F♯3–C6","caption":"小号的记谱音域与实音音域","caption_en":"The trumpet: notated range above, sounding range below","note":"⚠️ 降 B 调小号是移调乐器 —— 记谱比实音高大二度。谱面写 F♯3–C6，实际出声 E3–B♭5。高音区可再上探，但需要极强的唇部控制。"}
 ```
 
-- Sounding E3–B♭5, about two and a half octaves — comparable to the [[instrument:flute|flute]].
-- The low register (around E3) is hard: partials are sparse and valves barely help.
-- The working register is C4–C6, where it "speaks".
-- Above C6 is the brass player's proving ground, all of it controlled by lip tension.
+- B♭ trumpet sounds a major second below written pitch: C4 sounds B♭3 and F♯3 sounds E3.
+- The sounding E3–B♭5 compass shown here corresponds to written F♯3–C6; experienced players can extend higher.
+- C trumpet is normally at concert pitch, so a range statement must identify which trumpet is meant.
 
 ## Timbre, and how to hear it
 
@@ -443,9 +434,7 @@ Four cues:
 | [[instrument:trombone\|Trombone]] | mostly cylindrical | fairly shallow | bright and solemn | medium (but can glide) |
 | [[instrument:tuba\|Tuba]] | mostly conical | very deep | thick, dark | low |
 
-The trumpet's "three brothers" (trumpet / cornet / flugelhorn) share one length and one set of fingerings
-and differ only in conicality and cup depth. The differences are tiny on paper and obvious to the ear —
-the cleanest demonstration anywhere of "the bore decides the colour".
+Trumpet, cornet and flugelhorn in the same key can share basic fingerings. Bore profile, mouthpiece, bell and model all contribute to colour. Conicity and cup depth are useful comparisons, not the only causes of the differences.
 
 ## History
 
@@ -463,7 +452,7 @@ the cleanest demonstration anywhere of "the bore decides the colour".
 
 - "Brass instruments are brass because they are made of brass." Material is not the test: a flute is
   metal yet a woodwind, and a [[instrument:serpent|serpent]] is wood yet brass.
-  The test is what vibrates: lips (brass) or an air column (woodwind).
+  Brass uses lip excitation; woodwinds use an air jet or reed. Both involve a vibrating air column.
 - "Valves are switches; press a key and you get that note." A valve adds tube, and **which note comes
   out depends on the harmonic series** — one fingering gives several different notes.
 - "There is only one trumpet." Besides B♭ there are C, D and E♭ trumpets, and the Baroque

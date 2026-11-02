@@ -4,8 +4,8 @@ site: inst
 cat: I11
 title: MIDI 控制器
 title_en: The MIDI controller
-summary: 乐器第一次只剩「控制」—— 发声可以不在场，桥先于河
-summary_en: The instrument reduced to 「control」 alone — the sound may be absent, the bridge came before the river
+summary: 发送音符、力度与控制消息，驱动外部或软件乐器
+summary_en: Sending note, velocity and control messages to hardware or software instruments
 level: standard
 tags: [乐器, 电子, 电鸣, 西洋, 数字合成器, MIDI, 控制器, master keyboard]
 tags_en: [instrument, electronic, electrophone, western, digital-synth, midi, controller, master-keyboard]
@@ -19,10 +19,13 @@ links:
  - "[[concept:pitch]]"
  - "[[concept:articulation]]"
 instances:
- - chinafolk-000984 | 《水深也有造桥人》 —— 「造桥人」：**MIDI 的两位造桥人**——「Roland 总裁 **Kakehashi** 觉得缺乏标准化在限制电子音乐行业的成长」「**又找 Dave Smith 谈一个更简单更便宜的替代方案**」——**水再深，也有造桥人**（**C3 · 仅限学习研究**；库内无 MIDI 控制器录音，取民歌作意象参照）
- - chinafolk-000837 | 《灯芯造起万年桥》 —— 「万年桥」：**MIDI 1.0 从 1983 保持 viable 到 2020 年 MIDI 2.0——近四十年**——**一根五针 DIN 的「灯芯」，造起的真是一座万年桥**（**C3 · 仅限学习研究**）
- - chinafolk-002354 | 《开山修路通南北》 —— 「通南北」：**MIDI 接通了各厂家的乐器**——「**Roland · Yamaha · Korg · Kawai · Sequential 的代表坐下来讨论这个想法**」——**开山修路，通了南北（美国的 Sequential 与日本的三大厂）**（**C3 · 仅限学习研究**）
+  - mutopia-000280 | 文件包含两个发音通道，所有起音力度均为127；可区分音符消息、通道与演奏力度三个维度 | The file uses two sounding channels and all note-on velocities are 127, separating note messages, channels and velocity as three dimensions
+  - musicnet-000039 | 文件包含三个弦乐音色程序与音量等控制消息，可观察同一份MIDI怎样为多个声部分配接收音色 | Three string programs and control messages including volume show how one MIDI file assigns receiving sounds to multiple parts
+  - giantmidi-006222 | 文件含延音踏板控制消息CC64，可把音符起止与踏板控制分开理解 | The file includes sustain-pedal controller CC64, allowing note timing and pedal control to be considered separately
 sources:
+  - "https://support.focusrite.com/hc/en-gb/articles/360001456045-Why-can-t-I-hear-my-MIDI-keyboard"
+  - "https://midi.org/what-musicians-artists-need-to-know-about-midi-2-0"
+  - "https://midi.org/specs"
  - **主线：乐器第一次只剩「控制」（本页最该记住的一条）** —— 「**1990 年代，随着声音模块与软件合成器的普及，键盘演化为**不含发声引擎**的专用控制器——优先便携与兼容**」→ **在 MIDI 控制器之前，「演奏」与「发声」从没分开过——这件乐器证明：按下的键可以只是「消息」，声音可以住在别处**（ **这是「控制与发声分离」的终极一步——电压控制条把控制变成信号，MIDI 把信号变成通用语**）
  - **MIDI 的双父（Kakehashi 与 Smith）** —— 「**Roland 总裁 Ikutaro Kakehashi 觉得缺乏标准化在限制电子音乐行业的成长**——1981 年 6 月向 Oberheim 的 Tom Oberheim 提议开发标准（觉得 Oberheim 系统太笨重），**又对 Sequential Circuits 总裁 Dave Smith 谈一个更简单便宜的替代**」；「**Smith 与 Sequential 工程师 Chet Wood 写出统一接口文档 Universal Synthesizer Interface，1981 年 10 月在 AES 展会发表**」；「**标准由 Roland · Yamaha · Korg · Kawai · Sequential 的代表讨论修改**」
  - **名字的诞生（UMI → MIDI）** —— 「**Kakehashi 喜欢叫它 Universal Musical Interface（UMI），发音 you-me——但 Smith 觉得这有点 corny（土）；不过他喜欢用 instrument 而不是 synthesizer，提议 Musical Instrument Digital Interface（MIDI）**」→ **一个名字的两个坚持：一个要「Universal」，一个要「Instrument」——最后「Musical Instrument」留在了每个 MIDI 文件的名字里**
@@ -33,7 +36,7 @@ sources:
  - **MIDI 2.0（2019/2020）** —— 「**MIDI 2.0 增强了双向通信与表现力，同时支持便携无线型号**」—— **双向：MIDI 1.0 是「我发你收」，MIDI 2.0 的设备可以互相「介绍自己」**
  - **意大利的独奏传奇（Baglioni 1986）** —— 「**在意大利，MIDI 因 1986 年 Claudio Baglioni 的体育场巡演而获得特别知名度——艺术家以创新方式利用这项技术独自在舞台上表演，没有乐队也没有伴奏**」—— **一个人 + 一套 MIDI = 一支乐队：控制与发声分离的最早大规模舞台证明**
  - 「MIDI 控制器属**电鸣**系统的控制端（本身不发声——**HS 分类之外的「元乐器」**）」依 Hornbostel–Sachs 分类
-updated: 2026-10-05
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -58,11 +61,11 @@ Smith 与工程师 Chet Wood 写出 Universal Synthesizer Interface，1981 年 1
 
 1983 年冬季 NAMM 展会上，Smith 让 Prophet-600 与 Roland JP-6 通过 MIDI 连了起来。两家对手公司的琴第一次互相听懂。同年 8 月，MIDI 1.0 规范发布。
 
-这套协议一直用到 2020 年 MIDI 2.0 推出，近四十年。Sequential 1987 年破产，MIDI 还在；2013 年，两位发起人一起拿到 Technical Grammy。技术活得比公司久。
+MIDI 2.0 在2020年推出，并继续重视与MIDI 1.0设备的兼容。协议版本和USB、五针DIN等传输接口是不同层面，不能把2020年当作MIDI 1.0的终止年份。
 
 ## 形状：25 到 88 键，和两只轮子
 
-控制器只做手感，不做声音。25 键便携型到 88 键全配重，多数有力度感应，触后分整通道与逐键两种，弯音轮与调制轮几乎成了标配。1999 年 USB MIDI 把五针 DIN 换成 USB；2002 年 M-Audio Keystation 49e 这样的平价琴出现，Akai MPK Mini 卖到两百美元以下。
+纯 MIDI 控制器发送音符、力度和控制消息，本身通常不带发声引擎。连接电脑后，要让宿主接收 MIDI、把消息送到虚拟乐器，再把音频送到正确输出，才会听到声音。USB 与五针 DIN 是不同的传输方式，二者仍可并存；接口是否供电、设备是否传音频，也要分别确认。
 
 1986 年，Claudio Baglioni 在意大利的体育场巡演里一个人带一套 MIDI 上台，没有乐队也没有伴奏。那是控制与发声分离之后最早的大规模舞台证明。
 
@@ -74,14 +77,14 @@ Smith 与工程师 Chet Wood 写出 Universal Synthesizer Interface，1981 年 1
 | 出身 | 1981–83 · 梯郁太郎（Roland）与 Smith（Sequential）双父 |
 | 名字 | UMI 被弃 · MIDI = Musical Instrument Digital Interface |
 | 键位 | 25–88 键 · 力度 · 触后（整通道 / 逐键）· 弯音与调制轮 |
-| 寿命 | MIDI 1.0（1983–2020）· 2013 年两人同获 Technical Grammy |
+| 寿命 | MIDI 1.0 自 1983 年发布，至今仍在使用· 2013 年两人同获 Technical Grammy |
 | 八音：不在其列 | 没有振动的部件 |
 
 ```svg
-<svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The MIDI controller: an instrument reduced to control alone — a keyboard sending messages through a five-pin DIN cable to sound modules of rival makers; the two fathers Kakehashi of Roland and Smith of Sequential shaking hands over the 1981 proposal; MIDI 1.0 lasting nearly forty years from 1983 to 2020">
+<svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The MIDI controller: an instrument reduced to control alone — a keyboard sending messages through a five-pin DIN cable to sound modules of rival makers; the two fathers Kakehashi of Roland and Smith of Sequential shaking hands over the 1981 proposal; MIDI 1.0 introduced in 1983 and still in use">
  <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
  <text x="20" y="22">MIDI 控制器 · 乐器第一次只剩「控制」</text>
- <text x="20" y="44" font-size="11" fill="#6E6A64">键是消息 · 声音住在别处 · 桥先于河</text>
+ <text x="20" y="44" font-size="11" fill="#6E6A64">键是消息 · 声音住在别处 · 消息触发接收端发声</text>
  </g>
 
  <rect x="40" y="70" width="240" height="80" rx="8" fill="#26241F" stroke="#E8C547" stroke-width="1.5"/>
@@ -114,7 +117,7 @@ Smith 与工程师 Chet Wood 写出 Universal Synthesizer Interface，1981 年 1
  <text x="48" y="300" font-size="9" fill="#97C459">这次不是谁的标准赢，是大家共建一个</text>
 
  <rect x="324" y="250" width="286" height="56" rx="8" fill="none" stroke="#6E6A64" stroke-width="1.1"/>
- <text x="467" y="270" text-anchor="middle" font-size="9.5" fill="#A9A49B">万年桥：MIDI 1.0（1983–2020）</text>
+ <text x="467" y="270" text-anchor="middle" font-size="9.5" fill="#A9A49B">MIDI 1.0：自1983年发布并延续使用</text>
  <text x="342" y="290" font-size="9" fill="#6E6A64">近四十年 viable · Sequential 1987 破产 · MIDI 永生</text>
  <text x="342" y="300" font-size="9" fill="#97C459">2013 双父 Technical Grammy · 技术活得比公司久</text>
 
@@ -131,7 +134,7 @@ Smith 与工程师 Chet Wood 写出 Universal Synthesizer Interface，1981 年 1
 ```
 
 ```audiolab
-{"type":"instrument","gm":"Lead 8 (bass + lead)","synth":"bowed","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"控制器的消息流：同一双手，千种声音（借 lead 近似）","label_en":"The controller's message stream — one pair of hands, a thousand sounds (a lead stands in)","hint":"MIDI 控制器本身不发声——这条 lead 采样是「它按下去之后别人发出的声音」。真实 MIDI 控制器的两样特征这里听不出来：一是它的全部工作是发消息（note/velocity/control change——键是电话键不是琴键）；二是它的音域由接收端决定——同一台控制器今天弹钢琴明天弹鼓机，桥不变，河在换。","hint_en":"A MIDI controller makes no sound itself — this lead sample is 「what others sound when its keys are pressed」. Two things are absent: its whole job is sending messages（note/velocity/control change — telephone keys, not piano keys）, and its range is decided by the receiver — the same controller plays piano today and drums tomorrow; the bridge stays, the river changes."}
+{"type":"instrument","gm":"Lead 8 (bass + lead)","synth":"bowed","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"同一组音符触发的合成音色","label_en":"A synthesizer sound triggered by one note sequence","hint":"本例用C–E–G的音名短句触发接收端音色。MIDI负责传递音符等消息，接收端才把消息变成声音；实际连接还要分别检查输入路由和音频输出。","hint_en":"A C–E–G-based phrase triggers the receiving sound. MIDI carries note and other messages; the receiver turns them into audio. In a real setup, check MIDI routing and audio output separately."}
 ```
 
 ::: en
@@ -150,11 +153,11 @@ The naming cost each man something: Kakehashi liked Universal Musical Interface,
 
 At the winter NAMM show of 1983, Smith connected a Prophet-600 to a Roland JP-6 over MIDI. Instruments from rival companies understood each other for the first time. The 1.0 specification followed that August.
 
-The protocol stayed viable until MIDI 2.0 in 2020, nearly forty years; Sequential went bankrupt in 1987 and MIDI kept going. In 2013 both initiators received a Technical Grammy.
+MIDI 2.0 appeared in 2020 with continued emphasis on compatibility with MIDI 1.0 equipment. Protocol versions and transports such as USB and five-pin DIN are different layers; 2020 is not an end date for MIDI 1.0.
 
 ## Shaped like 25 to 88 keys, and two wheels
 
-A controller does touch and nothing else. The range runs from 25 travel keys to 88 weighted ones; most have velocity, aftertouch comes per channel or per key, and pitch and modulation wheels are close to universal. USB MIDI replaced the five-pin DIN in 1999, and cheap controllers followed.
+A dedicated MIDI controller sends note, velocity and control messages and usually has no sound engine. A computer must route its MIDI to an instrument and the resulting audio to an output. USB and five-pin DIN are different transports that coexist; power delivery and audio transmission are separate capabilities to check.
 
 In 1986 Claudio Baglioni toured Italian stadiums alone with a MIDI rig, no band and no backing track: the first large-scale proof on stage that control and sound could live apart.
 
@@ -166,14 +169,14 @@ In 1986 Claudio Baglioni toured Italian stadiums alone with a MIDI rig, no band 
 | Origin | 1981–83 · Kakehashi (Roland) and Smith (Sequential) |
 | Name | UMI dropped · MIDI = Musical Instrument Digital Interface |
 | Keys | 25–88 · velocity · aftertouch · pitch and mod wheels |
-| Lifespan | MIDI 1.0 (1983–2020) · Technical Grammy in 2013 |
+| Lifespan | MIDI 1.0, introduced in 1983 and still in use · Technical Grammy in 2013 |
 | Bayin | outside it — no vibrating body |
 
 ```svg
-<svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The MIDI controller: an instrument reduced to control alone — a keyboard sending messages through a five-pin DIN cable to sound modules of rival makers; the two fathers Kakehashi of Roland and Smith of Sequential shaking hands over the 1981 proposal; MIDI 1.0 lasting nearly forty years from 1983 to 2020">
+<svg viewBox="0 0 640 380" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="The MIDI controller: an instrument reduced to control alone — a keyboard sending messages through a five-pin DIN cable to sound modules of rival makers; the two fathers Kakehashi of Roland and Smith of Sequential shaking hands over the 1981 proposal; MIDI 1.0 introduced in 1983 and still in use">
  <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
  <text x="20" y="22">MIDI 控制器 · 乐器第一次只剩「控制」</text>
- <text x="20" y="44" font-size="11" fill="#6E6A64">键是消息 · 声音住在别处 · 桥先于河</text>
+ <text x="20" y="44" font-size="11" fill="#6E6A64">键是消息 · 声音住在别处 · 消息触发接收端发声</text>
  </g>
 
  <rect x="40" y="70" width="240" height="80" rx="8" fill="#26241F" stroke="#E8C547" stroke-width="1.5"/>
@@ -206,7 +209,7 @@ In 1986 Claudio Baglioni toured Italian stadiums alone with a MIDI rig, no band 
  <text x="48" y="300" font-size="9" fill="#97C459">这次不是谁的标准赢，是大家共建一个</text>
 
  <rect x="324" y="250" width="286" height="56" rx="8" fill="none" stroke="#6E6A64" stroke-width="1.1"/>
- <text x="467" y="270" text-anchor="middle" font-size="9.5" fill="#A9A49B">万年桥：MIDI 1.0（1983–2020）</text>
+ <text x="467" y="270" text-anchor="middle" font-size="9.5" fill="#A9A49B">MIDI 1.0：自1983年发布并延续使用</text>
  <text x="342" y="290" font-size="9" fill="#6E6A64">近四十年 viable · Sequential 1987 破产 · MIDI 永生</text>
  <text x="342" y="300" font-size="9" fill="#97C459">2013 双父 Technical Grammy · 技术活得比公司久</text>
 
@@ -223,6 +226,6 @@ In 1986 Claudio Baglioni toured Italian stadiums alone with a MIDI rig, no band 
 ```
 
 ```audiolab
-{"type":"instrument","gm":"Lead 8 (bass + lead)","synth":"bowed","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"控制器的消息流：同一双手，千种声音（借 lead 近似）","label_en":"The controller's message stream — one pair of hands, a thousand sounds (a lead stands in)","hint":"MIDI 控制器本身不发声——这条 lead 采样是「它按下去之后别人发出的声音」。真实 MIDI 控制器的两样特征这里听不出来：一是它的全部工作是发消息（note/velocity/control change——键是电话键不是琴键）；二是它的音域由接收端决定——同一台控制器今天弹钢琴明天弹鼓机，桥不变，河在换。","hint_en":"A MIDI controller makes no sound itself — this lead sample is 「what others sound when its keys are pressed」. Two things are absent: its whole job is sending messages（note/velocity/control change — telephone keys, not piano keys）, and its range is decided by the receiver — the same controller plays piano today and drums tomorrow; the bridge stays, the river changes."}
+{"type":"instrument","gm":"Lead 8 (bass + lead)","synth":"bowed","phrase":["C4","E4","G4","C5","G4","E4","C4"],"label":"同一组音符触发的合成音色","label_en":"A synthesizer sound triggered by one note sequence","hint":"本例用C–E–G的音名短句触发接收端音色。MIDI负责传递音符等消息，接收端才把消息变成声音；实际连接还要分别检查输入路由和音频输出。","hint_en":"A C–E–G-based phrase triggers the receiving sound. MIDI carries note and other messages; the receiver turns them into audio. In a real setup, check MIDI routing and audio output separately."}
 ```
 :::

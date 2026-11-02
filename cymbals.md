@@ -4,8 +4,8 @@ site: inst
 cat: I4
 title: 铙钹
 title_en: Cymbals
-summary: 用青铜合金制成的体鸣片状乐器，两片对击或单面吊击，泛音极丰富
-summary_en: Bronze idiophones struck in pairs or hung singly — an extremely rich, noise-like spectrum
+summary: 金属薄片对击或用槌击奏，通过形制、击打与止音改变效果
+summary_en: Metal plates played together or struck with beaters, shaped by construction, strokes and damping
 level: standard
 tags: [乐器, 打击, 西洋]
 tags_en: [instrument, percussion, western]
@@ -21,15 +21,15 @@ links:
   - "[[instrument:drum-kit]]"
   - "[[instrument:triangle]]"
 instances:
-  - pdmx-002528 | 霍尔斯特《第二军乐组曲》Op.28 No.2 —— 管乐团编制里铙钹的实际用法
-  - pdmx-000510 | Drake's Drum —— 标题指向鼓类的曲目，可作时代语汇的参照
-  - pdmx-002820 | 为三支小号与定音鼓而作的协奏曲 TWV 54:D4 —— 巴洛克打击乐的写法，与铙钹的现代用法形成对照
+  - groove-000000 | 实际鼓组MIDI包含闭合踩镲与脚踏踩镲事件，可听其在底鼓、军鼓之间维持拍点的作用 | The drum MIDI includes closed and pedal hi-hat events, illustrating their pulse between kick and snare
+  - groove-000001 | 文件包含叮叮镲音符51与脚踏踩镲44，可比较两种镲片声部在同一节奏中的分工 | The file contains ride note 51 and pedal-hi-hat note 44, allowing their roles within one pattern to be compared
+  - groove-000002 | 另一段含闭合踩镲的鼓组演奏，可比较重复击打的力度与音符密度 | Another drum performance with closed hi-hat permits comparison of velocity and note density in repeated strokes
 sources:
   - 结构依通行制琴资料：多为**青铜合金**（如 B20）制成的圆形薄片，中心有隆起（bell），经手工锤打与车削成型
   - 「铙钹属**体鸣**乐器 —— 合金材料本身整体振动，没有膜、没有空气柱」依 Hornbostel–Sachs 分类
   - 「无固定音高，但不同尺寸与厚度有相对的音高感（小的偏高、大的偏低）」依乐器制作通识
   - 「常见形态：两片对击（对镲 / crash）、单面吊击（吊镲 / ride）、踩镲（hi-hat）」依通行打击乐惯例
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -102,14 +102,14 @@ updated: 2026-09-26
 </svg>
 ```
 
-三种形态的物理原理一样，差别在怎么收：对镲靠手按住，吊镲几乎收不住，踩镲靠脚踏夹紧。收的方式不同，用法就不同。对镲给重音，吊镲给空间，踩镲给节奏组当钟。一副对镲轻碰边缘是"嘶"，用力对撞是"炸"，差别在接触的面积与那一下的速度。
+三种形态的物理原理一样，差别在怎么收：对镲靠手按住，吊镲可自然衰减，也可用手止音，踩镲靠脚踏夹紧。收的方式不同，用法就不同。对镲给重音，吊镲给空间，踩镲给节奏组当钟。一副对镲轻碰边缘是"嘶"，用力对撞是"炸"，差别在接触的面积与那一下的速度。
 
 ## 尺寸给的那点音高
 
 它无固定音高。尺寸和厚度只给相对的高低感：踩镲常 14 英寸，紧而短；吊镲中偏小，炸；叮叮镲常 20 到 22 英寸，清，带一点定音感，爵士鼓手靠它打出一条持续的节奏线。中国有自己的铙与钹，形制相近，来源独立，相似不等于同源。它经土耳其军乐进入欧洲乐队，20 世纪又被爵士鼓组系统化，踩镲、吊镲、叮叮镲各管一件事。
 
 ```audiolab
-{"type":"instrument","drum":49,"synth":"perc","phrase":[49,49,42,42,49],"label":"吊镲与踩镲的对比","label_en":"Crash against closed hi-hat","hint":"注意余音的差别 —— 吊镲能撑几秒，踩镲一踩就收","hint_en":"Hear the tail: a crash rings for seconds, a closed hi-hat stops at once."}
+{"type":"instrument","drum":49,"synth":"perc","phrase":[49,49,42,42,49],"label":"吊镲与踩镲的对比","label_en":"Crash against closed hi-hat","hint":"这里依次触发GM鼓组的49（吊镲）与42（闭合踩镲）。可比较音头和衰减；实际演奏中吊镲也能用手止音，闭合踩镲的短音不能代替脚踏动作演示。","hint_en":"The example triggers GM drum notes 49 (crash) and 42 (closed hi-hat). Compare attacks and decay; real crashes can be damped by hand, and a closed-hi-hat sample is not a demonstration of pedal movement."}
 ```
 
 :::
@@ -184,13 +184,13 @@ Near the bell the sound is dry and controlled; at the edge it is open with a ver
 </svg>
 ```
 
-Same physics in all three forms, different damping. A pair is stopped by hand, a suspended cymbal almost cannot be stopped, a hi-hat is closed by the pedal. Because the stopping differs, the jobs differ: the pair marks accents, the suspended one makes space, the hi-hat is the clock of a rhythm section. Two plates brushed together hiss; slammed together they burst, and the difference is contact area and speed rather than force.
+Same physics in all three forms, different damping. A pair is stopped by hand, a suspended cymbal can ring freely or be damped by hand, a hi-hat is closed by the pedal. Because the stopping differs, the jobs differ: the pair marks accents, the suspended one makes space, the hi-hat is the clock of a rhythm section. Two plates brushed together hiss; slammed together they burst, and the difference is contact area and speed rather than force.
 
 ## The little pitch that size gives
 
 Unpitched. Size and weight only give a relative sense of height: a hi-hat is usually 14 inches, tight and short; a crash is medium-small and explosive; a ride is often 20 to 22 inches, clear, with a ping definite enough for jazz drummers to build a continuous line on it. China has its own nao and bo, similar in form and independent in origin. Resemblance is not descent. Turkish military music carried cymbals into European bands, and the jazz kit systematised them into hi-hat, crash and ride, each with a single job.
 
 ```audiolab
-{"type":"instrument","drum":49,"synth":"perc","phrase":[49,49,42,42,49],"label":"吊镲与踩镲的对比","label_en":"Crash against closed hi-hat","hint":"注意余音的差别 —— 吊镲能撑几秒，踩镲一踩就收","hint_en":"Hear the tail: a crash rings for seconds, a closed hi-hat stops at once."}
+{"type":"instrument","drum":49,"synth":"perc","phrase":[49,49,42,42,49],"label":"吊镲与踩镲的对比","label_en":"Crash against closed hi-hat","hint":"这里依次触发GM鼓组的49（吊镲）与42（闭合踩镲）。可比较音头和衰减；实际演奏中吊镲也能用手止音，闭合踩镲的短音不能代替脚踏动作演示。","hint_en":"The example triggers GM drum notes 49 (crash) and 42 (closed hi-hat). Compare attacks and decay; real crashes can be damped by hand, and a closed-hi-hat sample is not a demonstration of pedal movement."}
 ```
 :::

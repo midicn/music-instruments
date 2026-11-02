@@ -4,8 +4,8 @@ site: inst
 cat: I4
 title: 颤音琴
 title_en: Vibraphone
-summary: 金属条加共鸣管与旋转阀的体鸣乐器，音色闪烁，"颤音"其实是音量起伏
-summary_en: Metal bars over resonators with rotating vanes — a shimmering idiophone whose "vibrato" is really amplitude
+summary: 金属琴条配共鸣管、旋转阀和踏板，电机可产生周期性音量变化
+summary_en: Metal bars, resonators, rotating vanes and a damper pedal, with motor-driven amplitude modulation
 level: standard
 tags: [乐器, 打击, 西洋, 爵士]
 tags_en: [instrument, percussion, western, jazz]
@@ -25,18 +25,19 @@ instances:
   - pdmx-000746 | 霍尔斯特《行星组曲》Op.32 —— 配器里打击乐丰富，金属条一族的用法可在此听到
   - pdmx-002528 | 霍尔斯特《第二军乐组曲》Op.28 No.2 —— 管乐团编制里颤音琴类乐器的用法
 sources:
+  - "https://hub.yamaha.com/music-educators/instruments/perc/vibraphone-pedagogy/"
   - 结构依通行制琴资料：**铝合金条**按音高排列，下方各有**共鸣管**；管内装有**旋转阀（vanes）**，由电机带动同步旋转
   - 「颤音琴属**体鸣**的有音高乐器」依 Hornbostel–Sachs 分类
   - 「常见音域 F3–F6（三组）」依通行乐器资料
   - 「共鸣管内的旋转阀周期性遮挡管口，产生的是**音量（振幅）周期性变化**，即 tremolo；不是音高颤动（vibrato）」依乐器声学
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
 
 ## 电机一转，声音开始闪
 
-颤音琴的马达在琴箱下面，一根皮带带着所有共鸣管里的阀片同时旋转。阀片周期性挡住管口，音量一涨一落，听起来像音在闪。转速可以调，慢的时候像呼吸，快的时候像电流。关掉马达，它立刻变回一台普通的金属条琴。
+颤音琴的马达在琴箱下面，一根皮带带着所有共鸣管里的阀片同时旋转。阀片周期性挡住管口，音量一涨一落，听起来像音在闪。转速可以调，慢的时候像呼吸，快的时候像电流。关闭马达后，周期性的音量起伏停止，但铝合金琴条、共鸣管和踏板的作用仍在，乐器仍是颤音琴。
 
 | 分类 | 归属 |
 |---|---|
@@ -137,7 +138,7 @@ vibrato 是音高在抖，弦乐与歌声用它；tremolo 是音量在抖，颤�
 1916 年，美国的 Herman Winterhoff 在金属条琴上加装共鸣管与旋转阀，现代颤音琴定型。1920 年代它进入爵士乐，此后既是独奏乐器，也是和声层；四槌技术普及之后，一个人就能同时给出旋律与伴奏。它是琴条家族里最年轻的一件，也是唯一把效果装进琴体的一件：不是换材料，而是加一个可控变量。听它时先注意余音有多长，再注意那层闪匀不匀。匀，说明电机在转。
 
 ```audiolab
-{"type":"instrument","gm":"Vibraphone","synth":"metal","phrase":["C4","E4","G4","C5","E5","G5"],"label":"颤音琴的常用区：C4 到 G5","label_en":"The vibraphone's working register — C4 up to G5","hint":"注意音色的金属光泽与余音 —— 以及「闪烁」感来自音量的周期性起伏","hint_en":"Hear the metallic sheen and the long tail — and how the shimmer comes from periodic changes in loudness."}
+{"type":"instrument","gm":"Vibraphone","synth":"metal","phrase":["C4","E4","G4","C5","E5","G5"],"label":"颤音琴的常用区：C4 到 G5","label_en":"The vibraphone's working register — C4 up to G5","hint":"先比较金属音头与衰减。真实颤音琴电机使旋转阀产生周期性音量变化；是否在本次播放中听到相同颤动，还取决于所选采样或合成音色。","hint_en":"Compare the metallic attack and decay. A real vibraphone motor drives rotating vanes that modulate amplitude; whether this playback reproduces that tremolo depends on the selected sample or synthesis sound."}
 ```
 
 :::
@@ -146,7 +147,7 @@ vibrato 是音高在抖，弦乐与歌声用它；tremolo 是音量在抖，颤�
 
 ## The motor turns, and the sound begins to flicker
 
-Under the frame a belt drives every vane in every resonator tube at once. The vanes cover the tube mouths in turn, the volume rises and falls, and the note seems to flicker. Switch the motor off and it becomes an ordinary metal-bar instrument.
+Under the frame a belt drives every vane in every resonator tube at once. The vanes cover the tube mouths in turn, the volume rises and falls, and the note seems to flicker. With the motor off, the periodic volume modulation stops; the aluminium bars, resonators and damper pedal still function, and the instrument remains a vibraphone.
 
 | Class | Assignment |
 |---|---|
@@ -247,6 +248,6 @@ The range runs F3 to F6, three octaves, narrower than the marimba. The working r
 In 1916 the American Herman Winterhoff added resonator tubes and rotating vanes to a metal-bar instrument, and the modern vibraphone settled into shape. It entered jazz in the 1920s and has been both a solo voice and a harmony layer since. It is the youngest of the bar family and the only one with an effect built into the body: not a new material, a new variable. Listen first to the length of the tail, then to whether the flicker is even. If it is even, the motor is running.
 
 ```audiolab
-{"type":"instrument","gm":"Vibraphone","synth":"metal","phrase":["C4","E4","G4","C5","E5","G5"],"label":"颤音琴的常用区：C4 到 G5","label_en":"The vibraphone's working register — C4 up to G5","hint":"注意音色的金属光泽与余音 —— 以及「闪烁」感来自音量的周期性起伏","hint_en":"Hear the metallic sheen and the long tail — and how the shimmer comes from periodic changes in loudness."}
+{"type":"instrument","gm":"Vibraphone","synth":"metal","phrase":["C4","E4","G4","C5","E5","G5"],"label":"颤音琴的常用区：C4 到 G5","label_en":"The vibraphone's working register — C4 up to G5","hint":"先比较金属音头与衰减。真实颤音琴电机使旋转阀产生周期性音量变化；是否在本次播放中听到相同颤动，还取决于所选采样或合成音色。","hint_en":"Compare the metallic attack and decay. A real vibraphone motor drives rotating vanes that modulate amplitude; whether this playback reproduces that tremolo depends on the selected sample or synthesis sound."}
 ```
 :::

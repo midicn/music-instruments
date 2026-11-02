@@ -1,72 +1,347 @@
 {
   "hero": {
-    "kicker": {"zh": "乐器图鉴", "en": "Instrument Atlas"},
-    "title": {"zh": "先看它怎么发声，再听它像什么", "en": "See how it makes sound, then hear what it sounds like"},
-    "lead": {"zh": "西洋、中国、电子与世界乐器，按族、按发声方式、按场合都能进。每件都配音域、剖面示意和可听例子——先理解结构，再谈音色。", "en": "Western, Chinese, electronic and world instruments, reachable by family, by how they make sound, or by where they are played. Each has a range chart, a cross-section and listening examples."}
+    "kicker": {
+      "zh": "乐器图鉴",
+      "en": "Instrument Atlas"
+    },
+    "title": {
+      "zh": "认识乐器的结构与声音",
+      "en": "Instrument construction and sound"
+    },
+    "lead": {
+      "zh": "按乐器家族与发声方式查阅结构、音域与演奏方法；MIDI 示例不等同于真实乐器录音。",
+      "en": "Explore construction, ranges and techniques by family and sound production. MIDI examples are not recordings of the instruments."
+    }
   },
-  "needs_title": {"zh": "你想认识哪一类", "en": "Which family do you want"},
-  "needs_sub": {"zh": "按同族比较最快：尺寸、材料、发声方式一变，音色就跟着变。", "en": "Comparing within a family is fastest: change size, material or driver and the timbre follows."},
+  "needs_title": {
+    "zh": "你想认识哪一类",
+    "en": "Which family do you want"
+  },
+  "needs_sub": {
+    "zh": "按同族比较最快：尺寸、材料、发声方式一变，音色就跟着变。",
+    "en": "Comparing within a family is fastest: change size, material or driver and the timbre follows."
+  },
   "needs": [
     {
       "icon": "弦",
-      "t": {"zh": "西洋弦乐", "en": "Western strings"},
-      "d": {"zh": "同一套弓法指法，尺寸放大一倍，声音就换了性格。", "en": "Same bowing and fingering, twice the size, a different character."},
-      "links": [{"id": "violin"}, {"id": "viola"}, {"id": "cello"}, {"id": "double-bass"}]
+      "t": {
+        "zh": "西洋弦乐",
+        "en": "Western strings"
+      },
+      "d": {
+        "zh": "同一套弓法指法，尺寸放大一倍，声音就换了性格。",
+        "en": "Same bowing and fingering, twice the size, a different character."
+      },
+      "links": [
+        {
+          "id": "violin"
+        },
+        {
+          "id": "viola"
+        },
+        {
+          "id": "cello"
+        },
+        {
+          "id": "double-bass"
+        }
+      ]
     },
     {
       "icon": "管",
-      "t": {"zh": "木管与铜管", "en": "Woodwinds and brass"},
-      "d": {"zh": "先看管形和簧片，再听音区：圆锥、圆柱与簧片决定了大半音色。", "en": "Start with bore and reed, then register: conical, cylindrical and reed decide most of the timbre."},
-      "links": [{"id": "flute"}, {"id": "oboe"}, {"id": "trumpet"}, {"id": "french-horn"}]
+      "t": {
+        "zh": "木管与铜管",
+        "en": "Woodwinds and brass"
+      },
+      "d": {
+        "zh": "先看管形和簧片，再听音区：圆锥、圆柱与簧片决定了大半音色。",
+        "en": "Start with bore and reed, then register: conical, cylindrical and reed decide most of the timbre."
+      },
+      "links": [
+        {
+          "id": "flute"
+        },
+        {
+          "id": "oboe"
+        },
+        {
+          "id": "trumpet"
+        },
+        {
+          "id": "french-horn"
+        }
+      ]
     },
     {
       "icon": "中",
-      "t": {"zh": "中国乐器", "en": "Chinese instruments"},
-      "d": {"zh": "按八音与演奏方式分组：吹、拉、弹、打，各有自己的声音逻辑。", "en": "Grouped by material and playing method: wind, bowed, plucked and struck, each with its own sonic logic."},
-      "links": [{"id": "guqin"}, {"id": "pipa"}, {"id": "erhu"}, {"id": "sheng"}, {"id": "suona"}]
+      "t": {
+        "zh": "中国乐器",
+        "en": "Chinese instruments"
+      },
+      "d": {
+        "zh": "按八音与演奏方式分组：吹、拉、弹、打，各有自己的声音逻辑。",
+        "en": "Grouped by material and playing method: wind, bowed, plucked and struck, each with its own sonic logic."
+      },
+      "links": [
+        {
+          "id": "guqin"
+        },
+        {
+          "id": "pipa"
+        },
+        {
+          "id": "erhu"
+        },
+        {
+          "id": "sheng"
+        },
+        {
+          "id": "suona"
+        }
+      ]
     },
     {
       "icon": "世",
-      "t": {"zh": "世界乐器", "en": "World instruments"},
-      "d": {"zh": "同名不同形、同形不同名，先看它在哪里被演奏。", "en": "Same name, different shape; same shape, different name. Start with where it is played."},
-      "links": [{"id": "oud"}, {"id": "ney"}, {"id": "sitar"}, {"id": "balafon"}, {"id": "qobyz"}]
+      "t": {
+        "zh": "世界乐器",
+        "en": "World instruments"
+      },
+      "d": {
+        "zh": "同名不同形、同形不同名，先看它在哪里被演奏。",
+        "en": "Same name, different shape; same shape, different name. Start with where it is played."
+      },
+      "links": [
+        {
+          "id": "oud"
+        },
+        {
+          "id": "ney"
+        },
+        {
+          "id": "sitar"
+        },
+        {
+          "id": "balafon"
+        },
+        {
+          "id": "qobyz"
+        }
+      ]
     },
     {
       "icon": "电",
-      "t": {"zh": "电子与键盘", "en": "Electronic and keyboards"},
-      "d": {"zh": "从振荡器、采样与音轮看音色怎么被造出来，而不是只记型号。", "en": "Understand oscillators, samples and tonewheels rather than memorising model numbers."},
-      "links": [{"id": "hammond-organ"}, {"id": "rhythm-machine-history"}, {"id": "tr-909"}, {"id": "roland-juno"}]
+      "t": {
+        "zh": "电子与键盘",
+        "en": "Electronic and keyboards"
+      },
+      "d": {
+        "zh": "从振荡器、采样与音轮看音色怎么被造出来，而不是只记型号。",
+        "en": "Understand oscillators, samples and tonewheels rather than memorising model numbers."
+      },
+      "links": [
+        {
+          "id": "hammond-organ"
+        },
+        {
+          "id": "rhythm-machine-history"
+        },
+        {
+          "id": "tr-909"
+        },
+        {
+          "id": "roland-juno"
+        }
+      ]
     },
     {
       "icon": "声",
-      "t": {"zh": "人声", "en": "The voice"},
-      "d": {"zh": "声部、共鸣与唱法，是乐器分类里最容易被忽略的一族。", "en": "Voice types, resonance and technique: the family most often left out of instrument lists."},
-      "links": [{"id": "voice-types"}, {"id": "bel-canto"}, {"id": "chinese-vocal-style"}]
+      "t": {
+        "zh": "人声",
+        "en": "The voice"
+      },
+      "d": {
+        "zh": "声部、共鸣与唱法，是乐器分类里最容易被忽略的一族。",
+        "en": "Voice types, resonance and technique: the family most often left out of instrument lists."
+      },
+      "links": [
+        {
+          "id": "voice-types"
+        },
+        {
+          "id": "bel-canto"
+        },
+        {
+          "id": "chinese-vocal-style"
+        }
+      ]
     }
   ],
-  "ladder_title": {"zh": "读一件乐器的顺序", "en": "How to read an instrument"},
-  "ladder_sub": {"zh": "先从结构解释声音，再用声音验证结构。", "en": "Let structure explain the sound, then use the sound to check the structure."},
+  "ladder_title": {
+    "zh": "读一件乐器的顺序",
+    "en": "How to read an instrument"
+  },
+  "ladder_sub": {
+    "zh": "先从结构解释声音，再用声音验证结构。",
+    "en": "Let structure explain the sound, then use the sound to check the structure."
+  },
   "ladder": [
-    {"n": "01", "t": {"zh": "看形制", "en": "See the shape"}, "d": {"zh": "材料、尺寸、共鸣腔，先决定它能发出什么。", "en": "Material, size and resonator decide what it can produce."}, "href": "violin"},
-    {"n": "02", "t": {"zh": "看音域", "en": "Check the range"}, "d": {"zh": "音域图告诉你它在合奏里站哪个位置。", "en": "The range chart shows where it sits in an ensemble."}, "href": "piano"},
-    {"n": "03", "t": {"zh": "听音色", "en": "Hear the timbre"}, "d": {"zh": "对比同族：差别往往在起音和衰减，而不是音高。", "en": "Compare within the family: the difference is usually attack and decay, not pitch."}, "href": "oboe"},
-    {"n": "04", "t": {"zh": "追它的用法", "en": "Trace its use"}, "d": {"zh": "一件乐器在什么场合被听见，决定了它的曲目。", "en": "Where an instrument is heard decides its repertoire."}, "href": "guqin"}
+    {
+      "n": "01",
+      "t": {
+        "zh": "看形制",
+        "en": "See the shape"
+      },
+      "d": {
+        "zh": "材料、尺寸、共鸣腔，先决定它能发出什么。",
+        "en": "Material, size and resonator decide what it can produce."
+      },
+      "href": "violin"
+    },
+    {
+      "n": "02",
+      "t": {
+        "zh": "看音域",
+        "en": "Check the range"
+      },
+      "d": {
+        "zh": "音域图告诉你它在合奏里站哪个位置。",
+        "en": "The range chart shows where it sits in an ensemble."
+      },
+      "href": "piano"
+    },
+    {
+      "n": "03",
+      "t": {
+        "zh": "听音色",
+        "en": "Hear the timbre"
+      },
+      "d": {
+        "zh": "对比同族：差别往往在起音和衰减，而不是音高。",
+        "en": "Compare within the family: the difference is usually attack and decay, not pitch."
+      },
+      "href": "oboe"
+    },
+    {
+      "n": "04",
+      "t": {
+        "zh": "追它的用法",
+        "en": "Trace its use"
+      },
+      "d": {
+        "zh": "一件乐器在什么场合被听见，决定了它的曲目。",
+        "en": "Where an instrument is heard decides its repertoire."
+      },
+      "href": "guqin"
+    }
   ],
-  "picks_title": {"zh": "六件值得先读的乐器", "en": "Six instruments to start with"},
-  "picks_sub": {"zh": "覆盖弦、管、弹拨、电子与世界乐器，读完能建立比较的坐标。", "en": "Strings, winds, plucked, electronic and world: enough to build a coordinate system."},
+  "picks_title": {
+    "zh": "六件值得先读的乐器",
+    "en": "Six instruments to start with"
+  },
+  "picks_sub": {
+    "zh": "覆盖弦、管、弹拨、电子与世界乐器，读完能建立比较的坐标。",
+    "en": "Strings, winds, plucked, electronic and world: enough to build a coordinate system."
+  },
   "picks": [
-    {"id": "violin", "why": {"zh": "西洋弦乐的基准，后面所有尺寸变化都和它比。", "en": "The reference for Western strings; every size change is measured against it."}},
-    {"id": "piano", "why": {"zh": "88 键是所有键盘乐器的公共标尺。", "en": "88 keys are the shared ruler for every keyboard."}},
-    {"id": "guqin", "why": {"zh": "结构、记谱与审美绑在一起的一件乐器。", "en": "Structure, notation and aesthetics bound into one instrument."}},
-    {"id": "sitar", "why": {"zh": "共鸣弦与可移动品，解释了印度音乐的音色。", "en": "Sympathetic strings and movable frets explain the timbre of Indian music."}},
-    {"id": "tr-909", "why": {"zh": "一台鼓机如何定义一种音乐的时间感。", "en": "How one drum machine defined the feel of a genre."}},
-    {"id": "qobyz", "why": {"zh": "马鬃做弦也做弓，声音和材料直接相关。", "en": "Horsehair for string and bow; material and sound are the same question."}}
+    {
+      "id": "violin",
+      "why": {
+        "zh": "西洋弦乐的基准，后面所有尺寸变化都和它比。",
+        "en": "The reference for Western strings; every size change is measured against it."
+      }
+    },
+    {
+      "id": "piano",
+      "why": {
+        "zh": "88 键是所有键盘乐器的公共标尺。",
+        "en": "88 keys are the shared ruler for every keyboard."
+      }
+    },
+    {
+      "id": "guqin",
+      "why": {
+        "zh": "结构、记谱与审美绑在一起的一件乐器。",
+        "en": "Structure, notation and aesthetics bound into one instrument."
+      }
+    },
+    {
+      "id": "sitar",
+      "why": {
+        "zh": "共鸣弦与可移动品，解释了印度音乐的音色。",
+        "en": "Sympathetic strings and movable frets explain the timbre of Indian music."
+      }
+    },
+    {
+      "id": "tr-909",
+      "why": {
+        "zh": "一台鼓机如何定义一种音乐的时间感。",
+        "en": "How one drum machine defined the feel of a genre."
+      }
+    },
+    {
+      "id": "qobyz",
+      "why": {
+        "zh": "马鬃做弦也做弓，声音和材料直接相关。",
+        "en": "Horsehair for string and bow; material and sound are the same question."
+      }
+    }
   ],
-  "trails_title": {"zh": "三条同族比较的线", "en": "Three family comparisons"},
-  "trails_sub": {"zh": "同一族连着读，尺寸与材料的差异会变得可听。", "en": "Read a family in sequence and size and material become audible."},
+  "trails_title": {
+    "zh": "三条同族比较的线",
+    "en": "Three family comparisons"
+  },
+  "trails_sub": {
+    "zh": "同一族连着读，尺寸与材料的差异会变得可听。",
+    "en": "Read a family in sequence and size and material become audible."
+  },
   "trails": [
-    {"t": {"zh": "弦乐四件套", "en": "The string quartet"}, "d": {"zh": "从小提琴到低音提琴，尺寸改变的是什么。", "en": "From violin to double bass, what size actually changes."}, "stops": ["violin", "viola", "cello", "double-bass"]},
-    {"t": {"zh": "中国吹打", "en": "Chinese winds and percussion"}, "d": {"zh": "笙、唢呐、笛与编钟，各自的场合与音量。", "en": "Sheng, suona, dizi and bianzhong, each with its own setting and volume."}, "stops": ["sheng", "suona", "dizi", "bianzhong"]},
-    {"t": {"zh": "电子乐器简史", "en": "A short history of electronic instruments"}, "d": {"zh": "从音轮到 909，再到复音合成器。", "en": "From tonewheels to the 909 and the polysynth."}, "stops": ["hammond-organ", "rhythm-machine-history", "tr-909", "roland-juno"]}
+    {
+      "t": {
+        "zh": "弦乐四件套",
+        "en": "The string quartet"
+      },
+      "d": {
+        "zh": "从小提琴到低音提琴，尺寸改变的是什么。",
+        "en": "From violin to double bass, what size actually changes."
+      },
+      "stops": [
+        "violin",
+        "viola",
+        "cello",
+        "double-bass"
+      ]
+    },
+    {
+      "t": {
+        "zh": "中国吹打",
+        "en": "Chinese winds and percussion"
+      },
+      "d": {
+        "zh": "笙、唢呐、笛与编钟，各自的场合与音量。",
+        "en": "Sheng, suona, dizi and bianzhong, each with its own setting and volume."
+      },
+      "stops": [
+        "sheng",
+        "suona",
+        "dizi",
+        "bianzhong"
+      ]
+    },
+    {
+      "t": {
+        "zh": "电子乐器简史",
+        "en": "A short history of electronic instruments"
+      },
+      "d": {
+        "zh": "从音轮到 909，再到复音合成器。",
+        "en": "From tonewheels to the 909 and the polysynth."
+      },
+      "stops": [
+        "hammond-organ",
+        "rhythm-machine-history",
+        "tr-909",
+        "roland-juno"
+      ]
+    }
   ]
 }

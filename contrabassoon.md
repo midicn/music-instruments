@@ -4,8 +4,8 @@ site: inst
 cat: I2
 title: 低音巴松
 title_en: Contrabassoon
-summary: 比巴松低一个八度的双簧管，管长近六米，音低过低音提琴
-summary_en: The double-reed an octave below the bassoon — nearly six metres of tube, lower than a double bass
+summary: 巴松的低音支系，通常记谱比实音高一个八度
+summary_en: The contrabass member of the bassoon family, normally written an octave above sounding pitch
 level: standard
 tags: [乐器, 木管, 西洋]
 tags_en: [instrument, woodwind, western]
@@ -29,12 +29,12 @@ sources:
   - 「音域记谱 B♭1–B♭4（实音 B♭0–B♭3）」依通行配器资料
   - 「最低音 B♭0 低于低音提琴的 E1，是管弦乐团里音最低的常规管乐器」依通行配器资料
   - ⚠️ 库内没有标题可确认为低音巴松的曲目 —— 本条给出的是**同族巴松曲目**作音区对照，音色由试听件负责
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
 低音巴松是[[instrument:bassoon|巴松]]的低八度版本 —— 也是**管弦乐团里音最低的常规管乐器**：
-它的最低音 **B♭0** 比大提琴低两个八度，比[[instrument:double-bass|低音提琴]]的 E1 还低。
+它的最低音 **B♭0** 低于大提琴的常规最低音 C2，比[[instrument:double-bass|低音提琴]]的 E1 还低。
 
 它是木管组里唯一一件"低到需要重新考虑记谱"的乐器 ——
 **谱面比实音高一个八度**，理由与短笛完全对称。
@@ -109,7 +109,7 @@ updated: 2026-09-26
     <text x="60" y="254">A0</text><text x="100" y="254">C1</text><text x="260" y="254">C2</text>
     <text x="420" y="254">C3</text><text x="580" y="254">C4</text>
   </g>
-  <text x="20" y="282" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">它比低音提琴还低一个大三度 —— 管弦乐团里没有比它更低、还常驻编制的管乐器。</text>
+  <text x="20" y="282" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">它比四弦低音提琴的 E1 低一个三全音 —— 管弦乐团里没有比它更低、还常驻编制的管乐器。</text>
 </svg>
 ```
 
@@ -131,7 +131,7 @@ updated: 2026-09-26
    这是它在总谱上的全部价值。
 
 ```audiolab
-{"type":"instrument","gm":"Bassoon","synth":"reed","phrase":["B♭1","B♭2","E2","A2","B♭2"],"label":"低音巴松的常用区：实音 B♭0 附近","label_en":"The contrabassoon's working register — around sounding B♭0","hint":"注意最低音更像「重量」而不是「音符」—— 通用音色表里没有低音巴松，这里借巴松音色近似","hint_en":"At the bottom, weight matters more than pitch. General MIDI has no contrabassoon, so a bassoon sample stands in."}
+{"type":"instrument","gm":"Bassoon","synth":"reed","phrase":["B♭1","B♭2","E2","A2","B♭2"],"label":"巴松音色近似：B♭1到B♭2","label_en":"Bassoon approximation — B♭1 to B♭2","hint":"这段实际音名为B♭1、B♭2、E2、A2、B♭2，并未播放B♭0。可比较低音短句的起音与延音；通用GM表中没有独立的低音巴松音色。","hint_en":"The actual notes are B♭1, B♭2, E2, A2 and B♭2; B♭0 is not played. Compare low-register attacks and sustain; standard GM has no separate contrabassoon program."}
 ```
 
 > ⚠️ 关于试听：通用音色表（General MIDI）里没有低音巴松。
@@ -196,7 +196,7 @@ updated: 2026-09-26
 
 ::: en
 The contrabassoon is the [[instrument:bassoon|bassoon]] an octave lower — and the **lowest standard wind instrument
-in the orchestra**: its bottom **B♭0** is two octaves below a cello and a major third below the
+in the orchestra**: its bottom **B♭0** lies below a cello’s C2 and a tritone below the
 [[instrument:double-bass|double bass]]'s E1.
 
 It is the one woodwind so low that its notation has to be reconsidered — **written an octave above
@@ -273,7 +273,7 @@ Three points:
     <text x="60" y="254">A0</text><text x="100" y="254">C1</text><text x="260" y="254">C2</text>
     <text x="420" y="254">C3</text><text x="580" y="254">C4</text>
   </g>
-  <text x="20" y="282" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">A major third below the double bass — no standard orchestral wind sits lower.</text>
+  <text x="20" y="282" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">A tritone below the four-string double bass — no standard orchestral wind sits lower.</text>
 </svg>
 ```
 
@@ -296,7 +296,7 @@ Four cues:
    sound is completely different — that is its entire value in a score.
 
 ```audiolab
-{"type":"instrument","gm":"Bassoon","synth":"reed","phrase":["B♭1","B♭2","E2","A2","B♭2"],"label":"低音巴松的常用区：实音 B♭0 附近","label_en":"The contrabassoon's working register — around sounding B♭0","hint":"注意最低音更像「重量」而不是「音符」—— 通用音色表里没有低音巴松，这里借巴松音色近似","hint_en":"At the bottom, weight matters more than pitch. General MIDI has no contrabassoon, so a bassoon sample stands in."}
+{"type":"instrument","gm":"Bassoon","synth":"reed","phrase":["B♭1","B♭2","E2","A2","B♭2"],"label":"巴松音色近似：B♭1到B♭2","label_en":"Bassoon approximation — B♭1 to B♭2","hint":"这段实际音名为B♭1、B♭2、E2、A2、B♭2，并未播放B♭0。可比较低音短句的起音与延音；通用GM表中没有独立的低音巴松音色。","hint_en":"The actual notes are B♭1, B♭2, E2, A2 and B♭2; B♭0 is not played. Compare low-register attacks and sustain; standard GM has no separate contrabassoon program."}
 ```
 
 > ⚠️ On the audio: the General MIDI set has no contrabassoon. A bassoon sample, placed in its

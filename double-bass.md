@@ -27,12 +27,14 @@ instances:
   - giantmidi-009130 | 低音提琴与钢琴小品三首 —— 有伴奏的情境，便于听它在合奏里如何"垫住"和声
   - pdmx-001539 | Bottesini 的《遐想》—— 低音提琴独奏传统的源头人物留下的作品
 sources:
+  - "https://getd.libs.uga.edu/pdfs/amaral_claudia_s_201805_dma.pdf"
+  - "https://www.vsl.co.at/academy/strings/double-bass"
   - 琴体尺寸取通行制琴数据：低音提琴（3/4 尺寸，乐队最常用）琴体长约 1,070 毫米、弦长约 1,050 毫米
   - 定弦 E–A–D–G（纯四度）与"记谱比实音高一个八度"属通行乐器学常识，各版乐器词典表述一致
   - 全音指距的换算依弦长与频率关系逐条计算（小提琴 328 毫米得约 36 毫米、大提琴 690 毫米得约 75 毫米、低音提琴 1,050 毫米得约 115 毫米）
   - 血统上出自低音维奥尔（violone）而非小提琴家族的放大、以及德式与法式两种握弓，依通行乐器史叙述
   - ⚠️ 库内标题或作曲家明确指向低音提琴的曲目只找到 4 首，本条已全部列出（数据集覆盖限制，非本条取舍）
-updated: 2026-09-25
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -54,7 +56,7 @@ updated: 2026-09-25
 ```svg
 <svg viewBox="0 0 640 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="低音提琴外形与主要部件：斜肩、齿轮式弦轴、较短的指板、宽弦距的弦、f 孔、琴桥、系弦板、尾柱与地板">
   <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
-    <text x="20" y="22">低音提琴 · 外形与主要部件（注意左肩的斜坡）</text>
+    <text x="20" y="22">低音提琴 · 外形与主要部件（不同型号肩形不同）</text>
   </g>
   <!-- 指板（相对琴体显得短） -->
   <path d="M304,100 L336,100 L346,268 L294,268 Z" fill="#0E0E10"/>
@@ -109,7 +111,7 @@ updated: 2026-09-25
     <text x="600" y="43" text-anchor="end">琴头（更大）</text>
     <text x="600" y="65" text-anchor="end">弦轴 · 齿轮式</text>
     <text x="180" y="127" text-anchor="end">指板（相对琴体偏短）</text>
-    <text x="180" y="169" text-anchor="end" fill="#9C7A3C">斜肩（左肩削成斜坡）</text>
+    <text x="180" y="169" text-anchor="end" fill="#9C7A3C">肩部（有斜肩与圆肩形制）</text>
     <text x="180" y="217" text-anchor="end">f 孔（更长）</text>
     <text x="180" y="303" text-anchor="end">下琴腰</text>
     <text x="610" y="277" text-anchor="end">琴桥</text>
@@ -122,12 +124,9 @@ updated: 2026-09-25
 </svg>
 ```
 
-1. **斜肩**。琴体的左肩（演奏者左手够高把位的那一侧）削成一道斜坡，右肩仍是圆的。
-   这不是造型趣味：靠肘、够高把位都需要那一段空间。
-2. **齿轮式弦轴**。琴弦张力太大，木制摩擦弦轴拧不住，所以低音提琴用金属齿轮传动
-   （与吉他贝斯的调弦机构同理）。
-3. 指板相对偏短。按前面那把尺子算，它的弦长（1,050）几乎等于琴体长（1,070）——
-   在家族里这是唯一一次，小提琴只有 0.92 倍。这是"低音提琴已经大得不能再大"的另一个信号。
+1. 琴体有斜肩、圆肩等不同形制，不能概括为“只有左肩削坡、右肩仍圆”。
+2. 齿轮弦轴便于精细调节较粗的琴弦，现代低音提琴普遍使用。
+3. 指板、弦长和琴体尺寸随型号而变；弦长与琴体长的比值不能直接说明指板长度。
 
 ## 为什么改成四度定弦
 
@@ -183,15 +182,14 @@ updated: 2026-09-25
     <path d="M60,232 L60,262"/>
   </g>
   <text x="196" y="252" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">1 - 2 - 4 三指法（跳过第三指）</text>
-  <text x="20" y="288" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">低音提琴上相邻两指要跨约 115 mm，是小提琴的三倍多 —— 这就是它改用四度定弦的原因。</text>
+  <text x="20" y="288" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">115 mm 是从空弦上端到升全音落点的距离，不是相邻两指的最小间距。</text>
 </svg>
 ```
 
-小提琴上一个全音约 36 毫米，一只手轻松覆盖；低音提琴上是 115 毫米 ——
-三倍多，而且这是"相邻两指"的最小距离。这带来两个后果：
+以空弦为起点，在十二平均律下把音升全音，需要缩短约 10.9% 的振动弦长；328 mm、690 mm、1,050 mm 的弦长，分别对应约 36、75、115 mm。这是空弦到高全音落点的距离，不是每一对相邻手指的最小间距。越到高把位，相同音程所需的距离越短。
 
-- 定弦从五度改成四度。相邻两弦的音程小一些，跨弦取音时手不必横向伸那么远。
-- 指法从 1-2-3-4 改成 1-2-4。第三指被跳过 —— 因为 1 指到 3 指的距离已经超出手的自然跨度。
+- 常见四度定弦为 E1–A1–D2–G2，有助于在较长弦上组织指法与跨弦取音。
+- 低把位常用 1–2–4，第三指可协助第四指，不能说第三指在整件乐器上被废弃；高把位、拇指把位还有其他指法。
 
 所以低音提琴的左手不是在"按音"，而是在频繁换把：它靠移动整只手来覆盖音程，
 而不是靠手指伸展。听低音提琴的快速乐句时，那种略带"滑动"的连贯感就来自这里。
@@ -206,13 +204,11 @@ updated: 2026-09-25
 乐谱上写的 E2，实际响的是 E1。这样处理的原因很实际：如果把实音直接写进低音谱号，
 大量音符会掉到五线谱以下，加线画不过来。
 
-最低的 E1 = 41.2 Hz，这是"有明确音高的低频"的极限附近。
-再低就要进入 20–40 Hz 这一个"能感到但听不太出音高"的地带 —— 所以低音提琴不是
-"越大越好"，它已经贴着这条线了。
+标准四弦最低音 E1 约为 41.2 Hz，仍有明确音高。五弦或低音延伸装置可到 C1 甚至 B0；耳朵还会利用上方分音辨认低音音高，不能把 20–40 Hz 一概当成“只能感觉、没有音高”的区域。
 
 | 弦 | 空弦音 | 音色 |
 |---|---|---|
-| E 弦 | E1 | 最沉，音高感开始变含糊，更多是"分量" |
+| E 弦 | E1 | 最低的标准空弦，具有明确音高与厚实低频 |
 | A 弦 | A1 | 厚，乐队最常用的低音区 |
 | D 弦 | D2 | 清楚，低音线条的主力 |
 | G 弦 | G2 | 最明亮，爵士独奏常在这根弦上爬高 |
@@ -224,15 +220,11 @@ updated: 2026-09-25
 
 低音提琴的听辨要点，与家族里其他三件不一样：
 
-1. 它的低音更像"分量"而不像"音"。E 弦上那几个音，你更多感到的是压力与厚度，
-   音高反而次要 —— 这是频率接近听觉下限的结果，不是演奏问题。
-2. 中高音区（D 弦与 G 弦）才露出它真嗓子。往上爬到 G3、G4 时，
-   它不再只是"托底"，而是能唱 —— 音色介于大提琴与男低音之间。
-3. 拨弦与拉弓听起来像两件乐器。爵士里的低音提琴几乎全是拨弦：
-   短促、有颗粒、音头清楚。管弦乐里的低音提琴是长音与连弓：绵、暗、铺得开。
+1. 低音区既有厚度，也有可辨认的音高；上方分音帮助耳朵识别最低弦的音高。
+2. D 弦、G 弦和更高把位适合旋律与独奏，音色与低音伴奏有所区别。
+3. 拨弦通常有清楚音头并逐渐衰减，拉弓可以维持音量与连贯长线条；爵士与管弦乐都可按作品需要使用两种方法。
 
-下面的试听件给的是四根空弦。请注意最低的 E1 与最高的 G2 的差别有多大 ——
-这四个音里，前两个更像"分量"，后两个才像"音"。
+下面的试听按 E1、A1、D2、G2 播放四根空弦，比较音区上移时的音高、音头与余响变化。
 
 ```audiolab
 {"type":"instrument","gm":"Contrabass","synth":"bowed","phrase":["E1","A1","D2","G2"],"label":"四根空弦：从 E 弦到 G 弦","label_en":"Four open strings — E up to G","hint":"注意 E1 更像分量、G2 才像音；也注意四度定弦的音程比小提琴的窄","hint_en":"Hear how E1 reads as weight rather than pitch, and how G2 turns into a real note — then note the fourths between them."}
@@ -264,16 +256,14 @@ updated: 2026-09-25
 
 ## 家族与近亲
 
-低音提琴虽然编在弦乐家族里，血统其实不同：它出自低音维奥尔（violone），
-不是小提琴家族的放大件。三条痕迹都留在今天的琴上：
+低音提琴的形制历史涉及维奥尔与小提琴两类传统，不宜用单一路径概括为“完全来自低音维奥尔”。今天的四度定弦、不同肩形、背板与两类弓形应分别说明；violone 在历史上也并不始终指同一种乐器。
 
-| 特征 | 小提琴家族 | 低音提琴（维奥尔血统） |
+| 特征 | 小提琴、中提琴、大提琴的常见做法 | 低音提琴的常见做法 |
 |---|---|---|
-| 肩部 | 对称的圆肩 | **斜肩**（左肩削成坡） |
-| 定弦 | 纯五度 | **纯四度** |
-| 记谱 | 实音 | **移调**（记谱比实音高八度） |
-| 背板 | 拱形（与面板一样外凸） | 更平（维奥尔传统的折角更浅） |
-| 弓的握法 | 一套 | **两套**（德式 / 法式） |
+| 定弦 | 五度 | 四度 |
+| 普通记谱 | 实音 | 高八度记谱 |
+| 肩形与背板 | 通常圆肩、拱背 | 肩形与平背/拱背随型号而变 |
+| 弓形 | 各有相应弓形 | 法式与德式并用 |
 
 | 乐器 | 琴体长约 | 弦长约 | 定弦（低→高） | 实音音域 |
 |---|---|---|---|---|
@@ -286,10 +276,7 @@ updated: 2026-09-25
 
 ## 历史演变
 
-低音提琴的祖先是 16 世纪的低音维奥尔 / violone —— 一件巨大的、有品的、
-按四度与五度混合定弦的低音弦乐器。当小提琴家族在 17 世纪取代维奥尔时，
-低音乐器这一档没有换血：新乐器沿用了旧乐器的定弦与形制，
-于是斜肩与四度定弦一直保留到今天。
+16 世纪以来，欧洲低音拉弦乐器的尺寸、弦数、定弦和名称曾并存多种做法，逐步形成今天的低音提琴。不能把这些变化写成某一代乐器完整保留另一代的唯一规则。
 
 18 世纪的低音提琴通常只有三根弦（A1、D2、G2）。第四根弦（E1）是后来才普遍加上的 ——
 加上之后它才真正具备了管弦乐低音声部所需的深度。Dragonetti 是这一时期的代表人物：
@@ -305,20 +292,10 @@ updated: 2026-09-25
 
 ## 常见误解
 
-- "低音提琴就是放大的大提琴。" → 形状像，但血统不同：它出自低音维奥尔（violone）。
-  斜肩、四度定弦、移调记谱、两套握弓法 —— 这四条都是维奥尔血统的痕迹，
-  不是"放大"能解释的。
-- "它只会咚、咚、咚。" → 那是它在管弦乐低音声部的常用写法，不是它的能力上限。
-  独奏传统从 Dragonetti 到 Bottesini 一直没断，爵士里它更是能独奏的乐器。
-- "乐谱上写什么音就响什么音。" → 反了。低音提琴是移调乐器，
-  记谱比实音高一个八度。看音域图上的两行就清楚了。
-- "弦越粗，音就越低。" → 主要变量是弦长。低音提琴之所以是低音乐器，
-  首先因为它弦长 1,050 毫米（小提琴的三倍多）；弦的粗细与张力只是配套调整。
-- "定弦改成四度是因为四度听起来更好。" → 不是为了声音，是为了手。
-  在 1,050 毫米的弦长上，按五度定弦会让相邻两弦的音程要求太大的横向伸展。
-  这是"人以身体限制乐器"的又一个例子（上一个例子见 [[instrument:viola|中提琴]] 的尺寸困境）。
-- "低音提琴比大提琴难拉，因为它大。" → 它确实物理上更费力（弦粗、弦距宽、需要更多压力），
-  但真正的难点是换把：因为按音基本靠移动整只手，音准的容错空间更小。
+- 低音提琴不是简单放大的大提琴，历史形制、常见四度定弦与移调记谱都有区别。
+- 低音的音高由弦长、张力和单位长度质量共同决定：f = (1/2L)√(T/μ)，不能说弦粗细与张力只是次要配套。
+- 四度定弦有助于指法安排，但跨弦的横向距离来自弦距，并非相邻空弦是四度还是五度。
+- 1–2–4 是常见低把位方案；换把、拇指把位与其他指法共同覆盖更宽的音域。
 
 ## 下一步
 
@@ -349,7 +326,7 @@ three:
 ```svg
 <svg viewBox="0 0 640 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Double bass parts: sloped shoulder, machine tuning gears, a comparatively short fingerboard, wide string spacing, f-holes, bridge, tailpiece, endpin and floor">
   <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
-    <text x="20" y="22">Double bass — outer form and principal parts (note the sloped left shoulder)</text>
+    <text x="20" y="22">Double bass — principal parts (shoulder shapes vary)</text>
   </g>
   <path d="M304,100 L336,100 L346,268 L294,268 Z" fill="#0E0E10"/>
   <path d="M304,58 L336,58 L338,100 L302,100 Z" fill="#17171A" stroke="#343439" stroke-width="1.2"/>
@@ -395,7 +372,7 @@ three:
     <text x="600" y="43" text-anchor="end">Scroll (larger)</text>
     <text x="600" y="65" text-anchor="end">Machine tuning gears</text>
     <text x="180" y="127" text-anchor="end">Fingerboard (short)</text>
-    <text x="180" y="169" text-anchor="end" fill="#9C7A3C">Sloped shoulder (left side)</text>
+    <text x="180" y="169" text-anchor="end" fill="#9C7A3C">Shoulder (shapes vary)</text>
     <text x="180" y="217" text-anchor="end">f-hole (longer)</text>
     <text x="180" y="303" text-anchor="end">Lower bout</text>
     <text x="610" y="277" text-anchor="end">Bridge</text>
@@ -408,14 +385,9 @@ three:
 </svg>
 ```
 
-1. **Sloped shoulders.** The left shoulder — the side the player's hand reaches past for high
-   positions — is cut away in a slope, while the right shoulder stays round. That is not styling:
-   bowing and reaching up there both need the clearance.
-2. **Machine tuning gears.** String tension is far too high for wooden friction pegs, so the double
-   bass uses metal geared machines — the same idea as a bass guitar's tuners.
-3. A comparatively short fingerboard. Measured with the same ruler as before, its string length
-   (1,050 mm) is nearly equal to its body length (1,070 mm) — the only member where that happens; on a
-   violin the ratio is just 0.92. Another sign that the double bass has grown as far as it can.
+1. Basses have different body shapes, including sloping and rounded shoulders; they are not generally made with only the left shoulder cut away.
+2. Geared tuning machines make fine adjustment of heavy strings practical and are common on modern basses.
+3. Fingerboard, string and body dimensions vary by model. The ratio of string length to body length does not measure fingerboard length.
 
 ## Why fourths tuning
 
@@ -465,18 +437,14 @@ Working from the string-length-to-frequency relationship, a whole tone (two semi
   </g>
   <text x="126" y="214" fill="#9C7A3C" font-size="11">whole tone = 115 mm</text>
   <text x="196" y="252" font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">1 - 2 - 4 fingering (the third finger is skipped)</text>
-  <text x="20" y="288" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">On a double bass two adjacent fingers span about 115 mm — over three times a violin's.</text>
+  <text x="20" y="288" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">115 mm measures nut to whole-tone stopping point, not minimum adjacent-finger spacing.</text>
 </svg>
 ```
 
-On a violin a whole tone is about 36 mm — comfortably inside one hand. On a double bass it is
-115 mm — more than three times as far, and that is the smallest distance the hand must cover.
-Two consequences follow:
+Starting from an open string, raising pitch by a whole tone in equal temperament shortens the vibrating length by about 10.9%. For lengths of 328, 690 and 1,050 mm, the stopping distances are about 36, 75 and 115 mm. These are distances from the nut to the whole-tone stopping point, not the minimum spacing between adjacent fingers. The same interval takes less distance higher up the fingerboard.
 
-- Tuning moves from fifths to fourths. A smaller interval between adjacent strings means the hand
-  does not have to reach so far sideways when crossing strings.
-- Fingering moves from 1-2-3-4 to 1-2-4. The third finger is skipped, because the stretch from
-  the first to the third finger already exceeds a natural hand span.
+- Standard fourths tuning E1–A1–D2–G2 helps organise fingering and string crossing on long strings.
+- Lower positions often use 1–2–4, with the third finger supporting the fourth. The third finger is not discarded throughout the instrument; higher and thumb positions use other patterns.
 
 So a bass player's left hand is not really "stopping notes" — it is shifting constantly. That
 slightly gliding continuity in fast bass lines comes from exactly this.
@@ -492,13 +460,11 @@ the family notated as a transposing instrument — an E2 on the page sounds as E
 practical: writing sounding pitch in bass clef would push a great many notes below the staff, beyond
 any sensible number of ledger lines.
 
-The lowest note, E1 = 41.2 Hz, sits just about at the edge of clearly pitched low sound. Below it
-lies the 20–40 Hz region, which you feel more than you hear as pitch. So "bigger is better" stops
-being true here: the instrument is already pressed against that boundary.
+The standard four-string low E1 is about 41.2 Hz and has a definite pitch. Five-string instruments or extensions can reach C1 or B0. Upper partials also help listeners identify a low note, so the whole 20–40 Hz region cannot be treated as sensation without pitch.
 
 | String | Open note | Colour |
 |---|---|---|
-| E | E1 | deepest; pitch sense starts to blur, it reads as weight |
+| E | E1 | lowest standard open string, with definite pitch and low-frequency weight |
 | A | A1 | full; the orchestra's usual bass register |
 | D | D2 | clear, the workhorse of bass lines |
 | G | G2 | the brightest — where jazz soloists climb |
@@ -510,15 +476,11 @@ octave relationship to sounding pitch.
 
 Recognising a double bass works differently from the rest of the family:
 
-1. Its bottom end reads as weight, not as note. On the E string you register pressure and
-   thickness more than pitch — a consequence of approaching the hearing limit, not a playing fault.
-2. Its real voice appears higher up. On the D and G strings, climbing to G3 and G4, it stops being
-   a foundation and starts to sing — a colour between a cello and a low male voice.
-3. Plucked and bowed sound like two instruments. Jazz bass is almost all pizzicato: short,
-   grainy, sharp-edged. An orchestral bass is long notes and legato: soft, dark, spread out.
+1. Low notes have both weight and recognisable pitch; upper partials help the ear identify the lowest notes.
+2. The D and G strings and higher positions serve melodic and solo writing with a different colour from the low accompaniment register.
+3. Pizzicato has a clear attack and decay, while bowing can sustain a level and connect long lines. Jazz and orchestral writing can use either as required.
 
-The player below gives the four open strings. Listen to how far E1 is from G2 in character — the
-first two read as weight, the last two as pitch.
+The demonstration plays the four open strings E1, A1, D2 and G2. Compare pitch, attack and resonance as the register rises.
 
 ```audiolab
 {"type":"instrument","gm":"Contrabass","synth":"bowed","phrase":["E1","A1","D2","G2"],"label":"四根空弦：从 E 弦到 G 弦","label_en":"Four open strings — E up to G","hint":"注意 E1 更像分量、G2 才像音；也注意四度定弦的音程比小提琴的窄","hint_en":"Hear how E1 reads as weight rather than pitch, and how G2 turns into a real note — then note the fourths between them."}
@@ -554,16 +516,14 @@ technique is shared with the family, with a few things that need separate work o
 
 ## The family
 
-The double bass sits in the string section, but its lineage is different: it descends from the
-bass viol (violone), not from an enlarged violin family. Three traces survive in today's instrument:
+The double bass’s development involves both viol and violin traditions rather than one simple descent from the bass viol. Modern fourths tuning, shoulder shapes, backs and bow types should be described separately. Historically, violone did not always name one particular instrument.
 
-| Feature | Violin family | Double bass (viol lineage) |
+| Feature | Common violin, viola and cello practice | Common double-bass practice |
 |---|---|---|
-| Shoulders | symmetrical, round | **sloped** (left shoulder cut away) |
-| Tuning | perfect fifths | **perfect fourths** |
-| Notation | at sounding pitch | **transposing** (an octave higher) |
-| Back | arched like the top | flatter (the viol's shallower break) |
-| Bow grip | one system | **two** (German and French) |
+| Tuning | fifths | fourths |
+| Ordinary notation | concert pitch | octave above the sound |
+| Shoulders and back | usually rounded shoulders, arched back | shoulder shape and flat/arched back vary |
+| Bow | instrument-specific types | French and German bows coexist |
 
 | Instrument | Body | String length | Tuning (low→high) | Range |
 |---|---|---|---|---|
@@ -577,10 +537,7 @@ older name.**
 
 ## History
 
-The double bass's ancestor is the 16th-century bass viol / violone — a huge fretted bass string
-instrument tuned in a mix of fourths and fifths. When the violin family displaced the viols in the
-17th century, the bass register did not change blood: **the new instrument kept the old one's tuning
-and proportions**, so the sloped shoulders and fourths tuning survive to this day.
+Since the sixteenth century, European low bowed instruments have used varied sizes, string counts, tunings and names, gradually leading to the modern double bass. This was not a single replacement that preserved one earlier instrument’s complete set of rules.
 
 Eighteenth-century basses usually had three strings (A1, D2, G2). The fourth string (E1) came later
 and only then gave the instrument the depth an orchestral bass part needs. Dragonetti is the figure of
@@ -597,24 +554,10 @@ unrelated techniques — also a first in this family.
 
 ## Common misconceptions
 
-- "A double bass is an enlarged cello." Similar in outline, but the lineage differs: it comes
-  from the bass viol (violone). Sloped shoulders, fourths tuning, transposing notation and two bow
-  grips are all viol traces — none of which "enlargement" explains.
-- "It can only go thump, thump, thump." That is a common way to write for the orchestral bass part,
-  not the instrument's ceiling. The solo tradition runs from Dragonetti to Bottesini without a break,
-  and in jazz it is a solo voice.
-- "What you read is what sounds." Backwards. The double bass is a transposing instrument, notated
-  an octave above sounding pitch. The two rows on the range chart show it.
-- "Thicker strings mean lower notes." The main variable is string length. The double bass is a
-  bass instrument first because its strings are 1,050 mm (over three times a violin's); gauge and
-  tension are the supporting adjustments.
-- "Fourths tuning was chosen because fourths sound better." It was chosen for hands, not for
-  sound. At 1,050 mm, fifths tuning would demand too wide a lateral stretch between adjacent strings.
-  Another case of a body limiting the instrument — the previous example is the
-  [[instrument:viola|viola]]'s size problem.
-- "A double bass is harder because it is bigger." It is certainly more physical (thicker strings,
-  wider spacing, more pressure needed), but the real difficulty is shifting: because intonation
-  depends on moving the whole hand, there is less room for error.
+- The double bass is not simply an enlarged cello: its historical forms, usual fourths tuning and transposing notation differ.
+- Pitch depends jointly on vibrating length, tension and mass per unit length: f = (1/2L)√(T/μ). Gauge and tension are not merely secondary adjustments.
+- Fourths tuning helps organise fingering. Lateral distance between strings comes from string spacing, not from the interval between open strings.
+- 1–2–4 is a common lower-position pattern; shifting, thumb position and other fingerings extend its reach.
 
 ## Next
 

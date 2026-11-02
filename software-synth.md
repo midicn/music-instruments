@@ -4,8 +4,8 @@ site: inst
 cat: I11
 title: 软件合成器
 title_en: The software synthesizer
-summary: 合成器从一台机器变成一段代码 —— CPU 是唯一的限制
-summary_en: The synthesizer became code — the CPU the only limit
+summary: 由软件计算振荡、滤波与调制，音色与性能取决于实现和运行环境
+summary_en: Oscillation, filtering and modulation computed in software, with results shaped by implementation and runtime conditions
 level: standard
 tags: [乐器, 电子, 电鸣, 西洋, 数字合成器, 软件合成器, VST, ReBirth]
 tags_en: [instrument, electronic, electrophone, western, digital-synth, software-synth, vst, rebirth]
@@ -19,12 +19,12 @@ links:
  - "[[concept:timbre]]"
  - "[[concept:pitch]]"
 instances:
- - chinafolk-002994 | 《算盘子》 —— 「算盘子」：软件合成器的本质是「算」——「房间里的合成器现在可以嵌进任何电子设备的单芯片，或被软件精确仿真」——算盘拨出来的不是账，是波形（C3 · 仅限学习研究；库内无软件合成器录音，取民歌作意象参照）
- - chinafolk-000081 | 《绣花灯》 —— 「绣花灯」：软件合成器在屏幕里造琴——「Nord Modular：可以把整个合成引擎在 PC 上编辑——屏幕上编辑合成自 Fairlight CMI 以来未曾见过」——屏幕里绣一台琴，灯是显示器（C3 · 仅限学习研究）
- - chinafolk-000619 | 《人民心向共产党》 —— 「心」：「We were really stupid in the 1990s」——90 年代的我们「只重视真实与模仿」，把 shaping waveforms 与 individual controls 视为过时——rave 圈太清楚这一点，抢购所有二手模拟琴——人心的回摆（C3 · 仅限学习研究）
+  - mutopia-000280 | 巴赫《二部创意曲第一首》MIDI有两个发音通道，可用于比较单音与多音音源怎样处理同时进行的声部 | Bach’s first two-part invention uses two sounding channels, useful for comparing how monophonic and polyphonic instruments handle concurrent lines
+  - giantmidi-006222 | 该钢琴练习文件含CC64踏板消息；比较音源时可检查是否响应踏板，以及音符释放后的衰减方式 | This piano exercise contains CC64 sustain messages; compare whether sound engines respond to the pedal and how notes decay after release
+  - groove-000001 | 该鼓组文件在MIDI第10通道发音，提示同样的音符编号在鼓组映射与旋律音色中用途不同 | The drum file sounds on MIDI channel 10, illustrating how note numbers have different roles in drum mappings and pitched sounds
 sources:
  - 软件合成器（software synthesizer）——「合成器从一台机器变成一段代码」。 主线——「一旦 GigaSampler 与 Bitheadz Unity DS-1 证明电脑也能处理采样——电脑成为终极音源再无障碍——CPU 算力是唯一的限制」；「房间里的合成器现在可以嵌进任何电子设备的单芯片，或被软件精确仿真」—— 对照其他条目的物质量曲线：200 吨的 Telharmonium → 一面墙的 Moog → 14 kg 的 Minimoog → 2.5 kg 的 TB-303 → 零硬件的软件合成器——乐器的物质量一路归零，而声音不减。 ReBirth（1996/97 · Propellerhead）：先于标准的经典——「1997 年 Propellerheads 发布的程序革命了电脑音乐业——ReBirth RB-338 是一对 Roland TB-303 贝斯合成器与一台 TR-808 节奏机的漂亮仿真」；「如果 VST 乐器标准 1999 年才有，ReBirth（1996 发布）其实领先于游戏——这不是插件，而是一个『virtual studio』」； 「忠于原机界面的仿真是它成功的关键——当时电脑与声卡技术还不足以从软件实时生成声音」——步进音序器 + 16 pads 绕过了键盘问题：任何人都可能立刻开始做 groove，不需要键盘也不需要会弹键盘；「ReBirth 是 smash hit，其制作者两年后发布了完整 DAW——Reason」——一台「仿真软件」养出了一间 DAW 公司。 VST Instruments（1999）：插件的诞生——「Steinberg（Cubase 的创造者）约同期发布 VST 架构——为录音软件带来真正的『live』混音与实时效果插件」；「Propellerhead 想把 ReBirth 接进 VST 引擎——方案是 ReWire：ReBirth 输出与 Cubase VST 混音器之间的桥」； 「这一发展启发 Steinberg 创建 VST 引擎的扩展——允许软件合成器『插件』被使用——称为 VST Instruments（VSTi）」； 「VSTi 的成功 hinge 于看似难觅的实时演奏能力——Steinberg 的 ASIO 驱动是钥匙——ASIO 2.0 与 VST 2.0（1999）首次把延迟降到 10ms 以下，VSTi 才真正可弹」—— 对照其他条目：「10ms」——人耳分辨不出琴键与声音之间的这道缝——软件合成器等了两年，等的就是这 10 毫秒。 NI Pro-Five（1999）：硬件仿真插件的开端——「VST2 的黎明，Native Instruments 发布 Pro-Five——他们对 1970 年代 Prophet-5 的插件仿真」；「从今天的立场看很怪，但真实硬件合成器的插件仿真是当时全新的东西」—— 对照 TB-303 的克隆链：303 的声音先被硬件克隆（Behringer TD-3），Prophet 的声音先被软件仿真（Pro-Five）——克隆与仿真两条路同时开跑，都朝着「让消失的乐器复活」。 Nord Lead（1995）与 Virtual Analog——「Swedish 公司 Clavia 1995 年发布 Nord Lead——点燃了一个认识：软件可以仿真简单电路的振荡器与滤波器，仿真到感觉像硬件」；「创始人 Hans Nordelius 发现 DSP（原本跑音频效果的）也能模拟老模拟合成器里电路的行为——他称之为 Virtual Analog」；「Nord Lead，醒目的红色机身，罕见地满是旋钮，引起轰动」；「Korg Prophecy 同年发布——物理建模引擎也被用来复制模拟振荡器与滤波器」；「一年后 Roland JP-8000 也加入」—— 对照 Minimoog 的「旋钮是主奏」：Nord Lead 在数字时代恢复了「旋钮的尊严」——而这正是十年后模拟复兴的伏笔。 Nord Modular（1997）：屏幕里的模块化——「他们有个看似疯狂的想法：你可以在 PC 上编辑整个合成引擎」；「在屏幕上编辑合成——自 Fairlight CMI 这类乐器以来未曾见过」；「在此之前，模块化合成是老旧、巨大、昂贵的退化电子设备机架，patched together with swathes of cables，没有保存 patch 的概念——很少有人能接触任何模块化」；「Nord Modular 以非常合理的价格提供完全模块化的探险乐园——在电脑上用鼠标，构建自己的合成器、保存它、再构建完全不同的另一个」—— 对照 eurorack 条：软件把「模块 + patch 线」做进了屏幕——连 patch 线都是虚拟的。 「We were really stupid in the 1990s」（本页最锋利的自省）——「我们 90 年代的人真的蠢，至少主流合成器技术圈的人是——我们把真实与模仿看得高于一切，把 shaping waveforms 与 individual controls 当作 tired and unfashionable 而搁置」；「现代 PCM 合成器带来极大的便利与巨大的音色范围，却在可用性与性格上失去了东西」；「home-spun 的 rave 与 dance 音乐 genres 太清楚这一点，急切地抢购所有能找到的二手模拟合成器」—— 对照 Schaeffer 的晚年自白（「Do-Re-Mi 之外没有路」）：两代人的自省隔着三十年——一个承认探索的边界，一个承认傲慢的代价； 软件造出「完美的数字」，反手让「不完美的模拟」更贵——模拟复兴（1990s 末起、2010s Moog/Korg/Arturia/DSI 平价新机）是软件亲手引发的反作用力。 三条现代共识——「早期软件乐器多为基本减法模型的仿真——振荡器、包络、滤波——但随时间，其它合成形式被探索：FM、波表、声学建模」；「这些工具常采用 block-based 架构——合成过程分成离散模块经虚拟 patching 连接」；「曾有挑战：10–20ms 的音频延迟（当时硬件的缓冲尺寸所迫）」。HS 电鸣（DSP 实时合成——无独立身体，寄生在通用计算机里）；audiolab 借 Lead 2 (sawtooth)（Virtual Analog 的经典形态）；「零硬件」「反作用力」在固定采样里听不出来。实例 002994《算盘子》（算盘=算波形）/000081《绣花灯》（屏幕里绣一台琴）/000619（人心的回摆）（均 C3 参照）
-updated: 2026-10-15
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -103,10 +103,10 @@ ReBirth RB-338 是 Propellerhead 做的：两台 303 加一台 808，界面照�
 
 ## 完美的数字，更贵的模拟
 
-九十年代的合成器把真实和模仿看得比可用性和性格更重，做出来的声音干净、方便，也容易忘。软件把数字做到了完美，反手让不完美的模拟变贵——rave 圈抢购二手模拟琴，十年后 Moog、Korg、Arturia 又开始卖平价新机。
+比较软件与硬件合成器时，先看合成方式、复音数、调制路径、控制器映射和工程保存方式。同一个软件预设可以随工程恢复；硬件则还要记录设备状态与连接。声音是否合适应放回编曲中判断，不能用“数字完美、模拟有性格”概括，也不能把二手价格变化归因于一种技术。
 
 ```audiolab
-{"type": "instrument", "gm": "Lead 2 (sawtooth)", "synth": "bowed", "phrase": ["C3", "D3", "E3", "G3", "A3", "C4", "D4"], "label": "屏幕里的锯齿波：代码即乐器（借锯齿 lead 近似）", "hint": "软件合成器的本质是「合成器从一台机器变成一段代码」——这条锯齿 lead 采样取其「Virtual Analog 的经典形态」。真实软件合成器的两样特征这里听不出来：一是它的「零硬件」——这段声音不需要任何琴，只需要一次计算；二是它的反作用力——正因为软件造出「完美的数字」，二手模拟琴才涨成了天价。", "label_en": "The sawtooth inside the screen — code as instrument (a sawtooth lead stands in)", "hint_en": "The software synthesizer's essence is 「the synthesizer became code」 — this sawtooth lead takes the classic Virtual Analog form. Two things are absent: its zero hardware — this sound needs no instrument, only one computation — and its counter-force: precisely because software made 「the perfect digital」, second-hand analogs rose to fortunes."}
+{"type":"instrument","gm":"Lead 2 (sawtooth)","synth":"bowed","phrase":["C3","D3","E3","G3","A3","C4","D4"],"label":"锯齿波Lead音色短句","hint":"先辨认锯齿波音色的起音与持续部分，再比较同一旋律使用其他音色时的差别。软件计算声音仍需要处理器、音频设备与适当缓冲；“软件”不等于没有硬件。","label_en":"A sawtooth-lead phrase","hint_en":"Identify the attack and sustained part of the sawtooth sound, then compare the melody with another sound. Software generation still needs a processor, audio device and suitable buffering; software does not mean no hardware."}
 ```
 
 一台笔记本现在能装下整间录音棚。决定一首歌像谁的，还是那几个旋钮被拧到了哪里。
@@ -189,10 +189,10 @@ In 1995 Clavia's Nord Lead used DSP to model the oscillators and filters of old 
 
 ## Perfect digital, dearer analog
 
-Synthesizers of the nineties valued realism and imitation above usability and character; the results were clean, convenient and easy to forget. Software made digital perfect and, in doing so, made imperfect analog expensive — the rave scene bought up second-hand analog synths, and a decade later Moog, Korg and Arturia were selling affordable new ones.
+Compare software and hardware through synthesis method, polyphony, modulation routing, controller mapping and how patches are recalled with a project. A software preset can be restored with the session; hardware also requires its state and connections to be recorded. Judge a sound in the arrangement rather than treating digital as perfect and analog as inherently characterful, or assigning second-hand price changes to one technology.
 
 ```audiolab
-{"type": "instrument", "gm": "Lead 2 (sawtooth)", "synth": "bowed", "phrase": ["C3", "D3", "E3", "G3", "A3", "C4", "D4"], "label": "屏幕里的锯齿波：代码即乐器（借锯齿 lead 近似）", "hint": "软件合成器的本质是「合成器从一台机器变成一段代码」——这条锯齿 lead 采样取其「Virtual Analog 的经典形态」。真实软件合成器的两样特征这里听不出来：一是它的「零硬件」——这段声音不需要任何琴，只需要一次计算；二是它的反作用力——正因为软件造出「完美的数字」，二手模拟琴才涨成了天价。", "label_en": "The sawtooth inside the screen — code as instrument (a sawtooth lead stands in)", "hint_en": "The software synthesizer's essence is 「the synthesizer became code」 — this sawtooth lead takes the classic Virtual Analog form. Two things are absent: its zero hardware — this sound needs no instrument, only one computation — and its counter-force: precisely because software made 「the perfect digital」, second-hand analogs rose to fortunes."}
+{"type":"instrument","gm":"Lead 2 (sawtooth)","synth":"bowed","phrase":["C3","D3","E3","G3","A3","C4","D4"],"label":"锯齿波Lead音色短句","hint":"先辨认锯齿波音色的起音与持续部分，再比较同一旋律使用其他音色时的差别。软件计算声音仍需要处理器、音频设备与适当缓冲；“软件”不等于没有硬件。","label_en":"A sawtooth-lead phrase","hint_en":"Identify the attack and sustained part of the sawtooth sound, then compare the melody with another sound. Software generation still needs a processor, audio device and suitable buffering; software does not mean no hardware."}
 ```
 
 A laptop now holds a whole studio. What decides who a record sounds like is still which knobs somebody turned, and how far.

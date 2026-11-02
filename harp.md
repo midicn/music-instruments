@@ -4,8 +4,8 @@ site: inst
 cat: I1
 title: 竖琴
 title_en: Harp
-summary: 四十七根弦、七个踏板的三角框架拨弦乐器，弦只按自然音阶排列
-summary_en: Forty-seven strings and seven pedals on a triangular frame — the strings carry only the diatonic scale
+summary: 常见音乐会竖琴有47根弦、7个踏板，每个踏板控制同名弦的降、还原、升三档
+summary_en: A concert pedal harp commonly has 47 strings and seven pedals controlling flat, natural and sharp settings for each note name
 level: core
 tags: [乐器, 弦乐, 西洋]
 tags_en: [instrument, strings, western]
@@ -26,18 +26,22 @@ instances:
   - pdmx-000439 | 竖琴与乐队的作品，能听到它在合奏里如何用琶音铺开和声
   - giantmidi-002931 | 竖琴的沙龙风格小品，句法短、装饰多，是这件乐器 19 世纪最常见的用途
 sources:
+  - "https://midi.org/general-midi-level-1"
+  - "https://www.salviharps.com/wp-content/uploads/2016/05/aurora.pdf"
+  - "https://www.vsl.co.at/academy/strings/harp"
+  - "https://mtosmt.org/issues/mto.16.22.4/mto.16.22.4.gotham.html"
   - 音乐会踏板竖琴取通行制琴数据：47 根弦、音域 C♭1–G♯7（六个半八度），弦长从约 1,470 毫米（最低）递减到 69 毫米（最高）
   - 「七个踏板分别控制 D C B 与 E F G A 七个音名，每个踏板三档（降／还原／升）」属通行乐器学常识，各版乐器词典表述一致
   - 「弦按降 C 大调自然音阶排列，八度内只有七个音，靠踏板取得全部半音」依通行竖琴演奏法与制琴规范
   - ⚠️ 库内没有标题或作曲家可确认为竖琴的曲目 —— 本条给出的是**同族拨弦曲目**，音色由试听件负责
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
 
 ## 四十七根弦，一个三角
 
-竖琴的音高在造琴时就定死了，每根弦只发一个音。演奏者不按弦、不换把、不用弓，两手只做一件事：拨。所有半音都靠脚下七个踏板改变弦的张力。
+这里介绍音乐会常用的双动踏板竖琴。它通常有 47 根弦，以手指拨奏，没有按弦指板。七个踏板通过琴颈内的机械装置转动带销圆盘，夹住琴弦、缩短有效振动长度，使同名弦由降音升到还原、再升到升音；不是靠把弦越拉越紧来换半音。
 
 | 分类 | 归属 |
 |---|---|
@@ -131,13 +135,13 @@ updated: 2026-09-26
     <text x="180" y="273" text-anchor="end">中音区（最常弹的一段）</text>
     <text x="180" y="395" text-anchor="end">底座</text>
     <text x="180" y="433" text-anchor="end">踏板盒 · 七个踏板</text>
-    <text x="600" y="153" text-anchor="end">前柱（承受全部弦张力）</text>
+    <text x="600" y="153" text-anchor="end">前柱（框架受力部件）</text>
   </g>
-  <text x="20" y="462" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">四十七根弦合计约 10 吨张力，全压在柱上 —— 所以竖琴的柱既是结构件，也是它的外形特征。</text>
+  <text x="20" y="462" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">琴颈、前柱、共鸣箱与底座共同组成受力框架，不能把弦张力只归到前柱。</text>
 </svg>
 ```
 
-四十七根弦合计约十吨张力，全压在前柱上。弦长从低音的一米四七递减到高音的七厘米，相差二十倍，所以低音厚、高音细。同一段旋律在两头弹，像两件不同的乐器。
+琴颈、前柱、共鸣箱与底座共同构成受力框架。弦的长度、材料、粗细和张力按音区配置，低音常用金属缠弦，上方使用肠弦或合成材料；不能把所有弦的总张力说成“十吨全压在柱上”。
 
 ## 七个踏板
 
@@ -182,17 +186,17 @@ updated: 2026-09-26
 
 弦按降 C 大调的自然音阶排，一个八度只有七个音。要弹别的音，用踏板把某个音名的所有弦升或降一个半音。七个踏板各管一个音名，每个三档。
 
-于是和声必须提前准备。要弹降 D 大调，得先把 D、E、G 三个踏板踩下去。脚因此成了独立的第三只手，竖琴谱上的踏板记号与音符一样重要。
+踏板要按即将出现的音提前安排。降 D 大调需要 D♭、E♭、G♭、A♭、B♭，以及 C♮、F♮；若从全部踏板抬起的降 C 大调状态出发，只把 C、F 踏板移到还原档。起始设置不同，脚的动作也不同。
 
 还有一条更硬的限制：**同一个音名在全音域只有一个状态**。低音是还原 C，高音就不可能是升 C。写竖琴的人得先定下七个音名各自的状态，再动笔。
 
 ## 音域
 
 ```range
-{"range":"C♭1–G♯7","caption":"音乐会竖琴的音域（47 根弦，六个半八度）","caption_en":"Concert harp range — 47 strings, six and a half octaves","note":"最低的 C♭1 是最长的那根弦，最高的 G♯7 只有约 7 厘米长。竖琴不是移调乐器，记谱音与实际音高相同。"}
+{"range":"C1–G7","caption":"47 弦竖琴弦列的自然音范围示意","caption_en":"Natural-note string compass of a 47-string harp","note":"按自然音状态概括弦列，踏板和最低弦配置需查具体型号；竖琴通常按实音记谱。"}
 ```
 
-C♭1 到 G♯7，六个半八度，管弦乐队里除钢琴之外最宽的音域之一。谱面用大谱表，上下两行是左右手，不是高低音区，两只手都能弹整个音域。
+47 弦音乐会竖琴通常以 C1–G7 标示自然音状态的弦列范围，踏板与最低弦的配置会影响实际端点，具体要查型号。乐谱用大谱表，通常分配两手，但谱表不等于不可跨越的手区；手的分配要按音区和可达距离安排。
 
 宽不等于自由。音域越宽，一个音名只有一个状态这条限制影响的面越大。
 
@@ -200,12 +204,12 @@ C♭1 到 G♯7，六个半八度，管弦乐队里除钢琴之外最宽的音�
 
 拨一次，声音在两三秒里退去，前面的音还在响，后面的音已经来了，和声因此容易糊在一起。好的写作会利用这一点，也会用手掌捂弦避开它。
 
-大部分传统不用小指，八根手指工作，指法分配与钢琴完全不同。滑奏是它的招牌：踏板定好之后，指甲在弦列上刮过去，得到的永远是同一个和弦的所有音。
+传统踏板竖琴通常用每手拇指到无名指，共八指，小指一般不参与。滑奏可用指腹或指甲等不同触弦方式；踏板决定经过哪些音。全部踏板在还原档时，是 C 大调自然音阶的滑奏，并非“永远是一个和弦”；通过等音替换，还可安排某些和弦性滑奏。
 
 今天这台乐器的形状来自 1810 年前后 Érard 的**双动踏板**。在那之前，一首曲子里频繁转调是竖琴的禁区；在此之后，它才成为管弦乐队里那个能随时换调的角色。
 
 ```audiolab
-{"type":"instrument","synth":"plucked","phrase":["C3","G3","C4","E4","G4","C5"],"label":"琶音：竖琴最典型的音响","label_en":"An arpeggio — the harp's signature sound","hint":"GM 音色表里没有竖琴，这里是合成近似。注意每个音都留着余音 —— 它们叠在一起就是竖琴的「和声感」","hint_en":"The GM palette has no harp, so this is the synthesised approximation. Notice how every note keeps ringing — that layering is a harp's harmony."}
+{"type":"instrument","synth":"plucked","phrase":["C3","G3","C4","E4","G4","C5"],"label":"琶音：竖琴最典型的音响","label_en":"An arpeggio — the harp's signature sound","hint":"GM 有 Orchestral Harp（第47号，零起算46）。此处为合成/GM试听，用来辨认琶音的音高次序与余响，不是真实竖琴录音。","hint_en":"GM includes Orchestral Harp (program 47, zero-based 46). This synthesised/GM example illustrates arpeggio order and resonance, not a recording of a real harp.","gm":"Orchestral Harp"}
 ```
 
 :::
@@ -214,7 +218,7 @@ C♭1 到 G♯7，六个半八度，管弦乐队里除钢琴之外最宽的音�
 
 ## Forty-seven strings on a triangle
 
-A harp's pitches are fixed at the workshop: each string sounds one note. Nothing is stopped or bowed; the hands only pluck. Every semitone comes from seven pedals that change string tension.
+This page describes the double-action concert pedal harp, commonly with 47 strings, plucked by the fingers and without a fingerboard. Seven pedals operate mechanisms in the neck that rotate pinned discs, shorten vibrating string length and raise a note from flat to natural to sharp. Semitone changes do not work by progressively tightening the strings.
 
 | Classification | Value |
 |---|---|
@@ -301,13 +305,13 @@ A harp's pitches are fixed at the workshop: each string sounds one note. Nothing
     <text x="180" y="273" text-anchor="end">Middle register (the workhorse)</text>
     <text x="180" y="395" text-anchor="end">Base</text>
     <text x="180" y="433" text-anchor="end">Pedal box · seven pedals</text>
-    <text x="600" y="153" text-anchor="end">Pillar (takes all the tension)</text>
+    <text x="600" y="153" text-anchor="end">Pillar (part of the frame)</text>
   </g>
-  <text x="20" y="462" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">47 strings pull about ten tonnes in total, all of it landing on the pillar — structure and silhouette at once.</text>
+  <text x="20" y="462" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Neck, pillar, soundbox and base form a load-bearing frame; tension is not borne by the pillar alone.</text>
 </svg>
 ```
 
-Forty-seven strings pull about ten tonnes onto the pillar. String length runs from roughly 1.47 m at the bottom to 7 cm at the top, a factor of twenty, so the bass is thick and the treble thin. The same melody at the two ends sounds like two instruments.
+Neck, pillar, soundbox and base form the load-bearing frame. String length, material, gauge and tension vary by register: bass strings are often wire-wound, with gut or synthetic strings above. Their combined tension is not accurately described as ten tonnes all borne by the pillar.
 
 ## Seven pedals
 
@@ -351,17 +355,17 @@ Forty-seven strings pull about ten tonnes onto the pillar. String length runs fr
 
 The strings carry the diatonic scale of C♭ major, seven notes to the octave. To reach anything else, a pedal raises or lowers every string of one note name by a semitone. Seven pedals, one per name, three positions each.
 
-Harmony must be prepared. To play in D♭ major you press the D, E and G pedals first. The feet become a third hand, and pedal markings matter as much as notes.
+Plan pedals for the coming notes. D♭ major needs D♭, E♭, G♭, A♭ and B♭, with C♮ and F♮. Starting with all pedals raised in C♭ major, move only C and F to natural. The necessary foot movements depend on the starting configuration.
 
 A harder rule: a note name has one state across the whole range. If the low C is natural, no C above it can be sharp. Anyone writing for harp settles the state of all seven names before writing a bar.
 
 ## Range
 
 ```range
-{"range":"C♭1–G♯7","caption":"音乐会竖琴的音域（47 根弦，六个半八度）","caption_en":"Concert harp range — 47 strings, six and a half octaves","note":"最低的 C♭1 是最长的那根弦，最高的 G♯7 只有约 7 厘米长。竖琴不是移调乐器，记谱音与实际音高相同。"}
+{"range":"C1–G7","caption":"47 弦竖琴弦列的自然音范围示意","caption_en":"Natural-note string compass of a 47-string harp","note":"按自然音状态概括弦列，踏板和最低弦配置需查具体型号；竖琴通常按实音记谱。"}
 ```
 
-C♭1 to G♯7, six and a half octaves, among the widest ranges in the orchestra after the piano. The music is laid out on a grand staff, but the two staves are the two hands, not two registers; either hand can reach anywhere.
+A 47-string concert harp is commonly described by the natural-note string compass C1–G7. Actual endpoint alterations depend on the pedal and lowest-string configuration of the model. A grand staff commonly allocates the two hands, but does not impose fixed hand territories; use register and reach to decide the distribution.
 
 Wide is not free. The wider the range, the further the one-state rule reaches.
 
@@ -369,12 +373,12 @@ Wide is not free. The wider the range, the further the one-state rule reaches.
 
 One pluck rings for two or three seconds, so earlier notes are still sounding when later ones arrive and harmonies blur together. Good writing exploits that wash, or damps it with the palm.
 
-Most traditions leave out the little finger — it cannot reach — so eight fingers work, and fingering departs from piano logic. The glissando is the signature: with the pedals set, a fingernail swept across the strings gives every note of **one chord** at once.
+Traditional pedal-harp technique normally uses thumb through ring finger on each hand, eight fingers in total. Glissandi may use flesh or nail for different colours. Pedals determine the notes crossed: all-natural pedals give the C-major diatonic collection, not necessarily one chord. Enharmonic settings also allow certain chordal glissandi.
 
 The instrument's modern shape comes from Érard's double-action pedal, around 1810. Before it, music that modulated often was closed to the harp; afterwards the orchestra had an instrument that could follow any key.
 
 ```audiolab
-{"type":"instrument","synth":"plucked","phrase":["C3","G3","C4","E4","G4","C5"],"label":"琶音：竖琴最典型的音响","label_en":"An arpeggio — the harp's signature sound","hint":"GM 音色表里没有竖琴，这里是合成近似。注意每个音都留着余音 —— 它们叠在一起就是竖琴的和声感","hint_en":"The GM palette has no harp, so this is the synthesised approximation. Notice how every note keeps ringing — that layering is a harp's harmony."}
+{"type":"instrument","synth":"plucked","phrase":["C3","G3","C4","E4","G4","C5"],"label":"琶音：竖琴最典型的音响","label_en":"An arpeggio — the harp's signature sound","hint":"GM 有 Orchestral Harp（第47号，零起算46）。此处为合成/GM试听，用来辨认琶音的音高次序与余响，不是真实竖琴录音。","hint_en":"GM includes Orchestral Harp (program 47, zero-based 46). This synthesised/GM example illustrates arpeggio order and resonance, not a recording of a real harp.","gm":"Orchestral Harp"}
 ```
 
 :::

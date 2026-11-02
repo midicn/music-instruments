@@ -26,13 +26,16 @@ instances:
   - lakh-000358 | Ding Dong Merrily on High（中音萨克斯与钢琴）—— 听它在抒情旋律里的音色
   - giantmidi-006221 | Saxophone Sonata —— 未指明声部的萨克斯独奏文献
 sources:
+  - "https://phys.unsw.edu.au/jw/flutes.v.clarinets.html"
+  - "https://www.yamaha.com/en/musical_instrument_guide/saxophone/mechanism/"
+  - "https://www.yamaha.com/en/musical_instrument_guide/saxophone/play/play003.html"
   - 结构依通行制琴资料：管身为**黄铜圆锥管**，向上折返一次，末端喇叭口朝上外张；吹嘴为硬质，单片芦竹簧绑在吹嘴上
   - 「中音萨克斯为降 E 调移调乐器，记谱比实音高大六度」依通行配器资料
   - 「音域记谱 B♭3–F♯6（实音 D♭3–A♭5）」依通行配器资料
   - 「萨克斯各族成员的记谱音域相同，因而指法通用」依通行配器惯例
   - 「萨克斯由 Adolphe Sax 在 1840 年代发明，1846 年取得专利」依乐器史
   - ⚠️ 库内标题可确认为中音萨克斯的曲目有限，其中一条在 study 区（C3）—— 因中音萨克斯的古典独奏文献本就稀少，而该条能呈现它在抒情旋律里的典型音色，故按 R8 选用并写明理由
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -90,7 +93,7 @@ updated: 2026-09-26
     <text x="492" y="179">管身逐渐加粗（圆锥）</text>
     <text x="492" y="315">按键与联动杆</text>
   </g>
-  <text x="20" y="404" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">管身一开始细、越往下越粗 —— 这个锥度是靠金属加工做出来的，木质乐器很难做成这样。</text>
+  <text x="20" y="404" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">管身内径总体向喇叭口扩大；金属便于制作弯管与键系。</text>
   <text x="20" y="426" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">正是圆锥管让它"超吹得八度"，音区过渡因此比单簧管平滑得多。</text>
 </svg>
 ```
@@ -109,7 +112,7 @@ updated: 2026-09-26
 ```svg
 <svg viewBox="0 0 640 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="萨克斯四支的实音音域对比：高音、中音、次中音、上低音各自的位置，而记谱音域完全相同">
   <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
-    <text x="20" y="22">四支萨克斯的实音音域（记谱音域四支完全相同）</text>
+    <text x="20" y="22">四支萨克斯的实音范围示意（配置依型号而变）</text>
   </g>
   <rect x="179" y="58" width="401" height="22" rx="3" fill="#17171A" stroke="#5B7FA8" stroke-width="1.3"/>
   <text x="188" y="74" font-size="10.5" fill="#5B7FA8">高音 · 降 B 调 · 实音 A♭3–E6</text>
@@ -128,18 +131,18 @@ updated: 2026-09-26
     <text x="106" y="286">C2</text><text x="216" y="286">C3</text><text x="325" y="286">C4</text>
     <text x="434" y="286">C5</text><text x="543" y="286">C6</text>
   </g>
-  <text x="20" y="312" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">四支的实音位置相差很大（最上最下差两个八度），但谱面上全都是 B♭3–F♯6 —— 一模一样。</text>
-  <text x="20" y="332" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">这正是萨克斯族最优雅的设计：一套指法走遍全族，换乐器不用换脑子。</text>
+  <text x="20" y="312" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">图示按谱面 B♭3–F♯6 计算；低 A、高 F♯ 等键会随型号而变。</text>
+  <text x="20" y="332" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">基本指法可迁移；更换乐器仍需适应吹嘴、气流与音准。</text>
 </svg>
 ```
 
 上面这张图是理解整个萨克斯族的钥匙：
 
-- 四支的记谱音域完全相同（都写 B♭3–F♯6）；
-- 但实音各不相同：高音比中音高、次中音比中音低、上低音再低一档；
-- 于是 一套指法、一套视谱习惯，走遍全族 —— 演奏者换支只需适应体量与气息，不必重学乐器。
+- 四支的基本指法相通；常见键系可覆盖谱面 B♭3–F6，带高 F♯ 键的型号可到 F♯6。
+- 上低音的低 A 键等配置会改变下限，高音区也有扩展指法，所以不能说所有型号的范围完全一致。
+- 更换乐器时，吹嘴、哨片、气流和音准仍需重新适应。
 
-这与[[instrument:clarinet|单簧管族]]正好相反：那边三支的记谱各不相同（大二度 / 小三度 / 大九度）。
+单簧管族也采用相同思路：基本指法与谱面音可迁移，实际移调随乐器而变。以谱面 C4 为例，高音萨克斯响 B♭3，中音响 E♭3，次中音响 B♭2，上低音响 E♭2。
 
 ## 音域
 
@@ -287,7 +290,7 @@ Two things about it are commonly misread: **it is made of metal yet belongs to t
     <text x="492" y="179">Body widening (conical)</text>
     <text x="492" y="315">Keys and rods</text>
   </g>
-  <text x="20" y="404" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The body starts narrow and widens downward — a taper that metalworking makes easy and wood does not.</text>
+  <text x="20" y="404" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The bore generally widens towards the bell; metalwork accommodates bends and keywork.</text>
   <text x="20" y="426" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">That cone is why it overblows an octave, and why its registers blend far more smoothly than a clarinet's.</text>
 </svg>
 ```
@@ -307,7 +310,7 @@ Three points:
 ```svg
 <svg viewBox="0 0 640 340" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sounding ranges of the four saxophones compared, while their written ranges are all identical">
   <g font-family="system-ui,sans-serif" font-size="11.5" fill="#A9A49B">
-    <text x="20" y="22">Sounding ranges of the four saxes (written range identical for all)</text>
+    <text x="20" y="22">Sounding ranges of four saxes (model-dependent keywork)</text>
   </g>
   <rect x="179" y="58" width="401" height="22" rx="3" fill="#17171A" stroke="#5B7FA8" stroke-width="1.3"/>
   <text x="188" y="74" font-size="10.5" fill="#5B7FA8">Soprano · B♭ · sounding A♭3–E6</text>
@@ -326,20 +329,18 @@ Three points:
     <text x="106" y="286">C2</text><text x="216" y="286">C3</text><text x="325" y="286">C4</text>
     <text x="434" y="286">C5</text><text x="543" y="286">C6</text>
   </g>
-  <text x="20" y="312" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The four sit two octaves apart in sound, yet every one of them is written B♭3–F♯6 — identical.</text>
-  <text x="20" y="332" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">That is the family's elegant trick: one fingering chart serves all, so switching needs no new learning.</text>
+  <text x="20" y="312" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">The chart assumes written B♭3–F♯6; low-A and high-F♯ keywork vary by model.</text>
+  <text x="20" y="332" font-family="system-ui,sans-serif" font-size="11" fill="#6E6A64">Basic fingerings transfer; mouthpiece, air and tuning still need adjustment.</text>
 </svg>
 ```
 
 This diagram is the key to the whole family:
 
-- All four share the same written range (B♭3–F♯6);
-- but each sounds at a different pitch — soprano above alto, tenor below it, baritone lower still;
-- so one fingering chart and one reading habit serve the whole family — a player switching instruments
-  adapts only to size and air, not to a new instrument.
+- Basic fingerings transfer across the four instruments. Common keywork spans written B♭3–F6; a high-F♯ key extends this to F♯6.
+- Features such as a baritone low-A key change the bottom, and altissimo fingerings extend the top. Not every model has exactly the same compass.
+- Mouthpiece, reed, air and intonation still need adjustment when changing instruments.
 
-This is the exact opposite of the [[instrument:clarinet|clarinet family]], where the three members are each
-written differently (a major second, a minor third, a major ninth).
+The clarinet family uses the same general approach: basic fingerings transfer while the transposition changes. For written C4, soprano sax sounds B♭3, alto E♭3, tenor B♭2 and baritone E♭2.
 
 ## Range
 

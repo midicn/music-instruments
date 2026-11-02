@@ -4,8 +4,8 @@ site: inst
 cat: I4
 title: 马林巴
 title_en: Marimba
-summary: 软木条加长共鸣管的体鸣乐器，音色暖厚、余音长，能奏复调
-summary_en: Softer wooden bars over long resonators — warm, resonant, and capable of polyphony
+summary: 玫瑰木等硬木或合成材料琴条配共鸣管，可演奏旋律与和声
+summary_en: Rosewood or synthetic bars over resonators, supporting both melody and harmony
 level: standard
 tags: [乐器, 打击, 西洋]
 tags_en: [instrument, percussion, western]
@@ -25,18 +25,19 @@ instances:
   - giantmidi-000156 | Pequeña danza para marimbas —— 马林巴重奏的写法
   - pdmx-000746 | 霍尔斯特《行星组曲》Op.32 —— 配器里打击乐丰富，可对照马林巴在管弦乐里的位置
 sources:
+  - "https://www.yamaha.com/en/musical_instrument_guide/marimba/"
   - 结构依通行制琴资料：**木质条**（比木琴更软更厚）按音高排列，下方各有**共鸣管**（低音区常达一米以上，部分形制用弯管）；用软头或中硬头琴槌击奏
   - 「马林巴属**体鸣**的有音高乐器」依 Hornbostel–Sachs 分类
   - 「常见音域 C2–C7（视琴的组数，常见 4 组至 5 组半）」依通行乐器资料
   - 「四槌技术使其能演奏和声与复调，因此成为独奏乐器」依通行演奏惯例
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
 马林巴是[[instrument:xylophone|木琴]]的近亲，但两者的性格几乎相反：
 **木琴要"点"，马林巴要"线"。**
 
-差别来自两个物理量：**共鸣管更长**、**木条更软更厚**。
+差别来自两个物理量：**共鸣管更长**、**琴条的尺寸与底部削槽方式不同**。
 于是它得到了木条一族里最**暖、最厚、余音最长**的音色 —— 也因此能当独奏乐器。
 
 | 分类 | 归属 |
@@ -84,7 +85,7 @@ updated: 2026-09-26
     <path d="M486,56 L498,72"/>
   </g>
   <g font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">
-    <text x="180" y="53" text-anchor="end">木质琴条（更软更厚）</text>
+    <text x="180" y="53" text-anchor="end">琴条尺寸与底部削槽影响音色</text>
     <text x="180" y="111" text-anchor="end" fill="#9C7A3C">琴条越短音越高</text>
     <text x="180" y="253" text-anchor="end" fill="#5B7FA8">共鸣管（低音超一米）</text>
     <text x="180" y="319" text-anchor="end">软头或中硬头琴槌</text>
@@ -98,7 +99,7 @@ updated: 2026-09-26
 
 1. 低音区的共鸣管极长（可超过一米）。管越长，低频共鸣越充分 →
    声音被"留住"得更久 → 余音长。
-2. 琴条更软更厚（比木琴）。软材料的高频少、基频强 → 音色更暖。
+2. 琴条常用玫瑰木等硬木，也有合成材料。尺寸和底部削槽会改变振动模态；不能按“软木比硬木暖”来区分马林巴与木琴。
 3. 用软头槌。这是与木琴的另一个关键差别：软头 + 长共鸣 = 温暖绵长的声音。
 
 ## 四槌：它为什么能当独奏乐器
@@ -158,7 +159,7 @@ updated: 2026-09-26
    这一点让它在室内乐与爵士里都能承担"和声乐器"的角色。
 
 ```audiolab
-{"type":"instrument","gm":"Marimba","synth":"struck","phrase":["C3","E3","G3","C4","E4","G4"],"label":"马林巴的常用区：C3 到 G4","label_en":"The marimba's working register — C3 up to G4","hint":"注意比木琴暖厚得多、余音也长得多 —— 同样的结构，共鸣管长度不同","hint_en":"Hear how much warmer and longer than a xylophone — same structure, different resonator length."}
+{"type":"instrument","gm":"Marimba","synth":"struck","phrase":["C3","E3","G3","C4","E4","G4"],"label":"马林巴的常用区：C3 到 G4","label_en":"The marimba's working register — C3 up to G4","hint":"听每个音的起音与衰减，并与木琴音色比较。真实马林巴的音色受琴条尺寸、削槽、槌头与共鸣管共同影响，不能只归因于管长。","hint_en":"Compare each note’s attack and decay with a xylophone sound. Real marimba tone depends on bar dimensions, undercutting, mallets and resonators, not resonator length alone."}
 ```
 
 ## 演奏技法
@@ -173,7 +174,7 @@ updated: 2026-09-26
 | 乐器 | 材料 | 共鸣管 | 音域 | 音色 |
 |---|---|---|---|---|
 | [[instrument:xylophone\|木琴]] | 硬木 | 短 | F4–C8 | 干、脆 |
-| **马林巴** | 软木 | **长** | **C2–C7** | 暖、厚 |
+| **马林巴** | 玫瑰木等硬木或合成材料 | **长** | **C2–C7** | 暖、厚 |
 | [[instrument:vibraphone\|颤音琴]] | 金属 | 长 + 旋转阀 | F3–F6 | 金属、闪烁 |
 | [[instrument:glockenspiel\|钟琴]] | 钢 | — | G5–C8 | 极亮 |
 | [[instrument:celesta\|钢片琴]] | 钢片（键盘） | 共鸣箱 | C3–C8 | 玻璃般 |
@@ -217,7 +218,7 @@ updated: 2026-09-26
 The marimba is the [[instrument:xylophone|xylophone]]'s close relative, but their characters are nearly
 opposite: **the xylophone wants points, the marimba wants lines.**
 
-The difference comes from two physical quantities: **longer resonators** and **softer, thicker bars**. Those
+The difference comes from two physical quantities: **longer resonators** and **different bar dimensions and undercut profiles**. Those
 give it the wooden-bar family's **warmest, thickest, longest-tailed** tone — and the ability to be a **solo
 instrument**.
 
@@ -268,7 +269,7 @@ instrument**.
     <path d="M486,56 L498,72"/>
   </g>
   <g font-family="system-ui,sans-serif" font-size="11" fill="#A9A49B">
-    <text x="180" y="53" text-anchor="end">Softer, thicker wooden bars</text>
+    <text x="180" y="53" text-anchor="end">Bar shape and dimensions</text>
     <text x="180" y="111" text-anchor="end" fill="#9C7A3C">Shorter bar, higher note</text>
     <text x="180" y="253" text-anchor="end" fill="#5B7FA8">Resonators, over a metre</text>
     <text x="180" y="319" text-anchor="end">Soft or medium mallets</text>
@@ -282,8 +283,8 @@ Three points:
 
 1. Extremely long bass resonators (over a metre). Longer tubes resonate lower frequencies more fully →
    the sound is held longer → a long tail.
-2. Softer, thicker bars than a xylophone's. A softer material has fewer high frequencies and a stronger
-   fundamental → a warmer tone.
+2. Bars are commonly rosewood or synthetic material. Their dimensions and underside profiles shape vibration; the distinction from a xylophone is not simply soft versus hard wood.
+
 3. Soft mallets. Another key difference from the xylophone: soft heads plus long resonators give the warm,
    sustained sound.
 
@@ -344,7 +345,7 @@ Four cues:
 4. Real weight in the bass, letting it act as a harmonic instrument in chamber music and jazz.
 
 ```audiolab
-{"type":"instrument","gm":"Marimba","synth":"struck","phrase":["C3","E3","G3","C4","E4","G4"],"label":"马林巴的常用区：C3 到 G4","label_en":"The marimba's working register — C3 up to G4","hint":"注意比木琴暖厚得多、余音也长得多 —— 同样的结构，共鸣管长度不同","hint_en":"Hear how much warmer and longer than a xylophone — same structure, different resonator length."}
+{"type":"instrument","gm":"Marimba","synth":"struck","phrase":["C3","E3","G3","C4","E4","G4"],"label":"马林巴的常用区：C3 到 G4","label_en":"The marimba's working register — C3 up to G4","hint":"听每个音的起音与衰减，并与木琴音色比较。真实马林巴的音色受琴条尺寸、削槽、槌头与共鸣管共同影响，不能只归因于管长。","hint_en":"Compare each note’s attack and decay with a xylophone sound. Real marimba tone depends on bar dimensions, undercutting, mallets and resonators, not resonator length alone."}
 ```
 
 ## Playing techniques
@@ -360,7 +361,7 @@ Four cues:
 | Instrument | Material | Resonators | Range | Colour |
 |---|---|---|---|---|
 | [[instrument:xylophone\|Xylophone]] | hard wood | short | F4–C8 | dry, brittle |
-| **Marimba** | softer wood | **long** | **C2–C7** | warm, thick |
+| **Marimba** | rosewood or synthetic material | **long** | **C2–C7** | warm, thick |
 | [[instrument:vibraphone\|Vibraphone]] | metal | long + vanes | F3–F6 | metallic, shimmering |
 | [[instrument:glockenspiel\|Glockenspiel]] | steel | — | G5–C8 | very bright |
 | [[instrument:celesta\|Celesta]] | steel plates (keyboard) | soundbox | C3–C8 | glassy |

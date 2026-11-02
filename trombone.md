@@ -4,8 +4,8 @@ site: inst
 cat: I3
 title: 长号
 title_en: Trombone
-summary: 用滑管连续改变管长的铜管，唯一能真正滑音的一件
-summary_en: The brass whose slide changes the tube continuously — the only one that can truly glide
+summary: 以滑管连续改变管长的铜管，管弦乐中通常按实音记谱
+summary_en: A brass instrument with a slide that continuously changes tube length, normally written at concert pitch in orchestras
 level: standard
 tags: [乐器, 铜管, 西洋, 爵士]
 tags_en: [instrument, brass, western, jazz]
@@ -26,12 +26,15 @@ instances:
   - pdmx-000142 | Lassus Trombone —— 长号最著名的"滑音"招牌曲之一
   - pdmx-002415 | 为两支科尔内管与长号而作的坎佐纳 —— 文艺复兴时期的写法，那时它叫 sackbut
 sources:
+  - "https://www.vsl.co.at/academy/brass/trumpet-c"
+  - "https://www.vsl.co.at/academy/brass/horn-f"
+  - "https://www.vsl.co.at/academy/brass/tenor-trombone"
   - 结构依通行制琴资料：管身展开约 2.7 米，靠**滑管（slide）**连续改变管长；管身以圆柱为主 + 圆锥喇叭口，杯形号嘴
   - 「长号是降 B 调乐器，但**按 C 调实音记谱**（不移调）」依通行配器资料
   - 「次中音长号音域约 E2–B♭4」依通行配器资料
   - 「滑管由七个把位构成，每个把位把音高降低一个半音；取哪个音仍由泛音列决定」依管乐器声学
   - 「长号的基本形制自 15 世纪的萨克布特（sackbut）以来变化极小，是最古老的仍在使用中的管乐器之一」依乐器史
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -48,11 +51,7 @@ updated: 2026-09-26
 | **所属族** | 西洋 · 铜管（长号族） |
 | **八音** | 不适用 —— 周代八音是中国乐器的体系，长号不在其中 |
 
-> ⚠️ 一个概念上的要点：长号是降 B 调乐器，却按 C 调实音记谱。
-> 它的基音是降 B（与[[instrument:trumpet|降 B 小号]]一样），但管弦乐里不替它移调 ——
-> 谱面写什么音，实际就响什么音。
-> 所以判断一件乐器的记谱方式，永远只能查惯例，不能从"调性"推 ——
-> 这一点在木管那一批里已经出现过（[[instrument:oboe-damore|柔音管]]也是 A 调却按实音记谱）。
+> 降 B 次中音长号的空管基音为 B♭1，管弦乐中通常仍按实音记谱。英国铜管乐队的次中音长号则常用降 B 高音谱号移调记谱，读谱时要确认版本。A 调柔音双簧管通常低小三度发声，不能把它当作“有调名却不移调”的对照。
 
 ## 结构：滑管、把位与喇叭口
 
@@ -137,15 +136,13 @@ updated: 2026-09-26
 
 把位与活塞的关系值得讲清：
 
-| | 活塞铜管 | 长号 |
+| 比较 | 阀门铜管 | 滑管长号 |
 |---|---|---|
-| 改变管长的方式 | 接入固定长度的额外管 | **连续推拉滑管** |
-| 可选管长 | 七种（离散） | **无限多种（连续）** |
-| 能否滑音 | 不能（只能快速换音） | **能** |
-| 音准修正 | 只靠嘴唇 | **嘴唇 + 滑管** |
+| 管长变化 | 阀门接入附加管 | 滑管连续改变长度 |
+| 音准调整 | 口型、气流、调音管等 | 口型、气流与滑管位置 |
+| 滑奏 | 弯音、半阀等方法，限制随乐器而变 | 同一分音支线上的连续滑音 |
 
-所以长号在音准上其实比圆号"宽容" —— 它有一个可以连续调节的物理手段。
-圆号只有嘴唇。
+滑管能直接修正音高，但需要耳朵与手臂准确配合；阀门铜管也有调音管、口型等修正手段，圆号还使用右手调节。不能据此给两者的整体难度排顺序。
 
 ## 音域
 
@@ -153,11 +150,9 @@ updated: 2026-09-26
 {"range":"E2–B♭4","common":"E2–F4","caption":"次中音长号的音域","caption_en":"Tenor trombone range","note":"长号是降 B 调乐器，但按 C 调实音记谱（不用移调）—— 这是它与小号族最重要的记谱差别。标准音域 E2–B♭4；高音区可上探至 F5 甚至更高。"}
 ```
 
-- 实音 E2–B♭4，约两个八度多一点。
-- 常用区 E2–F4：它的工作重心在中低音区，是管弦乐低音声部的中坚。
-- 高音区（B♭4 以上） 需要专门练习，但爵士长号大量使用 ——
-  爵士里那种"高音区快速跑动"是长号的一项现代技艺。
-- 低音区（E2 以下） 需要加装阀门（F 附属管）才能到达。
+- 次中音长号常规低音可到 E2，高音上限随演奏者与曲目而变；B♭4 并非硬性上限。
+- 无 F 附属管也能奏出 B♭1 等踏板音，因此“低于 E2 都必须加阀门”不成立。
+- F 附属管主要帮助连接踏板区与常规低音区之间的空档，也提供替代把位。
 
 ## 音色与听辨
 
@@ -177,14 +172,9 @@ updated: 2026-09-26
 
 ## 演奏技法
 
-- 滑音（glissando）：长号的招牌。把滑管连续推拉，可得到真正的连续滑音 ——
-  这不只是效果，也是爵士长号的一种语言。
-- 把位与替用把位（alternate positions）：同一个音常有两个不同把位可选
-  （因为不同把位的泛音列会重叠）。演奏者用替用把位来减少滑管移动距离，
-  这是快速乐句的技术关键。
-- 双吐与三吐：与其他铜管共通，但长号的把位移动会限制速度。
-- 弱音器：Straight / Cup / Harmon / Plunger 等 —
-  Plunger（活塞式弱音器） 在爵士里产生"哇哇"音，是长号的标志性效果。
+- 连续滑音须留在同一分音支线上；第一到第七把位最多跨减五度。跨越不同分音不能仅靠滑管变成任意长的无缝滑音。
+- 替用把位可减少移动距离，但必须同时检查响应、音准与连奏方向。
+- 双吐、三吐与弱音器提供不同的起音和音色。Plunger 是皮碗式弱音器，与小号的活塞阀不是一回事。
 
 ## 家族与近亲
 
@@ -234,9 +224,7 @@ updated: 2026-09-26
 长号族往下是 [[instrument:bass-trombone|低音长号]]（加装阀门、管径更粗），
 再往下是铜管组的低音基础 [[instrument:tuba|大号]]。
 
-想对照"另一种管长改变方式"，就回看 [[instrument:trumpet|小号]]（三活塞）
-与 [[instrument:french-horn|圆号]]（旋转阀 + 漏斗号嘴）——
-三条路分别对应"离散""连续""无阀门"三种解法。
+三者可用于比较滑管、阀门与不同号嘴/管形的组合；现代圆号有阀门，不属于“无阀门”的第三条路。
 
 :::
 
@@ -255,12 +243,7 @@ a design that has barely changed in 500 years.
 | **Family** | Western · Brass (trombone family) |
 | **Bayin** | Not applicable — a Chinese system; the trombone is outside it |
 
-> ⚠️ One conceptual point: **the trombone is an instrument in B♭, yet it is written in C at sounding
-> pitch.** Its fundamental is B♭ (like a [[instrument:trumpet|B♭ trumpet]]), but orchestral parts are
-> not transposed — what you read is what sounds.
-> So the notational convention of an instrument can only be looked up, never inferred from its key —
-> a point already met in the woodwind batch (the [[instrument:oboe-damore|oboe d'amore]] is in A yet written
-> at pitch).
+> The open fundamental of a B♭ tenor trombone is B♭1, but orchestral parts normally use concert pitch. British brass-band tenor parts often use transposing B♭ treble clef, so check the convention of the part. Oboe d’amore in A normally sounds a minor third lower and is not an example of non-transposing notation.
 
 ## Structure: slide, positions and bell
 
@@ -345,15 +328,13 @@ Three points:
 
 Positions versus valves:
 
-| | Valved brass | Trombone |
+| Comparison | Valved brass | Slide trombone |
 |---|---|---|
-| How length changes | fixed extra lengths switched in | **continuous push-pull** |
-| Lengths available | seven (discrete) | **infinitely many (continuous)** |
-| Can it glide | no (only quick changes) | **yes** |
-| Pitch correction | lip only | **lip + slide** |
+| Tube length | valves add tubing | continuously varied by the slide |
+| Pitch adjustment | embouchure, air and tuning slides | embouchure, air and slide position |
+| Gliding effects | bends and half-valve effects, with instrument-specific limits | continuous slide glissando along one partial |
 
-So the trombone is actually more forgiving than the horn on intonation — it has a continuously
-adjustable physical means. The horn has only the lips.
+The slide directly adjusts pitch but requires accurate coordination of ear and arm. Valved brass also uses tuning slides and embouchure, while horn players adjust the right hand too. These mechanisms do not rank the overall difficulty of the instruments.
 
 ## Range
 
@@ -361,11 +342,9 @@ adjustable physical means. The horn has only the lips.
 {"range":"E2–B♭4","common":"E2–F4","caption":"次中音长号的音域","caption_en":"Tenor trombone range","note":"长号是降 B 调乐器，但按 C 调实音记谱（不用移调）—— 这是它与小号族最重要的记谱差别。标准音域 E2–B♭4；高音区可上探至 F5 甚至更高。"}
 ```
 
-- Sounding E2–B♭4, a little over two octaves.
-- The working register is E2–F4; its weight is low-middle, the backbone of the orchestral bass line.
-- Above B♭4 needs dedicated practice, yet jazz trombone uses it heavily — high-register runs are a
-  modern trombone skill.
-- Below E2 requires an added valve (an F attachment).
+- The tenor trombone’s ordinary low register reaches E2; the top depends on player and repertoire, so B♭4 is not a hard ceiling.
+- A plain slide trombone can also play pedal tones such as B♭1, without an F attachment.
+- The F attachment helps bridge the gap between the pedal and ordinary low registers and provides alternate positions.
 
 ## Timbre, and how to hear it
 
@@ -386,13 +365,9 @@ Four cues:
 
 ## Playing techniques
 
-- Glissando, the trombone's signature: continuously pulling the slide gives a true glide — not just
-  an effect but a language, especially in jazz.
-- Alternate positions: many notes are available in two different positions (the series overlap).
-  Players use the alternative to shorten the slide's travel, which is the technical key to fast passages.
-- Double and triple tonguing, shared with other brass, though slide movement limits speed.
-- Mutes: straight, cup, harmon and plunger. The plunger creates the jazz "wah-wah", a trombone
-  trademark.
+- A continuous slide glissando stays on one partial. Positions 1–7 span at most a diminished fifth; changing partials cannot be made into an arbitrarily long seamless slide by the slide alone.
+- Alternate positions reduce travel but also require checks of response, pitch and legato direction.
+- Double or triple tonguing and mutes offer different attacks and colours. A plunger mute is a cup-like external mute, not a piston valve.
 
 ## The family
 
@@ -443,7 +418,5 @@ It is a rare case in instrument history where a design was right the first time.
 Below the tenor sit the [[instrument:bass-trombone|bass trombone]] (a valve, a wider bore) and then the
 group's bass foundation, the [[instrument:tuba|tuba]].
 
-To compare the other ways of changing length, revisit the [[instrument:trumpet|trumpet]] (three valves) and
-the [[instrument:french-horn|horn]] (rotary valves and a funnel mouthpiece) — three paths: discrete,
-continuous, and none at all.
+Compare their slides, valves, mouthpieces and bores. A modern horn has valves and does not represent a third, valveless route.
 :::

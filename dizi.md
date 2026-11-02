@@ -4,8 +4,8 @@ site: inst
 cat: I7
 title: 笛子
 title_en: Dizi
-summary: 一根竹管、一个吹孔、一个膜孔、六个孔 —— 一片芦苇膜就是它区别于长笛的地方
-summary_en: One bamboo tube, a blow hole, a membrane hole and six finger holes — and a reed membrane that no Western flute has
+summary: 常见形制有吹孔、膜孔与六个按音孔，笛膜参与形成音色
+summary_en: A common form has an embouchure hole, a membrane hole and six finger holes; the membrane contributes to timbre
 level: standard
 tags: [乐器, 吹管, 气鸣, 中国, 八音]
 tags_en: [instrument, wind, aerophone, Chinese, bayin]
@@ -34,7 +34,7 @@ sources:
   - 「改良形制：七孔笛可转五种调 · 九孔笛可演奏半音阶 · 十孔笛可奏十二个半音」依通行资料
   - 「河南舞阳贾湖出土的骨笛距今约九千年，是迄今发现最早的吹奏乐器之一；笛由竖吹变为横吹、由骨变为竹」依考古与乐器史
   - 「笛子属于八音中的**竹**」依通行资料
-updated: 2026-09-26
+updated: 2026-11-02
 ---
 
 ::: zh
@@ -48,7 +48,7 @@ updated: 2026-09-26
 | 次级类型 | 竹制，横吹，一个吹孔、一个膜孔、六个按音孔，无键 |
 | 八音：竹 | 以竹为管 |
 
-## 一根竹管，七个小孔
+## 吹孔、膜孔与六个按音孔
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="笛子的结构：一节竹管上从左到右依次是一个吹孔、一个贴着笛膜的膜孔、六个按音孔和两个出音孔">
@@ -163,7 +163,7 @@ The dizi has no strings. The entries before it, guqin, erhu, pipa, were all ques
 | Sub-type | bamboo, transverse, one blow hole, one membrane hole, six finger holes, keyless |
 | Bayin | bamboo (竹) |
 
-## One tube, seven small holes
+## Embouchure hole, membrane hole and six finger holes
 
 ```svg
 <svg viewBox="0 0 640 300" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Structure of a dizi: along one length of bamboo tube there are, from left to right, a blow hole, a membrane hole covered by a reed membrane, six finger holes and two end holes">
